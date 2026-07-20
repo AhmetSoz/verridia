@@ -21,7 +21,7 @@
 
 **Granitler:** Kaya-Baba Thorgar, Yrsa, Finnan.
 
-**Kor-Ateşler:** Kül-Peygamberi (kimlik gizli), "Kızıl El" Torg.
+**Kor-Ateşler:** Kül-Peygamberi (kimlik gizli), "Kızıl El" Torg, Yeşil-Göz Sable (yarı-dönüşmüş, olası "ikinci anahtar," kitap3_kisim3 — henüz tanışılmadı).
 
 **Hayvanlar:** Burkut (Togan'ın kartalı), Bozkır (Togan'ın atı — 1. Kısım'da serbest bırakıldı), Fırtına (Kaya'nın kartalı).
 

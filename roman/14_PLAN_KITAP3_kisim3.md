@@ -39,13 +39,19 @@ Togan'ın Kaya'nın mezarını ziyareti, duygusal bir kapanış/yeniden başlang
 15. **Karia** — bolum15 — Coren'in güvenilirliğini test etme planı: doğrulanabilir küçük bilgi isteniyor (Ferrin'in "emekliye ayrılması") — doğrulanıyor; adım adım güven inşası kararı. ✅
 16. **Zaleena** — bolum16 — İkinci doğrulama (Delta devriye rotaları) da doğru çıkıyor; İttifak, karşılığında küçük bir jest sunuyor (devriye azaltma); **Delta'yla ilk gerçek iş birliği başlıyor** — "belki beşinci bir müttefik." ✅
 
-## SIRADAKİ ÖNCELİK (16 bölüm tamamlandı)
-- **Coren Vex / Delta iş birliği** yeni açılan, umut verici ama hâlâ temkinli bir hat — Amara'nın bundan haberi yok, bu ne zaman/nasıl değişecek belirsiz.
-- Togan'ın Kor-Ateşler'e yolculuğu ve "ikinci anahtar" arayışı sürüyor.
-- **⚠️ Büyük Döngü hızlanıyor olabilir** — hâlâ en acil, çözülmemiş gerilim hattı.
-- Malakor, Delta içindeki itibar kaybıyla nasıl başa çıkacak — açık, potansiyel olarak tehlikeli bir tepki bekleniyor.
+17. **Togan** — bolum17 — Kor-Ateşler'e varış; "Kızıl El" Torg'un güvensizliği; Togan kendi yarasını paylaşarak güven kazanıyor; **Yeşil-Göz Sable** (yarı-dönüşmüş, olası ikinci anahtar) ismi öğreniliyor ama henüz tanışılmadı — Torg, Sable'ın kendi rızası olmadan zorlanmayacağını şart koşuyor. ✅
+18. **Temujin** — bolum18 — Coren'in bilgisi: Malakor'un Delta konseyindeki gücü gerçekten sarsılıyor; Temujin agresif değil sabırlı bir strateji seçiyor (Coren'i tehlikeye atmamak için). ✅
+19. **Karia** — bolum19 — Meziyet meclisleri muhalefet topluyor (Lord Cedric Hallis); Karia, Vorlag dersini uygulayıp Hallis'i dinliyor; Hallis'in "dışarıdan denetim" önerisini kabul edip alenen teşekkür ediyor — eleştiriyi katkıya çeviriyor. ✅
+20. **Zaleena** — bolum20 — Deniz taşı üç aylık sessizlikten sonra tek ama en güçlü parıltısını veriyor; Serel'in arşiv kaydı: bu, geçmiş döngülerde "aktif faza" giriş işareti; dört toprak arasında "Ortak Uyarı Ağı" (işaret ateşleri) kuruluyor. ✅ **[DÖNGÜ AKTİF FAZA GİRİYOR OLABİLİR]**
+
+## SIRADAKİ ÖNCELİK (20 bölüm tamamlandı)
+- **⚠️ En acil gerilim: Büyük Döngü "aktif faza" girmiş olabilir** — bir sonraki somut olay/kriz beklenmeli.
+- Yeşil-Göz Sable ile tanışma henüz gerçekleşmedi — Togan'ın bir sonraki adımı.
+- Coren Vex / Delta iş birliği sürüyor, Amara'nın haberi hâlâ yok.
+- Malakor'un Delta içindeki itibar kaybına tepkisi — açık, potansiyel tehlikeli bir hamle bekleniyor.
+- Karia'nın "dışarıdan denetim" ilkesi, meziyet sisteminin uzun vadeli sağlığı için önemli bir emniyet supabı oldu.
 - Sube ve Temir'in durumu hâlâ tam işlenmedi.
-- Deniz taşının "kısa parıltısı" ile hızlanan döngü teorisi arasındaki bağlantı hâlâ geliştirilmedi.
+- Bu Kısım, 20 bölümde, bir sonraki büyük olayla (döngünün aktif fazı) doğal bir kapanışa yaklaşıyor olabilir.
 
 ## Not
 Kalite kuralları + Karanlık Dönüş Mandası her bölümde geçerli. Her bölüm sonrası: dedi-X ≤4, klişe kapanış grep (Zaleena için "suya/denize baktı" Kısım başına 1 kez sınırı dahil), zarf tiki kontrol, isim sicili kontrol (YENİ: sıradan Türkçe kelimeleri isim yapmaktan kaçın — "Oyun" hatası iki kez yaşandı), Kaya ASLA canlı sahnede, Karakçı ASLA canlı sahnede.
