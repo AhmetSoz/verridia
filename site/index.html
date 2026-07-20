@@ -40,7 +40,6 @@
     <div class="ust-yazi">Kuzeyi ışıkla mühürlü, üç yanı okyanus</div>
     <h1 id="baslik-h1">VERRIDIA</h1>
     <p class="alt-yazi">Kendi kendine kilitlenmiş bir dünya — ve kaçacak yer yok.</p>
-    <div class="ipucu">Sürükle · Tekerlekle yakınlaş · Altın noktalara dokun</div>
   </div>
 
   <!-- Üst çubuk -->
@@ -113,20 +112,27 @@
     </div>
   </aside>
 
-  <!-- Mekân modalı -->
-  <div class="modal" id="mekan-modal">
-    <div class="modal-ic">
-      <button class="modal-kapat" id="modal-kapat">Kapat ✕</button>
-      <div class="modal-medya">
-        <video id="modal-video" muted playsinline preload="none"></video>
-        <img class="son-kare" id="modal-img" alt="">
-      </div>
-      <div class="modal-bilgi">
-        <h3 id="modal-ad"></h3>
-        <span class="halk" id="modal-halk"></span>
-        <p id="modal-metin"></p>
-      </div>
+  <!-- Hover bilgi kartı (pin üzerine gelince) -->
+  <div id="hover-kart">
+    <img id="hk-img" alt="">
+    <div class="ic">
+      <div class="halk" id="hk-halk"></div>
+      <h4 id="hk-ad"></h4>
+      <p id="hk-metin"></p>
+      <div class="tik">Tıkla — sinematik geçiş</div>
     </div>
+  </div>
+
+  <!-- Mekân: tam ekran sinematik -->
+  <div class="modal" id="mekan-modal">
+    <video id="modal-video" muted playsinline preload="none"></video>
+    <img class="son-kare" id="modal-img" alt="">
+    <div class="modal-alt">
+      <div class="halk" id="modal-halk"></div>
+      <h3 id="modal-ad"></h3>
+      <p id="modal-metin"></p>
+    </div>
+    <button class="modal-kapat" id="modal-kapat">✕</button>
   </div>
 
   <script src="assets/vendor/gsap.min.js"></script>
