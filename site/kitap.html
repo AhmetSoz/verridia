@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VERRIDIA — Kitap</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/kitap.css">
+</head>
+<body>
+
+  <div id="ilerleme"></div>
+
+  <header class="okuyucu-bar">
+    <a class="geri" href="index.html">← VERRIDIA</a>
+    <div class="konum" id="bar-konum"></div>
+    <div class="araclar">
+      <button id="btn-kenar" title="İçindekiler">☰</button>
+      <button id="btn-kucult" title="Yazıyı küçült">A−</button>
+      <button id="btn-buyut" title="Yazıyı büyüt">A+</button>
+      <button id="btn-tema" title="Tema değiştir">☀</button>
+    </div>
+  </header>
+
+  <div class="duzen">
+    <aside id="kenar">
+      <div class="kenar-ic"></div>
+    </aside>
+
+    <main id="icerik">
+      <article class="sayfa">
+        <header class="bolum-ust">
+          <div class="kisim-etiketi" id="kisim-etiketi"></div>
+          <h1 id="bolum-baslik"></h1>
+          <div class="pov" id="bolum-pov"></div>
+          <div class="sus">✦ ✦ ✦</div>
+        </header>
+
+        <div class="govde" id="govde"></div>
+
+        <nav class="gezinme">
+          <button id="btn-onceki">
+            <span class="yon">← Önceki</span>
+            <span class="hedef"></span>
+          </button>
+          <button id="btn-sonraki">
+            <span class="yon">Sonraki →</span>
+            <span class="hedef"></span>
+          </button>
+        </nav>
+      </article>
+    </main>
+  </div>
+
+  <script src="assets/js/kitap-data.js"></script>
+  <script src="assets/js/okuyucu.js"></script>
+</body>
+</html>

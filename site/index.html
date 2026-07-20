@@ -1,300 +1,151 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>VERRIDIA — Dünya Haritası</title>
-<style>
-  :root{
-    --gold:#c9a227; --gold-soft:#e8d9a0; --ink:#1a1410; --parch:#d8c9a3;
-    --panel:#141210; --panel-edge:#3a2f1d;
-  }
-  *{margin:0;padding:0;box-sizing:border-box}
-  html,body{height:100%;overflow:hidden;background:#0b0a08;font-family:Georgia,'Times New Roman',serif;color:var(--parch)}
-
-  /* ---------- ÜST BAR ---------- */
-  header{
-    position:fixed;top:0;left:0;right:0;z-index:50;height:56px;
-    display:flex;align-items:center;justify-content:space-between;padding:0 22px;
-    background:linear-gradient(180deg,rgba(10,8,5,.92),rgba(10,8,5,.55) 80%,transparent);
-    pointer-events:none;
-  }
-  header .logo{font-size:26px;letter-spacing:.35em;color:var(--gold-soft);text-shadow:0 0 18px rgba(201,162,39,.35);pointer-events:auto}
-  header .hint{font-size:12.5px;opacity:.55;font-style:italic;pointer-events:auto}
-
-  /* ---------- HARİTA SAHNESİ ---------- */
-  #stage{position:fixed;inset:0;cursor:grab;overflow:hidden;background:
-    radial-gradient(ellipse at center,#171310 0%,#0b0a08 75%)}
-  #stage.dragging{cursor:grabbing}
-  #world{position:absolute;top:0;left:0;transform-origin:0 0;will-change:transform}
-  #mapimg{display:block;user-select:none;-webkit-user-drag:none;pointer-events:none;
-    box-shadow:0 0 120px rgba(0,0,0,.9), 0 0 40px rgba(201,162,39,.06)}
-  #map-missing{
-    width:1200px;height:800px;display:flex;flex-direction:column;gap:14px;align-items:center;justify-content:center;
-    border:1px dashed #5a4a2a;background:repeating-linear-gradient(45deg,#161310,#161310 14px,#131009 14px,#131009 28px);
-    color:#8f7c50;text-align:center;padding:40px;
-  }
-  #map-missing b{color:var(--gold-soft);font-size:20px;letter-spacing:.15em}
-  #map-missing code{background:#000;padding:2px 8px;border-radius:4px;color:#d8c9a3}
-
-  /* ---------- HOTSPOTLAR ---------- */
-  .hotspot{
-    position:absolute;transform:translate(-50%,-50%) scale(var(--inv,1));transform-origin:center;
-    display:flex;flex-direction:column;align-items:center;gap:4px;cursor:pointer;z-index:5;
-  }
-  .hotspot .dot{
-    width:14px;height:14px;border-radius:50%;
-    background:radial-gradient(circle,#ffe9a8 0%,var(--gold) 55%,#7a5d12 100%);
-    box-shadow:0 0 10px 3px rgba(201,162,39,.55);
-    transition:transform .18s ease, box-shadow .18s ease;
-  }
-  .hotspot .tag{
-    font-size:13px;letter-spacing:.12em;color:var(--gold-soft);white-space:nowrap;
-    background:rgba(10,8,5,.72);padding:3px 10px;border:1px solid rgba(201,162,39,.35);border-radius:3px;
-    opacity:0;transform:translateY(-4px);transition:opacity .18s ease,transform .18s ease;pointer-events:none;
-  }
-  .hotspot:hover .dot{transform:scale(1.5);box-shadow:0 0 18px 6px rgba(201,162,39,.8)}
-  .hotspot:hover .tag{opacity:1;transform:translateY(0)}
-
-  /* ---------- SİS / BULUT GEÇİŞİ (video yoksa yedek) ---------- */
-  #fog{position:fixed;inset:0;z-index:80;pointer-events:none;opacity:0;background:
-    radial-gradient(ellipse at 30% 40%, rgba(235,235,235,.95), rgba(200,200,205,.9) 40%, rgba(160,160,168,.95) 100%);
-    filter:blur(2px);transition:opacity .9s ease}
-  #fog.on{opacity:1}
-
-  /* ---------- VİDEO KATMANI ---------- */
-  #vidlayer{position:fixed;inset:0;z-index:90;background:#000;display:none;align-items:center;justify-content:center}
-  #vidlayer.on{display:flex}
-  #vidlayer video{width:100%;height:100%;object-fit:cover}
-  #skip{position:absolute;bottom:26px;right:30px;z-index:91;background:rgba(0,0,0,.5);color:var(--gold-soft);
-    border:1px solid rgba(201,162,39,.5);padding:8px 18px;font-family:inherit;font-size:14px;letter-spacing:.1em;cursor:pointer}
-  #skip:hover{background:rgba(201,162,39,.2)}
-
-  /* ---------- BÖLGE PANELİ ---------- */
-  #region{position:fixed;inset:0;z-index:70;display:none;overflow-y:auto;background:#0b0a08}
-  #region.on{display:block}
-  #region .hero{position:relative;height:62vh;min-height:340px;background:#000;overflow:hidden}
-  #region .hero img{width:100%;height:100%;object-fit:cover;display:block}
-  #region .hero .noimg{width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:#6b5a36;
-    background:repeating-linear-gradient(45deg,#141110,#141110 14px,#100d09 14px,#100d09 28px);font-style:italic}
-  #region .hero::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,10,8,.35),transparent 30%,transparent 55%,#0b0a08 100%)}
-  #region .body{max-width:860px;margin:-70px auto 0;position:relative;z-index:2;padding:0 26px 90px}
-  #region h1{font-size:40px;letter-spacing:.18em;color:var(--gold-soft);text-shadow:0 2px 20px rgba(0,0,0,.9)}
-  #region h2{font-size:15px;letter-spacing:.28em;color:#9c8657;margin:6px 0 26px;font-weight:normal;text-transform:uppercase}
-  #region p{font-size:17.5px;line-height:1.85;color:#cfc3a4;margin-bottom:18px;text-align:justify}
-  #region .quote{border-left:2px solid var(--gold);padding:10px 20px;margin:26px 0;font-style:italic;color:#b3a67f;background:rgba(201,162,39,.05)}
-  #back{position:fixed;top:14px;left:18px;z-index:75;background:rgba(10,8,5,.7);color:var(--gold-soft);
-    border:1px solid rgba(201,162,39,.5);padding:9px 20px;font-family:inherit;font-size:14px;letter-spacing:.12em;cursor:pointer;display:none}
-  #back:hover{background:rgba(201,162,39,.18)}
-  #region.on ~ #back{display:block}
-
-  /* ---------- KALİBRASYON ---------- */
-  #calib{position:fixed;bottom:14px;left:16px;z-index:60;font-size:12.5px;color:#7fdc9a;background:rgba(0,0,0,.72);
-    padding:7px 12px;border:1px solid #2c5a3a;border-radius:4px;display:none;font-family:Consolas,monospace}
-  #calib.on{display:block}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VERRIDIA — Kendi Kendine Kilitlenmiş Dünya</title>
+  <meta name="description" content="Verridia: dört yol, tek gökyüzü. Bir fantastik seri — külliyat, haritalar ve roman.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/stil.css">
 </head>
 <body>
 
-<header>
-  <div class="logo">V E R R I D I A</div>
-  <div class="hint">Sürükle: gezin &nbsp;·&nbsp; Tekerlek: yakınlaş &nbsp;·&nbsp; Noktaya tıkla: bölgeye in</div>
-</header>
+  <!-- Yükleme perdesi -->
+  <div id="perde"><div class="isim">VERRIDIA</div></div>
 
-<div id="stage">
-  <div id="world">
-    <img id="mapimg" alt="Verridia haritası" draggable="false">
-    <div id="map-missing" style="display:none">
-      <b>HARİTA BEKLENİYOR</b>
-      <div>Onayladığın harita görselini şu adla bu klasöre koy:</div>
-      <div><code>site/assets/harita.jpg</code> &nbsp;(veya .png)</div>
-      <div style="opacity:.6;font-size:13px">Koyduğun an sayfayı yenile — harita ve noktalar belirecek.</div>
+  <!-- Üst çubuk -->
+  <header class="ustbar">
+    <a class="marka" href="#">VERRIDIA</a>
+    <nav>
+      <a href="#dunya">Dünya</a>
+      <a href="#harita">Harita</a>
+      <a href="#dortyol">Dört Yol</a>
+      <a class="oku-btn" href="kitap.html">Kitabı Oku</a>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="katman harita-katmani"></div>
+    <div class="katman karartma"></div>
+    <div class="katman bulut b1"></div>
+    <div class="katman bulut b2"></div>
+    <div class="hero-icerik">
+      <div class="ust-yazi">Kuzeyi ışıkla mühürlü, üç yanı okyanus</div>
+      <h1>VERRIDIA</h1>
+      <p class="alt-yazi">Kendi kendine kilitlenmiş bir dünya — ve kaçacak yer yok.</p>
     </div>
-    <div id="spots"></div>
+    <div class="asagi-ok">▾</div>
+  </section>
+
+  <!-- DÜNYA -->
+  <section class="bolum" id="dunya">
+    <div class="dar">
+      <div class="bolum-etiket gizli">Külliyat</div>
+      <h2 class="bolum-baslik gizli gecikme-1">Bir kıta, bir mühür,<br>ve yaklaşan bir döngü.</h2>
+      <p class="bolum-aciklama gizli gecikme-2">
+        Verridia'nın kuzeyi, yerden göğe yükselen altınımsı bir ışık perdesiyle — Işık Seddi'yle — kapalıdır.
+        Batıda Hegemonya'nın taş sarayları, kıtanın kalbinde bozkırın atlı klanları, güneydoğuda Delta'nın
+        fısıltıyla yönetilen su yolları, doğuda korsanların yamalı limanları... Ve hepsinin üzerinde,
+        yirmi sekiz yılda bir dönen Kızıl Akıntı'nın gölgesi.
+      </p>
+      <div class="sayilar">
+        <div class="sayi gizli"><div class="deger" data-hedef="400">0</div><div class="ad">Fersah Genişlik</div></div>
+        <div class="sayi gizli gecikme-1"><div class="deger" data-hedef="28">0</div><div class="ad">Yıllık Döngü</div></div>
+        <div class="sayi gizli gecikme-2"><div class="deger" data-hedef="266">0</div><div class="ad">Bölüm</div></div>
+        <div class="sayi gizli gecikme-3"><div class="deger" data-hedef="117" data-ek=" bin">0</div><div class="ad">Kelime</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HARİTA -->
+  <section class="bolum" id="harita">
+    <div class="dar">
+      <div class="bolum-etiket gizli">Harita</div>
+      <h2 class="bolum-baslik gizli gecikme-1">Kıtayı Gez</h2>
+      <p class="bolum-aciklama gizli gecikme-2">
+        Haritadaki işaretlere ya da aşağıdaki kartlara dokun — her mekân, kendi geçiş animasyonuyla açılır.
+      </p>
+      <div class="harita-sahne gizli gecikme-2" id="harita-sahne">
+        <img class="ana" src="assets/img/ana-harita.png" alt="Verridia kıta haritası">
+      </div>
+      <div class="mekan-grid" id="mekan-grid"></div>
+    </div>
+  </section>
+
+  <!-- DÖRT YOL (Karakterler) -->
+  <section class="bolum" id="dortyol">
+    <div class="dar">
+      <div class="bolum-etiket gizli">Dört Yol</div>
+      <h2 class="bolum-baslik gizli gecikme-1">Dört hayat, tek gökyüzü.</h2>
+      <p class="bolum-aciklama gizli gecikme-2">
+        Roman, dört ayrı gözden anlatılır — dört ayrı toprağın, dört ayrı kaderin dönüşümlü sesiyle.
+      </p>
+      <div class="karakterler-grid">
+        <div class="karakter gizli" style="--renk: var(--togan)">
+          <div class="muhur">۞</div>
+          <h3>Togan</h3>
+          <div class="unvan">Nöbetçi · Saf Olmayan Kan</div>
+          <p>Kartal-Yurdu'nda büyüyen, damarlarında dünyanın en tehlikeli sırrını taşıyan genç adam. Sezgisi bir armağan — ve ona yaklaşan herkes için bir lanet.</p>
+        </div>
+        <div class="karakter gizli gecikme-1" style="--renk: var(--temujin)">
+          <div class="muhur">⚔</div>
+          <h3>Temujin</h3>
+          <div class="unvan">Genç Kurtlar'ın Kurucusu</div>
+          <p>Sürgünden ittifak mimarlığına: soğuk hesabın ve sabrın adamı. Korkuyla değil sadakatle yönetir — ama sadakatin de bir bedeli olduğunu öğrenir.</p>
+        </div>
+        <div class="karakter gizli gecikme-2" style="--renk: var(--karia)">
+          <div class="muhur">♛</div>
+          <h3>Karia</h3>
+          <div class="unvan">Hegemonya Kraliçesi</div>
+          <p>Kanla korunmuş bir tahtı, liyakatle yeniden kuran kraliçe. Gücün insanı her gün, fark ettirmeden insanlıktan uzaklaştırdığını herkesten iyi bilir.</p>
+        </div>
+        <div class="karakter gizli gecikme-3" style="--renk: var(--zaleena)">
+          <div class="muhur">⚓</div>
+          <h3>Zaleena</h3>
+          <div class="unvan">Enkaz Kraliçesi</div>
+          <p>Yüz enkazdan yamanmış bir şehrin sessiz hükümdarı. Otuz yıllık bir bayrak hayalini kıtasal bir ittifaka dönüştürdü — şimdi denizin dibindeki ışıltıyı izliyor.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- KİTAP CTA -->
+  <section class="bolum kitap-cta" id="kitap">
+    <div class="dar">
+      <div class="bolum-etiket gizli">Roman</div>
+      <h2 class="bolum-baslik gizli gecikme-1">Üç kitap. On dört kısım.<br>266 bölüm.</h2>
+      <p class="buyuk-soz gizli gecikme-2">
+        "Dört Bayrak hâlâ dalgalanıyordu. Ama artık, altlarında duran zeminin,
+        göründüğü kadar sağlam olmadığını biliyorlardı."
+      </p>
+      <a class="buton gizli gecikme-3" href="kitap.html">Okumaya Başla</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="marka">VERRIDIA</div>
+    <div>Külliyat · Haritalar · Roman — bir dünya inşası projesi</div>
+  </footer>
+
+  <!-- Mekân modalı -->
+  <div class="modal" id="mekan-modal">
+    <div class="modal-ic">
+      <button class="modal-kapat" id="modal-kapat">Kapat ✕</button>
+      <div class="modal-medya">
+        <video id="modal-video" muted playsinline preload="none"></video>
+        <img class="son-kare" id="modal-img" alt="">
+      </div>
+      <div class="modal-bilgi">
+        <h3 id="modal-ad"></h3>
+        <span class="halk" id="modal-halk"></span>
+        <p id="modal-metin"></p>
+      </div>
+    </div>
   </div>
-</div>
 
-<div id="fog"></div>
-
-<div id="vidlayer">
-  <video id="vid" playsinline></video>
-  <button id="skip">Geç ➤</button>
-</div>
-
-<div id="region">
-  <div class="hero" id="hero"></div>
-  <div class="body">
-    <h1 id="r-title"></h1>
-    <h2 id="r-sub"></h2>
-    <div class="quote" id="r-quote"></div>
-    <div id="r-text"></div>
-  </div>
-</div>
-<button id="back">◀ Haritaya Dön</button>
-
-<div id="calib">KALİBRASYON AÇIK — haritaya tıkla, koordinat panoya kopyalanır. Kapat: K</div>
-
-<script>
-/* =====================================================================
-   BÖLGE VERİSİ
-   x,y = haritadaki % konum (sol-üst köşeden). Kalibrasyon: K tuşu.
-   img  : assets/bolge/<id>.jpg   |  video: assets/video/<id>.mp4
-===================================================================== */
-const REGIONS = [
- { id:"metheris", x:11.5, y:60, name:"METHERIS", sub:"Aethelian Hegemonyası'nın Başkenti",
-   quote:"“Sis bizim perdemiz, gelgit bizim kılıcımızdır.” — III. Theodoric",
-   text:[
-    "Siyah fiyort kayalıklarına katman katman oyulmuş seksen bin canlık taş labirent. En tepede, tuz kaplı taht odasıyla Tuzlu Taht; en altta, Faelan gibi adamların krallığı olan lağım dehlizleri. Kıtanın en büyük şehri, en büyük donanması ve en derin paranoyası buradadır.",
-    "Hegemonya'nın bütün zenginliği tek bir hayale akar: kuzeydeki Şafak Kapısı'nı açmak. Sarayda üç kanat birbirini yer — gelenekçiler, yenilikçiler ve genç şahinler — ve yaşlı kralın vârisi yoktur. Beklenti Yılı'nın arifesinde Metheris, tarihinin en güçlü ve en kırılgan hâlindedir."
-   ]},
- { id:"yildiz-orsu", x:51, y:51, name:"YILDIZ-ÖRSÜ", sub:"Temürçiler'in Krater Şehri",
-   quote:"“Ateş yalan söylemez, çekiç yalan söylemez ve dövdüğümüz metal asla yalan söylemez.” — Usta Hekat",
-   text:[
-    "Gökten düşen yıldızın açtığı dev kraterin dibinde, iç içe halkalar hâlinde kurulmuş demirci şehri. Merkezinde, hâlâ işlenmeye devam eden ana meteor kütlesi: Büyük Örs. Geceleri kraterden yükselen kızıl parıltı, bozkırın ortasında yanan bir göz gibidir.",
-    "Kıtanın en iyi silahları burada dövülür ve bedelini ödeyen herkese satılır — Temürçiler'in bin yıllık tarafsızlığı hem ahlakları hem kalkanlarıdır. Ama kraterin en derin sırrını yalnızca ustalar bilir: yıldızın metali tükenmektedir."
-   ]},
- { id:"kartal-yurdu", x:46, y:59, name:"KARTAL-YURDU", sub:"Sungurlar'ın Kışlağı",
-   quote:"“Gök Bize Yol Gösterir, Rüzgâr Sır Fısıldar.”",
-   text:[
-    "Ak-Siper'in doğu eteklerinde, rüzgârdan korunaklı bir vadide kurulu yarı göçebe kışlak. Uçurumların üstünde, kanat açıklığı insan boyunu aşan bozkır kartalları döner — her biri bir Rüzgar-Dinleyen'in ömürlük yoldaşıdır ve kıtanın en hızlı haberleşme ağı onların kanatlarındadır.",
-    "Yirmi yedi yıl önce hanları bir yemin töreninde katledildi; klan o günden beri biliyor: yaklaşan hasat, bir hesaplaşma olacak. Gök-Göz Börü savaşa hazırlanıyor — ama intikam ile yuvayı aynı anda korumak, bozkırın en zor dengesidir."
-   ]},
- { id:"buyuk-ordugah", x:70, y:55, name:"BÜYÜK ORDUGÂH", sub:"Azgutlar'ın Savaş Kampı",
-   quote:"“Toprak Güçtür, Güç Haktır.”",
-   text:[
-    "Bozkırın doğusunda, bizon sürülerinin peşinde yer değiştiren hilal biçimli dev ordugâh: binlerce deri çadır, kemik totemler, zırhlı bizon ağılları ve ortada Han'ın kara deriden Büyük Savaş Çadırı. Burada statü, savaşta kanıtlanmış güçle ölçülür — Han'lık bile.",
-    "Gürz-Diş Korgan, bu hasatta bozkırı tek sancak altında birleştirmenin son adımını atmaya hazırlanıyor. Ama ordugâhın gölgesinde genç bir kurt büyüyor: Temujin'in ufkunda bozkırdan fazlası var."
-   ]},
- { id:"eski-kent", x:64, y:37, name:"ESKİ-KENT", sub:"Mirasçılar'ın Kütüphane Şehri",
-   quote:"“Hafıza Kırılmaz, Bilgi Kaybolmaz.”",
-   text:[
-    "Eskiler'in yıkık metropolünün enkazı üzerine taş taş kurulmuş münzevi şehir. Kırık cam-metal kuleler toprağın altından kaburga gibi fışkırır; ortalarında, ışığın asla tam giremediği Büyük Kütüphane durur. Kapıları gün batımında kendiliğinden kapanır — nasıl çalıştığını Mirasçılar da bilmez.",
-    "Burada para geçmez; cevaplar armağanla takas edilir. Ve en derin mahzendeki Mühür Odası'nda, iki yüz elli yıldır kimseye gösterilmemiş parşömenler uyur. Yaşlı Ozan'ın deyişiyle: bilgi kaybolmaz — ama saklanır."
-   ]},
- { id:"sazlik-taht", x:82, y:79, name:"SAZLIK TAHT", sub:"Rivan Deltası'nın Kalbi",
-   quote:"“Sert Olan Kırılır, Uyum Sağlayan Hükmeder.”",
-   text:[
-    "Sarmaşan'ın bin kollu ağzında, dev bataklık ağaçlarının canlı gövdelerine örülmüş saraylar — ağaç büyüdükçe odaları biçim değiştirir. Kanallar Savlakların bin yıllık ezberidir; rehbersiz giren yabancıyı ya sis yutar ya Çamur-Çene.",
-    "Delta'nın ordusu yoktur; Delta'nın kendisi bir silahtır. Zehir Konseyi'nin defterlerinde kıtanın yarısının borcu yazılıdır ve Bey Sarris'in mürekkebi, çoğu kılıçtan daha çok adam öldürmüştür."
-   ]},
- { id:"yamali-liman", x:87, y:62, name:"YAMALI LİMAN", sub:"Korsanların Enkaz Şehri",
-   quote:"“Gelgitin Getirdiğini Dalga Götüremez.”",
-   text:[
-    "Binlerce gemi enkazının üstüne ve içine kurulmuş şehir: gövdeler ev, direkler köprü, yelkenler damdır. Tek yasası vardır — hiçbir kaptanın gemisine izinsiz ayak basılmaz. Jilet Resifleri'nin ardında, kıtanın bütün kaçakları, tüccarları ve hainleri bu çamurlu rıhtımlarda buluşur.",
-    "Enkaz Kralı Tek-Kol Roric, tarihin en büyük yağması için kaptanları tek bayrak altına toplamaya çalışıyor. Ve Çatlak Kurukafa meyhanesinde bir gece, Metheris sarayında bir haftaya bedeldir — yeter ki doğru kulağa fısıldayacak parayı bul."
-   ]},
- { id:"valerius-gecidi", x:35, y:56, name:"VALERIUS GEÇİDİ", sub:"Granit Klanları'nın Kapısı",
-   quote:"“Rüzgâr bağırır, çığ düşer, imparatorluklar toza döner. Dağ ise kalır. Biz, dağın kendisiyiz.”",
-   text:[
-    "Kıtanın iki yarısını bağlayan tek büyük kapı. Geçidin duvarlarında Bin Mızrak Savaşı'nın paslı ok başları hâlâ durur; rüzgâr estiğinde metal, hüzünlü bir melodi çalar. Kervan geçer, ordu geçmez — bu kural iki yüzyıldır hiç esnetilmedi.",
-    "Geçidin üstündeki kayalığın içinde Derin-Yuva uyur: dağa oyulmuş, dışarıdan yalnızca kapısı ve duman delikleri görünen bir şehir. Granitler değişmeden dayanmayı bilir — ama dağın derinliklerinden son mevsimlerde yeni bir ses geliyor ve şamanlar ilk kez tedirgin."
-   ]},
- { id:"isik-seddi", x:53, y:12, name:"IŞIK SEDDİ", sub:"Dünyanın Sonu — Şafak Kapısı",
-   quote:"“Anahtar, Akıntı'nın kalbinde değil, onun yarattığı sessizliktedir.” — Mirasçı şifresi",
-   text:[
-    "Karanın bittiği yerde, yerden göğe yükselen altınımsı beyaz ışık perdesi. Maddesel değildir; dokunana hafif bir sıcaklık ve titreşim bırakır, ama geçit vermez. Ortasında, üzerinde anlaşılmaz semboller akan dev kapı silüeti: Şafak Kapısı.",
-    "Hegemonya için kayıp cennetin kapısı, bozkır için tanrıların sınırı, Delta için çözülecek nihai formül, korsanlar için en büyük hazine. Ve önündeki ölü topraklarda gecelenen her gece, herkese aynı rüyayı gösterdiği söylenir: beyaz bir odada bekleyen boş bir iskemle."
-   ]}
-];
-
-/* ============================ HARİTA MOTORU ============================ */
-const stage=document.getElementById('stage'), world=document.getElementById('world'),
-      img=document.getElementById('mapimg'), spots=document.getElementById('spots'),
-      missing=document.getElementById('map-missing');
-let scale=1, min=0.2, max=8, tx=0, ty=0, mapW=1200, mapH=800, ready=false;
-
-function apply(){
-  world.style.transform=`translate(${tx}px,${ty}px) scale(${scale})`;
-  document.querySelectorAll('.hotspot').forEach(h=>h.style.setProperty('--inv',(1/scale).toFixed(4)));
-}
-function fit(){
-  const vw=innerWidth, vh=innerHeight;
-  scale=Math.min(vw/mapW, vh/mapH)*0.96; min=scale*0.6;
-  tx=(vw-mapW*scale)/2; ty=(vh-mapH*scale)/2; apply();
-}
-function buildSpots(){
-  spots.innerHTML='';
-  REGIONS.forEach(r=>{
-    const el=document.createElement('div'); el.className='hotspot';
-    el.style.left=(r.x/100*mapW)+'px'; el.style.top=(r.y/100*mapH)+'px';
-    el.innerHTML=`<div class="tag">${r.name}</div><div class="dot"></div>`;
-    el.addEventListener('click',e=>{e.stopPropagation(); enter(r);});
-    spots.appendChild(el);
-  });
-}
-const tryList=['assets/harita.jpg','assets/harita.png','assets/harita.jpeg','assets/harita.webp'];
-(function loadMap(i){
-  if(i>=tryList.length){ missing.style.display='flex'; mapW=1200; mapH=800; buildSpots(); fit(); return; }
-  const t=new Image();
-  t.onload=()=>{ img.src=t.src; mapW=t.naturalWidth; mapH=t.naturalHeight; ready=true; buildSpots(); fit(); };
-  t.onerror=()=>loadMap(i+1);
-  t.src=tryList[i];
-})(0);
-
-/* pan */
-let drag=false,lx=0,ly=0;
-stage.addEventListener('mousedown',e=>{drag=true;lx=e.clientX;ly=e.clientY;stage.classList.add('dragging')});
-addEventListener('mousemove',e=>{if(!drag)return; tx+=e.clientX-lx; ty+=e.clientY-ly; lx=e.clientX; ly=e.clientY; apply();});
-addEventListener('mouseup',()=>{drag=false;stage.classList.remove('dragging')});
-/* zoom (imleç odaklı) */
-stage.addEventListener('wheel',e=>{
-  e.preventDefault();
-  const f=e.deltaY<0?1.15:1/1.15, ns=Math.min(max,Math.max(min,scale*f));
-  tx=e.clientX-(e.clientX-tx)*(ns/scale); ty=e.clientY-(e.clientY-ty)*(ns/scale);
-  scale=ns; apply();
-},{passive:false});
-addEventListener('resize',fit);
-
-/* ====================== BÖLGEYE GİRİŞ / ÇIKIŞ ====================== */
-const fog=document.getElementById('fog'), vidlayer=document.getElementById('vidlayer'),
-      vid=document.getElementById('vid'), region=document.getElementById('region'),
-      hero=document.getElementById('hero'), back=document.getElementById('back');
-
-function enter(r){
-  const src=`assets/video/${r.id}.mp4`;
-  let fell=false;
-  const fallback=()=>{ if(fell) return; fell=true;
-    vidlayer.classList.remove('on'); vid.onerror=null; vid.removeAttribute('src'); vid.load(); fogEnter(r); };
-  vid.onerror=fallback;
-  const done=()=>{ if(fell) return; fell=true;
-    showRegion(r); vidlayer.classList.remove('on'); vid.pause(); vid.onerror=null; vid.removeAttribute('src'); vid.load(); };
-  vid.onended=done; document.getElementById('skip').onclick=done;
-  vid.src=src; vidlayer.classList.add('on');
-  vid.play().then(()=>{ /* oynuyor */ }).catch(fallback);
-}
-function fogEnter(r){
-  fog.classList.add('on');
-  setTimeout(()=>{ showRegion(r); setTimeout(()=>fog.classList.remove('on'),350); },950);
-}
-function showRegion(r){
-  document.getElementById('r-title').textContent=r.name;
-  document.getElementById('r-sub').textContent=r.sub;
-  document.getElementById('r-quote').textContent=r.quote;
-  document.getElementById('r-text').innerHTML=r.text.map(p=>`<p>${p}</p>`).join('');
-  const im=new Image();
-  im.onload=()=>{ hero.innerHTML=''; hero.appendChild(im); };
-  im.onerror=()=>{ hero.innerHTML=`<div class="noimg">Bölge görseli bekleniyor: assets/bolge/${r.id}.jpg</div>`; };
-  im.src=`assets/bolge/${r.id}.jpg`;
-  region.classList.add('on'); back.style.display='block'; region.scrollTop=0;
-}
-back.addEventListener('click',()=>{
-  fog.classList.add('on');
-  setTimeout(()=>{ region.classList.remove('on'); back.style.display='none';
-                   setTimeout(()=>fog.classList.remove('on'),350); },700);
-});
-
-/* ====================== KALİBRASYON (K tuşu) ====================== */
-const calib=document.getElementById('calib'); let calOn=false;
-addEventListener('keydown',e=>{
-  if(e.key.toLowerCase()==='k'){ calOn=!calOn; calib.classList.toggle('on',calOn); }
-});
-stage.addEventListener('click',e=>{
-  if(!calOn||drag) return;
-  const x=((e.clientX-tx)/scale/mapW*100).toFixed(1), y=((e.clientY-ty)/scale/mapH*100).toFixed(1);
-  const s=`x:${x}, y:${y}`;
-  calib.textContent=`Koordinat: ${s}  (panoya kopyalandı) — Kapat: K`;
-  navigator.clipboard&&navigator.clipboard.writeText(s).catch(()=>{});
-});
-</script>
+  <script src="assets/js/ana.js"></script>
 </body>
 </html>

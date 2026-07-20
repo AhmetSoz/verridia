@@ -1,0 +1,190 @@
+/* ============================================
+   VERRIDIA — Kitap okuyucu
+   ============================================ */
+:root {
+  --r-bg: #0d1017;
+  --r-panel: #12161f;
+  --r-metin: #d6d0c2;
+  --r-soluk: #86816f;
+  --r-altin: #c9a45c;
+  --r-altin-parlak: #e8c987;
+  --r-cizgi: rgba(201, 164, 92, .18);
+  --icerik-genislik: 46rem;
+}
+/* Sepya tema */
+body.sepya {
+  --r-bg: #ede4d0;
+  --r-panel: #e4d9c2;
+  --r-metin: #33281c;
+  --r-soluk: #7a6f5c;
+  --r-altin: #8a6d34;
+  --r-altin-parlak: #6b5426;
+  --r-cizgi: rgba(107, 84, 38, .25);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--r-bg); color: var(--r-metin);
+  font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+  transition: background .5s, color .5s;
+}
+a { color: var(--r-altin); text-decoration: none; }
+
+/* --------- İlerleme çubuğu --------- */
+#ilerleme {
+  position: fixed; top: 0; left: 0; height: 3px; width: 0;
+  background: linear-gradient(90deg, var(--r-altin), var(--r-altin-parlak));
+  z-index: 60; transition: width .15s linear;
+}
+
+/* --------- Üst bar --------- */
+.okuyucu-bar {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 50;
+  display: flex; align-items: center; gap: 1rem;
+  padding: .65rem 1.2rem;
+  background: color-mix(in srgb, var(--r-bg) 88%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--r-cizgi);
+}
+.okuyucu-bar .geri { font-size: .8rem; letter-spacing: .15em; white-space: nowrap; }
+.okuyucu-bar .konum {
+  flex: 1; text-align: center; font-size: .78rem; letter-spacing: .12em;
+  color: var(--r-soluk); overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.okuyucu-bar .araclar { display: flex; gap: .4rem; }
+.okuyucu-bar button {
+  background: none; border: 1px solid var(--r-cizgi); color: var(--r-metin);
+  width: 34px; height: 34px; border-radius: 3px; cursor: pointer;
+  font-size: .9rem; transition: all .25s; display: flex; align-items: center; justify-content: center;
+}
+.okuyucu-bar button:hover { border-color: var(--r-altin); color: var(--r-altin-parlak); }
+
+/* --------- Yerleşim --------- */
+.duzen { display: flex; min-height: 100vh; padding-top: 52px; }
+
+/* Kenar çubuğu */
+#kenar {
+  width: 300px; flex-shrink: 0;
+  background: var(--r-panel);
+  border-right: 1px solid var(--r-cizgi);
+  position: fixed; top: 52px; bottom: 0; left: 0;
+  overflow-y: auto; z-index: 40;
+  transition: transform .4s ease;
+  scrollbar-width: thin; scrollbar-color: var(--r-cizgi) transparent;
+}
+#kenar.kapali { transform: translateX(-100%); }
+.kenar-ic { padding: 1.4rem 1rem 3rem; }
+.kitap-grubu { margin-bottom: 1.2rem; }
+.kitap-grubu > .kitap-adi {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.2rem; color: var(--r-altin-parlak);
+  letter-spacing: .1em; padding: .5rem .6rem; cursor: pointer;
+  display: flex; justify-content: space-between; align-items: center;
+  border-radius: 3px;
+}
+.kitap-grubu > .kitap-adi:hover { background: color-mix(in srgb, var(--r-altin) 10%, transparent); }
+.kitap-grubu .ok { transition: transform .3s; font-size: .7rem; color: var(--r-soluk); }
+.kitap-grubu.acik .ok { transform: rotate(90deg); }
+.kisim-liste { display: none; }
+.kitap-grubu.acik .kisim-liste { display: block; }
+.kisim-grubu { margin: .15rem 0 .15rem .5rem; }
+.kisim-grubu > .kisim-adi {
+  font-size: .82rem; letter-spacing: .06em; color: var(--r-metin);
+  padding: .42rem .6rem; cursor: pointer; border-radius: 3px;
+  display: flex; justify-content: space-between; align-items: center;
+}
+.kisim-grubu > .kisim-adi:hover { background: color-mix(in srgb, var(--r-altin) 10%, transparent); }
+.kisim-grubu > .kisim-adi .adet { font-size: .68rem; color: var(--r-soluk); }
+.bolum-liste { display: none; margin-left: .6rem; border-left: 1px solid var(--r-cizgi); }
+.kisim-grubu.acik .bolum-liste { display: block; }
+.bolum-satir {
+  display: block; font-size: .78rem; color: var(--r-soluk);
+  padding: .32rem .7rem; cursor: pointer; border-radius: 0 3px 3px 0;
+  border-left: 2px solid transparent; margin-left: -1px;
+  transition: all .2s;
+}
+.bolum-satir:hover { color: var(--r-metin); background: color-mix(in srgb, var(--r-altin) 8%, transparent); }
+.bolum-satir.aktif {
+  color: var(--r-altin-parlak); border-left-color: var(--r-altin);
+  background: color-mix(in srgb, var(--r-altin) 12%, transparent);
+}
+
+/* --------- Okuma alanı --------- */
+#icerik {
+  flex: 1; margin-left: 300px; transition: margin .4s ease;
+  display: flex; justify-content: center;
+  padding: 3.5rem 1.5rem 6rem;
+}
+#kenar.kapali ~ #icerik { margin-left: 0; }
+.sayfa { width: 100%; max-width: var(--icerik-genislik); }
+
+.bolum-ust { text-align: center; margin-bottom: 3rem; }
+.bolum-ust .kisim-etiketi {
+  font-size: .72rem; letter-spacing: .4em; text-transform: uppercase;
+  color: var(--r-soluk); margin-bottom: 1rem;
+}
+.bolum-ust h1 {
+  font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600;
+  font-size: clamp(1.7rem, 4vw, 2.6rem); color: var(--r-metin); line-height: 1.25;
+}
+.bolum-ust .pov {
+  display: inline-block; margin-top: 1rem;
+  font-size: .72rem; letter-spacing: .35em; text-transform: uppercase;
+  padding: .35rem 1.1rem; border: 1px solid var(--pov-renk, var(--r-cizgi));
+  color: var(--pov-renk, var(--r-soluk)); border-radius: 2px;
+}
+.bolum-ust .sus { margin-top: 2rem; color: var(--r-altin); font-size: 1rem; letter-spacing: 1em; padding-left: 1em; }
+
+/* Metin gövdesi */
+.govde {
+  font-family: "Cormorant Garamond", "Crimson Pro", Georgia, serif;
+  font-size: var(--yazi-boyu, 1.32rem);
+  line-height: 1.85;
+  color: var(--r-metin);
+}
+.govde p { margin-bottom: 1.15em; text-align: justify; hyphens: auto; }
+.govde p:first-of-type::first-letter {
+  font-size: 3.4em; float: left; line-height: .82;
+  padding: .06em .12em 0 0; color: var(--r-altin);
+  font-weight: 600;
+}
+.govde .sahne-ayrimi {
+  text-align: center; margin: 2.4em 0; color: var(--r-altin);
+  font-size: .95rem; letter-spacing: .5em; padding-left: .5em;
+}
+.govde h3.pov-alt {
+  font-family: "Inter", sans-serif; font-size: .8rem; letter-spacing: .45em;
+  text-transform: uppercase; color: var(--r-altin);
+  text-align: center; margin: 2.6em 0 1.4em;
+}
+.govde em { font-style: italic; }
+.govde strong { font-weight: 600; color: color-mix(in srgb, var(--r-metin) 88%, var(--r-altin)); }
+
+/* --------- Alt gezinme --------- */
+.gezinme {
+  display: flex; justify-content: space-between; gap: 1rem;
+  margin-top: 4.5rem; padding-top: 2rem; border-top: 1px solid var(--r-cizgi);
+}
+.gezinme button {
+  flex: 1; max-width: 46%;
+  background: none; border: 1px solid var(--r-cizgi); color: var(--r-metin);
+  padding: 1rem 1.2rem; cursor: pointer; border-radius: 3px;
+  font-family: inherit; font-size: .85rem; text-align: left;
+  transition: all .3s;
+}
+.gezinme button:last-child { text-align: right; }
+.gezinme button:hover:not(:disabled) {
+  border-color: var(--r-altin); transform: translateY(-2px);
+  box-shadow: 0 10px 26px -14px rgba(0,0,0,.6);
+}
+.gezinme button:disabled { opacity: .3; cursor: default; }
+.gezinme .yon { font-size: .68rem; letter-spacing: .25em; text-transform: uppercase; color: var(--r-soluk); display: block; margin-bottom: .3rem; }
+.gezinme .hedef { font-family: "Cormorant Garamond", Georgia, serif; font-size: 1.05rem; color: var(--r-altin-parlak); }
+
+@media (max-width: 900px) {
+  #kenar { transform: translateX(-100%); box-shadow: 20px 0 60px rgba(0,0,0,.5); }
+  #kenar.kapali { transform: translateX(-100%); }
+  #kenar.acik-mobil { transform: translateX(0); }
+  #icerik { margin-left: 0 !important; }
+}
