@@ -26,14 +26,16 @@
   sayacHedef = 88;
   requestAnimationFrame(sayacAdim);
 
-  /* ================= Sahne: pan / zoom motoru ================= */
+  /* ================= Sahne: pan / zoom motoru (GSAP süzülme fiziği) ================= */
   var sahne = document.getElementById("sahne");
   var dunya = document.getElementById("dunya");
   var haritaImg = document.getElementById("harita-img");
   var ORAN = 1536 / 1024; // harita en-boy oranı (3:2)
+  var G = window.gsap || null;
 
-  var W = 0, H = 0;          // taban boyut (z=1, ekranı tam kaplar)
-  var x = 0, y = 0, z = 1;   // dünya durumu
+  var W = 0, H = 0;                        // taban boyut (z=1, ekranı tam kaplar)
+  var hedef = { x: 0, y: 0, z: 1 };        // istenen durum
+  var gercek = { x: 0, y: 0, z: 1 };       // ekrana çizilen durum (hedefe süzülür)
   var Z_MAX = 3.4;
   var pinler = [];
 
@@ -44,45 +46,50 @@
     dunya.style.width = W + "px";
     dunya.style.height = H + "px";
     kilitle();
-    ciz();
   }
   function kilitle() {
     var vw = window.innerWidth, vh = window.innerHeight;
-    x = Math.min(0, Math.max(vw - W * z, x));
-    y = Math.min(0, Math.max(vh - H * z, y));
+    hedef.z = Math.min(Z_MAX, Math.max(1, hedef.z));
+    hedef.x = Math.min(0, Math.max(vw - W * hedef.z, hedef.x));
+    hedef.y = Math.min(0, Math.max(vh - H * hedef.z, hedef.y));
   }
-  var cizBekliyor = false;
-  function ciz() {
-    if (cizBekliyor) return;
-    cizBekliyor = true;
-    requestAnimationFrame(function () {
-      dunya.style.transform = "translate3d(" + x + "px," + y + "px,0) scale(" + z + ")";
-      var pz = 1 / z;
-      for (var i = 0; i < pinler.length; i++) pinler[i].style.setProperty("--pz", pz);
-      cizBekliyor = false;
-    });
+  // Süzülme döngüsü: gercek, hedefe her karede yaklaşır (yağ gibi akma hissi)
+  function aktar() {
+    var k = tutma ? 0.35 : 0.11; // sürüklerken sıkı, bırakınca yumuşak
+    gercek.x += (hedef.x - gercek.x) * k;
+    gercek.y += (hedef.y - gercek.y) * k;
+    gercek.z += (hedef.z - gercek.z) * (k * 0.9);
+    dunya.style.transform = "translate3d(" + gercek.x + "px," + gercek.y + "px,0) scale(" + gercek.z + ")";
+    var pz = 1 / gercek.z;
+    for (var i = 0; i < pinler.length; i++) pinler[i].style.setProperty("--pz", pz);
   }
+  if (G) { G.ticker.add(aktar); G.ticker.lagSmoothing(500, 33); }
+  else { (function dongu() { aktar(); requestAnimationFrame(dongu); })(); }
+
   function yakinlas(hedefZ, mx, my) {
     var yeniZ = Math.min(Z_MAX, Math.max(1, hedefZ));
     if (mx === undefined) { mx = window.innerWidth / 2; my = window.innerHeight / 2; }
-    x = mx - (mx - x) * (yeniZ / z);
-    y = my - (my - y) * (yeniZ / z);
-    z = yeniZ;
-    kilitle(); ciz();
+    hedef.x = mx - (mx - hedef.x) * (yeniZ / hedef.z);
+    hedef.y = my - (my - hedef.y) * (yeniZ / hedef.z);
+    hedef.z = yeniZ;
+    kilitle();
   }
 
-  // Tekerlek
+  // Tekerlek: yumuşak zoom
   sahne.addEventListener("wheel", function (e) {
     e.preventDefault();
-    yakinlas(z * Math.exp(-e.deltaY * 0.0016), e.clientX, e.clientY);
+    yakinlas(hedef.z * Math.exp(-e.deltaY * 0.0016), e.clientX, e.clientY);
     ortuGizle();
   }, { passive: false });
 
-  // Sürükleme (pointer)
+  // Sürükleme + bırakınca ATALET (kayarak durma)
   var tutma = null;
+  var hizX = 0, hizY = 0, sonT = 0, sonX = 0, sonY = 0;
   sahne.addEventListener("pointerdown", function (e) {
     if (e.target.closest(".pin")) return;
-    tutma = { px: e.clientX, py: e.clientY, bx: x, by: y, tasindi: false };
+    if (G) G.killTweensOf(hedef);
+    tutma = { px: e.clientX, py: e.clientY, bx: hedef.x, by: hedef.y, tasindi: false };
+    hizX = 0; hizY = 0; sonT = performance.now(); sonX = e.clientX; sonY = e.clientY;
     sahne.classList.add("tutuluyor");
     sahne.setPointerCapture(e.pointerId);
   });
@@ -90,19 +97,42 @@
     if (!tutma) return;
     var dx = e.clientX - tutma.px, dy = e.clientY - tutma.py;
     if (Math.abs(dx) + Math.abs(dy) > 4) tutma.tasindi = true;
-    x = tutma.bx + dx; y = tutma.by + dy;
-    kilitle(); ciz();
+    hedef.x = tutma.bx + dx; hedef.y = tutma.by + dy;
+    kilitle();
+    // hız ölçümü (atalet için)
+    var t = performance.now(), dt = t - sonT;
+    if (dt > 12) {
+      hizX = (e.clientX - sonX) / dt * 16;
+      hizY = (e.clientY - sonY) / dt * 16;
+      sonT = t; sonX = e.clientX; sonY = e.clientY;
+    }
     if (tutma.tasindi) ortuGizle();
   });
-  function tutmaBirak() { tutma = null; sahne.classList.remove("tutuluyor"); }
+  function tutmaBirak() {
+    if (tutma && tutma.tasindi && G && (Math.abs(hizX) > 2 || Math.abs(hizY) > 2)) {
+      // Atalet: bırakınca kayarak yavaşla
+      G.to(hedef, {
+        x: hedef.x + hizX * 16,
+        y: hedef.y + hizY * 16,
+        duration: 1.1,
+        ease: "power3.out",
+        onUpdate: kilitle
+      });
+    }
+    tutma = null; sahne.classList.remove("tutuluyor");
+  }
   sahne.addEventListener("pointerup", tutmaBirak);
   sahne.addEventListener("pointercancel", tutmaBirak);
 
   // Zoom butonları
-  document.getElementById("zoom-arti").addEventListener("click", function () { yakinlas(z * 1.45); ortuGizle(); });
-  document.getElementById("zoom-eksi").addEventListener("click", function () { yakinlas(z / 1.45); });
+  document.getElementById("zoom-arti").addEventListener("click", function () { yakinlas(hedef.z * 1.45); ortuGizle(); });
+  document.getElementById("zoom-eksi").addEventListener("click", function () { yakinlas(hedef.z / 1.45); });
   document.getElementById("zoom-sifirla").addEventListener("click", function () {
-    z = 1; x = (window.innerWidth - W) / 2; y = (window.innerHeight - H) / 2; kilitle(); ciz();
+    if (G) G.killTweensOf(hedef);
+    hedef.z = 1;
+    hedef.x = (window.innerWidth - W) / 2;
+    hedef.y = (window.innerHeight - H) / 2;
+    kilitle();
   });
 
   window.addEventListener("resize", tabanHesapla);
@@ -114,8 +144,10 @@
   if (haritaImg.complete) haritaHazir();
   else { haritaImg.addEventListener("load", haritaHazir); haritaImg.addEventListener("error", haritaHazir); }
   tabanHesapla();
-  // Başlangıçta haritayı ortala
-  x = (window.innerWidth - W) / 2; y = (window.innerHeight - H) / 2; kilitle(); ciz();
+  // Başlangıçta ortala (hem hedef hem gercek — zıplama olmasın)
+  hedef.x = gercek.x = (window.innerWidth - W) / 2;
+  hedef.y = gercek.y = (window.innerHeight - H) / 2;
+  kilitle(); gercek.x = hedef.x; gercek.y = hedef.y;
 
   /* ================= Başlık örtüsü ================= */
   var ortu = document.getElementById("baslik-ortu");
@@ -177,6 +209,8 @@
     dunya.appendChild(pin);
     pinler.push(pin);
   });
+  // Pinler bulutlar dağılırken süzülerek belirsin
+  if (G) G.from(pinler, { scale: 0, opacity: 0, duration: .7, ease: "back.out(2.2)", stagger: .09, delay: 4.2 });
 
   function mekanAc(m) {
     ortuGizle();
@@ -251,6 +285,27 @@
     }
     requestAnimationFrame(adim);
   }
+
+  /* ================= Kalibrasyon modu (K tuşu) =================
+     K'ye bas → haritada bir noktaya tıkla → %koordinat panoya kopyalanır.
+     Pin yerlerini düzeltmek için bana bu değerleri gönder. */
+  var kalibrasyon = false;
+  document.addEventListener("keydown", function (e) {
+    if (e.key.toLowerCase() === "k" && !e.repeat) {
+      kalibrasyon = !kalibrasyon;
+      sahne.style.outline = kalibrasyon ? "3px dashed #e8c987" : "";
+      console.log("Kalibrasyon:", kalibrasyon ? "AÇIK — haritaya tıkla" : "kapalı");
+    }
+  });
+  sahne.addEventListener("click", function (e) {
+    if (!kalibrasyon || (tutma && tutma.tasindi)) return;
+    var px = ((e.clientX - x) / (W * z) * 100).toFixed(1);
+    var py = ((e.clientY - y) / (H * z) * 100).toFixed(1);
+    var metin = "x: " + px + ", y: " + py;
+    console.log("KOORDİNAT →", metin);
+    if (navigator.clipboard) navigator.clipboard.writeText(metin).catch(function () {});
+    alert("Koordinat kopyalandı: " + metin);
+  });
 
   /* ================= Özel imleç ================= */
   if (window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
