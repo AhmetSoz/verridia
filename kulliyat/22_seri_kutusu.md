@@ -5,19 +5,19 @@
 
 ## 1. İSİM SİCİLİ (kullanılmış tüm özel adlar — yeni isim eklemeden önce buraya bak)
 
-**İnsanlar (Sungur/Azgut/Temürçi hattı):** Togan, Melira, Kaya, Anya, Gök-Göz Börü, Alpagu Han, Bozan Han, Gürz-Diş Korgan, "Tek Göz" Orkhon, Batu "Bizon-Yürekli", Toprak-Ana Yeva, Temujin, Toygun (ölü), Sube, Ogedai "Kırık-Kanat", "Rüzgar-Çağıran" Altay, Usta Hekat (ölü), Kalfa/Usta Başı Elara, Usta Darga, Kervanbaşı Boru, Altan, Toruk (Bozan'ın tetikçisi), Ayla (Togan'ın annesi, ölü), Karaçul (boy adı), Yeşim (Genç Kurtlar'a katılan Temürçi), Kaan (Korgan'ın danışmanı, Temujin'in gizli kanalı), Sarnai (Karaçul boyu lideri).
+**İnsanlar (Sungur/Azgut/Temürçi hattı):** Togan, Melira, Kaya (☠️ öldü, kitap3_kisim1), Anya, Gök-Göz Börü, Alpagu Han, Bozan Han, Gürz-Diş Korgan, "Tek Göz" Orkhon, Batu "Bizon-Yürekli", Toprak-Ana Yeva, Temujin, Toygun (ölü), Sube, Ogedai "Kırık-Kanat", "Rüzgar-Çağıran" Altay, Usta Hekat (ölü), Kalfa/Usta Başı Elara, Usta Darga, Kervanbaşı Boru, Altan, Toruk (Bozan'ın tetikçisi), Ayla (Togan'ın annesi, ölü), Karaçul (boy adı), Yeşim (Genç Kurtlar'a katılan Temürçi), Kaan (Korgan'ın danışmanı, Temujin'in gizli kanalı), Sarnai (Karaçul boyu lideri), Temir (yaşlı Sungur çobanı, Ferrin'e karşı çıktı, kitap3_kisim2), Karakçı (genç Sungur savaşçısı, Kaya'nın eski öğrencisi, kitap3_kisim2 — ⚠️ RİSK ADAYI, gri kararın bedeli olabilir).
 
 **Hegemonya:** Kral III. Theodoric, Leydi Karia, Lord Vorlag, Sör Valerius, Usta Corvus, Sör Kaelan "Kırık-Kalkan", Faelan, Gareth, Prens Aldric (kayıp), Lord Edrik Drennar, Leydi Ismera Maros, Lord Cedric Hallis, Lord Aldous Severin, Leydi Rowena Calder, Lord-Vekil Bren, Elowen (tarihçi, Yamalı Liman kökenli), Osric (Meziyet Programı adayı, küçük soylu), Wren (Meziyet Programı adayı, çiftçi kızı), Toma (Meziyet Programı adayı, eski Yamalı Liman kaptanı, kitap2_kisim3'te tanıtıldı), Mira (Yamalı Liman Kaptanlar Konseyi, Toma'nın yerine).
 
 **NOT — İSİM ÇAKIŞMASI DÜZELTİLDİ:** kitap2_kisim5/bolum11_karia'da, yeni bir Hegemonya soylusuna yanlışlıkla "Doran" adı verilmişti — bu isim, zaten, Delta'nın Doran Vex'ine ait. "Osric" olarak düzeltildi. Yeni isim eklerken, her zaman, bu listeyi kontrol et.
 
-**Rivan Deltası:** Bey Sarris, Leydi Amara, "Fısıltı Ustası" Malakor, Gezgin Alim Kael "Yemin-Bozan", Yaşlı Hekk, Coren Vex, Daven Vex, Doran Vex, Liria.
+**Rivan Deltası:** Bey Sarris, Leydi Amara, "Fısıltı Ustası" Malakor, Gezgin Alim Kael "Yemin-Bozan", Yaşlı Hekk, Coren Vex, Daven Vex, Doran Vex, Liria, Ferrin (Malakor'un tüccar-ajanı, Sungur krizini istismar ediyor, kitap3_kisim2).
 
 **Yetim Kıyıları / Yamalı Liman:** Tek-Kol Roric, "Sessiz" Zaleena, Paslı Finn, Sorin, Kessel, Draven, Mira (Kaptanlar Konseyi), Halim (yaşlı balıkçı, kitap3_kisim1), Sevda (kâhin, kitap3_kisim1).
 
 **Damgalı/Diğer:** Seren.
 
-**Mirasçılar:** Yaşlı Ozan, Baş Kâtip Lyra, Arayıcı Kaelen, Aras, Serel (arşivci — Kitap 2'den beri sık kullanılıyor, sicile eksik girilmişti, şimdi düzeltildi).
+**Mirasçılar:** Yaşlı Ozan, Baş Kâtip Lyra, Arayıcı Kaelen, Aras, Serel (arşivci — Kitap 2'den beri sık kullanılıyor, sicile eksik girilmişti, şimdi düzeltildi), Mirel (genç arşivci, Eski-Kent Büyük Kütüphane, kitap3_kisim2).
 
 **Granitler:** Kaya-Baba Thorgar, Yrsa, Finnan.
 
@@ -385,6 +385,16 @@ Togan, Sed'in ardında, yaşlı bir Işıyan'dan, kademeli ama önemli bir gerç
 - Bölüm 9-12: Dört Toprağın Konseyi resmi kurum olarak kuruluyor; dört toprakta eşzamanlı huzursuzluk (hayvanlar, rüzgar paternleri, Akıntı-Yaratıkları); Togan, sezgisini ilk kez bu ölçekte genişletip belirsiz bir "değişim" hissi buluyor; Hegemonya ve Mirasçı arşivleri geçmiş döngüler hakkında yetersiz/çelişkili kalıyor (kasıtlı belirsizlik).
 - Bölüm 17-24: Yamalı Liman'da dört toprağın ilk fiziksel ortak konseyi; taşların bir DAİRE deseninde dizildiği ve merkezde haritalanmamış bir "en güçlü nokta" olduğu keşfediliyor; Togan'lı bir sefer o merkeze gönderiliyor; deniz-tabanı taşı geceleri ışıldamaya başlıyor (bedelin habercisi).
 - Bölüm 25-28: **☠️☠️☠️ SERİNİN İLK BÜYÜK KARAKTER ÖLÜMÜ — KAYA ÖLDÜ. (KASITLI TON DEĞİŞİMİ — bkz. aşağıda "KARANLIK DÖNÜŞ MANDASI".)** Merkezdeki adsız "açlık" özellikle Togan'ın kanını istedi; Kaya kendini araya atarak öldü, cesedi geri getirilemedi ("alındı"). Togan suçluluk içinde geri döndü (Kaya'nın son emri: "yaşa"). Temujin en yakın dostunu kaybetti, soğuk sesi çatladı. Karia ölümü önce siyasi hesapla karşıladı, sonra kendinden tiksindi + GRİ TOHUM ("Togan bir tehlike, onu uzağa mı göndermeli?"). Zaleena dalgıçları taştan geri çekti. **SUNGUR VERASET BOŞLUĞU açıldı — Anya öne çıktı.** Kısım, temiz umutla değil, bedelli/karanlık bir kapanışla bitti.
+
+## 18. KİTAP 3, KISIM 2 — "Kırılan Düğüm" (14 bölüm, roman/kitap3_kisim2/)
+- Bölüm 1-2: Togan kendini sürgün ediyor (kanı = tehlike), Perren'le kuzeye/Eski-Kent'e yola çıkıyor. Temujin'de Anya'nın açık meydan okuması (ayrı Sungur meclisi talebi) + Temujin'in GRİ TOHUMU (Kaya'nın ölümünü kendi halkına karşı kullanma fikri).
+- Bölüm 3-4: Karia'nın **İLK YALANI** ("humma" örtbası, 4 kayıp); Zaleena'nın taşı gözlemleyip müdahale etmeme kararı; Sungur krizi haberi Zaleena'ya ulaşıyor.
+- Bölüm 5, 9, 13 (Togan hattı): Eski-Kent/Büyük Kütüphane, arşivci Mirel, "kan = mühür anahtarı VE uyarı sistemi" teorisi; Togan kontrollü "uzaktan yoklama" tekniğini öğreniyor; Perren'in Kaya'dan duyduğu Sed anısı → Togan ve Perren **Işık Seddi'ne doğru yola çıkıyor** (35 günlük yol).
+- Bölüm 6, 10, 14 (Temujin hattı): **Malakor'un hamlesi** — Ferrin (Delta ajanı) Anya'ya bağımsız-meclis teklifi sunuyor; Temujin'in gri kararı somutlaşıyor (Kaan aracılığıyla Sube/Temir/Karakçı ile dolaylı temas); **☠️☠️ KARAKÇI ÖLDÜRÜLÜYOR** (Kaya'nın eski öğrencisi) — "yabancılarla temas" cezası olarak, fail belirsiz bırakıldı (Ferrin mi, Anya'nın sert kanadı mı — kasıtlı belirsizlik). Temujin, bunun kendi gri kararının dolaylı sonucu olduğunu inkâr etmiyor, Anya'ya hesapsız bir itiraf gönderiyor.
+- Bölüm 7, 11 (Karia hattı): Yalan büyüyor, köy tamamen boşaltılıyor; Elowen'in vicdan uyarısı; Karia, Zaleena'ya dürüst bir itiraf mektubu yazıyor — iki kraliçe yükü paylaşıyor.
+- Bölüm 8, 12 (Zaleena hattı): Deniz taşı düzensiz/sabırsız parlamaya başlıyor (Sevda: "susar ama unutmaz"); Zaleena kendi istihbarat ağını Kaan'a yardım için seferber ediyor — Ferrin'in Malakor'un uzun süredir kullandığı bir ajan olduğu ortaya çıkıyor.
+- **⭐ YAPISAL NOT:** Bu Kısım, Karanlık Dönüş Mandası'nın ilk tam uygulaması — POV ayrımı (Togan/Temujin fiziksel olarak ayrıldı), gri karar (Temujin), ve gerçek bir ikinci ölüm (Karakçı, Kaya'dan sonra) hepsi bu 14 bölümde teslim edildi.
+- **Yeni isimler:** Mirel (Mirasçı arşivci), Ferrin (Delta ajanı), Temir (Sungur çoban), Karakçı (☠️ öldü) — hepsi sicile eklendi, çakışma yok.
 
 ### ☠️ KARANLIK DÖNÜŞ MANDASI (Kitap 3, Kısım 1 sonunda, yazarın kendi öz-eleştirisi + kullanıcının açık talebi üzerine kalıcı yön)
 Kitap 2 ve Kitap 3 Kısım 1'in ilk 24 bölümü fazla "güvenli"ydi: hiç kalıcı kayıp yok, her düşman hamlesi (özellikle Malakor) art arda başarısız, her konsey oy birliğiyle uzlaşıyor, tüm ana POV'lar korunuyordu — bu monotonluk ve düşük gerilim yaratıyordu. **Bundan sonra kalıcı kural:**

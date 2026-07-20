@@ -112,6 +112,15 @@
 - **☠️ SUNGUR VERASET BOŞLUĞU (yeni açık uç):** Kaya, Temujin'in kansız fethettiği Sungurları gururunu kırmadan tutan köprüydü. Şimdi **Anya** (Eskiler Meclisi başı) öne çıkıyor — Temujin'e "köprün değilim, seni sorgulayan sesim" dedi. İttifak'ın doğu kanadı kırılgan. Malakor bu yarayı kullanabilir.
 - **Yeni/aktif isimler:** Sarnai (Karaçul lideri, İttifaka katıldı), Halim (yaşlı balıkçı), Sevda (kâhin — "sessiz taşlar" masalını tanıyan), Anya (Sungur Eskiler Meclisi başı — artık büyük siyasi rol), Sube (Togan'la seferden dönen Sungur büyücüsü, sağ).
 
+## ⭐⭐⭐ 3. KİTAP, 2. KISIM — GÜNCEL DURUM (14 bölüm tamamlandı, "Kırılan Düğüm", roman/kitap3_kisim2/)
+**POV AYRIMI GERÇEKLEŞTİ:** Togan ve Temujin artık fiziksel olarak ayrı — Kitap 2'den beri ilk kez.
+- **Togan** (~27): Perren'le birlikte, kendini sürgün etti (kanı = herkes için tehlike). Eski-Kent'te Mirel'den kanının hem "mühür anahtarı" hem "uyarı sistemi" olabileceğini öğrendi; kontrollü "uzaktan yoklama" tekniğini geliştirdi (artık mesafeyi kendi ayarlayabiliyor). Perren'in Kaya'dan duyduğu bir anı üzerine, **Işık Seddi'ne doğru yola çıktı** (35 günlük yol) — Sessiz Taşlar'ın Sed'le bağlantılı olabileceği teorisiyle.
+- **Temujin** (~25): Sungur veraset krizini tek başına yönetiyor. Malakor'un ajanı Ferrin, Anya'ya bağımsız Sungur meclisi teklif etti. Temujin'in gri kararı (Kaan aracılığıyla Sungur şüphecileriyle gizli temas) **doğrudan bir ölüme yol açtı: Karakçı (Kaya'nın eski öğrencisi) öldürüldü.** Temujin bunu inkâr etmedi, Anya'ya hesapsız bir itiraf gönderdi. Bu, serinin ikinci büyük karakter ölümü ve Temujin'in ilk büyük ahlaki bedeli.
+- **Karia** (~46): "Humma" yalanını sürdürüyor (köy tamamen boşaltıldı), ama Zaleena'ya dürüst bir itiraf mektubu yazarak yükü paylaştı; dört toprakla tam bilgi paylaşımına yöneldi.
+- **Zaleena** (~36): Deniz taşı artık düzensiz/sabırsız parlıyor. Kendi istihbarat ağını Kaan'a yardım için seferber etti — Ferrin'in Malakor'un uzun süredir kullandığı bir ajan olduğunu ortaya çıkardı.
+- **☠️ Karakçı — ÖLDÜ (bolum14).** Kaya'nın eski öğrencisi, genç Sungur savaşçısı. "Yabancıların kulağı Sungur toprağında yaşayamaz" notuyla bulundu. Fail kasıtlı belirsiz (Ferrin mi, Anya'nın sert kanadı mı).
+- **Mirel** (Mirasçı arşivci, Eski-Kent), **Ferrin** (Delta ajanı, Malakor'un uzun süreli operasyon yöntemi), **Temir** (Sungur çoban, Ferrin'e karşı çıktı, hâlâ sağ) — yeni aktif isimler.
+
 ## 2. KİTAP, 6. KISIM — GÜNCEL DURUM (18 bölüm yazıldı, roman/kitap2_kisim2/)
 - **Togan** (~26): Sed'den döndü, kendi kanını "üçüncü bir yol" ile dengeledi (ne tam köprü ne tam geri çekilme). Annesinin son mesajını aldı. Eski-Kent'ten Sungur topraklarına döndü — **Temujin'le tanıştı** (bolum17-18), Kaya ve Börü'yle yeniden bir araya geldi.
 - **Temujin** (~24): Azgut ordusundan sürgün, Sungur topraklarında Kaya'nın himayesinde. Korgan'ın gizli suikastçısı (Kar-Yılan) yakalandı, canlı tutuluyor. **Togan'la tanıştı** — temkinli ama gerçek bir dostluk başladı. Batu, yanında, sadık.
