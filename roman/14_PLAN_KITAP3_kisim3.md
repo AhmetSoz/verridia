@@ -34,13 +34,18 @@ Togan'ın Kaya'nın mezarını ziyareti, duygusal bir kapanış/yeniden başlang
 11. **Karia** — bolum11 — Meziyet meclisi ilk gerçek anlaşmazlığını kendi başına çözüyor (mevsimsel güvenlik hattı uzlaşması); model birkaç bölgeye daha yayılıyor; **⚠️ Büyük Döngü'nün HIZLANDIĞINA dair belirsiz ama tutarlı işaret** — Karia kendini "daralan bir pencereye karşı yarışan zamanlayıcı" gibi hissediyor. ✅
 12. **Zaleena** — bolum12 — Tahliye planı aktif tatbikata dönüştürülüyor (başarılı); Kessel'in gözlemi: kaçma planı var ama "karşılık verme" planı yok; Serel'den olası ikinci bir "anahtar" ihtimali; Zaleena, Kaya'nın bedelini boşa çıkarmama kararlılığı. ✅
 
-## SIRADAKİ ÖNCELİK (12 bölüm tamamlandı)
-- **⚠️ Büyük Döngü hızlanıyor olabilir** — bu Kısmın yeni, en acil gerilim hattı. Zaman baskısı, artık, bütün POV'ları etkiliyor.
-- Serel'in ima ettiği "ikinci bir anahtar" ihtimali — Togan'ınkinden farklı bir yaklaşım sunabilir; açık, geliştirilmemiş bir ipucu.
-- Özerklik "emsali" çözülüyor gibi görünüyor — Korgan'la ortak çerçeve işliyor.
-- Malakor/Ferrin hattı hâlâ sessiz — geri dönüşü bekleniyor, açık uç.
+13. **Togan** — bolum13 — Serel'in bulduğu "yarı-dönüşmüşler" ipucu — Togan'ınkinin tersi yönde çalışabilecek ikinci bir "anahtar" ihtimali; Kor-Ateşler'e (Kızıl El Torg) doğru yola çıkıyor; Anya'yla vedada gerçek bir yakınlaşma. ✅
+14. **Temujin** — bolum14 — Coren Vex (Amara'nın kuzeni), Malakor'un bilgisi olmadan geliyor: Ferrin'in başarısızlığı Malakor'un itibarını sarstı, bazı Deltalılar yöntemlerini sorguluyor; Temujin temkinli — dört toprağa danışmadan karar vermiyor. ✅
+15. **Karia** — bolum15 — Coren'in güvenilirliğini test etme planı: doğrulanabilir küçük bilgi isteniyor (Ferrin'in "emekliye ayrılması") — doğrulanıyor; adım adım güven inşası kararı. ✅
+16. **Zaleena** — bolum16 — İkinci doğrulama (Delta devriye rotaları) da doğru çıkıyor; İttifak, karşılığında küçük bir jest sunuyor (devriye azaltma); **Delta'yla ilk gerçek iş birliği başlıyor** — "belki beşinci bir müttefik." ✅
+
+## SIRADAKİ ÖNCELİK (16 bölüm tamamlandı)
+- **Coren Vex / Delta iş birliği** yeni açılan, umut verici ama hâlâ temkinli bir hat — Amara'nın bundan haberi yok, bu ne zaman/nasıl değişecek belirsiz.
+- Togan'ın Kor-Ateşler'e yolculuğu ve "ikinci anahtar" arayışı sürüyor.
+- **⚠️ Büyük Döngü hızlanıyor olabilir** — hâlâ en acil, çözülmemiş gerilim hattı.
+- Malakor, Delta içindeki itibar kaybıyla nasıl başa çıkacak — açık, potansiyel olarak tehlikeli bir tepki bekleniyor.
 - Sube ve Temir'in durumu hâlâ tam işlenmedi.
-- Deniz taşının "kısa parıltısı" (bolum08) ile hızlanan döngü teorisi (bolum11) birbirine bağlanabilir — sonraki bölümlerde ele alınmalı.
+- Deniz taşının "kısa parıltısı" ile hızlanan döngü teorisi arasındaki bağlantı hâlâ geliştirilmedi.
 
 ## Not
 Kalite kuralları + Karanlık Dönüş Mandası her bölümde geçerli. Her bölüm sonrası: dedi-X ≤4, klişe kapanış grep (Zaleena için "suya/denize baktı" Kısım başına 1 kez sınırı dahil), zarf tiki kontrol, isim sicili kontrol (YENİ: sıradan Türkçe kelimeleri isim yapmaktan kaçın — "Oyun" hatası iki kez yaşandı), Kaya ASLA canlı sahnede, Karakçı ASLA canlı sahnede.
