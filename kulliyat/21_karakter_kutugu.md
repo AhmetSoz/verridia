@@ -121,6 +121,15 @@
 - **☠️ Karakçı — ÖLDÜ (bolum14).** Kaya'nın eski öğrencisi, genç Sungur savaşçısı. "Yabancıların kulağı Sungur toprağında yaşayamaz" notuyla bulundu. Fail kasıtlı belirsiz (Ferrin mi, Anya'nın sert kanadı mı).
 - **Mirel** (Mirasçı arşivci, Eski-Kent), **Ferrin** (Delta ajanı, Malakor'un uzun süreli operasyon yöntemi), **Temir** (Sungur çoban, Ferrin'e karşı çıktı, hâlâ sağ) — yeni aktif isimler.
 
+## ⭐⭐⭐ 3. KİTAP, 2. KISIM SONU DURUM RAPORU (23 bölüm tamamlandı, "Kırılan Düğüm")
+- **Togan** (~27): Perren'le, Işık Seddi'ni ufukta gördü, erzak yüzünden geri döndü — hazırlanıp tekrar gidecek. Kanını kontrollü "uzaktan yoklama" ile yönetmeyi öğrendi. Kartal-Yurdu'na, Kaya'nın mezarını ilk kez ziyarete dönüyor.
+- **Temujin** (~25): Karakçı'nın ölümünün sorumluluğunu tam üstlendi; Sungurlara tam özerklik verdi (Azgut'un değil kendi bayraklarının altında müttefik); annesi Tomiris'le kısmi bir barış yaptı — affedilmedi ama düşman da görülmüyor.
+- **Karia** (~46): "Humma" yalanını kendi eliyle itiraf etti, boşaltılan köyü gerçek seçimle yeniden iskâna açtı. Dört toprakla "kademeli gerçek" ilkesini kurumsallaştırdı.
+- **Zaleena** (~36): Kıyı halkını sessiz ama dürüst bir açıklamayla tahliye etti. Deniz dibindeki taş hâlâ aktif, hazırlık tamamlandı ama tehdit kapanmadı.
+- **Anya**: Sungur Eskiler Meclisi başı olarak, özerkliği kazandı — artık Temujin'in "müttefiki," vassalı değil.
+- **☠️ Karakçı — öldü (bolum14).** **Tomiris** (annesi) — yeni, aktif, tekrar gelebilir.
+- Açık uçlar: Sube ve Temir'in durumu işlenmedi; Malakor/Ferrin sessiz ama kapanmadı; Işık Seddi'ne tam varış hâlâ büyük bir rezerv.
+
 ## 2. KİTAP, 6. KISIM — GÜNCEL DURUM (18 bölüm yazıldı, roman/kitap2_kisim2/)
 - **Togan** (~26): Sed'den döndü, kendi kanını "üçüncü bir yol" ile dengeledi (ne tam köprü ne tam geri çekilme). Annesinin son mesajını aldı. Eski-Kent'ten Sungur topraklarına döndü — **Temujin'le tanıştı** (bolum17-18), Kaya ve Börü'yle yeniden bir araya geldi.
 - **Temujin** (~24): Azgut ordusundan sürgün, Sungur topraklarında Kaya'nın himayesinde. Korgan'ın gizli suikastçısı (Kar-Yılan) yakalandı, canlı tutuluyor. **Togan'la tanıştı** — temkinli ama gerçek bir dostluk başladı. Batu, yanında, sadık.

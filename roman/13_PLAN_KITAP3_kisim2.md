@@ -37,13 +37,28 @@ Kaya'nın ölümü İttifak'ın doğu düğümünü (Sungur bağı) çözdü. An
 ## ✅ KISIM 2'NİN MERKEZİ GERİLİMİ ÇÖZÜLDÜ (14 bölüm) — bkz. [[22_seri_kutusu]]
 Malakor'un Sungur-çatlağı hamlesi, gerçek bir ölümle sonuçlandı. Ama önemli nüans: ölüm doğrudan Ferrin'in eli olmayabilir — Temujin'in kendi gri kararının (Kaan aracılığıyla şüphecileri örgütleme) dolaylı sonucu olarak da okunabilir; kasıtlı belirsizlik korundu.
 
-## SIRADAKİ ÖNCELİK
-- Anya'nın meclisinin Temujin'in itirafına tepkisi henüz bilinmiyor — açık uç.
-- Karakçı'nın ölümü, Sube ve Temir'i (kalan iki temas) nasıl etkileyecek? Korkup çekilebilirler, ya da tam tersi, daha kararlı olabilirler.
-- Togan ve Perren'in Işık Seddi'ne 35 günlük yolculuğu başladı — bu, muhtemelen bir sonraki Kısım'a (ya da bu Kısmın geri kalanına) taşınacak büyük bir coğrafi/tematik hareket.
-- Karia'nın "humma" yalanı hâlâ patlamadı — açık uç, bu Kısımda kapanması şart değil.
-- Deniz dibindeki taş düzensiz parlamaya devam ediyor — Zaleena'nın cephesi hâlâ askıda.
-- Ferrin/Malakor hattı: Karakçı'nın ölümünden sonra geri çekilir mi, yoksa ısrar mı eder — henüz belirlenmedi.
+15. **Karia** — bolum15 — Karakçı'nın ölüm haberi Karia'ya ulaşıyor; kendi yalanıyla paralellik kuruyor (Elowen: "seninki henüz kimseyi öldürmedi"); dört toprağa "kademeli gerçek açıklama" teklifi sunuyor ve kabul ediliyor. ✅
+16. **Zaleena** — bolum16 — Kendi payına düşen sorumluluğu üstleniyor (Ferrin istihbaratını o sağlamıştı); taşa "doğru yaklaşma yolu" arayışı başlıyor ama Sevda kanının farklı olduğunu hatırlatıyor; kıyı halkını sessizce, kademeli tahliyeye başlıyor. ✅
+17. **Togan** — bolum17 — Ölü topraklara giriş; pusula şaşkın dönüyor; Togan'ın sezgisi artık çok daha büyük bir "ağırlık" hissediyor; ikisi de aynı rüyayı görüyor (beyaz oda, boş iskemle — Külliyat'taki kanon detay); Togan geri dönmemeye karar veriyor. ✅
+18. **Temujin** — bolum18 — Anya'nın koşullu teklifi: Sungurlar tam özerklik kazanıyor, Azgut'un değil kendi bayraklarının altında müttefik kalıyorlar; Temujin hiç pazarlıksız kabul ediyor (Batu'nun itirazına rağmen) — kendi hırsı için Kaya'yı harcadığını itiraf ederek. Karakçı'nın annesi onu görmek istiyor, tek başına gitmeye karar veriyor. ✅
+
+19. **Karia** — bolum19 — "Kademeli gerçek" ilkesi başkentte uygulanıyor, halk olgun karşılıyor; Karia, boşaltılan köye kendi eliyle dönüp "humma" yalanını itiraf ediyor; kayıp balıkçının annesi: "Bu, yalandan daha acı. Ama en azından, gerçek." ✅ **[Karia'nın yalanı KAPANDI]**
+20. **Zaleena** — bolum20 — Karia'nın cesaretinden ilham alıp kendi halkına da (tam gerçek değil ama) dürüst bir kademeli açıklama yapıyor; Draven'ın teşekkürü; taşın ışıltısı artık neredeyse sürekli — "sabrı tükeniyor." ✅ *(1 klişe tekrarı düzeltildi: suya bakma imgesi → "sessizce başını salladı")*
+
+21. **Togan** — bolum21 — Ufukta ilk kez Işık Seddi'nin altın çizgisi görünüyor; sezgisi artık bekleyen, sabırlı, devasa bir varlık hissediyor (Sessiz Taşlar'ın açlığından farklı); üçüncü rüyada Togan iskemleye oturmuyor — kendi iradesini koruyabiliyor; erzak azlığı yüzünden geri dönüp hazırlanarak tekrar gelmeye karar veriyorlar. ✅
+22. **Temujin** — bolum22 — Karakçı'nın annesi **Tomiris**'le yüzleşme; Temujin hiçbir savunma yapmadan suçunu kabul ediyor; Tomiris onu affetmiyor ama düşman olarak da görmeyecek — Sungur özerkliğinin oğlunun ölümünü "boşuna olmadığını düşünmesini sağladığını" söylüyor. ✅ *(İsim düzeltmesi: "Oyun-ana" → "Tomiris" — "oyun" kelimesi fark edilmeden isim yapılmıştı, YASAK listesine ikinci kez tekrarlanan hata olarak işlendi.)*
+23. **Kısım Kapanışı (4 POV)** — bolum23 — Sungur özerklik anlaşması resmen mühürleniyor; Togan Kartal-Yurdu'na, Kaya'nın mezarını ziyarete dönmeye karar veriyor; Karia boşaltılan köyü gerçek seçimle yeniden iskâna açıyor; Zaleena'nın kıyı tahliyesi tamamlanıyor; Malakor/Ferrin sessiz ama güvenilmez. ✅
+
+## ✅ KISIM 2 TAMAMLANDI (23 bölüm, "Kırılan Düğüm")
+Karanlık Dönüş Mandası'nın ilk tam döngüsü: POV ayrımı, gri karar, gerçek ölüm (Karakçı), ve — önemlisi — bunun gerçek, ödenen bir bedelle (Sungur özerkliği, Temujin'in itirafı, Tomiris'in kısmi kabulü) sonuçlanması. Hem Karia'nın hem Zaleena'nın yalanları da bu Kısımda dürüstçe kapatıldı.
+
+## SIRADAKİ: KİTAP 3, KISIM 3 — açık uçlar/öncelikler
+- Togan'ın Kartal-Yurdu'na dönüşü ve Kaya'nın mezarını ilk kez ziyareti — duygusal bir sahne bekliyor.
+- Işık Seddi'ne tam varış hâlâ saklı — büyük bir rezerv, acele edilmeyecek.
+- Malakor/Ferrin hattı sessiz ama kapanmadı — bir sonraki hamlesi bilinmiyor.
+- Sube ve Temir (kalan iki Sungur teması) — Karakçı'nın ölümünden nasıl etkilendikleri işlenmedi, açık uç.
+- Togan'ın "tam seçim" günü hâlâ beklemede.
+- Deniz dibindeki taş hâlâ aktif — Zaleena'nın cephesi kapanmadı, sadece hazırlık tamamlandı.
 
 ## Not
 Kalite kuralları + Karanlık Dönüş Mandası her bölümde geçerli. Her bölüm sonrası: dedi-X ≤4, klişe kapanış grep, zarf tiki kontrol (dikkatle/sessizce/gerçekten/hızla), isim sicili kontrol, Kaya ASLA canlı sahnede.

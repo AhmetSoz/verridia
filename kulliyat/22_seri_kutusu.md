@@ -5,7 +5,7 @@
 
 ## 1. İSİM SİCİLİ (kullanılmış tüm özel adlar — yeni isim eklemeden önce buraya bak)
 
-**İnsanlar (Sungur/Azgut/Temürçi hattı):** Togan, Melira, Kaya (☠️ öldü, kitap3_kisim1), Anya, Gök-Göz Börü, Alpagu Han, Bozan Han, Gürz-Diş Korgan, "Tek Göz" Orkhon, Batu "Bizon-Yürekli", Toprak-Ana Yeva, Temujin, Toygun (ölü), Sube, Ogedai "Kırık-Kanat", "Rüzgar-Çağıran" Altay, Usta Hekat (ölü), Kalfa/Usta Başı Elara, Usta Darga, Kervanbaşı Boru, Altan, Toruk (Bozan'ın tetikçisi), Ayla (Togan'ın annesi, ölü), Karaçul (boy adı), Yeşim (Genç Kurtlar'a katılan Temürçi), Kaan (Korgan'ın danışmanı, Temujin'in gizli kanalı), Sarnai (Karaçul boyu lideri), Temir (yaşlı Sungur çobanı, Ferrin'e karşı çıktı, kitap3_kisim2), Karakçı (genç Sungur savaşçısı, Kaya'nın eski öğrencisi, kitap3_kisim2 — ⚠️ RİSK ADAYI, gri kararın bedeli olabilir).
+**İnsanlar (Sungur/Azgut/Temürçi hattı):** Togan, Melira, Kaya (☠️ öldü, kitap3_kisim1), Anya, Gök-Göz Börü, Alpagu Han, Bozan Han, Gürz-Diş Korgan, "Tek Göz" Orkhon, Batu "Bizon-Yürekli", Toprak-Ana Yeva, Temujin, Toygun (ölü), Sube, Ogedai "Kırık-Kanat", "Rüzgar-Çağıran" Altay, Usta Hekat (ölü), Kalfa/Usta Başı Elara, Usta Darga, Kervanbaşı Boru, Altan, Toruk (Bozan'ın tetikçisi), Ayla (Togan'ın annesi, ölü), Karaçul (boy adı), Yeşim (Genç Kurtlar'a katılan Temürçi), Kaan (Korgan'ın danışmanı, Temujin'in gizli kanalı), Sarnai (Karaçul boyu lideri), Temir (yaşlı Sungur çobanı, Ferrin'e karşı çıktı, kitap3_kisim2), Karakçı (☠️ öldü, genç Sungur savaşçısı, Kaya'nın eski öğrencisi, kitap3_kisim2), Tomiris (Karakçı'nın annesi, kitap3_kisim2).
 
 **Hegemonya:** Kral III. Theodoric, Leydi Karia, Lord Vorlag, Sör Valerius, Usta Corvus, Sör Kaelan "Kırık-Kalkan", Faelan, Gareth, Prens Aldric (kayıp), Lord Edrik Drennar, Leydi Ismera Maros, Lord Cedric Hallis, Lord Aldous Severin, Leydi Rowena Calder, Lord-Vekil Bren, Elowen (tarihçi, Yamalı Liman kökenli), Osric (Meziyet Programı adayı, küçük soylu), Wren (Meziyet Programı adayı, çiftçi kızı), Toma (Meziyet Programı adayı, eski Yamalı Liman kaptanı, kitap2_kisim3'te tanıtıldı), Mira (Yamalı Liman Kaptanlar Konseyi, Toma'nın yerine).
 
@@ -29,6 +29,8 @@
 
 ### YASAK — bir daha kullanılmayacak sesler (aynı/çok benzer isim çakışması riski)
 Kael / Kaelen / Kaelan — üçü de kanonik ve farklı kişiler; DÖRDÜNCÜSÜ eklenmeyecek. Lyra (iki kişi zaten var: Baş Kâtip Lyra ve tarihi Kraliçe Lyra — efsanevi ve aktif karakter olarak ayrı bağlamda kalırlar, üçüncü bir Lyra YOK). Elara / Zaleena benzer ses ailesi doldu, yenisi yok.
+
+**⚠️ TEKRARLANAN HATA — İKİNCİ KEZ YAKALANDI:** Sıradan bir Türkçe kelimeyi, hiç fark etmeden, özel isim olarak kullanma hatası. İlk kez Kitap 2 Kısım 5'te "Oyun" (Korgan'ın danışmanı) → "Kaan" olarak düzeltildi. İKİNCİ KEZ, Kitap 3 Kısım 2'de, Karakçı'nın annesine "Oyun-ana" adı verildi (fark edilmeden "oyun" kelimesi yine kullanıldı) → "Tomiris" olarak düzeltildi. **Kalıcı kural: yeni bir isim yazmadan hemen önce, kelimenin sıradan Türkçe bir isim/sıfat/fiil olup olmadığını bilinçli olarak kontrol et — özellikle -ana, -baba, -han gibi eklerle birleşik isim üretirken, kökün gerçek bir kelime olmadığından emin ol.**
 
 ---
 
@@ -374,6 +376,7 @@ Togan, Sed'in ardında, yaşlı bir Işıyan'dan, kademeli ama önemli bir gerç
 - Her POV'un kendine has iç ses ritmi korunur: Togan kısa/duygusal, Temujin soğuk/hesaplı, Karia pratik/denizci metaforlu, Zaleena sakin/gözlemci.
 - Tempo dönüşümlü: aksiyon bölümünden sonra sakin/politik bölüm, kasvetli bölümden sonra nefes alma anı.
 - Terminoloji Külliyat'la birebir uyumlu olmalı; yeni bir dünya detayı icat edilirse önce Külliyat'a, sonra romana işlenir — asla tersi değil.
+- **ÜÇÜNCÜ KLİŞE UYARISI (Kitap 3, Kısım 2'de tespit edildi) — DÜZELTİLDİ:** Zaleena'nın "suyun karanlığına/suya baktı" varyasyonu, aynı Kısım içinde (bolum04, bolum20 taslağı) tekrarlandı — grep pattern'i bunu "denize baktı" olmadığı için yakalamıyordu. Bolum20'deki tekrar, "sessizce başını salladı"ya çevrildi. **Kural: Zaleena için "suya/karanlık suya/denize baktı" imgesi, Kısım başına en fazla 1 kez kullanılabilir, ve asla art arda iki bölümde değil.**
 - **YENİ KLİŞE UYARISI (Kitap 2, 6-7. Kısım'da tespit edildi) — DÜZELTİLDİ:** Karia/Zaleena bölümlerinden 6 tanesi (kisim1: bolum15, 24, 44, 48, 52; kisim2: bolum03), kapanış cümlesinde, gerçekten, "pencereden/denize baktı" ile bitiyordu — Kitap 1'deki "gökyüzüne baktı... kızıl leke" sorununun bir tekrarı, farklı bir imgeyle. **Hepsi, farklı, sahneye özgü kapanış beat'leriyle (nesneye dokunma, mektubu katlama, sessiz oturma) değiştirildi.** Geri kalan ~11 dosyada "limana/denize baktı" ifadesi geçiyordu ama bölümün gerçek son cümlesi değildi (sahne ortasında bir an olarak kullanılmıştı) — bunlara dokunulmadı, sorun değildi. **Kural, kalıcı: her yeni bölümün SON CÜMLESİNİ yazmadan önce, bunun bir "pencereden/güverteden bir yere baktı" kalıbı olup olmadığını kontrol et.**
 
 ## 17. KİTAP 3, 1. KISIM — DEVAM EDİYOR (roman/kitap3_kisim1/)
@@ -394,7 +397,8 @@ Togan, Sed'in ardında, yaşlı bir Işıyan'dan, kademeli ama önemli bir gerç
 - Bölüm 7, 11 (Karia hattı): Yalan büyüyor, köy tamamen boşaltılıyor; Elowen'in vicdan uyarısı; Karia, Zaleena'ya dürüst bir itiraf mektubu yazıyor — iki kraliçe yükü paylaşıyor.
 - Bölüm 8, 12 (Zaleena hattı): Deniz taşı düzensiz/sabırsız parlamaya başlıyor (Sevda: "susar ama unutmaz"); Zaleena kendi istihbarat ağını Kaan'a yardım için seferber ediyor — Ferrin'in Malakor'un uzun süredir kullandığı bir ajan olduğu ortaya çıkıyor.
 - **⭐ YAPISAL NOT:** Bu Kısım, Karanlık Dönüş Mandası'nın ilk tam uygulaması — POV ayrımı (Togan/Temujin fiziksel olarak ayrıldı), gri karar (Temujin), ve gerçek bir ikinci ölüm (Karakçı, Kaya'dan sonra) hepsi bu 14 bölümde teslim edildi.
-- **Yeni isimler:** Mirel (Mirasçı arşivci), Ferrin (Delta ajanı), Temir (Sungur çoban), Karakçı (☠️ öldü) — hepsi sicile eklendi, çakışma yok.
+- **Yeni isimler:** Mirel (Mirasçı arşivci), Ferrin (Delta ajanı), Temir (Sungur çoban), Karakçı (☠️ öldü), Tomiris (Karakçı'nın annesi) — hepsi sicile eklendi, çakışma yok.
+- Bölüm 15-23 (Kısım 2 kapanışı): Karia'nın "humma" yalanı, köye kendi eliyle giderek KAPANDI (kayıp balıkçının annesi: "Bu, yalandan daha acı. Ama en azından, gerçek"). Zaleena da kademeli dürüst açıklamayla kendi halkını tahliye etti. Togan ve Perren, Işık Seddi'ni ufukta ilk kez gördü, ama erzak nedeniyle geri döndüler — Sed'e VARIŞ bilinçli olarak ertelendi (büyük rezerv). Temujin, Karakçı'nın annesi Tomiris'le yüzleşti; Tomiris affetmedi ama düşmanlık da beslemeyecek. Sungur özerklik anlaşması resmen mühürlendi. **KISIM 2 TAMAMLANDI (23 bölüm) — bkz. roman/13_PLAN_KITAP3_kisim2.md "KISIM 2 TAMAMLANDI" notu.**
 
 ### ☠️ KARANLIK DÖNÜŞ MANDASI (Kitap 3, Kısım 1 sonunda, yazarın kendi öz-eleştirisi + kullanıcının açık talebi üzerine kalıcı yön)
 Kitap 2 ve Kitap 3 Kısım 1'in ilk 24 bölümü fazla "güvenli"ydi: hiç kalıcı kayıp yok, her düşman hamlesi (özellikle Malakor) art arda başarısız, her konsey oy birliğiyle uzlaşıyor, tüm ana POV'lar korunuyordu — bu monotonluk ve düşük gerilim yaratıyordu. **Bundan sonra kalıcı kural:**
