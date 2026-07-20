@@ -1,47 +1,56 @@
-# VERRIDIA SİTESİ — KULLANIM
+# VERRIDIA WEB SİTESİ
 
 ## Açmak
-`index.html` dosyasına çift tıkla — tarayıcıda açılır. (Kurulum yok, internet gerekmez.)
+`site/index.html` dosyasına çift tıkla — tarayıcıda açılır. Kurulum yok.
+(İnternet varsa Cormorant Garamond fontu yüklenir; yoksa Georgia ile açılır, site yine çalışır.)
 
-## Dosyaları nereye koyacaksın (İSİMLER AYNEN BÖYLE OLMALI)
+## Sayfalar
+- **index.html** — sinematik ana sayfa: bulutların aralandığı hero, scroll animasyonları,
+  interaktif kıta haritası (8 mekân pini), mekân kartları (tıklayınca geçiş videosu → mekân görseli),
+  Dört Yol karakter kartları, kitap CTA.
+- **kitap.html** — kitap okuyucu: 3 kitap / 14 kısım / 266 bölüm.
+  - Sol ağaç menü (kitap → kısım → bölüm), ☰ ile açılıp kapanır
+  - A− / A+ yazı boyutu, ☀/☾ gece–sepya tema
+  - ← → klavye ile bölüm geçişi, üstte okuma ilerleme çubuğu
+  - Kaldığın bölüm otomatik hatırlanır (localStorage)
 
+## Yeni bölüm ekleyince (ÖNEMLİ)
+Romana yeni bölüm yazıldığında siteye yansıtmak için proje kökünde şunu çalıştır:
+
+```
+node site/build_kitap.js
+```
+
+Bu komut `roman/` klasörünü tarayıp `site/assets/js/kitap-data.js` dosyasını yeniden üretir.
+Yeni bir Kısım klasörü açılırsa `site/build_kitap.js` içindeki `YAPI` listesine eklenmeli.
+
+## Dosya düzeni
 ```
 site/
-  index.html
+  index.html            ← ana sayfa
+  kitap.html            ← okuyucu
+  build_kitap.js        ← kitap verisi derleyici (node ile çalışır)
   assets/
-    harita.jpg                ← onaylanan ana harita (jpg/png/webp olabilir)
-    bolge/
-      metheris.jpg            ← bölge görselleri (16:9 üretilenler)
-      yildiz-orsu.jpg
-      kartal-yurdu.jpg
-      buyuk-ordugah.jpg
-      eski-kent.jpg
-      sazlik-taht.jpg
-      yamali-liman.jpg
-      valerius-gecidi.jpg
-      isik-seddi.jpg
-    video/
-      metheris.mp4            ← bulut geçiş videoları (aynı adlar, .mp4)
-      yildiz-orsu.mp4
-      ... (diğerleri aynı kalıp)
+    css/stil.css        ← ana sayfa stili
+    css/kitap.css       ← okuyucu stili
+    js/ana.js           ← ana sayfa etkileşimleri (paralaks, harita, modal)
+    js/okuyucu.js       ← okuyucu mantığı
+    js/kitap-data.js    ← OTOMATİK ÜRETİLİR — elle düzenleme
+    img/                ← harita + mekân görselleri (temiz ASCII adlar)
+    video/              ← mekân geçiş videoları (mp4 — GIF'e çevrilmedi, gerek yok)
 ```
 
-- Dosya adlarında Türkçe karakter ve boşluk YOK (yukarıdaki adları aynen kullan).
-- Bir şey eksikse site bozulmaz: video yoksa sis geçişiyle açılır, bölge görseli yoksa "bekleniyor" yazar, harita yoksa yönerge gösterir. Dosyayı attıkça sayfayı yenile.
+## Harita pinlerinin yeri tutmazsa
+Pin koordinatları göz kararı yerleştirildi. `assets/js/ana.js` içindeki `MEKANLAR`
+listesinde her mekânın `x` ve `y` değeri yüzde cinsindendir — oradan oynatabilirsin
+(ya da bana "Metheris biraz sola" de, ben ayarlarım).
 
-## Ne yapıyor şu an
-- Tam ekran harita: sürükleyerek gezinme + tekerlekle sinematik zoom.
-- 9 altın nokta (bölgeler): üzerine gelince isim, tıklayınca bulut videosu → bölge sayfası (görsel + külliyattan tanıtım metni).
-- "Haritaya Dön" ile sisin içinden geri dönüş.
+## Kaynak görseller
+Orijinaller `haritalar animasyon/` klasöründe duruyor; site kendi kopyasını
+`site/assets/img` ve `site/assets/video` altında temiz adlarla kullanır.
+Yeni görsel/video eklersen aynı adlandırma kalıbıyla (küçük harf, tire) kopyala.
 
-## Nokta yerleri tutmazsa (KALİBRASYON)
-Haritan üretildiği için nokta konumlarını göz kararı yerleştirdim. Düzeltmek için:
-1. Sitede **K** tuşuna bas (kalibrasyon açılır).
-2. Haritada doğru yere tıkla → koordinat panoya kopyalanır (ör. `x:46.2, y:58.9`).
-3. Bana "metheris şurası: x:.., y:.." diye gönder — ben günceller ya da `index.html` içinde REGIONS listesinde kendin değiştirirsin.
-
-## Sonraki aşamalar (planlı)
-- Külliyat/ansiklopedi sekmesi (halklar, tarih, sözlük).
-- Kitap sekmesi (bölümler yayınlandıkça).
-- "Kitapla açılan harita": okunmamış bölgeler sisli başlar, kitap ilerledikçe açılır.
-- Ses ambiyansları (bölgeye girince: Temürçi çekiç ritmi, Delta su sesi...).
+## Sonraki aşamalar (fikir)
+- Külliyat/ansiklopedi sekmesi (halklar, tarih, sözlük)
+- "Kitapla açılan harita": okunmamış bölgeler sisli, okudukça açılır
+- Bölgeye özel ses ambiyansları
