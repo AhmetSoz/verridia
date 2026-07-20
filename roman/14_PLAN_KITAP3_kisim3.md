@@ -29,13 +29,18 @@ Togan'ın Kaya'nın mezarını ziyareti, duygusal bir kapanış/yeniden başlang
 7. **Karia** — bolum07 — İki mühürün tek bir "Büyük Döngü" sisteminin parçaları olabileceği teorisi; dört toprağın ortak "Büyük Döngü Komisyonu" kuruluyor. ✅
 8. **Zaleena** — bolum08 — Sevda, Yamalı Liman'ı komisyonda temsil ediyor; Serel'in raporu: sistem, "ne tutulduğu" sorusuna odaklanıyor (kim değil); deniz taşı 3 haftalık sessizlikten sonra kısa bir kez daha parlıyor. ✅
 
-## SIRADAKİ ÖNCELİK (8 bölüm tamamlandı)
-- **"Büyük Döngü" teorisi** artık bu Kısmın merkezi entelektüel çerçevesi — Kızıl Akıntı, Sessiz Taşlar, Sed: hepsi tek bir sistemin parçaları olabilir. Karanlık Varlık hâlâ isimlendirilmedi (rezerv korunuyor).
-- Özerklik "emsali" — Korgan'la ortak çözüm arayışı devam edecek.
-- Karia'nın meziyet meclisi pilot programının sonucu henüz bilinmiyor.
-- Malakor/Ferrin hattı hâlâ sessiz — geri dönüşü bekleniyor.
-- Sube'nin suçluluğu işlendi ama tam çözülmedi; Temir'in durumu hâlâ açık.
-- Deniz taşının "kısa parıltısı" — bir sonraki gelişme için kanca.
+9. **Togan** — bolum09 — Komisyonun daveti; Togan, kendi kan deneyimini komisyona anlatıyor; Sed'in Sessiz Taşlar'dan farklı davrandığını açıklıyor ("bana gelmedi, sadece izledi"); Serel'le uzaktan, güvenli gözlem yöntemi kuruluyor. ✅
+10. **Temujin** — bolum10 — "Her talebi ayrı değerlendir" ilkesi ilk sınavını geçiyor (5 Azgut boyu, 2 kabul 3 red, gerekçeli); yavaş ama tutarlı adalet, hızlı keyfi karardan daha güvenilir bulunuyor; Büyük Döngü raporları yeni bir endişe getiriyor. ✅
+11. **Karia** — bolum11 — Meziyet meclisi ilk gerçek anlaşmazlığını kendi başına çözüyor (mevsimsel güvenlik hattı uzlaşması); model birkaç bölgeye daha yayılıyor; **⚠️ Büyük Döngü'nün HIZLANDIĞINA dair belirsiz ama tutarlı işaret** — Karia kendini "daralan bir pencereye karşı yarışan zamanlayıcı" gibi hissediyor. ✅
+12. **Zaleena** — bolum12 — Tahliye planı aktif tatbikata dönüştürülüyor (başarılı); Kessel'in gözlemi: kaçma planı var ama "karşılık verme" planı yok; Serel'den olası ikinci bir "anahtar" ihtimali; Zaleena, Kaya'nın bedelini boşa çıkarmama kararlılığı. ✅
+
+## SIRADAKİ ÖNCELİK (12 bölüm tamamlandı)
+- **⚠️ Büyük Döngü hızlanıyor olabilir** — bu Kısmın yeni, en acil gerilim hattı. Zaman baskısı, artık, bütün POV'ları etkiliyor.
+- Serel'in ima ettiği "ikinci bir anahtar" ihtimali — Togan'ınkinden farklı bir yaklaşım sunabilir; açık, geliştirilmemiş bir ipucu.
+- Özerklik "emsali" çözülüyor gibi görünüyor — Korgan'la ortak çerçeve işliyor.
+- Malakor/Ferrin hattı hâlâ sessiz — geri dönüşü bekleniyor, açık uç.
+- Sube ve Temir'in durumu hâlâ tam işlenmedi.
+- Deniz taşının "kısa parıltısı" (bolum08) ile hızlanan döngü teorisi (bolum11) birbirine bağlanabilir — sonraki bölümlerde ele alınmalı.
 
 ## Not
 Kalite kuralları + Karanlık Dönüş Mandası her bölümde geçerli. Her bölüm sonrası: dedi-X ≤4, klişe kapanış grep (Zaleena için "suya/denize baktı" Kısım başına 1 kez sınırı dahil), zarf tiki kontrol, isim sicili kontrol (YENİ: sıradan Türkçe kelimeleri isim yapmaktan kaçın — "Oyun" hatası iki kez yaşandı), Kaya ASLA canlı sahnede, Karakçı ASLA canlı sahnede.
