@@ -40,6 +40,7 @@ const YAPI = [
     kisimlar: [
       { dir: 'roman/kitap3_kisim1', ad: 'Sessiz Taşlar' },
       { dir: 'roman/kitap3_kisim2', ad: 'Kırılan Düğüm' },
+      { dir: 'roman/kitap3_kisim3', ad: 'Büyük Döngü' },
     ],
   },
 ];

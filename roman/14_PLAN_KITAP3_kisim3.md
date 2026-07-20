@@ -1,4 +1,4 @@
-# ÜÇÜNCÜ KİTAP — 3. KISIM: (isim henüz konmadı)
+# ÜÇÜNCÜ KİTAP — 3. KISIM: "Büyük Döngü"
 *("Kırılan Düğüm"in kapanışından hemen sonra başlıyor. Karanlık Dönüş Mandası yürürlükte.)*
 
 ## Karakterlerin Konumu (Kısım başı)
