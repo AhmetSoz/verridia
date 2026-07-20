@@ -96,9 +96,9 @@ a { color: var(--altin); text-decoration: none; }
 }
 .hero .katman { position: absolute; inset: -5%; will-change: transform, opacity; }
 .hero .harita-katmani {
-  background: url("../img/ana-harita.png") center / cover no-repeat;
+  background: url("../img/ana-harita.jpg") center / cover no-repeat;
   animation: kenburns 45s ease-in-out infinite alternate;
-  filter: saturate(.9) brightness(.8);
+  filter: saturate(.95) brightness(.92);
 }
 @keyframes kenburns {
   from { transform: scale(1) translateY(0); }
@@ -106,15 +106,30 @@ a { color: var(--altin); text-decoration: none; }
 }
 .hero .karartma {
   background:
-    radial-gradient(ellipse at center, transparent 30%, rgba(10,13,19,.55) 78%, rgba(10,13,19,.92) 100%),
-    linear-gradient(to bottom, rgba(10,13,19,.45), transparent 32%, transparent 60%, var(--bg) 98%);
+    radial-gradient(ellipse at center, transparent 45%, rgba(10,13,19,.35) 80%, rgba(10,13,19,.8) 100%),
+    linear-gradient(to bottom, rgba(10,13,19,.35), transparent 26%, transparent 66%, var(--bg) 98%);
 }
+/* Bulutlar: açılışta kendiliğinden dağılır, geriye ince bir pus kalır */
 .hero .bulut {
-  position: absolute; inset: -12%;
-  background: url("../img/bulut.png") center / cover no-repeat;
-  opacity: .95; will-change: transform, opacity;
+  position: absolute; inset: -14%;
+  background: url("../img/bulut.jpg") center / cover no-repeat;
+  opacity: 1; will-change: transform, opacity; pointer-events: none;
+  animation: bulutDagil1 4.2s cubic-bezier(.3,.55,.25,1) 1.2s forwards;
 }
-.hero .bulut.b2 { transform: scaleX(-1); opacity: .6; }
+.hero .bulut.b2 {
+  transform: scaleX(-1); opacity: .75;
+  animation: bulutDagil2 4.8s cubic-bezier(.3,.55,.25,1) 1.4s forwards;
+}
+@keyframes bulutDagil1 {
+  to { transform: translate3d(-15%, -32%, 0) scale(1.45); opacity: .1; }
+}
+@keyframes bulutDagil2 {
+  to { transform: scaleX(-1) translate3d(-17%, -27%, 0) scale(1.5); opacity: .06; }
+}
+/* Performans: hero ekran dışındayken ya da modal açıkken animasyonlar tamamen durur */
+.hero.duraklat .katman { animation-play-state: paused; }
+body.modal-acik .hero .katman { animation-play-state: paused; visibility: hidden; }
+body.modal-acik .asagi-ok { visibility: hidden; }
 .hero-icerik {
   position: relative; z-index: 5; text-align: center; padding: 0 1.5rem;
 }
@@ -241,7 +256,8 @@ a { color: var(--altin); text-decoration: none; }
 }
 .modal.acik { display: flex; animation: modalBelir .45s ease; }
 @keyframes modalBelir { from { opacity: 0; } to { opacity: 1; } }
-.modal-ic { position: relative; width: min(1100px, 94vw); }
+.modal-ic { position: relative; width: min(1100px, 94vw); animation: modalIcBelir .55s cubic-bezier(.2,.7,.3,1); }
+@keyframes modalIcBelir { from { opacity: 0; transform: translateY(26px) scale(.97); } to { opacity: 1; transform: none; } }
 .modal-medya { position: relative; border: 1px solid var(--cizgi); border-radius: 3px; overflow: hidden; background: #000; aspect-ratio: 16/9; }
 .modal-medya video, .modal-medya img.son-kare {
   position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;

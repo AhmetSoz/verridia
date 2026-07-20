@@ -19,24 +19,14 @@
   window.addEventListener("scroll", barGuncelle, { passive: true });
   barGuncelle();
 
-  /* ---- Hero paralaks (bulutlar aralanır, harita yavaş kayar) ---- */
-  var bulut1 = document.querySelector(".bulut.b1");
-  var bulut2 = document.querySelector(".bulut.b2");
-  var haritaKatmani = document.querySelector(".harita-katmani");
+  /* ---- Hero: başlık scroll'da kaybolur (bulutlar CSS animasyonuyla kendiliğinden dağılır) ---- */
+  var hero = document.querySelector(".hero");
   var heroIcerik = document.querySelector(".hero-icerik");
   var ticking = false;
   function paralaks() {
     var y = window.scrollY;
     var h = window.innerHeight;
     var oran = Math.min(y / h, 1.4);
-    if (bulut1) {
-      bulut1.style.transform = "translate3d(" + oran * -14 + "%, " + oran * -30 + "%, 0) scale(" + (1 + oran * 0.25) + ")";
-      bulut1.style.opacity = Math.max(0.95 - oran * 1.35, 0);
-    }
-    if (bulut2) {
-      bulut2.style.transform = "scaleX(-1) translate3d(" + oran * -16 + "%, " + oran * -24 + "%, 0) scale(" + (1 + oran * 0.3) + ")";
-      bulut2.style.opacity = Math.max(0.6 - oran * 1.1, 0);
-    }
     if (heroIcerik) {
       heroIcerik.style.transform = "translateY(" + oran * 60 + "px)";
       heroIcerik.style.opacity = Math.max(1 - oran * 1.5, 0);
@@ -46,6 +36,15 @@
   window.addEventListener("scroll", function () {
     if (!ticking) { requestAnimationFrame(paralaks); ticking = true; }
   }, { passive: true });
+
+  /* Hero ekran dışına çıkınca ağır animasyonları durdur (performans) */
+  if (hero && "IntersectionObserver" in window) {
+    new IntersectionObserver(function (girisler) {
+      girisler.forEach(function (g) {
+        hero.classList.toggle("duraklat", !g.isIntersecting);
+      });
+    }, { threshold: 0.02 }).observe(hero);
+  }
 
   /* ---- Scroll reveal ---- */
   var io = new IntersectionObserver(function (girisler) {
@@ -122,7 +121,7 @@
       var kart = document.createElement("div");
       kart.className = "mekan-kart gizli";
       kart.innerHTML =
-        '<img loading="lazy" src="assets/img/' + m.id + '.png" alt="' + m.ad + '">' +
+        '<img loading="lazy" src="assets/img/' + m.id + '.jpg" alt="' + m.ad + '">' +
         '<span class="kart-halk">' + m.halk + "</span>" +
         '<div class="kart-ad">' + m.ad + "</div>";
       kart.addEventListener("click", function () { mekanAc(m); });
@@ -135,10 +134,11 @@
     mAd.textContent = m.ad;
     mHalk.textContent = m.halk;
     mMetin.textContent = m.metin;
-    mImg.src = "assets/img/" + m.id + ".png";
+    mImg.src = "assets/img/" + m.id + ".jpg";
     mImg.classList.remove("goster");
     mVideo.src = "assets/video/" + m.id + ".mp4";
     modal.classList.add("acik");
+    document.body.classList.add("modal-acik"); /* arka plan animasyonları durur */
     document.body.style.overflow = "hidden";
     mVideo.currentTime = 0;
     var oynat = mVideo.play();
@@ -146,9 +146,11 @@
   }
   if (mVideo) {
     mVideo.addEventListener("ended", function () { mImg.classList.add("goster"); });
+    mVideo.addEventListener("error", function () { mImg.classList.add("goster"); });
   }
   function mekanKapat() {
     modal.classList.remove("acik");
+    document.body.classList.remove("modal-acik");
     document.body.style.overflow = "";
     mVideo.pause();
     mVideo.removeAttribute("src");
