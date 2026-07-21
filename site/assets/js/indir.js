@@ -23,7 +23,7 @@
             '<div class="pdf-ic-baslik">İÇİNDEKİLER</div>' +
             '<div class="pdf-ic-sus">✦ ✦ ✦</div>';
     kitap.kisimlar.forEach(function (kisim, ki) {
-      h += '<div class="pdf-ic-kisim"><span class="no">' + (ki + 1) + ". KISIM</span> ' + kisim.ad + "</div><ul>";
+      h += '<div class="pdf-ic-kisim"><span class="no">' + (ki + 1) + '. KISIM</span> ' + kisim.ad + '</div><ul>';
       kisim.bolumler.forEach(function (b) {
         h += '<li><a href="#' + bid(bi, ki, b.no) + '"><span class="b-no">' + b.no + ".</span> " + b.ad + "</a></li>";
       });
