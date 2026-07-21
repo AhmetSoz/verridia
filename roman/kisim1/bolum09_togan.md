@@ -159,6 +159,30 @@ Gareth çizmelerinin ucundaki çamuru kazıdı. “Sed’e kadar gelmem. Ama Kuz
 
 Togan başını salladı.
 
+Akşam yemeği Seren’in kulübesinde değil, köyün ortak avlusunda yenildi. Uzun masanın bir yanına Togan için yer açılmıştı; karşısındaki üç kişi kaşıklarını eline almadan önce onun kılıcını çıkarmasını bekledi.
+
+Togan kemerini çözüp silahı duvara dayadı. Bunu görünce kapının arkasında saklanan çocuk ortaya çıktı. Yüzünün yarısını kaplayan kızıl leke, sağ kaşını saç çizgisine kadar bölüyordu.
+
+“Kartal ısırır mı?” diye sordu.
+
+“İsterse.”
+
+Çocuk elindeki et parçasını Burkut’a uzattı. Kartal önce Togan’a baktı, sonra eti gagasının ucuyla aldı. Çocuk güldü. Masadaki yetişkinlerden biri ilk kez omuzlarını gevşetti.
+
+Yaşlı bir köylü çorbasını karıştırdı. “Sungurlar bizi de lanetli sayar mı?”
+
+“Kızıl Humma’yı gördük,” dedi Togan. “Sağ kalan insanı değil.”
+
+“Hegemonya da öyle söyler. Vergi günü.”
+
+Togan cevap veremedi. Kendi obasında Damgalılardan nasıl söz edildiğini düşündü: uğursuz, kirlenmiş, Akıntı’nın yarım bıraktığı insanlar. Bu masaya oturmadan önce bu sözlere hiç karşı çıkmamıştı.
+
+Seren önüne ikinci kâseyi koydu. “İnsanın inanmadığı zulüm de sustuğu sürece iş görür.”
+
+Togan kaşığı aldı. “Dönersem bunu anlatacağım.”
+
+Yaşlı adam başını kaldırdı. “Dönersen önce ne gördüğünü unutmadığından emin ol.”
+
 O gece köyde kaldı. Yatağa uzandığında yarası hâlâ yanıyor, kapıların üstündeki çıngıraklar rüzgârla aralık aralık ötüyordu. Bozkır için bir kez daha ıslık çalmayı düşündü.
 
 Sesini içine gömdü.

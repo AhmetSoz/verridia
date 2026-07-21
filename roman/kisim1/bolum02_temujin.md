@@ -59,6 +59,34 @@ Orkhon’un ağzının bir köşesi kıpırdadı. Genç Kurtlar kâğıt üzerin
 
 “Bugün için hayır.”
 
+Talim alanına indiklerinde gençler ikili sıralara ayrılmıştı. Sube, bir deri parçasına çizilmiş düzeni elinde tutuyor; üçüncü sıradaki iki savaşçıyı yer değiştirmeye çalışıyordu. Adamlar ondan yaşlıydı. Biri söylenince Sube kâğıdı katlayıp kemerine soktu.
+
+“Emir benim değil,” dedi. “Düzen Temujin’in.”
+
+Temujin yaklaşınca itiraz eden savaşçı sustu.
+
+“Devam et,” dedi Temujin.
+
+Sube üçüncü sırayı düzeltti. Sonra elli adamı beşli takımlara böldü. İki kişinin adını karıştırdı; Temujin düzeltmedi. Talim başlayınca yanlış adla çağrılan savaşçı yarım vuruş geç kaldı ve yanındaki adamın kalkanını açıkta bıraktı.
+
+Temujin tahta kılıcını araya sokup darbeyi durdurdu.
+
+“Bir adamın adını bilmezsen boşluğunu da fark etmezsin,” dedi Sube’ye.
+
+Sube’nin yüzü kızardı. İki adı doğru biçimde tekrarladı.
+
+“Baştan.”
+
+Takımlar yeniden dizildi. Bu kez ilk çarpışmada hiçbir kalkan tek kalmadı. Temujin, aynı hatayı üçüncü kez yapan iri savaşçıyı ön sıradan aldı; daha zayıf ama komşusunun nefesini dinleyen birini yerine koydu.
+
+Orkhon bütün talimi sessizce izledi. “İnsanları kılıçlarına göre değil, birbirlerine göre sıralıyorsun.”
+
+“Kılıç yalnız önündekini öldürür. Düzen, yanında kimin yaşayacağını belirler.”
+
+“Bunu Korgan’ın komutanlarına öğretirsen işin zorlaşır.”
+
+“Öğretmeyeceğim.”
+
 Temujin Batu’yu küçümsemiyordu. Bir baltayı kalkanıyla birlikte yarabilecek kadar güçlü bir adamı küçümsemek, hesabı yanlış sayıdan başlatmaktı. Fakat Batu her sorunun karşısına gücünü koyardı. Temujin’in beklediği gün geldiğinde o gücün kimi koruyacağına Batu’nun kendisi bile son ana kadar karar veremeyebilirdi.
 
 Orkhon yere tükürdü. “Korgan’ın tahtı sana küçük geliyor.”
@@ -74,6 +102,32 @@ Orkhon’un sağlam gözü kısıldı. Bu kez karşısında eski dostunun oğlun
 “Liste hazır.”
 
 “Hazır listeler çabuk eskir.”
+
+Talim alanının girişinde Bizon-Yürekli Batu belirdi. Omzunda geniş ağızlı baltası vardı; baltanın sapını taşır gibi değil, kendi kolunun devamı gibi tutuyordu. Genç Kurtların düzenini bir süre izledi.
+
+“Beşli sıralar dar geçitte dağılır,” dedi.
+
+Temujin ona döndü. “Geniş ovada dağılmıyor.”
+
+“Savaş yerini seçmene izin vermez.”
+
+“İyi komutan seçmesi için savaşı zorlar.”
+
+Batu’nun çevresindeki iki adam güldü. Batu gülmedi. Talim kalkanlarından birini aldı, ön sıradaki savaşçıya yüklenip onu iki adım geriye sürükledi.
+
+“Bunu neyle zorlayacaksın?”
+
+Temujin Sube’ye baktı. Genç savaşçı emri beklemeden iki kişiyi Batu’nun yanlarına gönderdi. Biri baltanın sapını kalkanıyla sıkıştırdı, öteki Batu’nun dizinin arkasına tahta kılıcı dayadı. Üçüncü adam ilk savaşçıyı omzundan destekledi.
+
+Batu baltayı çekse üçünü de savurabilirdi. Çekmedi. Kalkanı yere bıraktı.
+
+“Fena değil,” dedi. Övgüyü Sube’ye değil Temujin’e vermişti. “Korgan bunları ne için hazırladığını soracak.”
+
+“Cevabımı biliyor.”
+
+“Han, aynı cevabı iki kez duyunca üçüncüsünü arar.” Batu baltasını omzuna aldı. “Ben de.”
+
+Giderken Genç Kurtların yüzlerini tek tek süzdü. Temujin onun kaç kişiyi tanıdığını hesaplayamadı. Listesinde Batu’nun karşısına ilk kez kesin bir sayı yerine soru işareti koydu.
 
 Aşağıda talim sona ermişti. Kılıç seslerinin yerini kahkahalar aldı. Elli genç, ateşin çevresine otururken halka genişledi. Temujin boş kalan yerleri saydı. Bir gün orada beş yüz kişi olacaktı. Sonra beş bin. Bu düşünce, karnında uzun süredir taşıdığı açlığı yatıştırmadı; ona biçim verdi.
 

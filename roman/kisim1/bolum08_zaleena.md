@@ -47,6 +47,28 @@ Masanın bir yanından kısa bir kahkaha yükseldi. Roric öfkesini yuttu, önü
 
 “Korkmak isteyen korksun. Kazanmak isteyen rotaya baksın.”
 
+Kaptan Draven masaya iki parmağıyla vurdu. “Pay hesabı yok. Metheris ambarından ne çıkacağını bile bilmiyoruz.”
+
+Roric haritanın kenarına üç altın para attı. “Her gemiye bir pay, her kaptana ikinci pay. İlk sura çıkan üçüncü payı alır.”
+
+“Ölen tayfanın payı?” diye sordu Zaleena.
+
+Roric ona bakmadı. “Gemisine kalır.”
+
+“Gemisi batarsa?”
+
+Bu kez cevap veren olmadı.
+
+Kessel haritayı kendine çekti. “Dönüş akıntısı Kızıl Hafta’nın ikinci gecesinde tersine döner. Yükle çıkarsak Jilet Resifleri’ne karşı kürek çekeriz.”
+
+“O zaman daha hızlı kürek çekersiniz,” dedi Roric.
+
+Zaleena, masanın çevresindeki yüzleri izledi. Ganimet sözü kaptanları öne çekmişti; dul payı ve dönüş suyu onları sandalyelerine geri itti. Roric de bunu gördü. Haritanın üstüne eğilip sesi yumuşattı.
+
+“Yıllardır Hegemonya’nın artıklarını taşıyoruz. Şarabını içiyor, çeliğine para ödüyor, gemilerini görünce resiflere saklanıyoruz. Bir gece onların bizden saklanmasını istemiyor musunuz?”
+
+Bu, altından daha iyi bir yemdi. Draven bıçağını çıkardı. Masaya bırakmadan önce Kessel’e baktı; Kessel hâlâ bekliyordu.
+
 Jilet Resifleri’nden çıkış, güney akıntısı, gece yaklaşması ve ganimet payları üzerinde konuştular. Zaleena tek kelime etmeden dinledi. Öncü gemilere yazılan adları, geride bırakılacak iskeleleri ve kimsenin erzak hesabı sormadığını aklında tuttu.
 
 Toplantı sona ererken on iki kaptan Roric’in işaretinin altına bıçağını koydu. Üçü ertesi güne kadar süre istedi. Kessel bıçağını kemerinden çıkarmadı.
@@ -102,6 +124,24 @@ Kelime Zaleena’yı hazırlıksız yakaladı. Yıllardır içinde taşıdığı
 “Roric duymayacak.”
 
 “Roric’ten önce sen unutacaksın.”
+
+Sorin birkaç adım sonra yeniden konuştu. “Dul payını neden sordun?”
+
+“Çünkü kimse sormadı.”
+
+“Bizim gemide var mı?”
+
+Zaleena’nın cevabı gecikti. *Deniz Hayaleti*’nde ölenin payı kalan mürettebata bölünürdü. Yıllardır adil sandığı düzen buydu; en azından kaptan hepsini almıyordu. Fakat kıyıda bekleyen bir çocuğa bu ayrımın faydası yoktu.
+
+“Yarın kayıt çıkaracağız,” dedi. “Her tayfa, payının onda birini isterse kıyı sandığına bırakacak. Ben her bırakılan dilime bir dilim ekleyeceğim. Ölenin ailesine oradan ödeme yapılacak.”
+
+“İsterse mi?”
+
+“Zorla alınan pay vergi olur. Önce sandığın çalınmadığını görmeleri gerek.”
+
+Sorin başını salladı. “Bir bayraktan önce sandık.”
+
+“Bayrağı bez taşır. Şehri hesap.”
 
 *Deniz Hayaleti*’ne vardıklarında Zaleena başını kaldırıp çıplak ana direği ölçtü. Direkte o gece hiçbir sancak yoktu.
 

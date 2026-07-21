@@ -37,6 +37,26 @@ Kaya kılıcı çekti, fakat elini uzatmadı. “Bu bir Sungur kılıcı değil.
 
 Togan çamurun içinde doğruldu.
 
+Kaya tahta kılıcı yeniden kaldırdı. “Ayağa kalk.”
+
+“Düştüm. Gördün.”
+
+“Düşmek talimin sonu değil.”
+
+Togan dizinin üstünden kalktı. Bu kez saldırmadı. Kaya çevresinde yarım bir daire çizdi; sağ ayağının ucuyla çamura üç kısa iz bıraktı.
+
+“Birincisi rakibin durduğu yer. İkincisi vuracağını sandığın yer. Üçüncüsü öfkenin seni sürüklediği yer.” Tahta kılıcın ucunu son izin üstüne koydu. “Sen hep üçüncüye basıyorsun.”
+
+Togan kılıcını iki elle tuttu. Kaya omzuna hamle yaptı. Savurduğu darbeyi karşılamak yerine geri çekildi, ayağını onun gösterdiği ilk izin yanına bastı. Kaya’nın kılıcı göğsünün önünden geçti. Togan kabzasıyla onun bileğini yokladı; vurmadan durdu.
+
+Kaya’nın kaşları hafifçe kalktı. “Demek hâlâ duyabiliyorsun.”
+
+“Neyi?”
+
+“Senden başka birini.”
+
+Bu küçük başarı Togan’ı rahatlatmadı. Melira’nın son gecesinde de çevresindeki sesleri duyduğuna inanmıştı. Alevler yükselince hepsini kaybetmişti.
+
 “Karşında kim var?” diye sordu Kaya. “Ben mi? Korgan mı? Yoksa bir yıldır mezara koyamadığın biri mi?”
 
 Togan başını eğdi. Kaya’nın cevabı beklediğini biliyordu. Verebileceği her cevap ya yalandı ya da söylemeye dayanamayacağı kadar doğru.
@@ -68,6 +88,20 @@ Togan et suyundan bir yudum aldı. “Rüyaymış.”
 “Sen ne gördüğümü nereden bileceksin?”
 
 Anya’nın elleri ateşin önünde kaldı. “Kocamı bir baskında kaybettim. İlk oğlum kış hummasında kollarımda öldü. Bu obada içinde mezar taşımayan kimse yok.” Başını çevirip Togan’a baktı. “Acını senden alamam. Ama onu besleyip sana hükmettirmene de susamam. Seni Kor-Ateşler’den ayıran ne kaldı, bunu kendine sor.”
+
+Ana ateşin öbür yanında iki çocuk, yanmış bir odun parçasını at yerine kullanarak sessizce oynuyordu. Küçük olanın kürkü omzundan kayınca büyüğü hiç düşünmeden çekip düzeltti. Togan bir zamanlar aynı ateşin çevresinde Kaya’nın peşinden koştuğunu hatırladı. Anya ikisini de kulaklarından yakalayıp çadıra göndermiş, Kaya ertesi sabah suçu bütünüyle üstlenmişti.
+
+O yıllarda oba, insanın arkasında duran bir dağ sanılırdı. Şimdi dağın kendisinden bir parça koparıp götürmek üzere olduğunu biliyordu.
+
+“Babam rüyanda başka bir şey söyledi mi?”
+
+Anya ateşe bir dal sürdü. “Söyledi.”
+
+Togan bekledi.
+
+“Sana kızgın değildi.”
+
+Bu cevap, azardan daha ağır geldi.
 
 Togan yemeği bitirdi. Kâseyi Anya’nın yanına bıraktı; teşekkür etmeye çalıştıysa da kelime boğazından çıkmadı.
 
@@ -119,6 +153,18 @@ Sessizlik uzarken taşların dizilişi zihninde yerine oturdu. Korgan’ın gös
 
 “Geçit yem,” dedi. “Korgan şafakta nehrin sığlığından gelir. Ana gücü batıya çekmiş gibi gösterip doğu kıyısından vuracak.”
 
+Ozan, doğu kıyısındaki taş bizonları iki parmağıyla ayırdı. “Sığlık bahar taşkınında değişti. Atların yarısı çamura gömülür.”
+
+“Öndeki yarısı,” dedi Togan. “Arkadan gelenler onların sırtından yol bulur. Korgan adam kaybetmekten korkmaz.”
+
+Börü haritanın kenarındaki üç kartal işaretini yaklaştırdı. “Kaya, gün doğmadan doğu hattına iki Dinleyen götürecek. Ozan, Ağlayan Kaya’daki ateşleri söndür. Yemi gördüğümüzü belli etmeyeceğiz.”
+
+“Doğu sığlığında yüz atlıyı durdurabiliriz,” dedi ihtiyarlardan biri. “Bin kişi gelirse?”
+
+Börü’nün parmağı Kartal-Yurdu’nun iç halkasına indi. “O zaman her çadır savaşa girer.”
+
+Togan deri haritada kendi çadırının bulunduğu yeri düşündü. Birkaç çizgi ve isimsiz bir boşluk. Korgan’ın saldırısı gerçekti. Buna rağmen Kor-Ateşler’in peşinden gitme isteği eksilmedi; yalnız artık neyi bırakacağını daha açık görüyordu.
+
 Ozan haritaya eğildi. Börü bir şey söylemek üzereydi; Togan çoktan çadırın kapısına varmıştı.
 
 ✦
@@ -132,6 +178,22 @@ Togan’ın yeri onların yanında olmalıydı.
 Kılıcının kabzasını kavradı. Melira’nın çığlığı, bir yıldır olduğu gibi, kararından önce geldi.
 
 “Bağışlayın beni,” dedi. “Yapamıyorum.”
+
+Hazırladığı heybe yatağının altındaydı. Dört günlük kuru et, iki su tulumu, yedek kiriş, Seren adını henüz bilmediği bir şifacıya yetecek kadar gümüş ve Melira’dan kalan kemik toka. Her parça, bu sabah verilmiş bir karar değil, haftalardır büyütülen bir ihanet olduğunu gösteriyordu.
+
+Heybeyi omzuna atıp çadırdan çıktığında nöbetçi eğitimindeki bir çocuk önüne koştu. Elinde çözülmüş bir eyer kayışı vardı.
+
+“Togan ağabey, bunu böyle bağlasam tutar mı?”
+
+Togan diz çöktü. Kayışı çocuğun elinden alıp tokadan iki kez geçirdi, gevşememesi için ucunu altından kıvırdı.
+
+“At korkunca bütün gücünü buna verir. Bir kez daha çekmeden binme.”
+
+Çocuk kayışı sınadı. “Doğu hattına mı gidiyorsun?”
+
+Togan’ın doğruyu söylemesi için bir kalp vuruşu vardı. “Kaya’nın sözünü dinle,” dedi yalnızca.
+
+Çocuk koşarak uzaklaştı. Togan, onun yanlış anladığı şeyi düzeltmedi.
 
 Burkut omzuna kondu. Togan, çadırların arkasındaki tenha yolu izleyerek atların tutulduğu çite vardı.
 

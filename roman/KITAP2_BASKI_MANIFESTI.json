@@ -1,0 +1,114 @@
+{
+  "book": 2,
+  "title": "Dört Yol, Ayrı Mühürler",
+  "expectedChapterCount": 182,
+  "expectedFasilCount": 50,
+  "parts": [
+    {
+      "id": 1,
+      "title": "Hafızanın Bedeli",
+      "directory": "kitap2_kisim1",
+      "fasillar": [
+        { "title": "Dört Yönde Açılan Kapılar", "start": 1, "end": 4 },
+        { "title": "Eski Borçlar, İlk Anlaşma", "start": 5, "end": 8 },
+        { "title": "Ayla'nın Adı", "start": 9, "end": 12 },
+        { "title": "Mühür ve Kaçakçılık", "start": 13, "end": 16 },
+        { "title": "Sınırın Ötesindeki Ağ", "start": 17, "end": 20 },
+        { "title": "Kayıp Arayıcı ve Borç Ağı", "start": 21, "end": 24 },
+        { "title": "Dişsiz Ağız", "start": 25, "end": 28 },
+        { "title": "Kabul Edilen Yalanlar", "start": 29, "end": 32 },
+        { "title": "Kartal Burnu", "start": 33, "end": 36 },
+        { "title": "Yemin-Bozan ve İki Taht", "start": 37, "end": 40 },
+        { "title": "Sed Yolu ve İlk Çatlak", "start": 41, "end": 44 },
+        { "title": "Ateşin Etrafında", "start": 45, "end": 48 },
+        { "title": "Eşikler ve Yeni Yol", "start": 49, "end": 52 },
+        { "title": "Üç Ufuk, Bir Eşik", "start": 53, "end": 53 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kâhyaların Diyarı",
+      "directory": "kitap2_kisim2",
+      "fasillar": [
+        { "title": "Kâhyaların Diyarı", "start": 1, "end": 4 },
+        { "title": "Tamamlanmış Olan", "start": 5, "end": 8 },
+        { "title": "Üçüncü Yol", "start": 9, "end": 12 },
+        { "title": "Gölgedeki Bıçak", "start": 13, "end": 16 },
+        { "title": "Eve Dönüş", "start": 17, "end": 20 },
+        { "title": "Yeni Kulaklar", "start": 21, "end": 24 },
+        { "title": "Tam Gerçek", "start": 25, "end": 28 },
+        { "title": "Han'ın Daveti", "start": 29, "end": 32 },
+        { "title": "Üçüncü Bayrak", "start": 33, "end": 36 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kazanılan Denge",
+      "directory": "kitap2_kisim3",
+      "fasillar": [
+        { "title": "Sarris'in Uzun Kolu", "start": 1, "end": 4 },
+        { "title": "Titreyen Denge", "start": 5, "end": 8 },
+        { "title": "Mektup ve Sabır", "start": 9, "end": 12 },
+        { "title": "Sarris'in Son Kartı", "start": 13, "end": 16 },
+        { "title": "Kazanılan Denge", "start": 17, "end": 19 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Bağlı Ufuklar",
+      "directory": "kitap2_kisim4",
+      "fasillar": [
+        { "title": "Kael'in Emaneti", "start": 1, "end": 4 },
+        { "title": "Yaşlı Okçunun Sözü", "start": 5, "end": 8 },
+        { "title": "Dört Yolun Kesiştiği Yer", "start": 9, "end": 9 },
+        { "title": "Geriye Kalan İşler", "start": 10, "end": 14 }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Aynı Rüzgârın Dört Yönü",
+      "directory": "kitap2_kisim5",
+      "fasillar": [
+        { "title": "Kael'in Son İzi", "start": 1, "end": 4 },
+        { "title": "Kış Hesabı", "start": 5, "end": 8 },
+        { "title": "Görmeyen Göz", "start": 9, "end": 12 },
+        { "title": "Kaan'ın Mührü", "start": 13, "end": 16 },
+        { "title": "Doksanıncı Gün", "start": 17, "end": 20 },
+        { "title": "Dört Defter", "start": 21, "end": 21 }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Gölgenin Ardındaki Işık",
+      "directory": "kitap2_kisim6",
+      "fasillar": [
+        { "title": "Dışarıdaki Çetele", "start": 1, "end": 4 },
+        { "title": "Dönen İz", "start": 5, "end": 8 },
+        { "title": "Unvanın Yaşı", "start": 9, "end": 12 },
+        { "title": "Beklenti Yılı", "start": 13, "end": 16 },
+        { "title": "Açılan Dosyalar", "start": 17, "end": 17 }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Büyük Uzlaşma",
+      "directory": "kitap2_kisim7",
+      "fasillar": [
+        { "title": "Toruk'un İkinci İfadesi", "start": 1, "end": 4 },
+        { "title": "On Saniyelik Sessizlik", "start": 5, "end": 8 },
+        { "title": "Tuz Düzlüğü", "start": 9, "end": 12 },
+        { "title": "Büyük Uzlaşmanın İlk Günü", "start": 13, "end": 13 }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Dört Yol, Ayrı Mühürler",
+      "directory": "kitap2_kisim8",
+      "fasillar": [
+        { "title": "Yarım Çember Baskını", "start": 1, "end": 4 },
+        { "title": "Dört Bozkır Mührü", "start": 5, "end": 8 },
+        { "title": "Dört Yol, Ayrı Mühürler", "start": 9, "end": 9 }
+      ]
+    }
+  ]
+}

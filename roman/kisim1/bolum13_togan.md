@@ -55,6 +55,16 @@ Kılıcını gevşetip ana yoldan çıktı. Koku, yolun doğusundaki küçük bi
 
 Togan evlerin arasından yavaşça geçti. Ceset yoktu. Ölüler gömülmüş müydü, yoksa götürülmüş müydü anlayamadı. Seren’in anlattığı gibi Kor-Ateşler burada kalmışsa, izlerini çoktan başka yere taşımışlardı.
 
+Kuyunun arkasında teker izleri buldu. Yağmur kenarlarını yumuşatmıştı; yine de iki arabanın kasabadan doğuya çıktığı seçiliyordu. İzlerin yanında çıplak ayaklar ve ağır çizmeler birbirine karışıyordu. Çıplak ayaklardan biri küçüktü. Topuğunun bastığı her yerde kanın koyu lekesi kalmıştı.
+
+Togan yarım fersah boyunca izleri takip etti. Yol bir kül çalılığının önünde ikiye ayrılıyordu. Arabalar doğuya devam etmiş, üç çift çizme kuzeye dönmüştü. Küçük ayak izi arabalardan ayrılmamıştı.
+
+Burkut kuzeye dönen hattın üstünde alçaldı. Togan kolunu kaldırıp onu geri çağırdı. Üç Kor-Ateşli’yi yakalasa kasabadakilerin nereye götürüldüğünü öğrenebilirdi. Tek başına yaralıydı; iz en az beş günlük, kaçırılanlarsa çoktan uzaklaşmıştı. Peşlerine düşmek Işık Seddi yolunu bırakmak demekti.
+
+Seçim doğru olsa bile temiz değildi.
+
+Kemerinden kısa bir deri şerit kesip yol ayrımındaki dala bağladı. Dönüşte bulabilmek için taşların dizilişini aklına aldı. Sonra kasabaya geri yürüdü.
+
 Meydana bakan duvarda bir işaret buldu: alevlerin içinden yükselen çatlak bir el. Tahtaya bıçakla kazınmış, sonra kömürle karartılmıştı.
 
 İşareti aklına yerleştirdi.
@@ -68,5 +78,7 @@ Avucunu duvardaki çatlak elin üstüne bastı. İşaret, parmaklarından daha b
 “Sizi bulacağım,” dedi.
 
 Bu kez sözünü Melira’ya değil, işareti bırakanlara vermişti.
+
+Duvarın dibindeki külden küçük bir kese doldurdu. Bir gün bu işareti inkâr eden olursa elinde yalnız anısı kalmasın istiyordu. Kesenin ağzını mavi bez parçasından kopardığı ince bir iple bağladı; beşiğin geri kalanına dokunmadı.
 
 Kasabadan çıkınca Kuzey Sefer Yolu’na döndü. Ayakkabılarındaki kül, ilk taş işareti geçene kadar peşinden geldi.

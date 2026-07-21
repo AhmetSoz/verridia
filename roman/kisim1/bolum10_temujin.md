@@ -49,6 +49,32 @@ Temujin başını eğdi. “Zafer Han’ındır.”
 
 Bunu söylerken masadaki herkesin hangi kelimeye inandığını ayrı ayrı kaydetti.
 
+Korgan, Kartal Kayası’nın üstüne beyaz bir tüy bıraktı. “Oradaki Dinleyenlerin başında Kaya var.”
+
+Orkhon’un eli haritanın kenarında durdu. Batu öne eğildi.
+
+“Börü’nün süt kardeşi,” dedi Batu. “Onu alırsak Sungurlar kör kalmaz, kudurur.”
+
+“Kudurmuş düşman hata yapar,” dedi Korgan.
+
+Temujin tüyü çevirdi. Kaya’nın adı bozkırda yalnız bir gözcüye ait değildi. Baskınlardan önce köyleri boşalttığı, yaralı Azgut esirlerini işkence görmeden değiştirdiği, kartallarıyla üç günlük yolu bir günde haber ettiği anlatılırdı. Onu öldürmek ağın bir boğumunu keserdi. Canlı almak, bütün ağı kendine çekebilirdi.
+
+“Hedef kuleler mi, Kaya mı?” diye sordu.
+
+Korgan’ın tek gözü parladı. “Kuleleri yak. Kadını getir. İkisini birden yapamazsan hangisinin Han’ına daha çok hizmet edeceğine sen karar ver.”
+
+Bu, başarı ölçüsü değil tuzaktı. Kaya ölürse Sungurlar intikam için birleşecek, kaçarsa Temujin beceriksiz sayılacak, esir gelirse Korgan onun üzerinden Börü’yü zorlayacaktı. Her sonuç Han’a yarayabilirdi.
+
+Temujin tüyü haritada bıraktı. “Anlaşıldı.”
+
+Çadırdan çıkarken Sube’ye beş takımın erzak ve iplerini ayrı ayrı hazırlamasını emretti. “Ateş oku istemiyorum. Islak keçe, yedek yay kirişi ve iki taşıma sedyesi.”
+
+Sube sonuncusunda duraksadı. “Yaralılarımız için mi?”
+
+“Kimin yaralanacağını bilmiyoruz.”
+
+Temujin, Korgan’ın emrindeki boşluğu ilk kez orada kendi lehine çevirdi. Kadını getir demişti. Nasıl getirileceğini söylememişti.
+
 ✦
 
 Toplantı dağıldığında Yeva dışarıda bekliyordu. Boynundaki küçük kemikler rüzgârda birbirine vuruyor, beyaz gözleri ateş ışığını tutmuyordu.

@@ -41,6 +41,44 @@ Zaleena binlerce kez döndüğü bu limana her girişinde önce hangi ışıklar
 
 *Deniz Hayaleti* dış rıhtıma yanaştı. Halatlar babalara geçirildi; iskele tahtası tek gıcırtıyla yerine oturdu. Zaleena karaya çıkınca tuz, katran ve ucuz içki kokusu birbirine karıştı.
 
+Rıhtım yazmanı, Delta yükünün levhasını görür görmez önlerine çıktı. Boynunda Roric’in bakır işareti, elinde yağdan kararmış bir kayıt tahtası vardı.
+
+“Dış mal,” dedi. “Liman payı üçte bir.”
+
+Sorin itiraz edecek oldu. Zaleena kolunu hafifçe kaldırdı.
+
+“Geçen ay beşte birdi.”
+
+“Roric’in sefer vergisi.”
+
+“Konsey kararı olmadan sefer vergisi alınmaz.”
+
+Yazman omuz silkti. “Kancasına söylersin.”
+
+Zaleena ambardan ilk indirilen sandığın kapağını açtırdı. İçinde kurutulmuş Derin-Yosun şeritleri değil, saz kâğıdına sarılı üç küçük ilaç şişesi vardı.
+
+“Üçte birini seç.”
+
+Yazman şişelere baktı. “Bunlar ne?”
+
+“Humma ilacı. Birini alırsan iç rıhtımdaki çocuklardan hangisine vermeyeceğimi de kayda yaz.”
+
+Arkada yük bekleyen tayfalar sessizleşti. Yazman bakır işareti gömleğinin içine soktu.
+
+“Beşte bir,” dedi. “Eski tarife.”
+
+Zaleena sandığı kapattı. “Deftere de öyle yaz.”
+
+Sorin yürümeye başladıklarında kulağına eğildi. “Şişelerin içinde gerçekten ilaç mı var?”
+
+“İkisinde.”
+
+“Üçüncüsünde?”
+
+“Tuzlu su.”
+
+Sorin gülmemek için başını çevirdi. Zaleena gülmedi. Limanda bir kural yazılı değilse, onu bazen utanmanın üstüne kazımak gerekirdi.
+
 “Zaleena.”
 
 Ses, rıhtımın bir direk boyu ötesindeki gölgeden geldi. Zaleena durdu, yüzünü toparladı ve döndü.
@@ -112,6 +150,34 @@ Modeli yerine koydu. “Bitir.”
 Finn kuşkuyla baktı.
 
 “İyi yüzerse gerçeğini yaparsın,” dedi Zaleena. “Ücretini ben öderim.”
+
+Finn modelin omurgasını iki parmağıyla tuttu. “Hafif kereste ister. Yamalı Liman’da kalanların çoğu çatlak. Sağlamını Delta’dan getirirsen onların ölçüsüne borçlanırsın.”
+
+“Batı enkazlığında üç eski fiyort teknesi var.”
+
+“Tuz yemiş.”
+
+“Dış tahtaları. Omurga parçaları kuru.”
+
+Finn tek gözünü kıstı. “Onları sökmek altı adam ve iki hafta.”
+
+“Dört adam vereceğim. Üç hafta kullanırsın. Karşılığında ölçüleri yalnız sen, ben ve işi yapanlar bilir.”
+
+“Roric sorarsa?”
+
+“Balıkçı teknesi dersin.”
+
+“Yalan olur.”
+
+“Balıkçı da taşıyacak.”
+
+Finn’in ağzındaki dişsiz boşluk kısa süre göründü. “Korsan kraliçelerinin sözü böyle mi oluyor?”
+
+“Kraliçe değilim.”
+
+“Henüz kimse sana ne olduğunu sormadı.”
+
+Zaleena modelden elini çekti. “Tekneyi bitir, Finn.”
 
 Yaşlı adam cevap vermedi. Keskiyi yeniden eline aldı. İlk vuruşu kararsızdı, ikincisi yerini buldu.
 

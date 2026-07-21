@@ -3,6 +3,12 @@
 
 Beş gecedir ilerliyor, gündüzleri kuru dere yataklarında saklanıyorlardı. Elli at, dar alanda iz bırakmamak için tek sıra gidiyordu.
 
+Her gece sonunda Temujin nal bezlerini kendi eliyle saydırdı. İlk gün üçü yırtılmış, ikinci gün bir atın ayağındaki bez gevşeyip taşta yarım iz bırakmıştı. Sube, bu kadar küçük bir izi yalnız kartalların görebileceğini söyledi.
+
+"Kartal görürse üstündeki insan da arar," dedi Temujin.
+
+Erzakı altı günlük almışlardı. Yedinci gün için yalnız tuz ve iki torba arpa kalacaktı. Koridoru o zamana kadar açamazlarsa dönmeleri gerekecekti. Korgan ona elli at vermiş, fazladan bir gün vermemişti.
+
 Temujin önündeki deri haritayı dizine bastırdı. Rüzgar-Dinleyenler tek bir merkezden yönetilmiyordu. Her gözetleme noktasında bir ya da iki kişi, bir kartal ve birkaç günlük erzak bulunurdu. Ağı bütünüyle parçalamak elli kişiyle mümkün değildi; Korgan’ın ordusuna batıda iki günlük kör bir koridor açmak mümkündü.
 
 Sube, haritadaki ilk yüksekliği gösterdi. “Kartal Kayası. Bir usta, bir çırak. Kuşları tan ve ikindide uçuyor.”
@@ -40,6 +46,14 @@ Kartal kayalığın üstünde dönerek bağırıyordu. Temujin düdüğün gitti
 “Hedef değiştiriyoruz.”
 
 Yaralı adamı kayanın rüzgâr almayan yanına taşıttı. Yanına su, yiyecek ve bıçağını bıraktı. Öldürmek işine yaramazdı; yaşaması Sungurlara Temujin’in seçimini anlatacaktı.
+
+Sube okun çıkarılmasını istedi. Genç Kurt şifacısı yaranın çevresini yokladı ve başını salladı. Uç kemiğe dayanmıştı; burada çıkarılırsa kanama durmayabilirdi.
+
+"Onu böyle bırakırsak ölür," dedi Sube.
+
+"Çıkarırsak burada ölür."
+
+Temujin, barınağın içindeki işaret boyalarını buldurdu. Kayanın görünen yüzüne yaralı anlamına gelen beyaz çizgiyi çekti. Doğu noktası alarma cevap verirse adamı bulacaktı. Cevap vermezse ağ düşündükleri kadar sıkı değildi. Her iki sonuç da bilgi taşıyordu.
 
 Çırağı ise yanlarına aldılar.
 
@@ -89,4 +103,26 @@ Temujin Sube’ye döndü. “İkinci noktayı bırak. Kaya’nın yolunu kesece
 
 Sube çocuğun ellerini çözdü, ona yedek atlardan birini verdi. Çırak karanlıkta uzaklaşırken Temujin elli kişiyi güneye çevirdi.
 
-İlk plan bozulmuştu. Daha değerli bir hedef önlerine çıkmıştı; bunun fırsat mı tuzak mı olduğunu sabah gösterecekti.
+Atlı çocuk görüşten çıkınca Sube, "Bizi Kaya'ya götürürken kendi noktasını da uyarabilir," dedi.
+
+"Uyaracak."
+
+"O zaman niye bıraktın?"
+
+Temujin güneydeki iki dar vadiyi düşündü. Çırağın tarif ettiği ilk yol hızlı, öteki yol daha taşlıydı. Takip edilmekten korkan biri hızlı yolu kullanırdı. Peşinden gelen Sungur gözcüsü de aynı izi görürdü.
+
+"Kaya yaralı ustayı almak için hattını değiştirirse ilk vadiden gelir. Çocuğu sorgulamak için gelirse ikinciden. Hiç gelmezse verdiği adamların önüne görevini koyduğunu öğreniriz."
+
+"Ya çocuk rotayı baştan yalan söylediyse?"
+
+"O zaman atımızdan ve iki günlük erzağımızdan olduk. Sözümüzden değil."
+
+Güneş doğmadan iki öncü geri geldi. İlk vadide eski nal izleri, ikinci vadide ise gece açılmış bir kartal yemliği bulmuşlardı. Temujin elli kişiyi tek bir boğaza yığmadı. Otuzunu ikinci vadinin iki yamacına, onunu geri çekilme yoluna yerleştirdi. Kalan on kişi, görünür bir kamp kurup ilk vadide ateş yakacaktı.
+
+Sube planı dinledi. "Kaya beş kişiyle gelirse otuz savaşçı fazla."
+
+"Kaya ağın başıysa yalnız gelmiyor. Göremediğimiz noktalar da onunla hareket eder."
+
+Temujin, yem kampına Korgan'ın siyah bizon işaretini astırmadı. Genç Kurt damgasını da kullanmadı. Kaya pusuya girmeden önce kiminle karşılaştığını öğrenirse, vereceği karar onların hesabını değil kendi öfkesini izlerdi.
+
+İlk plan bozulmuştu. Temujin kalan erzağı, iki vadiyi ve özgür bıraktığı çırağın ulaşabileceği saatleri yeniden hesapladı. Önlerine daha değerli bir hedef çıkmıştı. Onu fırsata çevirmek için önce tuzak olduğunu kabul etmesi gerekiyordu.

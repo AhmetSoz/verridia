@@ -61,6 +61,14 @@ Yaratığın çenesi durdu.
 
 Togan leşi üzerinden yuvarlayıp sırtını ağaca verdi. Bacağındaki kesikten kan, yağmur suyuna karışarak çizmesine doluyordu. Burkut öldürdüğü yaratığın üstünde kanatlarını açmış, ormanın karanlığına bağırıyordu.
 
+En iri Pas-Çene yeniden kıpırdadı. Kesilmiş ön bacağını gövdesinin altına çekip sürünmeye çalıştı. Togan kılıcını kaldırdı; kolu yarı yolda titredi. Yaratığın plakaları arasındaki nefes deliğini bulup ucu oraya dayadı. Bastırdığında tıkırtı kesildi.
+
+Burkut ikinci leşe atılmak istedi. Togan kartalı bileğinden yakaladı. Sol pençesinin altında ince bir kesik vardı; kan yağmurda seyrelip tüylerin arasına yürüyordu.
+
+“Yeter.”
+
+Kartal gagasını kılıcın kabzasına vurdu. Togan onu göğsüne bastırıp yaranın derinliğini yokladı. Burkut çırpındı, sonra hareketsiz kaldı. Melira’nın ölümünden beri yanında kalan tek canlıya da kendi öfkesinin bedelini ödetmişti.
+
 “Burkut.”
 
 Kartal yanına geldi. Togan gömleğinin eteğinden bir şerit yırtıp baldırına sardı. Düğümü sıktığında görüşü karardı.
@@ -112,6 +120,30 @@ Kılıç boğazından çekildi. Adam iki adım geri gitti fakat silahını indir
 “Şafağa kadar,” dedi. “Sonra çıkarsın. Burası benim.”
 
 Togan duvar dibine süründü. “Şafağa kadar.”
+
+Gareth yerdeki kan izini gördü. Kemerinden küçük bir matara çıkarıp Togan’a doğru yuvarladı.
+
+“İçme. Yarayı yıka.”
+
+Togan kapağı kokladı. Keskin bir içkiydi. Yaraya dökünce bacağındaki kaslar istemsizce toplandı. Bağırmamak için çenesini sıktı.
+
+“Pas-Çene kanı kesikte kalırsa sabaha ateşlenirsin,” dedi Gareth.
+
+“Bunu nereden biliyorsun?”
+
+“Üç kişiyi gömdüm.”
+
+Togan mataranın yarısını kendine ayırabilirdi. Kalanını Burkut’un pençesine döktü. Kartal kanadını yüzüne çarptı; sonra Togan’ın dizine çıkıp yaralı ayağını tüylerinin altına çekti.
+
+Gareth bunu izledi. “Bir Sungur kartalına önce kendinden pay vermez.”
+
+“O bana verdi.”
+
+“Ne?”
+
+Togan dışarıdaki leşleri düşündü. “Zaman.”
+
+Matarayı geri yuvarladı. Gareth kapağı kapatıp cebine koydu. Aralarındaki mesafe değişmedi, fakat kılıcının ucu artık Togan’ın göğsünü göstermiyordu.
 
 Kulenin iki köşesine yerleştiler. Ateş yakmadılar. Kapının önünde dolaşan yaratıkların tırnakları bazen taşa değiyor, sonra yağmurun içinde kayboluyordu.
 

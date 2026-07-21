@@ -51,6 +51,26 @@ Adamlar düzeni bozmadan geri çekildi. Zaleena en arkada kaldı. Sığ suya var
 
 Bizi kıyıya sıkıştırıyorlar, diye düşündü.
 
+Arka taraftaki genç tayfa, teknenin burnunu çevirirken ayağını ıslak halata bastı. Halka bileğine dolandı. Dalga sandalı çekince tayfa suya düştü; halat gerilip onu teknenin altına sürüklemeye başladı.
+
+Sorin bıçağına uzandı.
+
+“Kesme,” dedi Zaleena. “Yelken bağı o.”
+
+Kendi bıçağını halatla tayfanın çizmesi arasına soktu. Deriyi yardı, ayağı çizmeden çizmeyi kesti. Genç adam suyun üstüne çıktığında nefes almaya çalışırken tuz yuttu.
+
+“İki kişi onu ortaya alın. Kürek sayısını bozmayın.”
+
+Yaratıklardan biri bordaya çarptı. Sandal yana yattı; içeri diz boyu su doldu. Zaleena boşalan çizmenin halata bağlı kaldığını gördü. Koyu gölge suyun altında çizmenin peşinden döndü.
+
+“Bizi sıcaklıktan değil, hareketten izliyorlar,” dedi.
+
+Sorin, tayfanın diğer çizmesini de çekip aldı. İçine bir taş koydu, ikinci bir halata bağlayıp sandaldan uzağa fırlattı. İki gölge birden sıçrayan noktaya yöneldi.
+
+Zaleena ona kısa bir bakış verdi. “İşe yararsa yeni bir çift çizme borçlusun.”
+
+“İşe yaramazsa borcu kimse sormaz.”
+
 “Sandala binmeyin. Önce pruvasını açığa çevirin.”
 
 Altı kişi tekneyi döndürdü. Gölgelerden biri yaklaşınca Zaleena mızrağını suya sapladı. Uç sert bir plakaya çarpıp yana kaydı. Yaratık kuyruğuyla suyu dövdü; sıçrayan suyun içinde siyah bir çizgi belirdi.

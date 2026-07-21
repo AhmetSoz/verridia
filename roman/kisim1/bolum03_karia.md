@@ -29,6 +29,16 @@ Karia onun durmasına izin vermedi. “Ne kadar eksik?”
 
 Subay rahatladığını belli etmemeye çalışarak selam verdi ve uzaklaştı.
 
+Karia arkasından seslendi. “Adın ne?”
+
+Genç adam durdu. “Teğmen Marr, Amiral.”
+
+“Kâhyaların yeteceğini söylediği hesabı bir daha önüme getirme, Teğmen Marr. Kendi hesabını getir. Yanlış çıkarsa düzeltiriz; başkasının yalanı çıkarsa kiminle savaşacağımızı bilemeyiz.”
+
+“Emredersiniz.”
+
+Bu kez rahatlamadı. Karia bunu daha yararlı buldu.
+
 Karia yeniden rıhtıma döndü. Sis-İşçileri yük sırtında, başları öne eğik ilerliyordu. Her fıçının üstünde iki ayrı vergi mührü vardı: kralın ondalığı, lordların ondalığı. Saray buna çifte ondalık diyordu. Rıhtımda kullanılan adıysa açlıktı.
 
 “Bu sabah düşüncelerin pahalı görünüyor.”
@@ -53,7 +63,7 @@ Karia elindeki kâğıdı katladı. Bozkıra silah gönderildiği aylardır konu
 
 “Fiyat söyle.”
 
-Faelan gülümsedi. “Önce malın nereye gittiğini görelim.” Sonra limandaki bir yük teknesini izliyormuş gibi başını çevirdi. “Severin, oğlunu kuzeyde kaybettiğinden beri krala da Konsey’e de güvenmiyor. Bozkır yeterince kanarsa Hegemonya’nın gelip kalan toprağı alacağına inanıyor. Kanın kime ait olduğu umurunda değil.”
+Faelan gülümsedi. “Önce malın nereye gittiğini görelim.” Sonra limandaki bir yük teknesini izliyormuş gibi başını çevirdi. “Severin, oğlunu Hasat'ta kaybettiğinden beri krala da Konsey’e de güvenmiyor. Bozkır yeterince kanarsa Hegemonya’nın gelip kalan toprağı alacağına inanıyor. Kanın kime ait olduğu umurunda değil.”
 
 “Bu Konsey’e götürülür. Kralın da haberi olmalı.”
 
@@ -81,6 +91,32 @@ Karia bu açıklığı, Konsey’deki yeminlerden daha güvenilir buluyordu. Bir
 
 Faelan başını eğdi. Merdivenden rıhtıma indi ve yükçülerin arasına karıştı. Üzerindeki pahalı cekete rağmen birkaç adım sonra onu seçmek güçleşti.
 
+Karia da güverteden indi. Akıntı Tozu ambarının önünde tartı sırası uzamıştı. Kâhya, her fıçının kapağındaki mühürü gösteriyor; rıhtım işçileri fıçıları içeri taşıyordu. Karia sıranın ortasında durup gelişigüzel bir fıçıyı işaret etti.
+
+“Açın.”
+
+Kâhyanın eli kemerindeki anahtarlara giderken yavaşladı. “Mühür sayımı tamamlandı, Amiral.”
+
+“Toz sayımı tamamlandı mı?”
+
+Kapak söküldü. İçerideki koyu kızıl tanecikler fıçının ağzından iki karış aşağıda kalıyordu. Kayıt tam dolu gösteriyordu.
+
+Kâhya hemen konuştu. “Yolda çökmüştür. Akıntı Tozu bekledikçe çöker.”
+
+Karia avucunu fıçıya daldırdı, bir tutam tozu tartı kefesine döktü. Sonra yanındaki kapalı fıçıyı da açtırdı. İkincideki seviye daha yüksekti.
+
+“Bir yük çöker, diğeri çökmezse buna denizcilikte hırsızlık denir.”
+
+İşçiler taşıdıkları fıçıları yere indirdi. Kuyruğun sonunda biri öksürdü; kimse konuşmadı.
+
+“Bütün ambar yeniden tartılacak,” dedi Karia. “Eksik çıkan pay kimin zimmetindeyse ücretinden değil, malından alınacak. İşçinin yevmiyesine dokunan olursa doğrudan bana gelsin.”
+
+Kâhya’nın yüzü soldu. “Konsey atamamı yaptı.”
+
+“Donanmanın ambarında Konsey kürek çekmiyor.”
+
+Karia ellerindeki kızıl tanecikleri bir beze sildi. Yüzde otuzluk açığın tamamı hırsızlık değildi; fakat tek bir eksik fıçı, rakamların hangi ellerden geçtiğini göstermeye yetmişti. Taht meselesi önüne geldiğinde de ülkeyi böyle görmek zorunda kalacaktı: mühürlerin söylediğiyle kapağın altında kalan arasındaki farktan.
+
 ✦
 
 Sisin bir yanı inceldi. Kuzey göğü kısa süreliğine açıldığında Kızıl Sürü, sabah aydınlığına rağmen soluk bir yara gibi görünüyordu.
@@ -92,6 +128,16 @@ Güvertede bir halat boşandı. Makara hızla dönerken genç bir tayfa elini uz
 “Çek elini!” diye bağırdı Karia.
 
 Tayfa geriye sıçradı. Halat kamçı gibi güverteye vurdu. Karia yanına gidip düğümü kendi bağladı, sonra nöbetçi subayı çağırdı.
+
+Genç tayfanın avuçları halat yanığıyla kızarmıştı. Karia elini aldı, parmaklarını tek tek büktürdü.
+
+“Kıpırdatabiliyorum,” dedi çocuk.
+
+“Bugün güverteye çıkmayacaksın. Şifacıya git.”
+
+“Ama vardiyam...”
+
+“Bir vardiya eksik adamla yürür. Bir el eksik denizciyle yürümez.”
 
 “Bütün makaralar bugün yeniden denetlenecek. Akıntı Tozu kayıtlarını da kamarama getir.”
 

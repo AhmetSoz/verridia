@@ -51,6 +51,28 @@ Toygun’un bıçağı biraz daha aşağı indi. “Gümüşle tahıl alacaktım
 
 Cevap gelmedi.
 
+Temujin yatağın altındaki alçak sandığı ayağıyla çekti. Kilitli değildi. İçinde gümüş kesesinin yanında iki yeni eyer, çocuk ölçüsünde bir kürk ve yalnız beş kişiye yetecek kuru erzak vardı.
+
+“Elli üç çadır için tahıl alacaktın,” dedi Temujin. “Beş kişilik erzakla.”
+
+Toygun’un bıçağı yeniden yükseldi. “Korgan bu obayı yaşatmayacak. Karımı ve çocuklarımı burada bırakmam.”
+
+“Ötekilerin çocukları?”
+
+“Onların babaları da kendi yolunu bulsun.”
+
+Dışarıdan boğuk bir öksürük duyuldu. Toygun’un çadırına bitişik küçük bölümde biri uyanmıştı. Temujin deri perdenin altında çıplak bir çocuk ayağı gördü. Toygun da gördü; bıçağını bu kez saldırmak için değil, o perdeyle Temujin arasına girmek için tuttu.
+
+“Beni Korgan’a götür,” dedi. “Çocukların önünde yapma.”
+
+Temujin’in hesabı değişmedi. Yalnız bedelin yüzü belirginleşti.
+
+“Dışarı çık.”
+
+Toygun kürkünü omzuna aldı. Yan bölmeye bakmadan kapıya yürüdü. Temujin onun ardından çıktı; Sube’ye tek bir işaret verdi. İki Genç Kurt, Toygun’u kendi çadırının arkasına götürdü.
+
+Kılıç bir kez indi.
+
 Temujin iki ihtimali tarttı. Toygun’u bağlayıp Korgan’a götürürse boyun tamamı cezalandırılırdı. Onu bağışlarsa kendi sözünün ağırlığı kalmazdı. Üçüncü yol, elli üç çadırın tek bir ölümle borçlanmasıydı.
 
 “Korgan’ın haksız olduğunu biliyorum,” dedi. “Sakladığın tohum çocukların hakkıydı.”
@@ -70,6 +92,26 @@ Toygun’un yüzünde beliren umut, bıçak yere düşmeden kayboldu.
 Güneş doğduğunda Karaçullar, obanın ortasında toplandı. Toygun’un bedeni kendi çadırının önüne yatırılmış, üstü bir keçeyle örtülmüştü. Üç nöbetçi bağlı ama sağdı. Saklanan tahıl çuvalları herkesin görebileceği biçimde dizilmişti; gümüş kesesi Temujin’in eyerindeydi.
 
 Temujin atının üzerinde kalabalığı inceledi. Toygun’un karısı keçenin başında diz çökmüş, iki çocuğunu yanına çekmişti. Kadın ağlamıyordu. Temujin o bakışı aklında tutmaya karar verdi. Bir boyun borcunu hesaplarken kimin nefretini kazandığını da bilmek gerekirdi.
+
+Kadın, Temujin konuşmadan önce ayağa kalktı. “Tohumu bize bıraktığını söyleyeceksin.”
+
+Temujin cevap vermedi.
+
+“Sonra oğlum büyüyünce babasını öldüren adamın merhametinden söz etmesini bekleyeceksin.” Kadın, küçük çocuğun omzuna elini koydu. “Bekleme.”
+
+Genç Kurtların arasında bir kıpırdanma oldu. Sube gözlerini yere indirdi. Temujin kadına susmasını emretmedi.
+
+“Adın ne?” diye sordu.
+
+“Sarnai.”
+
+Temujin adı zihnine yazdı. “Tohumluk tahıl sizin. Korgan’a gönderilmeyecek.”
+
+“Bunun için sana teşekkür etmeyeceğim.”
+
+“İstemedim.”
+
+Sarnai yeniden keçenin başına çöktü. Temujin, bir gün Karaçulların hangi ateşe yöneleceğini hesap ederken bu sahneyi de saymak zorundaydı.
 
 “Toygun haracı sakladı ve yalan söyledi,” dedi. Sesini yükseltmesine gerek kalmadı. “Bedelini kendisi ödedi. Evlerinize girilmeyecek. Hayvanlarınız alınmayacak. Tohumluk tahıl sizde kalacak.”
 

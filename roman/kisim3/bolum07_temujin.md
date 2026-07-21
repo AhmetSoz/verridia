@@ -3,104 +3,166 @@
 
 Orkhon, Temujin'in çadırına harita üzerinde çalıştığı sırada girdi.
 
-“Korgan çağırıyor,” dedi. “Yalnız.”
+"Korgan çağırıyor," dedi. "Yalnız."
 
-Temujin kömür parçasını bıraktı. “Batu yok mu?”
+Temujin kömür parçasını bıraktı. "Batu yok mu?"
 
-“Kimse yok.”
+"Kimse yok."
 
 Bu, emrin savaştan çok siyasetle ilgili olduğu anlamına gelirdi.
 
-Büyük Savaş Çadırı'nda Korgan ayakta bekliyordu. Masadaki haritada Kartal-Yurdu geçidi kırmızı taşlarla çevrilmişti. Üç yüz mavi taş, geçidin önüne tek sıra dizilmişti.
+Büyük Savaş Çadırı'na giden yolda Genç Kurt ateşlerinin önünden geçti. Kaya'nın yakalanmasından beri birliğe on iki yeni adam katılmış, üç eski asker Korgan'ın ana ordusuna dönmüştü. Sayı büyüyor, bağlılık aynı biçimde kalmıyordu. Korgan da bunu görüyordu.
 
-“Adını fazla duyuyorum, Genç Kurt,” dedi Korgan.
+Çadırın önünde Temujin'in silahını almadılar. İçeride iki muhafız vardı; yüzleri deri perdelerin gölgesinde kalıyordu. Korgan ayakta bekliyordu. Masadaki haritada Kartal-Yurdu geçidi kırmızı taşlarla çevrilmiş, üç yüz mavi taş geçidin önüne tek sıra dizilmişti.
 
-“Zafer haberleri gürültülü olur.”
+"Adını fazla duyuyorum, Genç Kurt," dedi Korgan.
 
-“Sadece zafer değil. Adamlar senin Han olabileceğini konuşuyor.”
+"Zafer haberleri gürültülü olur."
+
+"Sadece zafer değil. Adamlar senin Han olabileceğini konuşuyor."
 
 Temujin bakışını haritadan kaldırdı. İnkâr etse korkmuş görünecek, kabul etse ihanet etmiş olacaktı.
 
-“Adamlar ateş başında her şeyi konuşur.”
+"Adamlar ateş başında her şeyi konuşur."
 
-Korgan, mavi taşlardan birini parmağıyla devirdi. “Kartal-Yurdu, Sungurların son sağlam geçidi. Kızıl Hafta başlamadan alınacak. Üç yüz akıncıya sen komuta edeceksin.”
+"Sen ne konuşuyorsun?"
 
-Temujin geçidin dar boğazına baktı. Üç yüz kişi oraya sığmazdı. Öndekiler ok altında düşer, arkadakiler cesetleri aşamazdı.
+"Verilen işi nasıl daha az adamla bitireceğimi."
 
-“Ana ordu nerede olacak?”
+Korgan, mavi taşlardan birini parmağıyla devirdi. "Kartal-Yurdu, Sungurların son sağlam geçidi. Kızıl Hafta başlamadan alınacak. Üç yüz akıncıya sen komuta edeceksin."
 
-“Güney ovasında.”
+Temujin geçidin dar boğazına baktı. Harita yüksekliği göstermiyor, yalnız yol çizgisini taşıyordu. Üç yüz kişi oraya sığmazdı. Öndekiler ok altında düşer, arkadakiler cesetleri aşamazdı.
+
+"Ana ordu nerede olacak?"
+
+"Güney ovasında."
 
 Yardım menzilinin dışında.
 
-“Geçidi alırsam?”
+"Kuşatma yayı, tırmanma halatı?"
 
-“Bütün boyların önünde onurlandırılacaksın.”
+"Kendi erzakından."
 
-“Alamazsam?”
+"Süre?"
 
-Korgan devirdiği taşı masadan itti. Taş keçenin üzerine düştü. “O zaman onura ihtiyacın kalmaz.”
+"Üçüncü günün akşamı geçit bizim olacak."
 
-Temujin eğilip taşı yerden aldı, eski yerine koydu. “Geçit alınacak.”
+Temujin taşların sayısına baktı. Üç yüz askerin yalnız yüz yirmisi kendi Genç Kurt düzenini biliyordu. Geri kalanlar dört ayrı boydan toplanacaktı. Korgan ona asker vermiyor, birbirini tanımayan adamların kaybını da omzuna yüklüyordu.
 
-Korgan'ın ağzı gerildi. “Sadakatin yeteneğin kadar kuvvetliyse bozkır için değerlisin.”
+"Geçidi alırsam?"
 
-Temujin çadırdan çıkana kadar cevap vermedi.
+"Bütün boyların önünde onurlandırılacaksın."
 
----
+"Alamazsam?"
 
-Orkhon dışarıda bekliyordu. Emri dinleyince haritayı görmek istedi. İkisi Temujin'in çadırına dönüp geçidin eski avcı çizimlerini açtı.
+Korgan devirdiği taşı masadan itti. Taş keçenin üzerine düştü. "O zaman onura ihtiyacın kalmaz."
 
-“Bu bir infaz,” dedi Orkhon.
+Temujin eğilip taşı yerden aldı, eski yerine koydu. "Geçit alınacak."
 
-“Başarılı olursam değil.”
+Korgan'ın ağzı gerildi. "Sadakatin yeteneğin kadar kuvvetliyse bozkır için değerlisin."
 
-“Başarılı olursan senden daha çok korkacak.”
+"Geçit alındığında içerideki siviller?"
 
-Temujin kuzey yamacındaki soluk kömür çizgisini tırnağıyla takip etti. “Korkusu yeni değil. Sadece başkaları da görecek.”
+"Sungur olan herkes düşmandır."
 
-“Üç yüz adamı kendi hesabının bedeli yapma.”
+"Silahsızları öldürmek geçidi tutmayı zorlaştırır."
 
-Bu uyarı Temujin'in elini durdurdu. Orkhon haklıydı. Korgan onu ölçecekti; geçitte ölecek her akıncı da aynı terazideydi.
+"Karar mı veriyorsun?"
 
-“Doğrudan girmeyeceğiz,” dedi. “Kaya'nın yakalandığı Kartal Kayası'ndan sonra kuzey gözlem zincirleri zayıf. Yamacı gece aşabiliriz.”
+"Sonucu söylüyorum. Kaçan aileler dağlara erzak taşır, her çocuk sonraki pusunun yolunu öğrenir. Silahlı direnişi kırarım. Teslim olanı esir alırım. Sivili takip etmem."
 
-Orkhon haritaya eğildi. “Atlarla olmaz.”
+Korgan, muhafızlara bakmadı. "Geçit elimde olursa yöntemini sonra tartışırız."
 
-“Elli kişi yaya çıkacak. Sube yönetir. Kalanlar sabah geçidin ağzında görünür.”
+Bu onay değildi; açık yasak da değildi. Temujin cümleyi olduğu biçimde aldı.
 
-Yaşlı stratejist bu kez itiraz etmedi. Kömürle iki yeni çizgi çekti.
+✦
 
----
+Orkhon dışarıda bekliyordu. Emri dinleyince haritayı görmek istedi. İkisi Temujin'in çadırına dönüp geçidin eski avcı çizimlerini, ticaret kervanı notlarını ve Kaya'nın sorgu sırasında sustuğu soruları açtı.
+
+"Bu bir infaz," dedi Orkhon.
+
+"Başarılı olursam değil."
+
+"Başarılı olursan senden daha çok korkacak."
+
+Temujin kuzey yamacındaki soluk kömür çizgisini tırnağıyla takip etti. "Korkusu yeni değil. Sadece başkaları da görecek."
+
+"Üç yüz adamı kendi hesabının bedeli yapma."
+
+Bu uyarı Temujin'in elini durdurdu. Korgan onu ölçecekti; geçitte ölecek her akıncı da aynı terazideydi.
+
+Sube ile dört birlik başını çağırdı. Haritayı önlerine koyup Korgan'ın emrini sözcüğü sözcüğüne anlattı. Yardım gelmeyeceğini ve üçüncü gün sınırını saklamadı.
+
+Bir komutan geçide gece hücum edilmesini, diğeri okçular tükenene kadar kalkan duvarı kurulmasını önerdi. Sube kuzeydeki keçi yolunu gösterdi.
+
+"Atlarla çıkılmaz. Elli kişi yaya gider. Halatları yukarı taşırız."
+
+"Yolun sonunda nöbet varsa?" diye sordu Temujin.
+
+"İki öncü gönderirim. Dönmezlerse çıkmayız."
+
+Temujin planı üç parçaya ayırdı. Sube elli kişiyle kuzey yamacını aşacaktı. Yüz yirmi Genç Kurt, şafakta ana girişte iki sıra ateş yakıp büyük ordu görüntüsü verecekti. Kalanlar atları ve geri çekilme yolunu koruyacak, geçit açılmadan dar boğaza girmeyecekti.
+
+"İlk ok yağmurunda geri çekilme borusu çalacağız," dedi.
+
+Birlik başlarından biri itiraz etti. "Adamlar bunun kaçış olduğunu sanır."
+
+"Sungurlar da öyle sanacak. İkinci atış için siperden kalkmalarını istiyorum."
+
+"Bizim adamlar gerçekten kaçarsa?"
+
+"Önceden hangi taşta duracaklarını göstereceğiz. Emri anlamayan ilk sıraya girmeyecek."
+
+Akşam boyunca boş arazide üç kez deneme yaptılar. İlkinde geri çekilen atlılar birbirine girdi. İkincide boru sesi rüzgârda duyulmadı. Üçüncüde iki ayrı borucu aynı işareti farklı ritimde çaldı. Temujin birini yedekledi, tek ritmi herkesin önünde yeniden çaldırdı.
+
+Plan, haritada tamamlanmış görünüyordu. Arazide üç kez bozulmuştu. Bu yüzden dördüncü denemeyi de yaptılar.
+
+✦
 
 Temujin yola çıkmadan önce Kaya'nın çadırına uğradı.
 
-“Kartal-Yurdu'na gidiyorum,” dedi.
+"Kartal-Yurdu'na gidiyorum," dedi.
 
-Kaya'nın sırtı dikleşti. “Kaç kişi?”
+Kaya'nın sırtı dikleşti. "Kaç kişi?"
 
-“Üç yüz.”
+"Üç yüz."
 
-“Korgan seni öldürtüyor.”
+"Korgan seni öldürtüyor."
 
-“Bugün herkes aynı sonuca varıyor.”
+"Bugün herkes aynı sonuca varıyor."
 
-“Börü oradaysa geri çekilmez.”
+"Börü oradaysa geri çekilmez."
 
-Temujin bunu kaydetti. “Geçidin zayıf yanı?”
+Temujin bunu kaydetti. "Geçidin zayıf yanı?"
 
-Kaya güldü. “Benden klanımı satmamı mı istiyorsun?”
+Kaya güldü. "Benden klanımı satmamı mı istiyorsun?"
 
-“Hayır. Sorunca neyi koruduğunu görmek istedim.”
+"Hayır. Sorunca neyi koruduğunu görmek istedim."
 
-Kaya'nın bakışı sertleşti. “Onları öldüreceksen çabuk öldür. Korgan'ın yaptığı gibi korkuyu uzatma.”
+Kaya'nın bakışı sertleşti. "O hâlde gördün."
 
-Temujin kapıya yürüdü.
+"Korgan bütün Sungurları düşman saydı. Ben silahlı direnişi hedef alacağım. Geçit açılırsa sivilleri takip etmeyeceğim."
 
-“Genç Kurt.”
+"Bunu bana niye söylüyorsun?"
 
-Arkasına döndü.
+"Dönersem hangi sözümden hesap soracağını bil diye."
 
-“Börü'ye rastlarsan,” dedi Kaya, “ona yaşadığımı söyle.”
+Kaya bağlarını kaldırdı. "Dönmezsen?"
 
-Temujin başını bir kez eğdi. Bu bir söz değildi. İkisi de öyle olduğunu biliyordu.
+"Lyra'nın kaydında kalır."
+
+"Kayıt çocukları korumaz."
+
+"Hayır. Emri uygulayan adamlar korur. Onlara da söyledim."
+
+Kaya bir süre sustu. Geçidin yolunu vermedi. Temujin tekrar sormadı.
+
+Kapıya yürüdüğünde Kaya arkasından seslendi.
+
+"Genç Kurt. Börü'ye rastlarsan ona yaşadığımı söyle."
+
+Temujin başını bir kez eğdi. "Söylerim."
+
+Bu kez söz verdiğini ikisi de biliyordu.
+
+Gece birlik yola çıktığında Korgan'ın armağan ettiği sancak taşınmadı. Her kol kendi işaretini heybesinde tuttu. Temujin, üçüncü günün sonunda geçidi almayı planlıyordu. Ondan önce üç yüz kişiyi aynı emri anlayan bir birliğe dönüştürmesi gerekiyordu.

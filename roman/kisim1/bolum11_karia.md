@@ -45,6 +45,22 @@ Karia başını kaldırdı. “Onu da.”
 
 “Bu ayrımı daha önce yapabilirdin.”
 
+Karia on yedi yaşındayken Kaelan onları aynı avluya çıkarmıştı. Valerius her düelloda saldırır, Karia onun açığını bulana kadar geri çekilirdi. Bir gün Valerius, talim mızrağının ucunu deriyle kaplamamıştı. Karia bunu fark etmiş, yine de söylememişti. Onun hileyle kazanmaya çalıştığını herkes görsün istemişti.
+
+Düello sonunda mızrak genç bir seyisin omzunu delmişti. Valerius üç gün cezalandırılmış, seyis kolunu bir daha başının üstüne kaldıramamıştı. Karia yıllarca bunu rakibinin suçu diye taşımıştı. Şimdi susmanın da bir seçim olduğunu biliyordu.
+
+“Ben de gördüm,” dedi. “Seni uyarmadım.”
+
+Kaelan başını çevirdi. “Mızrak meselesi.”
+
+“Hatırlıyorsun.”
+
+“O seyis şimdi kuzey ahırlarının başında.”
+
+Karia adını bilmediğini fark etti.
+
+“Valerius’un ne olduğunu kanıtlamak istedin,” dedi Kaelan. “Bunun bedelini Bren’in ödemesine izin verdin. Tahta oturursan aynı günahın daha büyüklerini işleyeceksin. Aradaki fark, bu kez adları öğrenmek zorunda olman.”
+
 “Yapamadım.” Yaşlı şövalye gözünü ateşten ayırmadı. “Öğretmenlerin en tehlikeli kibri, öğrencisinin kötü seçimini kendi sözüyle düzeltebileceğine inanmasıdır. Valerius artık beni dinlemiyor.”
 
 “Tahta o oturursa ne olur?”
@@ -94,6 +110,20 @@ Bu artık Faelan’ın satın aldığı bir söylenti değildi. Severin’in mü
 “Raporu başka kim gördü?”
 
 “Devriye komutanı, ben ve kuzey kalesinin kâtibi.”
+
+Atlı, isimleri söylerken bakışını indirdi. Karia onun haberin tamamını vermediğini anladı.
+
+“Bir şey daha var.”
+
+“Arabaların yanında bir çiftçi bulundu. Canlı. Devriye onu kaleye götürdü.”
+
+“Neden raporda yok?”
+
+“Konuşamıyor. Dili kesilmiş.”
+
+Karia’nın elindeki kâğıt hışırdadı. Severin yalnız silah taşımıyordu; yolu görenleri de susturuyordu.
+
+“Şifacı ve iki bağımsız kâtip gönderin. Adamın yazıp yazamadığını sınasınlar. Çizemiyorsa taşlarla, iplerle, ne bulurlarsa onunla anlatsın. İfadesini Severin askerleri görmeyecek.”
 
 “Üçü de ikinci emre kadar kaleden çıkmayacak. Tutuklu değiller; misafir sayılacaklar. Haber taşıyan kuş uçurulmayacak.”
 
