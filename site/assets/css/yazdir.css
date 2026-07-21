@@ -1,0 +1,146 @@
+/* ============================================
+   VERRIDIA — PDF / Yazdırma
+   Ekranda gizli; yalnız yazdırırken görünür.
+   ============================================ */
+#pdf-root { display: none; }
+
+/* --------- Seçim penceresi (ekran) --------- */
+.pdf-modal {
+  position: fixed; inset: 0; z-index: 200;
+  background: rgba(5, 7, 10, .82);
+  display: flex; align-items: center; justify-content: center;
+  padding: 1.2rem;
+}
+.pdf-modal[hidden] { display: none; }
+.pdf-modal-ic {
+  width: min(460px, 96vw);
+  background: var(--r-panel, #12161f);
+  border: 1px solid var(--r-cizgi, rgba(201,164,92,.25));
+  border-radius: 4px; padding: 2.2rem 1.8rem 2rem;
+  position: relative;
+  box-shadow: 0 30px 80px -30px rgba(0,0,0,.8);
+  animation: pdfBelir .35s cubic-bezier(.2,.7,.3,1);
+}
+@keyframes pdfBelir { from { opacity:0; transform: translateY(18px) scale(.97);} to { opacity:1; transform:none; } }
+.pdf-modal-ic h2 {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.7rem; color: var(--r-altin-parlak, #e8c987);
+  text-align: center; letter-spacing: .06em; margin-bottom: .6rem;
+}
+.pdf-modal-ic .pdf-not {
+  font-size: .85rem; color: var(--r-soluk, #86816f); text-align: center;
+  line-height: 1.6; margin-bottom: 1.6rem;
+}
+.pdf-modal-ic .pdf-not b { color: var(--r-metin, #d6d0c2); }
+.pdf-secenekler { display: grid; gap: .7rem; }
+.pdf-secenekler button {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.15rem; letter-spacing: .05em;
+  background: transparent; color: var(--r-metin, #d6d0c2);
+  border: 1px solid var(--r-cizgi, rgba(201,164,92,.25));
+  padding: .8rem 1rem; border-radius: 3px; cursor: pointer;
+  transition: border-color .25s, background .25s, color .25s;
+}
+.pdf-secenekler button:hover {
+  border-color: var(--r-altin, #c9a45c);
+  background: color-mix(in srgb, var(--r-altin, #c9a45c) 10%, transparent);
+  color: var(--r-altin-parlak, #e8c987);
+}
+.pdf-secenekler button.hepsi {
+  margin-top: .3rem; background: var(--r-altin, #c9a45c); color: #12161f; border-color: var(--r-altin, #c9a45c);
+}
+.pdf-secenekler button.hepsi:hover { background: var(--r-altin-parlak, #e8c987); color:#12161f; }
+.pdf-kapat {
+  position: absolute; top: .7rem; right: .8rem;
+  background: none; border: 0; color: var(--r-soluk, #86816f);
+  font-size: 1.1rem; cursor: pointer; line-height: 1;
+}
+.pdf-kapat:hover { color: var(--r-altin-parlak, #e8c987); }
+.pdf-hazir {
+  position: fixed; inset: 0; z-index: 210; display: none;
+  align-items: center; justify-content: center;
+  background: rgba(5,7,10,.9); color: var(--r-altin-parlak, #e8c987);
+  font-family: "Cormorant Garamond", Georgia, serif; font-size: 1.4rem; letter-spacing: .2em;
+}
+.pdf-hazir.acik { display: flex; }
+
+/* ============================================
+   YAZDIRMA — yalnız @media print
+   ============================================ */
+@media print {
+  /* Okuyucu arayüzünü gizle, yalnız kitabı bas */
+  body > *:not(#pdf-root) { display: none !important; }
+  #pdf-root { display: block !important; }
+
+  @page { margin: 20mm 18mm; }
+
+  html, body { background: #fff !important; }
+  #pdf-root {
+    color: #191410;
+    font-family: "Cormorant Garamond", "Georgia", serif;
+    font-size: 12.2pt;
+    line-height: 1.5;
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+  }
+
+  /* --- Kapak sayfaları --- */
+  .pdf-kapak {
+    page-break-after: always; break-after: page;
+    text-align: center; padding-top: 34%;
+  }
+  .pdf-kapak .pdf-seri {
+    font-size: 13pt; letter-spacing: .55em; padding-left: .55em;
+    color: #8a6d34; margin-bottom: 2.4rem;
+  }
+  .pdf-kapak .pdf-kitap-ad {
+    font-size: 34pt; font-weight: 600; letter-spacing: .12em; padding-left: .12em;
+    color: #191410;
+  }
+  .pdf-kapak .pdf-alt {
+    font-style: italic; font-size: 15pt; color: #6a5a3c; margin-top: 1.1rem;
+  }
+  .pdf-kapak.pdf-seri-kapak .pdf-kitap-ad { font-size: 44pt; letter-spacing: .28em; padding-left: .28em; }
+
+  /* --- Kısım bölücü --- */
+  .pdf-kisim-bolucu {
+    page-break-before: always; break-before: page;
+    text-align: center; padding-top: 38%;
+  }
+  .pdf-kisim-bolucu .pdf-kisim-no {
+    font-size: 11pt; letter-spacing: .42em; text-transform: uppercase; color: #8a6d34;
+  }
+  .pdf-kisim-bolucu .pdf-kisim-ad {
+    font-size: 24pt; font-weight: 600; letter-spacing: .05em; margin-top: .7rem; color: #191410;
+    page-break-after: avoid;
+  }
+
+  /* --- Bölüm --- */
+  .pdf-bolum { page-break-before: always; break-before: page; }
+  .pdf-bolum-no {
+    text-align: center; font-size: 10.5pt; letter-spacing: .3em; text-transform: uppercase;
+    color: #8a6d34; margin-top: 6mm;
+  }
+  .pdf-bolum-ad {
+    text-align: center; font-size: 19pt; font-weight: 600; letter-spacing: .03em;
+    margin: .35rem 0 .3rem; color: #191410; page-break-after: avoid;
+  }
+  .pdf-pov {
+    text-align: center; font-size: 8.5pt; letter-spacing: .38em; text-transform: uppercase;
+    color: #7a6f5c; margin-bottom: 9mm;
+  }
+
+  /* --- Gövde --- */
+  .pdf-govde p { margin: 0 0 .55rem; text-align: justify; hyphens: auto; orphans: 2; widows: 2; }
+  .pdf-govde p:first-of-type::first-letter {
+    font-size: 2.7em; float: left; line-height: .78; padding: .04em .1em 0 0;
+    color: #8a6d34; font-weight: 600;
+  }
+  .pdf-govde .sahne-ayrimi { text-align: center; margin: 1.15rem 0; color: #8a6d34; letter-spacing: .45em; }
+  .pdf-govde .sahne-ayrimi span { font-size: 11pt; }
+  .pdf-govde h3.pov-alt {
+    text-align: center; font-size: 8.5pt; letter-spacing: .42em; text-transform: uppercase;
+    color: #8a6d34; margin: 1.5rem 0 .9rem; page-break-after: avoid;
+  }
+  .pdf-govde em { font-style: italic; }
+  .pdf-govde strong { font-weight: 600; }
+}

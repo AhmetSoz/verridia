@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/kitap.css">
+  <link rel="stylesheet" href="assets/css/yazdir.css">
 </head>
 <body>
 
@@ -21,6 +22,7 @@
       <button id="btn-kucult" title="Yazıyı küçült">A−</button>
       <button id="btn-buyut" title="Yazıyı büyüt">A+</button>
       <button id="btn-tema" title="Tema değiştir">☀</button>
+      <button id="btn-pdf" title="PDF indir">⤓</button>
     </div>
   </header>
 
@@ -54,7 +56,25 @@
     </main>
   </div>
 
+  <!-- PDF: seçim penceresi + gizli yazdırma kapsayıcısı -->
+  <div class="pdf-modal" id="pdf-modal" hidden>
+    <div class="pdf-modal-ic">
+      <button class="pdf-kapat" id="pdf-kapat" title="Kapat">✕</button>
+      <h2>Kitabı PDF indir</h2>
+      <p class="pdf-not">Seçtikten sonra tarayıcının yazdırma penceresi açılır. Hedef olarak <b>"PDF olarak kaydet"</b>i seçip kaydet.</p>
+      <div class="pdf-secenekler">
+        <button data-kitap="0">Birinci Kitap</button>
+        <button data-kitap="1">İkinci Kitap</button>
+        <button data-kitap="2">Üçüncü Kitap</button>
+        <button class="hepsi" data-kitap="all">Üçü Birden (Tüm Üçleme)</button>
+      </div>
+    </div>
+  </div>
+  <div class="pdf-hazir" id="pdf-hazir">Hazırlanıyor…</div>
+  <div id="pdf-root"></div>
+
   <script src="assets/js/kitap-data.js"></script>
   <script src="assets/js/okuyucu.js"></script>
+  <script src="assets/js/indir.js"></script>
 </body>
 </html>
