@@ -1,46 +1,38 @@
 # Bölüm 28 — Amara'nın Yüzü
 *(ZALEENA)*
 
-Amara, ilk kez, bizzat geldi — önceden haber vermeden, tek bir hizmetkârla, resmiyetsiz bir şekilde.
+Amara önceden haber vermeden tek gemiyle geldi. Zaleena onu resmî kabul odasında karşıladı; kapıda Kessel, bitişik odada bir kâtip vardı.
 
-Amara, saray odasına girerken, sesi, her zamanki mektuplarından, çok daha yumuşak, çok daha insaniydi. "Kraliçe Zaleena. Sonunda, yüz yüze."
+"Sarris'le aramdaki çatlağı siz açmadınız," dedi Amara. "Yalnız görünür yaptınız."
 
-Zaleena, bu beklenmedik ziyareti, dikkatle karşıladı. "Bu, bir tehdit ziyareti mi, yoksa bir barış ziyareti mi, Amara?"
+Delta'nın eskiden ticaretle yetindiğini, Sarris'in ise borcu savaşın yakıtına çevirdiğini söyledi.
 
----
+Zaleena doğrudan Draven'ı sordu. "Beni bölmeye çalıştınız."
 
-"Ne ikisi, ne diğeri," dedi Amara, oturarak, gözlerinde, garip bir yorgunluk. "Sadece, gerçek bir konuşma istiyorum. Sarris'le aramdaki gerilim, artık, herkes tarafından biliniyor gibi görünüyor — sizin ve Karia'nın sayesinde."
+"Evet. Gücünüzü yanlış ölçtüm."
 
-"Bundan pişman mısınız?"
+"Yanlışınız ahlaki değil, hesap hatası mı?"
 
-"Hayır," dedi Amara, dürüstçe. "Sarris'in oyunları, uzun zamandır, beni de rahatsız ediyordu. Delta, bir zamanlar, sadece ticaretti, Zaleena — karmaşık, bazen acımasız, ama sonuçta, ticaret. Sarris, onu, bir savaş makinesine çevirmeye çalışıyor. Ben, buna, katılmıyorum."
+"Ben tüccarım. Size başka cevap verirsem yalan olur."
 
----
+Bu dürüstlük güven yaratmadı, fakat masadaki dili netleştirdi.
 
-Bu itiraf, Zaleena'yı, gerçek bir şaşkınlıkla karşıladı. "Neden, bana, bunu anlatıyorsunuz?"
+Amara temiz sayfa değil, yeni sözleşme önerdi. Can Macunu taban miktarı korunacak, kaptanlara gizli bireysel kredi açılmayacak ve iki taraf uyuşmazlığı hakem heyetiyle çözecekti. Karşılığında Yamalı Liman mevcut ticaret tarifesini altı ay değiştirmeyecekti.
 
-Amara'nın sesi yavaştı. "Çünkü belki, bir gün, Delta'nın, iki farklı yüzü olduğunu, açıkça görmeniz gerekecek. Sarris'in yüzü — hesaplı, acımasız, güç odaklı. Ve benim yüzüm — hâlâ, ticaretin, karşılıklı fayda üzerine kurulabileceğine inanan bir yüz."
+"Sarris müdahale ederse?" dedi Zaleena.
 
-"Draven'ı kullanarak, beni bölmeye çalıştınız," dedi Zaleena, doğrudan. "Bu, karşılıklı fayda mı?"
+"Kendi kanadımın teslimatından ben sorumlu olurum. Yapamazsam anlaşmayı siz feshedersiniz."
 
-Amara, bu suçlamaya, utanmadan, ama dürüstçe karşılık verdi. "Evet, yaptım. Ve özür dilemeyeceğim — o zaman, sizin, ne kadar güçlü olduğunuzu bilmiyordum. Şimdi, biliyorum."
+Zaleena taslağı hemen imzalamadı. Kaptanlar Konseyi ve şifahane ustaları inceleyecekti.
 
----
+Amara kalkarken Kessel'e baktı. "Benden hoşlanmıyorsunuz."
 
-"Ne öneriyorsunuz şimdi?" diye sordu Zaleena.
+"Doğru."
 
-Amara, doğrudan karşılık verdi. "Temiz bir sayfa. Gerçek bir ortaklık — gizli oyunlar olmadan. Can Macunu tedariki, garantili. Karşılığında, sadece, adil bir ticaret istiyorum — ne fazla, ne az."
+"Bu işleri kolaylaştırabilir. En azından beni memnun etmek için hata yapmazsınız."
 
-Zaleena, bu teklifi, uzun bir süre tarttı — Amara'nın samimiyeti, gerçek görünüyordu, ama Zaleena, artık, kolay güvenmemeyi öğrenmişti.
+Gemi ayrıldıktan sonra Kessel, Amara'ya güvenip güvenmediğini sordu.
 
-"Deneyelim," dedi Zaleena sonunda, temkinli ama açık. "Ama küçük adımlarla. Güven, bir gecede inşa edilmez, Amara — bunu, siz de, benim kadar iyi biliyorsunuz."
+"Hayır," dedi Zaleena. "Ama hangi çıkarı koruduğunu söyledi ve ihlal hâlinde çıkış verdi. Sarris'ten daha kullanılabilir yapan bu. Daha iyi insan olması değil."
 
----
-
-Amara ayrıldıktan sonra, Kessel, Zaleena'nın yanına geldi, yüzünde, dikkatli bir merak vardı.
-
-"Ona güveniyor musun?" diye sordu Kessel.
-
-Zaleena, dürüstçe karşılık verdi. "Tam olarak değil. Ama Sarris'ten, farklı bir şey görüyorum onda — belki, gerçek bir pragmatizm, kötülük değil. Ve bazen, Kessel, bir düşmanı, tam olarak güvenmeden de, dikkatli bir şekilde, bir müttefike dönüştürebilirsin."
-
-Kessel, bu düşünceye, yavaşça başını salladı, ve ikisi, uzun bir süre, sessizce, Amara'nın gemisinin, yavaşça, limandan uzaklaşışını izlediler — yeni, kırılgan ama gerçek bir olasılığın, sessizce, denize açılışını.
+Taslak üç gün boyunca incelenecekti. Amara ilk kez tehdit değil denetlenebilir bir teklif bırakmıştı.

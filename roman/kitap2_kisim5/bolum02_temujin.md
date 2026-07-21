@@ -1,44 +1,24 @@
-# Bölüm 2 — İlk Anlaşmazlık
+# Bölüm 2 — Yedi Sandalyenin Düğümü
 *(TEMUJİN)*
 
-Genç Kurtlar'ın büyümesi, Temujin'in önüne, beklemediği bir sorun çıkardı — topluluk büyüdükçe, ilk gerçek iç anlaşmazlık, kaçınılmaz olarak, patlak verdi.
+Kuru Dere kurulunun yedi üyesi ilk kez eşit bölündü. Otlakla su yolunu paylaşamayan iki aileden birinin temsilcisi kuruldaydı; oy kullanmaktan çekilmeyi reddedince diğer üç üye toplantıyı terk etti.
 
-İki aile, aynı su kaynağını, aynı otlak bölgesini talep ediyordu — ikisi de, haklı olduklarına, gerçekten inanıyordu.
+Temujin tek başına karar verebilirdi. Savaş yetkisi ona aitti, fakat bu savaş değildi. Kurulun boş sandalyelerine bakıp oturumu ertesi güne bıraktı.
 
-Batu'nun sesi endişeliydi. "Bunu, sen çözmelisin, Temujin. Ama nasıl çözeceğini bilmiyorum — ikisi de, kendi haklarını, gerçekten savunuyor."
+Gece boyunca iki ailenin eski kayıtlarını inceledi. Birinin kışlık ot hakkı vardı, ötekinin kuyu bakımını üstlendiği yazılıydı. İkisi de hakkın tamamını kendine ait sanacak kadar eksik bir belgeye dayanıyordu.
 
----
+Ertesi sabah Temujin önce usul önerdi. Anlaşmazlığın tarafı olan kurul üyesi oy kullanmayacak; boşalan oy için kayıt masasından kura ile bir geçici temsilci seçilecekti. Kurul yine kilitlenirse karar üç komşu yerleşimden gelecek hakemlere bırakılacaktı. Temujin yalnız yakın bir şiddet tehlikesinde geçici tedbir koyabilecekti.
 
-Temujin, bu anlaşmazlığı, dikkatle dinledi — iki aile reisi, önünde, öfkeyle, kendi argümanlarını sundu.
+"Kendi yetkini azaltıyorsun," dedi Batu.
 
-"Bir kural ihtiyacımız var," dedi Temujin, sonunda, düşünceli bir sessizlikten sonra. "Şimdiye kadar, her şeyi, kendi kararımla çözdüm — ama artık, Genç Kurtlar, benim tek başıma yönetebileceğimden, daha büyük."
+"Hayır. Hangi işte yetkim olmadığını yazıyorum."
 
-Kaya, bu gözleme, dikkatle katıldı. "Bir konsey mi düşünüyorsun?"
+Kurul usulü beşe karşı bir oyla kabul etti. Taraf olan üye dışarı çıktı; yerine kura Yeşim'i seçti. Son karar, otlağın mevsimlere bölünmesi ve kuyu bakımının ortak hesaptan ödenmesiydi. İki aile de istediğinin tamamını alamadı. İkisi de metnin altına itirazını ayrıca yazdırdı.
 
----
+Temujin bunu bir kusur saymadı. Kabul ile memnuniyet aynı şey değildi.
 
-"Evet," dedi Temujin, fikir, zihninde, hızla şekillenerek. "Her aileden bir temsilci — büyük, küçük, fark etmez. Anlaşmazlıklar, bu konseyde, oylamayla çözülecek. Ben, sadece, son çare olarak, karar vereceğim — eğer, konsey, bir anlaşmaya varamazsa."
+Akşam Kaya, yeni usul sayfasını kurul defterine dikti. "Yedi sandalye yetmedi," dedi.
 
-Bu fikir, kampta, hızla yayıldı — ve genel olarak, olumlu bir tepki aldı.
+"Sandalyeler yetti. Aralarındaki boşluğu dolduracak kural eksikti."
 
-Yeşim, kendi görüşünü paylaştı. "Bu, gerçek bir devletin, ilk adımı gibi görünüyor, Temujin. Sadece, bir liderin sözü değil, gerçek bir yönetim yapısı."
-
----
-
-Konsey, bir hafta içinde, ilk toplantısını yaptı — su kaynağı meselesi, uzun bir tartışmadan sonra, adil bir paylaşım planıyla çözüldü, ikisi de, tam istediklerini alamasalar da, kabul edilebilir bir uzlaşmaya vardılar.
-
-Temujin, bu süreci, gururla izledi. "İlk kez," dedi, Kaya'ya, "bir sorunu, kendi kararımla değil, başkalarının bilgeliğiyle çözdüğümü gördüm."
-
-Kaya'nın sesi onaylayıcıydı. "Bu, iyi bir liderin işareti. Her şeyi, kendin bilmek değil — doğru insanlara, doğru güveni vermek."
-
----
-
-O akşam, Togan, dönüş yolunda, Sungur topraklarına giderken, Temujin'in yanına uğradı, bu gelişmeyi öğrenmek için.
-
-Togan, etkilenmişti. "Bir konsey. Karia'nın Konseyi gibi, ama daha küçük ölçekte."
-
-"Belki," dedi Temujin, "bir gün, daha büyük olur. Ama şimdilik, bu, bizim ölçeğimize uygun."
-
-Togan, ona, dostça bir gülümsemeyle baktı. "Sen, gerçekten, bir devlet inşa ediyorsun, Temujin — adım adım, sabırla. Annen... ya da, kimse, seninle gurur duyardı, sanırım."
-
-Temujin, bu söze, derin bir duyguyla karşılık verdi — kendi annesinin sırrı, hâlâ, kendi içinde, gömülü bir şekilde dururken, bu basit, samimi söz, ona, garip bir teselli verdi.
+Temujin, Korgan'ın ordugâhında anlaşmazlıkların nasıl bir sadakat sınavına dönüştüğünü hatırladı. Kuru Dere'de insanlar ona katılmak zorunda değildi. Bu yüzden yönetim, onun haklı görünmesinden daha uzun yaşamak zorundaydı.

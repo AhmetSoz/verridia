@@ -1,44 +1,24 @@
 # Bölüm 12 — Kaptanların Onayı
 *(ZALEENA)*
 
-Kessel'le olan ilişkisi, artık, kamptaki herkes tarafından biliniyordu — ve Zaleena, bunun, Kaptanlar Konseyi'nde, nasıl karşılanacağını, temkinle merak ediyordu.
+Zaleena ile Kessel'in ilişkisi limanda duyulunca Kaptanlar Konseyi söylentiyi değil, yetkiyi gündeme aldı. Kessel filo alımlarını denetliyor ve kraliçeye doğrudan tavsiye veriyordu.
 
-Roric, bir akşam, dürüstçe konuştu. "Bazı kaptanlar, endişeli. Bir kraliçenin, en yakın danışmanıyla ilişkisi, karar mekanizmasını, etkileyebilir diye düşünüyorlar."
+Sorin'in hazırladığı çıkar çatışması taslağı masaya kondu. Kessel'in kendisiyle, ailesiyle ya da eski gemisiyle ilgili alımlarda oy kullanması yasaklanacak; Zaleena da onun atanması ve ücretinde tek başına karar veremeyecekti. Anlaşmazlığı üç kaptanlık kurul çözecekti.
 
-Zaleena, bu endişeyi, ciddiye aldı. "Haklı bir endişe. Bunu, açıkça, konuşmalıyız."
+"Bana güvenmiyor musunuz?" dedi Kessel.
 
----
+Mira cevap verdi. "Kural güvenmediğimiz insan için yapılmaz. Güvendiğimiz kişinin yerine bir gün başkası geldiğinde de çalışsın diye yapılır."
 
-Konsey toplantısında, Zaleena, konuyu, doğrudan açtı.
+Zaleena bu cümleyi destekledi. İlişkisi için Konsey'den izin istemedi, fakat devlet görevindeki etkisini denetlemelerine açık olduğunu söyledi.
 
-"Kessel'le aramdaki şeyi, biliyorsunuz," dedi Zaleena, herkesin önünde. "Ve anlıyorum, bazılarınızın, bunun, yönetimimi etkileyip etkilemeyeceğini merak ettiğini. Bu yüzden, açıkça söylüyorum: eğer, bir gün, Kessel'in tavsiyesi ile krallığın çıkarı çatışırsa, krallık, her zaman kazanacak. Bu, bir söz."
+Draven kuralın yalnız Kessel'e özgü olmamasını önerdi. Bütün kaptanların aile ve ortaklık bağları yıllık kayda girecekti. Öneri metne eklendi.
 
-Yaşlı bir kaptan, ayağa kalkarak, sordu: "Bunu, nasıl garanti edebilirsiniz?"
+Oylama büyük çoğunlukla geçti. İki kaptan özel hayatın kayda sokulmasına karşı çıktı; sınır yalnız maddi ve yönetsel çıkarlarla daraltıldı.
 
----
+Toplantıdan sonra Kessel hâlâ huzursuzdu. "Beni şüpheli gibi hissettirdi."
 
-"Garanti edemem," dedi Zaleena, dürüstçe, "sadece, sözümü verebilirim. Ve eğer, bir gün, bu sözü tutmadığımı görürseniz, beni, bundan sorumlu tutma hakkınız var — herhangi bir kraliçeyi, tuttuğunuz gibi."
+"Beni de," dedi Zaleena. "Bu kötü değil. Güç kullanan insan biraz şüphe altında kalmalı."
 
-Bu dürüstlük, odada, beklenmedik bir saygı yarattı — kaptanlar, birbirine bakıştı, bazıları, yavaşça başını sallayarak.
+Akşam birlikte yürüdüler. Konsey kararını kutlamadılar. Yeni kural ertesi sabah ilk sınavını verdi: Kessel'in eski gemisi için yelken ihalesi vardı. Kessel toplantıdan çıktı, Zaleena oy kullanmadı.
 
-Kessel, kendisi de, söz aldı. "Ekleyebilir miyim? Ben de, aynı sözü veriyorum. Eğer, bir gün, kişisel duygularımın, tavsiyemi bozduğunu görürseniz, bana söyleyin — ve ben, geri çekilirim, danışmanlık görevimden."
-
----
-
-Bu ortak taahhüt, Konsey'i, büyük ölçüde yatıştırdı — oylama, ezici bir çoğunlukla, ilişkiyi, resmi olarak, sorun olarak görmeme kararı aldı.
-
-Toplantıdan sonra, Draven, Zaleena'ya, garip bir gülümsemeyle yaklaştı. "İyi yönettiniz, Kraliçem. Dürüstlük, bazen, en iyi savunma."
-
-Zaleena'nın sesinde, hafif bir şaka tonu vardı. "Senden öğrendim, aslında. İkinci şansların, ne kadar değerli olabileceğini."
-
-Draven, bu söze, gerçek bir minnetle gülümsedi.
-
----
-
-O akşam, Kessel, Zaleena'nın yanına oturdu, ikisi, sessizce, kutlamanın devam ettiği kampı izlediler.
-
-"Endişeliydin," dedi Kessel, fark ederek.
-
-"Biraz," dedi Zaleena, itiraf ederek. "Ama artık, değilim. Konsey'in güveni, bize, sadece, kanıtlanması gereken bir şey değil — kazanılması gereken bir şey. Ve bugün, bunu, birlikte kazandık."
-
-Kessel, elini, onunkine, hafifçe dokundurdu — hiçbir söz gerekmeden, sadece, paylaşılan bir zaferin, sessiz sıcaklığıyla.
+İhale başka bir üreticiye gitti. İlişkileri ilk kez küçük bir çıkar kaybetmişti. Kuralın işe yaradığını gösteren şey tam da buydu.

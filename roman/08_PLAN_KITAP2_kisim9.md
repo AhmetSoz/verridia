@@ -1,4 +1,6 @@
 # İKİNCİ KİTAP — 9. KISIM: (isim henüz konmadı)
+
+> **Redaksiyon notu (20 Temmuz 2026):** Bu dosya tarihsel yazım planıdır. Nihai bölüm kanonu doğrudan `kitap2_kisim5/` dosyalarında ve `../kulliyat/23_guncel_kanon_karti.md` içinde yer alır; aşağıdaki eski özetler güncel metinle çelişirse bağlayıcı değildir.
 *(8. Kısım'ın ("Bağlı Ufuklar") kapanışından hemen sonra başlıyor.)*
 
 ## Karakterlerin Yeni Konumu (8. Kısım sonundan devralınan)

@@ -1,46 +1,26 @@
-# Bölüm 4 — Bozkıra Doğru
+# Bölüm 4 — Karaya Çıkış
 *(ZALEENA)*
 
-Karia'nın teklifi, Zaleena'nın içinde, uzun zamandır hissetmediği bir heyecanı ateşledi — deniz dışında bir maceraya, ilk kez, bu kadar içtenlikle, hazır hissetti kendini.
+Zaleena yolculuğu bir deniz seferi gibi planladı. Önce kimin hangi kararı alacağını belirledi, sonra erzak ve güzergâhla ilgilendi.
 
-Roric, planı duyunca, şüpheyle karşılık verdi. "Bozkır. Sen, bir denizcisin, Zaleena. Karadan, aylarca uzak kalmak..."
+Yamalı Liman'da Draven günlük yönetimi üstlenecekti. Sorin, kaptanlarla kıyı gözcüleri arasındaki haberleşmeyi sürdürecek; iki günden uzun sürecek bir liman kapatma kararı için Kaptanlar Konseyi toplanacaktı. Zaleena bu düzeni yazılı bırakmadan yola çıkmayı reddetti.
 
-"Biliyorum," dedi Zaleena, gülümseyerek. "Ama bazen, en iyi kraliçeler, kendi konfor alanlarının dışına da çıkmalı, Roric. Sen, bana, bunu, öğretmedin mi?"
+Kessel adını muhafız listesine kendi eliyle ekledi.
 
----
+"Kraliçenin yanında bulunmakla konseydeki görevini birbirine karıştırma," dedi Zaleena.
 
-Kessel, bu yolculuğa, tereddütsüz katılmaya karar verdi. "Seni, yalnız göndermem, hiçbir şekilde."
+"Karıştırmayacağım. Yolda güvenliğinden sorumluyum. Masaya oturduğunda söz senin."
 
-"Tehlikeli olabilir," diye uyardı Zaleena.
+Bu cevap yeterliydi.
 
-Kessel'in gülümsemesi hafifti. "Her zaman öyleydi. Ve ben, hep, yanındaydım. Bu, değişmeyecek."
+Serel, Eski-Kent üzerinden geçmelerini önerdi. Ozan yolun durumunu bilen iki kılavuz sağlayacak, Lyra da bozkırdaki son gelişmeleri aktaracaktı. Rota biraz uzuyor, fakat heyetin Azgut devriyelerine rastlama ihtimalini azaltıyordu.
 
-Hazırlıklar, hızla başladı — Draven, limanın günlük işlerini, geçici olarak, Sorin'le birlikte yönetmeyi üstlendi; Kaptanlar Konseyi, bu yolculuğu, resmi bir diplomatik girişim olarak onayladı.
+Zaleena, Karia'ya yalnızca üç satır yazdı: Eski-Kent durağını kabul ediyor, on iki muhafız sınırını uygun buluyor ve iki heyetin Kuru Dere'ye aynı gün girmesini istiyordu. Gelen cevap da aynı ölçüde açıktı.
 
----
+Son akşam Sorin, masaya elle çizilmiş bir harita serdi. Su kaynaklarını kırmızı, güvenli konak yerlerini siyah işaretlemişti. Bozkır bölümünde iki günlük boşluk vardı.
 
-Serel, bu haberi duyduğunda, Mirasçılar adına, ilginç bir öneri getirdi. "Eğer, bozkıra gidiyorsanız, belki, Eski-Kent üzerinden geçebilirsiniz — yolunuzun üzerinde. Yaşlı Ozan, sizi, ağırlamaktan, onur duyar."
+"Orada kuyu yok," dedi. "Fıçıları Eski-Kent'te tamamlayın."
 
-Bu öneri, Zaleena'nın içinde, garip bir merak uyandırdı. "Orası, Togan'ın da, geçtiği bir yer, değil mi?"
+Zaleena haritayı katlayıp deri kılıfına yerleştirdi. Deniz dışında uzun bir yolculuğa çıkmak onu huzursuz ediyordu. Karada rüzgârın yönü yetmiyor, ufuk tehlikeyi her zaman göstermiyordu. Yine de bu eksikliği heyecan sanmadı.
 
-Serel gülümsedi. "Öyle. Belki, kaderin garip bir cilvesiyle, onunla da, yolunuz kesişir."
-
----
-
-Karia'ya, o akşam, kısa bir mektup yazdı Zaleena: *Ozan'ın davetini kabul edelim mi? Eski-Kent'ten geçmek, hem ilginç hem de, yolumuzu kısaltabilir, Serel'e göre.*
-
-Cevap, hızlı geldi: *Kabul. Bu, sadece bir kısayol değil, belki, kendi başına, değerli bir durak da olur.*
-
-Zaleena, bu planı, kendi kendine, bir kez daha, gözden geçirdi — Yamalı Liman'dan, bozkıra, Eski-Kent üzerinden, uzun ama anlamlı bir yolculuk.
-
----
-
-Sorin, hazırlıkların son gününde, Zaleena'ya, eski, dikkatle çizilmiş bir harita getirdi. "Bu, sana, yardımcı olur belki — bütün rotayı, işaretledim."
-
-Zaleena, haritaya, uzun bir süre baktı — Yamalı Liman'dan başlayan çizgi, Eski-Kent'ten geçip, bozkırın derinliklerine uzanıyordu.
-
-"Teşekkür ederim, Sorin," dedi Zaleena, haritayı, dikkatle katlayarak. "Bu, sadece bir yolculuk değil, sanırım — bu, bütün bu yılların, sonunda, birbirine bağlandığı an."
-
-Kessel, yanına geldi, hazır çantasını omuzlayarak. "Hazır mısın?"
-
-"Hazırım," dedi Zaleena, kararlı bir gülümsemeyle. "Sonunda, gerçekten, hazırım."
+Sabah limanı Kessel'le birlikte değil, bütün konseyin önünde terk etti. Yetki devrini son kez yüksek sesle okudu; Draven karşı mührü bastı. Ancak ondan sonra ata bindi.

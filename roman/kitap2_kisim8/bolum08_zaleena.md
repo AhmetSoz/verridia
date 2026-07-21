@@ -1,36 +1,16 @@
-# Bölüm 8 — Dört Bayrak
+# Bölüm 8 — Deniz Düğümü
 *(ZALEENA)*
 
-Karia'nın mektubu, Hegemonya'nın, Üç Bayrak İttifakı'na, resmi bir dostluk protokolüyle katıldığını anlattığında, Zaleena, kendi kendine, aynı soruyu sormaktan, kendini alamadı: *Ya Yamalı Liman?*
+Karia'nın dış iş birliği protokolü Yamalı Liman'a bir davet değil, örnek olarak geldi. Zaleena kendi konseyine "katılalım mı" diye sormadı. Limanın bu ağda hangi işi yapabileceğini sordu.
 
-"Ne düşünüyorsun?" diye sordu Kessel, bu düşünceyi, Zaleena'nın yüzünde okuyarak.
+Cevap ulaşımdı. Bozkır sözleşmesindeki korunmuş tanıklar denize ulaşırsa güvenli iskele, mühürlü depo ve tarafsız gemi gerekecekti. Sivil kriz sevkiyatlarında da kara ile deniz kayıtları aynı ölçüyü kullanmıyordu.
 
-"Düşünüyorum ki," dedi Zaleena, yavaşça, "belki, bizim de, bir yerimiz olmalı, bu ağda."
+Konsey bir Deniz Geçiş Eki hazırladı. Yamalı Liman hiçbir kara anlaşmazlığında hakem olmayacak; yalnız yolcu ve belgenin teslim zincirini koruyacaktı. Gemi talebi gönüllü kaptanlara açık sunulacak, ücret ortak fondan ödenecek ve silahlı yolcu önceden bildirilecekti.
 
----
+Genç Denizciler Kurulu mürettebatın görevden çekilme hakkını ekledi. Draven, gizli tanığın adını kaptanın bile bilmemesi gerektiğini savundu. Neris buna karşı çıktı; acil durumda sorumluluk kurulamayacağını söyledi. Uzlaşma olarak kimlik kapalı zarfta gemi kâtibine verilecek, yalnız ölüm ya da kayıp hâlinde açılacaktı.
 
-Roric, bu fikre, hemen destek verdi. "Neden olmasın? Bir zamanlar, kimsenin, ciddiye almadığı bir liman, şimdi, bir krallık. Neden, büyük bir ittifakın, parçası olmayalım?"
+Ek önce Hegemonya'ya, sonra bozkırdaki dört imza sahibine gönderildi. Cevaplar aynı gün gelmedi. Sungur konseyi on ikinci, Korgan yirminci günde kabul etti. Elara ücret çizelgesini düzeltti. Kuru Dere, tanıkların yerleşimde zorla tutulamayacağını belirten madde ekledi.
 
-Kaptanlar Konseyi, bu öneriyi, hızla, tartıştı — ve neredeyse oybirliğiyle, destekledi.
+Zaleena son imzayı liman konseyinin açık oturumunda attı. Meydana dört yabancı bayrak dikilmedi. Bunun yerine panoya üç bağlantılı belgenin adları ve itiraz makamları asıldı.
 
-"Bu," dedi Mira, toplantıda, "sadece, bir siyasi hamle değil. Bu, kim olduğumuzun, bir ifadesi — artık, izole bir liman değil, kıtanın, gerçek bir parçasıyız."
-
----
-
-Zaleena, kendi teklifini, dikkatle hazırladı, Karia, Temujin, Korgan, ve Elara'ya, aynı anda gönderdi: *Yamalı Liman, Dört Bayrak İttifakı'nın (belki, artık, bu ismi kullanabiliriz) bir parçası olmak istiyor — deniz gücü, ticaret ağı, ve gerçek bir dostlukla.*
-
-Cevaplar, hızla, ve coşkuyla geldi — dördü de, bu genişlemeyi, büyük bir memnuniyetle karşıladı.
-
----
-
-İmza töreni, bu kez, sembolik olarak, dört farklı yerde, aynı anda yapıldı — Metheris, Genç Kurtlar kampı, Yıldız-Örsü, ve Yamalı Liman, hepsi, aynı günde, aynı belgeyi, imzaladı.
-
-Zaleena, kendi imzasını atarken, Roric'in, otuz yıl önce diktiği bayrağın, yanında, üç yeni bayrağın, ilk kez, hayalinde, dalgalandığını gördü.
-
-"Başardık, Roric," dedi Zaleena, yaşlı adama dönerek, gözlerinde yaşlarla.
-
----
-
-Roric, bu ana, uzun bir süre, sessizce baktı, sonra, yavaşça, başını salladı. "Hayır, Zaleena. Sen, başardın. Ben, sadece, bir tohum ektim, çok uzun zaman önce. Sen, onu, hayal edemeyeceğim kadar büyük bir ağaca dönüştürdün."
-
-O akşam, Kessel'le, kutlamanın devam ettiği limanı izlerken, Zaleena, kendi kendine, düşündü: dört ayrı ufuk, artık, sadece, birbirine bağlı değildi — resmi olarak, birleşmişti. Ve bu, sadece, bir başlangıçtı.
+Yamalı Liman büyük bir ittifaka katılmamıştı. Kendi kıyısındaki düğümü bağlamıştı. Ağın dayanıklılığı da herkesin aynı adı taşımasından değil, her düğümün hangi yükü tuttuğunun bilinmesinden geliyordu.

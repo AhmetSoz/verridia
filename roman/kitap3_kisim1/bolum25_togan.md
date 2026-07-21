@@ -5,7 +5,7 @@
 
 Aşağıda, terk edilmiş bölgenin ortasında, toprak kendi içine çökmüştü. Geniş, huni biçimli bir çukurun dibinde, yarı gömülü bir yapı vardı — taş değil de kemik gibi soluk, üzerinde taşıdıkları taslağın işaretleriyle kaplı, ama burada işaretler daha büyük, daha derin, ve — Togan yemin edebilirdi — çok hafif kımıldıyorlardı, suyun altındaki bir şey gibi.
 
-"Hiçbir hikâyede yok bu," dedi Kaya. Sungur büyücüsü, kırk yıldır bozkırın her taşını, her efsanesini bilen kadın, ilk kez sesinde bir çatlakla konuşuyordu. "Ne büyükannemin ne de onun büyükannesinin masalında."
+"Hiçbir hikâyede yok bu," dedi Kaya. Ömrü boyunca bozkırın taşını, efsanesini öğrenmiş Sungur büyücüsü, ilk kez sesinde bir çatlakla konuşuyordu. "Ne büyükannemin ne de onun büyükannesinin masalında."
 
 ---
 

@@ -1,42 +1,24 @@
-# Bölüm 17 — İkinci Yıl
+# Bölüm 17 — Doksanıncı Gün
 *(TOGAN)*
 
-Denge, yeniden, hafifçe titremeye başladığında, Togan, bu sefer, korkudan çok, tanıdık bir kabullenişle karşıladı belirtileri.
+Doksanıncı gün gelmeden iki sabah önce Togan metal tadıyla uyandı. Sol şakağındaki ağrı önceki kayıtlarda yazan belirtilere uyuyordu. Ziyareti erkene çekme kuralı bu durum için konmuştu.
 
-"Zamanı geldi," dedi Togan, Perren'e, sabah, gözlerindeki hafif ışıltıyı fark ettirerek. "Sed'e, tekrar gitmem gerek."
+Lyra beş adı sordu: Kaya, Börü, Melira, Burkut, Perren. Togan hepsini söyledi. Tarih, ağrının şiddeti ve bir önceki Sed ziyaretinden geçen gün sayısı deftere işlendi.
 
-Perren, hazırlıklara, hiç tereddüt etmeden başladı. "Ne zaman yola çıkalım?"
+Perren kuzey haritasından yeni dönmüştü. Yola birlikte çıktılar; fakat Sed'in girişinde süreyi o tuttu. Bir saat dolduğunda içeride ne olursa olsun kapıyı çalacaktı.
 
----
+Işıyan, Togan'ın gelişini beklediğini söylemedi. Önce kayıtları istedi, sonra kendi ölçümünü yaptı. Akıntı dengesi bozulmuştu; önceki ziyarete göre daha az değil, farklı bir noktada birikmişti.
 
-Bu sefer, yolculuk, neredeyse rutin bir hal almıştı — iki dost, tanıdık yolu, tanıdık bir ritimle kat ettiler, ölü topraklardan geçerken bile, eskisi kadar korku duymadan.
+"Bunun biteceğine söz veremem," dedi. "Düzenli olması iyileştiğin anlamına gelmeyebilir. Yalnız değişimi daha erken yakaladığımızı gösterir."
 
-Sed'in kapısında, yaşlı Işıyan, onları, beklediği belliydi. "Yine, doğru zamanda geldin."
+Togan bu cümleyi rahatlatıcı bulmadı. Doğru olduğu için kabul etti.
 
-Togan'ın gülümsemesi hafifti. "Ritmi, öğreniyorum galiba."
+İşlem elli iki dakika sürdü. Çıkışta Perren beş adı yeniden sordu. Togan Kaya ile Börü'nün sırasını karıştırdı, ikinci denemede düzeltti. Bu hata küçük diye silinmedi.
 
----
+Ayrılmadan önce Meren'i gördü. Ona teşekkür etmek için uzun bir konuşma hazırlamıştı; karşısında sözcükler azaldı.
 
-Süreç, bu kez, daha da kısa sürdü — Işıyan, dengesini, hızla, ustaca yeniden ayarladı.
+"Kaybını kendime ders yaptım," dedi. "Bu, kaybını anlamlı kılmaz. Ama onu saklamayacağım."
 
-"İlerleme kaydediyorsun," dedi Işıyan, süreç bittiğinde. "Kendi kontrolün, her seferinde, biraz daha güçleniyor. Belki, bir gün, bu ziyaretlere, hiç ihtiyacın kalmaz."
+Meren başını kaldırdı. "Saklama. Tekrar etme."
 
-Bu olasılık, Togan'ın içinde, yeni bir umut uyandırdı. "Gerçekten mi?"
-
-Işıyan, dikkatle karşılık verdi. "Mümkün. Ama garanti değil. Sabırla, devam et — ve göreceğiz."
-
----
-
-Ayrılmadan önce, Togan, Işıyan'a, son bir soru sordu. "Meren, hâlâ, burada mı?"
-
-"Hâlâ," dedi Işıyan. "Onu, görmek ister misin?"
-
-Togan, bu teklife, uzun bir süre düşündü, sonra, yavaşça başını salladı. "Evet. Ona, bir şey söylemek istiyorum."
-
----
-
-Meren'in odasında, Togan, yaşlı, yarı-unutulmuş varlığa, sakin bir sesle konuştu. "Sana, teşekkür etmeye geldim. Bana, gösterdiğin gerçek, beni, korumuş olabilir — kendi yolumu, senin deneyiminden öğrenerek bulmama, yardım etti."
-
-Meren, uzun bir süre, sessizce baktı, sonra, garip, çok katmanlı sesiyle karşılık verdi. "Bu, beni, mutlu ediyor, genç kan-taşıyıcı. Belki, benim kaybım, tamamen boşuna değildi — eğer, sana, doğru yolu bulmanda, yardımcı olduysa."
-
-Togan, bu söze, derin bir duyguyla karşılık verdi — ve Sed'den ayrılırken, ilk kez, kendi geleceğine, korkuyla değil, gerçek bir umutla baktığını hissetti.
+Dönüşte ağrı üç gün sürdü. Lyra kayda ne umut ne korku ekledi. Elli iki dakika, bir sıra hatası ve üç günlük belirti yazdı. Togan'ın sürdürülebilirliği, güzel hissetmesine değil bu satırların bir sonraki ziyaretle karşılaştırılabilmesine bağlıydı.

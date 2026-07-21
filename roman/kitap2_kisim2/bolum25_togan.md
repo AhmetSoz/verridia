@@ -1,40 +1,42 @@
 # Bölüm 25 — Tam Gerçek
 *(TOGAN)*
 
-Bir akşam, ateşin başında, sadece ikisi kalınca, Togan, sonunda, Perren'e, Sed'de yaşadığı her şeyi, hiçbir şeyi saklamadan, anlatmaya karar verdi.
+Togan, Perren'e Sed'de anlatmadığı tek ayrıntıyı söyledi: Işıyan bağı çağırmayı öğretirken bir an Kaya'nın adını unutmuştu. Ad geri gelmiş, fakat o boşluk onu korkutmuştu.
 
-Togan'ın sesi biraz gergindi. "Sana, tam gerçeği anlatmadım. Ozan'a, Lyra'ya söylemediğim şeyler var. Ama sana... sana, söylemem gerek."
+"Bunu neden şimdi söylüyorsun?" dedi Perren.
 
-Perren, sessizce, dinlemeye hazırlandı — hiçbir yargı, sadece, sabırlı bir dikkat.
+"Bir dahaki sefer daha uzun sürerse önce sen fark edeceksin."
 
----
+Bir güvenlik düzeni kurdular. Togan yankıyı kullandıktan sonra Perren ona beş ad soracaktı: Kaya, Börü, Melira, Burkut ve Perren. Herhangi birini hatırlamazsa ikinci kez kullanmayacak, Lyra'ya haber gönderilecekti.
 
-Togan, her şeyi anlattı — Meren'i, tamamlanmış bağın bedelini, kendisine sunulan iki yolu, ve üçüncü yolu, kendi başına bulduğunu. Annesinin gerçek hikâyesini, son mesajını.
+"Benim adımı sona koymuşsun."
 
-Perren, bu anlatının sonunda, uzun bir süre, sessiz kaldı, sonra, yavaşça. "Neden, bunu, bana kadar sakladın?"
+"İlk dördünü bilirsem beşinciyi bilmediğim için bana vuracağını düşündüm."
 
-"Çünkü," dedi Togan, dürüstçe, "korktum. Eğer, bir gün, bu yankı, kontrolden çıkarsa — eğer, ben, Meren gibi olursam, kendimi kaybedersem — bunu, gören ilk kişi, sen olacaksın. Ve bu, sana, adil değil gibi geldi, seni, hazırlıksız bırakmak."
+"Doğru."
 
----
+Togan ayrıca geceleri duyduğu katmanlı uğultuyu anlattı. Bazen metaldeki Akıntı izlerini seçiyor, bazen hiçbir anlam çıkaramıyordu. Bunun yalan ya da kötü niyet sezgisi olmadığını özellikle söyledi.
 
-Perren, uzun bir süre düşündü, sonra, elini, Togan'ın omzuna koydu. "On bir yıl, dağlarda, tek başıma yaşadım, Togan — kimsenin beni bulamayacağı bir korkuyla. Sen, beni, o korkudan çıkardın. Şimdi, sen, kendi korkunla yüzleşiyorsun. Ve ben, yanında olacağım — ne olursa olsun, kim olursan ol."
+"Temujin öyle kullanmak isteyebilir," dedi Perren.
 
-Bu söz, Togan'ın içinde, derin bir rahatlama yarattı — yıllardır, ilk kez, bir sırrı, tam olarak, kimseyle paylaşmanın verdiği o özgürlüğü hissetti.
+"İstedi. Hayır dedim."
 
----
+"Kabul etti mi?"
 
-Togan'ın sesi biraz daha hafifti. "Bir şey daha var. Bazen, geceleri, hissediyorum — yankı, sanki, benimle konuşuyor gibi. Kelimeler değil, ama... bir çeşit farkındalık. Korkutucu, ama aynı zamanda, garip bir şekilde, güzel de."
+"İkinci seferde."
 
-"Nasıl bir güzellik?" diye sordu Perren, meraklı.
+Perren ateşin yanına beş küçük taş dizdi. Her biri bir adı temsil edecekti. Togan çalışmaya başladığında taşlara sırayla dokundu. Avucundaki çizgi yandı, uzaktaki silahların hafif uğultusu belirginleşti.
 
-"Sanki," dedi Togan, dikkatle düşünerek, "dünyayı, iki farklı gözle görüyormuşum gibi — biri, insan gözüm, diğeri, hâlâ tam anlamadığım bir şey. Ve bazen, bu ikinci göz, bana, insan gözümün göremediği şeyleri gösteriyor — bir tehlikeyi, bir yalanı, ya da, bazen, sadece, bir güzelliği."
+Sonra Perren adları sordu. Togan beşini de söyledi. Başının arkasındaki ağrı önceki kadar keskindi.
 
----
+"Yarın yapmıyorsun," dedi Perren.
 
-Perren, bu anlatıyı, derin bir merakla dinledi, sonra, hafifçe gülümsedi. "Belki de, bu, senin gerçek gücün, Togan — ne insan ne Işıyan olmak değil, ikisini de, aynı anda görebilmek."
+"İki gün sonra."
 
-"Belki," dedi Togan, bu düşünceye, ilk kez, gerçek bir umutla karşılık vererek.
+"Üç."
 
-İki dost, ateşin sönmesine kadar, sessizce oturdular — kelimeye ihtiyaç duymadan, sadece, yıllarca inşa edilmiş bir güvenin, sıcaklığıyla.
+"İki buçuk."
 
-Ertesi sabah, Togan, kampta uyandığında, ilk kez, uzun zamandır, gerçek bir huzurla uyandığını fark etti — sırrının ağırlığı, artık, tek başına taşınan bir yük değildi.
+Üç günde anlaştılar.
+
+Sırrı paylaşmak Togan'ı hafifletmedi. Onu ölçülebilir kıldı. Kaybetmekten korktuğu insanların adları artık ateşin yanında beş sıradan taşla temsil ediliyordu. Tam da bu sıradanlık, bağı kullanırken neyi koruduğunu hatırlatıyordu.

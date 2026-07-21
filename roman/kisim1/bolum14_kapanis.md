@@ -1,44 +1,100 @@
-# Bölüm 14 — Aynı Gökyüzü, Dört Ufuk
-*(KAPANIŞ — TOGAN / TEMUJİN / KARİA / ZALEENA)*
+# Bölüm 14 — Dört Eşik
+*(KAPANIŞ: TOGAN / TEMUJİN / KARİA / ZALEENA)*
 
-O gece, Verridia'nın dört bir köşesinde, dört farklı insan, aynı gökyüzüne baktı — ve hiçbiri, o an, diğer üçünün varlığından haberdar değildi.
+Beklenti Yılı’nın başladığı gece, Verridia’nın dört ayrı köşesinde dört hazırlık tamamlandı.
 
----
+✦
 
-**Kuzey Sefer Yolu'nun eşiğinde**, Togan, gecelemek için küçük bir mağaraya sığınmıştı. Ateş yakmaya cesaret edemedi; sadece Burkut'un sıcaklığına ve kürklerine sarınarak, mağaranın ağzından gökyüzünü izledi. Kızıl leke, artık inkâr edilemeyecek kadar büyümüştü — ve Togan, bozkırda büyümüş biri olarak, bunun ne anlama geldiğini artık biliyordu: Beklenti Yılı yaklaşıyordu. Belki de zaten başlamıştı. "Melira," diye fısıldadı karanlığa, adının tadını hâlâ bir yara gibi hissederek, "eğer bu hasat dünyanın sonuysa bile, seni bulmadan pes etmeyeceğim." Uyudu, ve rüyasında, ilk kez uzun zamandır, ateş değil, uzak ve soğuk bir ışık gördü — kuzeyde, ufkun ötesinde bekleyen bir şey.
+**Kuzey Sefer Yolu’nda** Togan, taş işaretlerin yakınındaki sığ bir mağaraya girdi. Ateş yakmadı. Girişe kuru dallar dizdi; biri içeri girerse kırılan ses onu uyandıracaktı.
 
----
+Seren’in sargısını açıp yarayı kontrol etti. Kızarıklık büyümemişti. Merhemi sürdü, temiz bezi bağladı. Sonra kemerindeki kemik tokayı çıkarıp avucuna aldı.
 
-**Büyük Ordugâh'ta**, Temujin, elli kişilik kolunu son bir kez denetledi — atlar hazır, silahlar bilenmiş, herkesin yüzünde sessiz bir kararlılık vardı. Yarın şafakla birlikte batıya, Sungurlar'ın kartal yuvalarına doğru yola çıkacaklardı. Orkhon, yanına geldi, tek gözüyle genç savaşçıyı süzdü.
+“Melira,” dedi.
 
-"Hazır mısın, evlat?"
+Adı mağarada yankılanmadı. Taş, sesi hemen yuttu.
 
-"Her zamanki gibi." Temujin'in sesi kesindi, ama gözleri bir an kuzeye, Yeva'nın uyardığı o belirsiz yöne kaydı. "Yeva'nın sözlerini düşünüyorum hâlâ."
+Burkut girişte nöbet tutarken Togan kürküne sarıldı. Karanlık koyulaştıkça mağaranın ağzından görünen Kızıl Sürü belirginleşti. Togan bunu gözleri kapanmadan önce gördü.
 
-"Kemikler bazen yanılır," dedi Orkhon, ama sesinde tam bir inanç yoktu.
+Rüyasında yangın yoktu. Kuzeyde, dokunamayacağı kadar uzakta soğuk bir ışık yanıyordu.
 
-"Ya da bazen," dedi Temujin yavaşça, "sadece henüz anlamadığımız bir dilde konuşurlar." Gözlerini kuzeydeki o kızıl lekeye dikti bir an, sonra silkinip döndü. "Yarın öğreniriz. Ya da hiç öğrenmeyiz."
+✦
 
----
+**Büyük Ordugâh’ta** Temujin elli atın eyerini kendi eliyle denetledi. Sube erzak torbalarını sayıyor, takım başları dönüş rotalarını ezberden tekrarlıyordu. Şafakta Kartal Kayası’na yola çıkacaklardı.
 
-**Metheris'te**, Karia, çalışma odasının penceresinden aynı gökyüzüne bakıyordu; masasının üzerinde, Severin'in ihanetine dair topladığı kanıtlar, mühürlü bir tomar hâlinde duruyordu — henüz kime, ne zaman verileceğine karar verilmemiş bir silah. Faelan'ın son mesajı elindeydi: hizmetçinin adı bulunmuştu, ve o isim, beklediğinden çok daha tehlikeli bir bağlantıya işaret ediyordu.
+Orkhon, Temujin’in masasına bıraktığı çatlak kemiği eline aldı.
 
-Karia, tomarı kilitli bir sandığa koydu, sonra bir süre daha pencerede kaldı. Kuzey Feneri'nin ışığı, sisin arasından, her zamanki gibi sabırla yanıyordu. "Fırtına geliyor," diye mırıldandı kendi kendine, denizcilerin en eski, en gerçek bilgeliğini tekrarlayarak. "Ve bu sefer, tek bir fırtına değil belki de."
+“Yeva’nın sözü aklında kalmış.”
 
----
+“Aklımda kalmayan uyarı işe yaramaz.”
 
-**Yamalı Liman'da**, Zaleena, Roric'in atölyesine haber göndermişti — Paslı Gelgit'in gerçek olduğuna, sürü hâlinde göründüğüne dair. Cevap, beklediği gibi gelmişti: Roric, planını değiştirmeyecekti. "Canavarlar her zaman vardı," demişti kaba bir sesle, "ve her zaman olacak. Metheris beklemeyecek." Zaleena, bu cevabı okuduğunda, gemisinin güvertesinde, uzun bir süre sessiz kaldı.
+“Kemikler yanılabilir.”
 
-"Aptal adam," diye mırıldandı, ama sesinde öfkeden çok bir keder vardı — çünkü Roric'in inadı, onun düşüşünü hızlandıracaktı, ve Zaleena, bu düşüşün ne kadar kanlı olacağını henüz bilmiyordu.
+Temujin son eyer kayışını çekti. “İnsanlar da yanılır. Yine de onları savaşa götürüyoruz.”
 
-Gözlerini kuzeye çevirdi. Kızıl leke, denizin üzerinde, ilk kez gerçekten bir tehdit gibi görünüyordu ona — soyut bir efsane değil, yaklaşan bir gerçeklik.
+Orkhon kemiği geri verdi. “Hazır mısın?”
 
----
+“Plan hazır.”
 
-Dört ayrı ufukta, dört ayrı insan, aynı geceye, aynı gökyüzüne bakıyordu — biri intikam ve umut arasında bölünmüş bir yürek taşıyarak, biri sabırla örülmüş bir hırsın eşiğinde, biri bir tacın ağırlığını henüz kabul etmemiş omuzlarında, biri de bir bayrağın henüz dikilmemiş direğini hayal ederek.
+“Seni sormuştum.”
 
-Hiçbiri, o gece, birbirlerinin varlığından haberdar değildi. Ama Verridia'nın kaderi, tıpkı Kızıl Akıntı'nın kendisi gibi, bireysel hikayelerin toplamından çok daha büyük bir şeydi — ve bu dört ufuk, farkında olmadan, aynı fırtınanın dört farklı kıyısıydı sadece.
+Temujin cevap vermeden önce elli kişiyi saydı. Her yüzü, her atı ve sabaha dönük her beklentiyi gördü.
 
-Beklenti Yılı başlamıştı. Ve dünya, her zamanki gibi, kimin hazır olup olmadığını sormadan, kendi kadim ritmine devam ediyordu.
+“Şafakta öğreneceğiz,” dedi.
 
-*(1. Kısım Sonu — 2. Kısım'da devam edecek)*
+Çatlak kemiği zırhının iç cebine koydu.
+
+✦
+
+**Metheris’te** Karia, Severin’in boş arabalarına ilişkin raporu üçüncü kez okudu. Masada Faelan’ın cevabı da duruyordu.
+
+Batı kanadında Vorlag ile Valerius arasında gidip gelen hizmetçinin adı Meron’du. Ücreti saraydan alıyor, borçlarını Valerius hanesinin kâtibi kapatıyordu. Bu bağlantı tahta yönelik bir suçlamaya yetmezdi. İki adamın gizli ortaklığını kanıtlamaya yeterdi.
+
+Karia iki belgeyi aynı dosyaya koymadı. Severin raporunu demir sandığa kilitledi; Meron’un adını kendi seyir defterinin arka kapağına yazdı. Biri bulunursa ötekini ele vermeyecekti.
+
+Kapıdaki muhafızı çağırdı.
+
+“Faelan’a ikinci mesaj. Severin’i izlesin ama dokunmasın. Kuzey depolarından çıkan her sandığın sayısını istiyorum.”
+
+“Bu gece mi, Amiral?”
+
+Pencere camına vuran kızıllık, Kuzey Feneri’nin sarı ışığına karışıyordu. Karia perdeyi kapattı.
+
+“Özellikle bu gece.”
+
+✦
+
+**Yamalı Liman’da** Roric’in cevabı *Deniz Hayaleti*’ne ulaştı.
+
+Kâğıtta üç satır vardı:
+
+*Canavarlar her zaman vardı. Metheris beklemeyecek. Korkuyorsan limanda kal.*
+
+Zaleena notu ikiye katladı, kandilin alevine tuttu. Kâğıt parmaklarına yaklaşana kadar bırakmadı. Külleri seyir masasındaki boş tabağa düştü.
+
+Sorin kapıda bekliyordu. “Seferi durduracak mı?”
+
+“Hayır.”
+
+“Ne yapacağız?”
+
+Zaleena kıyı haritasını açtı. Paslı Gelgit görülen üç noktayı gösterdi.
+
+“Kuzey koylarına ikişer gözcü. Balıkçılar tekneyle tek başına çıkmayacak. Dış rıhtımda geceleri zift kazanı hazır tutulacak. Roric gemilerini götürürse limanın savunmasını kalanlarla kuracağız.”
+
+“Bunları duyarsa seni korkak ilan eder.”
+
+“Duyur.” Zaleena boş tabağı kenara itti. “Korkaklığım birkaç aileyi kıyıya döndürürse adını taşıyabilirim.”
+
+Sorin emirleri iletmek için çıktı.
+
+Zaleena güverteye geçti. Ana direk gece rüzgârında hafifçe gıcırdıyordu. Direkte hâlâ bayrak yoktu; fakat altındaki liman için ilk emrini çoktan vermişti.
+
+✦
+
+Gece yarısında Karanlık Ay bitti. Mirasçı kayıtlarında yirmi yedinci yılın son satırı kapandı; Kurt Ayı’nın ilk günüyle yeni sayfa açıldı.
+
+Beklenti Yılı başlamıştı.
+
+Togan kuzeye yürümeye, Temujin batıya saldırmaya, Karia kanıt toplamaya, Zaleena kıyıyı savunmaya hazırlanıyordu. Aynı tarih, dört ayrı kararla başladı.
+
+*(1. Kısım Sonu; 2. Kısım’da devam edecek)*

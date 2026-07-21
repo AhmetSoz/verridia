@@ -1,44 +1,20 @@
-# Bölüm 14 — Beklenti Yılı Töreni
+# Bölüm 14 — Beklenti Yılı
 *(TEMUJİN)*
 
-Beklenti Yılı töreni, her yıl, aynı ritüelle başlardı — Korgan, geçmiş Han'ları anarak, bozkırın, süreklilik içindeki gücünü, halka hatırlatırdı. Bu yıl, Temujin, kendi kampından, uzaktan, ama dikkatle, gelişmeleri takip ediyordu — Sube'nin ağı, ona, saatlik raporlar getiriyordu.
+Beklenti Yılı toplantısından haber iki gün sonra geldi. Sube'nin söylentisi değil, Kaan'ın mühürlü tutanağıydı.
 
-Sube, son raporunda bildirdi. "Kaan, törene, hazırlıklı gitti. Doğru anı, bekleyecek."
+Arşiv hesapları oturumunda Kaan, Bozan'ın son avından önceki iki yabancı ödemeyi gündeme getirmişti. Korgan önce belgelerin nereden çıktığını sormuş, Kaan Azgut arşivindeki raf ve sayfa numaralarını vermişti. Ancak ikinci mühür dizisinin Kuru Dere kayıtlarında bulunduğunu açıklayınca salon gerilmişti.
 
----
+Korgan, "Bu Temujin'in tahtıma karşı kurduğu bir dava mı?" diye sormuştu.
 
-Tören, geleneksel şekilde başladı — Korgan, atalarının, Alpagu'nun, ve son olarak, Bozan'ın adını, saygıyla andı.
+Kaan hazırladıkları ayrımı tutanağa geçirmişti: Kırıcı Yargı'nın sonucu tartışılmıyor, Bozan'ın ölümüne yabancı bir örgütün müdahalesi araştırılıyordu. Korgan bu cümleyi iki kez okutmuştu.
 
-"Bozan Han," dedi Korgan, kalabalığa, "beni, bu tahta taşıyan, trajik ama kaçınılmaz bir kayıptı. Onun anısını, her zaman, saygıyla taşırım."
+Ardından üç emir vermişti. Asıl ödeme belgeleri kilitlenecek, kopyaları iki ayrı yazıcı çıkaracak ve Toruk gözetim altına alınacaktı. Tutuklanmayacak, ordugâhtan ayrılırsa haber verecekti. İnceleme heyetinde Kaan'ın yanı sıra Korgan'ın seçtiği iki eski boy temsilcisi bulunacaktı.
 
-Bu, Kaan'ın, beklediği andı.
+Temujin bu üçüncü maddeyi riskli buldu. Toruk korkup kaçabilir ya da susturulabilirdi. Güvenli tanıklık teklifini hemen Kaan'a gönderdi: Toruk isterse ifadesini Eski-Kent'te, Azgut ve tarafsız gözlemciler önünde yenileyebilecekti.
 
----
+Batu, Korgan'ın araştırma açmasını zafer saydı.
 
-"Han'ım," dedi Kaan, törenin sonunda, özel bir izinle, Korgan'a yaklaşarak, sesi, dikkatle ölçülü, "bir soru sormak isterim, izninizle. Bozan Han'ın ölümü hakkında... hiç, tam olarak tatmin olmayan bir açıklama olduğunu düşündünüz mü?"
+"İnceleme emri zafer değil," dedi Temujin. "Bizi de soruşturabilir. Etmeli zaten."
 
-Korgan, bu soruya, önce, şaşkınlıkla, sonra, temkinli bir dikkatle baktı. "Ne demek istiyorsun, Kaan?"
-
----
-
-Kaan'ın sesi dikkatliydi. "Sadece, bazı eski kayıtlar, o dönemde, garip bazı ödemelerden bahsediyor. Sazlık Taht'tan. Belki, hiçbir şey değildir. Ama belki de..."
-
-Korgan, uzun bir süre, sessizce durdu — Sube'nin ağı, bu sessizliği, "sonsuz gibi hissedilen bir an" olarak tarif etti.
-
-"Bu bilgiyi," dedi Korgan sonunda, sesi, tehlikeli bir şekilde alçalarak, "nereden buldun?"
-
----
-
-Kaan, dikkatle hazırladığı cevabı verdi. "Dolaylı bir kaynaktan, Han'ım. Ama eğer, ilginizi çekerse, daha fazla araştırabilirim — sessizce, dikkatlice."
-
-Korgan, bu teklifi, uzun bir süre değerlendirdi, sonra, yavaşça başını salladı. "Araştır. Ama kimseye söylemeden. Eğer, bu doğruysa..." Durdu, gözlerinde, yıllarca bastırılmış bir şüphenin, yeniden uyandığı belliydi. "Eğer doğruysa, bu, çok şeyi değiştirir."
-
----
-
-Bu haber, Sube'nin ağı aracılığıyla, saatler içinde, Temujin'e ulaştığında, genç savaş-lordu, derin bir nefes aldı — yıllar süren planın, ilk gerçek meyvesi, sonunda, olgunlaşmaya başlamıştı.
-
-Temujin, haberi, Kaya'yla paylaştı. "Korgan, şüpheleniyor. Ve araştırma izni verdi."
-
-Kaya'nın hayranlığı gerçekti. "Bu, büyük bir adım."
-
-"Sadece, ilk adım. Ama doğru yöne, atılmış bir adım."
+Korgan dosyayı reddetmemişti. Temujin'in beklediği ilk eşik buydu. Bundan sonra planın başarısı Korgan'ın öfkelenmesine değil, heyetin belgeleri kimden gelirse gelsin aynı ölçüyle sınamasına bağlıydı.

@@ -1,44 +1,32 @@
 # Bölüm 35 — Sürgünün Uzun Kolu
-*(KARİA)*
+*(KARIA)*
 
-Faelan'ın üçüncü raporu, Karia'yı, gerçek anlamda korkutan ilk rapordu.
+Faelan'ın yakaladığı mektup Vorlag'ın el yazısıyla yazılmıştı. Alıcı adı şifrelenmiş, fakat metin sürgündeki Valerius'a sesleniyordu.
 
-"Vorlag, sadece Delta'ya çalışmıyor," dedi Faelan, sesi, ilk kez, gerçek bir endişeyle titreyerek. "Bir mektup yakaladık — şifreli, ama kırdık. Valerius'a yazıyormuş. Düzenli olarak."
+*Kraliçenin halk desteği yüksek, eski soyların sabrı düşük. Zaleena anlaşması doğru biçimde kullanılırsa destek hazır olacak.*
 
-Karia'nın kanı dondu. "Ne yazıyor mektupta?"
+Son satır daha ağırdı: *Dostlarımızın kaynakları dönüş gününde açılacak.*
 
-Faelan, sayfayı, dikkatle açtı. "'Konsey'in sabrı azalıyor. Kraliçe'nin popülerliği, hâlâ yüksek ama kırılgan — Zaleena ittifakı, bazı eski soyları rahatsız ediyor. Zaman geldiğinde, destek hazır olacak.' İmza yok, ama el yazısı, Vorlag'ınkiyle eşleşiyor."
+"Dostlar Delta mı?" diye sordu Karia.
 
----
+"Ödemeler aynı kanaldan geliyor."
 
-"Bu," dedi Karia, sesi, soğuk bir öfkeyle sertleşerek, "sadece bir casusluk değil. Bu, bir darbe hazırlığı."
+Bu artık bilgi sızıntısı değil, tahta yönelik hazırlıktı. Vorlag Valerius'un dönüşünü ölçüyor ve Konsey'de destek topluyordu.
 
-"Öyle görünüyor, Majesteleri. Ve daha kötüsü — bu mektuplardan birinde, Delta'nın adı da geçiyor, dolaylı olarak. 'Dostlarımızın kaynakları, hazır.' Bu, Vorlag'ın, sadece bilgi taşımadığını, aktif olarak, Valerius'un dönüşünü finanse etmeye yardım ettiğini düşündürüyor — Delta parasıyla."
+Kaelan mektubu okuyunca bastonunu iki dizinin arasına aldı. "Onu bugün tutuklarsan Valerius başka bir kapı bulur."
 
-Karia, uzun bir süre, sessizce, bu bilgiyi sindirdi. Sarris'in itirafı — Delta'nın kendi içinde bölünmüş olduğu — şimdi, yeni bir ışıkla anlam kazanıyordu. Belki de, Delta'nın bir kanadı, Karia'yı desteklerken (ya da en azından, ona karşı olmazken), başka bir kanat, sessizce, onun düşüşünü finanse ediyordu.
+"Beklersem kapıdan girebilir."
 
----
+"O halde kapıyı açık göster, eşiği tut. Dönüş tarihini ve adamlarını öğrenmeden ağı kesme."
 
-Sör Kaelan, bu haberi duyduğunda, yüzü, ilk kez, gerçek bir ciddiyetle sertleşti.
+Karia saray muhafızlarının gece düzenini değiştirdi. Kraliyet cephaneliğine iki farklı mühür getirdi ve liman zincirlerinin anahtarlarını tek elde bırakmadı. Bunlar görünür olağanüstü hâl tedbirleri değildi; darbe başladığında bir kişinin ihanetiyle çökmeyecek düzenlemelerdi.
 
-"Bu, artık, izleyip beklemekle çözülecek bir mesele değil, evladım," dedi Kaelan, sesi ağır. "Bir darbe planı, olgunlaşmaya bırakılamaz. Hareket etmen gerek — ama doğru şekilde."
+Vorlag'a ise dokunmadı. Bir sonraki Konsey'de aynı masaya oturup tahıl vergisini tartıştı.
 
-"Ne öneriyorsun?"
+Gece Zaleena'ya uzun bir rapor yazdı. Mektup Vorlag'ın adını, Valerius bağlantısını ve Delta para hattını içeriyordu. Sonuna bir görüşme önerisi koymadı; önce karşı tarafın kendi durumunu değerlendirmesini istedi.
 
-"Vorlag'ı, hemen tutuklama. Bu, sadece onu uyarır, ve gerçek ağı, karanlığa çeker. Bunun yerine, ona, bir tuzak kur — Valerius'un, gerçek dönüş planını, tam olarak öğrenene kadar bekle. Sonra, hepsini, aynı anda, çök."
+Faelan mühürlü zarfı aldı. "Bu yakalanırsa planımız açığa çıkar."
 
-Karia, bu stratejiyi, uzun bir süre tarttı. "Riskli. Eğer çok beklersem, plan olgunlaşır, belki de, benim kontrolümün ötesine geçer."
+"Bu yüzden kara yolundan değil, ilk ortak ticaret gemisiyle gidecek. Kaptanı mektubun varlığını bilmeyecek."
 
-"Biliyorum." Kaelan'ın sesi, nadir görülen bir ciddiyetle doluydu. "Ama bir amiral, fırtınayı erken görürse, rotasını, panikle değil, hesapla değiştirir. Sen, bu fırtınayı, artık görüyorsun, evladım. Şimdi, hesabını yap."
-
----
-
-O gece, Karia, kendi çalışma odasında, tek başına, uzun bir süre, haritaya baktı — Hegemonya'nın sınırları, Sazlık Taht'ın uzak topraklarına, Sis'in (Valerius'un sürgün yeri) belirsiz konumuna kadar uzanan bir harita.
-
-Zaleena'ya, bu kez, daha uzun bir mektup yazdı — Vorlag'ın ihaneti, Valerius'un olası dönüşü, Delta'nın bunun içindeki rolü, hepsini, ayrıntılarıyla anlattı.
-
-*Bu, artık, sadece bizim savaşımız değil,* diye yazdı sonunda. *Eğer Valerius, Delta'nın parasıyla dönerse, bütün kıtanın dengesi, yeniden sarsılır. Belki de, senin ve benim ittifakımız, artık, sadece ticaret için değil — hayatta kalmak için de gerekli.*
-
-Mektubu mühürlerken, Karia, kendi kendine, sessizce düşündü: taç, sandığından çok daha ağır bir yüktü — ve bu yükü, artık, tek başına taşımak, giderek daha imkânsız görünüyordu.
-
-Ama yalnız değildi, en azından. Ve bazen, düşündü Karia, bir amiral için, bu, fırtınaya karşı, en değerli şeydi.
+Karia mektubun bir kopyasını Kaelan'a verdi. Diğerini kendi kasasına koydu. Taç o gece daha ağır değildi. Yalnız üstünde hangi ellerin bulunduğunu artık biliyordu.

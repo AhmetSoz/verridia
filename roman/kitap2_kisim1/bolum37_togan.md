@@ -1,50 +1,50 @@
 # Bölüm 37 — Yemin-Bozan
 *(TOGAN)*
 
-Yabancı, Eski-Kent'e, hiçbir kervanla gelmedi — sadece, bir sabah, kütüphanenin kapısında belirdi, tek başına, tozlu bir pelerinle, sırtında, garip şekilli bir çanta.
+Kael hiçbir kervanla gelmedi. Bir sabah Eski-Kent'in kapısında göründü; pelerininin tozu üç ayrı toprağın rengini taşıyordu.
 
-"Gezgin Alim Kael," dedi Lyra, Togan'a fısıldayarak, adamı, uzaktan işaret ederek. "Kıtayı dolaşır, bilgi toplar — ve satar, bazen, tehlikeli bir şekilde. Delta'yla gevşek bir bağı var, ama kimseye tam sadık değil. Ondan, dikkatli ol."
+Lyra onu avludan gösterdi. "Gezgin âlim. Bilgiyi bulur, değiş tokuş eder. Delta'yla çalıştı, ama onlara ait değil. Ona hiçbir borç verme."
 
-Togan, adamı, dikkatle inceledi — orta yaşlı, keskin gözlü, hareketlerinde, garip bir rahatlık vardı, sanki, hiçbir yer, ona yabancı değilmiş gibi.
+Kael aynı gün Togan'ın karşısına davetsiz oturdu.
 
----
+"Ayla'nın oğlu," dedi. "Dişsiz Ağız'dan sağ dönen ikinci kişi."
 
-Kael, Togan'a, kütüphanenin dış avlusunda yaklaştı, davet edilmeden, karşısına oturarak.
+Togan'ın eli kılıcına gitti. "Bunu kimden duydun?"
 
-"Togan," dedi, adını, ilk kez duyuyormuş gibi değil, tanıdık bir şeyi doğruluyormuş gibi telaffuz ederek. "Sungurlar'ın kayıp savaşçısı. Annesi, Işıyanlar'la temas etmiş bir Azgut kadını. İlginç bir soy, itiraf etmeliyim."
+"Sorun yanlış. Kaç kişiye anlatacağımı sormalısın."
 
-Togan'ın eli, istemsizce, kılıcının kabzasına gitti. "Bunu nereden biliyorsun?"
+Kael çantasından deri kaplı bir defter çıkardı. Kapağında Lyra'nın notlarındaki sözcük vardı: *Praetorian.*
 
-"Ben, bilgiyi toplarım, genç savaşçı — bu, benim işim, tıpkı bir demircinin metali işlemesi gibi. Ve bazı bilgiler, doğru kulaklara ulaştığında, garip bir şekilde, kendi kendine yayılır." Kael, hafifçe gülümsedi, gözlerinde, ne dost ne düşman bir ışıltı. "Merak etme. Bu bilgiyi, henüz, kimseyle paylaşmadım. Ama bilmeni isterim: Praetorianlar hakkında, Yaşlı Ozan'ın bildiğinden çok daha fazlasını biliyorum."
+"Aras'ın günlüğünü ve koruyucuyla konuşmanı ver. Karşılığında bunun kopyasını al."
 
----
+Togan deftere uzanmadı. "Yerini açıklamayacağıma söz verdim."
 
-"Ne istiyorsun benden?" diye sordu Togan, sesi, temkinli ama meraklı.
+"Aras öldü. Söz verdiğin şey insan bile değil."
 
-"Basit bir takas." Kael, çantasından, eski, deri kaplı bir defter çıkardı, ama açmadı, sadece, elinde tuttu. "Sen, bana, Dişsiz Ağız'da bulduğun şeyi anlat — Aras'ın günlüğünü, ve Işıyan'ın sana söylediklerini, tam olarak. Karşılığında, ben, sana, bu defterdeki bilgiyi vereceğim — Praetorianlar'ın, Karanlık Hasat'tan önce, gerçekte ne olduğunu."
+"Bu, sözümü küçültmüyor."
 
-Togan, bu teklifi, uzun bir süre tarttı — bilgiye olan açlığı, gerçekti, neredeyse acı verici bir açlıktı. Ama Işıyan'ın sözleri, hâlâ, zihninde yankılanıyordu: *bir söz verdim.*
+Kael kapağı başparmağıyla sıvazladı. "Annen hakkında daha fazlası da olabilir."
 
-"Hayır," dedi sonunda, sesi, kendine bile şaşırtıcı bir kararlılıkla çıktı. "Bir söz verdim, bir varlığa. Bu sözü, bilgi için satmayacağım — ne kadar değerli olursa olsun."
+Togan'ın boğazı kurudu. Ayla'nın yaşadığı birkaç aya karşılık tek bir yer adı vermek kolay görünüyordu. Tam da bu yüzden ayağa kalktı.
 
----
+"Takas yok."
 
-Kael, bu cevaba, beklenmedik bir şekilde, gerçek bir hayranlıkla gülümsedi. "İlginç. Çoğu insan, böyle bir teklifi reddetmez, genç savaşçı. Ya çok akıllısın, ya da çok saf."
+Kael de kalktı. Alay etmedi. "Ya ahmaksın ya da sattığım bilgiden daha değerli bir şey biliyorsun."
 
-"Belki ikisi de," dedi Togan, dürüstçe.
+Defteri çantasına koyduktan sonra kapıya yöneldi. Eşikte durup arkasına baktı.
 
-"Belki." Kael, defteri, tekrar çantasına yerleştirdi, ayağa kalkarken. "Sana bir şey söyleyeceğim, karşılıksız — çünkü, itiraf etmeliyim, sadakatin, beni etkiledi. Praetorianlar, bir zamanlar, kahramandı, genç savaşçı — Işıyanlar'a karşı değil, onlarla birlikte durdu. Karanlık Hasat, bu ittifakı, bir şekilde kırdı. Nasıl kırdığını öğrendiğinde, belki de, kendi kanının, sandığından çok daha eski bir hikâyenin parçası olduğunu anlayacaksın."
+"Karşılıksız bir kırıntı bırakayım. Praetorianlar Işıyanları avlamak için kurulmadı. Bir zamanlar yan yana durdular. Karanlık Hasat o bağı bozdu."
 
-Bu sözlerle, Kael, dönüp, hiçbir açıklama yapmadan, Eski-Kent'in sokaklarına doğru uzaklaştı — Togan, uzun bir süre, arkasından baktı, kalbinde, hem bir hayal kırıklığı hem de yeni bir merak taşıyarak.
+"Nasıl?"
 
----
+"Bir sonraki takasta."
 
-Lyra, yanına geldiğinde, endişeyle sordu: "Ne istedi?"
+Kael kalabalığa karıştı. Lyra yanına geldiğinde Togan hâlâ kapıya bakıyordu.
 
-"Bir takas teklif etti," dedi Togan, yavaşça. "Reddettim."
+"Ne aldı?" diye sordu.
 
-Lyra, gözlerinde, gerçek bir gururla, başını salladı. "İyi yaptın. Kael'in bilgisi, her zaman, bir bedelle gelir — bazen, hemen görünmeyen bir bedelle."
+"Hiçbir şey."
 
-Togan, Eski-Kent'in ufkuna, uzun bir süre baktı — Kael'in son sözleri, zihninde, çözülmemiş bir bilmece gibi asılı kalarak: *Praetorianlar, bir zamanlar, Işıyanlar'la birlikte durdu.*
+"O zaman sana bir şey bıraktı. Kael boş alışveriş yapmaz."
 
-Bu, hikâyeyi, Togan'ın bildiğinden, çok daha karmaşık bir hâle getiriyordu — ve bir kez daha, Togan, kendi kanının, sadece kendi hikâyesi olmadığını, çok daha eski, çok daha büyük bir hikâyenin küçük bir parçası olduğunu hissetti.
+Togan bunun farkındaydı. Defteri göstermesi bile bir oltaydı; verdiği kırıntı da yeminini değil, sabrını sınayacaktı. Yine de Praetorianların Işıyanlarla birlikte durduğu cümlesini zihninden çıkaramadı.

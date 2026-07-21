@@ -1,40 +1,26 @@
 # Bölüm 8 — Söylenti Savaşı
 *(ZALEENA)*
 
-İlk işaret, bir söylentiydi — Yamalı Liman'ın pazarlarında, aniden, garip bir dedikodu yayılmaya başladı: Zaleena'nın, gizlice, Paslı Gelgit'e, halkın vergileriyle, "hediyeler" gönderdiği, yönetiminin, aslında, halkı soyduğu.
+Pazarda aynı söylenti üç ayrı ağızdan aynı cümleyle anlatılınca Draven bunun kendiliğinden yayılmadığını anladı. Zaleena'nın Paslı Gelgit'e halk vergilerinden gizli ödeme yaptığı söyleniyordu.
 
-"Bu, asılsız," dedi Kessel, ilk raporu getirirken, öfkeyle. "Ama hızla yayılıyor — sanki, birileri, bilerek, körüklüyor."
+Üç gün içinde iki tellalın Sarris'in aracılarından para aldığı bulundu. Zaleena onları hemen tutuklatmadı; söyledikleri rakamları kayda aldı. Söylenti gerçek bütçenin iki katını kullanıyordu.
 
-Zaleena, bu haberi, dikkatle dinledi. "Kaynağını bulabilir misin?"
+Amara, Sarris'in hamlesini doğruladı ve kendi kanallarında karşı çıkacağını bildirdi. Zaleena cevabı beklemedi.
 
----
+Pazar meydanına üç büyük levha asıldı. İlkinde vergi geliri, ikincisinde ticaret geliri, üçüncüsünde ortak devriye gideri vardı. Paslı Gelgit payı vergi kasasından değil, kurtarılan yüklerden alınan liman ücretinden ödenmişti.
 
-Draven, üç gün içinde, kaynağı buldu — beklenen ama yine de can sıkıcı bir isim.
+Halk toplantısında bir balıkçı neden düşman gemisinin onarımını finanse ettiklerini sordu.
 
-"Sarris'in adamları," dedi Draven, kesin bir netlikle. "Karaçul'la olan başarısızlıktan sonra, görünüşe göre, farklı bir cephe açmaya karar verdi — doğrudan bir saldırı değil, itibar savaşı."
+"Çünkü geçen ay onların gemisi kuzey hattını tutmasaydı üç balıkçı teknemiz dönmeyecekti," dedi Zaleena. "Yine de anlaşmayı pahalı buluyorsanız üç ay sonraki gözden geçirmede temsilci gönderin."
 
-Zaleena'nın içi, soğuk bir öfkeyle doldu. "Amara'ya yazacağım. Eğer, 'temiz sayfa' anlaşması, gerçekse, bu, onun da, engellemesi gereken bir şey."
+Rakamları okumayı bilmeyenler için Mira levhaları yüksek sesle okudu. Kopyalar meyhanelere ve rıhtım kapılarına asıldı.
 
----
+Söylenti bir günde bitmedi. Bir hafta sonra aynı cümle daha az duyuluyor, yerine ödemenin fazla olup olmadığı tartışılıyordu. Zaleena bunu başarı saydı. Yalan, gerçek bir siyasi soruya dönüşmüştü.
 
-Amara'nın cevabı, hızlı ve kesindi: *Bu, benim onayım olmadan yapılıyor — yine. Sarris, açıkça, sınırları zorluyor. Kendi kanalımdan, bu söylentileri, durdurmaya çalışacağım. Ama sizin de, kendi tarafınızdan, gerçeği, açıkça anlatmanız gerekecek.*
+Amara sonradan iki aracıyı hattından çıkardığını yazdı. Zaleena teşekkür etmedi; yalnız isimleri Draven'ın listesiyle karşılaştırdı.
 
-Zaleena, bu tavsiyeyi, ciddiye aldı — ve o hafta, halka açık bir toplantı düzenledi, bütün hesapları, şeffaf bir şekilde, halkın önünde açıklayarak.
+Kessel meydandaki levhalara baktı. "Her bütçeyi böyle açarsak rakiplerimiz de okur."
 
----
+"Öyle. Gizli savunma giderini açmayız. Halk adına yapılan ortak ödeme ise halktan saklanmaz."
 
-"Her kuruş," dedi Zaleena, toplanan kalabalığa, sesi net, otoriter, "nereye gittiğini, görebilirsiniz. Paslı Gelgit'e giden şey, hediye değil — ortak savunma masrafı, ikimizin de, Akıntı-Yaratıklarına karşı, daha güvenli olması için. Ve bu, sizin vergilerinizle değil, ticaret gelirlerimizle finanse ediliyor."
-
-Kalabalık, bu açıklamayı, dikkatle dinledi — bazıları, hâlâ şüpheci, ama çoğu, ikna olmuş görünüyordu.
-
-Roric, toplantı sonrası, Zaleena'ya, gururlu bir gülümsemeyle yaklaştı. "İyi yönettin bunu — şeffaflıkla, korkuyla değil."
-
----
-
-O akşam, Amara'dan, ikinci bir mesaj geldi: *Söylentinin kaynağındaki iki adamı buldum. Cezalandırıldılar. Sarris'e, bir kez daha, açıkça söyledim — bu oyunlar, artık, bitmeli, yoksa, Delta içindeki dengeler, benim lehime, kalıcı olarak değişir.*
-
-Zaleena, bu mesajı okurken, Kessel'e döndü. "Amara, gerçekten, Sarris'e karşı, kendi savaşını veriyor gibi görünüyor."
-
-"Belki de," dedi Kessel, düşünceli, "bu, bizim için, umduğumuzdan daha büyük bir fırsat. Delta'nın kendi içindeki bu savaş, bir gün, bizim lehimize, gerçekten büyük bir şeye dönüşebilir."
-
-Zaleena, mesajı katladı, ve ertesi günün pazar denetimi için notlarını çıkardı — bir kriz, daha, atlatılmıştı, ama liman, kendi sıradan işine, çoktan dönmüştü bile.
+Ertesi ay bütçe levhaları söylenti olsun olmasın asılacaktı. Sarris'in saldırısı geçici cevap değil, kalıcı bir hesap kuralı doğurmuştu.

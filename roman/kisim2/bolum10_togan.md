@@ -1,48 +1,44 @@
 # Bölüm 10 — Taş ve Sis Şehri
 *(TOGAN)*
 
-Togan, Metheris'i ilk kez uzaktan gördüğünde, bir süre nefesini tutmak zorunda kaldı.
+Metheris sisin içinden tek parça hâlinde çıkmadı. Önce Kuzey Feneri göründü. Ardından kayalıklara oyulmuş üst şehir, surlar ve limanı dolduran direkler belirdi.
 
-Bir tepenin üzerinde durmuş, aşağıya bakıyordu; ve orada, fiyort kayalıklarına katman katman oyulmuş, sisin arasından yükselen devasa bir taş şehir vardı. Togan, hayatı boyunca hiçbir yerleşimin bu kadar büyük olabileceğini hayal etmemişti — Kartal-Yurdu'nun yüz katı, belki daha fazlası. Şehrin en yüksek noktasında, beyaz taştan bir yapı, diğer her şeyin üzerinde yükseliyordu; Togan, bunun kralın sarayı olduğunu tahmin etti. Ve limanın kenarında, dev bir kule, hiç sönmeyen bir ışıkla, sisin içinde parlıyordu.
+Togan tepenin ardında durdu. Kartal-Yurdu’ndaki bütün çadırları üst üste koysa limandaki evlerin bir sırasına yetmezdi. Duman, katmanlı sokakların üzerinde alçak bir tavan oluşturuyordu. Burkut omzunda huzursuzca yer değiştirdi.
 
-"Bu insanlar," diye mırıldandı kendi kendine, "gerçekten bu kadar çok mu?"
+“İçeri girmeyeceğiz,” dedi Togan.
 
-Burkut, omzunda, huzursuzca kıpırdandı — bu kadar çok taş yapı, bu kadar çok duman, kartal için de yabancı ve rahatsız ediciydi.
+Şehrin doğusundan geniş bir yay çizip Kuzey Sefer Yolu’nun başlangıcına ulaşacaktı. Haritada kolay görünen dolaşma, arazide devriye ve taş duvarlarla kapalıydı.
 
-Togan, şehre girmeyi hiç düşünmedi bile. Bir Sungur savaşçısı, silahlı ve yalnız, Hegemonya'nın başkentinde anında dikkat çekerdi — belki tutuklanır, belki daha kötüsü. Bunun yerine, şehrin dışından, doğu yönünden dolaşarak, Kuzey Sefer Yolu'na ulaşmayı planladı.
+Öğleye doğru altı atlının yaklaştığını duydu. Burkut’u havalandırıp yarı çökmüş bir çiftlik duvarının arkasına girdi. Islak toprağa uzandı; pelerininin kenarını zırhın üstüne çekti.
 
-Ama bu dolaşma, göründüğünden daha zor çıktı. Şehrin çevresi, devriyelerle doluydu — Beklenti Yılı'nın getirdiği tetikte olma hâli, sınırların her zamankinden daha sıkı korunmasına neden olmuştu.
+Atlılar birkaç adım ötesinden geçti.
 
-Öğleye doğru, bir tepenin ardında gizlenirken, Togan, yakınlaşan at seslerini duydu — bir devriye kolu, doğrudan onun bulunduğu yöne doğru ilerliyordu.
+“Kral’ın hastalığı doğru mu?” dedi biri.
 
-Kalbi hızlanarak, hızla çevresine baktı; sığınacak bir yer arıyordu. Yakınlarda, yarı çökmüş bir taş duvar kalıntısı vardı — belki eski bir çiftlik evi, belki bir gözetleme kulesi kalıntısı. Togan, Burkut'u işaret ederek yükseğe uçmasını söyledi, kendisi ise duvarın gölgesine sindi, nefesini tutarak.
+“Saray kapıları gece kapanmış.”
 
-Devriye, sadece birkaç adım ötesinden geçti — altı atlı, zırhları şıngırdayarak, sesleri net duyulabiliyordu.
+“Ölürse kim geçecek?”
 
-"...Kral'ın hastalandığı doğru mu?" diyordu bir asker, diğerine.
+“Vâris yok. Lordlar birbirini yer.”
 
-"Öyle diyorlar. Saraydan gelen haberler karışık. Bazıları ölmek üzere olduğunu söylüyor, bazıları sadece bir soğuk algınlığı olduğunu."
+“Önce bizi yerler.”
 
-"Eğer ölürse ne olur? Vâris yok ki."
+Nallar taş yolda uzaklaştı.
 
-"Bilmiyorum. Ama iyi bir şey olmayacağı kesin. Şu anki gerginlikle, bir de taht kavgası eklenirse..."
+Togan bir süre daha bekledi. Hegemonya’nın kralı ölmek üzere olabilirdi. Bu, onun yolunu kapatacak daha sık devriye, belki iç savaş demekti. Şehrin büyük sorunları bile sonunda yoldaki tek kişinin başına asker olarak çıkıyordu.
 
-Sesler, uzaklaşarak kayboldu. Togan, uzun bir süre daha hareketsiz kaldı, kalbi hâlâ hızlı atıyordu — hem devriyenin yakınlığından, hem de duyduğu bu tuhaf, kendi derdinden bağımsız haberden.
+Akşama doğru Metheris’i arkasında bıraktı. Kuzeye giden yol burada genişliyor, düzgün taşlarla döşeniyordu. Yolun iki yanında aralıklı dikilmiş isimsiz anıtlar başladı.
 
-Bir kral ölüyormuş. Bir vâris yokmuş. Togan, bunun kendisi için ne anlama geldiğini bilmiyordu — belki hiçbir anlamı yoktu — ama bu, ona bir kez daha, bütün dünyanın, kendi küçük yasının ve umudunun çok ötesinde, kendi büyük dramlarıyla dönmeye devam ettiğini hatırlattı.
+İlk taşın önünde durdu. Yontulmamış yüzeyinde yazı yoktu.
 
----
+Gareth, bunların kuzeye gidip dönmeyen keşif kolları için dikildiğini söylemişti. Togan elini taşa koydu. Soğuk, avucundan koluna yürüdü.
 
-Devriye tamamen uzaklaştıktan sonra, Togan, dikkatle ilerlemeye devam etti, şehri geniş bir yay çizerek dolaşarak. Akşama doğru, Kuzey Sefer Yolu'nun başlangıcına ulaştı — geniş, taş döşeli bir yol, kuzeye, sisin ve bilinmezliğin içine doğru uzanan.
+Kaç kişinin bu noktada geri dönme şansı vardı? Kaçı bunu kullanmamıştı?
 
-Yolun kenarında, ilk isimsiz taş anıtı gördü — sade, yontulmamış bir taş, üzerinde hiçbir yazı olmayan. Gareth, bu anıtların, kuzeye gidip dönmeyen keşif kollarının anısına dikildiğini söylemişti.
+Kaya hakkındaki yarım haber yeniden aklına geldi. Güneye dönse artık izleri bulamayacağını biliyordu. Kuzeye giderse de onu terk etmiş olma ihtimali peşinden gelecekti.
 
-Togan, anıtın önünde bir süre durdu, elini soğuk taşa koydu. Kaç kişi, diye düşündü, bu yoldan geçip bir daha dönmemişti? Ve o, kaçıncı olacaktı?
+“Döneceğim,” dedi taşa. “İkimiz için de.”
 
-"Ben döneceğim," diye fısıldadı taşa, sanki bir yemin ediyormuş gibi. "Ve döndüğümde, yanımda Melira'yı da getireceğim."
+Melira’yı mı, Kaya’yı mı kastettiğini ayırmadı.
 
-Bu sözler, kendi kulağına bile, artık eskisi kadar kesin gelmiyordu — günler geçtikçe, yolculuğunun gerçekliği, umudunun kırılganlığını daha net gösteriyordu ona. Ama pes etmek, artık bir seçenek değildi; çok fazla şey geride bırakmıştı, çok fazla acı çekmişti, geri dönüp "vazgeçtim" diyemezdi.
-
-Yola girdi, kuzeye doğru, Burkut üzerinde geniş daireler çizerken.
-
-Bilmiyordu ki, tam o saatte, çok uzaklarda, bağlı elleriyle bir Azgut çadırında oturan bir başka savaşçı, aynı alacakaranlığa bakıyor, ve kendi kaderinin, bir şekilde, ona bağlı olduğunu düşünüyordu.
+Elini taştan çekip yola girdi. Burkut önden uçtu; Kuzey Feneri’nin ışığı sisin arkasında kaybolana kadar Togan dönüp bakmadı.

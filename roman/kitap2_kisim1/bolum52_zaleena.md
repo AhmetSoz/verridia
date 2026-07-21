@@ -1,40 +1,38 @@
 # Bölüm 52 — Kazanılan Nefes
 *(ZALEENA)*
 
-Amara'nın cevabı, Sarris'inkinden farklı bir şekilde geldi — bizzat gelmedi, ama uzun, dikkatle yazılmış bir mektup gönderdi, Draven aracılığıyla değil, doğrudan, resmi bir kanaldan.
+Amara'nın cevabı Draven'la değil, resmî elçiyle geldi. Can Macunu tedariki siyasi koşullardan ayrılıyor, fiyat üç aylık piyasa ortalamasına bağlanıyordu. Delta ayrıca Mirasçılarla yapılan bilgi anlaşmasına müdahale etmeyecekti.
 
-*Kraliçe Zaleena,* diye başlıyordu mektup, *Delta, sizin ve Kraliçe Karia'nın endişelerini, ciddiye alıyor. Sarris'in bazı projeleri, benim onayım olmadan yürütüldü — bu, Delta içinde, artık, ele alınan bir mesele. Can Macunu tedarikiniz, güvence altında kalacak, hiçbir kesinti tehdidi olmadan. Umuyorum ki, bu, aramızdaki ticari ilişkiyi, daha sağlıklı bir zemine oturtur.*
+Zaleena metindeki boşluğu buldu. "Miktar garantisi yok."
 
-Zaleena, mektubu, iki kez okudu, sonra, Roric'e uzattı.
+Elçi kaynakların mevsime göre değiştiğini söyledi.
 
----
+"Asgari miktar eklenirse imzalarım."
 
-"Ne düşünüyorsun?" diye sordu Roric, mektubu okuduktan sonra.
+İki gün süren haberleşmeden sonra altı aylık taban miktar kabul edildi. Zaleena buna karşılık depo kanıtlarını anlaşma bozulmadıkça açıklamama sözü verdi. Kopyalar yerinde kalacaktı.
 
-"Düşünüyorum ki," dedi Zaleena, yavaşça, "Amara, gerçekten, farklı bir oyuncu, Sarris'ten. Belki de, bu, ileride, bize, bir fırsat sunar — Delta'nın tamamına karşı değil, sadece, onun bir kanadına karşı, gerçek bir denge kurma fırsatı."
+Roric iki metni yan yana okudu. "Sarris beş yıl, Amara altı ay vermiş."
 
-Roric'in sesi temkinliydi. "Yine de temkinli ol. Delta, hep, kendi çıkarını gözetir — dostluk değil."
+"Biri siyaset satıyor, diğeri ilaç. Süreleri malları kadar."
 
-"Biliyorum. Ama çıkarlar, bazen, örtüşebilir, Roric. Ve şimdilik, bu örtüşme, bize, nefes alacak bir alan veriyor."
+Kessel akşam onu limanın üst sokağına çıkardı. Aşağıda yeni şifahanenin çatısı kapanmış, Paslı Gelgit devriyesi ortak fener işaretini yakmıştı. İlk Hegemonya ticaret gemisi vergi iskelesinde yük boşaltıyordu.
 
----
+"Burası artık limandan fazlası," dedi Kessel.
 
-O akşam, Kessel, Zaleena'yı, limanın en yüksek noktasına, kısa bir yürüyüşe davet etti — nadir bir davet, ama Zaleena, kabul etti.
+Zaleena düzensiz çatıları, yeni nöbet yolunu ve hâlâ onarılmamış eski suru gördü. "Devlet olmak, devletmiş gibi görünmekten pahalı."
 
-"Bir yıl önce," dedi Kessel, ikisi, şehri, yukarıdan izlerken, "burası, sadece, bir enkaz yığınıydı — kaçakçıların, korsanların, unutulmuşların limanı. Şimdi, bak."
+"Yine de olduk mu?"
 
-Zaleena, aşağıya baktı — düzenli sokaklar, işleyen bir pazar, disiplinli devriye gezen muhafızlar, ve ötede, limanın ağzında, Paslı Gelgit'in barış bayrağıyla süslenmiş bir gemi.
+"Vergiyi kim topluyor?"
 
-Zaleena'nın sesinde, kendine bile şaşırtıcı bir gurur vardı. "Bir devlet oluyoruz, gerçekten."
+"Biz."
 
-"Senin sayende."
+"Hırsızı kim yargılıyor?"
 
-"Hayır." Zaleena'nın sesi, dürüst bir alçakgönüllülükle çıktı. "Hepimizin sayesinde. Sen, Roric, Sorin, Draven bile, kendi garip yoluyla. Bir liman, tek bir kişiyle inşa edilmez, Kessel — bir gemi gibi, her parça, kendi yerinde durmalı."
+"Biz."
 
----
+"O zaman olduk. İyi olup olmadığımızı sonra göreceğiz."
 
-Gece, kamarasına döndüğünde, Zaleena, Karia'nın son mektubunu, bir kez daha okudu — *gerçek bir nefes alma alanı kazandık.*
+Kamarasına döndüğünde Amara'nın anlaşmasını tehdit mektuplarının yanına değil, ticaret kayıtlarının arasına koydu. Delta dost olmamıştı. Yalnız tehdidin maliyetini görmüş ve geri adım atmıştı.
 
-Kendi masasına oturdu, ve, ilk kez, uzun zamandır, sadece, bir sonraki tehdidi düşünmeden, bir an, sessizce, geriye baktı: kaçakçılıktan kraliçeliğe, düşmanlıktan ittifaka, korkudan, temkinli ama gerçek bir umuda.
-
-*Yol, henüz bitmedi,* diye düşündü, Karia'nın mektubunu, dikkatle katlayıp, çekmecesine kaldırırken. *Ama bugün, en azından, doğru yönde ilerliyoruz — hepimiz, biraz daha az yalnız.*
+Bu nefes alma alanını kutlamak yerine ilk altı ayın ilaç teslim tarihlerini takvime işledi.

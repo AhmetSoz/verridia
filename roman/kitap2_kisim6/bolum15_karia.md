@@ -1,38 +1,18 @@
-# Bölüm 15 — Uzaktan Destek
-*(KARİA)*
+# Bölüm 15 — Severin Dosyasındaki Önek
+*(KARIA)*
 
-Temujin'in mektubu, Beklenti Yılı töreninde olanları anlattığında, Karia, bu haberi, derin bir hayranlıkla okudu.
+Faelan, Kaan'ın incelediği mühür numaralarını Severin dosyasının eski silah faturalarıyla karşılaştırdı. Kurum damgaları aynı değildi; fakat kapalı ödeme emirlerinin ilk dört işareti eşleşiyordu. Aynı paralel bütçe yöntemi yıllar sonra başka bir operasyonda kullanılmış olabilirdi.
 
-"Yıllar süren bir plan, sonunda, ilk gerçek adımını attı," dedi Karia, Faelan'a, mektubu göstererek. "Bu adam, gerçekten, olağanüstü bir sabır taşıyor."
+Karia bunu Bozan cinayetinin kanıtı saymadı. Severin dosyası farklı kişiler, farklı mallar ve farklı bir dönemle ilgiliydi. Yine de kayıt usulünün sürekliliğini gösterebilirdi.
 
-Faelan, bu gelişmeyi, stratejik bir gözle değerlendirdi. "Eğer, Korgan, gerçekten, Delta'ya karşı dönerse, bu, bütün kıtanın dengesini, değiştirebilir."
+Temujin'e faturaların kendisini değil, arşiv dizinini ve doğrulanmış önekleri gönderdi. Kaan isterse asılları Hegemonya'da iki gözlemci önünde inceleyebilecekti. Belgenin bağlamından koparılmaması şarttı.
 
----
+Bilgeler Meclisi desteğin siyasal sonucunu tartıştı. Osric, Korgan güçlenirse bozkır dengesinin Hegemonya aleyhine dönebileceğini söyledi. Toma delili saklamanın daha sonra ortaya çıkarsa güveni yok edeceğini savundu. Wren ise araştırmaya yardım ile Korgan'ın politikasına destek vermenin ayrı tutulmasını istedi.
 
-"Nasıl yardımcı olabiliriz?" diye sordu Karia, düşünceli.
+Karia, Wren'in ayrımını resmî nota ekledi. Hegemonya yalnız arşiv erişimi sağlıyor, Azgut yönetimine ilişkin bir tutum açıklamıyordu.
 
-"Belki," dedi Faelan, "kendi araştırmamızı, dolaylı olarak, Kaan'ınkiyle birleştirebiliriz. Severin'in eski dosyası, hatırlarsanız, Delta'nın, silah ticaretindeki rolünü, zaten kanıtlıyordu. Belki, bu, Kaan'ın araştırmasına, ek bir destek sağlar."
+Amara'dan aynı gün ortak denetim talebinin iç kurula alındığı haberi geldi. Üç üye kabul, iki üye ret oyu vermişti; nihai karar için bütçe sorumlusunun görüşü bekleniyordu.
 
-Karia, bu öneriyi, hızla onayladı. "Dikkatli bir şekilde, bu bilgiyi, Temujin'e ilet — o, uygun gördüğü şekilde, Kaan'la paylaşabilir."
+Karia artık "Delta düşman" gibi tek cümlelik bir sonuca güvenmiyordu. Delta'nın içinde Amara, eski kadrolar, kapalı bütçe birimi ve adı devredilen bir makam vardı. Sorun yalnız kötü insanlar değil, kimsenin tam hesabını vermediği yetkilerdi.
 
----
-
-O hafta, Karia, kendi kendine, bu büyüyen ağın — Togan, Temujin, kendisi, Zaleena, ve şimdi, dolaylı olarak, Kaan bile — ne kadar güçlü bir şey haline geldiğini, düşündü.
-
-"Bir yıl önce," dedi Karia, Elowen'e, "sadece, kendi krallığımın, sınırları içinde düşünürdüm. Şimdi, bozkırın, geleceğini bile, dolaylı olarak, etkileme gücüne sahibim."
-
-Elowen, bu düşünceye, derin bir hayranlıkla karşılık verdi. "Bu, güç değil sadece, Karia — bu, sorumluluk. Ve sen, onu, iyi taşıyorsun."
-
----
-
-Kaelan, bu gelişmeleri, dikkatle değerlendirdi. "Malakor meselesi de, unutulmamalı, evladım. İki cephe, aynı anda, dikkat gerektiriyor."
-
-"Biliyorum," dedi Karia. "Ve ikisi de, garip bir şekilde, birbirine bağlı görünüyor — Delta'nın, hem Bozan'ın ölümünde hem de, Malakor'un gizemli gündeminde, parmağı var."
-
-Bu düşünce, Karia'yı, yeni bir kesinliğe götürdü. "Belki, gerçek düşman, hiçbir zaman, tek bir kişi değildi — Sarris, Malakor, kim olursa olsun. Belki, gerçek düşman, Delta'nın kendisi — sistemin kendisi."
-
----
-
-O akşam, Zaleena'ya, bu düşünceyi paylaşan bir mektup yazdı Karia: *Belki, hepimiz, farkında olmadan, aynı savaşı veriyoruz — Delta'nın gölgesine karşı. Ve belki, bu savaş, bir gün, hepimizin, birlikte kazanacağı bir savaş olacak.*
-
-Mektubu mühürlerken, Karia, kendi kendine, düşündü: bu, uzun, sabırlı bir mücadeleydi — ama artık, yalnız değildi.
+Uzaktan desteği de buna göre sınırladı: belgeyi aç, bağlamı koru, sonucu sahibi adına yorumlama.

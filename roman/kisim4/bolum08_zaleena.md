@@ -1,56 +1,86 @@
 # Bölüm 8 — Derinliklerin Efendisi
-*(ZALEENA — Kızıl Hafta, 5. Gün)*
+*(ZALEENA: Kızıl Hafta, 5. Gün)*
 
-Canavar Günü, Yamalı Liman'a, Zaleena'nın hayatında hiç görmediği bir dehşetle geldi.
+Canavar Günü'nde deniz birden durdu.
 
-Şafak vakti, denizin yüzeyi, garip bir şekilde, bir ayna gibi pürüzsüzleşti — Zaleena, bu görüntüyü tanıdığında, kanının donduğunu hissetti. Bu, sadece bir efsanede duyduğu bir şeydi: Deniz-Titreten'in yaklaştığının işareti.
+Yamalı Liman'ın dışındaki bir millik su, rüzgâra rağmen ayna gibi dümdüz kaldı. Zaleena görüntüyü Roric'in anlattığı eski bir seferden tanıdı.
 
-"Herkesi sudan çıkarın!" diye bağırdı, limanın her köşesine ulaşacak bir sesle. "Kimse denize açılmasın! Bu, sıradan bir tehlike değil!"
+“Bütün tekneleri geri çağırın,” dedi. “Deniz-Titreten.”
 
-Ama uyarı, geç kalmıştı bazıları için — açıkta, birkaç küçük balıkçı teknesi, henüz limana dönmemişti.
+Dışarıda üç balıkçı teknesi vardı. İkisi limana dönmeye başladı. En uzaktaki, durgun halkanın ortasında kalmıştı.
 
-Zaleena, dürbününü gözüne dayadığında, o pürüzsüz suyun ortasında, yavaşça yüzeye çıkan, jelatinimsi, devasa bir gövde gördü — içinde, mavi bir alev gibi yanan tek bir organ, garip ve hipnotik bir şekilde parlıyordu.
+Suyun altında mavi bir ışık yandı.
 
-"Uzaklaşın oradan!" diye bağırdı Zaleena, ama sesi, mesafe yüzünden, balıkçılara ulaşamadı.
+İlk dalga gözle görülmedi. Teknedeki beş balıkçı aynı anda güverteye yığıldı. Kürekler ellerinden düştü. Martılar havadan suya çakıldı.
 
-Deniz-Titreten, sessizce, görünmez bir dalga yayarak, teknelerdeki adamları anında felç etti — Zaleena, dehşetle, adamların, hareketsiz, teknelerinin güvertesine yığıldığını izledi.
+Sorin korkuluğa yapıştı. “Yaşıyorlar mı?”
+
+“Felç oldular.”
+
+Mavi organ yeniden karardı. Zaleena ilk parlayışla sönüş arasındaki süreyi saydı. Sonra ikinci ışık başladı.
+
+“Kırk sekiz nefes,” dedi.
+
+“Neye?”
+
+“Dalgalarına.”
+
+Deniz Hayaleti'ni hazırlattı. Güverteye yalnız on iki kişi aldı. Herkes belinden gemiye bağlandı. İki bordaya uzun kancalar, kıça bütün yelkenler hazırlandı.
+
+Draven önüne çıktı. “Bir balıkçı teknesi için kraliçeyi riske atamazsın.”
+
+“Ben gitmezsem kimi atacaksın?”
+
+“Beni.”
+
+Zaleena onu süzdü. “Kuzey iskelesi sende. Yaratık limana dönerse benden daha çok sana ihtiyaçları var.”
+
+Bu, Draven'ın hoşuna gitmedi. Yine de çekildi.
 
 ---
 
-"Bir şey yapmalıyız," dedi Sorin, yanında, sesi telaşlı. "Onları kaybedemeyiz!"
+Deniz Hayaleti durgun halkanın sınırında bekledi. Mavi ışık parladı. Dalga geçip suyun üstündeki ölü balıkları sürüklediğinde Zaleena elini indirdi.
 
-Zaleena, hızla düşündü — Deniz-Titreten'e yaklaşmak, ölümcül bir riskti; ama adamları öylece bırakmak da, onun yeni krallığının, ilk büyük ahlaki sınavı olurdu.
+“Şimdi.”
 
-"Deniz Hayaleti'ni hazırlayın," dedi sonunda, sesi kesin. "Ama uzaktan yaklaşacağız, ve dalganın menzilinden hemen çekileceğiz. Sadece adamları almak için, hızlı bir manevra."
+Rüzgâr gemiyi halkanın içine taşıdı. Tayfalar küreklere asıldı. Balıkçı teknesine vardıklarında otuz bir nefes geçmişti.
 
-Bu, inanılmaz derecede tehlikeli bir plandı — ama Zaleena'nın gemisi, kıtanın en hızlısıydı, ve bu, belki de, tek şansları.
+İki kanca bordaya geçti. Tayfalar baygın balıkçıları tek tek çekmeye başladı. Dördüncü adam güverteye alındığında suyun altındaki mavi ışık erken yandı.
 
-Deniz Hayaleti, sessizce, Deniz-Titreten'in menzilinin kenarına yaklaştı; Zaleena, kendi gemisinin hızını, ustalıkla kullanarak, teknelere doğru bir kanca attı, adamları hızla çekmeye başladı.
+“Kesin tekneyi!” diye bağırdı Sorin.
 
-Tam o anda, Deniz-Titreten, onların varlığını fark etti — devasa gövdesi, yavaşça, ama tehlikeli bir şekilde, onlara doğru dönmeye başladı.
+Beşinci balıkçı hâlâ halata dolanmıştı.
 
-"Çekin! Şimdi!" diye bağırdı Zaleena, ve son bir adamı gemiye çektikleri anda, dümeni sert bir şekilde çevirdi, geminin bütün hızıyla, tehlikenin menzilinden uzaklaşarak.
+Zaleena kancayı bırakmadı. Adamı küpeşteden kendi çekti. Mavi aydınlık geminin altına yayıldı.
 
-Dalga, onlara ulaşmadan, birkaç saniye önce, güvenli mesafeye ulaştılar — Zaleena, arkasına baktığında, Deniz-Titreten'in, yavaşça, sessizce, derinliklere geri döndüğünü gördü, sanki bu küçük av kaçtığı için hiçbir öfke duymuyormuş gibi.
+“Yelken!”
+
+Deniz Hayaleti döndü. İlk felç Zaleena'nın parmaklarından başladı. Sağ eli kancanın üzerinde kilitlendi. Sorin onu belinden kavrayıp güverteye çekti. Gemi durgun halkanın dışına çıktığında Zaleena dizlerini hissedemiyordu.
+
+Dalga kıç taraftaki iki tayfayı yere serdi. Direktekiler yelkeni bırakmadı. Rüzgâr onları menzilden çıkardı.
 
 ---
 
-Limana döndüklerinde, kurtarılan balıkçılar, felçten yavaşça kurtularak, gözyaşları içinde, Zaleena'ya teşekkür ettiler.
+Zaleena limana döndüğünde yürüyemiyordu. Tayfalar onu bir kapı tahtasının üzerinde kıyıya taşıdı. Kurtardıkları beş balıkçıdan dördü gözlerini açmıştı; beşincisi nefes alıyor fakat konuşamıyordu.
 
-"Kraliçem," dedi içlerinden biri, sesi titrek, "hayatımızı borçluyuz size."
+Kalabalık alkışlamadı. İnsanlar, denizin bir hükümdarı bile ne hâle getirebildiğini görüp sessizce yol açtı.
 
-Zaleena, bu minnettarlığı, garip bir alçakgönüllülükle karşıladı. "Herkes, benim korumam altında, Yamalı Liman'da. Bu, benim görevim."
+Roric gece kamaradan çıkıp Zaleena'nın yanına geldi. Bir kolunu duvara dayayarak yürüyordu.
 
-Bu sözler, limanın kalabalığı arasında, hızla yayıldı — ve Zaleena, o akşam, ilk kez, kendi liderliğinin, sadece bir hesap ya da bir hırs değil, gerçek bir sorumluluk olduğunu, derinden hissetti.
+“Ayağın?” diye sordu.
 
-Roric'in kamarasına gittiğinde, yaşlı adam, haberi zaten duymuştu.
+Zaleena sol ayak parmaklarını oynattı. “Geri geliyor.”
 
-"Deniz-Titreten'e karşı gittin," dedi Roric, sesinde bir hayranlık ve endişe karışımı vardı. "Bu, delilikti, Zaleena."
+“Oraya gitmen aptallıktı.”
 
-"Belki," dedi Zaleena, yorgun bir gülümsemeyle. "Ama bir kraliçe, halkını, sadece güvenli olduğunda korumaz, Roric. En tehlikeli anlarda da korur. Yoksa, kraliçe olmanın ne anlamı var?"
+“Draven da öyle dedi.”
 
-Roric, ona uzun bir süre baktı, sonra, yavaşça, başını salladı. "Sen, gerçekten, benden daha iyi bir kraliçe olacaksın."
+“İkiniz de haklı olduğumuzu biliyorsunuz.”
 
-O gece, Zaleena, güvertede, tek başına durdu, kurtardığı balıkçıların hâlâ titreyen ellerini düşünerek. Canavar Günü geride kalıyordu — ama denizin derinliklerinde, Paslı Gelgit'lerin ve belki daha fazlasının, hâlâ, sabırla beklediğini biliyordu.
+Zaleena ellerine baktı. Titreme sürüyordu. “Beşini de aldık.”
 
-"İki gün kaldı," diye mırıldandı kendi kendine. "İki gün, ve sonra, bu fırtınanın ne bıraktığını göreceğiz."
+“Bir gün alamayacaksın.”
+
+“O gün kimi bıraktığımı bilirim.”
+
+Roric cevap vermedi. Masanın üstündeki kayıp defterine baktı. Sonra ilk kez, kalem istemeden kendi adını sağ kalanların altına yazdı.

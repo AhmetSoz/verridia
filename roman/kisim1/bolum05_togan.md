@@ -1,108 +1,140 @@
-# Bölüm 5 — Gölge-Örtü'nün Fısıltıları
+# Bölüm 5 — Gölge-Örtü’nün Fısıltıları
 *(TOGAN)*
 
-Bozkır bitti, dedi kendine, üçüncü günün şafağında — ve haklıydı. Ak-Siper'in eteklerindeki son otlaklar, alçalan, nemlenen tepelere, sonra sıklaşan bir ağaç örtüsüne bırakmıştı yerini. İki gündür kimsenin sürmediği patikaları, geyik izlerini takip etmişti; ve her fersahta, arkasında bıraktığı enginlik, yerini bir boğulma hissine terk ediyordu. Rüzgârın yerini, yapraklardan damlayan suyun tıpırtısı almıştı.
+Üçüncü günün şafağında ot bitti.
 
-Gölge-Örtü Ormanı'nın kıyısına vardığında, önce nefes almayı unuttu.
+Ak-Siper’in eteklerindeki son düzlükler önce nemli tepelere, sonra birbirine sokulmuş ağaçlara dönüştü. Togan iki gündür kullanılmayan av patikalarını izliyordu. Her fersahta gökyüzü biraz daha daraldı. Bozkırda rüzgâr insana nerede olduğunu söylerdi; burada yapraklardan damlayan su dışında yön gösterecek ses yoktu.
 
-Böylesini görmemişti hiç. Demir-Kabuk ağaçları, tepede birbirine kenetlenerek, güneşe geçit vermeyen karanlık bir kubbe örmüştü; toprak, yüzyıllık yaprak çürüntüsünün süngerimsi tabakasıyla kaplıydı, her adımda içine çekiyordu ayağı. Gövdelerde ıslak yosun, dallarda hayalet kolları gibi sarkan Sis-Sarmaşıkları; ve arada bir, tepeden sızan bir Kral-Mumu ışığı — hiçbir uyarı taşımayan, sadece kayıtsız bir parıltı.
+Gölge-Örtü Ormanı’nın kıyısında atını durdurdu.
 
-Bozkır, atı, huzursuzca kişnedi bu yabancı karanlıkta. "Biliyorum," diye fısıldadı Togan, elini yelesine bastırarak. "Ben de sevmiyorum burayı."
+Demir-Kabuk ağaçları tepede birleşip gün ışığını kesiyordu. Yosun tutmuş gövdeler arasında Sis-Sarmaşıkları sarkıyor, çürümüş yaprak tabakası atın toynaklarını içine çekiyordu. Seyrek Kral-Mumları karanlıkta soluk benekler hâlinde yanıyordu.
 
-Burkut da farklı değildi — kanatları dallara takılıyor, sinirle Togan'ın omzuna geri dönüyordu her seferinde. Gökyüzünün çocuğu için bu orman, bir hapishaneydi.
+Bozkır kişnedi, geri çekilmeye çalıştı.
 
-At sürmek, hem tehlikeli hem gürültülüydü bu zeminde; indi, dizginleri eline aldı, yürüyerek ilerledi — gözleri sürekli tarıyor, kulakları en ufak çıtırtıyı yakalamaya çalışıyordu. Bozkırın tehlikesi açıktı, göz göze gelinirdi onunla. Burada saklanıyordu her şey — köklerin altında, yaprakların içinde, sisin kıvrımlarında.
+“Ben de istemiyorum,” dedi Togan. “Başka yolumuz yok.”
 
-Akşam, yağmur bastırdı — önce çisenti, sonra ağaçların tepesinde bir ordu gibi gümbürdeyen bir sağanak. Bir Demir-Kabuk'un oyuğuna sığındı; ateş delilik olurdu, dumanı fersahlarca öteden görülürdü. Kuru et çiğnerken, Burkut'a da yakaladığı bir orman faresini uzattı.
+Burkut alçak dalların arasında kanat açacak yer bulamadı. İki kez havalanıp ikisinde de Togan’ın omzuna döndü. Pençeleri deriyi her zamankinden sert kavrıyordu.
 
-Gece, ormanı yuttu tamamen. Sırtını nemli kabuğa yaslamış, kılıcı kucağında, uyanık kalmaya çalışıyordu — yağmurun tekdüze sesi, mantarların hayaletimsi ışığı, ormanın durmayan fısıltıları, sinirlerini geriyordu tek tek.
+Togan attan indi, dizgini eline aldı. Köklerin arasında binmek hem gürültülü hem tehlikeliydi. Bozkırda yaklaşan bir atlının tozu görünürdü; bu ormanda bir şey, nefesi yüzüne değene kadar saklanabilirdi.
 
-Burkut'un omzuna sıçraması ve gırtlağından çıkan o hırıltı — kartalın en ciddi alarmı — her şeyi değiştirdi bir anda.
+Akşama doğru yağmur başladı. Önce yaprakları tıklattı, ardından ağaç tepelerinde kesintisiz bir uğultuya dönüştü. Togan, yaşlı bir Demir-Kabuk’un kovuğuna sığındı. Ateş yakmadı. Kuru etten bir parça koparıp ağzına attı, Burkut’un önüne de gün içinde yakaladığı orman faresini bıraktı.
 
-Donakaldı. Dinledi. Önce hiç. Sonra, yağmurun içinden, pas ve ölüm gibi bir tıkırtı; bir dal çatırtısı; bir tane daha.
+Karanlık çöktükçe yağmurun sesi bütün yönleri birbirine karıştırdı. Togan kılıcı dizlerinde, sırtı nemli kabukta oturdu. Gözleri kapanınca kendini dürtüp yeniden açtı.
 
-Pas-Çeneler. Bu kadar derine inmiş olamazlardı — bilmediği şey, Hegemonya devriyelerinin, avlanmak için bu bölgeye bıraktığı zehirli etlerin, ormanın doğal avcılarını öldürüp Akıntı-Yaratıkları'nı daha aç, daha hırçın kıldığıydı. Sebebini bilmiyordu. Sonucunu görüyordu sadece: sürü, onu bulmuştu.
+Burkut birden faresini bıraktı. Omzuna sıçrayıp boğuk bir hırıltı çıkardı.
 
-Bozkır'ın yularını çözüp sağrısına vurdu. "Kaç!" At, bir an tereddüt etti, sonra karanlığa daldı — yaratıkların dikkatini dağıtacak tek şansıydı bu.
+Togan doğruldu.
 
-Üçü, kokusunu almıştı zaten. Karanlıktan fırladılar, gözleri kor gibi, çeneleri bir demircinin örsünden daha rahatsız edici bir sesle çarpışarak.
+Yağmurun altında başka bir ses vardı. Taşların bir torbada birbirine sürtünmesini andıran kuru bir tıkırtı. Sağ tarafta bir dal kırıldı. Ardından solunda.
 
-Sırtını ağaca dayadı, kılıcını çekti. Öfkesi, soğuk bir hayatta kalma içgüdüsüne dönüşmüştü artık. Burada onur yoktu, kural yoktu — sadece açlık.
+Pas-Çeneler.
 
-Üç canavar, ay ışığında kor gibi parlayan gözleriyle, bir yarım ay çizdi etrafında; yamalı postlarından yağmur süzülüyor, çakıl torbası gibi tıkırdayan gırtlak sesleriyle birbirlerine pozisyon bildiriyorlardı. Togan, nefesini yavaşça saldı; korku, midesinde soğuk bir taş gibiydi, ama bir yıllık öfke, onu küle çeviriyordu şimdiden.
+Bu kadar güneye inmeleri beklenmezdi. Kaç tane olduklarını göremiyor, yalnız ormanın içinde yer değiştiren tıkırtıları duyuyordu.
 
-İlki saldırdı — en iri, en cüretkâr olanı, bacaklarını hedefleyerek. Togan bekliyordu; köke basıp kendini yana çekti, canavar boşluğu ve ağacın sert kabuğunu ısırdı, acıyla geri sıçradı. Togan fırsatı kaçırmadı — Alpagu Han'dan kalma kılıç, bir an, gürze döndü elinde; çelik, eklem yerine saplandı, kemik kırıldı, yaratık uluyarak yere yığıldı.
+Bozkır’ın yularını çözdü. Atın kulağına eğildi. “Koş.”
 
-Zafer değildi bu ama. Diğer ikisi, aynı anda, iki yandan saldırdı. Togan geri çekildi, ağaca yaslandı — sığınak ve tuzak, aynı anda.
+Sağrısına vurdu. Bozkır önce iki adım geri gitti, sonra ağaçların arasındaki açıklığı bulup karanlığa daldı. Togan, toynak sesleri uzaklaşırken onu bir daha görüp göremeyeceğini düşünmedi. Düşünürse peşinden giderdi.
 
-Sağdaki bir ok gibi geldi; kılıcı iki elle karşıladı, kıvılcım saçtı çarpışma, kolları dirseklere kadar uyuştu. Tam o anda soldaki, boşta kalan tarafına atladı — pençeler, bacağının etini derin bir yara açarak yırttı.
+İlk yaratık çalılıktan çıktı. Sonra iki tane daha.
 
-Haykırdı — yenilgiden değil, öfkeden.
+Yağmur, yamalı postlarının üstündeki sert plaklardan akıyordu. Çeneleri her açılıp kapandığında diş diplerindeki pas rengi kabuklar birbirine çarpıyordu. Üçü ayrılıp Togan’ın çevresinde yarım halka kurdu.
 
-Gökten bir çığlık koptu; Burkut, fırtınayla boğuşarak, bir taş gibi daldı yaralayan canavarın üstüne, pençelerini gözlerine geçirerek. Yaratık şaşkın uludu, kafasını sallayarak kurtulmaya çalıştı.
+Togan sırtını ağaca verdi, kılıcını çekti. Sol ayağını öne koydu. Nefesini yavaşlattı.
 
-Bu, gereken tek şeydi. Togan, tüm ağırlığını topladı, kılıcı zırh aralığına, boynun yumuşak yerine sapladı — sıcak kan yüzüne fışkırdı. Sonra, Burkut'un hâlâ pençelediği sonuncuya döndü, topallayarak yürüdü üzerine, ve bu sefer hiç zarafet göstermeden, indirdi kılıcı, tekrar tekrar, bir oduncunun kütüğe vuruşu gibi.
+En iri olanı bacaklarına atıldı. Togan son anda yana kaydı. Yaratığın çenesi ağacın kabuğuna kapandı. Kılıcı iki eliyle indirip ön bacağın gövdeye birleştiği yeri yardı. Pas-Çene dönmeye çalışırken ikinci darbeyi boynuna aldı ve yaprakların arasına devrildi.
 
-Sessizlik çöktü sonunda — sadece yağmur, kendi hırıltılı nefesi, Burkut'un zafer çığlığı.
+Öteki ikisi beklemedi.
 
-Üç leşin ortasında, sırtı ağaca yaslı, çöktü yere. Adrenalin çekildikçe, yerini bacağındaki zonklama aldı, kollarındaki titreme, kemiklere işleyen bir yorgunluk. Yağmur, yüzündeki kanı yıkayıp toprağı pembeye boyuyordu.
+Sağdan geleni kılıcıyla karşıladı. Çarpışma kollarını uyuşturdu. Soldaki yaratık aynı anda alçaktan sokuldu; pençesi Togan’ın baldırını açtı.
 
-Hayattaydı. Ama zafer gibi hissettirmiyordu bu — sadece ertelenmiş bir ölüm.
+Togan’ın dizi yere vurdu.
 
----
+Burkut yukarıdan çığlıkla indi. Kanatlarını yaratığın yüzüne kapatıp pençelerini göz çukurlarına geçirdi. Pas-Çene başını savururken Togan ayağa kalktı ve kılıcını çene altındaki yumuşak boşluğa sürdü. Sıcak kan eline kadar aktı.
 
-Atı yoktu artık, yaralıydı, ve orman, hâlâ derinlerdeydi. Kılıcını bastona çevirip ayağa kalktı, her adım bir işkenceydi. Bu geceyi açıkta geçirirse, kan kaybı ya da ayaz, işini bitirirdi.
+Üçüncüsü omzuna çarptı. Togan sırtüstü düştü; kılıç elinden kayıp bir köke takıldı. Yaratığın çenesi yüzünün üstünde kapandı. Togan sol kolunu boğazına dayayıp dişleri uzak tutmaya çalıştı. Yaralı bacağı ağırlığın altında boşalıyordu.
 
-Saatlerce, nereye gittiğini bilmeden, sadece içgüdüyle ilerledi. Zihni bulanıklaşmıştı acıyla, tam bilinci kaybedecekken, ay ışığında, o düzgün hatları gördü — sarmaşıkla kaplı, insan yapımı taşlar. Bir Eskiler gözcü kulesi.
+Parmakları kılıcın kabzasını buldu.
 
-Son bir hamleyle sendeledi kapıya, çürük ahşap kırıldı altında, ve içeri yığıldı — aklında tek kelime: sığınak.
+Çeliği yerden kaldıracak alan yoktu. Ucu yaratığın karnına dayayıp iki eliyle itti. Pas-Çene kasıldı, daha ağır biçimde üstüne çöktü. Togan kılıcı bir kez daha sapladı. Sonra bir kez daha.
 
-Ama bu kulenin de kendi dişleri vardı.
+Yaratığın çenesi durdu.
 
----
+Togan leşi üzerinden yuvarlayıp sırtını ağaca verdi. Bacağındaki kesikten kan, yağmur suyuna karışarak çizmesine doluyordu. Burkut öldürdüğü yaratığın üstünde kanatlarını açmış, ormanın karanlığına bağırıyordu.
 
-Bilinci, sert bir zemine çarparak geri döndü. Mazgaldan sızan solgun ay ışığında, yosunlu bir taş tavan gördü ilk. Nasıl girdiğini hatırlamıyordu tam — sadece omzunun acısını, kırılan ahşabı, son bir itişi.
+“Burkut.”
 
-Dışarıda fırtına inliyordu hâlâ, taşların arasında bir yas ilahisi gibi. Pas-Çeneler'in sesi yoktu — gitmişler miydi, yoksa fırtına mı yutmuştu seslerini, bilemedi.
+Kartal yanına geldi. Togan gömleğinin eteğinden bir şerit yırtıp baldırına sardı. Düğümü sıktığında görüşü karardı.
 
-Her kası sızlıyordu. Bacağındaki yara, ateş gibi yanıyordu; eli, sıcak ve yapışkan bir sıvıyla ıslandı. Kan kaybı ciddiydi. Doğrulmaya çalıştı — ve o anda, elinin altında bir gerginlik hissetti.
+Burada kalamazdı. Kan kokusu başka sürüleri getirirdi.
 
-Kurumuş bağırsaktan bir ip, zeminde, belli belirsiz. Bir tuzak.
+Kılıcını baston gibi kullanarak yürüdü. Hangi yöne gittiğini bilmiyordu; yalnız zemin yükseliyorsa kuzeye yaklaştığını umuyordu. Bir ara uzakta toynak sesi duyduğunu sandı. Bozkır’ın adını seslenmek istedi, fakat ormana yerini söylememek için dişlerini kapalı tuttu.
 
-Tepki vermeye vakit kalmadan, ağırlığı mekanizmayı tetikledi; duvardan dökülen hayvan kemikleri, kulak tırmalayan bir şangırtı çıkardı — öldürmek için değil, uyarmak için kurulmuş bir alarm.
+Yağmur hafiflediğinde ağaçların arasında düz bir çizgi gördü. Doğada bulunmayacak kadar düzgün, sarmaşıkların altında kaybolacak kadar eski bir taş duvar.
 
-Ve işe yaramıştı.
+Bir Eskiler gözcü kulesiydi.
 
-Gölgelerden bir hışırtı, sonra boğazına dayanan paslı bir kılıç. "Kıpırdama," dedi bir ses, uzun süredir yağlanmamış bir menteşe gibi gıcırtılı. "Yoksa boğazını keserim, kurbanlık keçi gibi."
+Kapıya omzuyla yüklendi. Çürük tahta içeri doğru kırıldı. Togan taş zemine düştü ve kalkamadı.
 
-Yıpranmış Hegemonya derileri, zayıf ama gergin bir beden; kokusu netti — yıkanmamış ten, korku, ucuz şarap. Firari asker Gareth'ti bu.
+✦
 
-Togan, boğazındaki metale rağmen, sesini sakin tutmaya çalıştı — ama yorgunluk, acı, son bir saatin ölüm kalım savaşı, son sabır kırıntısını da almıştı. Öfke, küllerinden yeniden doğdu.
+Bilinci geri geldiğinde yanağı soğuk taşa yapışmıştı. Dışarıdaki fırtına mazgallarda uğulduyor, kapının ötesinden ara sıra pençe sesi geliyordu.
 
-"Çek bıçağını," dedi, alçak ve hırıltılı. "Yoksa seninkini leşinden ben çıkarırım."
+Doğrulmak için elini yere bastı.
 
-Gareth şaşırdı — bu yarı bitkin adamdan bir tehdit beklemiyordu. Kılıcı bastırdı. "Ne dedin sen, bozkır faresi?"
+Parmaklarının altında ince, gergin bir ip vardı.
 
-"Yap o zaman," dedi Togan, gözlerini gölgeye dikerek. "Dışarıdaki o canavarlar taze kan kokusunu alır, önce seni yerler, sonra beni. Ya da çek o pası boğazımdan, şafağa kadar birbirimizi görmezden geliriz, ikimiz de sabaha çıkarız belki."
+İp koptu. Tavana asılmış hayvan kemikleri taş duvara çarparak şangırdadı.
 
-Sessizlik. Kapıyı tırmalayan bir pençe sesi, bu kez daha yakın.
+Paslı bir kılıç boğazına dayandı.
 
-Gareth küfretti — haklıydı bu bozkırlı. Ölü bir adam işe yaramazdı canavarlara karşı. Ama bir Sungur'la aynı odada uyumak da delilikti. "Bir ödül avcısı olmadığını nereden bileyim?"
+“Kıpırdama.”
 
-"Bir ödül avcısı, peşinde bir düzine Pas-Çene sürükleyerek gelmez." Dişlerinin arasından. "Ve aradığım şey, senin kellenden çok daha değerli."
+Karanlıkta zayıf bir adamın yüzü belirdi. Üzerinde aşınmış Hegemonya asker derileri vardı. Sakalı uzamış, gözleri uykusuzluktan kızarmıştı. Kılıcı tutan eli titremiyordu.
 
-Bu, hem Gareth'in gururuna dokundu hem de rahatlattı onu — bu adamın derdi kendisi değildi. Başka bir takıntısı vardı, ve Gareth, takıntılı adamların tehlikesini iyi bilirdi; bir zamanlar kendisi de öyleydi.
+“Yoksa boğazını keçi gibi açarım.”
 
-Kılıcı indirdi. "Şafağa kadar," dedi — bir yemin değil, bir ateşkes. "Sonra geldiğin gibi gidersin. Burası benim yerim."
+Togan metalin baskısını hissederek başını kaldırdı. “Çek şunu.”
 
-"Anlaştık." Togan, acıyla doğrularak, köşeye çekildi. Gareth karşı köşeye. Ateş yoktu; sadece iki kesik nefes, fırtınanın uğultusu, kapıyı tırmalayan pençeler. Ne birbirlerine güveniyorlardı ne birbirlerinden hoşlanıyorlardı — ama o gece, unutulmuş bir kulede, Verridia'nın en garip ittifakı kuruldu.
+Adam kılıcı biraz daha bastırdı. “Ne dedin, bozkır faresi?”
 
-Uzun bir sessizlikten sonra, Gareth'in merakı bastıramadığı bir soru çıktı karanlıktan: "Ne arıyorsun burada, yaralı ve tek başına?"
+“Kesmek istiyorsan kes.” Togan kapıya doğru göz ucuyla baktı. Dışarıda pençeler tahtayı yeniden yokladı. “Kan kokusuna gelirler. Önce seni, sonra beni yerler. Ya da kılıcı indirirsin; şafağa kadar iki canlı adam olarak kalırız.”
 
-Togan cevap vermeden önce bekledi — belki yorgunluktan, belki bu yabancının hiçbir şeyi umursamayacağını bilmenin rahatlığından. "Kuzeyi," dedi sonunda. "Işık Seddi'ni."
+Adam kapıyı dinledi. “Ödül avcısı olmadığını nereden bileyim?”
 
-Gareth'ten inanmaz bir kahkaha geldi. "Herkes arar onu. Krallar, dilenciler, deliler. Kimse bulamaz."
+“Bir ödül avcısı peşine üç Pas-Çene takıp kapını kırmaz.”
 
-"Ben bulacağım." Ne meydan okuma vardı sesinde ne umut — sadece, tartışılmaz bir kesinlik.
+“Üç mü?”
 
-Gareth başka soru sormadı — belki cevabın ağırlığını sezdi, belki kendi geçmişinin yükü, başkasınınkine yer bırakmıyordu içinde. Sessizlik, aralarına yeniden çöktü, ve dışarıda, fırtına ile canavarlar arasında, sabah çok uzakmış gibi hissettiren o uzun gece sürdü.
+“Artık değil.”
+
+Kılıç boğazından çekildi. Adam iki adım geri gitti fakat silahını indirmedi.
+
+“Şafağa kadar,” dedi. “Sonra çıkarsın. Burası benim.”
+
+Togan duvar dibine süründü. “Şafağa kadar.”
+
+Kulenin iki köşesine yerleştiler. Ateş yakmadılar. Kapının önünde dolaşan yaratıkların tırnakları bazen taşa değiyor, sonra yağmurun içinde kayboluyordu.
+
+Uzun süre sonra adam karanlıktan konuştu.
+
+“Adın ne?”
+
+“Togan.”
+
+“Gareth.” Kısa bir sessizlik oldu. “Bu hâlde ne arıyorsun burada?”
+
+Togan, başını duvara yasladı. Melira’nın adını söylemedi.
+
+“Kuzeyi.”
+
+“Kuzey büyük.”
+
+“Işık Seddi’ni.”
+
+Gareth’in kuru kahkahası kulede yankılandı. “Onu krallar da aradı, dilenciler de deliler de. Bulan geri gelmedi.”
+
+“Ben bulacağım.”
+
+Gareth bir daha gülmedi.
+
+Dışarıda pençeler kapıyı yoklarken iki adam da kılıcını elinden bırakmadı. Şafak henüz çok uzaktaydı.

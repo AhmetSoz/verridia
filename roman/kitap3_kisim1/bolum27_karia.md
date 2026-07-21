@@ -35,6 +35,6 @@ Karia uzun süre pencerenin önünde durdu, dışarı bakmadan, sadece camın so
 
 ---
 
-O gece Karia uyuyamadı. Tavana baktı, ve tanımadığı bir kadını düşündü — Kaya'yı, kendini bir çocuğun önüne atan, bozkırlı, yaşlı bir kadını. O kadın, ölürken hesap yapmamıştı. Harita düşünmemişti. Sadece elini uzatmıştı, son kez.
+O gece Karia uyuyamadı. Tavana baktı, ve tanımadığı bir kadını düşündü — Kaya'yı, kendini bir çocuğun önüne atan bozkırlı kadını. Kaya ölürken hesap yapmamıştı. Harita düşünmemişti. Sadece elini uzatmıştı, son kez.
 
 *Ben o kadın olabilir miydim?* diye sordu Karia kendine. Ve dürüst cevabı — gecenin karanlığında, kimsenin duymadığı yerde verdiği cevap — hoşuna gitmedi.

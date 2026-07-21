@@ -1,50 +1,76 @@
-# Bölüm 2 — Kırılan Kanatlar, Kırılmayan İrade
+# Bölüm 2 — Kırılan Kanatlar
 *(TEMUJİN)*
 
-Kaçış girişimi, Temujin'in hiç beklemediği bir şekilde geldi — gündüz vakti, nöbetçi değişiminin en gevşek anında.
+Kaya kaçmak için geceyi değil nöbet değişimini seçti. Temujin bunu sonradan takdir edecekti.
 
-Kaya, iyileşmekte olan Fırtına'yı, bir şekilde bağlarından kurtarmayı başarmıştı — Temujin, sonradan, bunun nasıl olduğunu tam çözemedi; belki bir nöbetçinin dikkatsizliği, belki Kaya'nın, yıllarca süren eğitimle kazandığı bir beceri. Kartal, sahibinin çadırdan fırlamasıyla aynı anda havalanmış, nöbetçilerin gözünü şaşırtacak bir manevrayla saldırmıştı.
+Öğle güneşi nöbetçilerin gözünü alıyordu. Yemek kazanının başında kavga çıkmış, batı kazıklarındaki iki adam seslere dönmüştü. Kaya, günlerdir pansuman tokasından aşındırdığı ince metalle bağını kesti. Fırtına'nın ayak ipini çözdü ve çadırın arkasından koştu.
 
-"Kaçıyor!" diye bağırdı bir nöbetçi, ve ordugâh anında bir kargaşaya büründü.
+Kartal ilk dalışında bir nöbetçinin başlığını aldı. İkincisinde atları ürküttü. Kaya dış çembere vardığında ordugâh hâlâ ne olduğunu anlamaya çalışıyordu.
 
-Temujin, sesleri duyar duymaz çadırından fırladı, kılıcını çekerek. Kaya'yı, ordugâhın kenarına doğru koşarken gördü — yaralı olmasına rağmen şaşırtıcı bir hızla hareket ediyordu, ve Fırtına, üzerinde, nöbetçileri geri püskürtmek için çılgınca dalışlar yapıyordu.
+Temujin çadırından çıktığı anda boş kazığı, havadaki kartalı ve kuzey yamacına koşan esiri gördü.
 
-"Onu canlı yakalayın!" diye bağırdı Temujin, adamlarına. "Öldürmeyin!"
+“Ok atmayın,” dedi. “Ağları alın.”
 
-Kovalamaca, ordugâhın kenarındaki bir vadiye kadar sürdü — Kaya, şaşırtıcı bir dayanıklılıkla, neredeyse kaçmayı başaracaktı, ama sonunda, bir ağın altında, Temujin'in en hızlı adamları tarafından yakalandı.
+Kaya hızlıydı. Fakat yaralı tarafına her bastığında sağ omzu düşüyordu. Temujin dört biniciye yamacın iki yanını tutturdu, yaya adamlara da kaçış çizgisini daralttı. Kaya vadi tabanına ulaşamadan ağırlıklı ağ bacaklarına dolandı. Düştüğünde Fırtına tekrar daldı. Sube, kartalı mızrakla karşılamak yerine yüzüstü kapandı.
 
-Temujin, yere düşmüş, nefes nefese kalan Kaya'nın yanına geldiğinde, adamın gözlerinde ne bir pişmanlık ne bir korku vardı — sadece, başarısız olmuş ama denemekten pişman olmayan bir savaşçının bakışı.
+Temujin koşarak yetişti. “Kartala dokunmayın.”
 
-"Cesur bir girişimdi," dedi Temujin, sesi hem hayranlık hem hayal kırıklığı taşıyordu. "Ama aptalca. Nereye gidecektin? Ordugâhın ortasından, yaralı bir bedenle?"
+Kaya ağın altında soluklanıyordu. “Neredeyse.”
 
-Kaya, ona baktı, nefesi hâlâ düzensizdi. "Denemek zorundaydım. Sen de aynısını yapardın, Genç Kurt, biliyorum."
+“Hayır.” Temujin yamacın iki yanındaki binicileri gösterdi. “Sana açık bıraktığımız yere koştun.”
 
-Temujin, bu sözlere karşı bir süre sessiz kaldı — çünkü Kaya haklıydı, ve bu haklılık, garip bir şekilde, esirine olan saygısını daha da derinleştirdi.
+“Yine de koştum.”
+
+Bu konuda tartışamazdı.
 
 ---
 
-Kaya'yı yeniden bağladıklarında, bu kez daha sıkı, daha dikkatli önlemlerle, Temujin, çadırında, onunla yalnız kalmayı seçti — nöbetçileri dışarıda bekletti.
+Kaya'nın yeni çadırında iki nöbetçi kaldı. Bağlarını Temujin kendi denetledi; bileklerini kesmeyecek kadar gevşek, bir tokayla uğraşamayacağı kadar kısaydı.
 
-"Neden bu kadar risk alıyorsun?" diye sordu Temujin, oturarak, esirinin karşısına. "Biliyorsun ki, başarısız olma ihtimalin çok yüksekti."
+“Üç gecedir o metali saklıyordun,” dedi. “Dördüncü geceyi bekleseydin kuzey nöbetçisi değişecekti.”
 
-Kaya, uzun bir süre sessiz kaldı, sonra, belki yorgunluktan, belki artık saklayacak bir şeyi kalmadığını hissettiğinden, konuştu. "Klanımın bana ihtiyacı var, Genç Kurt. Han'ım, savaş öncesi, en iyi stratejistini kaybetti. Ve..." Durdu, sesi hafifçe kırıldı. "Ve bir dostum var, dışarıda, bir yerlerde, kendi savaşını veriyor. Ona haber veremediğim için, ona yardım edemediğim için kendimi suçlu hissediyorum her gün."
+Kaya dudak kenarındaki kanı sildi. “Bir dahaki sefere beklerim.”
 
-Temujin'in kaşları hafifçe çatıldı, merakı uyanmıştı. "Ne dostu?"
+“Bir dahaki sefere Fırtına'yı başka yerde tutarlar.”
 
-Kaya, bir an tereddüt etti, sonra, belki de bunun zararsız bir bilgi olduğunu düşünerek, cevap verdi. "Togan. Klanımızın en iyi savaşçılarından biri, ama bir yıl önce, büyük bir acının ardından, klanı terk etti. Kuzeye gitti — bir hayalin, bir umudun peşinden. Ben onu durduramadım. Belki de durdurmalıydım."
+Kartal dışarıdan bir kez çığlık attı. Kaya ilk kez kapıya baktı.
 
-Bu isim, Temujin'in kulağına hiçbir özel anlam taşımadı — sadece bir yabancı isim, bir Sungur savaşçısının hikâyesindeki bir ayrıntı. Ama Temujin, garip bir şekilde, bu itirafın ağırlığını hissetti; Kaya'nın, düşmanı olan bir adama bile, bu kadar samimi bir acıyı paylaşabilmesi, ona bir şeyi gösteriyordu — bu adamın sadakati, sadece klanına değil, aynı zamanda kişisel bağlarına da uzanıyordu, ve bu tür bir sadakat, Temujin'in kendi hesaplı dünyasında nadiren gördüğü bir şeydi.
+Temujin önüne Yeva'nın verdiği oyma kemiği bıraktı. Üç çizgiyi parmağıyla yokladı. “Biri senin klanın. Biri benim. Üçüncüsü kuzeye gidiyor. Kaçarken de kuzeyi seçtin. Orada ne var?”
 
-"Kuzeye," diye tekrarladı Temujin, düşünceli. "Işık Seddi'ne mi?"
+“Dağlar.”
 
-Kaya'nın gözleri şaşkınlıkla genişledi. "Nereden bildin?"
+“Dağlara değil, birine koşuyordun.”
 
-"Bilmedim," dedi Temujin, omuz silkerek. "Ama kuzeye giden herkes, sonunda oraya varır ya da yolda ölür. Başka bir seçenek yok gibi görünüyor."
+Kaya sustu. Temujin boşluğu doldurmadı. İnsanlar sessizliği çoğu kez sorudan daha zor taşırdı.
 
-Kaya, bir süre sessiz kaldı, sonra, sesi alçalarak, ekledi: "Umarım o, en azından, benim başaramadığımı başarır. Umarım aradığını bulur."
+“Togan,” dedi Kaya sonunda. “Adı bu.”
 
-Temujin, bu sözleri bir süre sessizce düşündü, sonra ayağa kalktı, çadırdan çıkmaya hazırlanarak. "İlginç bir hikâye," dedi, sesi yeniden soğuk ve hesaplı bir tona dönmüştü. "Ama seni bir daha kaçmaya kalkışırsan, bu nezaketimin bir sonu olacağını bilmelisin, Rüzgar-Dinleyen."
+Temujin tepki vermedi. “Sungur mu?”
 
-Çadırdan çıkarken, Temujin, kendi kendine, bu garip esirin hikâyesini bir kez daha düşündü — ve içinde, Yeva'nın sözleri bir kez daha yankılandı: başka bir ipliğin düğümü. Belki de, diye düşündü, bu iplik, hiç tanımadığı, kuzeye doğru yürüyen bir yabancıya kadar uzanıyordu — ama bu düşünce, ona hâlâ çok soyut, çok uzak geliyordu, gerçek bir tehdit olarak algılamak için.
+“Bir zamanlar. Klanı bir yıl önce terk etti.”
 
-Zamanla, bu ipliğin ne kadar yakınına dokunacağını, henüz bilmiyordu.
+“Neden?”
+
+Kaya'nın çenesi gerildi. “Ölen karısını geri getirebileceğine inandığı için. Işık Seddi'ne gidiyor.”
+
+Temujin kemiğin üçüncü çizgisine baktı. Bir yaslı adam, tek başına kuzeye yürüyordu. Böyle bir adamın kendisiyle ne ilgisi olabilirdi? Yeva ilgisi olduğunu düşünmüştü.
+
+“Onu durdurmadın mı?”
+
+“Denemedim sanıyorsan beni tanımıyorsun.” Kaya bileklerindeki bağları çekti. “Bazı insanları tutmak için ip yetmez.”
+
+“Bunu bugün öğrendik.”
+
+Kaya'nın ağzı istemeden kıpırdadı. Gülümseme sayılmazdı ama öfke de değildi.
+
+Temujin kemiği geri aldı. “Korgan bu adı duymayacak.”
+
+“Neden?”
+
+“Çünkü ne işe yaradığını bilmiyorum.”
+
+Kapıya yöneldiğinde Kaya arkasından seslendi. “Beni konuşturdun diye kazandığını sanma.”
+
+Temujin durmadı. “Bugün kaçamadın. Benim için yeterli.”
+
+Dışarıda Sube, Fırtına'nın yeni kazığını çadırdan uzağa çakıyordu. Temujin ona kartalın görebileceği bir yer seçmesini söyledi. Esirlerin umudu kesilirse daha kolay yönetileceği öğretilmişti ona. Kaya söz konusu olduğunda bunun tersinin doğru olabileceğini düşünmeye başlamıştı.

@@ -1,46 +1,72 @@
 # Bölüm 13 — Sınırın Ötesi
 *(TOGAN)*
 
-Üç gün, Seren'in merhemi ve inatçı bir iyileşme sayesinde, Togan'ın bacağını yeniden yürüyebilecek hâle getirmeye yetti — tam olarak eskisi gibi değil, ama yeterince. Dördüncü sabah, Gareth ve Togan, Damgalı köyünün son evlerini de arkalarında bırakıp güneye, Hegemonya'nın iç topraklarına doğru yola koyuldular.
+Seren’in merhemi üç günde yarayı kapattı. Dördüncü sabah Togan bacağını bükebiliyor, topallasa da kendi ağırlığını taşıyabiliyordu.
 
-Yolculuk, ormandakinden farklı bir gerginlik taşıyordu artık. Ağaçlar seyrekleşmiş, yerini geniş, nemli çayırlara ve arada bir görünen, sisin arasından belli belirsiz seçilen taş duvarlı köylere bırakmıştı. Gareth, bu toprakları avucunun içi gibi biliyordu — hangi tepenin ardında bir Hegemonya karakolu olduğunu, hangi patikanın devriyelerin gözünden uzak kaldığını, ne zaman durup beklemeleri, ne zaman hızlanmaları gerektiğini.
+Seren yola çıkmadan önce sargıyı son kez değiştirdi. “Ateşlenirse geri dön.”
 
-"Buradan sonra," dedi Gareth, üçüncü günün öğleden sonrasında, alçak bir tepenin üzerinde durarak, "Kuzey Sefer Yolu'na bağlanan ana patikaya çıkarsın. Metheris'e giden yol da bu — istersen oraya, istersen doğrudan kuzeye gidebilirsin."
+“Dönemem.”
 
-Togan, önlerinde uzanan geniş, sisli araziye baktı. Uzakta, çok uzakta, ufkun bulanıklığında, belli belirsiz bir dağ silüeti seçiliyordu — Ak-Siper'in en kuzey uçları, ya da belki sadece bir bulut kümesiydi bu, emin olamadı.
+“O zaman ölmemeye çalış. Şifacıların öğüdü bazen bu kadar basittir.”
 
-"Burada ayrılıyoruz demek," dedi Togan, sesi ne üzgün ne rahat, sadece bir gerçeği kabullenmiş bir sesti.
+Merhem kavanozunu Togan’ın çantasına koydu. Gareth kapıda bekliyordu. Köyün çıngırakları arkalarında kalırken ikisi kuzeybatıya, Hegemonya devriyelerinin kullanmadığı dar patikalara yöneldi.
 
-Gareth başını salladı, ama bir süre kıpırdamadı; sanki söylemek istediği başka bir şey varmış da bulamıyormuş gibi. "Bilmiyorum tam olarak neyin peşindesin, bozkırlı," dedi sonunda. "Ve dürüst olmak gerekirse, bilmek de istemiyorum — çünkü bildiğim kadarıyla, senin peşinde koştuğun şey, çoğu insanı deli eder ya da öldürür, ikisi de aynı hızda." Durdu, gözlerini Togan'a dikti. "Ama sana bir şey söyleyeceğim, çünkü kimsenin bana söylemediği bir şeyi öğrendim ordudayken: umut, en tehlikeli silahtır. Çünkü seni her şeyi göze almaya ikna eder. Bazen bu iyi bir şeydir. Bazen de seni, geri dönemeyeceğin bir yere götürür."
+Ormanın sık gövdesi yerini ıslak çayırlara bıraktı. Taş duvarlı köyleri uzaktan geçtiler. Gareth her tepeden önce duruyor, kuş seslerini ve yoldaki izleri kontrol ediyordu. Bir yerde yarım gün boyunca çalılıklarda beklediler; mavi pelerinli bir devriye kolu ana yoldan geçip gözden kaybolmadan kıpırdamadılar.
 
-Togan bir süre sessiz kaldı. "Zaten geri dönemeyeceğim bir yerdeyim, Gareth."
+Üçüncü gün alçak bir sırtın üstüne çıktılar. Önlerinde iki yol ayrılıyordu. Geniş olan batıya, Metheris’e iniyor; taş işaretlerin sıralandığı dar yol kuzeye uzanıyordu.
 
-Gareth'in yüzünde, ilk kez, gerçek bir üzüntü belirdi — kendi geçmişinin bir yansıması gibi. "Biliyorum," dedi yavaşça. "Ben de öyleydim bir zamanlar." Elini uzattı, Sungurlar'ın değil, Hegemonya'nın tarzında — bilek kavrayarak. "İyi şanslar, bozkırlı. Umarım aradığını bulursun. Ya da en azından, aramayı bıraktığında hâlâ hayatta olursun."
+Gareth yürüyüş sopasını toprağa sapladı. “Kuzey Sefer Yolu. Bundan sonra askerlerden çok anıt görürsün.”
 
-Togan, elini kavradı. "Sen de, Gareth. Belki bir gün, bu borcumu öderim."
+“Sen gelmiyor musun?”
 
-"Borç falan yok." Gareth'in sesinde hafif bir gülümseme vardı, uzun zamandır görülmemiş türden bir gülümseme. "Sadece iki adam, aynı geceyi birlikte atlattı, o kadar. Bazen bu, bir dostluk için yeterlidir."
+“Bu yolu üniformayla bir kez yürüdüm. İkincisinde zincirle dönmek istemem.”
 
-Gareth, tepeden aşağı, batıya doğru, kendi bildiği gizli patikaya döndü ve kısa süre sonra sisin içinde kayboldu. Togan, bir süre onun gittiği yöne baktı, sonra Burkut'a döndü; kartal, omzunda, sanki o da bu ayrılığın ağırlığını hissediyormuş gibi sessizce durdu.
+Togan başını salladı. Gideceği yönü biliyordu; vedayı nasıl yapacağını bilmiyordu.
 
-"Sadece ikimiz kaldık yine, dostum," diye mırıldandı Togan.
+Gareth de bir süre sustu. “Ordudayken umut hakkında yanlış bir şey öğrendim,” dedi. “İnsanı ayakta tuttuğunu sanıyordum. Bazen yalnız ne kadar uzağa sürünebileceğini gösterir.”
 
----
+“Umutsuz daha mı iyiydin?”
 
-Öğleden sonra ilerledikçe, Togan, ana patikaya yaklaştıkça, garip bir koku fark etti havada — kül ve yanmış ahşap, henüz tam sönmemiş bir ateşin kokusu. Dikkatle ilerledi, kılıcının kabzasına eli hazır.
+Gareth düşündü. “Hayır. Yalnız neyin peşinden gittiğini arada bir kendine sor. Cevap değişmişse bunu fark et.”
 
-Patikanın kenarında, bir zamanlar küçük bir sınır kasabası olduğu belli olan bir yer, şimdi sadece kararmış duvarlardan ve kül yığınlarından ibaretti. Togan, kalıntıların arasında yavaşça yürüdü; hava hâlâ hafif dumanlıydı, ateş çok eski değildi — belki bir hafta, belki daha az.
+Togan, Melira’nın adını zihninden geçirdi. Cevap değişmemişti. Değişmesinden korkuyordu belki de.
 
-Duvarlardan birinde, kömürleşmiş ahşabın üzerine kazınmış bir işaret vardı: alevden yükselen çatlamış bir el izi. Togan bu sembolü tanımıyordu, ama anlamını sezmesi için tanıması gerekmiyordu. Bu, Seren'in bahsettiği şeydi — Kor-Ateşler'in bıraktığı imza.
+“Sana borçlandım,” dedi.
 
-Kasabanın meydanında, bir zamanlar bir kuyu olduğu belli olan yerin yanında, Togan durdu; içindeki eski öfke, bir anlığına yeniden alevlendi, ama bu sefer farklı bir şeyle karışmıştı — bir tanıdıklık, neredeyse bir akrabalık hissi. Melira'nın öldüğü gece de böyle kokmuştu hava; kül ve çaresizlik.
+“Borç değil.” Gareth sağ elini uzattı. Togan, Hegemonya askerlerinin yaptığı gibi bileğini kavradı. “Aynı geceyi sağ geçtik. Hesabı orada kapandı.”
 
-Kalıntıların arasında yürürken, bir şey dikkatini çekti — küçük, yarı yanmış bir bebek beşiği, bir köşede devrilmiş yatıyordu. Togan, uzun bir süre ona baktı, hiçbir şey demedi, hiçbir şey yapmadı; sadece baktı, ve içinde, bir yıldır bastırmaya çalıştığı bir şey yeniden şekillendi — sadece kendi acısı değil, bu dünyanın, sonu gelmeyen bir biçimde, masumları yakmaya devam ettiği gerçeği.
+“Bir daha karşılaşırsak?”
 
-"Bir gün," diye fısıldadı, kimsenin duymayacağını bilerek, "bu ateşi de söndüreceğim. Ya da onunla birlikte yanacağım."
+“O zaman yeni hesap açarız.”
 
-Burkut, omzunda huzursuzca kıpırdandı, gagasını hafifçe Togan'ın yanağına değdirdi — bir teselli mi, yoksa bir uyarı mı olduğunu Togan bilemedi.
+Gareth batıya inen patikaya döndü. Sis birkaç dakika içinde gövdesini, sonra adımlarını yuttu.
 
-Kasabadan ayrılırken, küllerin kokusu, ayakkabılarına, hatta soluğuna işlemiş gibi geldi ona — bir daha hiç gitmeyecekmiş gibi.
+Burkut Togan’ın omzunda tüylerini kabarttı.
 
-Yürümeye devam etti, Kuzey Sefer Yolu'na, ve ötesinde bekleyen bilinmeyen dünyaya doğru. Arkasında, kül kokan kasaba, sessizce, rüzgârın içinde eriyip gitti.
+“Yine ikimiz,” dedi Togan.
+
+Kartal gagasını omuzluğuna vurdu.
+
+✦
+
+Öğleden sonra yanık kokusu aldı.
+
+Kılıcını gevşetip ana yoldan çıktı. Koku, yolun doğusundaki küçük bir sınır kasabasından geliyordu. Taş duvarların yarısı ayaktaydı; ahşap çatılar çökmüş, meydandaki kuyu külle dolmuştu. Yangın en fazla bir haftalıktı. Bazı kirişlerin içinde hâlâ ince duman dolaşıyordu.
+
+Togan evlerin arasından yavaşça geçti. Ceset yoktu. Ölüler gömülmüş müydü, yoksa götürülmüş müydü anlayamadı. Seren’in anlattığı gibi Kor-Ateşler burada kalmışsa, izlerini çoktan başka yere taşımışlardı.
+
+Meydana bakan duvarda bir işaret buldu: alevlerin içinden yükselen çatlak bir el. Tahtaya bıçakla kazınmış, sonra kömürle karartılmıştı.
+
+İşareti aklına yerleştirdi.
+
+Kuyunun yanında devrilmiş küçük bir beşik vardı. Bir yanı yanmış, öteki yanında mavi bir bez parçası kalmıştı. Togan beşiği kaldırıp duvar dibine koydu. Parmaklarına kurum bulaştı.
+
+Melira’nın öldüğü gece de hava böyle kokmuştu. Bir yıldır o yangını tek bir ölümden ibaret taşıyordu. Buradaki evlerin adlarını, yaşayanların yüzlerini bilmiyordu. Yine de kül boğazına aynı biçimde oturdu.
+
+Avucunu duvardaki çatlak elin üstüne bastı. İşaret, parmaklarından daha büyüktü.
+
+“Sizi bulacağım,” dedi.
+
+Bu kez sözünü Melira’ya değil, işareti bırakanlara vermişti.
+
+Kasabadan çıkınca Kuzey Sefer Yolu’na döndü. Ayakkabılarındaki kül, ilk taş işareti geçene kadar peşinden geldi.

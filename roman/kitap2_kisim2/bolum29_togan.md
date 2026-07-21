@@ -1,46 +1,36 @@
 # Bölüm 29 — Uyarı
 *(TOGAN)*
 
-Gece yarısına yakın, Togan, ansızın, derin bir uykudan uyandı — kalbi hızla atıyor, içinde, açıklayamadığı bir huzursuzluk vardı.
+Togan gece yarısı azı dişlerindeki sızıyla uyandı. Hücredeki Akıntı metaline benziyordu, fakat daha geniş ve ritmikti.
 
-Perren, yanında, hâlâ uyuyordu — ama Togan, bir şeyin, yanlış olduğunu, kemiklerinde hissediyordu.
+Dışarı çıkıp avucundaki çizgiyi kısa süre açtı. Güneybatıdan ağır bir vuruş geldi. Baş ağrısı hemen başladı.
 
-Dışarı çıktığında, gece, sessiz görünüyordu — ama Togan, gözlerini kapatıp, Sed'de öğrendiği o garip farkındalığı, dikkatle dinlediğinde, uzaktan, güneyden, bir şeyin, yaklaşmakta olduğunu hissetti. Büyük. Aç. Kızıl.
+Kaya'yı uyandırdı. "Akıntı yaratığı olabilir. Yön güneybatı. Mesafeyi bilmiyorum."
 
----
+Kaya kesinlik istemedi. İlk alarmı verdi, ardından gözcü yolladı. Temujin'in sürgünleri silahlarını meclis nöbetçisinden teslim aldı. Çocuklar ve hayvanlar kuzey hendeğine taşındı.
 
-"Nöbetçileri uyandır!" diye bağırdı Togan, kampın merkezine koşarak. "Güney tarafından, bir şey geliyor!"
+Gözcü dönmeden toprak titredi.
 
-Kaya, çadırından, hızla çıktı, yüzünde, uykulu bir şaşkınlık. "Ne görüyorsun, Togan?"
+Yaratık kampın güneyinde yükseldi. Hazırlanmış mızrak hattı ilk saldırıyı durdurdu. Togan canavarın göğsündeki kızıl damarı görüyordu, fakat sesi herkesin hareketini bastıracak kadar güçlüydü.
 
-"Görmüyorum," dedi Togan, sesi gergin. "Hissediyorum. Bir Akıntı-Yaratığı — büyük, ve yakın. Belki, birkaç dakika içinde burada olur."
+"Sağdan çevirin!" diye bağırdı.
 
-Kaya, bu uyarıyı, sorgusuz kabul etti — yılların verdiği bir güvenle. "Herkesi uyandırın! Savunma pozisyonlarına!"
+Temujin üç kişiyi sağa aldı, Batu ön ayağa kanca attı. Yaratık döndüğünde göğüs çizgisi açıldı. Togan vurmak için ilerledi; başındaki ağrı görüşünü kararttı.
 
----
+Temujin onun yerine kılıcı damara sapladı. Canavar çökerken Kaya ikisini de kül bulutundan çekti.
 
-Kamp, hızla, ama düzenli bir şekilde, harekete geçti — Temujin ve Batu, kendi gruplarını, savunma hattına yönlendirirken, Togan, önde, gözlerini kapatıp, yaklaşan tehdidin, tam yönünü izlemeye devam etti.
+Sabah iki savaşçının kemiği kırılmış, dokuz kişi hafif yaralanmıştı. Ölen yoktu. Güney ağıllarından biri yıkılmıştı.
 
-"Oradan!" diye bağırdı Togan, güney-batı yönünü işaret ederek — tam o anda, toprak, gerçekten, hafifçe titremeye başladı.
+Börü uyarıyı nasıl verdiğini sordu.
 
-Yaratık, topraktan çıktığında, kampın hazırlıklı olduğunu görünce, bir an, tereddüt etti — ama açlığı, korkusundan güçlüydü, ve saldırıya geçti.
+"Kesin bilmedim," dedi Togan. "İz hissettim. Kaya gözcü yollayıp alarm verdi."
 
----
+Bu ayrımı kalabalığın önünde özellikle yaptı. Tek başına klanı kurtaran gizemli bekçi değildi. Bir işaret yakalamış, savunmayı onlar kurmuştu.
 
-Çatışma, kısa ama yoğundu — Togan, kendi kılıcıyla, ön saflarda savaşırken, tuhaf bir netlikle, yaratığın hareketlerini, neredeyse önceden tahmin edebiliyordu.
+Perren sonra beş adı sordu. Togan ilk dördünü söyledi. Beşincide bir an boşluk oldu.
 
-"Merkeze!" diye bağırdı Togan, Temujin'e, yaratığın göğsündeki kızıl damarı işaret ederek.
+"Perren," dedi sonunda.
 
-Temujin, bu bilgiyi, anında kullandı, kendi kılıcını, tam noktaya saplayarak — yaratık, son bir çığlıkla, yere çöktü, hareketsiz kaldı.
+Arkadaşı soğuk bezi şakağına bastırdı. "Altı gün kullanmıyorsun."
 
----
-
-Sabah, hasar değerlendirildiğinde, hiç kimse ölmemişti — birkaç hafif yara, ama hiçbir can kaybı. Kampın önceden hazırlanmış olması, bütün farkı yaratmıştı.
-
-Börü, Togan'a, derin bir saygıyla yaklaştı. "Bunu, nasıl bildin, önceden?"
-
-"Bilmiyorum, tam olarak nasıl açıklayacağımı," dedi Togan, dürüstçe. "Ama Sed'den beri, bazı şeyleri, farklı hissediyorum. Bu, bir armağan mı, bir yük mü, hâlâ karar veremedim. Ama bugün, en azından, işe yaradı."
-
-Kaya, ona, sıcak bir gülümsemeyle baktı. "İşe yaramaktan fazlası, Togan. Bu gece, kaç kişinin hayatını kurtardığını, düşünsene."
-
-O gün, kampta, Togan'ın adı, yeni bir saygıyla anılmaya başladı — ne sadece Alpagu'nun evlatlığı, ne sadece Yalnız Kartal, ama şimdi, garip, açıklanamaz bir sezgiye sahip bir savaşçı, klanının, sessiz bekçisi.
+Bu kez pazarlık etmedi.

@@ -1,38 +1,16 @@
-# Bölüm 2 — Ortak Cevap
+# Bölüm 2 — Sınırların Ortak Cevabı
 *(TEMUJİN)*
 
-Saldırının ardından, Temujin, kayıpları değerlendirirken, garip bir rahatlama da hissetti — hiçbir ölüm olmamıştı, sadece, birkaç yaralı, ve Malakor'un adamlarından, ikisi, yakalanmıştı.
+Temujin baskından sonra Korgan'dan Kuru Dere'ye asker istemedi. Azgut birliği tarafsız yerleşime girerse yardım ile işgal arasındaki çizgi bulanırdı. Bunun yerine kaçış rotalarının kendi tarafında kapatılmasını ve yarım çemberli geçiş kayıtlarının paylaşılmasını talep etti.
 
-"Konuşacaklar mı?" diye sordu Batu, hâlâ, Togan'ın kıyafetleriyle, sarsıntıyı üzerinden atmaya çalışarak.
+Korgan on iki muhafızı Azgut sınırına gönderdi. Sungur konseyi ayrı kararla sekiz devriye çıkardı. Elara, Temürçi tüccarlarına saldırganların taşıdığı emir önekini bildirdi ve o kodla gelen malları bekletmelerini istedi. Üç kararın hiçbiri Temujin'in emri değildi.
 
-"Zorlamayacağız," dedi Temujin. "Ama belki, teklif edeceğiz — özgürlük, karşılığında, bilgi."
+Yakalanan iki kişi Kuru Dere kurulunda suçlamaları dinledi. Birisi susma hakkını kullandı. Öteki, korunmuş tanık statüsü istedi. Kurul ona ceza bağışıklığı vermedi; doğru bilgi iş birliği olarak hükümde değerlendirilecekti.
 
----
+Adam, görevin Togan'ı öldürmek değil "sağlık denetimine almak" olduğunu söyledi. Emri veren kişiyi görmemiş, yarım çemberli bir aracıdan rota almıştı. Çantasındaki ödeme kodunu teşhis etti. İfade, ele geçirilen kâğıtla birlikte Amara'nın denetim kuruluna gönderildi.
 
-Yakalanan adamlardan biri, beklenmedik bir hızla, konuşmayı kabul etti. "Malakor, artık, gizlemiyor niyetini," dedi adam, korkuyla. "Bu ittifak, onun için, kabul edilemez bir tehdit. Ve Togan'ın kanı... bunu, hâlâ, istiyor. Belki, daha da çok istiyor artık."
+Kaan aynı kodun iki Azgut deposunda geçmiş olduğunu bildirdi. Korgan depoları mühürledi, fakat çalışanları suçlu ilan etmedi. Her teslimat ayrı incelenecekti.
 
-Bu itiraf, Temujin'i, yeni bir kararlılığa sevk etti. "Bu, artık, sadece bir gözlem değil — açık bir savaş ilanı."
+Tuz Düzlüğü Mutabakatı böylece ilk silahlı sınavını geçti. Korgan sözünü askerlerini başka toprağa sokarak değil, kendi sınırındaki yolu kapatarak tuttu. Sungurlar ve Temürçiler de kendi yetkileriyle hareket etti.
 
----
-
-Korgan'a, bu saldırıyı bildiren bir mesaj, hızla gönderildi — ve cevap, şaşırtıcı derecede hızlı, ve destekleyici geldi.
-
-*Bu, ittifakımızın, ilk gerçek sınavı,* diye yazmıştı Korgan. *Ve ben, kaçmayacağım. Azgut muhafızlarından bir birlik, size, takviye olarak gönderiyorum — açık bir jest olarak, sadece pratik bir yardım değil.*
-
-Bu haber, kampta, gerçek bir sevinçle karşılandı — ittifak, ilk kriz anında, sadece kağıt üzerinde kalmamış, gerçek bir eyleme dönüşmüştü.
-
----
-
-Kaya, bu gelişmeyi, gururla değerlendirdi. "Korgan, gerçekten, sözünü tutuyor."
-
-"Belki," dedi Temujin, dikkatle, "gerçek dönüşüm, tam da böyle kanıtlanır — kelimelerle değil, kriz anındaki eylemlerle."
-
-Karia ve Zaleena'dan da, hızla, destek mesajları geldi — ikisi de, kendi kaynaklarından, Malakor'a karşı, baskıyı, daha da artırma sözü verdi.
-
----
-
-O gece, Togan, bu birleşik tepkiyi, derin bir minnetle izledi. "Bir zamanlar, tek başıma, bu tehdide karşı, ne yapacağımı bile bilmiyordum. Şimdi..."
-
-"Şimdi, dört krallık, senin arkanda duruyor," dedi Temujin, gülümseyerek. "Belki, tam olarak, krallık değil, Genç Kurtlar için — ama aynı ruh."
-
-Togan, bu desteğe, sessizce başını salladı — ve kendi kendine, düşündü: Malakor, belki, onu, izole, savunmasız bir hedef olarak görmüştü. Ama artık, o hesap, tamamen yanlıştı.
+Temujin ortak bir zafer ilan etmedi. Dört ayrı kararın tarihlerini tek çizelgede topladı. Bir sonraki saldırıda ilk ihtiyaç duyacakları şey aynı bayrak değil, hangi sınırın hangi saatte kapandığını bilmekti.

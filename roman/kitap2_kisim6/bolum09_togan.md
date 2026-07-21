@@ -1,40 +1,20 @@
-# Bölüm 9 — Ozan'ın Şüphesi
+# Bölüm 9 — Ozan'ın Üç İhtimali
 *(TOGAN)*
 
-Togan, Malakor'un gizemli ilgisini, mektupla, Ozan'a danıştığında, yaşlı adamın cevabı, beklenenden çok daha uzun sürdü — ve geldiğinde, içeriği, yeni bir endişe katmanı ekledi.
+Ozan'ın cevabı on iki gün sürdü. Mektubun ilk satırı uyarıydı: "Aşağıdakiler bilgi değil, birbirinden ayrılması gereken üç ihtimaldir."
 
-*Togan,* diye yazmıştı Ozan, *bu haber, beni, derinden endişelendirdi. Çünkü, bir olasılık var, düşünmekten kaçındığım bir olasılık: Delta, belki, Praetorianlar hakkında, bizim bildiğimizden, daha fazlasını biliyor. Belki, senin kanın, onlar için, sadece bir merak değil — bir araç olabilir.*
+Birinci ihtimal, Malakor'un yalnız Sed yolculuklarını ölçmesiydi. Kael'in belgeleri Togan'da olduğu için ayrılış günleri dosyanın taşındığı sanılmış olabilirdi. İkincisi, Delta'nın Praetorian zırhıyla Işıyan etkisi arasındaki eski kayıtları doğrulamaya çalışmasıydı. Üçüncüsü ise Togan'ın dengesindeki değişimi kendi amaçları için izlemekti.
 
----
+Ozan üçüncü amacın ne olabileceğini yazmamıştı. Arşivde buna dair kanıt yoktu.
 
-"Ne tür bir araç?" diye sordu Perren, mektubu, Togan'la birlikte okurken.
+Togan, Perren'le birlikte bildiklerini ayrı kâğıda çıkardı. Gözlemci Ayla'nın adını biliyordu. Sed yolculuklarının aralığını saymıştı. Togan'a dokunmamış, kan örneği almaya çalışmamıştı. Praetorianlar hakkında söylediği hiçbir şey yoktu.
 
-Togan, bu soruyu, uzun bir süre düşündü. "Bilmiyorum. Ama Ozan'ın mektubu, devam ediyor..."
+"Beni silah saydıklarını söyleyemeyiz," dedi Togan.
 
-*Kayıtlarımızda,* diye devam ediyordu mektup, *saf olmayan kanın, Praetorian zırhını "matlaştırdığını," gücünü zayıflattığını, biliyoruz. Eğer, Delta, bir gün, kendi Praetorian benzeri bir güç yaratmaya çalışırsa — ya da, var olan birini kontrol etmeye — senin kanın, onlara, hem bir tehdit hem de, garip bir şekilde, bir çözüm sunabilir.*
+"Seni ölçtüklerini söyleyebiliriz," diye karşılık verdi Perren. "Bu da yeterince kötü."
 
----
+Lyra'dan Mirasçı kayıtlarındaki Praetorian ve melez kan bölümlerinin kaynak listesi istendi. Metinlerin kendisi yola çıkarılmayacak, yalnız tarihler ve hangi tanıklara dayandıkları gönderilecekti. Böylece Delta'nın hangi bilgiye erişmiş olabileceği karşılaştırılacaktı.
 
-Bu düşünce, Togan'ın içinde, soğuk bir dehşet yarattı. "Beni, bir silaha çevirmeye mi çalışabilirler?"
+Temujin ek muhafız önermedi. Togan ise Sed kayıtlarında kasıtlı yanlış tarih yayımlamayı düşündü, sonra vazgeçti. Yanlış kayıt kendi güvenlik sistemini de bozardı.
 
-Temujin, bu olasılığı, ciddiyetle değerlendirdi. "Ya da, seni, bir tehdit olarak görüp, yok etmeye çalışabilirler. İkisi de, mümkün."
-
-Kaya, bu tartışmaya, dikkatli bir soruyla katıldı. "Delta, gerçekten, Praetorianlar hakkında, bu kadar çok şey biliyor olabilir mi?"
-
----
-
-"Malakor," dedi Togan, yavaşça, "'Fısıltı Ustası' olarak biliniyor, duyduğuma göre — Delta'nın, en derin sırlarını tutan adam. Belki, o, gerçekten, bizim bile bilmediğimiz şeyleri biliyor."
-
-Bu olasılık, kampta, yeni bir ciddiyetle karşılandı — Togan'ın güvenliği, artık, sadece bir önlem değil, acil bir öncelikti.
-
-"Ozan'a, yardım isteyebiliriz," dedi Temujin. "Mirasçı arşivleri, belki, Malakor hakkında, daha fazla bilgi taşır."
-
----
-
-O gece, Togan, kendi kendine, bu yeni tehdidi, uzun uzun düşündü — Sed'de bulduğu huzur, şimdi, yeni bir gölgeyle, tekrar, tehdit altındaydı.
-
-"Korkuyor musun?" diye sordu Perren, yanına oturarak.
-
-"Evet," dedi Togan, dürüstçe. "Ama artık, korkuyla, nasıl yaşanacağını, biliyorum. Annem, bana, bunu öğretti — dolaylı yoldan bile olsa. Korku, bir seçim değil. Ama cesaret, her zaman, öyledir."
-
-Perren, bu söze, sessizce, dostça bir gülümsemeyle karşılık verdi — ve iki dost, bir kez daha, bilinmeyen bir tehdide karşı, birlikte durmaya, hazırlandılar.
+O gece korktuğunu Perren'e söyledi. Perren onu teselli etmeye çalışmadı; ertesi sabah yapılacak işleri sıraladı. Togan korkuyu bir erdem sınavına çevirmedi. Masada üç ihtimal, altı doğrulanmış olgu ve cevaplanmamış bir soru vardı. Şimdilik taşıyabilecekleri yük buydu.

@@ -1,50 +1,72 @@
 # Bölüm 7 — Canavar Günü
-*(KARİA — Kızıl Hafta, 5. Gün)*
+*(KARIA: Kızıl Hafta, 5. Gün)*
 
-Beşinci gün, Külliyat'ın kayıtlarında "Canavar Günü" olarak bilinen gün, Metheris'in kıyılarına, yılın en büyük ve en tehlikeli Akıntı-Yaratıkları'nı getirdi.
+Gözcü çanı şafaktan önce yedi kez vurdu.
 
-Karia, şafaktan önce uyandırıldı — bir gözcü kulesinden gelen haber, sesi telaşla dolu: "Amiral! Kıyıda, devasa bir şey görüldü! Bir Yosun-Devi olabilir!"
+Karia sura çıktığında Yosun-Devi fiyordun ağzındaydı. Enkaz, kemik ve koyu kırmızı yosundan oluşan kütlesi suyun içinde yürüyordu. Her adımda kıyıya dalga vuruyor, gövdesine saplanan direkler bir gemi ormanı gibi sallanıyordu.
 
-Karia, hızla giyinip limana koştuğunda, uzaktan, gerçekten de, ufukta, bir tepe büyüklüğünde, kızıl-kahverengi bir kütlenin, yavaşça kıyıya doğru ilerlediğini gördü — Yosun-Devi, on binlerce ton yosunun, enkazın ve ölü etin, tek bir iradede birleşmiş hâli.
+“Kuzey zincirini kapatın,” dedi Karia. “Toplayıcıları iç limana alın. Toplar ön bacaklara ateş edecek.”
 
-"Bütün filoyu topla," diye emretti Karia, sesi kesin ama içten içe gergindi — bir Yosun-Devi'ni öldürmek, bir ordunun işiydi, ve o ordunun çoğu, dev düşmeden önce hayatta kalamazdı genellikle.
+İlk salvo devin sağ yanını dağıttı. Açılan boşluk, çevredeki yosunla birkaç nefeste kapandı.
+
+“Gövdeyi vurmak yetmez,” dedi Sör Kaelan.
+
+Karia da biliyordu. Eski kayıtlara göre kütlenin içinde yoğun bir çekirdek bulunurdu. Yeri sabit değildi; dev hareket ettikçe yosunun içinde dolaşırdı.
+
+İki savaş gemisini devin yanlarına gönderdi. Aralarında kalın liman zinciri gerildi. Gemiler ters yönlere kürek çekince zincir gövdeyi kesti. Yosun katmanları açıldı. Derinde, her kasılmada sarıdan kızıla dönen bir parıltı göründü.
+
+“Çekirdek sancak altında,” dedi Karia. “İkinci zinciri aşağıdan geçirin.”
+
+Bir yosun kolu gemilerden birinin direğini kopardı. Halatlar güverteyi biçti. Karia'nın yanındaki subay denize düştü; Kaelan adamı kancayla çekti.
+
+İkinci zincir devin altına ulaşamadı. Karia, amiral gemisinin başındaki gelgit-çeliği mahmuzu gösterdi. Normalde düşman kadırgalarının bordasını yarmak için kullanılırdı.
+
+“Bizi parıltıya çevirin.”
+
+Kaelan yüzüne baktı. “Çarparsak gemi orada kalır.”
+
+“Çarpmazsak şehir burada kalmaz.”
+
+Kürekçiler yerlerine geçti. İki zincir gemisi devin gövdesini yeniden açtı. Karia mahmuzun bırakma kolunun başında durdu; mekanizma uzaktan çalışmıyordu. Yosun parçaları güverteye yağarken amiral gemisi açılan yarığa girdi.
+
+Parıltı bir an kayboldu. Karia bekledi.
+
+Sarı ışık yeniden yandığında kolu indirdi.
+
+Gelgit-çeliği mahmuz gemiden koptu ve çekirdeğe saplandı. Arkasındaki üç fıçı yakıcı karışım aynı anda patladı. Isı Karia'yı güvertenin öbür yanına savurdu.
+
+Yosun-Devi tek bir ses çıkarmadı. Gövdesi iradesini kaybetti. Bir kule gibi devrilirken amiral gemisini de altına çekmeye başladı.
+
+“Halatları kesin!”
+
+Kaelan ilk halatı kılıcıyla kesti. Karia ikincisine baltayla vurdu. Gemi son anda mahmuz hattından ayrıldı. Devrilen kütlenin dalgası onları surlara kadar sürükledi.
 
 ---
 
-Savaş, gün boyunca sürdü — Fiyort Filosu, Yosun-Devi'ne karşı, mancınıklarla, ateş oklarıyla, ve cesur ama umutsuz bir yakın saldırıyla mücadele etti. Dev, her darbeyi, sanki hiçbir şey hissetmiyormuş gibi emiyor, ilerlemeye devam ediyordu.
+Karia ayıldığında güvertede yatıyordu. Sol kaşından kan sızıyor, ağzı yanık yosun tadıyla doluydu.
 
-Karia, kendi gemisinin güvertesinde, savaşın gidişatını izlerken, eski bir bilgiyi hatırladı — Külliyat'ın, bir devin, gövdesinin derinliklerindeki yoğunlaşmış yosun çekirdeği yok edilirse, sıradan bir yığına dönüşeceğini yazdığı bilgiyi.
+“Şehir?” diye sordu.
 
-"Çekirdeğe ulaşmalıyız," diye bağırdı, subaylarına. "Devin göğsüne, en derin noktasına — orada, yoğun bir parıltı olmalı, farklı bir renk!"
+Kaelan onu oturttu. “Ayakta.”
 
-Bu, neredeyse imkânsız bir görevdi — devin gövdesi, katman katman yosun ve enkazdan oluşuyordu, ve içine girmek, ölümcül bir tehlikeydi. Ama Karia, kendi gemisini, cesur bir manevrayla, devin yanına yaklaştırdı, ve kendi elleriyle, bir grup gönüllü askerle, devin gövdesine tırmandı.
+Kayıp sayısı akşama doğru geldi: otuz bir ölü, iki gemi ağır hasarlı. Limana dolan cansız yosun aylarca işlenecek kadar çoktu. Halk rıhtımda Karia'nın adını bağırıyordu. Karia önce ölülerin listesini istedi.
 
-İçeride, karanlık ve boğucu bir ortamda, Karia, sonunda, o yoğun, kızıl parıltıyı buldu — devin kalbi gibi nabız atan bir çekirdek.
+Saray habercisi onu orada buldu.
 
-"Şimdi!" diye bağırdı, ve kendi kılıcını, tüm gücüyle, çekirdeğe sapladı.
+Theodoric yatağında bekliyordu. Karia'nın yüzündeki kesiği görünce eliyle yakındaki tabureyi gösterdi.
 
-Dev, bir anda, korkunç bir çığlıkla sarsıldı, ve sonra, çekirdek parçalanınca, bütün gövdesi, aniden, cansız bir yosun yığınına dönüştü — Karia ve adamları, çökmekte olan kütleden, son anda, kaçmayı başardılar.
+“Bir devi öldürmüşsün.”
 
----
+“Bir filo öldürdü. Ben kolu çektim.”
 
-Akşam, zafer kutlanırken, Karia, yorgun ama gururlu bir şekilde, limanın rıhtımında durdu — bu, sadece askeri bir zafer değildi; halkın gözünde, onun liderliğinin, gerçek bir kanıtıydı artık.
+“İyi. Tarihçiler yalan söylediğinde düzeltecek kadar yaşa.”
 
-"Amiral," dedi bir subay, yaklaşarak, "bu, tarihe geçecek bir zafer. Tek başına bir Yosun-Devi'ni indiren tek bir kayıt vardı, hatırlarsınız — şimdi ikinci bir kayıt daha var."
+Karia gülümsedi. Kral gözlerini kapatıp nefesini topladı.
 
-Karia, yorgun bir gülümsemeyle başını salladı, ama içinde, bir tatminden çok, derin bir yorgunluk vardı. Bu zafer, ona, halkının güvenini kazandırmıştı, evet — ama aynı zamanda, önündeki sorumluluğun, ne kadar ağır olduğunu da bir kez daha göstermişti.
+“Bugün halk senin adını söyledi,” dedi. “Benimkini değil. Buna kızacağımı sanırdım.”
 
-Saraydan bir haberci geldi, nefes nefese. "Amiral! Kral, sizi görmek istiyor — acil!"
+“Kızdınız mı?”
 
-Karia'nın kalbi bir an hızlandı, kötü bir haber bekleyerek. Ama saraya vardığında, Kral'ın odasında bulduğu şey, beklediğinden farklıydı — Theodoric, yatağında, zayıf ama gülümseyerek oturuyordu.
+“Hayır.” Theodoric elini yatağın üzerine bıraktı. “Bu yüzden biraz uyuyabilirim.”
 
-"Duydum," dedi Kral, sesi zayıf ama sıcak. "Yosun-Devi'ni yendiğini duydum, Karia. Halkın, sokaklarda, senin adını haykırıyor."
-
-"Şans eseriydi, Majesteleri," dedi Karia, alçakgönüllülükle.
-
-"Şans değildi." Kral'ın sesi, garip bir kesinlikle doluydu. "Cesaret ve liyakat. Tam da, seni vâris seçerken gördüğüm şey." Durdu, nefes almakta zorlanarak. "Ben, artık, huzur içinde olabilirim, Karia. Hegemonya'nın geleceği, güvenilir ellerde."
-
-Bu sözler, Karia'nın içinde, hem bir gurur hem de derin bir korku yarattı — çünkü Kral'ın sesindeki o huzur, ona, garip bir şekilde, bir vedanın yakınlığını hissettiriyordu.
-
-Gece, sarayın penceresinde, tek başına dururken, Karia, kendi kendine, sessizce, bir söz verdi: ne olursa olsun, Kral'ın güvenine layık olacaktı — ne bir Vorlag'ın entrikasıyla, ne bir Valerius'un pervasızlığıyla asla lekelenmeyecek bir liderlik.
-
-Kızıl Hafta'nın en tehlikeli günü, geride kalmıştı. Ama Karia, biliyordu ki, önündeki gerçek sınavlar, henüz başlamamıştı.
+Karia odadan çıkarken hekim başını iki yana salladı. Zaferin gürültüsü sarayın dışına kadar geliyordu. İçeride kralın nefesi ondan daha zayıftı.

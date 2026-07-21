@@ -10,7 +10,7 @@ Dört POV, artık aynı yedi günün içinde, farklı cephelerde yaşıyor. Bu, 
 - **Karia:** Hegemonya'nın kendi hasadı + Kral'ın durumu + Vorlag'ın son hamlesi, hepsi aynı haftada patlıyor.
 - **Zaleena:** Kızıl Hafta'nın "Enkaz Zamanı" — deniz kaosa dönüyor, Paslı Gelgit'ler En güçlü hâlinde, ve belki Delta'yla ilk temas.
 
-## Bölüm Haritası (DEVAM EDİYOR — 8 bölüm yazıldı, 1-5. günler kapsandı)
+## Bölüm Haritası (TAMAMLANDI — 13 bölüm; edebî redaksiyon 20 Temmuz 2026'da tamamlandı)
 1. **Togan** — bolum01 — 1. Gün, İlk Gelgit, Sed'in ilk tepkisi, ilk paylaşılan rüya güçleniyor. ✅
 2. **Temujin** — bolum02 — Ana saldırı başlıyor; Anya'yı esir almayıp bırakıyor (vicdan sinyali). ✅
 3. **Karia** — bolum03 — Hasat başlıyor; Kral'ın duygusal itirafı, Vorlag'ın sabırlı tehdidi. ✅

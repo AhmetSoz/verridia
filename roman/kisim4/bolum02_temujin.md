@@ -1,56 +1,82 @@
 # Bölüm 2 — Büyük Hamle
-*(TEMUJİN — Kızıl Hafta, 1. Gün)*
+*(TEMUJİN: Kızıl Hafta, 1. Gün)*
 
-Büyük Ordugâh, İlk Gelgit'in şafağında, bir daha hiç olmayacağı kadar büyük bir orduya dönüşmüştü — Korgan, bozkırın her köşesinden topladığı savaşçıları, tek bir devasa cepheye yığmıştı, Sungurlar'a karşı son ve nihai darbeyi indirmek için.
+Korgan saldırı buyruğunu kızıl ay batmadan verdi.
 
-Temujin, kendi birliğinin başında, atının üzerinde, ordunun büyüklüğünü izlerken, içinde karışık bir his taşıyordu — bu zaferin, Korgan'ın hayalini gerçekleştireceğini biliyordu, ama aynı zamanda, kendi geleceğinin de, bu zaferin gölgesinde nasıl şekilleneceğini merak ediyordu.
+Azgut ordusu üç koldan dağlara girdi. Merkezde Batu, güneyde Korgan vardı. Temujin'e kuzey yamacı bırakılmıştı. Kartal-Yurdu zaferinden sonra onu yeniden dar bir geçide sürmek, artık bir infazdan çok gösteriye benziyordu: Korgan hem yeteneğini kullanıyor hem zaferin kime ait olduğunu hatırlatıyordu.
 
-"Han'ım'ın planı basit," dedi Orkhon, yanına gelerek, sesi ciddi. "Ezici sayı, tek cephede. Sungurlar, Kartal-Yurdu'nun düşüşünden sonra zaten zayıflamış durumda. Bu, onların sonu olabilir."
+Orkhon eyerini Temujin'in yanına sürdü. “Merkez, sayıyla ezmek istiyor.”
 
-Temujin, bu düşünceyi bir süre sessizce tarttı. "Sonları mı olmalı, Orkhon? Yoksa sadece boyun eğdirilmeleri mi?"
+“Börü geri çekilirse?”
 
-Orkhon, ona şaşkınlıkla baktı. "Ne fark eder, evlat? Düşman düşmandır."
+“Korgan peşine düşecek.”
 
-"Fark eder," dedi Temujin, sesi düşünceli. "Eğer Sungurlar tamamen yok olursa, bozkırda bir boşluk kalır — ve boşluklar, her zaman, beklenmedik şeylerle dolar. Ama eğer boyun eğdirilirlerse, kontrollü bir şekilde, o zaman bozkır, gerçekten birleşmiş olur. Korgan'ın hayali, yıkımla değil, hükümranlıkla tamamlanabilir."
+“Ya teslim olursa?”
 
-Orkhon, uzun bir süre Temujin'e baktı, sonra, yavaşça başını salladı. "Sen, gerçekten farklı düşünüyorsun, Genç Kurt. Umarım bir gün, bu düşünceni uygulama şansın olur."
+Orkhon cevap vermedi.
 
-Bu söz, ikisinin arasında, söylenmemiş bir gerçeği ima ediyordu: Korgan'ın günlerinin, bir şekilde, sayılı olduğu.
+Temujin önündeki iki yamacı inceledi. Sungurların dumanı üç ayrı noktadan yükseliyordu. Savaşçıların ardında aileler, sürüler ve kışlık çadırlar vardı. Korgan haritada yalnız savaşçı taşlarını göstermişti.
 
----
+“Sube'ye söyle,” dedi. “Kuzey yolunu tamamen kapatmasın. Bir insan geçecek kadar açıklık bıraksın.”
 
-Saldırı, öğleye doğru başladı. Sungur savunması, Kartal-Yurdu'nun kaybından sonra, dağların daha derinlerine çekilmiş, ama pes etmemişti — Gök-Göz Börü, yaralı omzuna rağmen, savaşçılarını, son bir direniş için topluyordu.
+Orkhon ona baktı. “Kaçmaları için mi?”
 
-Temujin, kendi birliğiyle, ana saldırının bir kanadını yönetiyordu — ama bu sefer, Korgan'ın emriyle, en tehlikeli değil, orta bir konumdaydı; belki de, Kartal-Yurdu zaferinin ardından, Korgan, onu tamamen feda etmeye artık cesaret edemiyordu.
+“Siviller için.”
 
-Çatışma, gün boyunca, şiddetli ve kanlı geçti. Sungurlar, sayıca ezici bir şekilde az olmalarına rağmen, arazinin avantajını kullanarak, inatla direndi — her kayalık, her dar geçit, bir savunma hattına dönüşmüştü.
+“Korgan fark ederse?”
 
-Akşama doğru, Temujin, savaş meydanının bir köşesinde, Anya'yı gördü — yaşlı kadın, savaşçı olmamasına rağmen, yaralıları toplamak için, tehlikeli bir şekilde ön saflara yakın bir yerde çalışıyordu.
-
-Temujin, bir an, onu esir almayı düşündü — değerli bir bilgi kaynağı olabilirdi. Ama sonra, yaşlı kadının gözlerindeki o kararlı, korkusuz bakışı görünce, garip bir şekilde, ona dokunmamaya karar verdi.
-
-"Bırakın onu," diye emretti kendi adamlarına, kısaca. "Savaşçı değil. Bize bir tehdit değil."
-
-Bu karar, tıpkı Börü'yü öldürmemesi gibi, kendi içinde, bir hesaptan çok, bir vicdanın izini taşıyordu — ve Temujin, kendi kendine, bu vicdanın, ne zaman bir zayıflığa dönüşeceğini merak etti.
+“Fark ettiğinde yol kapanmış olur.”
 
 ---
 
-Gece çöktüğünde, savaş, bir kazanan olmadan, geçici bir dura girdi — her iki taraf da, yorgun, çekildi, ertesi güne hazırlanmak için.
+İlk çarpışma öğleye kadar sürdü. Sungurlar her taş çıkıntısını küçük bir kaleye çevirmişti. Temujin adamlarını tek hatta yığmadı; iki bölük önden baskı kurarken üçüncüsü yamaçtan savunmanın arkasına indi.
 
-Temujin, kendi çadırında, yorgun ve düşünceli, Kaya'nın tutulduğu çadıra bir kez daha gitti.
+Azgutlar ilk mevziyi aldığında Temujin ölü sayısını durdurdu. Esir alınan üç savaşçının silahlarını toplattı, onları geriye göndermedi. Korgan'ın adamları esirleri konuşturmak için ateş kullanırdı.
 
-"Bugün, halkınla savaştım," dedi Temujin, esirine, sesi yorgun. "Börü hâlâ hayatta, direniyor."
+“Yaralılarımızı taşıyın,” dedi. “Sonra gidebilirsiniz.”
 
-Kaya'nın gözlerinde bir rahatlama parladı, ama sesi endişeliydi. "Ne kadar dayanabilir sizce?"
+Sungurlardan biri yüzüne tükürdü. Temujin silmedi.
 
-"Bilmiyorum," dedi Temujin, dürüstçe. "Korgan'ın ordusu, sayıca ezici. Ama Sungurlar, sandığımdan daha inatçı."
+Akşamüstü kuzey yolunda beyaz saçlı bir kadın belirdi. İki çocukla yaralı bir savaşçıyı sedye üzerinde taşıyordu. Yanındaki Azgutlar yaylarını kaldırdı.
 
-Kaya, uzun bir süre sessiz kaldı, sonra, sesi alçalarak, sordu: "Neden bana bunları söylüyorsun, Genç Kurt? Ben senin düşmanınım."
+Temujin kadını tanıdı. Kaya'nın sözünü ettiği Anya Ana olmalıydı. Yaşı sekseni geçmişti; yine de sedyenin ön ucunu bırakmıyordu.
 
-Temujin, bir süre düşündü, sonra, garip bir dürüstlükle cevap verdi. "Çünkü, bu ordugâhta, seninle konuşmak, garip bir şekilde, bana huzur veriyor. Herkes bana ya korkuyla ya da hesapla bakıyor. Sen ise... sen bana, sadece, bir insan gibi bakıyorsun."
+“İndirin,” dedi.
 
-Bu itiraf, ikisinin arasında, garip bir sessizlikte asılı kaldı — düşman ve esir arasındaki sınırın, biraz daha, belirsizleştiği bir an.
+Bir akıncı itiraz etti. “Han'ın ihtiyarı. Alırsak Börü...”
 
-Çadırdan çıkarken, savaş meydanının uzak sesleri, gecenin sessizliğine karışıyordu hâlâ.
+“Yayı indir.”
 
-Kızıl Hafta'nın ilk günü bitiyordu. Ve önünde, altı gün daha, aynı kanlı hesaplaşma bekliyordu.
+Anya geçerken Temujin'e baktı. Teşekkür etmedi. Korkmadı da. Sanki yüzünü yıllar sonra vereceği bir hüküm için ezberliyordu.
+
+“Kaya yaşıyor,” dedi Temujin.
+
+Kadının adımı ilk kez aksadı. Sonra sedyeyi taşımaya devam etti.
+
+---
+
+Gece iki taraf da mevzilerinde kaldı. Korgan'ın merkez kolu bir tepeyi almış fakat tutamamıştı. Batu'nun adamları güneyde ağır kayıp vermişti. Temujin'in kuzey yolu hâlâ görünüşte kapalıydı; karanlık basınca otuz iki sivil açıklıktan geçti.
+
+Temujin Kaya'nın çadırına girdi.
+
+“Anya'yı gördüm,” dedi. “Yaralı taşıyordu.”
+
+Kaya bağlarına rağmen ayağa kalktı. “Onu aldın mı?”
+
+“Geçmesine izin verdim.”
+
+“Neden?”
+
+“Çocukları esir almak işime yaramaz.”
+
+Kaya, onun eksik cevap verdiğini anladı. “Korgan senin yol bıraktığını öğrenirse?”
+
+“Yarın daha önemli bir şey öğrenecek.”
+
+“Ne?”
+
+Temujin çadır bezinin ardından görünen Azgut ateşlerine baktı. “Sungurları öldürmeden yenmek istediğimi.”
+
+Kaya uzun süre konuşmadı. Sonunda bağlarını gösterdi. “Önce bir Sungur'u serbest bırakarak başlayabilirsin.”
+
+Temujin dışarı çıktı. İtiraz haklıydı. Zamanlaması değildi.

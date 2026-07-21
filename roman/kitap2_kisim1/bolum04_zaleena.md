@@ -1,54 +1,62 @@
-# Bölüm 4 — Bir Devletin Temelleri
+# Bölüm 4 — İki Davet
 *(ZALEENA)*
 
-Yamalı Liman'ın dönüşümü, Zaleena'nın beklediğinden daha yavaş, ama daha kalıcı bir şekilde ilerliyordu — bayrak tasarlanmış, ilk kayıt defterleri tutulmaya başlanmış, ve kaptanlar arasında, artık, eskisinden çok daha az kanlı çatışma yaşanıyordu.
+Kaptanların on üçü gemilerini kayda geçirmişti. Yedisi hâlâ direniyordu.
 
-Ama bu ilerleme, kolay olmuyordu.
+Zaleena onları zorlamadı. Kayıtlı gemilere ortak savunma, onarım önceliği ve anlaşmazlıklarda Konsey hükmü verdi. Kaydolmayanlar aynı hizmetler için tek tek para ödemek zorunda kaldı. Üç hafta içinde iki kaptan daha deftere adını yazdırdı.
 
-"Bazı kaptanlar, hâlâ, direniyor," dedi Sorin, bir sabah, Zaleena'ya rapor verirken. "Özellikle, yeni kayıt sistemine — gemilerini, mallarını, resmi olarak kaydettirmek istemiyorlar. Bunu, özgürlüklerine bir tecavüz olarak görüyorlar."
+“Özgürlüğü satın alıyorlar,” dedi Draven.
 
-Zaleena, bu direnci, bir süre düşündü. "Anlıyorum onları. Ama düzensiz bir liman, sonsuza dek, bir sonraki Roric'in gelip gitmesini bekleyen bir yer olarak kalır. Ben, bunu değiştirmek istiyorum."
+“Hayır. Dağınıklığın fiyatını öğreniyorlar.”
 
-"Peki nasıl ikna edeceksin onları?"
+Sorin tam o sırada Delta mührü taşıyan haberi getirdi. Leydi Amara, Zaleena'yı gelecek ay Sazlık Taht'a çağırıyordu.
 
-"Zorla değil," dedi Zaleena, kesin bir sesle. "Fayda göstererek. Kayıtlı gemiler, Delta'yla yaptığımız yeni anlaşma sayesinde, özel bir korumadan yararlanacak — saldırıya uğrarlarsa, bütün liman, onlara yardıma koşacak, resmi bir yükümlülük olarak. Kayıtsız gemiler, bu korumadan mahrum kalacak."
+“Gitmeyeceksin,” dedi Draven.
 
-Bu strateji, yavaş yavaş, işe yaramaya başlamıştı — her geçen hafta, birkaç kaptan daha, isteyerek, kayıt sistemine katılıyordu.
+“Neden?”
 
----
+“Çünkü onun şehrinde içtiğin suyun bile borcu olur.”
 
-Öğleden sonra, Delta'dan bir haberci geldi — Leydi Amara'nın kendisinden, kişisel bir mesaj.
+“Bu yüzden kendi suyumu götürürüm.”
 
-"Kraliçem," dedi haberci, "Leydi Amara, sizinle, doğrudan, yüz yüze görüşmek istiyor. Sazlık Taht'ta, önümüzdeki ay, bir ziyaret öneriyor."
+Roric dip kamarasından çıkabildiği günler güvertede oturuyordu. Daveti okuyup kâğıdın kokusuna baktı. “Kamış yağı. Amara'nın özel kalemliği. Gerçekten kendisi yazdırmış.”
 
-Bu davet, Zaleena'yı şaşırttı — Amara, nadiren, doğrudan görüşmeler talep ederdi; genellikle, aracılar üzerinden çalışmayı tercih ederdi.
+“Ne istiyor?”
 
-"Neden bu kadar doğrudan?" diye sordu Zaleena, kendi kendine, düşünceli bir şekilde.
+“Seni Sarris'ten önce kendine bağlamak.”
 
-"Belki de," dedi Sorin, "sizin yükselişiniz, Delta'nın dikkatini, beklediğinden daha fazla çekti. Organize bir Yamalı Liman, Delta için, hem bir fırsat hem bir rakip olabilir."
-
-Zaleena, bu değerlendirmeyi, doğru buldu. "Daveti kabul edeceğim," dedi sonunda. "Ama dikkatli gideceğim. Amara, kurnaz bir kadın — belki de Sarris'ten daha kurnaz, çünkü o, korkuyla değil, minnetle kontrol kurar."
+Zaleena daveti kabul eden kısa bir cevap yazdı. Tarihi kesinleştirmedi. Kendi gemisiyle gidecek, görüşmeden önce dönüş rüzgârını bekleyecekti.
 
 ---
 
-Aynı gün, akşama doğru, bir başka haber daha geldi — bu sefer, hiç beklenmedik bir yerden.
+İkinci haber on iki gün sonra geldi.
 
-"Kraliçem," dedi bir muhafız, telaşla, "gizli bir haberci geldi. Hegemonya'dan."
+Hegemonya temsilcisi limana sancaksız bir balıkçı teknesiyle girdi. Adını, görevini ve taşıdığı silahları iskele kaydına yazdırdı. Bu davranış Zaleena'nın hoşuna gitti; gizli gelmişti ama saklanmıyordu.
 
-Zaleena'nın kaşları kalktı — Hegemonya, Yamalı Liman'a, hiçbir zaman, resmi bir temas kurmamıştı; ilişkileri, her zaman, düşmanlık ya da kayıtsızlıkla sınırlıydı.
+Mektupta Kraliçe Karia'nın mührü yoktu. Altında kendi el yazısıyla yalnız adı vardı.
 
-Haberci, içeri alındığında, sesi dikkatliydi. "Kraliçem, bu mesajı, resmi olmayan bir kanaldan getirdim. Hegemonya Kraliçesi Karia, sizinle, doğrudan, gizli bir görüşme yapmak istiyor — Delta'nın aracılığı olmadan."
+Karia, Delta'nın araya girmediği bir görüşme istiyor ve Jilet Resifleri'ni öneriyordu. Ticaret şartı koymamıştı.
 
-Bu haber, Zaleena'nın içinde, garip bir heyecan yarattı — iki kadın, iki farklı kıyının, iki farklı gücün başında, ilk kez, doğrudan bir bağlantı kurma ihtimaliyle karşı karşıyaydı.
+“Aynı ay içinde iki kadın seni çağırıyor,” dedi Kessel. “Biri batının tacını, biri Delta'nın yarısını taşıyor.”
 
-"Neden benimle görüşmek istiyor?" diye sordu Zaleena, dikkatle.
+“İkisi de ne satacağımı merak ediyor.”
 
-"Bilmiyorum tam olarak, Kraliçem," dedi haberci. "Ama mesajında, şunu söyledi: 'İki kadın, eski oyunların dışında, kendi kurallarımızı yazabiliriz belki.'"
+“Sen ne satacaksın?”
 
-Zaleena, bu sözleri, uzun bir süre, sessizce düşündü — ve içinde, bir şeyin, belki de, kıtanın eski dengesini değiştirebilecek bir şeyin, filizlenmeye başladığını hissetti.
+Zaleena iki mektubu yan yana koydu. Amara'nınki pahalı kâğıda yazılmış, her sözcüğü bir görevli tarafından tartılmıştı. Karia'nın mektubunda iki kez üstü çizilmiş kelime vardı.
 
-"Kabul ediyorum," dedi sonunda, sesi kararlı. "Ama gizlice. Delta'nın, ya da başka birinin, bunu öğrenmesini istemiyorum, en azından şimdilik."
+“Amara'ya zaman satacağım,” dedi. “Karia'ya bilgi.”
 
-Haberci, başını eğip ayrıldığında, Zaleena, güvertede, tek başına kaldı — ve ilk kez, kendi geleceğinin, sadece Yamalı Liman'ın sınırları içinde değil, çok daha geniş bir dünyada da, şekillenmeye başladığını hissetti.
+“Karşılığında?”
 
-"İki kraliçe," diye mırıldandı kendi kendine, gülümseyerek. "Bu, ilginç olabilir."
+“Önce neye ihtiyacı olduğunu öğreneceğim.”
+
+Kaptanlar Konseyi'ne iki yolculuğu birden açıklamadı. Amara davetini ticaret görüşmesi olarak kayda geçirdi. Jilet Resifleri içinse Kessel, Sorin ve Deniz Hayaleti'nin altı tayfasını seçti.
+
+Gece Roric ona seslendi. “İki masaya aynı anda oturursan ikisi de seni ötekinin casusu sanır.”
+
+“Bırak sansınlar.”
+
+“Ya ikisi de haklıysa?”
+
+Zaleena mektupları ceketinin ayrı ceplerine koydu. “O zaman fiyatı ben belirlerim.”

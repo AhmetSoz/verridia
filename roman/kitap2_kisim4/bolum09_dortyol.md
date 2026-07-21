@@ -1,54 +1,26 @@
 # Bölüm 9 — Dört Yolun Kesiştiği Yer
 *(TOGAN / TEMUJİN / KARİA / ZALEENA)*
 
-Genç Kurtlar'ın kampı, o sabah, hiç olmadığı kadar düzenliydi — çadırlar, dikkatle sıralanmış, yollar, temizlenmiş, ve herkes, üzerlerine, en iyi kıyafetlerini giymişti.
+Kervan görünür görünmez Togan'ın ağzı kurudu. Günlerdir düzelttikleri yol yine tozluydu, giriş direklerinden biri sabah rüzgârında eğilmişti. Kaya direği eliyle doğrultmaya çalışınca Togan gülmemek için dudağını ısırdı.
 
-Togan, kampın girişinde, Temujin'in yanında durarak, ufku izliyordu — ve sonunda, uzaktan, bir kervanın tozunu gördüğünde, kalbi, beklenmedik bir hızla attı.
+Temujin konukları kapının dışında karşıladı. Önce Kuru Dere'nin kurallarını okudu: muhafız silahları konuk evindeki kilitli sandıkta kalacak, ortak alanda herkes aynı nöbet düzenine uyacak, görüşme tutanaklarından iki taraf da birer kopya alacaktı.
 
----
+Karia attan inip metni baştan sona dinledi. "Bize ayrıcalık tanımayacak mısınız?"
 
-Karia, atının üzerinde, yaklaşırken, önündeki manzarayı, dikkatle inceledi — küçük ama düzenli bir kamp, gururlu bayraklarla süslenmiş, ve girişinde, iki genç adam, onları bekliyordu.
+"Konuk ağırlığında tanıyacağız," dedi Temujin. "Yasada değil."
 
-Zaleena, yanında at sürerken, sesi heyecanla titredi. "Bu, o olmalı. Temujin."
+Karia'nın ağzının kenarı kıpırdadı. "İyi cevap."
 
-Karia, gözlerini kıstı. "Ve diğeri, Togan olmalı."
+Zaleena bu sırada kampı değil, derenin üstüne çekilmiş yeni su bendini inceliyordu. Kessel'e fısıldadığı iki soruyu Togan duydu: taşkında hangi kapak açılıyor, aşağıdaki köyün su payı nasıl korunuyordu? Togan cevap vermek için yanlarına gitti.
 
----
+"Alt kapak Sungur mührü olmadan kapanmıyor," dedi. "Üst kapak için de Azgut mührü gerekiyor. İkisi kavga ederse su akmaya devam ediyor."
 
-Kervan, kampın önünde durduğunda, bir an, garip bir sessizlik oldu — dört insan, uzun süredir, sadece mektuplarla, hikayelerle tanıdıkları isimlerin, sonunda, gerçek yüzlere, gerçek seslere dönüştüğü an.
+Zaleena ilk kez güldü. "İnsanlardan daha güvenilir bir düzenek kurmuşsunuz."
 
-Temujin, öne çıktı, resmi bir eğilmeyle. "Kraliçe Karia. Kraliçe Zaleena. Genç Kurtlar'a hoş geldiniz."
+"İnsanları hesaba katan bir düzenek," dedi Togan.
 
-Karia, atından indi, Temujin'e, doğrudan bir bakışla. "Sonunda, yüz yüze, Temujin. Mektuplarında, seni, zeki bulmuştum. Şimdi, görüyorum ki, tarif, yetersiz kalmış."
+Öğle yemeğinde dört ayrı heyet tek masaya oturdu. İlk sessizliği Kaya bozdu; bakır tabağı Temujin'in önüne itip ekmeği geçirmesini söyledi. Tören havası dağıldı. Elowen bir soru sordu, Batu düzeltti, Kessel kuru etin nasıl saklandığını merak etti.
 
----
+Akşam imzalanan ilk belge bir ittifak değildi. Yalnızca üç günlük görüşme gündemi, açık tutulacak kayıtlar ve mahrem kalacak başlıklar yazılıydı. Dört kişi de adının yanına kendi mührünü bastı.
 
-Togan, Zaleena'ya döndüğünde, kadının gözlerinde, garip bir tanışıklık gördü — sanki, ikisi de, uzun zamandır, birbirlerinin hikayesinin, bir köşesinde, sessizce yaşıyorlardı.
-
-"Sen, Togan'sın," dedi Zaleena, yavaşça. "Adını, aylar önce, bir mektupta, tesadüfen duymuştum — hiçbir şey ifade etmemişti, o zaman."
-
-"Şimdi ifade ediyor mu?" diye sordu Togan, hafif bir gülümsemeyle.
-
-Zaleena gülümsedi. "Şimdi, bütün bir dünyanın, birbirine nasıl bağlı olduğunu ifade ediyor."
-
----
-
-Kaya, kampın içinden çıkarak, bu buluşmaya katıldı — dört insanın, sonunda bir araya geldiğini görmenin, ona, garip bir gurur verdiği belliydi.
-
-"Yıllardır," dedi Kaya, herkese seslenerek, "hepiniz, birbirinizin hikayesinde, farkında olmadan, birer gölge gibi vardınız. Bugün, o gölgeler, sonunda, gerçek insanlar oldu."
-
-Elowen ve Kessel, biraz geride durarak, bu tarihi anı, sessizce izlediler — ikisi de, bu buluşmanın, sadece bir diplomatik ziyaret olmadığını, çok daha büyük bir şeyin, sessizce tamamlandığını hissediyordu.
-
----
-
-O akşam, büyük bir ateşin etrafında, dört insan — Togan, Temujin, Karia, Zaleena — ilk kez, aynı ateşin ışığında, birlikte oturdu.
-
-"Bir yıl önce," dedi Temujin, kadehini kaldırarak, "hiçbirimiz, bugünü, hayal edemezdik, sanırım."
-
-"Belki de," dedi Togan, düşünceli, "kaderin, bizi, bu ana getirmek için, epeydir çalıştığını, şimdi anlıyorum."
-
-Karia, kadehini, ona doğru kaldırdı. "O zaman, bu ana içelim — dört ayrı yolun, sonunda, aynı ateşte kesiştiği bu ana."
-
-Zaleena, gülümseyerek, katıldı. "Ve bundan sonra, gelecek olan her şeye."
-
-Dört kadeh, ateşin ışığında, birbirine değdi — ve o gece, Verridia'nın dört bir köşesinden gelen dört hikâye, sonunda, tek bir hikâyenin parçası olduğunu, herkes, açıkça hissetti.
+Togan, mürekkep kurumadan kimsenin kadeh kaldırmadığını fark etti. Buluşmayı gerçek yapan şey yıllardır anlatılan hikâyeler değil, aynı kurala razı olmalarıydı.

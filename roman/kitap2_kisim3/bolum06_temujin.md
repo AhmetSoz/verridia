@@ -1,42 +1,34 @@
 # Bölüm 6 — Büyüyen Gölge
 *(TEMUJİN)*
 
-Togan'ın durumu, Temujin'i, derin bir endişeyle doldursa da, kampın diğer meseleleri, beklemiyordu — Genç Kurtlar, artık, üç haftadır, yeni katılımcılar alıyordu, her biri, kendi hikayesi, kendi umuduyla.
+Kuru Dere'nin nüfusu elliye ulaştığında Batu anlaşmadaki sınırı hatırlattı.
 
-Sube, bir akşam, sayımı, Temujin'e rapor etti. "Elli kişiye ulaştık. Ve daha fazlası, geliyor gibi görünüyor — küçük boylardan, memnuniyetsiz gençlerden."
+"Yüz elli savaşçı," dedi Temujin. "Toplam insan değil."
 
-Temujin, bu büyümeyi, hem gurur hem endişeyle karşıladı. "Korgan'a verdiğim söz — küçük kalacağız. Eğer, çok hızlı büyürsek..."
+Yeni gelen yirmi kişinin yalnız sekizi silah taşıyordu. Diğerleri iki demirci, bir ebe, çoban aileleri ve üç marangozdu. Temujin hepsini Korgan ile Sungur meclisine gönderilen aylık kayda yazdırdı.
 
----
+Sube gizli bağlılık ağıyla sayıyı büyütmeyi önerdi. Temujin reddetti.
 
-"Anlaşmayı bozmuş oluruz," diye tamamladı Batu, endişeyle. "Ama insanları, gelmekten, nasıl alıkoyabiliriz?"
+"Kâğıtta küçük, gölgede büyük olursak Sarris'ten farkımız kalmaz. Etkimiz büyüyebilir. Savaşçı sayımız saklanmayacak."
 
-Temujin, uzun bir süre düşündü, sonra, yavaşça, bir çözüm şekillendi. "Belki, açıkça büyümüyoruz — sadece, görünürde. Yeni gelenlerin bazılarını, kendi eski topluluklarında, gizli bir şekilde, bize sadık kalacak şekilde bırakabiliriz. Sayımız, görünürde, küçük kalır — ama etkimiz, sessizce, genişler."
+O hafta Yeşim adında genç bir Temürçi kadın geldi. Darga yanlısı ailesinden ayrılmıştı; metal sertleştirme ustası olmak istiyordu.
 
-Kaya'nın sesi dikkatliydi. "Bu, tehlikeli bir oyun. Eğer Korgan, bunu keşfederse..."
+"Seni Elara mı gönderdi?" dedi Temujin.
 
-"Biliyorum." Temujin'in sesi, ağır bir kabullenişle doluydu. "Ama her büyüme, bir risk taşır. Ben, sadece, bu riski, mümkün olduğunca dikkatli yönetmeye çalışıyorum."
+"Hayır. Gelsem kızacağını biliyor."
 
----
+"Ailen geri isterse?"
 
-O hafta, yeni bir katılımcı geldi — genç bir kadın, kendini, "Yeşim" olarak tanıttı, uzak bir Temürçi ailesinden geldiğini söyleyerek.
+"Yetişkinim."
 
-"Neden, buradasın?" diye sordu Temujin, dikkatle.
+Kuru Dere'nin giriş kuralı henüz yoktu. Temujin tek başına kabul vermek yerine üç kişilik geçici heyet kurdu: Sube güvenliği, Kaya Sungur anlaşmasını, demirci Aşur da mesleki yeterliği değerlendirdi. Yeşim üç gün sonra kabul edildi.
 
-"Ailem, Darga kanadına bağlı," dedi Yeşim, sesi, hem korku hem umutla. "Ama ben, onların, 'saflık' takıntısına katılmıyorum. Duydum ki, burada, farklı bir yol inşa ediyorsunuz — kılıçla değil, akılla. Katılmak istiyorum."
+Kayda Temürçi kökeni açıkça yazıldı. Elara'ya da haber gitti.
 
-Bu, Temujin'i, gerçek bir şaşkınlıkla karşıladı — Temürçiler'den, ilk kez, birinin, doğrudan, ona katılmak istemesi.
+Kaya bu şeffaflığın Darga'yı kızdırabileceğini söyledi.
 
----
+"Gizlersek öğrendiğinde haklı olur," dedi Temujin.
 
-Temujin, dikkatle karşılık verdi. "Temürçi bağlantıların, hem bir fırsat hem bir risk olabilir. Eğer, Darga, senin buradaki varlığını öğrenirse..."
+İlk ayın sonunda Kuru Dere'de elli üç insan ve otuz sekiz silahlı savaşçı vardı. Bayrağın gölgesi büyüyordu, fakat gücü kılıç sayısından çok kuyu çizelgesi, ekmek fırını ve yeni yapılan dört evde görünüyordu.
 
-"Biliyorum," dedi Yeşim, kararlı. "Ama bazı riskler, almaya değer."
-
-Temujin, onu, kabul etti — ve o gece, Kaya'yla, bu gelişmenin anlamını, uzun uzun tartıştı.
-
-Kaya'nın sesi düşünceliydi. "Temürçiler'den biri, belki, bir gün, Elara'nın kanadıyla, doğrudan bir bağ kurmanı sağlar."
-
-"Belki de," dedi Temujin, gözlerini, uzaktaki ateşlere dikerek. "Her yeni isim, Kaya, yeni bir iplik. Ve belki, bir gün, bütün bu iplikler, gerçekten, güçlü bir kumaş dokur."
-
-Togan, uzaktan, bu konuşmayı izlerken, kendi kendine düşündü: Temujin'in hayali, yavaşça, ama gerçekten, şekilleniyordu — ve belki, bu şekillenme, hepsinin, geleceğini, düşündüklerinden çok daha büyük bir şekilde, değiştirecekti.
+Temujin nüfus defterindeki her adı tek tek okudu. Kurduğu şeyin büyüklüğü gizli sadakatlerle değil, kayda girmeyi seçen insanların sayısıyla ölçülecekti.

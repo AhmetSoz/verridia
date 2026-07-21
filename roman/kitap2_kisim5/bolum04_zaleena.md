@@ -1,38 +1,26 @@
-# Bölüm 4 — Genç Kaptanın Yolu
+# Bölüm 4 — Toma'nın Bir Yılı
 *(ZALEENA)*
 
-Toma, Karia'nın davetini öğrendiğinde, Zaleena'nın huzuruna, hem heyecan hem tereddütle geldi.
+Toma, Karia'nın mektubunu konsey masasının başında okudu. Bitirdiğinde kâğıdı katlamadı.
 
-Toma, dürüstçe itiraf etti. "Emin değilim, Kraliçem. Yamalı Liman, benim evim. Metheris'e gitmek... bu, büyük bir değişim."
+"Gidersem yerimi kaybeder miyim?" diye sordu.
 
-Zaleena, ona, anlayışla baktı. "Karar, tamamen senin, Toma. Ama bir şey söyleyeyim — bu fırsat, sıradan değil. Bir krallığın, geleceğin lideri olma ihtimali — bu, çok az kişiye sunulan bir şans."
+Zaleena cevap vermeden önce diğer kaptanlara baktı. Bu kararı Toma adına veremezdi; koltuğunun akıbetini de tek başına belirleyemezdi.
 
----
+Konsey bir saat tartıştı. Sonunda Toma'nın kaptanlık yetkisi bir yıl askıya alınacak, gemisini yardımcısı yönetecek ve konsey koltuğuna açık oylamayla geçici bir üye seçilecekti. Toma dönüşte otomatik olarak koltuğa oturmayacak, yeniden güven oyu isteyecekti.
 
-"Peki, ben, orada, gerçekten, bir şey ifade eder miyim?" diye sordu Toma, gerçek bir kırılganlıkla. "Ben, sadece, bir kaptanım — soylu değil, özel bir eğitim almamış biri."
+"Bu ağır," dedi Draven.
 
-"Tam da bu yüzden," dedi Zaleena, kararlı, "Karia, seni seçti. Çünkü, o, artık, kanın değil, karakterin, gerçek liderliği belirlediğine inanıyor. Ve sen, Toma — sen, dürüst, cesur, ve halkın tarafından, gerçekten seviliyorsun. Bunlar, öğretilemeyen şeyler."
+"Koltuğu emanete çevirmemek için gerekli," diye karşılık verdi Zaleena.
 
----
+Toma ertesi gün kararını açıkladı. Metheris'e gidecekti. Tahta yaklaşmak için değil, bir limanın dışındaki yönetimi öğrenmek için.
 
-Roric, bu konuşmaya, kısa bir yorumla katıldı. "Ben, senin yaşındayken, Toma, hiç kimse, bana, böyle bir fırsat sunmadı. Eğer, ben olsaydım, tereddüt etmezdim."
+"Başarısız olursam?" dedi yalnız kaldıklarında.
 
-Bu söz, Toma'nın kararını, sonunda, netleştirdi. "Gideceğim," dedi, sesi, yeni bulunmuş bir kararlılıkla. "Ve söz veriyorum, Yamalı Liman'ı, her zaman, gururla temsil edeceğim."
+"Hangi işte başarısız olduğunu öğrenirsin. Karia'nın raporu sana da verilecek. Bunu bir hüküm gibi değil, kayıt gibi oku."
 
----
+Roric ona eski pusulasını sunmadı; bozkırdan dönüşte öğrendikleri bir kuralı hatırlattı. "Yetkinin sınırlarını ilk gün sor. Son gün öğrenirsen geç kalmış olursun."
 
-Hazırlıklar, hızla tamamlandı — Draven, garip bir şekilde, Toma'nın en büyük destekçilerinden biri oldu.
+Draven, Toma'nın seyir defterlerini geçici kaptana devretmesine yardım etti. Aralarında uzun bir veda konuşması olmadı. Eksik yelken bezi, ödenmemiş iki tayfa ücreti ve kuzey rotasındaki sığlıklar üzerinden geçtiler.
 
-"Bir zamanlar," dedi Draven, Toma'ya, vedalaşırken, "ben de, ikinci bir şansı hak etmediğimi düşünürdüm. Ama Zaleena, bana, o şansı verdi. Şimdi, sen, farklı bir şans alıyorsun — ilk şansını, en iyi şekilde kullanma şansını. Bunu, değerlendir."
-
-Toma, bu söze, derin bir minnetle karşılık verdi.
-
----
-
-Toma'nın gemisi, Metheris'e doğru yola çıktığında, Zaleena, Kessel'in yanında, rıhtımda durarak, onu uğurladı.
-
-Zaleena'nın hüznü yumuşaktı. "Onu, özleyeceğiz."
-
-"Ama gurur da duyacağız," dedi Kessel, elini, onunkine kenetleyerek. "Yamalı Liman'ın, artık, bir krallığın geleceğine, katkıda bulunduğunu bilerek."
-
-Zaleena, bu düşünceye, sıcak bir gülümsemeyle karşılık verdi — ve kendi kendine, bir kez daha, dünyanın, ne kadar hızlı, ne kadar güzel bir şekilde, birbirine bağlandığını, hissetti.
+Gemi ayrılırken Zaleena rıhtımda bekledi. Toma'nın yokluğuyla doğacak boşluğu bir kayıp gibi saklamayacaktı. Öğleden sonra konsey, geçici koltuk için aday çağrısını liman panosuna astı. İlk başvuran Mira adında genç bir kıyı kaptanıydı.

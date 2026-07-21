@@ -1,48 +1,18 @@
-# Bölüm 17 — Gölgenin Ardındaki Işık
-*(KAPANIŞ — TOGAN / TEMUJİN / KARİA / ZALEENA)*
+# Bölüm 17 — Açılan Dosyalar
+*(KAPANIŞ / TOGAN / TEMUJİN / KARİA / ZALEENA)*
 
-O gece, Verridia'nın dört bir köşesinde, dört insan, aynı, büyüyen fırtınanın, farklı köşelerinde durdu — hiçbiri, artık, onu, tek başına karşılamıyordu.
+Ay sonunda dört dosya aynı hafta hareket etti.
 
----
+Togan'ın Malakor'a cevabı Eski-Kent kayıt masasına ulaştı. Alındı mührü geri döndü; sağlık çizelgesini vermeyi reddettiği ve bağımsız kaynak istediği artık açık kayıttaydı. Gizli gözlem noktalarında yeni iz bulunmadı. Bu, gözetimin bittiğini kanıtlamıyordu.
 
-**Genç Kurtlar kampında**, Togan, Malakor'un mektubunu, bir kez daha okurken, Perren, yanına oturdu.
+Temujin, Korgan'ın inceleme heyetine Toruk'un ifadesinin kapalı özetini gönderdi. Tam metin ancak güvenli tanıklık kabul edilirse açılacaktı. Kaan, Toruk'un Eski-Kent'e gelmeyi kabul ettiğini bildirdi; Korgan'ın iki temsilcisi de yola çıkacaktı.
 
-"Ne düşünüyorsun?" diye sordu Perren.
+Karia'nın Severin arşivindeki ödeme önekleri Kaan'ın tutanağına eklenmişti. Aynı yöntem iki ayrı dönemde görülüyordu, fakat faillerin aynı olduğu yazılmamıştı. Hegemonya arşiv kapısını açmış, hükmü bozkıra bırakmıştı.
 
-"Düşünüyorum ki," dedi Togan, yavaşça, "belki, bu gölge, beni bulmadan önce, ben, onu anlamalıyım. Korkuyla değil, merakla."
+Zaleena'nın seçtiği Neris Delta kıyısına vardı. İlk raporunda Malakor bütçesinin tek kasa değil, beş ayrı ticaret hesabı üzerinden yürüdüğünü yazdı. Hesaplardan biri üç eski ulak gemisinin kapalı depo ücretlerini ödüyordu. Amara raporu durdurmamıştı; henüz bütün defterleri de açmamıştı.
 
----
+Aynı gün iki şehir sivil kriz protokolünün ilk tatbikatını yaptı. Haber Metheris'ten Yamalı Liman'a planlanandan altı saat geç ulaştı. Sorun fırtına değil, farklı saat sayma usulleriydi. Protokolün ilk düzeltmesi savaş ya da kıtlık çıkmadan yazıldı.
 
-**Aynı kampta, başka bir ateşte**, Temujin, Kaya'yla, Korgan'ın şüphesinin, nereye varacağını, sabırla bekliyordu.
+Hiçbir dosya kapanmadı. Buna karşılık her biri artık bir kişinin hafızasından daha genişti: tanıkları, karşı mühürleri ve itirazları vardı. Malakor'un sorusu, Bozan'ın ölümü ve Delta'nın kapalı bütçesi ilk kez aynı söylenti içinde değil, ayrı ayrı sınanabiliyordu.
 
-Temujin'in sesi sakindi. "Yıllar sürebilir. Ama artık, biliyorum ki, doğru yönde ilerliyoruz."
-
-"Babanın öcü mü, yoksa bozkırın geleceği mi," diye sordu Kaya, "hangisi, seni, daha çok, ayakta tutuyor?"
-
-Temujin, uzun bir süre düşündü. "İkisi de, artık, aynı şey, sanırım."
-
----
-
-**Metheris'te**, Karia, Elowen'in yanında, kendi kararlılığını, bir kez daha, netleştirdi.
-
-Karia'nın sesi kararlıydı. "Delta'nın sistemini, değiştirmek, belki, benim neslimde, tamamlanmayacak bir hedef. Ama başlamak zorundayız."
-
-"Her büyük değişim," dedi Elowen, "bir yerden başlar. Bu, senin başlangıcın olabilir."
-
----
-
-**Yamalı Liman'da**, Zaleena, Kessel'in yanında, Amara'nın son mesajını, bir kez daha okudu.
-
-"Belki," dedi Zaleena, "düşmanlarımız bile, bir gün, müttefik olabilir — eğer, ortak bir gerçeği, birlikte görebilirsek."
-
-"İnanıyor musun buna?" diye sordu Kessel.
-
-"İnanmak istiyorum," dedi Zaleena. "Ve bazen, bu, yeterli bir başlangıç."
-
----
-
-Dört ayrı ufukta, dört insan, artık, sadece kendi mücadelelerini değil, birbirinin mücadelelerini de, kendi omuzlarında taşıyordu. Malakor'un gölgesi, Korgan'ın uyanan şüphesi, Delta'nın derin, karanlık kökleri — hepsi, aynı, büyük hikayenin, parçalarıydı.
-
-Ve dördü de, artık, biliyordu: ne kadar büyük olursa olsun bu gölge, tek başına değil, birlikte karşılanacaktı.
-
-*(10. Kısım Sonu — 11. Kısım'da devam edecek)*
+*(10. Kısım Sonu; 11. Kısım'da devam edecek)*

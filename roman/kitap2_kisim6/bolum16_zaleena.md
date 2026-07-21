@@ -1,36 +1,20 @@
-# Bölüm 16 — Ortak Savaş
+# Bölüm 16 — Koşullu Ortaklık
 *(ZALEENA)*
 
-Karia'nın mektubu, "gerçek düşmanın, Delta'nın kendisi olabileceği" düşüncesini paylaştığında, Zaleena, bu fikri, uzun bir süre, sessizce tarttı.
+Amara'nın mektubu kişisel bir itiraf gibi değil, resmî bir teklif gibi yazılmıştı. Delta iç kurulu Malakor bütçesinin ortak denetimine razı olursa Yamalı Liman'dan bir arşivci istiyordu. Bunun karşılığında üç eski gemi emrinin asıllarını açacaktı.
 
-"Eğer, haklıysa," dedi Zaleena, Kessel'e, "bu, çok daha büyük bir mücadele demek — Sarris'i düşürmek, ya da Amara'yla iyi geçinmek, yeterli olmayabilir."
+Zaleena teklifi konseye götürdü. Draven, Delta'nın dışarıdan gelen gözlemciyi kendi iç kavgasında kalkan olarak kullanabileceğini söyledi. Mira ise reddetmenin kapalı bütçeyi yine görünmez bırakacağını düşündü.
 
-Kessel, bu düşünceye, ciddiyetle katıldı. "Sistemin kendisini, değiştirmek, ya da, en azından, dengelemek gerekebilir."
+Konsey dört şart belirledi. Yamalı Liman arşivcisini Amara seçmeyecek, rapor aynı gün bütün taraflara verilecek, tanık adları rızaları olmadan açıklanmayacak ve denetçi askerî ya da ticarî pazarlığa katılmayacaktı. Görev otuz günle sınırlı olacaktı.
 
----
+Serel, Mirasçı bağlantısı yüzünden aday olmayı reddetti. Konsey, liman defterlerinde çalışan yaşlı yazıcı Neris'i seçti. Neris Delta'ya gitmeden önce kendi mal varlığını ve eski iş ilişkilerini açık kayda geçirdi.
 
-Amara'dan, o hafta, beklenmedik bir mesaj daha geldi — bu kez, daha kişisel, daha açık bir ton taşıyan bir mesaj.
+Amara dört şartı da kabul etti. Kessel bunun güven göstergesi olup olmadığını sordu.
 
-*Zaleena,* diye yazmıştı Amara, *itiraf etmeliyim — Malakor'un, Delta içinde, benim bile erişemediğim bir güce sahip olması, beni, uzun zamandır, rahatsız ediyor. Belki, sizin ve Karia'nın sorularınız, bana da, kendi kurumumu, yeniden düşünme fırsatı veriyor.*
+"Uygulayınca görürüz," dedi Zaleena. "Kabul mektubu ucuzdur. Açık arşiv pahalı."
 
----
+Draven eski Delta deneyiminden yararlanmak istedi; fakat geçmiş bağları yüzünden denetim heyetine alınmadı. Bunun yerine Neris'e eski emir kodlarının nasıl değiştirildiğini anlattı, görüşme tutanağa geçti.
 
-Bu itiraf, Zaleena'yı, gerçek bir umutla doldurdu. "Amara, gerçekten, kendi tarafında, bir değişim arıyor gibi görünüyor."
+Ortaklık sözcüğü belgede kullanılmadı. Yamalı Liman, Amara'nın Delta'yı değiştireceğine kefil olmuyordu. Yalnız belirli bir kasanın belirli sürede açılmasına katkı veriyordu.
 
-"Ya da," dedi Roric, temkinli, "kendi gücünü, Malakor'un gölgesinden, kurtarmaya çalışıyor — kendi çıkarı için."
-
-"Belki ikisi de," dedi Zaleena, düşünceli. "Ve belki, bu, önemli değil — eğer, sonuç, Delta'nın, daha az tehlikeli, daha şeffaf bir güç haline gelmesiyse."
-
----
-
-O hafta, Zaleena, Karia'ya, Amara'nın mesajını ileten bir cevap yazdı: *Belki, Amara, bizim beklenmedik bir müttefikimiz olabilir — Delta'yı, içeriden, değiştirmek isteyen biri. Dikkatli olalım, ama bu fırsatı, değerlendirelim.*
-
-Mira, bu gelişmeleri, Genç Denizciler Meclisi'nde, dikkatle paylaştı. "Görünüşe göre, Yamalı Liman, artık, sadece kendi limanının değil, bütün kıtanın, geleceğini etkileyen kararların, bir parçası."
-
----
-
-Draven, bu düşünceye, kendi deneyiminden, bir yorum ekledi. "Bir zamanlar, ben de, Delta'nın bir parçasıydım — sadece, bilgi taşıyan, küçük bir dişli. Şimdi, görüyorum ki, o sistemin kendisi, değişebilir, değişmelidir."
-
-Zaleena, bu gözleme, derin bir düşünceyle karşılık verdi. "Belki, bu, hepimizin, ortak hikayesi — sistemlerin, insanların, iradesiyle, yavaşça, değiştirilebileceği hikayesi."
-
-O gece, Kessel'le, sessizce otururken, Zaleena, kendi kendine, düşündü: bu, uzun, belki nesillerce sürecek bir mücadeleydi — ama her küçük adım, doğru yöne, bir adım daha, yaklaştırıyordu hepsini.
+Neris'in gemisi ayrıldığında Zaleena sonuç beklemeye başladı. Malakor'un gölgesine karşı verdikleri ilk ortak mücadele savaş değildi; doğru anahtarın doğru tanıkların önünde kilide girmesiydi.

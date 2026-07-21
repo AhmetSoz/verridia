@@ -1,38 +1,26 @@
 # Bölüm 34 — Üçüncü Bayrağın Haberi
-*(KARİA)*
+*(KARIA)*
 
-Faelan'ın raporu, Karia'yı, gerçek bir şaşkınlıkla karşıladı.
+Faelan bozkır haritasına Kuru Dere adında yeni bir işaret koydu. Azgut ve Sungur mühürleri, Genç Kurtları bağımsız topluluk olarak tanımıştı. Savaşçı sayısı bir yıl boyunca yüz elliyle sınırlıydı.
 
-"Temujin, başardı," dedi Faelan, haritaya, yeni bir işaret koyarak. "Korgan'la, resmi bir anlaşma yaptı — 'Genç Kurtlar,' artık, bağımsız, tanınan bir topluluk. Ne Azgut, ne Sungur. Bozkırda, üçüncü bir bayrak."
+"Toprak gerçekten onların mı?" dedi Karia.
 
-Karia, bu haberi, derin bir ilgiyle dinledi. "Küçük mü, büyük mü?"
+"İki taraf hak iddiasından vazgeçmiş. Sınırlar anlaşmada yazılı."
 
-"Şimdilik, küçük. Ama Majesteleri, bu adam, küçük kalmayı, uzun süre kabul edecek biri gibi görünmüyor."
+Karia ilk iş olarak metnin kopyasını istedi. Tanıma haberiyle yetinmek istemiyordu. Anlaşma geldiğinde zorla asker toplamama, açık katılım kaydı ve ticaret maddelerini işaretledi.
 
----
+"Bunlara uyarsa muhatap olabilir," dedi.
 
-"Sessiz kanalımız, hâlâ açık mı?" diye sordu Karia.
+Gizli tebrik yerine Sungur meclisine yeni bir ek gönderdi. Kuru Dere'deki topluluk Hegemonya tahıl anlaşmasına eşit taraf olarak katılabilecek, fakat kendi mührüyle hesap tutacaktı. Böylece bağımsızlıkları sözde değil, ilk faturada sınanacaktı.
 
-"Açık. Ve şimdi, daha da değerli — çünkü, artık, sadece, bir gün büyüyebilecek bir sürgünle değil, bozkırda, tanınmış bir güçle konuşuyoruz."
+Kaelan bu yaklaşımı onayladı. "Bayrağı tanımadan önce defterini görmek."
 
-Karia, bu gelişmeyi, uzun bir süre düşündü, sonra, kararını verdi. "Kanalı, biraz daha aç. Hâlâ, resmi değil — ama belki, küçük bir jest. Ona, Hegemonya'nın, bağımsızlığını, sessizce, saygıyla karşıladığını bildir."
+"Bayrak dikmek bir sabah sürer. Borcu zamanında ödemek daha uzun."
 
----
+Elowen'in ikinci ziyaret tarihi de aynı hafta kesinleşti. Karia iki meseleyi birbirine bağlamadı; yine de tarihçinin bıraktığı ilke aklındaydı. Her kaydın kimin işine yaradığını soruyordu. Temujin'in kuruluş hikâyesi en çok Temujin'in işine yarayacaktı. Bu yüzden Sungur ve Azgut nüshalarını da istedi.
 
-Sör Kaelan, bu kararı, dikkatle değerlendirdi. "Uzun vadeli düşünüyorsun, evladım. İyi bir işaret."
+Faelan çıkarken sordu. "Bir gün kendisiyle görüşür müsünüz?"
 
-"Belki de," dedi Karia, hafif bir gülümsemeyle, "Elowen'le geçirdiğim zaman, bana, bir şey öğretti — bazen, en değerli şeyler, hemen değil, sabırla, yıllar içinde inşa edilir."
+"Kuru Dere bir kış geçirsin. Sonra."
 
-Kaelan, bu ismin geçişine, dikkatli bir merakla karşılık verdi. "Elowen'i, tekrar görecek misin?"
-
-"Gelecek ay," dedi Karia, "kütüphane değişimi için, tekrar gelecek. Sanırım... bunu, sabırsızlıkla bekliyorum."
-
----
-
-O akşam, Karia, kendi kendine, bütün bu ilerlemeleri düşündü — Temujin'in bağımsızlığı, kendi kanalının derinleşmesi, Elowen'in beklenmedik varlığı, hayatında.
-
-*Bir yıl önce,* diye düşündü Karia, *sadece, hayatta kalmaya çalışıyordum — bir taht, bir savaş, bir ihanet ağının ortasında. Şimdi, geleceği, sabırla, dikkatle, inşa ediyorum. Belki, bu, gerçek liderliğin anlamı.*
-
-Faelan, ayrılırken, son bir gözlem paylaştı. "Bu Temujin, ilginç bir şekilde, sizinle çok benziyor, Majesteleri — ikiniz de, gücü, korkuyla değil, sabırla inşa ediyorsunuz."
-
-"Belki de," dedi Karia, düşünceli, "bir gün, bu benzerlik, gerçek bir dostluğa dönüşür — sadece, uzaktan izlenen bir merak değil."
+Karia yeni işaretin yanına küçük bir not yazdı: *Tanınmış, denenmemiş.* Haritada üçüncü bayrak doğmuştu. Devlet aklında ise henüz bir olasılıktı.

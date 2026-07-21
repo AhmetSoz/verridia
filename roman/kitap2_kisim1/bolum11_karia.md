@@ -1,56 +1,46 @@
 # Bölüm 11 — Fısıltıların Bedeli
-*(KARİA)*
+*(KARIA)*
 
-Kurtarılan ticaret gemisinin kaptanı, Metheris'e döndüğünde, hikâyesini anlatmaktan çekinmedi — ve üç gün içinde, "Yamalı Liman korsanlarının bir Hegemonya gemisini kurtardığı" haberi, limanın her meyhanesinde konuşulur olmuştu.
+Kurtarılan geminin kaptanı Metheris'e varınca Yamalı Liman'da gördüklerini saklamadı. Üç gün içinde yirmi üç denizcinin hikâyesi saray mutfağından Konsey salonuna kadar ulaştı.
 
-Karia, bu haberin saraya ulaşmasının, sadece bir zaman meselesi olduğunu biliyordu. Ve geldiğinde, ilk gelen, beklediği gibi, Vorlag oldu.
+Vorlag küçük toplantıyı bir soruyla açtı. "Korsanların bu ani cömertliğini nasıl açıklıyorsunuz, Majesteleri?"
 
-"İlginç bir söylenti dolaşıyor, Majesteleri." Vorlag'ın sesi, her zamanki gibi ipeksi, ama gözlerindeki dikkat, her zamankinden keskindi. "Korsanların, birdenbire, bize karşı bu kadar cömert davranması. Bunun bir açıklaması var mı sizce?"
+Karia önündeki dosyayı kapattı. "Yamalı Liman'ın kraliçesiyle yaptığım anlaşmayla."
 
-Karia, bu anı bekliyordu — dürüstlüğün, bu durumda, en güçlü kalkan olacağını biliyordu.
+Maros ellerini birbirine kenetledi. Drennar öne eğildi. Vorlag'ın parmakları masanın üzerinde durdu.
 
-"Var, Lord Vorlag. Ben, Yamalı Liman'ın yeni lideriyle, kişisel olarak, gizli bir anlaşma yaptım."
+"Konsey'in onayı olmadan mı?"
 
-Bu itiraf, odada — Konsey'in küçük bir bölümünün toplandığı özel bir salonda — anında bir gerilim yarattı. Drennar, kaşlarını kaldırdı; Maros, endişeyle ellerini kavuşturdu; Vorlag'ın yüzü ise, şaşkınlıktan çok, bir hesabın hızla yeniden şekillendiğini gösteriyordu.
+"Bir deneme için onaya ihtiyacım yoktu. Kalıcı ticaret yolu için var. Bu yüzden buradayız."
 
-"Konsey'in bilgisi ya da onayı olmadan mı?" diye sordu Vorlag, sesi keskinleşerek.
+Karia kurtarma raporunu masanın ortasına sürdü. Ardından kuzey limanlarındaki tahıl fiyatlarını, ilaç gecikmelerini ve Jilet Resifleri'nde kaybedilen gemilerin sayısını gösteren üç liste koydu.
 
-"Evet." Karia, bunu saklamaya çalışmadı. "Çünkü bu, hassas bir konuydu, ve önce sonucunu görmek istedim — teorik bir tartışmayla değil, somut bir kanıtla gelmek istedim size."
+"Yamalı Liman düzenli geçiş sağlarsa kuzey rotası dokuz gün kısalır. Karşılığında iki iskelede vergi indirimi ve meşru yük belgesi istiyorlar. Savaş gemilerine hak tanınmayacak. Kaçakçılık yapan kaptan anlaşmanın korumasını kaybedecek."
 
-"Ve şimdi?"
+Leydi Calder raporu inceledi. "Savunma yükümlülüğü?"
 
-"Şimdi, önünüzde, somut bir kanıt var: kurtarılan bir gemi, kurtarılan yirmi altı can. Yamalı Liman, artık, eskisi gibi bir kaos yuvası değil — organize, kayıtlı, ve resmi olarak yönetilen bir güç. Ve bu gücün lideri, Hegemonya'yla, düşman olarak değil, komşu olarak yaşamak istiyor."
+"Yok. Saldırı hazırlığı duyulursa haber verecekler. Biz de aynısını yapacağız."
 
-Leydi Calder, ilk kez konuştu, sesinde bir merak vardı. "Bu ittifakı, resmi hale getirmeyi mi öneriyorsunuz, Majesteleri?"
+Vorlag eski yasayı hatırlattı. Fatih Valerius, Yamalı Liman gemilerini düşman saymıştı.
 
-"Öneriyorum. Sınırlı bir ticaret antlaşması olarak — bir savunma paktı değil, henüz. Ama başlangıç olarak, kıtanın en tehlikeli sularını, düşman değil, bir tampon bölge haline getirebilir bizim için."
+"Seksen üç yıl önce," dedi Karia. "O yasa dağınık yağmacılar için yazıldı. Karşımızda artık kayıt tutan ve kaptanlarını yargılayan bir yönetim var. Gerçeği eski bir cümleye uydurmayacağım."
 
-Vorlag, uzun bir süre sessiz kaldı, parmaklarını masaya vurarak düşünürken. "Bu, geleneksel değil, Majesteleri. Fatih Valerius, korsanları her zaman düşman ilan etti."
+Oylamada Calder ile Drennar kabul oyu verdi. Hallis ticaret hesabına bakıp onları izledi. Maros çekimser kaldı. Vorlag son ana kadar bekledi.
 
-"Fatih Valerius," dedi Karia, sesi sakin ama kesin, "seksen üç yıl önce, farklı bir dünyada yaşadı, Lord Vorlag. O zamanlar, Yamalı Liman, dağınık bir haydut yatağıydı. Şimdi, bir devlet olmaya çalışıyor. Dünya değişti — ve biz de, onunla birlikte değişmezsek, geride kalırız."
+"Altı aylık deneme," dedi. "Başarısızlığın sorumluluğu size ait."
 
----
+"Başarının da," dedi Karia.
 
-Oylama, beklenenden daha az tartışmalı geçti — Drennar ve Hallis, ticaretin getireceği somut faydayı gördüler; Maros, tereddütlü ama karşı çıkmadı; Calder, açıkça destekledi.
+Karar geçti.
 
-Sadece Vorlag, çekimser kaldı — ama bu sefer, itirazı, açık bir düşmanlıktan çok, bir ihtiyatın işaretiydi.
+Faelan akşam imzasız bir haber kâğıdıyla çalışma odasına geldi. Karia metni okuyup geri verdi.
 
-"Deneyelim," dedi sonunda, isteksizce. "Ama eğer bu korsanlar bizi bir kez aldatırsa, Majesteleri, bunun sorumluluğu tamamen sizin üzerinizde kalacak."
+"Bunu resmî yaz. Kraliçe Zaleena'ya hitap et ve Konsey mührünü kullan."
 
-"Kabul ediyorum," dedi Karia.
+"Gizli görüşmeyi de kayda mı geçireceğiz?"
 
----
+"Görüşmeyi değil, sonucu. Devletler söylentiyle komşu olmaz."
 
-O akşam, Faelan, Karia'nın çalışma odasına geldi, yüzünde nadir görülen bir onay ifadesiyle.
+Faelan çıkınca Karia kuzey rotasının haritasını açtı. İlk ticaret gemisi için kaptan ve yük seçmesi gerekiyordu. Delta'nın cevabı gelmeden denemeyi başlatırsa, kurulmuş bir hattı bozmak yalnız bir tasarıyı engellemekten daha pahalı olacaktı.
 
-"Bunu iyi yönettiniz, Majesteleri. Vorlag'ı bile ikna ettiniz — ya da en azından, açıkça karşı çıkmasını engellediniz."
-
-"Vorlag'ı hiçbir zaman tam olarak ikna edemem, Faelan. Sadece, onun karşı çıkacağı bir zeminin kalmamasını sağlayabilirim."
-
-Faelan, başını salladı, sonra, sesi biraz alçalarak ekledi: "Zaleena'ya haber göndereyim mi? Anlaşmanın resmi hale geldiğini bilmesi gerekir."
-
-"Evet." Karia, pencereden dışarı, limana baktı — Fiyort Filosu'nun gemileri, her zamanki gibi, sisin içinde sessizce demirliydi. "Ve ekle: bir sonraki buluşmamızı, belki artık gizlice değil, resmi bir elçilikle yapabiliriz."
-
-Faelan, çıkarken, Karia, uzun bir süre, tek başına kaldı — ve içinde, garip bir umut hissetti. Belki de, diye düşündü, bu kıtanın eski düşmanlıkları, tek tek, böyle, cesur adımlarla çözülebilirdi — savaşla değil, masalarda oturup konuşarak.
-
-Ama biliyordu ki, her çözülen düşmanlık, bir yerlerde, yeni bir kaygıyı da tetikliyordu. Ve Delta'nın, bu yeni ittifakı öğrendiğinde nasıl tepki vereceğini, henüz kestiremiyordu.
+Kalemi aldı ve ilk kaptanın adını yazdı.

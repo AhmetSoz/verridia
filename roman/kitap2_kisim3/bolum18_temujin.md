@@ -1,40 +1,30 @@
 # Bölüm 18 — Bir Yıl
 *(TEMUJİN)*
 
-Genç Kurtlar'ın kuruluşunun, tam bir yıl döndüğü gün, Temujin, kendi kendine, bunun, ne kadar hızlı geçtiğini düşünmeden edemedi.
+Kuru Dere'nin kuruluşundan bir yıl sonra nüfus defterinde yüz yirmi ad vardı. Bunların yetmiş dördü silah taşıyordu; anlaşmadaki sınırın yarısından azı.
 
-Sube, sayımı, gururla rapor etti. "Yüz yirmi kişiyiz artık. Ve daha da önemlisi — gizli ağımız, bunun, neredeyse üç katı."
+Kutlamadan önce yıllık sayım iki tarafa gönderildi. Batu bu işi bayram sabahına bırakmalarına söyleniyordu.
 
-Temujin, bu sayıları, dikkatle değerlendirdi. "Korgan'ın anlaşmasını, hâlâ, teknik olarak, ihlal etmiyoruz."
+"Bayrağı çekmeden borcu yazmak uğursuzluk," dedi.
 
----
+"Borcu yazmadan bayrağı çekmek daha kötü," dedi Temujin.
 
-Kaya, o akşam, kutlama için, kendi klanından, özel bir ziyaretle geldi — Börü de, yanındaydı, yaşının ağırlığına rağmen, gururlu bir duruşla.
+İlk ticaret hesabı kapanmıştı. Yamalı Liman'ın tuz ve ip yükü tam gününde ödenmiş, Temürçi kervanlarının ikisi güvenle geçirilmişti. Kuyu anlaşmasında Karaçullarla yalnız bir tartışma çıkmış, o da ölçüm taşıyla çözülmüştü.
 
-"Bir yıl önce," dedi Börü, ateşin başında, herkesin önünde, "bir avuç kaçak, kapımıza geldi. Bugün, gerçek bir topluluk görüyorum — kendi kimliği, kendi geleceği olan bir topluluk."
+Sungur heyetinin başında Börü ile Kaya geldi. Börü eskisinden yavaş yürüyordu, fakat konuşurken kimse sözünü bölmedi.
 
-Temujin, bu sözlere, derin bir minnetle eğildi. "Sizin desteğiniz olmasaydı, Börü Han, hiçbirimiz, bugün, burada olamazdık."
+"Bir yıl önce kapımıza kaçak geldiniz," dedi. "Bugün komşu olarak çağırdınız. İkisi arasındaki farkı siz yaptınız."
 
----
+Temujin teşekkür ederken Sungurların verdiği sığınmayı kuruluş efsanesine çevirmedi. "İlk kışı onların ağıllarında geçirdik. Bu kayıtta yazacak."
 
-Togan, kutlamanın bir kenarında, Perren'le birlikte otururken, bütün bu gelişmeleri, sessizce izledi.
+Togan Sed yolculuğundan kutlamaya yetişti. Beş taş sınamasının iyi geçtiğini söyledi, sonra Temujin'in açık tuttuğu yıllık defteri inceledi.
 
-"Garip, değil mi?" dedi Togan, düşünceli. "Bir yıl önce, ben, Sed'in kapısından, ilk kez geçiyordum. Sen, kendi Han'ından kaçıyordun. Şimdi, ikimiz de, burada, çok farklı insanlar olarak, aynı ateşin başındayız."
+"Bir yıl sonra nerede olacağız?" dedi Temujin.
 
-Temujin, ona döndü. "Öyle. Ve merak ediyorum, Togan — bir yıl sonra, nerede olacağız? Bu topluluk, ne kadar büyüyecek? Sen, kendi dengeni, nasıl koruyacaksın?"
+"Bu yılın hesabını bitirmeden ötekini sorma."
 
----
+Birlikte eksik satırı buldular. Dört doğum kayda yazılmış, kışın ölen yaşlı çoban eklenmemişti. Adı Nadir'di. Temujin onu ölüm hanesine kendisi yazdı.
 
-"Bilmiyorum," dedi Togan, dürüstçe. "Ama biliyorum ki, ne olursa olsun, dostluğumuz, sabit kalacak. Bu, garanti edebileceğim tek şey."
+Akşam şarkılar başladı. Yeni bayrağın altında çocuklar koşuyor, Yeşim'in ocağından ilk çekiç sesi geliyordu. Temujin kalabalığı gelecekteki ordusu gibi saymadı. Her birini nüfus defterindeki satırıyla hatırlamaya çalıştı.
 
-Temujin, bu söze, gerçek bir sıcaklıkla gülümsedi. "Bu, bana, yeterli, Togan."
-
-Batu, yanlarına geldi, elinde, iki kadeh kımızla. "Kutlamaya katılın, ikiniz de. Bugün, sadece, Genç Kurtlar'ın günü değil — hepimizin, hayatta kaldığımız, ve belki, biraz da, büyüdüğümüz bir günün kutlaması."
-
----
-
-Gece ilerledikçe, kutlama, şarkılara, dans edenlere, hikaye anlatan yaşlılara dönüştü — küçük ama gerçek bir topluluğun, kendi kimliğini, kendi geleneklerini, yavaşça inşa ettiğinin, canlı bir kanıtı.
-
-Temujin, bu sahneyi izlerken, kendi kendine düşündü: bir zamanlar, sadece, bir hesap makinesi gibi, gücü, adım adım biriktiren bir savaş-lorduydu. Şimdi, gerçek bir topluluğun, gerçek bir lideriydi — ve bu değişim, kılıçla kazanılan hiçbir zaferden, daha değerliydi.
-
-Yıldızlar, Genç Kurtlar'ın ateşinin üzerinde, sessizce parlıyordu — ve Temujin, ilk kez, aylardır, geleceğin, sadece hayatta kalmak değil, gerçekten, güzel bir şey inşa etmek anlamına da gelebileceğini, tam olarak hissetti.
+Yüz yirmi kişilik bir topluluk küçük sayılırdı. İçlerinden birinin adını unutmak için yeterince büyüktü.

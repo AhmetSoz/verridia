@@ -1,44 +1,30 @@
-# Bölüm 13 — Ayrılık Vakti
+# Bölüm 13 — Dönüş Yükü
 *(ZALEENA)*
 
-Bir hafta, Genç Kurtlar'ın kampında, gölgesi uzun ama tatlı bir rüya gibi geçmişti — ve şimdi, ayrılık zamanı, kaçınılmaz bir şekilde, yaklaşıyordu.
+Zaleena son sabah armağan sandıklarını yeniden saydırdı. Getirdikleri ilaçların yarısı revirde kalmış, karşılığında Genç Kurtlar kurutulmuş et ve işlenmiş keçe vermişti. Bunlar hediye diye kayda geçmeyecek, deneme ticaretinin ilk kalemleri olacaktı.
 
-"Geri dönmek zorunda mıyız, gerçekten?" diye sordu Zaleena, Kessel'e, son akşamlarında, yarı şaka yarı ciddi.
+Temujin, Yamalı Liman'a gidecek tüccarlar için vergi muafiyeti istedi. Zaleena reddetti.
 
-Kessel gülümsedi. "Bir liman, kraliçesi olmadan, uzun süre iyi gitmez. Ama bu yeri, bir daha ziyaret etmeyeceğimizi kim söyledi?"
+"İlk kafileye ayrıcalık verirsem ikincisi de ister. Onun yerine kırk günlük sabit tarife ve açık tartı denetimi sunarım."
 
----
+"Kırk gün kısa."
 
-Togan, o gece, Zaleena'yı, kampın kenarında buldu — ikisi, ilk kez, tam olarak yalnız, sessizce yürüdüler.
+"Deniz görmemiş keçenin limanda satılıp satılmayacağını bilmiyoruz. Kısa olması bu yüzden."
 
-Togan'ın sesi düşünceliydi. "Garip bir hafta oldu."
+Pazarlık sonunda altmış günde kapandı. Kessel ile Batu rakamı tutanağa geçirdi.
 
-Zaleena gülümsedi. "Garip ve güzel. Bilirsin, aylarca, senin adını, garip bir sıcaklıkla duyardım — hiçbir zaman tanışmadan. Şimdi, gerçekten tanıdığıma göre, o sıcaklığın, nereden geldiğini anlıyorum."
+Togan, Zaleena'yı konuk evinin önünde buldu. Elinde Eski-Kent haritasının bir kopyası vardı; Kuru Dere'den kuzeye uzanan güvenli kuyuları işaretlemişti.
 
-"Nereden?" diye sordu Togan, meraklı.
+"Dönüşte güney yolunu kullanmayın," dedi. "İki kuyu çekilmiş."
 
----
+Zaleena haritayı açtı. "Bu bilgiyi kayıt masasına da verdin mi?"
 
-"Sanırım," dedi Zaleena, yavaşça, "çünkü, sen de, ben de, Kaya da, Temujin de, Karia da — hepimiz, bir şekilde, kendi beklenen yollarımızdan saptık, ve kendi yolumuzu, kendi ellerimizle çizdik. Belki, bu, bizi, görmeden bile, birbirimize bağlayan şeydi."
+"Bir saat önce."
 
-Togan, bu düşünceye, derin bir anlayışla karşılık verdi. "Annem, bana, bir keresinde, cesaretin, korkunun tersi olmadığını, sadece, korkuya rağmen, doğru yolu seçmek olduğunu söylemişti — ya da, söylediğini hayal ettim. Sanırım, hepimiz, bu dersi, kendi yolumuzda öğrendik."
+"O zaman sana güvenmem kolaylaşıyor."
 
----
+Togan bu sözün iltifat mı sınama mı olduğuna karar veremedi. Zaleena açıklamadı. Bunun yerine ona Yamalı Liman'ın işaretini taşıyan bir giriş belgesi verdi. Belge, Togan'a ayrıcalık tanımıyor; yalnızca silahı ve taşıdığı Işıyan kalıntıları önceden bildirirse sorgunun açık kurulda yapılmasını güvenceye alıyordu.
 
-Ertesi sabah, veda, hem hüzünlü hem umutlu bir törenle yapıldı — Kaya, Karia'ya ve Zaleena'ya, birer bakır bileklik hediye etti, Sungur dostluğunun işareti olarak.
+Vedada Kaya iki kraliçeye Sungur bilekliği değil, Kuru Dere kurulunun bakır konuk pullarını sundu. Sungurların dostluğu kendi konseylerinin yetkisindeydi; tarafsız yerleşim onların adına söz veremezdi.
 
-Kaya'nın sesi sıcaktı. "Ne zaman dönerseniz, kapımız, size, her zaman açık."
-
-Temujin, Karia'ya, son bir söz söyledi. "Bu ittifak, unutmayacağım, Karia. Ve umarım, bir gün, Genç Kurtlar, seninkine layık bir müttefik olur."
-
-Karia'nın sıcaklığı gerçekti. "Zaten, öylesin."
-
----
-
-Kervan, bozkırdan, Eski-Kent'e, sonra, kendi krallıklarına doğru, yola çıkarken, Zaleena, son bir kez, arkasına döndü — küçük kamp, ufukta, yavaşça küçülüyordu.
-
-"Değişen bir şey var, içimde," dedi Zaleena, Karia'ya, at sürerken. "Bilmiyorum, tam olarak, ne olduğunu. Ama artık, dünyanın, sandığımdan çok daha bağlı, çok daha küçük olduğunu biliyorum."
-
-"Ben de," dedi Karia, yavaşça başını sallayarak. "Ve sanırım, bu, sadece başlangıç."
-
-İki kraliçe, yan yana at sürerek, evlerine doğru, yeni bir anlayışla, yeni bağlarla, yola devam ettiler.
+Kervan hareket ederken Zaleena arkasına bir kez baktı. Sonra Kessel'e dönüşte yapacakları ilk işi söyledi: altmış günlük tarifenin liman panosuna asılması. Bir ziyaretin değeri, ayrılırken taşınan duygudan çok eve götürülen yükte belli olurdu.

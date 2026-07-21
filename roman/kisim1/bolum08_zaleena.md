@@ -1,60 +1,108 @@
 # Bölüm 8 — Kaptanlar Konseyi
 *(ZALEENA)*
 
-Çatlak Kurukafa meyhanesi, Zaleena'nın hafızasında hiç bu kadar dolu görmediği bir kalabalıkla tıka basa doluydu. Normalde burası, sarhoş tayfaların kavga ettiği, zar oynadığı, palavra yarıştırdığı sıradan bir gece yeriydi. Ama bu gece, masaların çoğu boştu — çünkü kaptanların kendileri, meyhanenin arka odasındaki uzun masanın etrafına toplanmıştı, ve bir kaptan orada otururken, mürettebatı dışarıda, sessizce ve tedirginlik içinde bekliyordu.
+Çatlak Kurukafa’nın ana salonunda içki içecek yer kalmamıştı. Buna rağmen meyhane alışılmadık ölçüde sessizdi.
 
-Kaptanlar Konseyi, yılda belki bir kez toplanırdı — ve genellikle sadece herkesi aynı anda tehdit eden bir şey söz konusu olduğunda. Bu gece toplanmasının sebebi bir tehdit değildi. Bir vaatti.
+Kaptanlar arka odadaki uzun masaya toplanmış, tayfaları kapı önünde beklemeye başlamıştı. Yamalı Liman’da kaptanını bekleyen bir mürettebat ya yeni bir savaşa ya da yeni bir borca hazırlanırdı. Bu gece ikisi de mümkündü.
 
-"Tarihin en büyük ganimeti," diyordu Tek-Kol Roric, masanın başında, kanca kolunu masaya vurarak her cümlesinin sonunu noktalıyormuş gibi. "Hasat geldiğinde, Hegemonya'nın bütün donanması kuzeye, Kızıl Hafta'nın yosununu korumaya gidecek. Metheris'in kendisi — hazineleri, ambarları, loncaların bütün serveti — neredeyse korumasız kalacak. Bu, hayatımızda bir daha görmeyeceğimiz bir fırsat."
+Konsey yılda ancak bir kez toplanırdı. Bütün gemileri tehdit eden bir donanma, ortak bir av ya da paylaşılması gereken büyük bir enkaz olmadan yirmi kaptanı aynı masaya oturtmak güçtü.
 
-Masanın etrafında oturan yirmi kadar kaptan, farklı tepkiler veriyordu — bazıları gözlerinde açgözlü bir parıltıyla öne eğiliyor, bazıları kollarını kavuşturmuş şüpheyle dinliyordu. Zaleena, masanın en uzak köşesinde, sessizce oturuyordu; elindeki kadehi bile kaldırmamıştı.
+Roric onları bir vaatle toplamıştı.
 
-"Metheris'in surları var, Roric," dedi kaptanlardan biri, yaşlı ve yara izli bir adam, adı Kessel. "Donanma gitse bile, şehir muhafızları kalır. Ve bu, tek bir gemiyle yapılacak bir iş değil."
+“Tarihin en büyük ganimeti.”
 
-"Tek bir gemiyle değil elbette." Roric'in gözleri, masanın etrafında gezindi, herkesin gözüne tek tek bakarak. "Hepimizin gemileriyle. Tarihte hiç görülmemiş bir filo — Yamalı Liman'ın bütün gücü, tek bir hedefe, tek bir gece için birleşecek. Ondan sonra, herkes kendi yoluna gider, kendi payını alır. Ama o gece — o gece, Kızıl Sirena'nın bile hayal edemeyeceği bir efsane yazacağız."
+Tek-Kol Roric masanın başında ayaktaydı. Kancasını tahtaya her vurduğunda boş kupalar sıçrıyordu.
 
-Bu son cümle, masada bir mırıltı dalgası yarattı — bazıları hevesle, bazıları hâlâ şüpheyle. Zaleena, Roric'in yüzünü izliyordu; adamın gözlerindeki o ışıltı, altına ya da şana değil, başka bir şeye benziyordu. Bir adamın, ölümden önce adının unutulmayacağından emin olmak istemesine.
+“Kızıl Hafta başlayınca Hegemonya donanması kuzeye çıkacak. Gemiler yosun hasadını korurken Metheris’in ambarları, loncaları, hazinesi kıyıda kalacak. Bir daha böyle açık bulamayız.”
 
-"Ve eğer başarısız olursak?" diye sordu Zaleena, sesi ilk kez o gece odada yükseldi — yüksek değil, ama herkesin duyacağı kadar net.
+Kaptanların bir bölümü öne eğildi. Ötekiler kollarını göğsünde kavuşturdu. Zaleena en uzak köşede oturuyor, kimin Roric’e baktığını, kimin komşusunun tepkisini ölçtüğünü izliyordu. Masada duran kadehine dokunmamıştı.
 
-Roric'in gözleri ona döndü, içlerinde tanıdık bir sertlik parladı. "Sessiz Zaleena konuşuyor demek. Nadir bir onur."
+Kessel, yara izli çenesini kaşıdı. “Donanma denize açılınca şehrin surları yok olmuyor. Muhafızlar da kalır. Kaç gemi istiyorsun?”
 
-"Sorunun cevabını vermedin."
+“Hepsini.” Roric kancasını masaya geçirdi. “Yamalı Liman ilk kez tek filo olacak. Bir gece için tek hedef, tek rota. Sonra ganimeti bölüp yine kendi yolumuza gideriz. Kızıl Sirena’nın bile anlatamadığı bir sefer bırakırız ardımızda.”
 
-"Başarısız olmayız." Roric'in sesi kesin, ama Zaleena'nın kulağına fazla kesin geldi — bir adamın, kendi kendine inandırmaya çalıştığı bir yalanın kesinliği gibi. "Bu, Yetim Kıyıları'nın en büyük filosu olacak. Hegemonya bize hazırlıksız yakalanacak."
+Odanın içinde alçak konuşmalar başladı. Roric altından söz ederken insanlara efsane satıyordu. Zaleena, asıl istediğinin pay olmadığını anladı. Yaşlanmıştı; adının kendisinden uzun yaşamasını istiyordu.
 
-"Ya da," dedi Zaleena, sesi sakin, neredeyse ilgisiz, "Hegemonya bunu bekliyordur zaten. Bir kral, ordusunun tamamını kuzeye gönderirken kendi başkentini savunmasız bırakmaz, Roric. Belki de gördüğümüz boşluk, bir boşluk değil bir tuzaktır."
+“Başarısız olursak?” diye sordu.
 
-Masada bir sessizlik çöktü. Roric'in yüzünde bir anlığına öfke belirdi, sonra kontrollü bir sabra dönüştü — Zaleena'yı, herkesin önünde bir düşman gibi görmemek için harcadığı bariz bir çaba. "Sen her zaman en kötüsünü düşünürsün, Zaleena."
+Konuşmalar kesildi. Roric başını çevirdi.
 
-"Ben her zaman hayatta kalırım, Roric. İkisi arasında bir bağlantı olabilir."
+“Sessiz Zaleena konuştu. Gece bereketli.”
 
-Bazı kaptanlar kıkırdadı; gerginlik bir anlığına dağıldı. Roric, bunu bir fırsat gibi kullanarak konuyu değiştirdi, planın ayrıntılarına geçti — hangi gemilerin öne gideceği, hangi rotanın kullanılacağı, ganimetin nasıl paylaşılacağı. Zaleena dinledi, ama zihni çoktan başka bir yere kaymıştı.
+“Cevap vermedin.”
 
----
+“Başarısız olmayacağız.”
 
-Toplantı bittiğinde, kaptanlar teker teker dağıldı — bazıları hevesli, planın bir parçası olmaya razı; bazıları hâlâ tereddütlü, ama kalabalığın akıntısına kapılmış. Zaleena en son çıkanlardan biriydi.
+Roric bunu masadakilere değil, kendine söyledi. Kancasını tahtadan çıkarırken ikinci kez uğraşması gerekti.
 
-Dışarıda, rıhtımın soğuk gece havasında, Sorin onu bekliyordu. "Ne düşünüyorsun, Kaptan?"
+“Bütün gemiler kuzeye gidiyorsa Metheris bunu bizden önce öğrenir,” dedi Zaleena. “Bir kral başkentini boş bırakmaz. Boş görünmesini sağlayabilir.”
 
-"Roric'in filosuna katılan kaptan sayısını sayıyorum," dedi Zaleena, yürürken. "On iki. Belki on üç, eğer Kessel'in tereddüdü para karşılığında eriyecekse — ki genellikle erir."
+Kessel yavaşça başını salladı. İki kaptan bakışlarını kaçırdı. Roric onların tereddüdünü gördü.
 
-"Katılacak mısın?"
+“Sen her zaman en kötü ihtimali seçersin.”
 
-Zaleena bir süre cevap vermedi, gözleri Deniz Hayaleti'ne dikili, geminin karanlıkta sessizce sallanan silüetine. "Hayır," dedi sonunda. "Ama katılmayacağımı da yüksek sesle söylemeyeceğim. Roric'in seferi ya büyük bir zaferle bitecek — ki bu durumda onun gölgesinde kalırım, kayıp bir şey olmaz — ya da büyük bir hezimetle bitecek. Ve hezimet olursa, Enkaz Kralı'nın tahtı bir gecede boşalacak."
+“Hayatta kalan ihtimal çoğu zaman odur.”
 
-Sorin'in gözlerinde bir anlama parıltısı belirdi. "Ve sen orada olacaksın."
+Masanın bir yanından kısa bir kahkaha yükseldi. Roric öfkesini yuttu, önündeki haritayı açtı.
 
-"Ben her zaman oradayım." Zaleena'nın sesinde, ilk kez o gece, gerçek bir şey vardı — sadece hesap değil, bir arzu. "Ama taht için değil, Sorin. Roric'in tacına ihtiyacım yok. Onun oyununu oynamak istemiyorum ki — kaba kuvvet, gösteriş, bir gecelik efsane." Durdu, gözleri karanlık denize dikili. "Ben bambaşka bir şey istiyorum."
+“Korkmak isteyen korksun. Kazanmak isteyen rotaya baksın.”
 
-"Neyi?"
+Jilet Resifleri’nden çıkış, güney akıntısı, gece yaklaşması ve ganimet payları üzerinde konuştular. Zaleena tek kelime etmeden dinledi. Öncü gemilere yazılan adları, geride bırakılacak iskeleleri ve kimsenin erzak hesabı sormadığını aklında tuttu.
 
-Zaleena bir süre sessiz kaldı, sanki bu düşünceyi ilk kez yüksek sesle söylemenin ağırlığını tartıyormuş gibi. "Bu şehrin," dedi yavaşça, "bir gün gerçek bir yer olmasını. Bir kralın gölgesinde yağmalayan bir enkaz yığını değil. Kayıtlı, paylı, kendi kurallarıyla ayakta duran bir yer. Delta'nın parasına muhtaç olmayan. Hegemonya'nın 'haşere' dediği bir şey değil — kendi hakkıyla var olan bir şey."
+Toplantı sona ererken on iki kaptan Roric’in işaretinin altına bıçağını koydu. Üçü ertesi güne kadar süre istedi. Kessel bıçağını kemerinden çıkarmadı.
 
-Sorin'e baktı; genç adamın yüzünde bir şaşkınlık vardı, ama alay yoktu. "Bir bayrak mı istiyorsun, Kaptan?"
+Zaleena de çıkarmadı.
 
-Bu kelime, havada bir anlığına asılı kaldı — Zaleena'nın kendine bile nadiren söylediği bir kelime. "Belki," dedi sonunda, sesi bir itiraftan çok bir sır gibiydi. "Ama bunu kimseye söyleme. Roric bile bilmemeli. Özellikle Roric bilmemeli."
+✦
 
-Gemiye doğru yürürken, rüzgâr yön değiştirdi, ve Zaleena, bir anlığına, denizin kokusuna karışan başka bir şey hissetti — tuzdan ve katrandan değil, daha derinden gelen, ıslak ve eski bir koku. Kaşlarını çattı, ama tanımlayamadı ne olduğunu, ve bir denizci için tanımlayamadığı bir koku, görmezden gelmeyeceği bir uyarıydı.
+Sorin onu meyhanenin dışında bekliyordu. Rıhtım tahtaları gece nemiyle kayganlaşmıştı; birlikte *Deniz Hayaleti*’ne doğru yürüdüler.
 
-Gemiye bindi, ama o gece uzun süre uyuyamadı.
+“Kaç kişi?” diye sordu Sorin.
+
+“On iki kesin. İki kişi daha pay büyürse katılır. Kessel’in fiyatı para değil; dönüş yolu görmek istiyor.”
+
+“Sen?”
+
+“Gitmeyeceğim.”
+
+“Roric’e söyleyecek misin?”
+
+Zaleena bir yük arabasının geçmesi için kenara çekildi. Fıçılar üzerinde Hegemonya mühürleri vardı; savaş planlayan liman, yağmalayacağı şehirden gelen şarabı içiyordu.
+
+“Hayır. Benim gemim olmadan da yola çıkacak. Karşısında durursam önce benimle savaşır.”
+
+“Sefer kazanırsa?”
+
+“Daha güçlü döner. Yamalı Liman bir süre daha onun gürültüsüyle yönetilir.”
+
+“Kaybederse?”
+
+Zaleena adımlarını yavaşlatmadı. “Kaç geminin döndüğüne bakarız. Kimlerin ailesine ödeme yapılacağını, hangi iskelelerin korumasız kaldığını hesaplarız.”
+
+Sorin onun söylemediği şeyi duydu. “Roric’in yeri boşalır.”
+
+“Bir liman yalnız bir adamın yeri boşaldı diye yönetilmez.”
+
+“Sen yönetmek istiyorsun.”
+
+Zaleena durdu. Çatlak Kurukafa’dan taşan ışık Sorin’in yüzünün yarısını aydınlatıyordu. Genç adam meraklıydı; alay etmiyordu.
+
+“Roric’in tacını istemiyorum,” dedi. “Bir gecelik efsanesini de. Bu şehrin ertesi sabah da var olmasını istiyorum. Gemilerin kayda geçtiği, payların kılıçla değil kuralla bölündüğü, Delta para vermediğinde aç kalmayan bir liman.”
+
+“Bir krallık mı?”
+
+“Hayır.” Zaleena, rıhtımdaki eğri evlere baktı. “Kendi hakkıyla duran bir yer.”
+
+Sorin’in ağzının kenarı kıpırdadı. “Öyle yerlerin bayrağı olur.”
+
+Kelime Zaleena’yı hazırlıksız yakaladı. Yıllardır içinde taşıdığı düşünce, başkasının ağzından çıkınca gizlenemeyecek kadar gerçek duyuldu.
+
+“Belki,” dedi. “Ama bunu burada bırak.”
+
+“Roric duymayacak.”
+
+“Roric’ten önce sen unutacaksın.”
+
+*Deniz Hayaleti*’ne vardıklarında Zaleena başını kaldırıp çıplak ana direği ölçtü. Direkte o gece hiçbir sancak yoktu.
+
+Bunun böyle kalmayacağını ilk kez bir başkasına söylemişti.

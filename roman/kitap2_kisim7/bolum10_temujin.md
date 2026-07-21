@@ -1,38 +1,20 @@
-# Bölüm 10 — Yeni Bozkır
+# Bölüm 10 — Doksan Günlük Bozkır
 *(TEMUJİN)*
 
-Korgan'la yapılan anlaşma, kampa döndüklerinde, Temujin'i, hâlâ, gerçek olduğuna, tam olarak inanamadığı bir sersemlikle sarıyordu.
+Tuz Düzlüğü Mutabakatı'nın ilk maddesi ertesi hafta sınandı. Azgut devriyesi Kuru Dere'ye giden bir Temürçi kervanını durdurdu; yükte Delta yapımı üç yay bulundu. Eski düzende mallara el konur, olay casusluk sayılırdı.
 
-Batu, onu, sıcak bir kucaklamayla karşıladı. "Başardın. Gerçekten, başardın."
+Temujin, Elara'nın ticaret kaydıyla Kaan'ın silah listesini karşılaştırdı. Yaylar altı ay önce açık pazardan alınmıştı. Delta yapımı olmaları Delta görevi taşıdıklarını kanıtlamıyordu. Korgan devriyesine yükü serbest bırakma emri verdi; kervan da bir sonraki geçişte silahları önceden bildirmeyi kabul etti.
 
-"Biz, başardık," dedi Temujin, düzelterek. "Sen, Kaya, Togan, Sube, Kaan — herkes, bu anın, bir parçasıydı."
+Bu küçük olay, mutabakatın ilk sonucuydu.
 
----
+Ortak arşiv heyeti beş kişiden kuruldu: bir Azgut, bir Genç Kurt, bir Sungur yazıcı, Eski-Kent'ten Lyra ve Korgan'ın seçtiği bağımsız boy temsilcisi. Temürçiler gözlemci göndermeyi kendi konseylerinde değerlendirecekti. Hiçbiri başka bir topluluğun adına karar vermiyordu.
 
-İlk somut adım, hızla atıldı — Korgan, resmi olarak, Sazlık Taht'la olan bütün gizli anlaşmalarını, dikkatle, gözden geçirmeye başladı; Kaan, bu sürecin, baş danışmanı oldu.
+Kaan, eski Delta aracılarının listesini iletti. Temujin kendi haber ağındaki adlarla karşılaştırdı ve yalnız doğrulanan üç eşleşmeyi geri gönderdi. Geri kalanı şüphe diye işaretledi.
 
-Kaya'nın sesi endişeliydi. "Delta, bunu, hemen fark edecek."
+Batu yeni ittifakı kutlamak istedi.
 
-"Muhtemelen," dedi Temujin. "Ama artık, bozkır, tek bir sesle değil, iki güçlü sesle konuşuyor — ve bu, Delta'yı, daha dikkatli olmaya zorlar."
+"İttifak yok," dedi Temujin. "Doksan gün var."
 
----
+Korgan'ın son notunda sürgün hükmünün kaldırılması için soruşturmanın tamamlanmasını bekleyeceği yazıyordu. Temujin bunu hakaret saymadı; kendisi de Korgan'a güvenmek için aynı süreden fazlasını istiyordu.
 
-Yeşim, bu gelişmeyi, kendi Temürçi bağlantılarına, hızla iletti. "Elara, bunu duyunca, çok mutlu olacak. Belki, üçlü bir ittifak bile mümkün — Azgut, Genç Kurtlar, Temürçi."
-
-Temujin, bu olasılığı, derin bir umutla değerlendirdi. "Bir zamanlar, sadece, bir hayaldi bu. Şimdi... şimdi, gerçekten, mümkün görünüyor."
-
----
-
-O akşam, Togan, Temujin'in yanına oturdu, ikisi, bu tarihi günün, ağırlığını, sessizce paylaştılar.
-
-"Babanın öcünü aldın," dedi Togan, yavaşça, "ama kılıçla değil."
-
-"Belki, en iyi öç," dedi Temujin, düşünceli, "intikam değil, onun ölümünün, sonunda, bir anlam kazanmasıdır. Babam, bozkırın birleşmesini hayal ediyordu. Şimdi, o hayal, onun ölümünün, dolaylı bir sonucu olarak, gerçekleşiyor."
-
----
-
-Kaan'dan, o hafta, son bir mesaj geldi: *Korgan, ilk kez, gerçekten, dinlenmiş görünüyor. Yıllarca taşıdığı bir şüphe, sonunda, gerçeğe dönüştü — ve garip bir şekilde, bu, onu, rahatlatıyor. Sanırım, yalanla yaşamak, gerçekle yüzleşmekten, daha ağırmış.*
-
-Temujin, bu mesajı okurken, kendi kendine düşündü: belki, bütün bu yılların, gerçek dersi, buydu — bazen, en zor gerçekler bile, sonunda, bir özgürleşme getirirdi, hem taşıyana hem de, onu açığa çıkarana.
-
-Bozkır, artık, eskisi gibi değildi — ve Temujin, ilk kez, gerçekten, bu değişimin, kalıcı olacağına, inandı.
+Yeni bozkır henüz doğmamıştı. Eski bozkırın iki parçası, ilk kez aynı yanlış alarmı savaşa çevirmeden çözmüştü. Temujin kalıcılığı büyük sözlerde değil, doksanıncı gün geldiğinde yenilemeye değecek kadar çok böyle olay biriktirmekte arıyordu.

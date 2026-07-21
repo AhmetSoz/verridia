@@ -1,38 +1,34 @@
 # Bölüm 17 — Eve Dönüş
 *(TOGAN)*
 
-Kaya'nın mektubunu, üçüncü kez okuduğunda, Togan, kararını, sonunda, netleştirdi.
+Kaya'nın mektubundan sonraki sabah Togan batı yolunu hazırlamaya başladı.
 
-"Sungurlar'a gitmek istiyorum," dedi, Lyra'nın çalışma odasında, haritayı incelerken. "Kaya'yı, Börü'yü görmek istiyorum — ve bu Temujin'i de. Çok uzun zamandır, kendi klanımdan, sadece mektuplarla haber alıyorum. Zamanı geldi."
+Lyra onu tutmadı. Mirasçı kayıtlarında Dişsiz Ağız ve Sed için bıraktığı raporların birer kopyasını istedi. Togan yerleri işaretlemedi; gördüklerini ve duyduklarını yazdı.
 
-Lyra, bu kararı, anlayışla karşıladı. "Seni tutmayacağım, Togan. Zaten, buraya, sadece bir konuk olarak geldin — Mirasçılar, sana, minnettar, ama sen, kendi yoluna, her zaman özgürsün."
+Ozan vedada ona köprü demeye kalkınca Togan başını salladı.
 
----
+"Köprü olup olmadığımı bilmiyorum. Şimdilik yalnız kapıyı açabildim."
 
-Ozan, vedalaşırken, Togan'ın omzuna, son bir kez, elini koydu.
+"Bu da az değil."
 
-"Git, genç savaşçı," dedi Ozan, sesi, gerçek bir şefkatle. "Kendi halkına dön. Ama unutma — Sed'de öğrendiklerin, seninle kalacak, nereye gidersen git. Sen, artık, sadece bir Sungur savaşçısı değilsin. Sen, iki dünya arasında, bir köprüsün — kırık olsa bile."
+"Fazla ad verirsek ne yaptığımı bildiğimi sanırım."
 
-"Bunu, hiç unutmayacağım," dedi Togan, gerçek bir minnetle.
+Ozan gülümsedi ve düzeltmeyi kabul etti.
 
----
+Perren atları hazırladı. Bu yolculukta kuzeyin gri toprağı değil, üç haftalık bozkır yolu vardı. Yine de dönüş kolay değildi. Togan her gece Sed'de öğrendiği sınır çalışmasını yaptı; ışığı avucunda kısa süre yakıp kendi isteğiyle söndürdü. Baş ağrısı azalmadı.
 
-Perren, hazırlıkları, hızla tamamladı — bu sefer, yolculuk, tehlikeli bir bilinmezliğe değil, bir eve dönüşe doğruydu, ve bu fark, ikisinin de adımlarında, hissedilir bir hafiflik yarattı.
+Sungur sınırına vardıklarında genç devriye eri Sarca onu tanıdı. Atından inip Togan'a sarıldı, ardından bir adım geri çekilip yüzünü kontrol etti.
 
-"Kaya'yı görmek için sabırsızlanıyorum," dedi Perren, atlarını hazırlarken. "Ve merak ediyorum, bu Temujin, gerçekten, nasıl bir adam."
+"Gerçekten sensin."
 
-"Ben de," dedi Togan, ufka bakarak, batıya, aylardır görmediği topraklara doğru. "Garip bir şekilde, hiç tanışmadığım bu adam, benim hikâyemin, hep, bir köşesinde duruyor. Kaya'yı serbest bırakan o. Şimdi de, ona sığınan o. Belki de, kaderin, bir sebebi vardır."
+"Şimdilik."
 
----
+Sarca şakayı anlamadı. Perren güldü.
 
-Yolculuk, üç hafta sürdü — bu kez, ölü topraklar değil, tanıdık bozkır, tanıdık rüzgâr, tanıdık, geniş gökyüzü.
+Obaya haber önden gitti. Yol boyunca yeni savunma hendekleri, Azgut usulü yerleştirilmiş ikmal çadırları ve obanın dışında ayrı bir sürgün kampı gördüler. Temujin'in etkisi yerleşmeye başlamıştı; Sungur işaretleri ise her yerde duruyordu.
 
-Sungur topraklarına yaklaştıklarında, Togan, içinde, yıllar önce hissettiği bir duyguyu, yeniden buldu — ait olma duygusu, ama şimdi, farklı bir katmanla: artık, sadece bir Sungur değil, kendi kanının, kendi seçimlerinin, ağırlığını da taşıyan bir adamdı.
+Togan'ın göğsü sıkıştı. Ev değişmişti. Kendisi de değişmişti. İkisinden hangisinin ötekini tanımayacağını bilmiyordu.
 
-İlk devriyeyle karşılaştıklarında, Togan, kendini tanıttığında, savaşçıların yüzünde, anında, gerçek bir sevinç belirdi.
+Tepeyi aşınca Kaya'nın atını kendisine doğru sürdüğünü gördü. Arkasında Börü, Anya ve yabancı yüzlü iki savaşçı duruyordu.
 
-"Togan! Yaşıyorsun!" Genç bir savaşçı, atından inip, ona sarıldı. "Kaya, seni, her gün sordu. Gel, hemen, kampa götürelim seni."
-
-Togan, bu sıcak karşılamayla, gözlerinde, beklenmedik yaşlarla, kendi kendine düşündü: *ne kadar uzağa gitmiş olursam olayım, ev, hep, buradaydı, beni bekleyerek.*
-
-Kampa doğru at sürerken, Togan, bilmiyordu — birkaç dakika içinde, aylardır, sadece bir isim olan bir adamla, sonunda, yüz yüze geleceğini.
+Togan bunlardan birinin Temujin olduğunu tahmin etti. Önce Kaya'ya baktı ve tahmini unuttu.

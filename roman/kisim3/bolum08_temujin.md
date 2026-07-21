@@ -1,70 +1,92 @@
 # Bölüm 8 — Dağ Eteklerinin Sınavı
 *(TEMUJİN)*
 
-Kartal-Yurdu'nun savunma hattı, Temujin'in beklediğinden daha iyi hazırlanmıştı — dar bir vadi geçidi, iki yanı kayalıklarla çevrili, ve geçidin ağzında, Sungur okçularının, ustalıkla gizlenmiş mevzilerden, her hareketi izleyebileceği bir düzen.
+Kartal-Yurdu geçidi, iki kaya duvarının arasında bir mızrak yarığı kadar dardı. Sungur okçuları girişte görünmüyordu. Ok uçlarının sabah ışığında bir an parlayıp kaybolması, nerede beklediklerini ele veriyordu.
 
-Temujin, uzaktaki tepeden, geçidi bir süre inceledi — Korgan'ın ona verdiği üç yüz akıncı, geçidin dar yapısı yüzünden, doğrudan bir hücumda ağır kayıplar verecekti. Bu, tam olarak Korgan'ın beklediği sonuçtu belki de: ya Temujin geri çekilip "korkak" damgası yer, ya da hücum edip ölürdü.
+Temujin üç yüz kişiyi geçide sürse ilk sıra daha kılıç çekemeden düşerdi.
 
-Ama Temujin, üçüncü bir yol görüyordu.
+Gece Sube'yi elli kişiyle kuzey yamacına gönderdi. Atlar aşağıda kaldı. Adamlar keçi yolunu kullanacak, geçidin üstüne gün ağarmadan varacaktı. Temujin kalan birlikle doğu girişinde iki sıra ateş yaktırdı. Sungurlar, karşılarında olduğundan daha büyük bir kuvvet bulunduğunu sanmalıydı.
 
-"Geçidin üzerindeki kayalıklara bakın," dedi Sube'ye, elindeki haritayı işaret ederek. "Sungurlar, geçidin içine odaklanmış — çünkü bizim de oraya odaklanacağımızı düşünüyorlar. Ama kayalıkların tepesi, kartal gözcüleri olmadan, korunmasız."
+Şafakta ilk otuz atlı ağır ağır ilerledi. Kalkanlarını yüksek tutuyor, nal seslerini çoğaltmak için birbirlerine yakın gidiyorlardı.
 
-"Kartal gözcüleri olmadan mı?" Sube'nin sesinde bir şaşkınlık vardı.
+İlk ok yağmuru üçünü attan indirdi.
 
-"Kaya'yı yakaladık," dedi Temujin, sesi sakin. "Bu bölgenin Rüzgar-Dinleyenler'inin çoğu, ya öldü ya da bizim elimizde. Yeterince gözcü kalmadı, tüm kayalıkları izleyecek. Bu, bir fırsat."
+Temujin geri çekilme borusunu çaldırdı. Sungurlar ikinci atış için siperlerinden kalktı. Tam o sırada kuzey kayalığında Sube'nin kırmızı bezi göründü.
 
-Gece boyunca, Temujin'in en iyi tırmanıcıları, sessizce, geçidin kuzey kayalıklarına tırmandı — Sube'nin önderliğinde, elli kişilik küçük bir kol. Temujin, kalan iki yüz elli akıncıyla, şafak vaktinde, geçidin ağzında, göz alıcı ama yavaş bir ilerleyiş sergiledi — dikkat çekmek için, kayalıklardaki harekete değil, önlerindeki "doğrudan" tehdide odaklanmalarını sağlamak için.
+“Şimdi.”
+
+Azgut boruları birden öttü. Sube'nin adamları okçuların arkasına indi. Temujin iki yüz yirmi atlıyı dar boğaza değil, girişin iki yanındaki taş setlere sürdü. Okçular yön değiştirmek zorunda kalınca ana yol açıldı.
+
+Geçidin içinde at kullanmak mümkün değildi. Temujin eyerden atladı. Kalkanına iki ok çarptı. Sağındaki akıncı boğazından vurulup diz çöktü; Temujin onu çekemedi. Arkadan gelenler boşluğu kapattı.
+
+Sungurlar geri çekilirken tek bir ses düzenlerini yeniden kurdu.
+
+“Sol duvarı bırakmayın!”
+
+Gök-Göz Börü, taş bir basamağın üstünde savaşıyordu. Başındaki kartal sorgucu kırılmış, zırhının göğsü kanla kararmıştı. Yine de yanındaki adamlar onun çevresinde tutunuyordu.
+
+Temujin basamağa ulaştığında Börü kılıcını ona çevirdi.
+
+“Kaya nerede?”
+
+İlk darbe yukarıdan geldi. Temujin kalkanıyla karşıladı. Bileğine kadar uyuştu.
+
+“Hayatta.”
+
+Börü ikinci darbeyi savurdu. “Yalan söylersen seni burada gömerim.”
+
+“Bağlı, yaralı ve öfkeli. Bu kadarını uyduramam.”
+
+Börü'nün kılıcı yarım vuruş gecikti. Temujin aradığı açıklığı buldu fakat boğaza değil omza vurdu. Çelik zırh halkalarını yardı. Börü bir dizinin üzerine indi.
+
+Temujin kılıcının ucunu onun boynuna çevirdi.
+
+Çevrelerinde savaş sürüyordu. Börü ölürse Sungurlar ya dağılacak ya da geçidi mezara çevirecekti. Yaşarsa geri çekilmelerini sağlayabilirdi. Korgan, ölüsünü tercih ederdi.
+
+Bu da ayrı bir gerekçeydi.
+
+“Adamlarını çek,” dedi Temujin.
+
+Börü yaralı omzunu tuttu. “Neden?”
+
+“Geçidi aldım. Cesedine ihtiyacım yok.”
+
+“Korgan'ın vardır.”
+
+“Emri ben veriyorum.”
+
+Börü, Temujin'in arkasındaki Azgutlara baktı. Sonra kendisini çevreleyen Sungurlara seslendi. “Batı çıkışına çekilin. Yaralıları alın.”
+
+Temujin de kendi borucusuna döndü. “Takip yok. Geçidi tutun.”
+
+İki taraf birkaç adım boyunca birbirine sırt çevirmedi. Son Sungur batı kıvrımında kaybolunca Azgutlar taş setleri ele geçirdi.
 
 ---
 
-Şafak söktüğünde, plan işledi.
+Sayım öğleden sonra bitti. Temujin'in on yedi adamı ölmüş, kırk üçü yaralanmıştı. Korgan'ın beklediği kaybın çok altındaydı; yine de Temujin, ölülerin adlarını yazdırmadan zafer habercisini yola çıkarmadı.
 
-Sungur okçuları, geçidin ağzındaki yavaş ilerleyen Azgut kolunu hedef alırken, Sube'nin adamları, kayalıkların tepesinden, arkadan saldırdı — sessiz, hızlı, ve tamamen beklenmedik bir yönden.
+Sube listeyi uzattı. “Börü'yü öldürebilirdiniz.”
 
-Kaos, geçidin içinde hızla yayıldı. Sungur savunması, iki cepheden saldırıya uğrayınca, düzeni bozuldu; ve Temujin, bu kaosun tam ortasında, ana kolunu hızla ileri sürdü.
+“Öldürseydim geçidi kazanır, dağların tamamını düşman ederdim.”
 
-Geçidin içinde, yakın dövüş başladığında, Temujin, bir anlığına, tanıdık bir silüet gördü — geniş omuzlu, kartal işaretli bir zırh taşıyan bir adam, savaşçılarına emirler bağırıyordu, sesi otoriteyle dolu.
+“Korgan kızacak.”
 
-Gök-Göz Börü.
+“Korgan'a geçit lazımdı. Elinde.”
 
-Temujin, bir anlığına durakladı — Han'ın kendisi, savaş meydanının en tehlikeli noktasında, kendi adamlarıyla omuz omuza savaşıyordu. Bu, Temujin'in beklemediği bir cesaretti; çoğu lider, arkada, güvenli bir mesafede kalırdı.
+Temujin dönüşte Kaya'nın çadırına girdi. Üstündeki kurumuş kanı görünce Kaya ayağa kalkmaya çalıştı.
 
-İki savaşçı, kalabalığın içinde, birbirlerine yaklaştı — Börü, Temujin'i fark ettiğinde, gözlerinde bir tanıma parladı; belki casus raporlarından, belki savaş meydanının kendine has diliyle, bu genç adamın önemini anlamıştı.
+“Börü yaşıyor,” dedi Temujin. “Omzundan yaralandı. Adamları onu batıya götürdü.”
 
-Börü'nün sesi soluk soluğaydı ama kesin, kılıcı hazır. "Genç Kurt. Sen misin, Kaya'yı elimden alan?"
+Kaya oturduğu yere geri çöktü. Gözlerini kapatıp bir kez nefes aldı.
 
-Kendi kılıcını çekti. "Benim. Ama o hayatta, Han'ım. Bunu bilmenizi isterim."
+“Teşekkür etmeyeceğim.”
 
-Bu bilgi, Börü'nün gözlerinde bir anlığına bir rahatlama yarattı — ama bu rahatlama, savaşın ortasında, uzun sürmedi. İki adam, kılıçlarını çekerek, birbirine saldırdı.
+“İstemedim.”
 
-Çatışma, kısa ama şiddetliydi — Börü, yılların savaş tecrübesiyle güçlü ve kararlıydı, ama yorgunluk ve sayısal dezavantaj, onu yavaşlatıyordu. Temujin, daha genç, daha çevikti, ama Börü'nün deneyimi, her darbeyi hesaplı kılıyordu.
+“Onu neden bıraktın?”
 
-Sonunda, Temujin, bir fırsat buldu — Börü'nün bir anlık dengesizliğinden yararlanarak, kılıcını, Han'ın omzuna sapladı, öldürücü olmayan ama derin bir yara açarak.
+“Yaşayan bir Han çekilmeyi emredebilir.”
 
-Börü, acıyla geri sendeledi, ama düşmedi. Temujin, öldürücü darbeyi indirmek için bir an duraksadı — ve bu duraksama, kendi içindeki bir hesabın sonucuydu: Börü'yü öldürmek, Sungurlar'ı liderliksiz bırakır, ama aynı zamanda, onları çaresiz bir intikam çılgınlığına da sürükleyebilirdi. Yaralı ama yaşayan bir Han ise, belki daha yönetilebilir bir düşmandı.
+Kaya gözlerini açtı. “Sadece bu mu?”
 
-"Geri çekilin!" diye bağırdı Temujin, kendi adamlarına, beklenmedik bir emirle. "Yeterince kan döküldü bugün!"
-
-Bu emir, hem kendi adamlarını hem de Sungurlar'ı şaşırttı. Temujin, yaralı Börü'nün önünde durdu, kılıcını indirmeden ama saldırmadan da.
-
-"Neden?" Börü'nün sesi acıyla titriyordu, ama gözlerinde bir merak vardı.
-
-"Bu geçidi aldım zaten, Han'ım." Temujin'in sesi sakindi. "Sizi öldürmek, bana bir şey katmaz — sadece klanınızın öfkesini, hesapsız bir intikama dönüştürür. Ben, hesapsız düşmanlarla uğraşmak istemiyorum."
-
-Börü, ona uzun bir süre baktı, sonra, adamlarının onu geri çekmesine izin vererek, geçidin derinliklerine doğru çekildi — yenilmiş ama yaşayan bir lider.
-
----
-
-Geçit, öğleye doğru, tamamen Azgutlar'ın eline geçmişti — Sungur savunması kırılmış, geri kalanlar, dağların daha derinlerine çekilmişti. Temujin'in kayıpları, beklenenden çok daha azdı; ve zaferi, hem sayısal hem de stratejik olarak, tartışılmaz bir başarıydı.
-
-Ama Temujin, bu zaferin ortasında, garip bir huzursuzluk hissetti — Börü'yü öldürmemesi, hesaplı bir karardı, evet, ama içinde, bir şey de vardı ki bunu tam olarak hesap diye adlandıramıyordu: bir düşmana duyulan, istemsiz bir saygı.
-
-Sube, yanına geldi, sesinde bir hayranlık ve şaşkınlık karışımı vardı. "Han Börü'yü öldürebilirdin. Neden bırakın?"
-
-Gözleri, Sungurlar'ın çekildiği dağlara dikiliydi. "Bazen bir düşmanı öldürmemek, onu öldürmekten daha büyük bir zafer olur. Zamanla göreceksin, Sube."
-
-Ordugâha döndüğünde, bu zaferin haberi, Korgan'a ulaştığında, Han'ın tepkisi karışıktı — gurur ve tedirginlik, bir kez daha, aynı anda. Ama Temujin, artık, bu tedirginliğin, kendisi için bir tehdit olduğu kadar, bir fırsat da olduğunu biliyordu.
-
-O gece, Kaya'nın çadırına son bir kez uğradı, ona Börü'nün hayatta olduğunu, sadece yaralı olduğunu söyledi. Kaya'nın gözlerindeki rahatlama, Temujin'in içinde, garip bir tatmin yarattı — düşmanının minnettarlığı, Korgan'ın hiçbir onurundan daha değerli hissettiriyordu ona.
-
-Kızıl Hafta, kapıdaydı artık — ve Temujin, kendi zaferinin, aslında çok daha büyük bir fırtınanın sadece ilk dalgası olduğunu hissetti içgüdüsel olarak.
+Temujin cevap vermedi. Çadırdan çıktığında habercinin atı çoktan güneye koşuyordu. Korgan birkaç saat içinde hem geçidin alındığını hem Börü'nün yaşadığını öğrenecekti. Hangi habere daha çok öfkeleneceğini Temujin merak etmiyordu; biliyordu.

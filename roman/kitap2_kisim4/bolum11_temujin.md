@@ -1,38 +1,24 @@
-# Bölüm 11 — İki Stratejist
+# Bölüm 11 — Delilin Kullanımı
 *(TEMUJİN)*
 
-Temujin, üçüncü günün akşamında, Karia'yı, kendi çadırına, özel bir konuşma için davet etti — bu, kolay verilmiş bir karar değildi, ama Togan'ın, kraliçeye duyduğu güven, ona, cesaret vermişti.
+Temujin, Karia'ya Kael'in dosyasını değil, dosya için hazırlanan kaynak çizelgesini gösterdi. Kopyaların hangi tarihte alındığı, hangi mühürlerin doğrulanmadığı ve Toruk'un ifadesinde açık kalan yerler tek sayfada yazılıydı.
 
-"Sana, bir şey göstermek istiyorum," dedi Temujin, Malakor'un dosyasını, dikkatle masaya koyarak. "Ama önce, söz vermeni istiyorum — bu bilgi, doğru zamanda, doğru şekilde kullanılana kadar, gizli kalacak."
+"Asılları görmeden suçlama yapmayacağım," dedi. "Ama bu izi Delta'nın arşivine nasıl götüreceğimi bilmiyorum."
 
-Karia, bu ciddiyeti, dikkatle karşıladı. "Söz veriyorum."
+Karia ilk önerisini hemen söylemedi. Toruk'un güvenliğini, Kael'in kopyalara erişimini ve Amara'nın Sarris'ten kalan kadrolar üzerindeki denetimini sordu.
 
----
+"Amara'ya üstü kapalı tehdit gönderirsen dosyayı saklamak için gerekçe verirsin," dedi sonunda. "Ona denetlenebilir bir talep gönder. İki mühür numarası, ödeme tarihi ve bağımsız bir gözlemci iste. Suçlamayı değil, kaydı aradığını açıkça yaz."
 
-Dosyayı okuduktan sonra, Karia'nın yüzü, derin bir şaşkınlıkla gölgelendi. "Bu... bu, Delta'nın, yıllardır sakladığı, en büyük sırlarından biri olmalı."
+"Reddederse?"
 
-Temujin başını salladı. "Öyle. Ve düşünüyorum ki, belki, senin, Delta'yla olan deneyimin — Sarris'in düşüşü, Vorlag meselesi — bana, bu bilgiyi, nasıl kullanmam gerektiği konusunda, değerli bir bakış açısı sunabilir."
+"Reddini de kayda geçirirsin. Ama elindeki eksik belgeyi pazarlık kozu yapmazsın. Bir sırrı baskı için kullanırsan açığa çıkmasını hiçbir zaman gerçekten istemediğin düşünülür."
 
----
+Temujin bu ayrımı beğendi. Amara'ya gidecek talebin Kuru Dere adına değil, Bozan'ın ölümünü araştıran üç kişilik geçici kurul adına yazılmasına karar verdiler. Kurulda bir Genç Kurt, bir Sungur ve tarafsız bir Eski-Kent yazıcısı bulunacaktı. Azgutlara da aynı anda bilgi verilecek, fakat Toruk'un bulunduğu yer açıklanmayacaktı.
 
-Karia, uzun bir süre, dosyayı, tekrar inceledi, sonra, dikkatli bir strateji önerdi. "Bunu, hemen kullanma, Temujin — tıpkı düşündüğün gibi. Ama Amara'ya, dolaylı olarak, bu bilginin varlığından haberdar olduğunu sezdir. Delta'nın yeni önderliği, eski suçları, örtbas etmek istemez — bu, onların, yeni imajlarına zarar verir. Belki, bu bilgi, açıklanmadan, sadece, bir baskı aracı olarak bile, işe yarayabilir."
+Karia, bozkır haberleri karşılığında Hegemonya desteği teklif etmedi. Bunun yerine iki yönetimin açık kaynaklı sınır raporlarını düzenli değiş tokuş etmesini önerdi. Temujin kabul etti; gizli muhbir listeleri ve askerî hazırlıklar kapsam dışında kalacaktı.
 
-Temujin'in sesi düşünceliydi. "İlginç bir yaklaşım. Sen, gerçekten, bu oyunları, iyi anlıyorsun."
+Gece biterken masada bir dostluk yemini yoktu. Amara'ya gönderilecek taslak, delil zincirinin kopyası ve rapor paylaşımının altı aylık deneme maddeleri vardı.
 
----
+Temujin kâğıtları toplarken Karia'ya baktı. "İnsanlar seni iyi bir oyun kurucu diye anlatıyor."
 
-"Yıllarca," dedi Karia, yorgun bir gülümsemeyle, "bu oyunları, sert yollarla öğrendim. Severin, Vorlag, Sarris — hepsi, bana, farklı dersler verdi."
-
-Temujin, bu deneyimi, derin bir saygıyla dinledi. "Belki, bu ziyaret, sadece bir dostluk değil — gerçek bir müttefiklik de olabilir. Genç Kurtlar, büyüdükçe, senin deneyiminden, çok şey öğrenebilir."
-
-"Ve belki," dedi Karia, "senin, bozkırdaki bağlantıların, benim için de, değerli olur — özellikle, Korgan'ın gelecekteki hamleleri konusunda."
-
----
-
-İki stratejist, gece geç saatlere kadar, konuştular — Delta'nın karmaşık yapısı, bozkırın değişen dengeleri, Hegemonya'nın kendi iç meseleleri, hepsi, dikkatle tartışıldı.
-
-Togan, çadırın dışından geçerken, bu uzun konuşmayı fark etti, ve Zaleena'ya, hafif bir gülümsemeyle döndü. "Görünüşe göre, Temujin, yeni bir dost buldu."
-
-Zaleena'nın sesi düşünceliydi. "Ya da yeni bir müttefik. Karia, herkesi, hemen etkilemez — ama etkilediğinde, bu, kalıcı olur."
-
-O gece, kampta, dört farklı yoldan gelen dört insan, sadece kişisel dostluklar değil, gerçek, stratejik bağlar da kurmaya başlamıştı — geleceğin, hangi şekilleri alacağını, henüz kimse bilmiyordu, ama hepsi, bu geleceğin, artık, birlikte inşa edileceğini, hissediyordu.
+"Oyunları yeterince gördüm," dedi Karia. "Şimdi kurala ihtiyacım var."

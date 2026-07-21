@@ -1,70 +1,108 @@
 # Bölüm 9 — Gölgedeki Bıçak
-*(KARİA)*
+*(KARIA)*
 
-Vârislik ilan edildikten sonraki ilk hafta, Karia'nın hayatını, garip bir çift katmanlı gerçekliğe dönüştürmüştü — bir yandan, donanmasının ve halkının saygısı, her zamankinden daha görünür bir şekilde etrafını sarıyordu; diğer yandan, sarayın gölgeleri, her zamankinden daha tehlikeli bir şekilde onu izliyordu.
+Faelan, av davetini Karia'nın masasının üzerine bıraktı.
 
-Faelan, bir gece, alışılmadık bir aciliyetle, Karia'nın özel çalışma odasına geldi.
+Kalın kâğıtta Sör Valerius'un mührü vardı. Şehir dışındaki geyik sayısının arttığı, Gelgit Vârisi'nin halkın tarlalarını tehdit eden sürüyü bizzat görmesinin uygun olacağı yazılmıştı.
 
-Sesi her zamankinden daha ciddiydi. "Leydi'm, bir şey duydum, ve bunu hemen size getirmem gerektiğini düşündüm. Sör Valerius, gizlice, birkaç eski asker arkadaşıyla görüşüyor — eskiden onun komutası altında savaşmış, şimdi ise gölgede yaşayan adamlarla. Amaçları belli değil, ama toplandıkları yer ve zamanlama, hoş olmayan bir şeye işaret ediyor."
+“Bu kadar kötü bir davet hazırlamak için yardım almış olmalı,” dedi Karia.
 
-Karia'nın içi soğudu, ama sesi sakin kaldı. "Bir suikast mi?"
+Faelan gülmedi. İkinci kâğıdı çıkardı. Aynı yolun kömürle çizilmiş bir krokisiydi. Dar bir köprü işaretlenmiş, yanına dört adam için ödeme tutarı yazılmıştı.
 
-"Muhtemelen. Ya da bir kaçırma. Valerius, açıkça sizi tahttan uzaklaştırmak istiyor, ve resmi yollar — Konsey'i ikna etmek gibi — artık kapalı görünüyor ona. Umutsuz adamlar, umutsuz yöntemlere başvurur."
+“Bunu Valerius'un eski deniz piyadelerinden biri getirdi,” dedi. “Av günü köprünün korkuluğunu sökeceklermiş. Atınız suya düşecek. Akıntının işi sayılacak.”
 
-Karia, uzun bir süre düşündü, zihni hızla olasılıkları tartıyordu. "Ne öneriyorsun?"
+“Adam nerede?”
 
-"Önlem almanızı öneririm, Leydi'm. Muhafızlarınızı artırın, rutinlerinizi değiştirin, tahmin edilebilir olmayın." Faelan, bir an durdu, sonra ekledi, sesi daha da alçalarak: "Ya da, eğer isterseniz, ben, kendi yöntemlerimle, bu tehdidi daha kalıcı bir şekilde ortadan kaldırabilirim."
+“Muhafız odasında. Kendi isteğiyle geldi ama henüz güvenmiyorum.”
 
-Karia, bu teklifin altındaki anlamı net bir şekilde anladı — bir suikast, karşı bir suikastla önlenebilirdi. Ama bu, geçmeyi reddettiği bir sınırdı.
+Karia iki kâğıdı yan yana koydu. El yazıları farklıydı. Mühür yalnızca davetteydi.
 
-"Hayır," dedi, sesi kesin. "Ben, gölgelerin oyununu oynamayacağım, Faelan. Eğer Valerius, açık bir suç işlerse, onu açıkça, kanıtlarla, Konsey'in önünde hesaba çekerim. Ama onu gölgede öldürtmek... bu, tam da onun gibi olmak demektir. Ve ben, onun gibi olmak istemiyorum."
+“Bu, Valerius'u suçlamaya yetmez.”
 
-Faelan, ona uzun bir süre baktı, gözlerinde bir karışık saygı ve hayal kırıklığı vardı. "Bu, sizi bir gün öldürebilir, Leydi'm — bu ahlaki katılık."
+“Onu suçlamadan ortadan kaldırabilirim.”
 
-"Belki," dedi Karia, sesi yorgun ama kararlı. "Ama eğer öleceksem, en azından kendi ilkelerime sadık kalarak öleceğim."
+Karia başını kaldırdı.
 
----
+“Avda kaza sadece bir kişinin başına gelmez,” dedi Faelan. “Köprüden o da düşebilir.”
 
-O gece geç saatlerde, Karia'nın odasına, beklenmedik bir ziyaretçi geldi — kimliğini gizlemiş, ama duruşundan asker olduğu belli olan bir adam.
+“Hayır.”
 
-Muhafızlar, onu durdurmaya çalıştığında, adam, ellerini kaldırarak, silahsız olduğunu gösterdi. "Sadece konuşmak istiyorum, Amiral. Sör Valerius hakkında."
+“Bir gün bu cevabınız sizi öldürecek.”
 
-Karia, dikkatli bir mesafeyle, adamı içeri aldı. "Kimsin sen?"
-
-"Adım önemli değil," dedi adam, sesi gergindi. "Sadece şunu bilmenizi istiyorum — Sör Valerius, beni ve birkaç başka eski askeri, size karşı bir şey planlamak için topladı. Ama ben... ben bunu yapamam. Sizin donanmanızda yıllarca hizmet ettim, Amiral. Sizin liyakatinize inanıyorum. Ve bir suikaste ortak olmak, benim onurumu, geri dönülmez bir şekilde lekeler."
-
-Bu itiraf, Karia'nın içinde, hem bir rahatlama hem de derin bir üzüntü yarattı — Valerius'un çaresizliği, artık kendi adamlarını bile bu tür bir ihanete sürükleyecek kadar derinleşmişti.
-
-Karia'nın sesi yumuşamıştı. "Sana teşekkür ederim. Bu cesaretin için. Sana bir zarar gelmeyecek, söz veriyorum. Ve Valerius'un planı hakkında bana daha fazla detay verebilirsen, bunu, kanıtlı bir şekilde, Konsey'e sunabilirim — kimseyi öldürmeden, ama gerçeği açığa çıkararak."
-
-Adam, rahatlamış bir şekilde, bildiği her şeyi anlattı — Valerius'un planının, önümüzdeki hafta, bir "av gezisi" bahanesiyle, Karia'yı şehir dışına çekip orada bir "kaza" düzenlemek olduğunu.
+“Bugün değil. Bugün bana dört iyi muhafız ve kırık bir köprü bul.”
 
 ---
 
-Ertesi gün, Karia, elindeki bu yeni kanıtla, sessizce, Sör Kaelan'ı ziyaret etti — akıl hocasının bilgeliğine, bir kez daha ihtiyacı vardı.
+Karia daveti kabul ettiğini duyurdu. Av sabahı saraydan kendi atıyla çıktı; yüz adım sonra kapalı bir arabaya geçti. Zırhını giymiş Leydi Calder, Karia'nın pelerinini omzuna alıp kafilenin önünde sürdü.
 
-"Onu şimdi ifşa edebilirim," dedi Karia, kanıtı anlatarak. "Konsey'in önünde, açıkça."
+Faelan'ın adamları gece köprünün altına saklanmıştı.
 
-Kaelan, uzun bir süre düşündü, gözleri ateşe dikili. "Yapabilirsin," dedi sonunda. "Ve belki de yapmalısın — Valerius, artık açıkça tehlikeli. Ama bir şeyi hatırla, Karia: onu ifşa ettiğinde, sadece onu değil, ailesini de, Valerius Hanedanı'nın adını da lekelemiş olursun. Ve Hegemonya, şu anda, bir Gelgit Lordu'nun daha düşüşünü kaldıracak durumda mı, emin değilim."
+Dört saldırgan öğleye doğru geldi. Korkulukları gevşettikleri sırada yakalandılar. Biri kaçmaya çalışırken bacağını kırdı; diğerleri kılıç çekmeden teslim oldu. Üzerlerinden aynı darphaneden çıkmış gümüşler ve Valerius hanesinin ambar fişi bulundu.
 
-Karia, bu uyarıyı ciddiye aldı. "Peki ne öneriyorsun?"
+En genci sorgunun ilk saatinde konuştu. Emri doğrudan Valerius'tan almamıştı. Parayı onun silahşoru vermişti. Buluşma yeri, saat ve işaret cümlesi kayda geçirildi.
 
-"Onunla özel olarak yüzleş," dedi Kaelan. "Kanıtı göster, ama açık bir savaş ilan etmeden. Ona bir seçenek sun — sessizce geri çekilmek, ya da açıkça yıkılmak. Çoğu gururlu adam, ilk seçeneği tercih eder, en azından gururlarının son kırıntısını korumak için."
+Karia, silahşoru o gece aldırdı. Adamın odasında Valerius'un el yazısıyla hazırlanmış ödeme listesi bulundu.
+
+Faelan dosyayı kapatıp Karia'ya uzattı. “Artık yeter.”
+
+“Kral için yeter.”
+
+“Konsey için de.”
+
+“Konsey bunu görürse Valerius'un bütün hanesi yargılanır. Onun suçunu yüzlerce kişinin boynuna asmayacağım.”
+
+Faelan kaşını kaldırdı. “Merhamet?”
+
+“İsrafı önlemek.”
 
 ---
 
-Karia, Valerius'la özel bir görüşme ayarladı, ve kanıtı önüne koyduğunda, genç şövalyenin yüzündeki öfke, hızla bir dehşete dönüştü.
+Kral Theodoric dosyayı yatağında okudu. Son sayfaya geldiğinde sol eli titriyordu.
 
-"Bunu Konsey'e götürebilirim," dedi Karia, sesi sakin ama kesin. "Ve eğer götürürsem, sadece senin adın değil, hanedanının onuru da sonsuza dek lekelenir. Ama bunun yerine, sana bir seçenek sunuyorum: sessizce geri çekil. Kuzey seferlerine katıl, uzakta, şerefli bir şekilde savaş. Ve bu meseleyi, ikimiz arasında kalan bir sır olarak gömelim."
+“Onu astırabilirim,” dedi.
 
-Valerius, uzun bir süre sessiz kaldı, gururu ile hayatta kalma içgüdüsü arasında sıkışmış. "Neden bana bu şansı veriyorsun?" diye sordu sonunda, sesi şüpheyle dolu. "Beni yok edebilirdin."
+“Evet, Majesteleri.”
 
-"Çünkü," dedi Karia, sesi yorgun ama dürüst, "Hegemonya'nın, bu hasat öncesi, bir Gelgit Lordu ailesinin daha çöküşünü kaldıracak gücü yok. Ve çünkü, seni yok etmek, beni de biraz senin gibi yapardı — kazanmak için her yolu mübah gören biri. Ben, o kişi olmak istemiyorum."
+“Bunu istemiyorsun.”
 
-Valerius, ona uzun bir süre baktı, sonra, yenilginin ağırlığıyla, başını eğdi. "Anlaştık, Amiral. Kuzeye gideceğim."
+“Yargılama aylar sürer. Vorlag bunu hanedan savaşına çevirir. Valerius'a itiraf ve sürgün seçeneği verin. Reddederse Konsey'e çıkarırız.”
+
+Kral, oğlundan kalan yüzüğü çevirdi. “Beni öldürmeye kalksaydı aynı şeyi söyler miydin?”
+
+“Hayır.”
+
+Theodoric ilk kez Karia'ya baktı. “Neden?”
+
+“Çünkü o zaman hüküm verme hakkı bana ait olmazdı.”
+
+Kral kâğıt istedi. Sürgün emrini kendi eliyle yazdı ve mühürledi.
 
 ---
 
-Karia, o akşam, penceresinden dışarı, limana baktığında, garip bir yorgunluk ve garip bir tatmin hissetti aynı anda. Bir tehdidi savuşturmuştu — kılıçla değil, ilkeleriyle. Ama biliyordu ki, önünde, daha büyük fırtınalar bekliyordu; ve her birini, aynı ilkelerle atlatabilecek miydi, emin değildi.
+Valerius, akşam Karia'nın çalışma odasına getirildi. Masada ödeme listesi, ambar fişi ve mühürlü emir duruyordu.
 
-"Kızıl Hafta yaklaşıyor," diye mırıldandı kendi kendine. "Ve ben, hâlâ, kendi tahtımın ne kadar sağlam olduğundan emin değilim."
+“Silahşorun itiraf etti,” dedi Karia. “Dört adam da gözetimimizde.”
+
+Valerius hiçbirine dokunmadı. “Ne istiyorsun?”
+
+“Rütbeni bırakacaksın. Şafaktan önce Metheris'ten çıkacaksın. Kralın yazılı izni olmadan Hegemonya toprağına dönmeyeceksin.”
+
+“Ya reddedersem?”
+
+“Konsey önünde yargılanırsın.”
+
+“Beni öldürmeye cesaret edemiyorsun.”
+
+Karia sürgün emrini ona doğru itti. “Seni öldürmek kolay. Yaşayıp seçiminin sonucunu taşıyacaksın.”
+
+Valerius mührü kırmadan yazıyı okudu. Yüzündeki öfke yerini hesap yapmaya bıraktı. Dışarıda dostları, parası ve yeniden dönmek için zamanı olacaktı. Karia onun bunu düşündüğünü gördü.
+
+“Bu bir bağış değil,” dedi. “Sınırda adam tutacağım. Dönersen mahkeme seçeneğin kalmaz.”
+
+Valerius kalemi aldı. İtirafın altını imzaladı.
+
+Kapıda durup son kez arkasına baktı. “Taht sana ait değil.”
+
+“Bu gece tartıştığımız suç da o değil.”
+
+Kapı kapandıktan sonra Karia dosyanın bir kopyasını kralın kasasına, ötekini kendi sandığına koydu. İlkelerini korumuştu. Tehdidi bitirmemiş, yalnızca surların dışına taşımıştı. İki sonucu birbirine karıştırmadı.

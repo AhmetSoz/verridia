@@ -1,48 +1,44 @@
 # Bölüm 16 — Sadakatin Bedeli
 *(ZALEENA)*
 
-Draven'ın son raporu, Zaleena'yı, gerçek bir şaşkınlıkla karşıladı.
+Draven, Amara'nın bazı kaptanlara doğrudan tedarik hesabı açmaya hazırlandığını bildirdi. Anlaşmayı bozmadan Kaptanlar Konseyi'ni tek tek borçlandırabilirdi.
 
-Draven'ın sesi, artık, tam bir güvenle çıkıyordu. "Amara, bir şey planlıyor. Tam olarak ne olduğunu bilmiyorum, ama bir 'yeni tedarik hattı'ndan bahsetti — Yamalı Liman'a değil, doğrudan, Kaptanlar Konseyi'nin bazı üyelerine, bireysel olarak."
+"Kimler?" dedi Zaleena.
 
-Zaleena, bu haberi, dikkatle dinledi. "Beni atlayarak mı?"
+"İki ad duydum. Üçüncüyü doğrulayamadım."
 
-"Öyle görünüyor. Sanırım, Amara, hâlâ, bir şekilde, kontrolü, tamamen bırakmak istemiyor."
+"Doğrulamadığını yazma. İlk ikisinin teklif almasını engelleme. Koşulları görelim."
 
----
+Draven ayrıldıktan sonra Kessel onun neden hâlâ serbest olduğunu sordu.
 
-"İyi iş çıkardın, Draven," dedi Zaleena, gerçek bir takdirle. "Bu bilgi, değerli."
+"Çünkü bilgi getiriyor. Bu, affedildiği anlamına gelmiyor."
 
-Draven, bu övgüye, garip bir gururla karşılık verdi. "Bir zamanlar, sizi sattığım için, bunu, telafi etmeye çalışıyorum, Kraliçem. Belki, tam olarak asla telafi edemem. Ama deniyorum."
+"Sana kendini kanıtlamaya çalışıyor."
 
-Zaleena, yavaşça başını salladı. "Deniyorsun, ve bu, bir şey ifade ediyor, Draven. Geçmiş, değiştirilemez. Ama gelecek, hâlâ, senin elinde."
+"Bana değil, gelecekteki hükmüne."
 
----
+Kessel masanın karşısında kaldı. Uzun süredir birlikte çalışıyorlardı; bu gece rapor için gelmemişti.
 
-Draven ayrıldıktan sonra, Kessel, Zaleena'nın yanına geldi — son zamanlarda, artık, sıradan raporların ötesinde, garip bir yakınlıkla.
+"Bir şey söylemek istiyorum," dedi. "Yanlış zamansa durdur."
 
-"İyi yönetiyorsun onu," dedi Kessel, hafif bir gülümsemeyle.
+Zaleena bekledi.
 
-Zaleena'nın sesi düşünceliydi. "Herkes, ikinci bir şansı hak eder, sanırım — eğer, o şansı, gerçekten kullanmaya çalışıyorlarsa."
+"Seni yalnız kraliçem olarak görmüyorum. Yıllardır görmüyorum."
 
-Kessel, uzun bir süre, ona baktı — Zaleena, bu bakışta, alışılmadık bir şey fark etti, sıradan bir sadakatten daha derin bir şey.
+Söz gösterişli değildi. Bu yüzden Zaleena onu hafife alamadı.
 
-"Ne var?" diye sordu Zaleena, hafif bir tedirginlikle.
+"Şu anda karşılığını veremem," dedi. "Bunun görevlerini değiştirmesine de izin veremem."
 
----
+"Karşılık istemiyorum. Bilmeni istedim."
 
-Kessel, bir an, tereddüt etti, sonra, dürüstçe konuştu. "Yıllardır, seninle çalışıyorum, Zaleena — Kraliçem. Ve bazen, merak ediyorum, bütün bu yıllar boyunca, sadece bir danışman olarak mı kaldım, yoksa..."
+"Bilmek de bir şey değiştirir."
 
-Cümlesini bitirmedi, ama Zaleena, anlamını, tam olarak kavradı — kalbinde, beklenmedik bir sıcaklık, ve aynı zamanda, gerçek bir tedirginlik uyandı.
+Kessel bunu kabul etti. Kapıya yönelirken Zaleena onu durdurdu.
 
-"Kessel," dedi Zaleena, yavaşça, dikkatle kelimelerini seçerek, "sana, değer veriyorum — çok. Ama şu anda, kraliçeliğim, hâlâ, o kadar yeni, o kadar kırılgan ki, kişisel hayatımı, düşünecek zamanım bile yok."
+"Bir gün bu konuşmaya dönebilirim. Söz değil. İhtimal."
 
-"Anlıyorum," dedi Kessel, hafif bir hayal kırıklığıyla, ama saygıyla. "Acele etmiyorum, Zaleena. Sadece... bir gün, belki, bunu, düşünmeye zamanın olur diye umuyorum."
+"Bana yeter."
 
----
+Yalnız kalınca Zaleena işine dönmeye çalıştı. Draven'ın raporundaki iki ismin altını çizdi. Kessel'in cümlesi ise kâğıtta olmadığı hâlde daha çok yer kaplıyordu.
 
-O gece, kamarasında, tek başına otururken, Zaleena, Kessel'in sözlerini, uzun bir süre düşündü — Karia'nın, kendi mektuplarında, benzer bir kararsızlıktan bahsettiğini hatırlayarak.
-
-*Belki de,* diye düşündü Zaleena, *hepimiz, aynı soruyla boğuşuyoruz — nasıl, hem bir lider hem de bir insan olarak kalınır. Nasıl, bir krallığı yönetirken, kendi kalbimizi de, tamamen unutmayız.*
-
-Cevabı, henüz bilmiyordu. Ama en azından, artık, sorunun kendisini, açıkça görebiliyordu — ve bazen, düşündü Zaleena, bir soruyu görmek, cevabı bulmanın ilk adımıydı.
+Liderlik ona duygusuz olmayı öğretmemişti. Yalnız duyguyla emir arasına mesafe koymayı öğrenmişti. O gece bu mesafeyi korudu; yok saymadı.

@@ -1,36 +1,18 @@
-# Bölüm 4 — Delta Konseyi
+# Bölüm 4 — Delta Kurulunun Oyu
 *(ZALEENA)*
 
-Amara'nın, Delta Konseyi'ni, Malakor hakkında topladığı haberi, Zaleena'ya ulaştığında, Kessel, hemen, bunun, ne kadar büyük bir olay olduğunu, fark etti.
+Neris'in raporu Delta kurulundaki oylamadan bir gün sonra geldi. Yedi üyenin dördü Fısıltı Ustalığı makamının saha yetkisini askıya almaya oy vermişti. Üç üye, dış baskı altında alınan kararın Delta'yı zayıflatacağını savunmuştu.
 
-"Delta, kendi içinde, nadiren, bu kadar açık bir hesaplaşma yaşar," dedi Kessel. "Bu, gerçekten, büyük bir kriz olmalı."
+Karar altı maddeydi. Yarım çember işaretli bütün ajanlar geri çağrılacak, beş ticaret hesabı mühürlenecek ve sağlık ya da soy bilgisi taşıyan kişilere ilişkin operasyonlar kurul iznine bağlanacaktı. Kuru Dere baskınının emir zincirini bağımsız heyet inceleyecekti. Malakor unvanını taşıyan görevli otuz gün içinde ifade vermek zorundaydı.
 
-Zaleena, bu düşünceye, katıldı. "Ve belki, bizim için, büyük bir fırsat."
+Görev sona erdirilmemişti. Arşivi teslim etme emri de tam uygulanmamıştı. Neris, iki kasanın açıldığını, üçünün anahtarının bulunamadığının söylendiğini yazdı.
 
----
+Zaleena kararı gerçek ama eksik saydı. Yamalı Liman'daki aktif hesaba koyulan iki imza şartı sürecekti. Delta kurulunun mührü tek başına kısıtı kaldırmayacak; Neris'in hesap kapatma tutanağı beklenecekti.
 
-Serel, Mirasçı kanallarından, konseyin, ilk sonuçlarını, hızla, Zaleena'ya iletti. "Malakor, resmi olarak, sorgulanıyor. Bazı üyeler, onun, 'göreve son verilmesini' bile öneriyor."
+Draven, Malakor'un ifade vermeyeceğini düşündü. "Bu makam yıllarca hesap vermemek için kurulmuş."
 
-"Bu, umduğumdan bile, daha hızlı ilerliyor," dedi Zaleena, şaşkınlıkla.
+"O zaman gelmediği de kayda geçer," dedi Zaleena.
 
----
+Togan'a gönderilen haberde zafer sözcüğü kullanılmadı. Saha operasyonları askıya alınmış, hesaplar mühürlenmiş ve görevli çağrılmıştı. Kaçırma girişiminin hesabı henüz soruluyordu.
 
-Draven, kendi eski bağlantılarından, ek bir bilgi getirdi. "Malakor, kendini savunmaya çalışıyor — Togan'ın kanının, 'Delta'nın güvenliği için' gerekli olduğunu, iddia ediyor. Ama kimse, artık, onu, tam olarak dinlemiyor gibi görünüyor."
-
-Roric, bu gelişmeyi, temkinli bir iyimserlikle karşıladı. "Belki, sonunda, Malakor'un, hesabı görülüyor."
-
----
-
-Mira, Genç Denizciler Meclisi'nde, bu krizin, geniş anlamını, dikkatle tartıştı. "Bu, bize, gösteriyor ki, hiçbir güç, ne kadar gizli, ne kadar korkutucu olursa olsun, sonsuza kadar, hesap vermeden, duramaz."
-
-"Umarım, haklısın," dedi Zaleena, düşünceli.
-
----
-
-O hafta, Amara'dan, son bir mesaj geldi: *Malakor, resmi olarak, kısıtlandı — tam yetkisi, elinden alındı. Togan'a karşı, herhangi bir operasyon, artık, Delta'nın onayı olmadan, yapılamaz. Bu, tam bir zafer değil — Malakor, hâlâ, bir yerde, bir etkiye sahip. Ama önemli bir sınırlama.*
-
-Zaleena, bu haberi, derin bir rahatlamayla okudu. "Tam değil, ama gerçek bir zafer."
-
-Kessel, bu habere, gülümseyerek karşılık verdi. "Togan, artık, biraz daha güvende."
-
-Zaleena, bu düşünceye, sessizce başını salladı — ve o gece, Karia'ya, kısa ama umut dolu bir mektup yazdı: *Malakor kısıtlandı. Tam bitmedi, ama önemli bir adım. Belki, yavaş yavaş, bütün gölgeler, ışığa çıkıyor.*
+Kessel en azından biraz nefes alabileceklerini söyledi. Zaleena aynı fikirdeydi; fakat liman kısıtlarını gevşetmedi. Bir makamın dört oyla sınırlandırılması önemliydi. Dört oyun, ertesi ay değişebileceğini unutmamak daha önemliydi.

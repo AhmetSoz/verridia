@@ -1,44 +1,26 @@
-# Bölüm 1 — Yemin-Bozan'ın Dönüşü
+# Bölüm 1 — Kael'in Emaneti
 *(TOGAN)*
 
-Kael, ikinci kez, Genç Kurtlar'ın kampına, hiçbir haber vermeden geldi — aynı tozlu pelerin, aynı hesaplı gülümseme, ama gözlerinde, Togan'ın, ilk karşılaşmalarında görmediği bir şey: acele.
+Kael öğle nöbetinde Kuru Dere'ye geldi. Atının böğrü köpük içindeydi; pelerininin eteğine üç ayrı yolun çamuru yapışmıştı. Her zamanki gülümsemesini takınmaya çalıştıysa da soluğu ona fırsat vermedi.
 
-Togan, adamı, temkinle karşıladı. "Seni, tekrar görmek, hoş bir sürpriz."
+Togan adamı önce suya, sonra gölgeye oturttu. Temujin çağrılana kadar tek soru sormadı. Kael'in sağ elindeki titremeyi, çantasını dizlerinin arasında sıkıştırışını izledi.
 
-"Sürpriz olmayabilir," dedi Kael, dolambaçsız. "Seni, bir süredir, izliyordum uzaktan. Sed'e ikinci gidişini, biliyorum. Ve bu, beni, ilgilendiren bir şey haline getirdi — bir kez daha."
+"Peşimde Malakor'un adamları var," dedi Kael. "Bu kez pazarlık etmek için gelmiyorlar."
 
----
+Çantasından deri kaplı ince bir dosya çıkardı. İçinde ödeme çizelgeleri, mühür kopyaları ve aynı emri farklı tarihlerde anan üç kısa rapor vardı. Hepsi Bozan Han'ın yirmi dört yıl önceki ölümüne uzanıyordu.
 
-Temujin, bu konuşmaya, dikkatle katıldı. "Ne istiyorsun, Kael?"
+Temujin ilk sayfayı okuyunca çenesini sıktı. Bozan, Korgan'dan önce bozkırı bir arada tutan handı. Av kazası sayılan ölümü, yalnızca bir adamı değil, boylar arasındaki dengeyi de ortadan kaldırmıştı.
 
-Kael'in sesi, ilk kez, gerçek bir ciddiyetle çıktı. "Bir uyarı. Malakor, beni, arıyor — yakından. Ve eğer, beni bulursa, muhtemelen, bildiklerimin çoğunu, ondan önce, birine emanet etmem gerekecek. Düşündüm ki, belki, bu emanet, sana ait olmalı, Togan."
+"Bunlar kanıt mı, yem mi?" diye sordu Togan.
 
-Togan'ın içi, tedirginlikle doldu. "Neden bana?"
+"Kopya," dedi Kael. "Asıllar bende değil. Fakat mühür numaraları denetlenebilir. Ödeme satırındaki ad da hâlâ yaşıyor: Toruk."
 
----
+Togan dosyayı hemen açmadı. Kael'in nabzı hâlâ hızlıydı; korkusu gerçek olabilirdi, anlattıkları değil.
 
-"Çünkü," dedi Kael, yavaşça, "sen, tek kişisin, tanıdığım, bilgiyi, güç için değil, anlamak için isteyen. Ve bu bilgi..." Durdu, çantasından, o eski, deri kaplı defteri çıkararak. "Bu, sadece Praetorianlar hakkında değil. Bu, Malakor'un, yıllardır sakladığı bir dosyanın kopyası — Bozan Han'ın suikastının, gerçek failinin kanıtı."
+"Bunu neden bize bıraktın?"
 
-Temujin, bu isimle, aniden, dikkat kesildi. "Babamın suikastı mı?"
+Kael bir süre su tasına baktı. "Bilgiyi yıllarca en yüksek fiyatı verene sattım. Malakor beni bulursa bu dosya da benimle gömülür. Bir kopyanın, onu hemen silaha çevirmeyecek insanlarda kalmasını istedim."
 
----
+Temujin, Kaya ile iki kâtip çağırmayı önerdi. Dosya sayfa sayfa kayda geçirilecek, her kopya ayrı mühürlenecekti. Kael de nereden ne zaman aldığını tanıkların önünde anlatacaktı.
 
-Kael, bu tepkiye, hafif bir şaşkınlıkla baktı. "Bilmiyordum, senin, onun oğlu olduğunu. İlginç bir tesadüf." Sonra, yavaşça, defteri, Togan'a uzattı. "Bu, size, ikinize de, ait olabilir öyleyse. Delta'nın, o gece, gerçekte ne yaptığının kanıtı — Sarris'in selefinin emriyle."
-
-Togan, defteri, dikkatle aldı, ağırlığını, hem fiziksel hem de sembolik olarak hissederek.
-
-"Neden, bunu, kendine saklamıyorsun?" diye sordu Togan.
-
-"Çünkü," dedi Kael, geri çekilirken, sesi, ilk kez, gerçek bir yorgunlukla doluydu, "bir ömür boyu, bilgiyi, herkese, bir fiyat karşılığında sattım — ve şimdi, hayatımın sonunda, belki, bir kere olsun, karşılıksız bir şey yapmak istiyorum. Bunu, doğru kullanın — ya da, hiç kullanmayın. Karar, sizin."
-
----
-
-Kael, gittikten sonra, Temujin, defteri, uzun bir süre, sessizce inceledi.
-
-"Bu, gerçekse," dedi Temujin, sesi, ağır bir duyguyla, "babamın gerçek katilinin kim olduğunu, sonunda öğrenebilirim."
-
-"Ne yapacaksın, öğrenirsen?" diye sordu Togan.
-
-Temujin, uzun bir süre düşündü, sonra, yavaşça. "Bilmiyorum. Ama biliyorum ki, bu bilgiyi, dikkatle, sabırla kullanmam gerekecek — tıpkı, sana öğrettiğim gibi, ya da, senin bana öğrettiğin gibi. Bazen, en güçlü silah, hemen kullanılmayan silahtır."
-
-Togan, bu söze, yavaşça başını salladı — ve iki dost, o gece, Kael'in bıraktığı ağır mirası, birlikte, dikkatle incelemeye başladılar.
+Togan ancak o zaman deriye dokundu. Çanta hafifti. İçindekilerin açabileceği yara değildi.

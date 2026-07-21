@@ -1,38 +1,28 @@
 # Bölüm 14 — Örsün Halefi
 *(TEMUJİN)*
 
-Haber, Yeşim'in kanalından, bir ay sonra geldi — Usta Hekat, sonunda, vefat etmişti, ve halef yarışı, açık bir çatışmaya dönüşmüştü.
+Usta Hekat öldüğünde Darga olağanüstü konsey topladı. Elara'nın şaheserini süre dolmadan hazırladığını ve dışarıdan yardım aldığını ileri sürdü.
 
-"Darga, hemen, kendi şaheserini sundu," dedi Yeşim, sesi gergin. "Ama Elara, hazırlıklıydı — senin uyarın sayesinde. Kendi şaheserini, çok daha erken, Ustalar Konseyi'ne sunmuştu, resmi bir kayıtla, tarih damgalı."
+Yeşim haberi yüksek sesle okurken elleri titriyordu.
 
-Temujin, bu haberi, dikkatle dinledi. "Darga, ne yapmaya çalıştı?"
+Elara hazırlıklıydı. Şaheserini Temujin'in uyarısından önce tamamladığını gösteren atölye kayıtları vardı; uyarıdan sonra yalnız Konsey kasasına erken teslim etmişti. Beş usta tarih mühürlerini doğruladı.
 
----
+Darga'nın sunduğu tanıklardan biri ifadesini geri çekti. Suçlama çöktü. Halef oylamasında Elara açık çoğunlukla Usta Başı seçildi.
 
-Yeşim, devam etti. "Elara'yı, şaheserini, geç sunmakla suçlamaya çalıştı — kuralları çiğnediği iddiasıyla. Ama Elara, önceden kaydedilmiş belgesiyle, bu suçlamayı, kolayca çürüttü. Darga, açıkça, yalan söylediği ortaya çıkınca, kendi desteğinin çoğunu kaybetti."
+İki hafta sonra Genç Kurtlara ticaret teklifi geldi. Temürçiler alet ve silahı piyasa fiyatından sağlayacak, ilk yıl teslimatta öncelik verecekti. Karşılığında Kuru Dere kuzey kervan yolunun güvenliğini üstlenecekti.
 
-Kaya, bu gelişmeye, gerçek bir memnuniyetle karşılık verdi. "Senin erken uyarın, gerçekten, fark yaratmış."
+Batu özel indirim bekledi. "Hayatını kurtardık sayılır."
 
-"Belki," dedi Temujin, alçakgönüllülükle, "ama gerçek zafer, Elara'nın kendi hazırlığıydı. Ben, sadece, bir ipucu verdim."
+"Uyarı gönderdik," dedi Yeşim. "Seçimi kendi kazandı."
 
----
+Temujin de aynı fikirdeydi. Borç ilişkisine dayalı ayrıcalık istemedi. Öncelikli teslimatın süresi ve karşılığı yazılıydı; bu yeterliydi.
 
-İki hafta sonra, resmi haber geldi — Elara, yeni Usta Başı olarak seçilmişti, Darga'nın kanadı, ciddi bir itibar kaybıyla, geri çekilmek zorunda kalmıştı.
+Anlaşma meclis kurulmadan önce topluluk toplantısında okundu. Üç kişi yol güvenliğinin fazla asker gerektireceğini söyledi. Temujin nöbetçi sayısını hesaplatıp yükümlülüğü ayda iki kervanla sınırladı.
 
-Elara'nın kendi eliyle yazdığı bir mektup, kısa süre sonra, Temujin'e ulaştı: *Borcumu, unutmadım, Temujin. Yeni Usta Başı olarak, ilk kararlarımdan biri, Genç Kurtlar'la, resmi bir ticaret anlaşması olacak — özel fiyatlarla, öncelikli teslimatla. Bu, sadece bir teşekkür değil — gerçek bir ittifak teklifi."
+Metin düzeltildikten sonra kabul edildi.
 
----
+Elara'nın kişisel notu Yeşim'e hitap ediyordu: *Haberi kendi adınla verdiğin için teşekkür ederim. Dönmek istersen kapın açık. Kalırsan da ustalığını tanıyacağız.*
 
-Bu haber, kampta, büyük bir sevinçle karşılandı — Genç Kurtlar, ilk kez, bir devlet düzeyinde, resmi bir ticaret ortaklığı kazanıyordu.
+Yeşim Kuru Dere'de kalmayı seçti. İlk Temürçi ocağını kurmak için gelen alet sandığını kendisi açtı.
 
-Batu, haritaya, yeni bir bağlantı çizdi. "Bu, bizi, gerçekten, ciddiye alınan bir güç yapıyor. Temürçi silahları, kalitesiyle ünlü."
-
-Temujin, bu gelişmeyi, derin bir tatminle izledi. "Görüyorsunuz — kılıçla değil, sabırla, doğru anda, doğru yatırımla, gerçek güç inşa ediliyor."
-
-Togan, yanında, sessizce gülümsedi. "Annenin, sana, öğrettiği bir şey mi bu?"
-
----
-
-"Belki," dedi Temujin, düşünceli, gözlerini, uzaktaki Yıldız-Örsü'nün, artık dost bir krater olan siluetine dikerek. "Ya da belki, sadece, hayatın, bana, sabırla öğrettiği bir ders. Ne olursa olsun — bugün, iyi bir gün."
-
-Kampta, o gece, ilk kez, gerçek bir kutlama düzenlendi — küçük, ama gerçek bir topluluğun, ilk büyük, resmi zaferinin kutlaması. Ve Temujin, ateşin başında, kendi halkına — artık, gerçekten, "halkım" diyebileceği insanlara — bakarken, bir zamanlar, sadece bir hayal olan şeyin, yavaşça, somut bir gerçeğe dönüştüğünü hissetti.
+Genç Kurtların ilk büyük ticaret ortaklığı kutlama konuşmasıyla değil, teslim alınan çekiçlerin tek tek sayılmasıyla başladı.

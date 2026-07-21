@@ -1,38 +1,16 @@
-# Bölüm 3 — Meclisin İlk Sınavı
-*(KARİA)*
+# Bölüm 3 — Eksik Hasat
+*(KARIA)*
 
-Kuzey eyaletlerinden gelen kötü hasat haberi, Bilgeler Meclisi'nin, kuruluşundan sonraki, ilk gerçek krizini getirdi.
+Kuzeyden gelen üç hasat raporu aynı hafta masaya düştü. Wren rakamları birleştirdiğinde bölgenin kış sonuna kadar on sekiz bin çuval açık vereceği ortaya çıktı. Bu kıtlık ilanı için yeterli değildi; beklemek için de fazla büyüktü.
 
-"Üç bölge," dedi Wren, raporunu sunarken, sesi endişeli, "beklenen hasadın, yarısından azını aldı. Kışa kadar, ciddi bir kıtlık riski var."
+Bilgeler Meclisi üç ayrı öneri sundu. Toma güney tahılının denizden taşınmasını, Osric ordu ambarlarının beşte birinin açılmasını istedi. Wren, tohumluk payına dokunulmaması ve dağıtımın nüfusa değil mevcut stokla hane büyüklüğüne göre yapılması gerektiğini savundu.
 
-Karia, bu haberi, dikkatle dinledi. "Öneriler?"
+Meclis karar veremezdi. Çoğunluk raporu Toma ile Wren'in planını birleştirdi; Osric ise deniz filosu gecikirse ordunun önce devreye girmesini isteyen azınlık görüşü yazdı.
 
----
+Karia raporları Konsey'e taşıdı. Hazine, güney tahılını almaya yetiyordu; taşıma bedeli için ek vergi gerekiyordu. Karia yeni vergi yerine saray onarım bütçesini dondurmayı ve açığın kalanını acil fondan karşılamayı önerdi. Konsey bir yıllık kesintiyi onayladı.
 
-Toma, denizcilik deneyiminden, bir çözüm önerdi. "Güney bölgelerinden, deniz yoluyla, hızlı bir erzak transferi düzenleyebiliriz — Yamalı Liman'ın gemileri, bize, yardımcı olabilir."
+Zaleena'dan yardım değil, fiyat ve gemi takvimi istendi. Tohumluk çuvallar kırmızı mühürle ayrıldı. Ordu ambarları ise ilk konvoy gecikirse açılmak üzere yedekte tutuldu.
 
-Osric, askeri bakış açısıyla, farklı bir öneri sundu. "Ordu ambarlarından, acil bir kısmını, sivil kullanıma açabiliriz — tam bir kriz değilse de, önlem olarak."
+İlk ay iki köyde pay kavgası çıktı. Bir dağıtım memuru akrabasının hanesine fazla çuval yazdığı için görevden alındı. Karia bu olayları başarı raporundan çıkarmadı.
 
-Wren, kendi alanından, üçüncü bir öneri getirdi. "Ve gelecek yıl için, farklı bölgelerde, farklı ürünler ekmeyi teşvik etmeliyiz — tek bir hasat başarısızlığının, bu kadar geniş etki yapmaması için."
-
----
-
-Karia, bu üç öneriyi, dikkatle birleştirdi. "Üçünü de uygulayacağız. Toma, Zaleena'yla iletişime geç — deniz transferi için. Osric, ordu ambarlarının, ne kadarının, güvenle açılabileceğini hesapla. Wren, gelecek yıl için, bir çeşitlilik planı hazırla."
-
-Bu, meclisin, ilk gerçek, koordine edilmiş kararıydı — üç farklı bakış açısı, tek bir, kapsamlı çözüme dönüşmüştü.
-
----
-
-Zaleena'nın cevabı, hızlı ve cömertti — Yamalı Liman'ın gemileri, bir hafta içinde, güney erzağını, kuzey eyaletlerine taşımaya başladı.
-
-"Bu," dedi Kaelan, gelişmeleri izlerken, "tam olarak, umduğum şey, evladım. Farklı sesler, tek bir krize, birlikte, hızlı ve etkili bir şekilde cevap verdi."
-
-Karia, bu başarıyı, gururla ama alçakgönüllülükle karşıladı. "Meclisin başarısı — benim değil."
-
----
-
-Kriz, iki ay içinde, ciddi bir kayıp olmadan, atlatıldı — ve bu, Bilgeler Meclisi'nin, sadece bir deney değil, gerçek bir yönetim aracı olduğunu, herkese kanıtladı.
-
-Elowen, bu süreci, dikkatle, tarihe kaydetti. "Bu, gelecekte, örnek gösterilecek bir olay olacak, Karia — kriz zamanında, paylaşılan liderliğin, gücünü kanıtlayan bir olay."
-
-Karia, bu düşünceye, derin bir tatminle karşılık verdi. "Umarım. Çünkü, bu, tam olarak, göstermek istediğim şeydi — güç, paylaşıldığında, azalmaz. Büyür."
+Kuzey kıtlığı önlenmiş sayılmıyordu. Yalnız açık ölçülmüş, para bulunmuş ve ilk sevkiyat için süre başlamıştı. Bilgeler Meclisi'nin sınavı güzel bir plan üretmek değil, plan bozulduğunda hatanın kime ait olduğunu gösterebilmekti.

@@ -1,38 +1,28 @@
 # Bölüm 12 — Derinleşen Bağlar
 *(ZALEENA)*
 
-Vesna, ikinci ziyaretinde, artık, tamamen farklı bir tavırla geldi — temkinli bir düşman değil, gerçek bir müttefik adayı.
+Vesna ikinci resmî ziyaretinde savunma ittifakı önerdi. Akıntı yaratıklarının göçü iki tarafın sularını da etkiliyordu; ayrı devriyeler aynı izleri iki kez kaydediyordu.
 
-"Halkım, barışı, kabullenmeye başladı," dedi Vesna, Zaleena'nın masasına otururken. "Ve şimdi, daha büyük bir şey önermek istiyorum — sadece bir ateşkes değil, gerçek bir savunma ittifakı. Akıntı-Yaratıkları, her iki halkımızı da tehdit ediyor. Birlikte, daha güçlü olabiliriz."
+Zaleena hemen kabul etmedi. Harita istedi.
 
-Zaleena, bu teklifi, uzun bir süre düşündü, içinde, gerçek bir heyecanla. "Ne tür bir ittifak?"
+Vesna son altı aylık saldırıları işaretledi. Göç hattı kuzeydoğudan geliyor, ortak balıkçılık bölgesinde ikiye ayrılıyordu.
 
----
+Kessel üç maddelik deneme planı hazırladı. Devriyeler karma mürettebat taşımayacak, fakat aynı saatte paralel rota kullanacaktı. İşaret dili ortaklaştırılacak, kurtarma yükümlülüğü bayraktan bağımsız olacaktı. Filo komutası iki tarafta kalacaktı.
 
-Vesna, devam etti. "Ortak devriyeler. Paylaşılan istihbarat, yaratık göçlerinin haritalanması. Ve belki, ileride, ortak bir savunma filosu — ikimizin de, tek başına karşılayamayacağı tehditlere karşı."
+"Birleşik filo istemiştim," dedi Vesna.
 
-"Kabul ediyorum," dedi Zaleena, tereddütsüz. "Bu, tam olarak, hayalini kurduğum şeye benziyor — Enkaz sularının, sadece hayatta kalınan değil, gerçekten yönetilen bir bölge olması."
+"Önce iki filonun aynı emre gerek kalmadan iş yapabildiğini görelim," dedi Zaleena. "Altı ay sonra komuta konusunu açarız."
 
-Vesna, bu cevaba, gerçek bir gülümsemeyle karşılık verdi. "O zaman, detayları, birlikte planlayalım."
+Vesna deneme süresini kabul etti. İlk ortak eğitim için iki kaptan seçildi.
 
----
+Aynı akşam Serel'den Eski-Kent haberi geldi. Togan Sed yolculuğundan dönmüştü. Ayrıntılar gizliydi; Lyra yalnız sağ olduğunu bildirmişti.
 
-Görüşme, saatler sürdü — devriye rotaları, sinyal sistemleri, ortak eğitim programları, hepsi, dikkatle tartışıldı. Kessel, tartışmanın büyük kısmına katıldı, teknik detayları not alarak.
+Zaleena bu adı artık üçüncü kez okuyordu. Kayıtlara göre Sungurdu ve Eski-Kent'le bozkır arasında gidip geliyordu. Karia'nın bahsettiği Temujin ise şimdi Sungurlardaydı.
 
-Görüşme bittiğinde, Roric, Zaleena'nın yanına geldi, yüzünde, gerçek bir gurur vardı.
+"Aynı obada buluşabilirler," dedi Kessel.
 
-"Bir zamanlar, birbirimizi öldürmeye çalışan iki halk," dedi Roric, yavaşça, "şimdi, birlikte, ortak bir düşmana karşı duruyor. Bunu, hayal bile edemezdim, Zaleena."
+"Bizi ilgilendiren kısmı olursa haber gelir."
 
-Zaleena'nın gülümsemesi hafifti. "Dünya, değişiyor. Ve bazen, iyiye doğru."
+Zaleena iki ismin yanına soru işareti koymadı. Bunun yerine Serel'e Mirasçı heyetinin ikinci sevkiyatını ve şifahane eğitimini sordu.
 
----
-
-O akşam, Kâtip Serel'den, kısa bir mektup geldi — düzenli hale gelen bir yazışmanın parçası.
-
-*Küçük bir not,* diye yazmıştı Serel, *belki ilginizi çeker: geçen mektubumda bahsettiğim genç savaşçı, Togan, uzun ve tehlikeli bir yolculuktan, sağ salim döndü — nereye gittiğini tam bilmiyorum, Mirasçılar arasında bile gizli tutuluyor. Ama Baş Kâtip Lyra, ondan bahsederken, sesinde, büyük bir rahatlama vardı.*
-
-Zaleena, bu satırı okurken, hafif bir merakla gülümsedi — bu isim, hâlâ, ona hiçbir şey ifade etmiyordu, ama garip bir şekilde, her duyduğunda, ona, bir tür sıcaklık hissettiriyordu, sanki, uzaktan, tanımadığı bir dostun haberini alıyormuş gibi.
-
-Mektubu, diğerlerinin yanına koyarken, Zaleena, kendi kendine düşündü: *Verridia, ne kadar büyük olursa olsun, bazen, ne kadar küçük hissettiriyor — herkesin hikayesi, bir şekilde, bir başkasınınkine dokunuyor.*
-
-Kamarasından çıkıp, güverteye adım attığında, gece rüzgârı, ona, Enkaz sularının tuzlu kokusunu getirdi — artık, sadece kendi evi değil, iki halkın, ortak bir geleceğe doğru, birlikte yürüdüğü bir ev.
+Vesna'nın gemisi ertesi sabah ilk paralel devriyeye çıktı. Zaleena kuzey kulesinden iki ayrı bayrağın aynı rota üzerinde mesafelerini koruyarak ilerlediğini gördü. İttifak sözle değil, ilk yanlış işarette birbirlerine çarpmadan dönebilirlerse başlayacaktı.

@@ -1,50 +1,46 @@
 # Bölüm 18 — Yalnız Kartal
 *(TEMUJİN)*
 
-Kampta, ani bir hareketlilik başladığında — atlar, sevinç çığlıkları, koşan insanlar — Temujin, ilk anda, bunun, yeni bir tehdit olduğunu düşündü, elini, içgüdüsel olarak, kılıcının kabzasına götürerek.
+Obadaki sevinç sesleri yükselince Temujin elini boş kemerine götürdü. Sığınma koşulları gereği kılıcı yoktu.
 
-Ama Batu, yanından, gülümseyerek, onu durdurdu. "Sakin ol. Bu, bir saldırı değil — bir dönüş."
+Kaya atlıya koştu. Togan eyerden iner inmez birbirlerine sarıldılar. Temujin uzaktan bekledi; bu karşılamada kendisine yer yoktu.
 
-Kaya, kendi çadırından, neredeyse koşarak çıktı, yüzünde, Temujin'in, haftalardır görmediği bir sevinçle. "Togan! Sonunda!"
+Kaya bir süre sonra onu çağırdı.
 
----
+"Togan, bu Temujin."
 
-Temujin, bu ismi duyduğunda, bir an, donakaldı — Kaya'nın, geçen hafta, ona bahsettiği isim, aniden, gerçek bir insana dönüşüyordu.
+Togan'ın sol bileğinde bez sargı vardı. Omzunda kartal taşıyordu. İlk bakışı Temujin'in yüzüne değil, silahsız kemerine indi.
 
-Atlısını, yavaşça durdurup inen adam, uzun boylu, kaslı, dağınık siyah örgülü, ve gözlerinde, Temujin'in, kendi aynasında da tanıdığı bir şey taşıyordu — uzun bir yolun, ağır bir yükün, izlerini.
+"Kaya'yı sen serbest bıraktın."
 
-Kaya, ona sarıldı, uzun bir süre, hiç konuşmadan — sonra, geri çekilip, Temujin'e döndü, sesi, garip bir heyecanla.
+"Evet."
 
-"Togan," dedi Kaya, "sana, bahsettiğim adam bu. Temujin."
+"Teşekkür ederim."
 
----
+Temujin başını eğdi. "Onu borç yaratmak için bırakmadım."
 
-İki adam, bir an, sessizce, birbirine baktı — Temujin, kendi kalbinin, beklenmedik bir şekilde, hızlandığını hissetti.
+"Borcun niyetini sen seçemezsin. Ödenme biçimini ben seçerim."
 
-"Sen," dedi Togan, sesi, dikkatli ama düşmanca değil, "Kaya'yı esir alan, sonra serbest bırakan adamsın."
+Bu cevap Temujin'in hoşuna gitti. "Nasıl ödeyeceksin?"
 
-"Öyleyim." Temujin, bu karşılaşmanın ağırlığını, tam olarak hissederek, başını eğdi — bir saygı işareti. "Ve sen, sanırım, onun, çocukluk dostu. Kaya, senden, sık sık bahsetti."
+"Önce burada ne yaptığını anlayacağım."
 
-Togan, uzun bir süre, ona baktı, sonra, yavaşça, gerginliği, bir merakla yumuşayarak. "Garip bir şey bu. Aylardır, senin adını, farklı ağızlardan duyuyorum — bir borç hissi, hiç tanışmadan. Ve şimdi, sonunda, yüz yüzeyiz."
+Togan, sürgünlerin ağıllarını ve Sungur nöbetlerini sordu. Kaya meclis koşullarını anlattı. Temujin konuşmaya katılmadı; kendisini savunmak için acele ederse karşısındaki adam bunu fark edecekti.
 
----
+Akşam ateş başında ilk uzun konuşmalarını yaptılar. Temujin Kartal Burnu anlaşmasını anlattı. Togan, Han'ın emrini askerlerden gizlemesini sorguladı.
 
-"Borç mu?" diye sordu Temujin, meraklı.
+"Binlerce insan yaşayacaktı," dedi Temujin.
 
-"Kaya'yı serbest bıraktığında," dedi Togan, yavaşça, "bir şekilde, benim de içimde, sana karşı, garip bir minnet oluştu — tanımadığım bir adama karşı. Şimdi anlıyorum ki, bu, tesadüf değildi belki. Belki, hikayelerimiz, en başından beri, birbirine dokunuyordu."
+"Kararı tek başına verdin."
 
-Temujin, bu sözleri, derin bir düşünceyle dinledi. "Benim de, garip bir şekilde, senin ismini duyduğumu hatırlıyorum — Kaya'dan, bir keresinde. O zaman, hiçbir şey ifade etmemişti. Şimdi..." Durdu, gözlerini, Togan'ın gözlerine dikerek. "Şimdi, seninle, tanışmak, garip bir şekilde, uzun zamandır beklediğim bir an gibi hissettiriyor."
+"Doğru karar olduğu için."
 
----
+"Korgan da kendi kararlarına öyle diyordur."
 
-Kaya, ikisine, sırayla bakarak, hafifçe güldü. "İkiniz de, birbirinize, çok benziyorsunuz — farkında mısınız? İkiniz de, kendi klanınızın, beklediği yoldan, farklı bir yol seçtiniz. İkiniz de, taşıdığınız yükü, sessizce taşıyorsunuz."
+Temujin cevap vermeden önce düşündü. Togan'ın onu kutsamasını beklememişti, fakat minnetin bu kadar çabuk itiraza dönüşmesi yine de şaşırttı.
 
-Togan ve Temujin, bu gözleme, aynı anda, garip bir gülümsemeyle karşılık verdi.
+"Sungur meclisi bana aynı şeyi öğretiyor," dedi.
 
-"Belki de bu yüzden," dedi Temujin, "birbirimizi, düşman olarak değil, bir tür ayna olarak görmemiz gerek."
+Togan ateşe bir çalı parçası attı. "Öğreniyorsan konuşacak şeyimiz var."
 
-Togan, yavaşça başını salladı. "Belki de haklısın."
-
-O akşam, ateşin başında, iki adam, saatlerce konuştu — kendi yolculuklarını, kendi kayıplarını, kendi umutlarını paylaşarak. Ve kampın geri kalanı, uzaktan, bu garip, beklenmedik dostluğun, yavaşça filizlenişini izledi — bir zamanlar, birbirinin düşmanı olması beklenen iki adamın, şimdi, aynı ateşin etrafında, aynı sorularla boğuşarak oturuşunu.
-
-Temujin, o gece, çadırına dönerken, kendi kendine düşündü: Yeva'nın kehaneti, bir kayıptan bahsetmişti, üç Kızıl Ay boyunca. Ama belki de, aynı zamanda, bu kayıp, yeni bir şeyin de, sessizce, doğmasına izin vermişti.
+Gece sonunda dost olmadılar. Birbirlerini merak etmeye ve birbirlerinin kolay cevabını bozmaya başladılar. Temujin için bu, hızlı bir dostluktan daha güvenilir bir başlangıçtı.

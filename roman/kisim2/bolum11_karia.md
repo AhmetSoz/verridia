@@ -1,56 +1,76 @@
 # Bölüm 11 — Ufuktaki Yelkenler
-*(KARİA)*
+*(KARIA)*
 
-Kral'ın durumu üç gündür değişmemişti — ne daha iyi, ne daha kötü, sadece kırılgan bir denge içinde asılı kalmıştı. Karia, bu üç günü, sarayın gerginliğini yönetmeye, Vorlag'ın manevralarını izlemeye ve donanmasının hazırlığını denetlemeye adamıştı — neredeyse hiç uyumadan.
+Kral’ın durumu üç gün boyunca değişmedi. Dördüncü sabah doğu gözcüsü sekiz savaş gemisi bildirdi.
 
-Dördüncü sabah, bir gözcü kulesinden gelen haber, her şeyi bir kez daha değiştirdi.
+Karia haberi çalışma odasında aldı. “Bayrak?”
 
-"Amiral!" Genç bir subay, nefes nefese, Karia'nın çalışma odasına daldı. "Ufukta gemiler görüldü! Doğudan yaklaşıyorlar — sekiz gemi, savaş düzeninde!"
+“Yok. Gövdeler birbirine benzemiyor.”
 
-Karia'nın kalbi bir an hızlandı, sonra hesaplı bir sakinliğe döndü — kriz anlarında, en çok ihtiyaç duyduğu şey buydu. "Hangi bayrak?"
+Yamalı Liman.
 
-"Bayraksız, Amiral. Ama gemilerin yapısı... korsan gemilerine benziyor. Yamalı ve çeşitli."
+“Birinci ve Üçüncü filo denize açılsın. İkinci filo liman ağzında kalacak. Zinciri kaldırmayın.”
 
-Karia'nın içinde bir şeyler yerine oturdu — Yetim Kıyıları korsanları, uzun zamandır fısıldanan bir söylenti, şimdi somut bir tehdide dönüşmüştü. "Roric," diye mırıldandı kendi kendine. "Gerçekten denemiş demek."
+Subay şaşırdı. “Bütün gemiler hazır, Amiral.”
 
-Hızla ayağa kalktı, kılıcını kuşandı. "Filoyu hazırlayın. Bütün gemiler denize açılsın, şimdi. Kral'ın stokları için beklediğimiz Kızıl Hafta hazırlığını bir kenara bırakın — önce bu tehdidi savuşturmalıyız."
+“Korsanlar da bunu görsün istemiyorum.”
 
----
+Yarım saat sonra *Boğucu Ana’nın Yemini* sisin içine çıktı. Karia dürbünle yaklaşan gemileri saydı. Sekizdi. Öndeki kalyonun başında tek kollu bir adam duruyordu.
 
-Limanda, Karia'nın emirleriyle, Fiyort Filosu hızla harekete geçti — gemiler, aylarca süren hazırlığın meyvesini toplayarak, şaşırtıcı bir hızla suya açıldı. Karia, kendi amiral gemisinin güvertesinde, dürbününü gözüne dayayarak, yaklaşan korsan filosunu inceledi.
+Roric gerçekten gelmişti.
 
-Sekiz gemi — sayı, Hegemonya'nın donanmasına kıyasla küçüktü, ama Karia, hafife almanın tehlikesini iyi bilirdi. Korsanlar, sayı üstünlüğü olmadan da, cüretkâr ve öngörülemez taktiklerle zarar verebilirdi.
+Korsan filosu limanın kuzeyindeki iki Hegemonya gemisini görünce hızını artırdı. Karia’nın asıl gücü güney koyunda, sisin arkasında bekliyordu.
 
-"Onlar bir savaş gemisi filosu değil, Amiral," dedi yanındaki subay, dürbününden baktıktan sonra. "Yağma amaçlı bir baskın gibi görünüyor. Ama neden bu kadar açık, bu kadar cüretkâr geliyorlar?"
+“Top menziline girene kadar ateş yok,” dedi.
 
-"Çünkü," dedi Karia, sesi düşünceli, "muhtemelen bizim donanmanın çoğunun, hasat hazırlığı için kuzeye çekildiğini sanıyorlar. Yanlış bir istihbarata güveniyorlar."
+“Bizi zayıf sanacaklar.”
 
-Bu, Karia'ya garip bir avantaj sağlıyordu — düşman, onun gücünü hafife almıştı. Ama bu avantajı doğru kullanmalıydı; sekiz gemiyi tamamen yok etmek yerine, belki de bir mesaj göndermek — Hegemonya'nın, en kırılgan anında bile savunmasız olmadığını göstermek — daha akıllıca olabilirdi.
+“Bunun için geldiler.”
 
-"Sıkı bir savunma hattı kurun," diye emretti Karia. "Ama tamamen yok etme peşinde koşmayın. Onları geri püskürtün, birkaç gemiyi ele geçirin eğer mümkünse — canlı esirler alın. Roric'in kendisi orada mı, öğrenmek istiyorum."
+Roric’in gemileri yayılıp liman girişine yöneldi. İlk korsan topu suya düştüğü anda Karia işaret sancağını kaldırttı.
 
----
+Güney koyundan altı fiyort gemisi çıktı.
 
-Çatışma, öğleden sonra başladı — ve Karia'nın öngördüğü gibi, kısa sürdü. Hegemonya'nın disiplinli, iyi donanımlı gemileri, korsanların cüretkâr ama düzensiz saldırılarını hızla dağıttı. İki korsan gemisi alevler içinde battı, biri ele geçirildi, geri kalanlar, umutsuz bir çekilmeyle kaçmaya çalıştı.
+Korsan hattı bir an bozuldu. Karia o anı kullandı. Kuzeydeki iki gemi bordalarını çevirip ateş açtı; güney kolu dönüş yolunu kesmek için ilerledi.
 
-Karia, kendi gemisinin güvertesinde, savaşın gidişatını izlerken, garip bir tatminsizlik hissetti — bu, beklediği büyük bir zafer değildi, sadece acıklı bir gösteriydi; pervasız bir adamın, gururu uğruna adamlarını feda etmesiydi.
+“Amiral gemisini batırmayın,” dedi Karia. “Dümenini alın.”
 
-Ele geçirilen geminin kaptanı, güverteye getirildiğinde, Karia'nın karşısına çıkarıldığında, adam yorgun ve yenilmiş görünüyordu — ama Roric değildi.
+İlk yaylım Roric’in kıç tarafını parçaladı. Kalyon dönmeye çalışırken yanındaki gemi alev aldı. İkinci korsan gemisi Hegemonya hattına çarpıp top ateşi altında suya gömüldü.
 
-"Enkaz Kralı nerede?" diye sordu Karia, sesi sert.
+Çatışma bir saat sürmedi. Bir gemi teslim sancağı çekti. Ötekiler düzeni bırakıp doğuya kaçtı. Roric’in hasarlı kalyonu sisin içine girince iki Hegemonya gemisi peşine düştü.
 
-Kaptan, bir süre sessiz kaldı, sonra acı bir gülümsemeyle cevap verdi. "Amiral gemisi, geri çekilirken hasar aldı. Bilmiyorum hayatta mı."
+Karia onları geri çağırdı.
 
-Karia, bu cevabı bir süre sindirdi. Roric'in akıbeti belirsizdi — ölmüş olabilir, kaçmış olabilir, ya da yaralı bir şekilde bir yerlerde saklanıyor olabilirdi. Ama önemli olan, bu saldırının başarısız olduğuydu, ve Hegemonya, en kırılgan anında bile ayakta kaldığını göstermişti.
+“Yakalamak üzereydik,” dedi kaptanı.
 
----
+“Jilet Resifleri’ne doğru kaçıyor. Orada onun haritasıyla bizim cesaretimiz yarışır. Bırakın.”
 
-Akşam, limana dönerken, Karia, güvertede tek başına, yorgun ama tetikteydi hâlâ. Bu zafer, geçici bir rahatlama sağlamıştı, ama asıl sorunlar — Kral'ın hastalığı, Vorlag'ın manevraları, Severin'in ihaneti — hâlâ oradaydı, çözülmemiş.
+Ele geçirilen geminin kaptanı güverteye getirildi. Alnındaki yaradan kan akıyordu.
 
-Bir subay yaklaştı, sesinde bir haber daha vardı. "Amiral, Kral'ın durumu hakkında haber geldi — biraz iyileşmiş görünüyor. Hekimler ihtiyatlı bir iyimserlik gösteriyor."
+“Roric’in kaç gemisi kaldı?” diye sordu Karia.
 
-Karia, bu haberi duyduğunda, içinde gerçek bir rahatlama hissetti — belki de bu gün, kaosun eşiğinden geri döndükleri bir gündü.
+“Bilmiyorum.”
 
-"İyi," dedi, sesi yorgun ama kararlı. "O zaman, belki de fırtına, bu sefer bizi geçip gidiyor."
+“Amiral gemisi su alıyor mu?”
 
-Ama masasındaki, hâlâ mühürlü duran Severin dosyasına baktığında, denizde öğrendiği en eski dersi bir kez daha hatırladı: bir fırtınayı atlatmak, bir sonrakinin gelmeyeceği anlamına gelmezdi.
+Adam acı acı güldü. “Hepimiz su alıyoruz, Amiral.”
+
+Karia yarasının sarılmasını emretti. İki korsan gemisi batmış, biri ele geçirilmişti. Geri kalan beş gemi ayrı yönlere kaçmıştı; kaçı limanına ulaşırdı bilinmiyordu.
+
+✦
+
+Metheris’e dönerken saraydan bir tekne yanaştı. Gelen subay güverteye çıkar çıkmaz selam verdi.
+
+“Majesteleri uyandı. Hekimler nöbetin geçtiğini söylüyor.”
+
+Karia ilk kez o gün omuzlarını gevşetti. “Konuşabiliyor mu?”
+
+“Kısa sürelerle.”
+
+“Vorlag görüştü mü?”
+
+“Hayır. Emriniz uygulandı.”
+
+Karia limana giren yaralı gemileri, ardından teslim alınmış korsanları izledi. Kral yaşamış, saldırı püskürtülmüştü. İkisi de zafer sayılabilirdi. İkisinin de bedeli henüz sayılmamıştı.
+
+“Önce kayıpların listesini getirin,” dedi. “Sonra saraya gideriz.”

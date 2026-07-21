@@ -1,48 +1,34 @@
 # Bölüm 33 — Üçüncü Bayrak
 *(TEMUJİN)*
 
-Üç gün boyunca, Temujin, Korgan'ın teklifini, her açıdan tarttı — güvenlik, ama hayalinin ölümü; ya da, belirsizlik, ama özgürlük.
+Temujin üç gün boyunca Korgan'ın teklifini tartıştı. Kabul ederse savaş ertelenecek, fakat küçük boylarla konuşmaktan vazgeçecekti. Reddederse Sungurları kendi hedefinin bedeline ortak edecekti.
 
-Kaya, Börü, Batu, Togan — hepsi, kendi görüşlerini paylaştı, ama son karar, Temujin'in kendisine bırakıldı.
+İkinci sınır görüşmesine bir karşı teklif götürdü.
 
-"Ne yapacaksın?" diye sordu Togan, son gece, ateşin başında.
+"Genç Kurtlar ayrı bir topluluk olarak tanınsın," dedi. "Azgut ordusuna dönmeyeceğiz. Sungur meclisine de bağlanmayacağız. İki tarafa saldırmayacak, iki tarafın toprağında izinsiz asker toplamayacağız."
 
-Temujin'in kararı, zihninde, sonunda netleşti. "Ne kabul edeceğim, ne reddedeceğim. Üçüncü bir yol öneriyorum — tıpkı, senin, Sed'de yaptığın gibi."
+Korgan güldü. "Otuz kaçak devlet mi olacak?"
 
----
+"Devlet demedim. Kendi kararını veren topluluk."
 
-Sınırdaki ikinci parlamentoda, Temujin, Korgan'ın karşısına, bu kez, daha büyük bir kararlılıkla çıktı.
+Kaya haritada iki sınır arasındaki Kuru Dere'yi gösterdi. Yıllardır iki tarafın da kışlak kurmadığı dar bölgeydi. Sungur meclisi doğu yarısındaki hak iddiasından vazgeçmeye hazırdı. Korgan batı yarısını aynı biçimde bırakırsa Genç Kurtlar orada yerleşebilirdi.
 
-Temujin'in sesi, sakin ama netti. "Teklifinizi, düşündüm, Han'ım. Ve ne kabul ediyorum, ne reddediyorum. Bunun yerine, bir öneri sunuyorum."
+"Tampon istiyorsunuz," dedi Korgan.
 
-Korgan, kaşlarını çattı. "Dinliyorum."
+"Sınırı kimin çiğnediğini görünür kılan bir komşu," dedi Kaya.
 
-"Genç Kurtlar," dedi Temujin, "resmi olarak, bağımsız bir topluluk olarak tanınsın — ne Azgut, ne Sungur, kendi topraklarımız, kendi yönetimimizle, ama ikisiyle de barış içinde. Sizin ordunuza katılmayacağız, ama size karşı da savaşmayacağız. Kendi yolumuzu, kendi meşruiyetimizle inşa edeceğiz."
+Pazarlık gün boyu sürdü. Genç Kurtlar ilk yıl yüz elli silahlı kişiyi aşmayacak, yeni katılanları iki tarafa da aylık bildirecek ve Korgan'a bağlı boylarda zorla asker toplamayacaktı. Buna karşılık sürgün hükmü dışında saldırı sayılmayacak, ticaret yapabilecek ve kendi iç düzenini kurabilecekti.
 
----
+Temujin sayı sınırına itiraz etti. Sonunda sınır yalnız tam zamanlı savaşçılar için yazıldı; aileler ve zanaatkârlar sayılmayacaktı.
 
-Korgan, uzun bir sessizlikten sonra karşılık verdi. "Bu, bozkırda, üçüncü bir güç yaratmak demek. Sungur, Azgut, ve şimdi... ne? Bir avuç kaçak?"
+Üç mühür basıldı: Azgut, Sungur ve yeni yapılmış kurt izi. Temujin imza yerine kendi adını ilk kez bir topluluğun adına yazdı.
 
-"Bugün, bir avuç," dedi Temujin, gözlerini kırpmadan. "Ama zamanla, belki, daha fazlası. Ve düşünün, Han'ım — bu, sizin için de, bir fırsat olabilir. Sizinle savaşmayan, ama size de bağlı olmayan bir topluluk, tampon bölge olarak, Hegemonya ile aranızda, faydalı olabilir."
+Dönüşte Batu küçük kalma şartına öfkeliydi.
 
-Korgan, bu argümanı, uzun bir süre, sessizce tarttı — Temujin, onun gözlerinde, hesabın, yavaşça işlediğini gördü.
+"Yüz elli kılıçla ne kuracağız?"
 
----
+"Önce kılıç dışında ne kurabildiğimizi göreceğiz."
 
-Korgan'ın sesi, yarı tehdit yarı kabuldü. "Küçük kalacaksınız. Büyümeye çalışırsanız, bunu, bir tehdit olarak görürüm, ve o zaman, anlaşmamız biter."
+Togan anlaşmanın bir nüshasını yüksek sesle okudu. Eksik, kırılgan ve beş ayrı yerde yoruma açıktı. Yine de otuz insan artık bir başkasının misafiri ya da kaçağı değil, kendi kararlarının hesabını verecek bir topluluktu.
 
-"Anlaşılan," dedi Temujin, eğilerek. "Küçük kalacağız — açıkça büyümeyeceğiz. Ama var olmaya devam edeceğiz. Ve bazen, Han'ım, var olmak, yeterlidir — zaman, geri kalanını halleder."
-
-Korgan, bu son söze, tuhaf bir şekilde, hafif bir gülümsemeyle karşılık verdi — neredeyse, bir saygı işareti. "Sen, tehlikeli bir adamsın, Temujin. Umarım, bir gün, bu tehlikeyi, pişman olmam."
-
----
-
-Anlaşma, o gün, imzalandı — resmi olmayan, ama üç taraf arasında (Azgut, Sungur, ve şimdi, tanınan "Genç Kurtlar" topluluğu) kabul edilen bir denge.
-
-Kampa döndüklerinde, Kaya, Temujin'e, gerçek bir gururla baktı. "Bunu, başardın."
-
-"Henüz, hiçbir şey başarmadım," dedi Temujin, alçakgönüllülükle. "Sadece, bir tohum ektim. Büyümesi, yıllar alacak."
-
-Togan, yanında, sessizce gülümsedi. "Bazı tohumlar, en büyük ağaçları verir, Temujin. Sen, kendin söylemiştin bunu, bir zamanlar."
-
-Temujin, bu hatırlatmaya, derin bir minnetle karşılık verdi — ve gece, bozkırın üzerine çökerken, iki adam, farklı yollardan gelmiş, ama şimdi, aynı geleceğe doğru yürüyen iki dost, sessizce, yeni başlayan bir hikâyenin, ilk sayfasını, birlikte çevirdiler.
+Kuru Dere'ye ilk direk ertesi sabah dikildi.

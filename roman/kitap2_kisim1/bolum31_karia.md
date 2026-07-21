@@ -1,46 +1,34 @@
 # Bölüm 31 — Konseydeki Sızıntı
-*(KARİA)*
+*(KARIA)*
 
-Faelan'ın ikinci raporu, birincisinden çok daha rahatsız ediciydi.
+Faelan, Vorlag'ın iki yıldır Delta üzerinden düzenli ödeme aldığını gösteren kayıtlar buldu. Miktar, Konsey maaşının birkaç katıydı. Kervan ustasının ifadesiyle hesap numarası eşleşiyor, fakat para doğrudan Vorlag adına yatmıyordu.
 
-"Vorlag," dedi Faelan, çalışma odasının kapısını kapatırken, sesi temkinliydi, "son iki yıldır, düzenli olarak, gizli bir hesaba, Delta üzerinden ödeme alıyor. Miktar, küçük değil — bir konsey üyesinin maaşının, birkaç katı."
+"Mahkeme için yetmez," dedi Karia.
 
-Karia, bu haberi, sakin bir yüzle dinledi — ama içinde, bir geminin, beklenmedik bir kayaya çarpma anındaki o soğuk şoku hissetti. "Kanıtın var mı?"
+"Şüphe için fazla bile."
 
-"Kısmi. Bir kervan ustasının ifadesi, birkaç para transferi kaydı. Ama mahkemede kullanılacak kadar sağlam değil — henüz."
+Kaelan açık suçlama yerine yem önerdi. Vorlag'a ulaşacak kontrollü bir bilgi, Delta'nın hareketinde karşılık bulursa sızıntı doğrulanacaktı.
 
-"Bu, Vorlag'ın, depo araştırmamızdan nasıl haberdar olduğunu açıklıyor," dedi Karia, yavaşça, parçaları birleştirerek. "Delta, ona bilgi veriyor; o da, karşılığında, Konsey'in içinden, Delta'ya bilgi taşıyor."
+Karia ertesi gün savunma komitesinde kuzey kapısına gizli bir filo keşfi yapılacağını söyledi. Gerçekte böyle bir sefer yoktu. Tarih ve gemi sayısı yalnız Faelan, Kaelan ve Vorlag'ın bulunduğu odada konuşuldu.
 
----
+Bir hafta sonra Delta iki ikmal gemisini kuzey kapısına kaydırdı. Karia'nın söylediği günden bir gün önce varacaklardı.
 
-Sör Kaelan, bu haberi duyduğunda, uzun bir süre, sessizce düşündü, bahçedeki taş banka yaslanarak.
+"Kaynak Vorlag," dedi Faelan.
 
-"Zor bir durum, evladım," dedi sonunda. "Vorlag'ı, açıkça suçlarsan, kanıtın yetersiz kalırsa, kendi otoriteni zayıflatırsın — bir kraliçe, ispatlayamadığı suçlamalar yapmamalı. Ama sessiz kalırsan, sızıntı devam eder."
+"Bilginin ona nasıl gittiğini hâlâ kanıtlamadık."
 
-"Ne önerirsin?"
+İkinci bir yem hazırladılar. Bu kez üç Konsey üyesine üç ayrı liman adı verildi. Vorlag, Sis Burnu'nu duydu. Dört gün sonra Delta tüccarları oradaki bütün boş depoları kiralamaya başladı.
 
-"Sabır." Kaelan'ın gözleri, uzaklara dalarak. "Vorlag'ı izlemeye devam et, ama şimdilik, dokunma. Bunun yerine, ona, yanlış bilgi ver — küçük, kontrollü yalanlar. Eğer bu yalanlar, Delta'nın hareketlerinde yankılanırsa, sızıntının kaynağını, kesin olarak doğrularsın. Ve o zaman, hem kanıtın olur, hem de, Delta'yı, kendi oyunuyla şaşırtma fırsatın."
+Karia iki raporu yan yana koydu. Artık rastlantı savunması zayıftı. Yine de Vorlag'ı tutuklatmadı.
 
-Karia, bu stratejiyi, uzun bir süre tarttı, sonra, yavaşça başını salladı. "Akıllıca. Bir denizci gibi düşünüyorsun, Kaelan — düşmanı, kendi akıntısıyla boğ."
+Konsey masasındaki bir sızıntı yalnız bir adam demek değildi. Parayı taşıyan, mesajı çıkaran ve karşılığını ulaştıran bir hat vardı. Vorlag alınırsa kalanlar kaybolacaktı.
 
----
+Zaleena'ya şifreli bir uyarı gönderdi: *Konseyimdeki kulak doğrulandı. Kendi güverteni aynı yöntemle sınayabilirsin. Sonucu mektuba yazma; güvenilir elçi kullan.*
 
-Konsey toplantısında, ertesi gün, Karia, planı uygulamaya koydu — sahte bir bilgi, sızdırdı, dikkatlice: Hegemonya donanmasının, gelecek ay, gizlice, Kuzey Kapısı'na doğru bir keşif seferi düzenleyeceği.
+Faelan kapıda durdu. "Vorlag bir sonraki yemi fark ederse?"
 
-Bu bilgi, sadece, üç kişiyle paylaşıldı — Faelan, Kaelan, ve, dikkatlice, Vorlag'ın da bulunduğu küçük bir savunma komitesi toplantısında.
+"O zaman bizi bildiğini öğreniriz."
 
-Bir hafta sonra, Faelan'ın kendi kaynakları, Delta'nın, Kuzey Kapısı bölgesinde, ani ve garip bir askeri hareketlilik başlattığını bildirdi — tam da, sahte bilginin işaret ettiği yerde.
+"Bu oyunda her cevap yeni soru çıkarıyor."
 
-"Doğrulandı," dedi Faelan, Karia'ya, sesi ciddi. "Vorlag, gerçekten, Delta'nın gözü, Konsey'in içinde."
-
----
-
-Karia, bu kesin kanıtla, uzun bir süre, tek başına oturdu, zihni, olası sonuçları tartarak.
-
-Vorlag'ı hemen ifşa etmek, cazip bir seçenekti — ama Kaelan'ın uyarısı, doğruydu: bir kraliçenin, kendi konseyindeki bir haini, ne zaman ve nasıl ifşa ettiği, sadece adalet meselesi değildi, aynı zamanda, bir güç gösterisiydi. Yanlış zamanlanmış bir ifşa, zayıflık olarak görünebilirdi; doğru zamanlanmış bir ifşa, gücünü pekiştirebilirdi.
-
-Zaleena'ya, kısa bir mesaj yazdı: "Delta, Konsey'imde bir kulak buldu. Şimdilik, kontrol altında — ama bu, sana da bir uyarı olsun. Kendi çevrende, benzer bir sızıntı olup olmadığını kontrol et."
-
-Mesajı mühürlerken, Karia, pencereden, limana baktı — gemiler, sakin, düzenli, ama Karia, artık, hiçbir düzenin, göründüğü kadar basit olmadığını biliyordu.
-
-Bir amiral olarak, en büyük derslerinden birini hatırladı: bazen, en tehlikeli düşman, ufukta görünen değil, kendi güvertende, sessizce yürüyendi. Ve Vorlag, artık, izlenen, kontrol edilen bir tehlikeydi — ama tam olarak ne zaman, nasıl kullanılacağı, hâlâ, Karia'nın kendi kararına bağlıydı.
+Karia kuzey kapısı için verilmiş sahte emri ateşe attı. "İstihbaratın kötü yanı bu değil. Kötü yanı, bazen sorunun kendisini emir sanmaktır."

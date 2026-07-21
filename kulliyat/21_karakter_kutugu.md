@@ -46,7 +46,7 @@
 
 ## PART 1'DE İNTRODÜKTE EDİLEN / DERİNLEŞEN YAN KARAKTERLER
 
-**Kaya** — Sungurlar'ın Baş Rüzgar-Dinleyeni, Togan'ın süt kardeşi ve en yakın dostu. 1. Kısım'da Togan'ı disipline etmeye çalışan vicdan sesi. **GÜNCEL DURUM (2. Kısım sonu): Temujin'in operasyonunda esir alındı, Azgut ordugâhında tutuluyor (kisim2/05, /09, /13). Kartalı Fırtına yaralı ama yanında. Öldürülmedi — Temujin onu stratejik değeri için canlı tutuyor. Togan bunu henüz bilmiyor, sadece belirsiz bir söylenti duydu. Sungurlar öfkeli misilleme saldırıları yapıyor.**
+**Kaya** — Kadın, ~35; Sungurlar'ın Baş Rüzgar-Dinleyeni ve ileride hatunu. Annesi hem Börü'yü hem Togan'ı emzirdiği için ikisinin de süt kardeşidir; Togan onu süt ablası ve en yakın dostu bilir. 1. Kısım'da Togan'ı disipline etmeye çalışan vicdan sesi. **GÜNCEL DURUM: Kitap 3, Kısım 1, Bölüm 25'te Sessiz Taşlar'ın merkezinde Togan'ı korurken öldü; cesedi geri getirilemedi. Bundan sonra yalnız geçmiş zaman ve anılarda yer alır.**
 
 **Anya** — İhtiyarlar Konseyi başkanı, ~80'li yaşlarda. Togan'a hem büyükanne hem vicdan gibi. Alpagu ve Ayla'nın sırrını bilen iki kişiden biri (diğeri artık ölü).
 
@@ -91,15 +91,15 @@
 - **Kral Theodoric**: Vefat etti (huzur içinde, Kızıl Hafta'nın 7. günü).
 - **Perren**: Togan'la birlikte Eski-Kent'e gidiyor, 11 yıllık münzevi hayatını bırakıyor.
 
-## 2. KİTAP SONU DURUM RAPORU (8 Kısım, 181 bölüm tamamlandı)
-- **Togan** (~27): Genç Kurtlar/Sungur bölgesinde. Sed'e düzenli dönüşlerle sürdürülen bir dengesi var; annesi Ayla'nın hikayesini ve kendi kanının Praetorian karşıtı gücünü keşfetti. Sungurlar'ın resmi nöbetçi danışmanı. "Tam seçim" günü, hâlâ, gelecekte.
-- **Temujin** (~25): Genç Kurtlar'ın kurucu lideri. Korgan tarafından sürüldü, sonra, babası Bozan'ın Delta tarafından öldürüldüğü gerçeğini kullanarak, Korgan'la tarihi bir ittifak kurdu. Dört Bayrak İttifakı'nın mimarlarından.
-- **Karia** (~46): Hegemonya Kraliçesi. Elowen'le açık bir ilişkide. Vâris arayışını, "meziyet" temelli bir programa (Bilgeler Meclisi) dönüştürdü.
-- **Zaleena** (~36): Yamalı Liman Kraliçesi. Kessel'le açık bir ilişkide. Kaptanlar Konseyi'ni kurumsallaştırdı, Roric'in otuz yıllık "bayrak" hayalini, kıtasal bir ittifaka dönüştürdü.
+## 2. KİTAP SONU DURUM RAPORU (8 Kısım, 182 bölüm tamamlandı)
+- **Togan** (~27): Genç Kurtlar/Sungur bölgesinde. Sed ziyaretleri yaklaşık doksan günlük güvenlik düzenine, birer saatlik görüşmelere ve beş isimli hafıza sınamasına bağlandı. Sungurlarla altı haftalık, sınırları belirli bir eğitim sözleşmesi yaptı. Akıntı'yla değiştirilmiş şeyleri kısa süre bastırabiliyor; bedeli baş ağrısı ile zaman ve anı kaybı. "Tam seçim" günü hâlâ gelecekte.
+- **Temujin** (~25): Genç Kurtlar'ın kurucu lideri. Bozan dosyasını intikam için kullanmadı; Toruk'un güvenli ifade sürecini ve Korgan'la doksan günlük `Tuz Düzlüğü Mutabakatı`nı kurdu. Sonradan “Dört Bayrak” diye anılacak özerk sözleşme ağının mimarlarındandır.
+- **Karia** (~46): Hegemonya Kraliçesi. Elowen'le açık bir ilişkide. Veraseti tek bir kişiyi hemen seçerek değil, adayları sınayan Meziyet Programı ve komisyon üzerinden kurumsallaştırdı.
+- **Zaleena** (~36): Yamalı Liman Kraliçesi. Kessel'le açık bir ilişkide. Kaptanlar Konseyi'ni kurumsallaştırdı; kıtasal koordinasyona egemenlik devriyle değil, ayrı `Deniz Geçiş Eki`yle bağlandı.
 - **Kaya**: Temujin'in en yakın müttefiki/dostu, Togan'la Temujin'i buluşturan köprü karakter.
 - **Perren**: Togan'ın en yakın dostu, "Dağların Öğretmeni."
 - **Batu**: Temujin'in sadık ikinci komutanı, eski rakip.
-- **Malakor**: Delta'nın "Fısıltı Ustası," Togan'ın kanına ilgisi yüzünden kısıtlandı ama yok olmadı.
+- **Malakor**: Delta'nın devredilebilir olabilecek “Fısıltı Ustası” makamı. Saha yetkisi 4–3 oyla askıya alındı ve hesapları mühürlendi; mevcut makam sahibi çağrıya gelmediği için tehdit sürüyor.
 - **Sör Kaelan**: Emekli.
 
 ## ⭐⭐⭐ 3. KİTAP, 1. KISIM — GÜNCEL DURUM (28 bölüm tamamlandı, roman/kitap3_kisim1/)

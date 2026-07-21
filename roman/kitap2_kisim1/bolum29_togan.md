@@ -1,70 +1,56 @@
 # Bölüm 29 — Işığın Hafızası
 *(TOGAN)*
 
-"Annemi mi tanıyorsun?"
+"Annemi mi tanıdın?"
 
-Bu soru, mağarada, uzun bir yankıyla asılı kaldı — Işıyan, hemen cevap vermedi, sadece, Togan'a, garip, hesaplayan bir bakışla baktı, sanki, kelimeleri, insan diline çevirmekte zorlanıyormuş gibi.
+Işıyan, sözcükleri seçmek için değil de eski bir görüntüyü bulmak için sustu.
 
-"Yıllar önce," dedi sonunda, sesi, hâlâ o tuhaf, müzikal tona sahipti, "bir kadın geldi, bu dağlara. Korkusuzdu — ya da korkusunu, çok iyi saklıyordu. Diğerleri gibi kaçmadı. Yaklaştı."
+"Kuzeye geldi. Korkuyordu, fakat kaçmadı. Elini bana uzattı."
 
-Togan'ın nefesi titriyordu. "Ne oldu?"
+Varlık kendi göğsüne dokundu. Işığı parmaklarının çevresinde yoğunlaştı.
 
-"Dokundu," dedi Işıyan, yavaşça, elini kaldırarak, kendi göğsüne değdirerek, "buraya. Ve bir şey... değişti. İçimde, ve sanırım, onun içinde de. Ondan sonra, gitti — korkuyla değil, bir şey taşıyarak. Bir tohum gibi."
+"Temas ikimizi de değiştirdi. O senden bir parça taşıyarak ayrıldı. Sen de benden."
 
-Perren, Togan'ın yanında, sessizce, gerginlikle bekliyordu — bu konuşmaya müdahale etmeye cesaret edemiyordu.
+Togan'ın kılıcı ağırlaştı. Ucunu yere indirdi. "Babam sen misin?"
 
-"Ben, o tohumum," dedi Togan, sesi, kendi kulağına bile, garip bir kırılganlıkla çıktı.
+"Bu sözcüğün bizde karşılığı yok. Kaynağındaki iki yankıdan biriyim."
 
-"Belki." Işıyan'ın gözleri, ateşten iki nokta, Togan'ı, baştan aşağı inceledi. "Kanın, tanıdık bir yankı taşıyor — ama tam değil. Kırık bir yankı. Eksik bir şarkı."
+Perren araya girdi. "Ayla buradan sağ çıktı mı?"
 
----
+"Yürüyerek ayrıldı. Sonrasını bilmiyorum."
 
-"Ne demek istiyorsun, eksik?" diye sordu Togan, bir adım yaklaşarak.
+Togan annesinin Sungur obasına ulaştığını ve doğumdan sonra öldüğünü söyledi. Işıyanın yüzü insana benzemiyordu; yine de salonun ışığı bir an azaldı.
 
-"Bizim türümüz," dedi Işıyan, yavaşça, "bazı insanlarla, bir bağ kurabilir — kan yoluyla. Bu bağ, tam olduğunda, güçlü bir şey doğurur. Senin kanında, o bağın izleri var, ama tamamlanmamış. Annenin bedeni, tohumu taşıdı, ama kendisi, bağın tamamlanmasını görecek kadar kalmadı burada."
+"Kısa yaşamlarınızın nerede bittiğini hissedemem," dedi.
 
-Togan'ın gözleri yaşardı, kendi bilmediği bir hüzünle. "Öldü mü? Bunu mu söylüyorsun?"
+"Aras'ın bittiği yeri hissettin."
 
-Işıyan, bir an, sessiz kaldı — ve o sessizlikte, Togan, ilk kez, bu varlığın, sadece soğuk bir güç olmadığını, bir çeşit acıma da taşıyabildiğini hissetti.
+Işıyan taşlaşmış bedene döndü. "Eşiği geçti. Sığınağın koruması bedenindeki Akıntı'yı çekti. Onu geri itemedim."
 
-"Bilmiyorum," dedi sonunda, dürüstçe. "Bizim zaman algımız, sizinkinden farklı. Sadece, bir daha, dönmediğini biliyorum."
+"Öleceğini biliyor muydun?"
 
----
+"Durmasını söyledim."
 
-"Bu 'bağ' tamamlanırsa ne olur?" diye sordu Togan, sesi, artık, daha kararlı, korkusunu bir kenara iterek.
+Bu cevap ne suçsuzluktu ne itiraf. Togan Aras'ın günlüğünü çantasına koydu.
 
-Işıyan, uzun bir süre düşündü, sonra: "Bilmiyorum tam olarak. Eski kayıtlar, tamamlanmış bağın, iki şekilde sonuçlandığını söylüyor — bazen, bir köprü. Bazen, bir kılıç. Hangisi olacağı, sanırım, taşıyanın kendi seçimine bağlı."
+"Kanımdaki şey ne yapar?"
 
-"Bana yardım eder misin? Bunu anlamama?"
+"Kapalı olana dokunabilir. Bizim sesimizi taşıyabilir. Aynı bağ bir geçit açar ya da onu kapatır. Seçimi kan yapmaz."
 
-"Yapamam." Işıyan'ın sesi, ilk kez, kesin bir reddiye büründü. "Kurallarımız var, genç kan-taşıyıcı. Ve en önemlisi: İkinci Sığınak'ın yerini, hiçbir insana açıklamamak. Arayıcınız, bunu öğrenmeye çok yaklaştı — bu yüzden, onu durdurmak zorunda kaldım. İstemeden. Ölümü, benim seçimim değildi ama sonucuydu."
+"Bana öğret."
 
-Perren, bu itirafla, sertleşti. "Aras'ı sen mi öldürdün?"
+"Burada kalırsan sığınak seni de sınar. İnsan yanın dayanmayabilir."
 
-"Korudum," dedi Işıyan, sesi, savunmacı değil, sadece gerçekçiydi. "Kendi türümü, sizin dünyanızın açgözlülüğünden. Aras, iyi niyetliydi belki, ama bilgisi, yanlış ellere düşerse, bu dağ, bir savaş alanına dönerdi."
+Perren, Togan'ın kolunu tuttu. Parmakları zırhın üstünden bile titreşimi hissediyordu.
 
----
+Işıyan mağaranın derinliğini işaret etti. "Arayıcıyı alın. Yeri kayıtlara geçirmeyin. İnsanlarınız bilgiye geldikçe burası mezarlık olur."
 
-"Bize zarar verecek misin?" diye sordu Togan, doğrudan.
+Aras'ın bedenini kumaşa sarıp çıkışa taşıdılar. Togan son dönemeçte arkasına baktı.
 
-Işıyan, uzun bir süre, ona baktı — sonra, ilk kez, bir şeye benzer bir jest yaptı: başını hafifçe eğdi, insani bir saygı işareti gibi.
+"Ayla sana adını söyledi. Seninkini ona söyledin mi?"
 
-"Hayır. Çünkü sen, tehdit değilsin — sen, bir sorusun, tıpkı Yaşlı Ozan'ın söylediği gibi. Ve sorular, öldürülmez, genç kan-taşıyıcı. Sadece, cevaplanır ya da cevaplanmaz."
+"İsimlerimiz sesle taşınmaz."
 
-"Peki bana ne söyleyeceksin? Gitmeden önce?"
+Togan'ın zihninde bir anda üç notalı, acı veren bir titreşim duyuldu. Dizleri çözüldü; Perren onu omzundan tuttu. Ses kesildiğinde adı hatırlayamıyor, fakat sahibini tanıyordu.
 
-Işıyan, bir an, sessiz kaldı, sonra: "Şunu söyleyeceğim. Bir gün, kanın, tam olarak ne olduğunu anlayacaksın — kendi başına, ya da bir başkasının yardımıyla. O gün geldiğinde, seçimini, korkuyla değil, annenin yaptığı gibi, cesaretle yap. Şimdi, gidin. Arayıcınızın cesedini alın, ve bir daha, bu dağlara dönmeyin."
-
-Işıyan, bu son sözlerle, yavaşça, ışıltısı sönerek, mağaranın derinliklerine doğru geri çekildi — Togan ve Perren, uzun bir süre, konuşmadan, kalan boşluğa baktılar.
-
----
-
-Aras'ın cesedini, saygıyla, bir kumaşa sardılar, günlüğünü, dikkatle çantalarına yerleştirdiler.
-
-Mağaradan çıkarken, Togan, son bir kez, arkasına döndü — karanlık, sessiz, hiçbir ışık kalmamıştı.
-
-"İyi misin?" diye sordu Perren, omzuna dokunarak.
-
-"Bilmiyorum." Togan'ın sesi, yorgun ama tuhaf bir şekilde, daha sakindi — sanki, cevapsız kalan sorular bile, bir tür huzur getirmişti. "Ama ilk kez, Perren, annemin, bir hayalet değil, gerçek bir insan olduğunu hissediyorum. Korkusuz bir insan. Ve belki, bu, şimdilik, yeterli."
-
-Eski-Kent'e dönüş yolu, uzundu — ama Togan, her adımda, içinde, yeni bir ağırlığın yanında, yeni bir gücün de filizlendiğini hissetti.
+Mağaranın dışındaki rüzgâr yüzüne vurdu. Annesi artık bir söylenti değildi. Ölmeden önce buraya gelmiş, korkusuna rağmen elini uzatmıştı. Togan bu hareketin sonucuydu.

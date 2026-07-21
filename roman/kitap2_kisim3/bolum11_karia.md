@@ -1,36 +1,30 @@
 # Bölüm 11 — Kütüphanenin Sınırları
-*(KARİA)*
+*(KARIA)*
 
-Elowen'in önerisi — yılın bir kısmını Metheris'te geçirmesi — Konsey'e sunulduğunda, beklenen tepki, çabucak geldi.
+Elowen'in Metheris'te yılın yarısını geçirmesi önerilince Konsey güvenlik şartlarını yeniden açtı. İtirazın tamamı önyargı değildi. Kraliyet arşivinde savunma rotaları ve hanedan şifreleri de vardı.
 
-"Bir Yamalı Liman vatandaşının, kraliyet kütüphanesinde, bu kadar sürekli bir varlığı," dedi yaşlı bir soylu, temkinli bir sesle, "bazı sorular doğurabilir, Majesteleri."
+Karia ilişkiyi savunarak kuralları gevşetmedi. Arşivi üç erişim düzeyine ayırdı. Ortak tarih kayıtları iki ülke kâtiplerine açılacak, devlet sırları yalnız ilgili yönetimin görevlilerinde kalacak, tartışmalı belgeler iki tanıkla incelenecekti.
 
-Karia, bu itirazı, sakin ama kesin bir netlikle karşıladı. "Elowen, bir casus değil — bir bilgin. Ve onun varlığı, iki krallık arasındaki, zaten var olan ittifakı, güçlendiriyor, zayıflatmıyor."
+Faelan bütün ziyaretçilerin giriş çıkış kaydı tutmasını istedi. Elowen bunu kabul etti ve aynı kuralın Hegemonya kâtipleri Yamalı Liman'a geldiğinde de uygulanmasını şart koştu.
 
----
+"Eşitlik bu," dedi Karia. "Güvenliksiz erişim değil, aynı güvenlik."
 
-Faelan, toplantıdan sonra, Karia'ya, dikkatli bir gözlemle yaklaştı. "Konsey'in endişesi, tamamen mantıksız değil, Majesteleri — bir kraliçenin kişisel hayatı, her zaman, siyasi bir boyut taşır."
+Konsey düzeni altı aylık deneme için kabul etti. Karia, Elowen'in görevine ilişkin oylamada çekimser kaldı.
 
-"Biliyorum," dedi Karia, yorgun bir kabullenişle. "Ama bir noktada, Faelan, kendi mutluluğumu, sonsuza kadar, siyasetin gerisine koyamam. Bir kraliçe de, sonuçta, bir insan."
+İlk haftada Elowen kapalı rafa yanlışlıkla yaklaşmadı; bilerek başvurdu. Roric'in iki kayıp seferine ilişkin mühürlü kayıtlar ortak araştırmayla bağlantılıydı. Faelan başvuruyu inceledi ve yalnız ilgili iki dosyaya izin verdi.
 
-Faelan, bu itirafa, düşünceli bir saygıyla karşılık verdi. "Haklısınız. Ve söz veriyorum, bu düzenlemenin, güvenlik açısından, sorunsuz olmasını sağlayacağım."
+Karia sürece karışmadı.
 
----
+Akşam Elowen bunun kendisini rahatsız edip etmediğini sordu.
 
-O hafta, Elowen, resmi olarak, kraliyet kütüphanesinin "danışman ortağı" unvanıyla, düzenli ziyaretlerine başladı — Konsey'in, yavaş yavaş, bu yeni düzene alışmasıyla.
+"Sana hayır denmesi mi? Hayır."
 
-"Zor bir toplantı mıydı?" diye sordu Elowen, ilk resmi ziyaretinde, Karia'nın yüzündeki yorgunluğu fark ederek.
+"Faelan'a kızacağından korktum."
 
-"Biraz," dedi Karia, dürüstçe. "Ama buna değer, sanırım."
+"Kızarsam da karar değişmemeli."
 
-Elowen, bu cevaba, sıcak bir gülümsemeyle karşılık verdi. "Buna değer olduğunu, ben de düşünüyorum."
+Kaelan yeni düzeni kütüphane kapısındaki kayıt masasında gördü. "Aşkın bürokrasiye yenildiğini söyleyecekler."
 
----
+"Bürokrasi doğru çalışırsa aşkı suçlamadan korur."
 
-Sör Kaelan, bu yeni düzenlemeyi, bahçede, Karia'yla, son bir kez değerlendirdi.
-
-"Zor bir yol seçtin, evladım," dedi Kaelan, "ama sanırım, doğru yolu."
-
-"Kolay bir yol değildi hiçbir zaman, değil mi?" dedi Karia, hafif bir gülümsemeyle. "Taht, savaş, şimdi de, bu. Ama sanırım, artık, zorluklardan korkmuyorum, Kaelan — sadece, onlarla, akıllıca başa çıkmayı öğreniyorum."
-
-Kaelan, bu olgunluğa, gerçek bir gururla baktı — öğrencisinin, yıllar içinde, ne kadar değiştiğini, bir kez daha, fark ederek.
+Karia o gece Elowen'le yemek yedi. İkisinin masasında arşiv anahtarı yoktu. Sınır koymak yakınlığı küçültmemiş, devlet göreviyle birbirine dolanmasını önlemişti.

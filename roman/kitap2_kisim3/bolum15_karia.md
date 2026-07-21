@@ -1,40 +1,28 @@
 # Bölüm 15 — Sarris'in Son Kartı
-*(KARİA)*
+*(KARIA)*
 
-Sarris'in mesajı, bu kez, hiçbir nezaket kisvesi taşımıyordu — doğrudan bir tehdit, kısa ve soğuk.
+Sarris ilişkiyi açıklamakla tehdit edemezdi; Karia zaten açıklamıştı. Bunun yerine değiştirilmiş bir arşiv kaydı gönderdi. Belge, Elowen'in kapalı raflara resmî izin tarihinden önce girdiğini gösteriyordu.
 
-*Elowen'le olan ilişkinizi,* diye yazmıştı, *bazı çevrelerde, 'uygunsuz' bulanlar var. Bu bilgiyi, yayabilirim, ya da, sessiz tutabilirim. Bu, size bağlı — bana, karşılığında, ne sunacağınıza bağlı.*
+Altındaki not kısaydı: *Bu kayıt Konsey'e ulaşmadan önce Delta anlaşmasını genişletmek isteyebilirsiniz.*
 
-Karia, bu mektubu okurken, içinde, soğuk bir öfke, ama aynı zamanda, garip bir rahatlama hissetti — Sarris, sonunda, maskesini, tamamen düşürmüştü.
+Faelan mührü inceledi. Gerçek arşiv damgası kopyalanmıştı. Tarih mürekkebi ise iki hafta yeniydi.
 
----
+Karia pazarlık yapmadı. Elowen'e mektubu gösterdi, ardından ortak kararla tam erişim defterini bağımsız incelemeye açtılar. Kayıtlarda Elowen'in her girişi iki tanıkla yazılıydı. Sarris'in belgesindeki saat, kütüphanenin yangın tatbikatı nedeniyle kapalı olduğu ana denk geliyordu.
 
-Faelan, bu tehdidi öğrendiğinde, öfkeyle karşılık verdi. "Bu, çaresizlik, Majesteleri. Sarris, köşeye sıkıştı — Amara'yla arası açık, Genç Kurtlar'la başarısız, Karaçul'la başarısız. Bu, son bir kumar."
+Konsey'de Karia ilişkisini savunmak yerine delili sundu. Sahte belge, gerçek giriş defteri ve Sarris'in pazarlık notu aynı masaya kondu.
 
-"Biliyorum," dedi Karia, sesi, kesin bir kararlılıkla. "Ve bu yüzden, tam tersini yapacağım — beklediğinin tersini."
+"Bizi suçlamaya çalıştığı şeyi kayıtlarımız çürütüyor," dedi Elowen. "Fakat bu, erişim denetiminin kalıcı olması gerektiğini de gösteriyor."
 
----
+Konsey oybirliğiyle arşiv düzenini sürdürdü. Sarris'in notu ise Amara'ya ve Delta Konseyi'nin bütün üyelerine yollandı. Bir kraliçeye sahte devlet belgesiyle şantaj yapmak, Delta'nın kalan kanatlarını da tehlikeye atıyordu.
 
-O hafta, Karia, beklenmedik bir şey yaptı — Elowen'le olan ilişkisini, resmi bir saray duyurusuyla, açıkça ilan etti.
+Amara olağanüstü konsey çağrısı yaptı. Üç hafta sonra Sarris'in yürütme yetkileri alındı, hesapları donduruldu ve savaş finansmanı için iç soruşturma açıldı. Delta'dan sürülmedi; kendi kurumu içinde gözetim altına alındı.
 
-"Kraliçe Karia," diye okundu duyuru, halka, "Yamalı Liman'lı tarihçi Elowen'le olan, kişisel ilişkisini, gururla, açıkça duyurur. Bu ilişki, gizlenecek bir şey değil — iki krallık arasındaki, derinleşen dostluğun, güzel bir kanıtıdır."
+Faelan haberi getirdiğinde zafer ilan etmedi. "Geri dönebilir."
 
-Bu duyuru, Sarris'in tehdidini, bir gecede, anlamsız kıldı — artık, açıklayacak hiçbir sır kalmamıştı.
+"O yüzden belgeleri saklıyoruz," dedi Karia.
 
----
+Elowen akşam Karia'nın elini tuttu. "Beni korumak için gizlemedin."
 
-Sarris, bu hamleyi öğrendiğinde, hiçbir cevap göndermedi — sessizlik, bu kez, onun tarafından geldi.
+"Seni kararın dışında da bırakmadım."
 
-Ama bir hafta sonra, Amara'dan, beklenmedik bir mesaj geldi: *Sarris'in son hamlesini duydum — bir kraliçeyi tehdit etmek, kabul edilemez bir sınır aşımı. Delta Konseyi'ni topluyorum. Sarris'in, artık, liderlik yetkisini kaybetmesi gerektiğini düşünüyorum.*
-
-Karia, bu haberi, gerçek bir tatminle okudu. "Görünüşe göre," dedi Faelan'a, "Sarris'in kendi hırsı, sonunda, kendi sonunu getirdi."
-
----
-
-Üç hafta sonra, resmi haber geldi — Delta Konseyi, Amara'nın önerisiyle, Sarris'i, liderlik konumundan, sessizce ama kesin bir şekilde uzaklaştırmıştı. Yeni düzen, Amara'nın, çok daha pragmatik, çok daha az agresif yaklaşımıyla, şekilleniyordu.
-
-Karia, bu haberi, Zaleena'ya, kısa bir mektupla bildirdi: *Sarris düştü. Delta, artık, farklı bir yüzle, karşımızda. Belki, bu, gerçekten, yeni bir dönemin başlangıcı.*
-
-Elowen, o akşam, Karia'nın yanına oturdu, elini, nazikçe tutarak. "Cesur bir hamleydi, ilişkimizi, açıkça duyurmak."
-
-"Cesaret değildi," dedi Karia, gülümseyerek. "Sadece, seni, gizlenecek bir sır olarak görmeyi reddetmekti. Sen, benim gururum, Elowen — utancım değil."
+Sarris'in son kartını bozan cesur bir aşk ilanı değildi. Aylar önce sıkıcı bulunan giriş defteri ve iki kadının aynı anda açıklığı seçmesiydi.

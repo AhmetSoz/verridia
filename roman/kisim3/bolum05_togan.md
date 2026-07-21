@@ -1,50 +1,86 @@
 # Bölüm 5 — Kapının Münzevisi
 *(TOGAN)*
 
-Togan, kılıcını tam olarak indirmedi, ama yabancının gözlerindeki o tuhaf, yorgun aydınlığa bakınca, içgüdüsel bir tehdit hissi de duymadı.
+Perren'in sığınağı, kayaya oyulmuş alçak bir kovuktu. Girişine kat kat keçe gerilmişti. İçeride iki yatak, kurumlu bir ocak ve taş levhalara çizilmiş yüzlerce işaret vardı.
 
-"Adım Aldric değil," dedi yabancı, sanki Togan'ın aklından geçen ilk soruyu tahmin etmiş gibi — ki belki de, bu ıssız topraklarda, herkesin sorduğu ilk soru buydu. "Ama bir zamanlar, onu arayan bir keşif kolunun parçasıydım. Adım Perren. Bir zamanlar, Metheris'te bir bilgindim — tarih, eski diller, Eskiler'in yazıtları üzerine çalışırdım."
+Togan duvarın beyaz odasını nasıl bildiğini sorar sormaz Perren ateşe kuru kök attı.
 
-Togan, kılıcını yavaşça kınına soktu, ama tetikte kaldı. "Ve şimdi burada yaşıyorsun? Bu ölü topraklarda?"
+“Çünkü on bir yıldır görüyorum,” dedi. “İskemle bazen kapıya dönük oluyor, bazen duvara. Oturanı hiç görmedim.”
 
-Perren, acı bir gülümsemeyle başını salladı. "On bir yıl önce, Lord Severin'in emriyle, oğlunu — Prens Aldric'i — arayan bir keşif koluna katıldım. Yolda, kolun çoğu, ya açlıktan ya da bu topraklarda yaşadığımız o garip rüyalardan kaynaklanan bir çılgınlıktan öldü. Ben, ve bir avuç başkası, buraya kadar geldik — duvara kadar. Ama geri dönemedik."
+“Ben o rüyayı Sed'den yüzlerce fersah uzakta gördüm.”
 
-"Neden?" Togan'ın sesi, kendi merakının ağırlığıyla titriyordu.
+“O hâlde Sed seni ben gelmeden önce çağırmış.”
 
-"Çünkü," dedi Perren, gözleri duvara, o uzak parıltıya kaydı, "bir kez bu kadar yakınına geldiğinde, geri dönmek imkânsız hâle geliyor. Duvar, seni tutmuyor — seni çağırıyor. Her gece, aynı rüyayı görüyorum: beyaz bir oda, boş bir iskemle. Ve her sabah, biraz daha, geri dönmenin anlamsız olduğuna inanıyorum."
+Togan bu sözü sevmedi. Kılıcını dizlerinin üzerine bıraktı. “Buraya neden geldin?”
 
-Togan, bu sözleri dinlerken, içinde soğuk bir ürperti hissetti — kendi rüyasını, kendi kararlılığını düşünerek. "Peki Aldric'i buldun mu?"
+“Prens Aldric'i aramak için.”
 
-Perren'in yüzü, bir anlığına, derin bir acıyla gölgelendi. "Hayır. Ama bir şey buldum — bir ipucu, belki bir cevap. Duvarın yakınında, yıllar önce, garip bir dikilitaş keşfettik; Eskiler'den kalma, üzerinde Akıntı yaklaştığında titreyen ve uğuldayan bir taş. Sör Valerius'un adamları, bunu bulduğumuzda, benden ve geri kalan hayatta kalanlardan, bunu asla kimseye söylememizi istemedi — kendi gizli seferini planlamak için, sanırım."
+Perren, Metheris'te eski diller üzerine çalıştığını anlattı. Kralın oğlu kuzey yolunda kaybolunca kurulan son arama koluna yazman olarak katılmıştı. Otuz iki kişi yola çıkmıştı. On dokuzu Ölü Topraklar'a varmış, yedisi Sed'i görmüştü. Perren dışında kaçının geri dönmeye çalıştığını bilmiyordu.
 
-"Ne öğrendin o taştan?"
+“Aldric'i buldunuz mu?”
 
-Perren, uzun bir süre sessiz kaldı, sanki bu bilgiyi paylaşmanın ağırlığını tartıyormuş gibi. "Öğrendim ki," dedi sonunda, sesi neredeyse bir fısıltıya dönüşmüştü, "bu duvar, bir hapishane değil. Ya da sadece bir hapishane değil. Bu, bir sınırdır — ama kimin kimi tuttuğu, senin düşündüğün gibi net değil. Bazen, gece yarısı, duvara kulak verdiğimde, bir şeyin, içeriden değil, dışarıdan, yani bizim tarafımızdan, ona doğru çekildiğini hissediyorum. Sanki duvar, bir şeyi içeri almıyor, bir şeyi dışarıda tutuyor."
+“İzini bulduk. Bir çadır tokası, hanedanın mührü ve kuzeye giden tek sıra ayak izi. İzler, toprağın ortasında kesiliyordu.”
 
-Togan, bu sözleri tam anlamadı, ama içinde, bir şeyin — belki Külliyat'ın hiç yazmadığı bir gerçeğin — kıyısına dokunduğunu hissetti.
+“Ceset?”
 
-"Kapıyı nasıl açacağımı biliyor musun?" diye sordu Togan, sesi umutla ve korkuyla karışıktı.
+“Yoktu.”
 
-Perren, ona uzun bir süre baktı, sonra, yavaşça başını salladı — ama bu bir "hayır" değildi tam olarak. "Bilmiyorum kesin olarak. Ama Mirasçılar'ın eski bir şifresi var — 'Anahtar, Akıntı'nın kalbinde değil, onun yarattığı sessizliktedir.' Yıllarca bunu çözmeye çalıştım. Ve bir tek şeye vardım: belki de anahtar, bir nesne değil. Belki bir kan meselesi, ya da bir an meselesi. Kızıl Hafta'nın en derin, en sessiz anı — belki de kapı, sadece o anda, ve sadece doğru kişiye açılır."
+Bu yokluk Togan'ın umuduna dokundu. Melira da gömülmüştü; bunun ne anlama geldiğini biliyordu. Yine de bir insanın iz bırakmadan kaybolabildiği yerde ölüm, bildiği kadar kesin olmayabilirdi.
 
-Togan, bu sözleri düşünürken, kendi kanının, kendi geçmişinin bilmediği bir şeyi taşıyıp taşımadığını merak etti bir an — ama bu düşünce, ona çok saçma geldi, ve hızla üzerinden attı.
+Perren taş levhalardan birini aldı. Üzerine dar, uzun bir dikilitaş çizmişti. Gövdesindeki işaretler Şafak Kapısı'ndakilere benziyordu.
 
-"Kızıl Hafta'ya kadar ne kadar var?" diye sordu.
+“Bunu Sed'in doğusunda bulduk. Akıntı yaklaşınca titriyor. Kızıl Sürü büyüdükçe uğultusu artıyor.”
 
-"Yakında," dedi Perren. "Belki birkaç hafta, belki daha az. Buradan, gökyüzündeki lekeyi izleyerek daha iyi anlayabilirsin — o, en doğru takvim."
+“Ne söylüyor?”
+
+“Taş konuşmuyor.”
+
+“Sen dinlediğini söyledin.”
+
+“Dinlemek, anlamak değildir.” Perren çizimdeki üç işareti gösterdi. “Bunları çevirebildim: dışarısı, çağrı, ağırlık. Sıraları değişirse anlam da değişiyor.”
+
+Togan kapının yönüne baktı. “Sed içeridekileri tutuyor.”
+
+“Herkes öyle sanıyor.” Perren taş levhayı yerine koydu. “Ben artık bundan emin değilim. Bazen basınç kuzeyden gelmiyor. Bizim taraftan duvara doğru akıyor. Sed belki içerideki bir şeyi bize karşı değil, bizi içerideki şeye karşı koruyor.”
+
+Togan ayağa kalktı. “Bana bilmece değil, kapıyı açacak yol lazım.”
+
+Perren onun öfkesine karşı kıpırdamadı. “Elimdeki en açık cümle şu: ‘Anahtar Akıntı'nın kalbinde değil, bıraktığı sessizliktedir.’ Mirasçılar'ın eski bir kaydında okudum. Kızıl Hafta'nın ortasında Sed bir an için susar. Kapı o sırada değişiyor.”
+
+“Nasıl?”
+
+“Bunu görmek için kaldım.”
+
+“On bir yıl mı?”
+
+Perren'in bakışı ateşte kaldı. “Son Kızıl Hafta'da buraya geç ulaşmıştım.”
+
+Togan sığınağın içindeki çiziklere yeniden baktı. İşaret sandıklarının bir kısmı gün sayılarıydı. Perren zamanı kaybetmemiş, duvarın dibinde biriktirmişti.
+
+“Bu kez ne kadar var?”
+
+“Günler. Belki bir hafta.”
 
 ---
 
-O gece, Togan, Perren'in küçük, ilkel barınağında kaldı — münzevinin, yıllar içinde, ölü topraklarda hayatta kalmak için öğrendiği yöntemlerle inşa ettiği bir sığınak. İkisi de, uzun süre konuşmadı; sadece, aynı duvara, aynı ışığa baktılar, her biri kendi hikâyesinin ağırlığıyla.
+Gece ilerlerken Perren, kurutulmuş kökten yaptığı çorbayı iki tas arasında paylaştırdı. Togan tadına bakınca yüzünü buruşturdu.
 
-"Sana bir şey soracağım," dedi Togan sonunda, sessizliği bozarak. "Pişman mısın? Buraya gelmiş olmaktan, geri dönmemiş olmaktan?"
+“Burada on bir yıl bunu mu yedin?”
 
-Perren, uzun bir süre düşündü, gözleri ateşe dikili. "Bazen," dedi yavaşça. "Ama sonra, duvara bakıyorum, ve düşünüyorum — eğer geri dönseydim, hayatımın geri kalanını, 'ya orada kalsaydım' diye merak ederek geçirirdim. En azından burada, cevabın kıyısındayım. Bu, bir teselli sayılır mı bilmiyorum, ama tek tesellim bu."
+“İlk yıl daha kötü yapıyordum.”
 
-Togan, bu sözleri, kendi geleceğinin bir yansıması gibi hissetti — ve bir an, korkuyla, kendi kendine sordu: acaba bir gün, o da, Perren gibi, bu topraklarda kalmış, kendi yasının ve umudunun tutsağı olmuş biri olarak mı bulunacaktı?
+Togan istemeden güldü. Ses, sığınağın alçak tavanında yabancı durdu.
 
-Ama sonra, Kaya'yı, Anya'yı, Börü'yü, geride bıraktığı her şeyi hatırladı — ve kendi kendine, sessizce, yeniden yemin etti: o, Perren gibi olmayacaktı. O, bir cevap bulacak, ya da bulamasa bile, geri dönecekti. Bir şekilde.
+“Geri dönmeyi hiç denemedin mi?” diye sordu.
 
-Gece yarısı, uykuya dalmadan önce, Perren'in, uyurken bile huzursuzca kıpırdandığını fark etti — yıllardır ilk kez, belki de, birinin yanında uyuyordu münzevi.
+“Üç kez. Her defasında beyaz odayı gördüm. Her defasında sabah kendimi Sed'e doğru yürürken buldum.” Perren kaşığını bıraktı. “Dördüncüde kendime güvenmedim.”
 
-Kızıl Hafta yaklaşıyordu. Ve Togan, hazır olup olmadığından hâlâ emin değildi.
+Togan, Melira'nın adını söyleyerek çıktığı geceleri düşündü. Aradaki fark sandığından küçük olabilirdi.
+
+Yatağını kapıya yakın serdi. Çantasındaki kırmızı ipi çıkarıp bir ucunu bileğine, ötekini kaya çıkıntısına bağladı.
+
+Perren baktı. “O ip seni durdurmaz.”
+
+“Koparsa uyandığımı anlarım.”
+
+Togan gözlerini kapatmadan önce kendine tek bir söz verdi: Kapı açılırsa içeri girecekti. Açılmazsa burada Perren'in on ikinci yılına ortak olmayacaktı.

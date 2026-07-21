@@ -1,58 +1,44 @@
 # Bölüm 28 — İki Haber
 *(ZALEENA)*
 
-Paslı Gelgit'in dönüşü, hiç beklenmedik bir anda geldi — Zaleena, tam da Eski-Kent'ten haber beklerken, bir nöbetçinin, telaşla, kapısını çalmasıyla öğrendi.
+Paslı Gelgit bayraklı üç gemi kuzey rıhtımına yaklaşınca Zaleena savaşçıları iskele ağızlarına yerleştirdi. Mancınıklara taş kondu, fakat fitiller yakılmadı.
 
-"Üç gemi," dedi nöbetçi, nefes nefese. "Kuzey rıhtımına yaklaşıyorlar. Paslı Gelgit bayrağı taşıyorlar."
+Öndeki gemi beyaz bez kaldırdı.
 
-Zaleena, hızla ayağa kalktı, kılıcını kuşanırken, zihni, aynı anda, birkaç ihtimali hesaplıyordu. "Kaç kişiler?"
+"Konuşmaya geldik!" diye bağırdı bir kadın.
 
-"Belirsiz. Ama üç gemi, en az altmış-yetmiş adam demek."
+Silahsız karaya çıkmasına izin verdiler. Kadının yüzündeki eski yara çenesinden kulağına uzanıyordu.
 
----
+"Vesna," dedi. "Paslı Gelgit'i ben yönetiyorum. Önceki lider kışın Akıntı yaratıklarına öldü. Ateşkes istiyoruz."
 
-Rıhtımda, Zaleena, kendi savaşçılarını, hızla düzenledi — Kessel, sol kanadı; Sorin'in yerine geçen genç bir kaptan, sağ kanadı komuta ederken, Zaleena, merkezde durdu.
+Zaleena çevredeki gemileri saydı. Güvertelerde saldırı için fazla az, pazarlık için yeterince çok insan vardı.
 
-Paslı Gelgit gemileri, beklenenden daha temkinli yaklaştı — saldırgan değil, neredeyse tereddütlü bir tavırla.
+"Neden?"
 
-"Bu, garip," dedi Kessel, yanına gelerek. "Genelde, doğrudan saldırırlar. Bu sefer, sanki, bir şey konuşmak istiyorlar."
+"Çünkü yaratıklara verdiğimiz kayıp sizden çaldığımızla karşılanmıyor. Üç köy boşaldı. İnsanlarım aç."
 
-Zaleena'nın içgüdüleri, aynı şeyi fısıldıyordu. "Ateş etmeyin," diye bağırdı, sesi, bütün rıhtıma yayılarak. "Bekleyin!"
+"Benden yiyecek mi istiyorsun?"
 
-Gemilerden biri, yaklaştı, güvertesinde, beyaz bir bez sallanıyordu — barış işareti.
+"Önce otuz gün saldırısız geçiş. Sonra ticaret. Enkaz sularını birlikte gözetebiliriz."
 
-"Zaleena!" diye bağırdı bir ses, gemiden. "Konuşmak istiyoruz! Sadece konuşmak!"
+Zaleena koşulları koydu. Paslı Gelgit gemileri Yamalı Liman yüklerine dokunmayacak, karşılığında liman da onların balıkçılarına ateş açmayacaktı. Otuz günün sonunda Vesna tek gemiyle geri gelecekti.
 
----
+"Bir baskın olursa?" dedi Zaleena.
 
-Kısa bir müzakereden sonra, tek bir Paslı Gelgit lideri, silahsız, karaya çıkmasına izin verildi — orta yaşlı bir kadın, yüzünde derin yara izleri, gözlerinde, garip bir yorgunluk.
+"Benim adamımsa bana teslim edersin. Seninkiyse ben sana."
 
-"Adım Vesna," dedi kadın, elleri açık, tehdit oluşturmadığını göstererek. "Paslı Gelgit'in yeni lideriyim — eskisi, geçen kış, bir Akıntı-Yaratığı saldırısında öldü. Ve ben... ben, savaşmak için gelmedim, Zaleena. Barış istiyorum."
+Bu cevap anlaşmaya değerdi. Vesna bileğini Zaleena'nın bileğine vurup gemisine döndü.
 
-Zaleena, şüpheyle, ama meraklı bir şekilde dinledi. "Neden şimdi?"
+İkinci haber çalışma odasında bekliyordu. Eski-Kent'e yollanan Arven varmış, Baş Kâtip Lyra'yla görüşmüştü. Mirasçılar bilgi ve şifa alışverişini meclise taşıyacaktı. Resmî cevap için birkaç hafta istemişlerdi.
 
-"Çünkü," dedi Vesna, sesi ağırlaşarak, "Akıntı-Yaratıkları, bizim sularımızda da artıyor. Kaybettiğimiz insan sayısı, sizinle savaşarak kazandığımızdan fazla. Halkım, aç, yorgun. Bir zamanlar, Paslı Gelgit, gurur duyulacak bir isimdi. Şimdi, sadece, hayatta kalmaya çalışan bir avuç insanız."
+Mektubun sonunda bir not vardı: Eski-Kent'te Togan adında Sungur bir savaşçı bulunuyordu. Şu anda kayıp bir arayıcıyı aramaya gitmişti.
 
-Zaleena, bu itirafın ağırlığını, uzun bir süre, sessizce tarttı — kendi geçmişinde, benzer bir umutsuzluğu, çok iyi hatırlıyordu.
+Zaleena adı Kessel'e okudu. "Tanıyor musun?"
 
-"Ne teklif ediyorsun?" diye sordu sonunda.
+"Hayır."
 
-"Ateşkes. Ve belki, zamanla, daha fazlası — ticaret, karşılıklı yardım. Enkaz sularının, hepimiz için, yeterince tehlikeli olduğunu düşünüyorum artık, birbirimize düşman olmadan bile."
+"Ben de. Kayda geçir."
 
-Zaleena, Kessel'e baktı, sonra, yavaşça başını salladı. "Konuşacağız, Vesna. Ama önce, iyi niyetini kanıtlaman gerek. Otuz gün, hiçbir saldırı olmasın — sonra, gerçek bir görüşme ayarlarız."
+Aynı gün iki düşman kapıya gelip konuşmayı seçmişti. Zaleena bunu iyiye işaret saymadı; yalnız yeni yolların açılabildiğine dair kanıt saydı.
 
-Vesna, minnetle başını eğdi. "Kabul. Ve Zaleena... teşekkür ederim. Bunu duymaya hazır olacağını hiç ummamıştım."
-
----
-
-Vesna'nın gemileri ayrıldıktan sonra, Zaleena, kendi çalışma odasına döndüğünde, ikinci haber, onu bekliyordu — Sorin'in, Eski-Kent'ten gönderdiği bir mektup, uzun bir yolculuğun ardından.
-
-*Vardık,* diye yazmıştı Sorin. *Mirasçılar, bizi kabul etti — temkinli ama düşmanca değil. Baş Kâtip Lyra ile konuştum; teklifini ilettim. İlgilendiler, özellikle Delta'dan bağımsız bir bilgi/ticaret kanalı fikrine. Resmi bir cevap için, birkaç hafta istediler — kendi meclislerinde tartışacaklarmış.*
-
-*Bir de ilginç bir not: burada, bir savaşçı varmış, Sungurlar'dan gelen — adı Togan. Ama şu anda burada değil, bir görev için ayrılmış, ne zaman döneceği belirsiz. Belki, bir gün, kendisiyle de konuşuruz.*
-
-Zaleena, bu son satırı, tekrar okudu — isim, hiçbir şey ifade etmiyordu ona, sadece, uzak bir yerin, uzak bir hikâyesinin küçük bir parçası gibi görünüyordu.
-
-Mektubu katladı, masasına koydu, ve pencereden, dışarı, limana baktı — bugün, iki haber almıştı, ikisi de, umutla, tehlikeyle iç içe. Paslı Gelgit'le olası bir barış. Mirasçılar'la olası bir ittifak.
-
-Belki de, düşündü Zaleena, dünya, sandığından biraz daha fazla, iyiye doğru dönüyordu — yavaşça, ihtiyatla, ama dönüyordu.
+Vesna'nın otuz gününü takvime işledi. Arven'in mektubunu da Delta kayıtlarının yanındaki çekmeceye koydu. Umut bile tarih ve koşul verilince işe yarıyordu.

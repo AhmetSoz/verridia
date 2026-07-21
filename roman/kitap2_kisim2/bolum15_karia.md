@@ -1,48 +1,34 @@
 # Bölüm 15 — Kınından Çekilen Kılıç
-*(KARİA)*
+*(KARIA)*
 
-Severin'in hareketleri, Faelan'ın raporuna göre, son haftalarda, tuhaf bir telaşla hızlanmıştı.
+Severin gemilerini satıyor, ailesinin bazı üyelerini kıta dışına çıkarıyordu. Vorlag'ın düşüşünden sonra sıranın kendisine geldiğini anlamıştı.
 
-Faelan, çalışma odasında, Karia'nın karşısında oturdu. "Gemilerini, sessizce, satmaya başladı. Ve kendi ailesinden birkaç kişiyi, kıtanın dışına, gizlice gönderdi. Korkuyor gibi görünüyor, Majesteleri."
+Saraya kendi isteğiyle geldi.
 
-Karia, bu haberi, dikkatle dinledi. "Neden şimdi?"
+"Azgutlara giden silah dosyanız hâlâ açık," dedi Karia.
 
-"Vorlag'ın düşüşünü duydu, tahmin ediyorum. Ve belki de, sizin, artık, eski suçları, eskisi kadar tolere etmediğinizi anladı."
+"Biliyorum."
 
----
+"Delta deposunun kayıtları da Severin kervanlarını gösteriyor. Ne kadarını taşıdığını, ne kadarını sattığını anlat."
 
-O hafta, Severin, beklenmedik bir şekilde, kendisi, saraya geldi — resmi bir davet olmadan, aceleyle ayarlanmış bir görüşme talebiyle.
+Severin ilk kez bütün hattı açıkladı. Kervanları Delta sandıklarını sınırda teslim almış, Hegemonya malı gibi göstermişti. Kazancın bir bölümü kayıp oğlunu arayan özel seferlere gitmişti. O çocuk Prens Aldric değildi; Hasat'ta kaybolan başka bir oğuldu.
 
-"Majesteleri," dedi Severin, saray odasına girerken, sesi, eskisinden çok daha temkinliydi, "sizinle, açık bir şekilde konuşmak istiyorum."
+"Yas, silah ticaretini açıklayabilir," dedi Karia. "Haklı çıkarmaz."
 
-Karia'nın sesi soğuktu. "Nihayet. Otur, Lord Severin."
+Severin başını eğdi.
 
-Severin, oturdu, elleri, hafifçe titreyerek. "Azgutlar'a sattığım silahlar konusunda... biliyorum, bunu, unutmadınız."
+Karia ona kapalı dosya karşılığında sessiz sadakat önermedi. Üç koşul koydu. Savaşta zarar gören sınır ailelerine açık tazminat fonu kurulacak, bütün gemi satışları Konsey denetiminden geçecek ve Severin ifade vererek Delta hattını resmî kayda sokacaktı.
 
----
+"Adım açıklanacak mı?"
 
-Karia, doğrudan karşılık verdi. "Unutmadım. Ve dosyan, hâlâ, elimde. Kullanılmamış, ama hazır."
+"Fon kayıtlarında evet. Suç ayrıntıları şimdilik mühürlü kalacak. Bir daha ihlal edersen tamamı açılır."
 
-"Ne istiyorsunuz benden?" diye sordu Severin, sesi, gerçek bir korkuyla.
+Severin kabul etti. Teşekkür etmedi; bunun merhamet olmadığını anlamıştı.
 
-Karia, uzun bir süre, ona baktı — bir zamanlar, bu adamı, sadece bir hain olarak görürdü. Ama şimdi, Vorlag'ın itirafından sonra, insanların, korku ve kayıptan, ne kadar karanlık seçimler yapabileceğini, daha iyi anlıyordu.
+Faelan ifade alınırken odadaydı. Sonra Karia'ya, açık tazminatın eski soyları rahatsız edeceğini söyledi.
 
-"Oğlunu kaybettin," dedi Karia, sesi, beklenmedik bir yumuşaklıkla. "Aldric'i. Ve bu kayıp, seni, çaresiz kararlara sürükledi. Bunu, anlıyorum, Severin. Ama anlamak, affetmek değil."
+"Rahatsızlık ceza değildir," dedi Karia. "Ödediklerini görmeleri gerekir."
 
----
+Kaelan kararı öğrendiğinde onay cümlesi kurmadı. Yalnız fonun başına Severin'in adamlarından birini koymamasını önerdi. Karia zaten bağımsız üç mütevelli seçmişti.
 
-"Sana, bir seçenek sunuyorum," dedi Karia, sonunda, "Vorlag'a sunduğuma benzer bir seçenek. Servetinin bir kısmını, savaşın zarar verdiği ailelere, sessizce, tazminat olarak vereceksin. Ve bundan sonra, hiçbir gizli ticarete karışmayacaksın — hiçbir taraf için, hiçbir silah için. Eğer kabul edersen, dosyan, kapalı kalır."
-
-Severin, bu teklife, gözlerinde, gerçek bir minnetle karşılık verdi. "Kabul ediyorum, Majesteleri. Ve... teşekkür ederim. Beklediğimden çok daha merhametli davrandınız."
-
-"Merhamet değil bu," dedi Karia, sesi, yine sertleşerek. "Bu, pragmatizm. Seni yok edersem, yerini, belki daha kötü biri alır. Ama seni, borçlu, kontrollü bir müttefik olarak tutarsam, hem adalet biraz sağlanır, hem de, krallığım, istikrarlı kalır."
-
----
-
-Severin ayrıldıktan sonra, Sör Kaelan, gölgeden çıktı, yüzünde, düşünceli bir onay vardı.
-
-Kaelan'ın sesi düşünceliydi. "İyi bir denge kurdun, evladım. Ne tam adalet, ne tam merhamet — ama krallığın için, doğru olan."
-
-Karia'nın sesi yorgundu. "Bazen, en iyi kararlar, en tatmin edici olanlar değildir, Kaelan. Sadece, en gerekli olanlardır."
-
-Kaelan, bu söze, yavaşça başını salladı, sonra, ayrılırken, son bir gözlem paylaştı. "Bir yıl önce, sen, sadece bir savaşçıydın, evladım. Şimdi, gerçek bir kraliçesin — çünkü, artık, adaletin ne olduğunu değil, adaletin, ne kadarının, mümkün olduğunu biliyorsun."
+Kınından çekilen dosya Severin'i kesip atmadı. Onu ilk kez kayıtlı bir sonuca bağladı.

@@ -1,56 +1,68 @@
 # Bölüm 12 — Boşalan Taht
 *(ZALEENA)*
 
-Haberler, kırık ve parça parça, üç gün boyunca Yamalı Liman'a sızdı — önce bir söylenti, sonra bir kaçan geminin tanıklığı, sonunda acı bir kesinlik: Roric'in seferi, tam bir hezimetle sonuçlanmıştı.
+İlk gemi üç gün sonra döndü.
 
-Zaleena, rıhtımda, dönen tek gemiyi karşıladığında — sekiz gemiden geriye kalan tek gemi, hasarlı ve yarı boş mürettebatla — yüzündeki ifadeyi kontrol altında tutmak için gerçek bir çaba harcadı.
+Sekiz gemilik filodan kopmuş, ana direğini kaybetmişti. Güvertesinde yaşayanlar yaralılardan azdı. Rıhtıma yanaşırken tayfalar kürekleri elleriyle çekmek zorunda kaldı.
 
-"Ne oldu?" diye sordu, gemiden inen, yorgun ve sarsılmış kaptana.
+Zaleena kaptanı iskelede karşıladı. “Diğerleri?”
 
-"Hegemonya bizi bekliyordu," dedi adam, sesi hâlâ şoktaydı. "Ya da en azından, sandığımızdan çok daha hazırlıklıydılar. İki gemi battı anında. Roric'in amiral gemisi hasar aldı, geri çekilmeye çalıştı ama..." Durdu, yutkundu. "Son gördüğümde alevler içindeydi, Zaleena. Roric'in hayatta kalıp kalmadığını bilmiyorum."
+“İki gemi battı. Biri teslim oldu. Kalanlar dağıldı.” Adam konuşurken hâlâ arkasında top sesi duyuyor gibiydi. “Roric’in kıçı parçalandı. Sis içinde kaybettik. Gemisi yanıyordu.”
 
-Bu haber, rıhtımda hızla yayıldı — ve Zaleena, kalabalığın arasında, korkunun ve belirsizliğin nasıl bir panik dalgasına dönüştüğünü izledi. Yamalı Liman'ın anarşik doğası, bir liderin ani kaybında, en tehlikeli hâline bürünebilirdi — rakip kaptanlar arasında kanlı bir güç mücadelesine.
+“Cesedini gördün mü?”
 
-Zaleena, bu tehlikeyi görüyordu, ve bu, onun beklediği an olsa da, beklediğinden daha kaotik bir şekilde gelmişti.
+“Hayır.”
 
----
+Bu cevap limana ulaşana kadar değişti. Meyhane önünde Roric ölmüş, balık pazarında Hegemonya’ya esir düşmüş, kuzey iskelesinde adamlarını satıp kaçmıştı.
 
-O akşam, Çatlak Kurukafa meyhanesi, kendiliğinden, kaotik bir toplantı yerine dönüştü — kaptanlar, tayfalar, herkes, Roric'in yokluğunda ne olacağını tartışıyordu, çoğu zaman yüksek sesle, bazen yumruklarla.
+Akşam olmadan iki kaptan Enkaz Tahtı üzerinde hak iddia etti.
 
-"Enkaz Kralı öldüyse," diye bağırıyordu bir kaptan, masanın üzerine çıkarak, "yeni bir kral seçmeliyiz! Ben adayım!"
+Çatlak Kurukafa’daki tartışma yumruklara dönmek üzereyken Zaleena masanın üstündeki pirinç çanı aldı ve üç kez vurdu. Gürültü bir anda kesilmedi; fakat herkes sesin kaynağına döndü.
 
-Bu iddia, anında bir itirazla karşılandı, başka bir kaptandan — ve kısa sürede, meyhane, birbirine rakip iddiaların kakofonisine döndü.
+“Roric’in öldüğünü bilmiyoruz,” dedi.
 
-Zaleena, bu kaosu bir süre izledi, sessizce, köşede otururken. Sonra, kararını verdi.
+“Dönmedi!” diye bağırdı kaptanlardan biri. “Taht boş.”
 
-Ayağa kalktı, ve sesi, meyhanenin gürültüsünü bastıracak kadar net ve keskin çıktı — bağırmadan, ama otoriteyle. "Yeter."
+“Denizde kayıp olan her kaptanı ilk geceden gömseydik bu odada yarınız oturmazdı.”
 
-Bu tek kelime, garip bir şekilde, odadaki gürültüyü anında kesti — Zaleena'nın sesindeki o soğuk kesinlik, herkesin dikkatini çekmişti.
+Kessel arka duvara yaslanmış, konuşmadan dinliyordu.
 
-"Roric'in hayatta olup olmadığını bilmiyoruz," dedi, sesi hâlâ sakin ama şimdi herkesin duyabileceği kadar yüksek. "Ve öldüyse bile, onun tahtını kavga ederek, birbirimizi öldürerek belirlemek, tam da Hegemonya'nın istediği şey olur — bizi zayıflatmak, birbirimize düşürmek. Roric'in seferi başarısız oldu çünkü acele etti, uyarıları dinlemedi, ve gururunu mantığının önüne koydu. Aynı hatayı şimdi burada tekrarlarsak, hepimiz kaybederiz."
+Bir başka kaptan masaya yumruğunu vurdu. “Sen ne istiyorsun? Beklerken limanı Hegemonya’ya mı bırakalım?”
 
-Bir kaptan, öne çıktı, sesi meydan okurcasına. "Peki sen ne öneriyorsun, Sessiz Zaleena? Sen mi lider olacaksın?"
+“Tam tersini.” Zaleena önündeki kâğıdı açtı. “Kuzey ve güney savunması kuruldu. Zift kazanları hazır. Kalan gemilerin yaralıları ve erzakı sayılacak. Roric’in akıbeti kesinleşene kadar hiçbir kaptan diğerinin gemisine silahla çıkmayacak.”
 
-Zaleena, ona döndü, gözlerinde hesaplı bir sakinlik. "Ben, Roric'in dönüp dönmeyeceğini öğrenene kadar beklenmesini öneriyorum. Ve bu süre zarfında, birbirimizi öldürmek yerine, limanı ve gemilerimizi koruyalım — çünkü eğer Hegemonya, bu zayıflığımızı görürse, belki de bir misilleme seferi düzenlemeyi düşünebilir. Şimdi birlik zamanı, bölünme değil."
+“Kim uygulayacak?”
 
-Bu sözler, odada karışık bir tepki yarattı — bazıları hâlâ şüpheyle, ama çoğu, Zaleena'nın mantığındaki gerçeği görerek, sessizce başını salladı.
+“Hepimiz. Uymayan kaptanın liman payını Konsey kesecek.”
 
-"Ve eğer Roric dönmezse?" diye sordu Kessel, arka sıralardan, sesi sakin ama meraklı.
+Odadaki yüzler değişti. Pay, Yamalı Liman’da kılıçtan daha anlaşılır bir tehditti.
 
-Zaleena, bir an durdu, kelimelerini dikkatle tarttı. "O zaman," dedi yavaşça, "Kaptanlar Konseyi'ni resmen toplarız, ve düzenli, kurallı bir şekilde, bir sonraki lideri seçeriz. Kavgayla değil, oyla. Çünkü Yamalı Liman, sonsuza kadar bir sonraki güçlü adamın gelip tahtı zorla almasını bekleyen bir yer olamaz — eğer hayatta kalmak istiyorsak."
+Kessel öne çıktı. “Roric dönmezse?”
 
-Bu son cümle, Zaleena'nın kendine bile nadiren söylediği o kelimeyi — bayrak, düzen, kalıcılık — ilk kez, dolaylı da olsa, halka açık bir şekilde dile getirmesiydi. Ve meyhanedeki sessizlik, onun sözlerinin ağırlığını gösteriyordu.
+Zaleena cevabı ilk kez herkesin önünde verdi. “Kaptanlar Konseyi toplanır. Yeni lider düelloyla değil, oyla seçilir.”
 
----
+İtirazlar yükseldi. Zaleena çanı yeniden vurmadı; herkes konuşup nefesini tüketinceye kadar bekledi.
 
-Gemisine dönerken, Sorin yanına geldi, sesinde bir hayranlık vardı. "Onları ikna ettin."
+“Roric’in hatası acele etmekti,” dedi sessizlik oluşunca. “Onun yerine geçmek isteyen ilk işi olarak aynı hatayı yapmasın.”
 
-"Şimdilik." Zaleena'nın sesi yorgundu, ama içinde bir tatmin de vardı. "Roric dönerse, her şey eskisi gibi devam eder, ben de gölgede beklemeye devam ederim. Ama dönmezse..."
+Kessel elini kaldırdı. “Geçici düzen için oy veriyorum.”
 
-"Dönmezse?"
+Bir el daha kalktı. Sonra üç.
 
-Zaleena, bir an sessiz kaldı, sonra, o kelimeyi, bu sefer yüksek sesle, ama sadece Sorin'in duyabileceği kadar alçak bir sesle söyledi.
+Oy birliği olmadı. Yeterli çoğunluk oldu.
 
-"Dönmezse, bir bayrağın nasıl dikileceğini öğreneceğiz, Sorin."
+✦
 
-Rüzgâr, limanın üzerinde, garip bir soğuklukla esti — ve Zaleena, denizin derinliklerinde, bir yerlerde, bekleyen bir şeyin varlığını, bir kez daha hissetti; ama bu sefer, korkudan çok, bir fırsatın kokusuyla karışık bir şekilde.
+Gemiye dönerken Sorin yanında yürüdü. “Tahta bir adım kaldı.”
+
+“Tahtın boş olduğunu bilmiyoruz.”
+
+“Boşalmasını bekliyorsun.”
+
+Zaleena ona baktı. “Roric’in sağ dönmesini istiyorum. Yönetme biçiminin dönmesini istemiyorum. İkisini ayırmayı öğren.”
+
+Sorin başını eğdi. “Bayrak meselesi?”
+
+“Önce limanı sabaha çıkaralım.”
+
+O gece her iskeleye nöbet çizelgesi asıldı. Yamalı Liman ilk kez bir kralın emri olmadan aynı kurala uyudu.

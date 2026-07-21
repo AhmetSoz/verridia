@@ -1,56 +1,74 @@
 # Bölüm 3 — Hasadın Başlangıcı
-*(KARİA — Kızıl Hafta, 1. Gün)*
+*(KARIA: Kızıl Hafta, 1. Gün)*
 
-İlk Gelgit'in şafağında, Metheris'in bütün limanı, yıllarca süren hazırlığın son sınavına girmişti — Fiyort Filosu, sisin arasından, kıyıya vurmaya başlayan ilk cılız yosun damarlarını toplamak için harekete geçti.
+İlk yosun damarları gün ağarırken Hançer Körfezi'ne girdi.
 
-Karia, kendi amiral gemisinin güvertesinde, bu ilk günün hummalı hareketliliğini izlerken, garip bir tatmin hissetti — yıllarca süren hazırlık, sonunda, somut bir sonuca dönüşüyordu.
+Karia amiral gemisinin başında duruyor, ağ teknelerinin birbirine olan mesafesini sayıyordu. Su önce çekilmişti. Fiyordun çıplak kalan taşlarında cılız kırmızı lifler parlıyordu. Toplayıcılar bunlara koşmak istedi; Karia ilk dalga gelmeden kimseyi aşağı indirmedi.
 
-Yanındaki subay yaklaştı. "Amiral, ilk hasat raporları geldi. Beklediğimizden biraz daha bol, ama henüz erken."
+“Üçüncü sıra fazla açıldı,” dedi.
 
-Sesinde dikkatli bir iyimserlik vardı. "İyi. Ama gözünüzü açık tutun — ilk gün, sadece bir başlangıç. Asıl zorluk, üçüncü ve dördüncü günlerde gelecek."
+Yanındaki subay işaret bayrağını kaldırdı. İki tekne birbirine yaklaştı.
 
----
+İlk kabarma sakin geldi. Ağlar suya indi. Islak yosun, bakır kancalara tutunup güvertelere çekildi.
 
-Öğleye doğru, saraydan bir haber geldi — Kral, ilk kez, günler sonra, ayağa kalkabilmiş, ve Karia'yı, özel olarak, görmek istemişti.
+“Beklenenden bol,” dedi subay.
 
-Tuzlu Taht odasında, Theodoric, hâlâ zayıf ama gözlerinde yeni bir kararlılıkla, Karia'yı karşıladı.
+“İlk günün bolluğu ölçü değildir. Tartıya girenle kıyıda çürüyeni ayrı yazın.”
 
-Kral'ın sesi zayıftı ama sıcak. "Vârisim. Hasat başladı. Belki de, son hasadımı görüyorum."
+Karia filodan ayrılmadan önce iki saatlik sayıma baktı. Gemilerin söylediği miktarla depoya ulaşan miktar arasında yüzde altı fark vardı. Daha ilk sabah hırsızlık başlamıştı.
 
-"Böyle konuşmayın, Majesteleri." Karia'nın sesinde bir endişe vardı.
-
-"Gerçekçi olmalıyım, Karia." Kral'ın sesi, garip bir huzurla doluydu. "Ve gerçekçi olarak, sana bir şey söylemek istiyorum — seni vâris ilan ettiğimde, sadece bir siyasi hesap yapmadım. Seni, gerçekten, Hegemonya'nın en iyi umudu olarak görüyorum. Babamın, dedemin asla anlayamadığı bir şeyi, sen anlıyorsun: gücün, kılıçtan değil, halkın güveninden geldiğini."
-
-Bu sözler, Karia'nın içinde, derin bir duygu dalgası yarattı — bir onay, bir miras, ve aynı zamanda, ağır bir sorumluluk.
-
-Sesi titrek çıktı. "Teşekkür ederim, Majesteleri."
-
-"Bana teşekkür etme." Kral'ın sesi zayıflıyordu, ama gözleri hâlâ nettir. "Sadece, bu hasadı, ve ondan sonraki her hasadı, halkın için, benim ya da atalarımın gururu için değil, yönet. Bu, tek isteğim."
+“Faelan'a ambar kapılarını denetletin,” dedi. “Hırsızı şimdi bulamazsak Zirve'de bir filo kaybederiz.”
 
 ---
 
-Öğleden sonra, Karia, saraydan ayrılırken, Vorlag'ın, koridorda, onu beklediğini gördü — yaşlı lordun yüzünde, her zamanki soğuk hesap vardı, ama bu sefer, altında, farklı bir şey de gizliydi.
+Öğle vakti saraydan gelen haberci, Kral'ın ayağa kalktığını ve onu görmek istediğini söyledi.
 
-Vorlag başını eğdi. "Amiral. Kral'la güzel bir konuşma oldu sanırım."
+Theodoric Tuzlu Taht'a kadar yürümüş, fakat oturunca yeniden kalkamamıştı. Karia içeri girdiğinde hekimi şişeleri topluyordu.
 
-"Öyleydi, Lord Vorlag." Karia'nın sesi dikkatliydi.
+“Hasat nasıl?” diye sordu Kral.
 
-"Sör Valerius'un kuzeye sürgün edilmesini duydum." Vorlag'ın sesi, ilgisiz görünmeye çalışıyordu, ama Karia, altındaki gerçek merakı seziyordu. "Etkileyici bir çözüm. Kansız, ama etkili."
+“İlk rakamlar iyi. Depo kaybı kötü.”
 
-"Ben, kan dökmeden çözülebilecek sorunları, kan dökerek çözmeyi tercih etmem, Lord Vorlag."
+Theodoric güldü; gülüşü öksürüğe dönüştü. “Tahta çıkmadan önce doğru cevap vermeye başladın.”
 
-"Elbette." Vorlag'ın gülümsemesi, ince ve soğuktu. "Ama şunu bilmelisiniz, Amiral — ben, Valerius gibi acele etmem. Ben, sabırlıyım. Ve sabır, sonunda, her zaman kazanır."
+Karia önünde diz çökmedi. Kral son görüşmelerinde bunu yasaklamıştı.
 
-Bu sözler, açık bir tehditten çok, bir gerçeğin ifadesiydi — ve Karia, Vorlag'ın, hâlâ, sessizce, kendi zamanını beklediğini anladı.
+“Aldric ilk hasadına çıktığında on üç yaşındaydı,” dedi Theodoric. “Ağların çekilmesine yardım edeceğim diye iki tayfayı denize düşürdü. Herkes bana onun cesur olduğunu söyledi. Ben de inandım.”
 
-Karia'nın sesi kesindi. "O zaman ben de sabırlı olacağım, Lord Vorlag. Ve göreceğiz, kimin sabrı, Hegemonya'ya daha çok fayda getirecek."
+Karia bekledi.
 
-Vorlag, başını eğdi, ve sessizce uzaklaştı — savaş ilan edilmemişti, ama iki taraf da, bunun, sadece ertelenmiş bir çatışma olduğunu biliyordu.
+“Kuzeye gitmek istediğinde de cesaret sandım.” Kral yüzüğünü çıkardı. “Oğlumu bir efsaneye gönderdim. Seni de aynı hataya gönderme diye vâris yaptım.”
+
+Yüzüğü Karia'nın avucuna bıraktı. İç yüzünde Aldric'in çocukken açtığı küçük bir çizik vardı.
+
+“Bunu alamam.”
+
+“Taç değil. Bir babanın hatası. Tahta oturduğunda yanında tut.”
+
+Karia yüzüğü kapattı. “Siz varken oturmayacağım.”
+
+“Bunu sen seçmeyeceksin.”
 
 ---
 
-Akşam, Karia, limanın üzerinde, hasadın ilk gününün sonunu izledi — rıhtımdaki fenerlerin sırayla yanışını, işçilerin son yükleri taşıyışını.
+Koridorda Vorlag bekliyordu. Bakışı Karia'nın kapalı avucuna indi.
 
-"Yedi gün," diye mırıldandı kendi kendine. "Yedi gün, ve sonra, belki de, biraz nefes alabiliriz."
+“Kral aile yadigârlarını dağıtmaya başlamış,” dedi.
 
-Ama içinde, bir şey, ona, bu yedi günün, sandığından çok daha fazlasını değiştireceğini fısıldıyordu.
+“Sağlığı hakkında bu kadar meraklıysanız kendisine sorun.”
+
+“Valerius'u sürdünüz. Şimdi beni de mi süreceksiniz?”
+
+“Bir suç işlerseniz kanıtını bulurum.”
+
+Vorlag bastonunun ucunu taş zemine yerleştirdi. “Valerius aceleciydi. Sabırla çalışan insanlar kanıt bırakmaz.”
+
+Karia avucundaki yüzüğün kenarını hissetti. “Sabırlı insanların bir kusuru var, Lord Vorlag.”
+
+“Nedir?”
+
+“Beklerken karşılarındakinin de çalıştığını unuturlar.”
+
+Vorlag başını eğip yol verdi.
+
+Karia gün batmadan gemisine döndü. Depo farkının yarısı bulunmuştu: Maros hanesine ait iki mavna tartıya girmeden yük almıştı. İlk gün bitmeden mallara el koydurdu. Hasat, denizden çıkan yosun kadar insanların açgözlülüğünü de kıyıya vuruyordu.

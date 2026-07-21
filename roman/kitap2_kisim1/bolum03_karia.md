@@ -1,54 +1,70 @@
 # Bölüm 3 — İlk Elçi
-*(KARİA)*
+*(KARIA)*
 
-Kraliçe olarak ilk ayı, Karia'ya, tahtın, savaş meydanından çok daha karmaşık bir savaş alanı olduğunu göstermişti — her gün, yeni bir karar, yeni bir denge, yeni bir hesap gerektiriyordu.
+Rivan Deltası elçisi üç sandıkla geldi.
 
-Bir sabah, sarayın baş haberci, telaşlı bir şekilde, ona bir haber getirdi. "Majesteleri, Rivan Deltası'ndan bir elçi geldi. Bey Sarris'in kendisinden."
+Birinde Can Macunu, ikincisinde yaratık zehrine karşı ilaçlar, üçüncüsünde Bey Sarris'in teklifi vardı. Karia ilk iki sandığı hekimlere göndertti. Üçüncüyü Konsey salonunda açtı.
 
-Bu haber, Karia'yı şaşırttı — Sarris, nadiren, kendi elçilerini, bu kadar açık bir şekilde gönderirdi; genellikle, işlerini, gölgelerde, dolaylı yollarla halletmeyi tercih ederdi.
+“Kaos Mevsimi boyunca Hegemonya'ya yarı fiyat,” dedi elçi. “Karşılığında Delta teknelerinin Yamalı Liman ticaretine müdahale edilmeyecek.”
 
-Elçi, saraya kabul edildiğinde, resmi bir Delta temsilcisiydi — kibar, ama gözlerinde, her zamanki gibi, hesaplı bir dikkat vardı.
+“Hangi ticaret?”
 
-Elçi eğildi. "Kraliçem, Bey Sarris, sizi, yeni tahtınız için tebrik ediyor, ve bir teklif sunmak istiyor."
+“Delta'nın özel kayıtlarıdır, Majesteleri.”
 
-"Dinliyorum." Karia'nın sesi dikkatliydi.
+“Benim görmemem istenen ticareti korumamı istiyorsunuz.”
 
-"Yaklaşan Kaos Mevsimi'nde, Akıntı-Yaratıkları, her zamankinden aktif olacak. Bey Sarris, Hegemonya'ya, özel bir fiyatla, gelişmiş Can Macunu ve savunma kimyasalları sunmak istiyor — karşılığında, sadece, Hegemonya'nın, Delta'nın Yamalı Liman'la olan ticaretine, göz yummasını istiyor."
+Elçi gülümsedi. “Yalnız mevcut dengeye dokunmamanızı.”
 
-Bu teklif, Karia'nın içinde, anında bir alarm çaldı — bu, masum bir ticaret teklifinden çok, Delta'nın, Hegemonya üzerinde, dolaylı bir etki kurma girişimiydi.
+Karia sandıktaki şişelerden birini ışığa tuttu. Hegemonya bu ilaca bağımlıydı. Sarris fiyatı yarıya indirerek iyilik yapmıyor, ipin gevşek ucunu gösteriyordu.
 
-"Bay Sarris'in, Yamalı Liman'la ne tür bir ilişkisi var, tam olarak?" Karia'nın sesi dikkatliydi.
+“Teklifinizi yazılı bırakın.”
 
-Elçi, bir an tereddüt etti. "Bu, ticari bir konu, Kraliçem. Detayları paylaşma yetkim yok."
+“Bey Sarris cevabı ne zaman beklemeli?”
 
-Karia, bu cevabı, bir süre düşündü — Faelan'ın, daha önce, ona, Delta'nın, korsanlarla, kaçakçılık için işbirliği yaptığını söylediğini hatırladı. Ve şimdi, yeni bir isim de duymuştu — Yamalı Liman'ın, artık, sıradan bir korsan yatağı değil, "Sessiz Zaleena" adında bir kadının yönettiği, daha organize bir güç olduğunu.
+“İlaçları incelettikten sonra.”
 
-Sesi diplomatik ama temkinliydi. "Teklifi düşüneceğim. Ama önce, kendi araştırmamı yapmam gerekiyor."
+Elçi ayrılınca Karia şişeyi Faelan'a uzattı. “İçinde ne olduğunu değil, normal fiyatını ve bu indirimin Delta'ya ne kazandırdığını bul.”
 
----
+“Yamalı Liman'a karışmamamızı kazanıyor.”
 
-Elçi ayrıldıktan sonra, Karia, Faelan'ı çağırttı.
-
-"Yamalı Liman hakkında ne biliyorsun?" Karia'nın sesi doğrudandı. "Yeni lideri hakkında?"
-
-Faelan'ın sesi düşünceliydi. "Sessiz Zaleena. Eskiden, sadece bir kaçakçıydı — Delta için çalışan, ama bağımsız, kurnaz bir kadın. Şimdi, duyduğuma göre, Kaptanlar Konseyi'ni oyla ikna etmiş, resmi olarak Enkaz Kraliçesi seçilmiş. Bu, Yamalı Liman'ın tarihinde, benzeri görülmemiş bir şey — düzenli bir seçim, düello değil."
-
-Bu bilgi, Karia'nın içinde, beklenmedik bir merak uyandırdı. "İlginç bir kadın gibi görünüyor."
-
-"Öyle. Ve eğer doğruysa duyduklarım, Yamalı Liman'ı, gerçek bir düzene, hatta belki bir devlete dönüştürmeye çalışıyor. Bu, hem bir fırsat hem bir tehdit olabilir, Majesteleri — organize bir korsan gücü, dağınık bir korsan sürüsünden, çok daha tehlikeli, ama aynı zamanda, çok daha güvenilir bir müttefik de olabilir."
-
-Karia, bu düşünceyi, uzun bir süre, zihninde tarttı. Delta'nın teklifini kabul etmek, kısa vadede faydalı olabilirdi, ama uzun vadede, Hegemonya'yı, Delta'nın gölgesine sokabilirdi. Ama eğer, bunun yerine, doğrudan, Yamalı Liman'la — bu yeni, ilginç Kraliçe'yle — bir temas kurabilirse...
-
-Karia'nın sesi kararlıydı. "Faelan, bir mesaj hazırla. Bey Sarris'e, kibarca, teklifini reddettiğimi bildir — şimdilik. Ama aynı zamanda, gizlice, Yamalı Liman'a, bu Zaleena'ya, bir elçi gönderme imkânım var mı, öğrenmek istiyorum. Belki, Hegemonya'nın, Delta'ya değil, doğrudan Yamalı Liman'la, kendi şartlarımızda, bir anlaşma yapması, daha akıllıca olur."
-
-Faelan, ona, uzun bir süre, hayranlıkla baktı. "Bu, cesur bir hamle, Majesteleri. Delta, bunu, kendi tekelinin altında oyulması olarak görebilir."
-
-İnce bir gülümsemeyle: "Bildiğim kadarıyla, Delta, güç dengesini sever. Belki de, onlara, dengenin, her zaman, kendi lehlerine olmadığını göstermenin zamanı gelmiştir."
+“O kadar kolay söyleniyorsa asıl kazanç değildir.”
 
 ---
 
-O akşam, Karia, penceresinden, limana baktığında, kendi kendine, garip bir heyecan hissetti — ilk kez, sadece savunmacı değil, aktif, kendi inisiyatifiyle bir dış politika hamlesi yapıyordu.
+Faelan iki gün sonra liman kayıtlarıyla döndü. Delta yükleri Yamalı Liman üzerinden resmî tarifeden kaçıyor, bazı gemiler Hegemonya kıyısındaki yasak koylara uğruyordu. Fakat daha ilginç haber limanın yeni yönetimiydi.
 
-"Belki de," diye mırıldandı, "bu Zaleena ile, bir gün, tanışırım. Ve belki, ikimiz, bu kıtanın dengesini, hem Delta'nın hem Hegemonya'nın eski oyunlarının ötesinde, yeniden şekillendirebiliriz."
+“Sessiz Zaleena,” dedi Faelan. “Kaptanlar onu oyla Enkaz Kraliçesi seçmiş. Gemi kayıtları tutuyor, ortak savunma payı topluyor.”
 
-Bu düşünce, ona, hem bir umut hem de bir sorumluluk verdi — ve Karia, bir kez daha, kendi tahtının, sadece savunmak için değil, dünyayı, biraz daha iyi bir yere dönüştürmek için de kullanılabileceğini hissetti.
+“Korsanlardan vergi mi alıyor?”
+
+“Vergi sözcüğünü kullanmıyor.”
+
+“Akıllı.”
+
+Faelan masaya kıyı haritasını açtı. “Dağınık korsanlar yalnız zarar verir. Düzenli bir liman anlaşma da yapabilir, savaş da.”
+
+“Sarris arada kalmak istemiyor.”
+
+“Arada kalmak para kazandırıyor.”
+
+Karia, Yamalı Liman ile Metheris arasındaki rotayı parmağıyla izledi. Delta'nın sunduğu ilacı reddetmek mümkün değildi; koşulunu reddetmek mümkündü.
+
+“Can Macunu için piyasa fiyatını ödeyeceğiz,” dedi. “Yamalı Liman maddesini kabul etmiyorum.”
+
+“Sarris bunu düşmanca sayar.”
+
+“Saymasını engellemek benim görevim değil.”
+
+Karia boş bir kâğıt çekti. “Zaleena'ya elçi gönderebilir miyiz?”
+
+“Resmî elçi savaş çıkarır. Kaçakçı gönderebilirim.”
+
+“Hayır. Bir devlet gibi davranmasını istiyorsak biz de devlet gibi davranacağız. Mühür taşımayan ama adını saklamayan bir temsilci bul.”
+
+Faelan kâğıda bakmadan sordu. “Ne teklif edeceğiz?”
+
+“Önce dinlemeyi.”
+
+Karia görüşme yeri olarak Jilet Resifleri'ni yazdı. İki tarafın da top menzilinden uzaktaydı. Mektupta ittifak sözcüğünü kullanmadı. Yalnız Delta aracılığı olmadan konuşmak istediğini belirtti.
+
+İlk dış politika emrini imzalarken elindeki çizik yüzük kâğıda değdi. Theodoric kuzeye bir oğul göndermişti. Karia batıya bir soru gönderiyordu.

@@ -1,38 +1,22 @@
-# Bölüm 14 — Bağlı Ufuklar
-*(KAPANIŞ — TOGAN / TEMUJİN / KARİA / ZALEENA)*
+# Bölüm 14 — Geriye Kalan İşler
+*(KAPANIŞ / TOGAN / TEMUJİN / KARİA / ZALEENA)*
 
-O gece, Verridia'nın dört bir köşesinde, dört insan, artık, birbirlerinin yüzünü, seslerini, gülüşlerini bilerek, kendi ufuklarına döndü.
+Konukların ayrıldığı gün Kuru Dere'de hayat eski düzenine dönmedi. Eski düzenin üstüne dört yeni iş eklendi.
 
----
+Togan, Elowen'in hazırladığı anlatının bir kopyasını kurul dolabına koydu. Sed'in yeriyle Ayla'ya ait anılar çıkarılmıştı. Son sayfada gücünün yapamadıkları, yapabildiklerinden daha uzun yer tutuyordu. Perren bunu görünce başını salladı.
 
-**Sungur/Genç Kurtlar topraklarında**, Togan ve Temujin, ateşin başında, kraliçelerin ayrılışından sonraki ilk sessizliği paylaştılar.
+"Seni tanımayanlar hayal kırıklığına uğrayacak."
 
-"Yalnız hissediyorum," dedi Temujin, yavaşça, "ama iyi bir yalnızlık. Sanki, artık, dünyanın, sandığımdan çok daha büyük bir parçasına ait olduğumu biliyorum."
+"İyi," dedi Togan. "Belki peşime daha azı düşer."
 
-Togan, başını salladı. "Annem, bir zamanlar, tek başına, bu bozkırdan, bilinmeyen bir sınıra yürüdü. Ben de, kendi sınırlarımı buldum — ama artık, yalnız değil, dostlarla."
+Temujin aynı odada Amara'ya gidecek arşiv talebini mühürledi. Toruk'un adı kapalı ekteydi; açık metinde yalnızca Bozan Han'ın ölüm tarihindeki iki ödeme kaydı soruluyordu. Mektubun bir kopyası Sungur konseyine, biri Azgut karargâhına, biri Eski-Kent'e gönderildi. Bundan sonra sessizlik de cevap sayılacaktı.
 
----
+Karia dönüş yolunda vârislik komisyonunun üye şartlarını yazdı. Elowen, "sana itiraz etmiş olmak suç sayılmayacak" maddesini eklemesini istedi. Karia önce güldü, sonra cümleyi olduğu gibi kaydetti. Metheris'e vardıklarında tartışma sarayın kapalı odasında değil, eyalet temsilcilerinin önünde başlayacaktı.
 
-**Metheris'e dönüş yolunda**, Karia, Elowen'in yanında, at üzerinde, kendi kendine, yeni kararının ağırlığını tarttı.
+Zaleena kıyıya ulaştığı ilk gün altmış günlük tarifeyi liman panosuna astırdı. Draven, keçe ticaretinin iki kraliçenin dostluğuna bağlanmasını öneren başlığı çizdi. Yerine ağırlık ölçüleri, vergi oranı ve itiraz makamı yazıldı. İlk Genç Kurt kafilesi gelmese bile kural yerinde kalacaktı.
 
-"Faelan'a ne diyeceksin," diye sordu Elowen, "vâris konusunda?"
+Bir hafta sonra dört ayrı mühür taşıyan mektuplar yollara çıktı. Hiçbiri büyük bir birlik ilan etmiyor, kimseyi aynı bayrağın altına çağırmıyordu. Birinde arşiv talebi, birinde komisyon daveti, birinde tarife çizelgesi, sonuncusunda düzeltilmiş bir kuyu haritası vardı.
 
-"Ona," dedi Karia, kararlı, "gerçek bir arayışa başlayacağımı söyleyeceğim — kan bağıyla değil, karakterle. Genç Kurtlar, bana, bunu öğretti."
+Dört yol bir kez kesişmişti. Arkalarında kalan iz, ateş başında söylenen sözler değil, başkalarının da denetleyebileceği bu küçük düzenlemelerdi.
 
----
-
-**Yamalı Liman'a dönüş yolunda**, Zaleena, Kessel'in yanında, denizin kokusunu, yeniden hissetmeye başlarken, garip bir sıcaklıkla gülümsedi.
-
-"Bozkırı özleyeceğim," dedi Zaleena, itiraf ederek.
-
-"Ben de," dedi Kessel. "Ama eve dönmek de, kendi başına, bir armağan."
-
----
-
-Dört ayrı ufukta, dört insan, artık, birbirinden ayrı değildi — mektuplar, kanallar, ve şimdi, paylaşılan bir ateşin anısı, onları, görünmez ama gerçek bağlarla, birbirine bağlıyordu.
-
-Togan'ın kanı, hâlâ, iki dünya arasında bir köprüydü. Temujin'in hayali, hâlâ, bozkırın derinliklerinde, sabırla büyüyordu. Karia'nın tacı, artık, tek başına değil, seçilmiş bir geleceğe doğru taşınıyordu. Zaleena'nın limanı, artık, sadece bir sığınak değil, dünyaya açılan bir kapıydı.
-
-Dört yol, bir kez kesişmişti — ve hiçbiri, artık, eskisi gibi, tek başına yürümüyordu.
-
-*(8. Kısım Sonu — 9. Kısım'da devam edecek)*
+*(8. Kısım Sonu; 9. Kısım'da devam edecek)*

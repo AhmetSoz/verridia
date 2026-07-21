@@ -1,40 +1,20 @@
-# Bölüm 6 — Kışın Sınavı
+# Bölüm 6 — Kış Hesabı
 *(TEMUJİN)*
 
-İlk sert kış, Genç Kurtlar'ın, gerçek bir topluluk olarak, en büyük sınavını getirdi — erzak, beklenenden hızlı tükeniyordu, ve soğuk, günden güne, daha acımasız hale geliyordu.
+İlk kar yağmadan on iki gün önce Batu'nun sayımı açığı gösterdi. Kuru Dere'nin tahılı normal tüketimle yetmiş iki gün dayanacak, kışın en iyimser hesabı yüz gündü.
 
-"Yeterli erzağımız yok," dedi Batu, endişeyle, sayımları, Temujin'e sunarken. "En az bir ay, açık verecek gibiyiz."
+Temujin ambarı yeniden saydırdı. Sonuç değişmedi. Kurulun önüne üç seçenek koydu: payları hemen azaltmak, hayvanların bir bölümünü satmak ve komşulardan borçla erzak almak.
 
-Temujin, bu haberi, dikkatle değerlendirdi. "Kaya'dan, yardım isteyebiliriz."
+Sungur konseyi yirmi günlük arpa teklif etti. Temürçiler on beş günlük kurutulmuş et gönderebileceklerini bildirdi. Temujin ikisini de armağan olarak kabul etmedi. Baharda keçe ve demir işiyle geri ödenecek miktarlar üç mühürlü sözleşmelere yazıldı. Yardımın koşulları meydan panosuna asıldı.
 
----
+Kurul yine de payları onda bir azalttı. Çocuklar, hastalar ve ağır işçiler kesintinin dışında kaldı. Temujin kendi payını yarıya indirince Kaya bunu gösteriye çevirmemesini söyledi.
 
-Kaya, bu talebi, tereddütsüz kabul etti. "Sungurlar, kendi erzağının bir kısmını, paylaşabilir. Bu, sizin, bize, verdiğiniz onca yardımın, küçük bir karşılığı."
+"Sen hastalanırsan iki kişinin işi aksar," dedi. "Kural sana da uygulanacak."
 
-Ama Temujin, bu yardımı, tek başına yeterli görmedi. "Elara'ya da yazacağım — Temürçi ittifakımız, sadece silah ticareti için değil, gerçek dostluk için de var."
+Temujin tam pay aldı.
 
-Elara'nın cevabı, hızlı ve cömertti: *Erzak kervanı, üç gün içinde yola çıkacak. Ve bir şey daha — bu kışı, birlikte atlatmanın, ittifakımızı, daha da güçlendireceğine inanıyorum.*
+Togan'ın nöbetçileri büyük fırtınayı üç gün önceden bildirdi. Tahmin tek bir sezgiye dayanmıyordu: basınç taşı iki gündür düşüyor, kuzey kuşları dere yatağına iniyor, rüzgâr gece yön değiştiriyordu. Çatılar güçlendirildi, sürüler alt ağıllara alındı. Buna rağmen bir ambarın damı çöktü; iki kişi kolundan yaralandı.
 
----
+Fırtınadan sonra Temujin zarar defterini herkesin önünde okudu. Kurtarılan çuvallarla kaybedilenleri aynı sesle saydı. Bahara ulaştıklarında erzak onlara yalnız altı gün yetecek kadar kalmıştı.
 
-Togan, bu krizde, kendi katkısını, farklı bir şekilde sundu — nöbetçi öğrencileriyle, yaklaşan fırtınaları, önceden tespit ederek, kampın, en kötü havalara, hazırlıklı olmasını sağladı.
-
-"Üç gün sonra, büyük bir kar fırtınası geliyor," dedi Togan, bir sabah, Temujin'e. "Öğrencilerim, hissetti. Hazırlanmalıyız."
-
-Bu uyarı, kampın, fırtınayı, ciddi bir kayıp olmadan atlatmasını sağladı — çadırlar, güçlendirildi, hayvanlar, güvenli barınaklara taşındı.
-
----
-
-Kışın ortasında, en zor günlerde, Batu, bir akşam, Temujin'e, yorgun ama umutlu bir gözlemle geldi.
-
-"Biliyor musun," dedi Batu, "bir yıl önce, sadece hayatta kalmaya çalışan bir avuç insandık. Şimdi, bir kış fırtınasını, komşularımızın yardımıyla, kendi hazırlığımızla, atlatıyoruz. Bu, büyük bir fark."
-
-"Öyle," dedi Temujin, düşünceli. "Ve bu fark, bize, gösteriyor ki, gerçek bir topluluk, sadece, iyi zamanlarda değil, zor zamanlarda da, birbirine tutunabilen bir topluluktur."
-
----
-
-Kış, sonunda, geçtiğinde, Genç Kurtlar, zayıflamış ama sağlam, baharın ilk sıcaklığına, hayatta çıktı — ve bu sınav, topluluğun, kendi kendine olan güvenini, daha da pekiştirdi.
-
-Kaya, baharın ilk gününde, kampı ziyaret ettiğinde, gururla gözlemledi. "Hayatta kaldınız — ve sadece hayatta kalmadınız, güçlendiniz."
-
-Temujin, bu söze, derin bir minnetle karşılık verdi. "Sensiz, Elara'nın yardımı olmasaydı, bu mümkün olmazdı, Kaya. Genç Kurtlar, artık, sadece kendi başına ayakta duran bir topluluk değil — bir ağın, sevgiyle örülü bir ağın, parçası."
+Kuru Dere kışı bir kahramanlık hikâyesiyle atlatmadı. Payları azalttı, borçlandı, iki kez yanlış hesap yaptı ve komşularının yükünü kabul etti. Temujin için asıl sınav buydu: hayatta kalmalarını kendi başarısı diye anlatmamak.

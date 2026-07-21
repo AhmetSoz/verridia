@@ -1,68 +1,48 @@
 # Bölüm 10 — Kırıcılar Şöleni
 *(TEMUJİN)*
 
-Şölen alanı, ordugâhın güneyinde, sertleşmiş toprakla çevrili dairesel bir çukurdu — Kırıcılar Şöleni'nin yıllardır aynı kanı içmiş zemini. Temujin, çukurun kenarında, kalabalığın toplandığını izledi; neredeyse bütün ordugâh, bu dövüşü görmeye gelmişti.
+Şölen çukuru ordugâhın güneyindeydi. Korgan ön sırada oturuyor, Batu baltasını sallayarak kalabalığı kızıştırıyordu. Temujin arenaya hafif kılıçla indiğinde yuhalamalar başladı.
 
-Korgan, en ön sırada oturuyordu, yüzünde belirsiz bir ifadeyle — ne memnuniyet ne endişe, sadece bir seyircinin sabırlı merakı.
+İlk saldırıyı beklediği yerden geldi. Batu baltayı yukarıdan indirdi; Temujin yana kaçtı. İkinci vuruş soldan savruldu. Üçüncüde Batu bir adım fazla attı.
 
-Batu, çukurun ortasında, baltasını savurarak, kalabalığı kızıştırıyordu — gövdesi, yağ gibi parlayan bir kas yığınıydı, ve her hareketinde, bu gücün kesinliği vardı.
+Temujin karşılık vermedi. Her kaçışta yarım çember çiziyor, onu Sube'nin gece boyunca suladığı kenara çekiyordu. Toprağın üstü güneşte kurumuştu. Altı ise dev bir adamın bütün ağırlığını taşıyamayacaktı.
 
-Temujin, çukura indi, elinde sadece hafif bir kılıç — Batu'nun devasa baltasının yanında neredeyse gülünç görünen bir silah.
+"Kaçmayı iyi öğrenmişsin!" diye bağırdı Batu.
 
-"Genç Kurt sonunda geldi!" diye kükredi Batu, kalabalığın kahkahalarını toplayarak. "Umarım vasiyetini yazdın."
+Kalabalık güldü. Temujin, Batu'nun soluğundaki değişimi dinledi. Altıncı hamlede balta geç kalktı. Sekizincide sağ omuz düştü. Dokuzuncuda öfke, alışkanlığın önüne geçti.
 
-Temujin cevap vermedi. Gözleri, çukurun zeminini tarıyordu — üç gündür Sube'yle birlikte incelediği zemin, her çatlağı, her eğimi ezbere bilerek.
+Onuncu saldırı bütün gücüyle geldi.
 
----
+Temujin geri çekilmek yerine Batu'nun yanından geçti. Dev savaşçının sağ ayağı koyu renkli toprağa gömüldü. Dizi büküldü; balta dengesiz bir yay çizerek yere vurdu.
 
-Dövüş başladığında, Batu'nun ilk hamlesi, çukuru sarsan bir baltayla geldi — Temujin, kolayca kaçtı, ama kalabalık, kaçışı bir korkaklık gibi yorumlayarak yuhaladı.
+Temujin kılıcın düzünü Batu'nun bileğine indirdi. Balta elden çıktı. İkinci hareketinde çeliğin ucunu rakibinin boğazına dayadı.
 
-"Kaç, Genç Kurt!" diye bağırdı biri. "Kaçmak, senin gerçek yeteneğin galiba!"
+Meydanda ses kalmadı.
 
-Temujin, bu alayları görmezden geldi. Batu'yla doğrudan çarpışmıyordu — sadece, onu, çukurun belirli bir köşesine doğru, sabırla, adım adım yönlendiriyordu.
+"Zemini hazırladın," dedi Batu. Dizinin üstündeydi, ama boyun eğmiş görünmüyordu.
 
-Batu, ikinci hamlesinde, daha da öfkeliydi — balta, havayı yararak indi, ama Temujin, son anda, yana kayarak kaçtı, ve bu sefer, balta, boş toprağa değil, çukurun kenarındaki gevşek bir taş bloğuna çarptı.
+"Sen de beni herkesin önünde seçtin. İkimiz de dövüşten önce hazırlandık."
 
-Üçüncü hamle, dördüncü, beşinci — her biri, Temujin'i biraz daha, çukurun o belirli köşesine yaklaştırıyordu. Batu'nun nefesi, ağır kasların yorgunluğuyla, hızlanmaya başlamıştı; öfkesi, hesaplı hareketlerinin yerini almaya başlamıştı.
+Batu'nun bakışı Korgan'a kaydı. Han yerinden kıpırdamadı.
 
-Onuncu hamlede — Sube'nin, "kimse on hamleden fazla dayanamadı" dediği o eşikte — Temujin, geri çekilmek yerine, ileri atıldı, ama Batu'ya değil; çukurun o gevşek köşesine, ayağıyla sert bir tekme indirdi.
+Temujin kılıcı çekip elini uzattı. Batu bu eli kabul ederse yenilgiyi, reddederse korkuyu gösterecekti. Hesap uzun sürmedi. Bileğini Temujin'in bileğine kenetleyip ayağa kalktı.
 
-Zemin, hazırladığı gibi, çöktü — haftalardır su sızıntısıyla yumuşamış bir toprak parçası, Sube'nin bulduğu ve Temujin'in sabırla işaretlediği bir zaaf.
+"Bir daha benimle açık zeminde dövüş."
 
-Batu, dengesini kaybederek, bir anlığına, bir dizinin üzerine düştü — ve bu, Temujin'in beklediği tek andı.
+"Bir daha aynı tarafta durursak zemini birlikte seçeriz."
 
-On birinci hamle, Batu'nun değil, Temujin'indi. Kılıcının düz tarafı, Batu'nun bileğine sert bir darbeyle indi; balta, dev adamın elinden fırlayıp uçtu.
+İlk kahkaha Orkhon'dan geldi. Ardından Genç Kurtlar bağırdı. Kalabalığın geri kalanı da zaferi kabullendi; bazıları aklı, bazıları yalnız sonucu alkışlıyordu.
 
-Kalabalık, bir anda, sessizleşti.
+Korgan o gece Temujin'i çadırına çağırdı.
 
----
+"Batu'yu öldürebilirdin."
 
-Batu, dizlerinin üzerinde, şaşkın ve öfkeli, Temujin'e baktı — kılıç ucu, şimdi, onun boğazındaydı.
+"Ölü bir rakip bir gün konuşulur. Yaşayanı her gün yenilgiyi hatırlar."
 
-"Bu... bu hile," diye homurdandı Batu, nefes nefese. "Zemin çöktü, benimle savaşmadın —"
+"Ünün büyüyor."
 
-"Zemin, senin ağırlığınla çöktü," dedi Temujin, sesi sakin, kalabalığın duyabileceği kadar net. "Ben, sadece, nereye basacağını bildim. Bu, hile değil, Batu. Bu, savaş."
+"Azgutların ünü de."
 
-Uzun bir sessizlik oldu. Sonra, beklenmedik bir yerden — Orkhon'un sesinden — bir kahkaha yükseldi, kalabalığa yayılan bir kahkaha.
+Korgan gülümsedi, fakat bu cevabı kabul ettiğini söylemedi. Temujin çıkarken girişteki iki muhafızın değiştirildiğini gördü. İkisi de Temürçi'nin adamıydı.
 
-"Genç Kurt kazandı!" diye bağırdı Orkhon, ayağa kalkarak. "Ve akıllıca kazandı!"
-
-Kalabalık, yavaş yavaş, bu zaferi kabullenmeye başladı — bazıları hâlâ şüpheyle, ama çoğu, yeni bir hayranlıkla.
-
-Temujin, kılıcını indirdi, Batu'ya elini uzattı. Dev adam, bir an tereddüt etti, sonra, gururunu yutarak, eli kabul etti, ayağa kalktı.
-
-"Bir dahaki sefere," dedi Batu, sesi hâlâ öfkeliydi ama artık saygıyla karışık, "zemine değil, bana bakarak savaşacaksın."
-
-"Bir dahaki sefere," dedi Temujin, ince bir gülümsemeyle, "belki de aynı tarafta savaşırız, Batu."
-
----
-
-O gece, Korgan, Temujin'i çadırına çağırdı — ama bu sefer, sesinde, ilk kez, açık bir hayranlık da vardı, tedirginliğin yanı sıra.
-
-"Batu'yu, kimsenin beklemediği bir şekilde yendin," dedi Korgan. "Bu, sana daha da büyük bir ün kazandıracak."
-
-"Umarım, Han'ım, bu ün, size de fayda getirir — bana değil sadece."
-
-Korgan, uzun bir süre, ona baktı, gözlerinde, bir hesabın yavaşça şekillendiği görülüyordu. "Umarım öyle olur, Genç Kurt."
-
-Çadırdan çıkarken, Temujin, kendi kendine, sessizce düşündü: Korgan'ın tedirginliği, bu zaferle, azalmamıştı — sadece, daha dikkatli bir hesaba dönüşmüştü. Ve bir gün, bu hesabın, bir kılıç darbesine dönüşeceğini, Temujin, artık, neredeyse kesin olarak biliyordu.
+Han, Batu'nun başaramadığını başka bir yöntemle deneyecekti. Tek bilinmeyen zamandı.

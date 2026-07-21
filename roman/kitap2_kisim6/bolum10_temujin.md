@@ -1,36 +1,20 @@
-# Bölüm 10 — Karar Anı
+# Bölüm 10 — Törenin Gündemi
 *(TEMUJİN)*
 
-Togan'ın güvenliği meselesi, Temujin'i, zor bir karara sürükledi — genç dostunu, geçici olarak, daha güvenli bir yere göndermek mi, yoksa, burada, birlikte, tehdide karşı durmak mı.
+Beklenti Yılı toplantısına üç ay kalmıştı. Kaan ilk planında Bozan'ın anıldığı konuşmanın ardından soruyu açmayı önerdi. Temujin buna karşı çıktı.
 
-"Eski-Kent," dedi Kaya, bir öneri sunarak, "belki, daha güvenli olur. Mirasçılar'ın koruması, ve Sed'e yakınlığı, avantaj sağlar."
+"Yas anını delil sunmak için kullanırsan Korgan kendisini yönlendirdiğini düşünür," diye yazdı. "Konuyu arşiv hesapları oturumuna koy."
 
-Togan, bu öneriye, karışık duygularla karşılık verdi. "Kaçmak istemiyorum. Ama sizi de, tehlikeye atmak istemiyorum."
+Kaan öneriyi değiştirdi. Önce iki mühür numarasının kaynağını soracak, ardından Bozan'ın av giderlerinde neden yabancı ödeme bildirimi bulunduğunu gösterecekti. Korgan bağımsız incelemeyi reddederse Toruk'un ifadesi açılmayacaktı.
 
----
+Aynı hafta Kuru Dere'de güvenlik tatbikatı yapıldı. Togan'ın kuzey kapısından çıktığı bilgisi yalnız üç kişiye verildi. Yarım saat içinde haber pazara, iki saat içinde Sungur devriyesine ulaştı. Sızıntının casustan değil, iyi niyetli bir seyis çocuğundan çıktığı anlaşıldı.
 
-Temujin, bu tartışmayı, uzun bir süre dinledi, sonra, kendi görüşünü paylaştı. "Bence, ayrılmamalıyız. Malakor, eğer, gerçekten, seni hedef alıyorsa, seni yalnız bulmak, bizi birlikte bulmaktan, daha kolay olur. Burada, Genç Kurtlar'ın koruması altında, daha güvenlisin."
+Togan, yolculuklarını saklamanın yerleşimde söylenti üreteceğini söyledi. Yeni düzende kesin tarih kapalı kalacak, ayrılış amacı ise "sağlık ziyareti" olarak açık kayda geçecekti. Dönüşten sonra tam tarih eklenecekti.
 
-Bu mantık, herkesi, ikna etti — Togan, kalmaya karar verdi, ama güvenlik önlemleri, iki katına çıkarıldı.
+Temujin bu iki işi aynı gün bitirdi. Kaan'a düzeltilmiş gündemi, kurula güvenlik tatbikatının raporunu verdi. Malakor ihtimali yüzünden Bozan soruşturmasını hızlandırmadı; tören yaklaşırken Togan'ı yerleşimden çıkmaya da zorlamadı.
 
----
+Batu, Korgan gerçeği öğrendiğinde ne yapacaklarını sordu.
 
-Bu arada, Kaan'la olan yazışma, Beklenti Yılı töreni planına doğru, dikkatle ilerliyordu.
+"Önceden karar veremeyiz," dedi Temujin. "İnceleme açarsa delil göndeririz. Toruk'u tutuklatmak isterse güvenli tanıklık şartı isteriz. Bizi suçlarsa cevaplarız."
 
-*Tören, üç ay sonra,* diye yazmıştı Kaan. *Korgan, geleneksel konuşmasını yapacak — geçmiş Han'ları anarak. O anda, belki, dikkatli bir soru sorabilirim — Bozan'ın ölümü hakkında, hiç şüphe duyup duymadığını.*
-
-Temujin, bu planı, dikkatle onayladı. "İyi bir başlangıç. Doğrudan suçlama değil — sadece, bir tohum."
-
----
-
-Batu, bu iki paralel gelişmeyi, bir akşam, endişeyle değerlendirdi. "Çok fazla şey, aynı anda oluyor, Temujin. Malakor, Korgan, Togan'ın güvenliği..."
-
-"Biliyorum," dedi Temujin, ama sesi, sakin kaldı. "Ama her biri, kendi hızında ilerliyor. Panik yapmak, hiçbirine, yardımcı olmaz."
-
-Togan, bu sakinliğe, hayranlıkla baktı. "Nasıl, bu kadar çok şeyi, aynı anda, bu kadar sakin, yönetebiliyorsun?"
-
----
-
-"Sabır," dedi Temujin, düşünceli, "ve önceliklendirme. Her sorunun, kendi zamanı var. Şu an, senin güvenliğin, en acil öncelik. Kaan'ın planı, daha yavaş ilerleyebilir — o, zaten, aylar süren bir plan."
-
-Togan, bu bilgeliğe, sessizce başını salladı — ve o gece, kendi kendine, düşündü: Temujin, gerçekten, bozkırın, bir gün, ihtiyaç duyacağı, türden bir lider oluyordu — sakin, sabırlı, ve her zaman, doğru önceliği bulan biri.
+Strateji geleceği bilmek değildi. Her olası cevabın hangi sınırda karşılanacağını önceden yazmaktı.

@@ -1,38 +1,28 @@
 # Bölüm 7 — Konseyin Merakı
-*(KARİA)*
+*(KARIA)*
 
-Elowen'in ziyaretleri, artık, ayda bir kereden, ikiye çıkmıştı — ve Konsey, bu değişikliği, gözden kaçırmayacak kadar dikkatliydi.
+Elowen'in ayda iki kez Metheris'e gelişi Konsey'in dikkatinden kaçmadı. Lord Henmar ilişkinin resmî anlamını açık oturumda sordu.
 
-"Majesteleri," dedi yaşlı bir soylu, resmi oturumda, dikkatli bir merakla, "Yamalı Liman'ın tarihçisiyle, sık sık görüşüyorsunuz. Bunun, resmi bir anlamı var mı?"
+"Arşiv değişiminin koşulları yayımlandı," dedi Karia. "Kişisel hayatımın devlet kararına etkisi olursa onu da açıklarım. Şu anda başka cevabım yok."
 
-Karia, bu soruyu, sakin bir yüzle karşıladı. "Elowen, değerli bir bilgi kaynağı. Ve bu, Konsey'i, ilgilendiren bir mesele değil — şimdilik."
+Toplantıdan sonra Kaelan saklanmanın söylentiyi büyüteceğini söyledi. Karia bunun farkındaydı, fakat Elowen adına tek başına açıklama yapamazdı.
 
----
+Ona uzun bir mektup yazmak yerine bir sonraki ziyarette yüz yüze konuştu. Konsey'in soru sorduğunu ve ilişkiyi gizli tutmanın giderek zorlaştığını anlattı.
 
-Toplantıdan sonra, Sör Kaelan, hafif bir gülümsemeyle, Karia'nın yanına geldi. "Sorular başladı, görüyorum."
+"Ben gizlenmek istemiyorum," dedi Elowen. "Ama arşiv görevimin sevgililik ödülü sayılmasını da istemiyorum."
 
-"Başladı," dedi Karia, yorgun bir sesle. "Ve bilmiyorum, bundan, ne kadar rahatsız olmalıyım."
+"Göreve açık değerlendirme koyalım. Metheris ve Yamalı Liman'dan birer kâtip rapor versin. Ben oy kullanmayayım."
 
-"Belki de," dedi Kaelan, düşünceli, "zamanı geldi, kendi kararını, açıkça düşünmenin. Elowen, sadece bir merak mı, yoksa, gerçek bir gelecek mi?"
+Elowen kabul etti. İlişkilerini açıklamak için arşiv programının ilk bağımsız değerlendirmesini bekleyeceklerdi. Böylece zamanlamayı korku değil, çıkar çatışmasını ayırma ihtiyacı belirleyecekti.
 
----
+Bir ay sonra rapor olumlu geldi. Değişim programı kırk yedi çelişkili kaydı karşılaştırmış, on iki sahte liman senedini ortaya çıkarmıştı. Konsey çalışmanın sürmesini onayladı.
 
-Karia, bu soruyu, uzun bir süre, kendi kendine, sessizce tarttı. "Gerçek bir gelecek olabilir, sanırım. Ama Elowen, Yamalı Liman'da yaşıyor, Kaelan — ben, burada. Bu, sadece bir kalp meselesi değil, pratik bir mesele de."
+Karia oturum sonunda ayağa kalktı. "Elowen'le kişisel bir ilişkimiz var. Bu nedenle onun göreviyle ilgili gelecek oylamalarda çekimser kalacağım."
 
-"Aşk," dedi Kaelan, yavaşça, "genellikle, pratik zorlukları, bir şekilde, aşar — eğer, gerçekten, güçlüyse. Belki, bir çözüm bulunur. Belki, Elowen, Metheris'e taşınır. Belki, sen, bazen, Yamalı Liman'ı ziyaret edersin. Kraliyet işleri, imkansız bir engel değil, sadece, dikkatli bir planlama gerektiren bir engel."
+Salonda fısıltı yükseldi. Henmar soru sormak istedi; Karia söz verdi.
 
----
+İlk soru vâris meselesiydi. Karia ardıllık komisyonunun kişisel ilişkiden bağımsız çalıştığını hatırlattı.
 
-O akşam, Elowen'e, uzun, dürüst bir mektup yazdı Karia — ilk kez, sadece, dostane bir ton değil, gerçek duygularını, açıkça ifade eden bir mektup.
+Elowen o akşam sarayda değildi. Haberi Metheris hanında kâtip arkadaşlarıyla bekledi. Karia yanına gittiğinde masada ona ayrılmış tek boş sandalye vardı.
 
-*Elowen,* diye yazdı, *Konsey, aramızdaki şeyi, fark etmeye başladı. Ve ben, artık, bunu, saklamak istemiyorum — ne senden, ne kendimden. Sana karşı hissettiklerim, gerçek. Ve bu gerçekliğin, ne anlama geldiğini, birlikte düşünmek istiyorum — mesafe, kraliyet sorumlulukları, hepsi dahil."
-
-Mektubu mühürlerken, Karia, kendi kendine düşündü: bir yıl önce, böyle bir mektup yazmak, ona, imkansız gelirdi — hem cesaret hem de, izin verme meselesi olarak.
-
----
-
-Cevap, iki hafta sonra geldi — Elowen'in kendi eliyle, uzun, düşünceli bir mektup, aynı dürüstlükle karşılık veren.
-
-*Ben de, aynı şeyi hissediyorum,* diye yazmıştı Elowen. *Ve mesafe konusunda, bir fikrim var — belki, kütüphaneler arası değişim programını, kalıcı hale getirebiliriz. Ben, yılın bir kısmını Metheris'te geçiririm, araştırmalarım için. Bu, hem işime hem de... bize, hizmet eder.*
-
-Karia, bu mektubu okurken, ilk kez, aylardır, geleceğin, sadece bir görev değil, gerçek bir mutluluk da vaat ettiğini hissetti.
+İlişki artık gizli değildi. Kolaylaşmamıştı da. Yalnız hakkında kimin hangi soruyu sorabileceği açık hâle gelmişti.

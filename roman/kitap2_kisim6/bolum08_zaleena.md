@@ -1,38 +1,20 @@
-# Bölüm 8 — İki Şehir, Tek Anlaşma
+# Bölüm 8 — İkinci Mühür
 *(ZALEENA)*
 
-Protokolün imza günü, Yamalı Liman'da, sade ama anlamlı bir törenle kutlandı — Zaleena, kendi kalemiyle, Karia'nın, aynı anda, Metheris'te imzaladığı metnin, bir kopyasını imzaladı.
+Metheris taslağı Yamalı Liman konseyinde üç oturum tartışıldı. En büyük itiraz ortak fondandı. Küçük kaptanlar liman gelirinin Hegemonya'nın iç krizlerine akacağından korkuyordu.
 
-"Aynı anda," dedi Kessel, töreni izlerken, "iki farklı şehirde, iki kraliçe, aynı geleceğe, imza atıyor."
+Zaleena ilk yıl katkısını son üç yılın ticaret hacmine bağlamayı önerdi. Metheris daha büyük ekonomi olduğu için fonun üçte ikisini, Yamalı Liman üçte birini yatıracaktı. Alınan yardım bu oranla sınırlanmayacak; gerçek harcama sonradan hesaplanacaktı.
 
-Zaleena, bu düşünceye, derin bir gururla karşılık verdi. "Bir zamanlar, hayal bile edemeyeceğim bir şey."
+Mira, deniz personelinin başka bir yönetimin emrine girmeyeceğini açıklaştıran maddeyi destekledi. Genç Denizciler Kurulu ise gönüllü yazılan tayfaların sözleşme ve dönüş hakkını güvenceye aldı. Salgın bölgesine gidenlerin ailelerine ödeme yapılması da fona eklendi.
 
----
+Draven dokuz aylık denemenin sonunda otomatik uzamaya karşı çıktı. Protokol sona erecek, yenilenmesi için iki konsey yeniden oy verecekti. Metheris değişiklikleri aynı hafta kabul etti.
 
-Roric, bu törende, beklenmedik bir konuşma yaptı — yaşlı denizci, artık, nadiren, halka açık konuşurdu.
+İmza günü liman meydanında büyük bir kürsü kurulmadı. Zaleena metni konsey masasında, açık oturum sırasında imzaladı. Yedi üyenin oyları ve iki karşı görüş tutanağa eklendi.
 
-"Yıllar önce," dedi Roric, toplanan kalabalığa, "bu liman, sadece, kaçakçıların, unutulmuşların sığınağıydı. Bugün, bir krallıkla, resmi bir ittifak imzalıyoruz. Bu, hayal ettiğimden, çok daha büyük bir gelecek."
+Roric dinleyiciler arasındaydı. Söz verilince ayağa kalktı. "Yardım etmek kolaydır," dedi. "Kimin neyi ödeyeceğini önceden konuşmak daha zordur. Bu metnin değeri orada."
 
-Halk, bu sözlere, gerçek bir alkışla karşılık verdi — ve Zaleena, bu anı, hayatının, en gururlu anlarından biri olarak, kalbine kazıdı.
+Zaleena ikinci mührü bastıktan sonra ilk tatbikat tarihini sordu. Kessel şaşırdı.
 
----
+"Kriz yokken denemeliyiz," dedi Zaleena. "Kriz çıktığında kâğıdın hangi yerden yırtıldığını öğrenmek geç olur."
 
-Mira, protokolün, teknik detaylarını, dikkatle, halka açıkladı. "Bu, sadece, bir kriz anında değil — günlük ticarette, bilgi paylaşımında, hatta, kültürel değişimde de, bize, fayda sağlayacak."
-
-Draven, bu açıklamayı, kendi deneyiminden, bir yorumla destekledi. "Ben, bir zamanlar, sadece, kendi çıkarım için çalışırdım. Şimdi, iki krallığın, ortak çıkarı için çalışıyorum. Bu, garip bir şekilde, çok daha tatmin edici."
-
----
-
-O akşam, Serel, bu tarihi anı, Mirasçı arşivlerine, özenle kaydederken, Zaleena'ya, ilginç bir gözlem paylaştı.
-
-"Bu protokol," dedi Serel, "belki, bir gün, bütün kıtaya, örnek olur. Bozkırdaki Genç Kurtlar, Temürçilerle benzer bir anlaşma yaptı, duyduğuma göre. Belki, yavaş yavaş, bütün Verridia, bu tür bağlarla, örülüyor."
-
-Zaleena, bu düşünceye, hayranlıkla karşılık verdi. "Belki. Ve belki, bu, gerçek barışın, nasıl inşa edildiğinin, cevabı — büyük, dramatik anlaşmalarla değil, küçük, sabırlı, karşılıklı güven adımlarıyla."
-
----
-
-Kessel, o gece, Zaleena'nın yanında, sessizce otururken, yavaşça konuştu. "Gurur duyuyor musun?"
-
-"Çok," dedi Zaleena, dürüstçe. "Ama daha çok, minnettarım — bu yolculuğu, yalnız yapmadığım için. Sen, Roric, Draven, Mira, Karia — hepiniz, bu geleceğin, bir parçasısınız."
-
-İki aşık, o gece, limanın seslerini dinlerken, kendi kendilerine, sessizce, geleceğin, ne kadar parlak görünebileceğini, hissettiler.
+Altı hafta sonrasına boş sandıklarla bir haberleşme ve yük aktarım tatbikatı kondu. İki şehir aynı anlaşmaya sahipti; şimdi aynı cümlelerden aynı işi anlayıp anlamadıkları görülecekti.

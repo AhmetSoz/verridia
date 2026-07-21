@@ -1,38 +1,24 @@
-# Bölüm 10 — Bir Fikir Doğuyor
+# Bölüm 10 — Korgan'a Giden Uzun Yol
 *(TEMUJİN)*
 
-Bir akşam, dosyayı, bir kez daha incelerken, Temujin'in aklına, yavaşça, beklenmedik bir düşünce geldi — bu bilginin, sadece kendi intikamı için değil, çok daha büyük bir amaç için de kullanılabileceği düşüncesi.
+Bozan dosyasının tarihlerini bozkır kayıtlarıyla yan yana koyunca Temujin bir boşluk gördü. Bozan'ın ölümünden sonra üç boy birbirinden kopmuş, Korgan yıllar sonra Kırıcı Yargı'yı kazanarak han olmuştu. Delta ona taht vermemişti; fakat yarışacağı bozkırı önceden parçalamıştı.
 
-Temujin, düşüncesini, Kaya'yla paylaştı. "Korgan, Bozan'ın ölümü sayesinde, Han oldu. Kırıcı Yargı'yı kazandı, çünkü, Bozan'ın yokluğu, bir güç boşluğu yarattı."
+Bu ayrım önemliydi. Temujin gerçeği Korgan'ın meşruiyetine karşı kullanırsa onu savunmaya zorlayacaktı. Bağımsız bir suç olarak sunarsa Korgan soruşturmaya katılabilirdi.
 
-"Ne demek istiyorsun?" diye sordu Kaya.
+Kaya planı dinledi. "Seni süren adama ortaklık mı önereceksin?"
 
----
+"Hayır. Önce konuşabileceğimiz bir kanal arayacağım. Ortaklık sonra bile gelmeyebilir."
 
-"Demek istiyorum ki," dedi Temujin, yavaşça, fikir, zihninde netleşerek, "Korgan, kendi tahtını, farkında olmadan, Delta'nın bir oyununa borçlu. Eğer, bunu, ona gösterebilirsem — dikkatli, doğru bir şekilde — belki, onu, kendi düşmanımdan, beklenmedik bir müttefike çevirebilirim."
+Korgan'ın danışmanı Kaan uygun kişiydi. Sube'nin haberlerine göre Kaan sınır hesaplarında titiz, gösterişli yakınlaşmalardan kuşkuluydu. Temujin ona Bozan'dan söz etmeyen ilk bir mesaj hazırladı: kuzey geçidinde Azgut sürülerini vuracak bir hayvan hastalığı görülmüştü. Kuru Dere'nin veteriner kaydı ve hastalıklı bir deri örneği eklendi.
 
-Kaya, bu fikri, uzun bir süre değerlendirdi. "Riskli. Eğer, Korgan, bunu, bir tehdit olarak algılarsa..."
+Batu bunun fazla değerli bir bilgi olduğunu düşündü. "Karşılığında ne istiyoruz?"
 
-"Biliyorum." Temujin'in sesi, kararlı ama temkinliydi. "Bu yüzden, aceleyle yapmayacağım. Önce, güven inşa etmem gerek — belki, küçük jestlerle, dolaylı temaslarla."
+"Bu kez hiçbir şey. Ama bildirimi aldıklarına dair mühürlü cevap isteriz. Böylece kanalın gerçekten Kaan'a ulaştığını biliriz."
 
----
+Togan, dosyanın ne zaman açılacağını sordu.
 
-Batu, bu planı duyduğunda, şüpheyle karşılık verdi. "Korgan, seni sürdü, Temujin. Neden, ona, yardım etmeyi düşünesin?"
+"Kaan kendi kayıtlarımızı sınayıp doğru bulduktan sonra. Belki aylar sonra. Ona önce iki mühür numarası soracağız. Bozan'ın adını en son söyleyeceğiz."
 
-"Ona yardım etmek için değil," dedi Temujin, düşünceli. "Delta'nın gerçek gücünü, bozkırdan söküp atmak için. Eğer, Korgan, gerçeği öğrenirse, Delta'ya karşı, benim kadar öfkeli olabilir — belki, daha da öfkeli, çünkü, kendi tahtının, bir yalan üzerine kurulu olduğunu keşfedecek."
+Temujin mektupta Korgan'a övgü yazmadı, eski sürgününü de anmadı. Hastalığın görüldüğü dereyi, belirtileri ve alınabilecek önlemleri sıraladı. İmza kısmına unvan koymak yerine Kuru Dere kurulunun haberleşme mührünü bastı.
 
----
-
-Togan, bu tartışmayı, dikkatle dinlemişti. "Bu, büyük bir kumar, Temujin. Ama eğer başarılı olursa..."
-
-Temujin'in gözlerinde, uzak bir hayalin ışıltısı vardı. "Bozkır, gerçekten birleşebilir. Ama Delta'ya karşı, kılıçla değil, ortak bir gerçeğin gücüyle."
-
-Kaya, bu hayale, temkinli ama gerçek bir hayranlıkla baktı. "Büyük düşünüyorsun, Genç Kurt."
-
-"Her zaman," dedi Temujin, hafif bir gülümsemeyle, "büyük düşünmek zorunda kaldım. Küçük düşünenler, bozkırda, hayatta kalamaz."
-
----
-
-O gece, Temujin, Sube'yi çağırdı. "Yavaş, dikkatli bir kanal aç — Korgan'ın en yakın danışmanlarından birine. Hiçbir doğrudan tehdit yok, sadece, küçük bir jest — belki, bir bilgi paylaşımı, önemsiz görünen bir konuda. Güven, küçük adımlarla başlar."
-
-Sube, bu görevi kabul ederken, Temujin, kendi kendine düşündü: bu, yılların alacağı bir plandı — ama eğer, bir gün, gerçekten işe yararsa, sonucu, bütün bozkırın kaderini değiştirebilirdi.
+Bu bir barış teklifi değildi. Yalnızca iki düşman arasında doğrulanabilir ilk cümleydi. Temujin uzun yolun böyle başlamasına razıydı.

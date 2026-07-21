@@ -1,54 +1,42 @@
 # Bölüm 14 — Dağıtılan Ateş
 *(TEMUJİN)*
 
-Emir, Temujin'e, bir onurlandırma kılığında geldi.
+Korgan darbeyi ödül diye duyurdu. Temujin ana orduda savaş-lordu olacak, Genç Kurtlar ise diğer birliklere dağıtılacaktı.
 
-"Han'ım, seni ödüllendirmek istiyor," dedi haberci, ordugâhın merkezinden koşarak gelirken. "Genç Kurtlar'ın, artık, ayrı bir birlik olmaktan çıkarılıp, ana ordunun içine dağıtılacağını duyurdu. Sen de, ana ordunun bir savaş-lordu olarak terfi ettirildin — Batu'nun eski konumuna."
+Haberci emri bitirdiğinde Temujin ayağa kalkıp eğildi. "Han'ıma teşekkürlerimi götür."
 
-Temujin, bu haberi, bir süre, hareketsizce dinledi — yüzeyde bir onur, altında ise, ustaca gizlenmiş bir darbe.
+Orkhon adamın uzaklaşmasını bekledi. "Yüz on dokuz savaşçını elinden alıyor. Buna teşekkür mü edeceksin?"
 
-"Anladım," dedi sadece, sesinde hiçbir duygu belirmeden. "Han'ıma teşekkürlerimi ilet."
+"Karşı çıkarsam emri haklı çıkarırım."
 
-Haberci gittiğinde, Orkhon, çadıra girdi, yüzünde açık bir endişe vardı. "Duydun mu?"
+"Kabul edersen gücün kalmaz."
 
-"Duydum." Temujin, sakin bir şekilde, silahlarını temizlemeye devam etti — ama Orkhon, onun parmaklarındaki gerginliği görebiliyordu.
+Temujin birlik listesini açtı. Her adın karşısına yeni bölüğünü yazdı. Korgan gençleri rastgele dağıtmamıştı. En iyi izciler Batu'ya, okçular Temürçi'ye, Sube ise saray muhafızlarına verilmişti. Han hem gücünü parçalamış hem de gözünün önüne sermişti.
 
-"Bu, bir ödül değil, evlat. Genç Kurtlar'ı dağıtmak, senin gücünü dağıtmak demek. İki yüz sadık savaşçı, artık, farklı birliklere bölünecek, farklı komutanların altına girecek. Sana sadık kalanlar bile, artık, seni doğrudan takip edemeyecek."
+"Bağımız çadır ipi değil," dedi. "Kesince yok olmaz."
 
-"Biliyorum." Temujin'in sesi hâlâ sakindi, ama içinde, soğuk bir hesap hızla işliyordu. "Korgan, akıllı davrandı. Beni açıkça cezalandırmadı — beni ödüllendirdi, halkın önünde. Eğer itiraz edersem, nankör görünürüm. Eğer sessiz kalırsam, gücümü kaybederim."
+Son toplantıda yüz on dokuz savaşçı iki sıra hâlinde durdu. Temujin uzun bir veda konuşması yapmadı.
 
-"Peki ne yapacaksın?"
+"Yeni komutanlarınıza hizmet edeceksiniz. Emirleri açıkça çiğnemeyeceksiniz. Gördüğünüzü hatırlayın. Birbirinizi de."
 
-Temujin, uzun bir süre düşündü, gözleri, çadırın dışındaki ateşlere dikili. "Kabul edeceğim," dedi sonunda. "Açıkça, memnuniyetle. Ve sonra, sabırla, yeniden başlayacağım."
+Sube öne çıktı. "Sana nasıl haber vereceğiz?"
 
----
+"Vermeyeceksiniz. Orkhon'a sıradan birlik raporları yollayacaksınız. İçinde kaç atın hastalandığını, hangi kuyunun kuruduğunu yazacaksınız. Önemli olanı sayılardan anlarız."
 
-Genç Kurtlar'a veda etmesi gereken gün geldiğinde, Temujin, onları, son bir kez, bir araya topladı — resmi bir emirle değil, kendi isteğiyle.
+Bu yöntem daha önce öğrettikleri keşif dilinin bir parçasıydı. Korgan bir birlik dağıtmıştı; karşılığında ordusunun her bölümüne eğitimli bir göz yerleştirmişti.
 
-"Bu gün, dağılıyoruz," dedi, iki yüz gencin önünde durarak. "Han'ımın emriyle, artık, ayrı birlikler olarak hizmet edeceksiniz. Bu, üzücü bir haber gibi görünebilir. Ama size şunu söylemek istiyorum: birlikte öğrendiğiniz her şey — sabır, disiplin, birbirinize olan sadakat — bunlar, sizinle kalacak, hangi birlikte olursanız olun. Ben, sizi eğittim, çünkü bozkırın, sadece kaba kuvvetten fazlasına ihtiyacı olduğuna inanıyordum. Bu inancım değişmedi."
+Gece Yeva, kemiklerini ateşin yanına attı. Biri közlerin arasına düştü, üçü birbirinden uzağa sıçradı.
 
-Genç savaşçılar, sessizce dinlediler, birçoğunun gözünde gerçek bir hüzün vardı.
+"Dağılan ateş," dedi yaşlı kadın.
 
-Sube, öne çıktı, sesi kararlı. "Nereye gidersek gidelim, Genç Kurt, sadakatimiz seninle kalacak. Sadece, artık, görünmez bir şekilde."
+Temujin kemikleri topladı. "Ateş değil. İnsan."
 
-Bu söz, Temujin'in içinde, garip bir sıcaklık yarattı. "Görünmez bir sadakat," dedi yavaşça, "bazen, görünen bir orduyu daha da tehlikeli kılar, Sube. Korgan, bugün, beni zayıflattığını sanıyor. Ama gerçekte, sadece, tohumlarımı, bütün tarlaya yaymamı sağladı."
+"İnsanlar daha kolay söner sanıyorsan gençsin. Daha zor söner sanıyorsan yine gençsin."
 
----
+"Korgan ne görüyor?"
 
-O gece, Toprak-Ana Yeva, Temujin'i, ordugâhın kenarında buldu — kemiklerini hazır tutarak, sanki onu bekliyormuş gibi.
+Yeva boş kesesini kapattı. "Kendi yaptığı düzeni. Her hükümdar önce onu görür."
 
-"Kemikler, bugün, farklı bir şey gösterdi," dedi Yeva, sesi her zamanki gibi derin ve yankılı. "Dağılan bir ateş. Ama sönmeyen bir ateş."
+Temujin yeni görev otağına dönerken farklı birliklerin ateşlerinden üç kısa ıslık yükseldi. Eski eğitimde bu ses *yerimdeyim* demekti.
 
-"Ne anlama geliyor bu?"
-
-"Bilmiyorum tam olarak. Ama hissediyorum ki, Korgan'ın bugünkü hamlesi, sandığından daha az işe yaradı. Sen, hâlâ, bir tehlikesin, Genç Kurt — belki de şimdi, daha da büyük bir tehlike, çünkü artık, görünür bir hedef değilsin."
-
-Temujin, bu sözleri bir süre düşündü. "Peki Korgan bunu anlar mı, sizce?"
-
-"Bir gün anlayacak." Yeva'nın kör gözleri, garip bir şekilde, doğrudan ona bakıyormuş gibiydi. "Ve o gün, Genç Kurt, sen hazır olmalısın — çünkü o gün geldiğinde, ya sen kazanırsın, ya da bozkır, yeni bir Kırık Yemin gecesi yaşar."
-
-Bu son cümle, Temujin'in içinde, soğuk bir ürperti bıraktı. Kırık Yemin — babasının, ya da her kimse onun, kaderini belirleyen o kanlı gece. Tarihin tekerrür etme ihtimali, ona, ilk kez, gerçek bir korku verdi.
-
-"Tekerrür etmeyecek," dedi, sesi kararlı, kendi kendine bir yemin gibi. "Ben, hesapsız bir ihanetle değil, sabırla kazanacağım."
-
-Yeva, ona uzun bir süre baktı, sonra, yavaşça başını salladı — ne bir onay ne bir itiraz, sadece, zamanın göstereceği bir şeyin sessiz kabulü.
+Hiçbirine karşılık vermedi. Gerek de yoktu.

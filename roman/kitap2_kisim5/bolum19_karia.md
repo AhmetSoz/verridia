@@ -1,38 +1,22 @@
 # Bölüm 19 — Bilgeler Meclisi
-*(KARİA)*
+*(KARIA)*
 
-Karia, "paylaşılan bilgelik" fikrini, sonunda, somut bir öneriyle, Konsey'e sundu — sınırlı, deneysel bir "Bilgeler Meclisi," Meziyet Programı'nın en başarılı adaylarından oluşan.
+Bilgeler Meclisi altı aylık deneme yetkisiyle kuruldu. Kanun çıkaramayacak, bütçe harcayamayacak ve vârislik konusunda oy kullanamayacaktı. Görevi, Konsey'e gidecek üç politika dosyasını inceleyip çoğunluk ve azınlık görüşlerini birlikte yayımlamaktı.
 
-"Bu, tahtımı, terk etmek anlamına gelmiyor," dedi Karia, açıkça. "Ama bazı kararları, bu meclisle, birlikte almayı öneriyorum — özellikle, ekonomi ve halk refahı konularında."
+Toma, Yamalı Liman'dan aldığı süreli izinle döndü. Osric askerî görevini haftanın iki günü sürdürdü. Wren'in isteği üzerine toplantılardan bir koltuk köy birliklerinin dönüşümlü temsilcisine ayrıldı.
 
-Konsey, bu öneriyi, uzun bir tartışmadan sonra, temkinli bir onayla kabul etti.
+İlk dosya batı ovalarındaki kuraklıktı. Saray mühendisleri yeni bir kanal öneriyor, maliyetin üç yılda çıkacağını savunuyordu. Wren hesapta köylülerin ücretsiz çalışacağı varsayımını buldu.
 
----
+"Ücretsiz değil," dedi. "Maliyeti bütçede görünmeyen emek. Hasat zamanı tarladan alınırsa kanal su getirmeden açlık getirir."
 
-İlk Bilgeler Meclisi toplantısı, Toma, Osric, ve Wren'in katılımıyla, bir ay sonra yapıldı — üç genç, farklı geçmişlerden gelen, ama ortak bir amaç için, bir araya gelen sesler.
+Osric iş gücünü askerî birliklerle tamamlamayı önerdi. Toma, askerlerin taşınması için ayrılan erzağın kanal kazısından pahalıya geleceğini hesapladı. Meclis büyük kanal yerine üç köyde küçük bent denemesi önerdi. Osric, hızın yetersiz olduğunu düşündüğü için azınlık görüşü yazdı.
 
-"Garip hissediyorum," dedi Wren, ilk toplantıda, çekingen bir dürüstlükle. "Bir çiftçi kızı, kraliyet kararlarına, katkıda bulunuyor."
+Karia iki raporu da Konsey'e sundu. Konsey küçük bentleri bir yıllığına onayladı ve sonuçlar görülmeden büyük projeyi durdurdu.
 
-"Tam da bu yüzden, buradasın," dedi Karia, cesaretlendirici bir gülümsemeyle. "Çünkü, senin bakış açın, sarayda, hiç kimsede yok."
+Elowen toplantıyı tarihî dönüm noktası diye kaydetmek istedi. Karia başlığı değiştirdi. "İlk karar" yazılacaktı; başarı olup olmadığı hasattan sonra belli olacaktı.
 
----
+Meclis üyeleri çıkınca Faelan, Karia'nın hangi görüşü tercih ettiğini sordu.
 
-Toplantı, verimli geçti — tarım politikaları üzerine, Wren'in önerileri, Karia'yı, gerçek bir şaşkınlıkla etkiledi.
+"Wren'in hesabı daha sağlamdı," dedi. "Ama Osric'in itirazını yayımlamasaydık gelecek yıl gecikmenin bedelini ölçemezdik."
 
-Toplantı sonrası, Karia, Kaelan'a döndü. "Bu, yıllardır, düşünmediğim bir çözüm. Basit, ama etkili."
-
-Kaelan, gururla başını salladı. "Gördün mü, evladım? Bilgelik, her zaman, saraydan gelmez."
-
----
-
-Elowen, bu gelişmeyi, tarihsel bir bağlamda değerlendirdi. "Bu, Verridia'nın, yönetim tarihinde, belki, kayda değer bir dönüm noktası olacak. Bunu, dikkatle belgeliyorum."
-
-"Umarım bir gün, bu belgeler, başka krallıklara da, ilham verir."
-
-O akşam, Zaleena'ya, bu gelişmeyi, heyecanla anlatan bir mektup yazdı Karia — ve kendi kendine, düşündü: belki, gerçek liderlik, her şeyi tek başına bilmek değil, doğru sesleri, doğru zamanda, dinlemeyi bilmekti.
-
----
-
-Faelan, mektubu göndermeden önce, son bir gözlem paylaştı. "Bu meclis, bir gün, senin en büyük mirasın olabilir, Majesteleri — tahtından, çok daha kalıcı bir miras."
-
-Karia, bu düşünceye, derin bir huzurla karşılık verdi. "Umarım, öyle olur, Faelan. Çünkü, taçlar, paslanır. Ama iyi fikirler... iyi fikirler, nesillerce yaşar."
+Paylaşılan bilgelik güzel bir söz olabilirdi. Karia için değeri, farklı seslerin aynı sonuca varmasında değil, ayrılığın kaybolmadan karara dönüşmesindeydi.

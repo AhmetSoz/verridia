@@ -1,42 +1,30 @@
-# Bölüm 6 — Yaşlı Okçu
+# Bölüm 6 — Yaşlı Okçunun Sözü
 *(TEMUJİN)*
 
-Toruk'u, gizlice, ordugâhtan çıkarıp, tarafsız bir noktada buluşmayı ayarlamak, Sube'nin ustalığıyla, üç gün içinde gerçekleşti.
+Toruk yedinci günün sabahında tek başına geldi. Güvenli geçiş mektubunu kemerine bağlamış, yayını Azgut sınır karakoluna bırakmıştı. Kuru Dere kapısında aranmayı kendi istedi.
 
-Temujin, yaşlı adamı, ilk gördüğünde, dosyadaki isimle, karşısındaki çökmüş, içki kokan figürü, bir araya getirmekte, bir an, zorlandı.
+Temujin görüşmeyi kapalı çadırda yapmadı. Kurul odasında Kaya, Batu ve yerleşimin yazıcısı hazır bulundu. Toruk'a Kael'in adı söylenmedi; önüne yalnızca ödeme tarihleriyle birlik işareti kondu.
 
-"Beni, neden çağırdın, Genç Kurt?" diye sordu Toruk, sesi, tedirgin bir merakla.
+"Bozan Han'ın son avında neredeydin?" diye sordu Temujin.
 
----
+Toruk uzun süre ellerini seyretti. Parmaklarının ikisi eğri kaynamıştı.
 
-Temujin, hiçbir giriş yapmadan, doğrudan konuya girdi. "Bozan Han'ı, sen mi öldürdün?"
+"Kuzey sırtında. Avcıların üst tarafında. Orada olmamam gerekiyordu."
 
-Toruk'un yüzü, anında, kanının çekildiğini gösteren bir solgunlukla kaplandı. "Ben... ben, ne demek istediğini bilmiyorum."
+Yazıcı cümleyi tekrarladı, Toruk doğruladı. Sonra anlatmaya başladı. Delta adına gelen bir aracı ona altın vermiş, Bozan'ın atını ürkütmeden tek atış yapmasını istemişti. Ok vurduktan sonra av kazası diye bağıran ilk kişi de aynı aracıydı.
 
-"Biliyorsun." Temujin'in sesi, soğuk ve kesindi. "Delta'nın parasıyla. Yirmi dört yıl önce. Kanıtım var, Toruk — Malakor'un kendi el yazısıyla."
+"Adı?" dedi Temujin.
 
----
+"Bilmiyorum. Bana söylemedi. Yüzünü tarif edebilirim."
 
-Yaşlı adam, uzun bir süre, sessizce oturdu, sonra, yavaşça, omuzları çökerek, gerçeği kabul etti. "Evet," dedi, sesi, ağır bir suçlulukla titreyerek. "Ben yaptım. Genç bir okçuydum, hırslı, ve Sarris'in selefi, bana, hayatım boyunca göremeyeceğim kadar altın teklif etti. 'Birleşik bir bozkır, Delta için tehlikeli' dediler. Ben de... ben de, kabul ettim."
+Temujin öfkesini soruların arasına sokmadı. Ne kadar ödendiğini, parayı nerede aldığını, oku kimin verdiğini tek tek sordu. Toruk bazı ayrıntıları hatırladı, bazılarında durdu. Bilmediği yere söz eklemesine izin vermedi.
 
-"Yirmi dört yıl," dedi Temujin, sesi, zorlukla kontrol edilen bir öfkeyle, "yirmi dört yıl, bu sırrı, kendi içinde taşıdın. Nasıl yaşadın, bununla?"
+İfade tamamlanınca yazıcı metni yüksek sesle okudu. Toruk iki düzeltme yaptı, sonra başparmağını mürekkebe bastı. Kaya ile Batu tanık mühürlerini koydu.
 
----
+"Beni burada tutacak mısın?" diye sordu yaşlı okçu.
 
-"Yaşamadım, gerçekten," dedi Toruk, gözlerinde, yaşlı, derin bir acıyla. "İçkiye sığındım. Her gece, o okun, havada süzülüşünü, hâlâ görürüm. Bozan Han, iyi bir adamdı, Temujin — kötü bir hedef değildi. Sadece, yanlış zamanda, yanlış birinin, çıkarına engeldi."
+"Hayır. Güvenli geçiş sözü verdik. Ama bu ifade bir gün açık kurul önüne çıkarsa gelmeni isteyeceğim."
 
-Temujin, bu itirafı, uzun bir süre, sessizce dinledi — öfkesi, yavaşça, garip bir acımaya dönüşerek.
+Toruk kapıya yönelip geri döndü. "Gelirim. Kaçmak bana yirmi dört yıl kazandırdı. Yaşamak değil."
 
-Temujin'in sesi yavaştı. "Seni öldürebilirim, şimdi. Kimse, bunu, asla öğrenmez."
-
-Toruk, gözlerini kaçırmadan karşılık verdi. "Biliyorum. Ve belki, hak ediyorum. Yirmi dört yıldır, bu anın gelmesini, bir yandan korkarak, bir yandan da, bekleyerek yaşadım."
-
----
-
-Temujin, uzun bir süre, kılıcının kabzasına elini koyarak, düşündü — ama sonunda, yavaşça, elini geri çekti.
-
-"Hayır," dedi Temujin, kararı, kendine bile şaşırtıcı bir netlikle. "Seni öldürmeyeceğim. Ama bu bilgiyi, saklı tutacağım — şimdilik. Ve sen, bana, bir söz vereceksin: eğer, bir gün, bu gerçeği, ihtiyaç duyduğumda, açıklamamı istersem, itiraf edeceksin, açıkça, herkesin önünde."
-
-Toruk, bu teklife, gözyaşlarıyla, yavaşça başını salladı. "Söz veriyorum. Ve Temujin... teşekkür ederim. Sandığımdan çok daha merhametli davrandın."
-
-Temujin, ondan uzaklaşırken, kendi kendine düşündü: babasının katilini bulmak, ona, ne bir zafer ne de bir teselli getirmişti — sadece, taşınması gereken, bir yük daha.
+Temujin onu sınır devriyesine kadar iki muhafızla uğurlattı. Dosya artık yalnızca Kael'in iddiası değildi; yine de tamamlanmış bir dava sayılmazdı. Aracı bulunmadan ve asıl kayıtlar görülmeden kimseyi Delta adına mahkûm etmeyecekti.

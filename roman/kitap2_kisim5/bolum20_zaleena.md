@@ -1,36 +1,18 @@
-# Bölüm 20 — Aynı Rüzgâr
+# Bölüm 20 — Güverte Altındaki Sesler
 *(ZALEENA)*
 
-Karia'nın "Bilgeler Meclisi" haberi, Zaleena'ya ulaştığında, kendi limanında da, benzer bir adım atma zamanının geldiğini hissetti.
+Kaptanlar Konseyi'nin yeni nöbet düzeni üç hafta içinde aksadı. Kaptanlar gece devriyesini artırmış, fakat aynı tayfaların gündüz yük boşaltmaya devam edeceğini hesaba katmamıştı. İki iskele kazası olunca genç denizciler topluca dilekçe verdi.
 
-"Belki," dedi Zaleena, Kessel'e, "biz de, gençlerin sesini, daha resmi bir şekilde, karar süreçlerine katmalıyız. Mira, zaten, bunu, kendi başına, gösteriyor."
+Mira, dilekçeyi yalnız okumak yerine imza sahiplerini toplantıya çağırdı. Gelen on iki kişinin hiçbiri kaptan değildi. Bir tayfa ustası, konsey kararlarının güverte altında nasıl değiştiğini çizelgeyle gösterdi.
 
-Kessel, bu fikre, destekleyici bir gülümsemeyle karşılık verdi. "Genç Denizciler Meclisi, belki?"
+Zaleena, Karia'nın Bilgeler Meclisi'ni kopyalamayı düşündü; sonra limanın sorununun farklı olduğunu gördü. Burada eksik olan aday yetiştirmek değil, kararın yükünü taşıyanların düzenli temsil edilmesiydi.
 
----
+Konsey iki aylık bir Genç Denizciler Kurulu denemesi başlattı. Yirmi beş yaş altı denizciler dört temsilci seçecek, tersane çırakları bir üye gönderecekti. Kurulun veto yetkisi olmayacak; fakat çalışma saatleri, güvenlik ve eğitimle ilgili her karar önce onların yazılı görüşünü alacaktı. Konsey aksi yönde karar verirse gerekçesini yayımlayacaktı.
 
-Bu fikir, hızla, somut bir plana dönüştü — Yamalı Liman'ın, en umut verici genç denizcilerinden oluşan, küçük bir danışma grubu, Kaptanlar Konseyi'ne, ek bir ses olarak, resmileştirildi.
+İlk seçimde kaptanların aday göstermesi yasaklandı. Zaleena'nın desteklediği genç bir gözcü seçilemedi; en çok oyu, gece vardiyalarını kaydeden tayfa ustası Lio aldı.
 
-Draven, bu gelişmeye, kendi deneyiminden, bir katkı sundu. "Ben, gençken, kimse, beni dinlemezdi. Belki, bu meclis, benzer hataları, bir sonraki nesle, önceden fark ettirir."
+Kurul ilk raporunda devriye sayısına karşı çıkmadı. Gündüz yük vardiyasının dönüşümlü azaltılmasını ve her geminin yorgunluk kaydı tutmasını önerdi. Üç haftalık denemede kazalar yarıya indi, fakat boşaltma süresi uzadı. İki sonuç da panoya asıldı.
 
-Zaleena, bu düşünceye, derin bir minnetle karşılık verdi. "Senin geçmişin, Draven, artık, sadece bir yük değil — bir ders."
+Roric, yeni kurulu otuz yıl önce hayal ettiğini söylemedi. "Ben o zaman tayfaların konuşmasını isterdim," dedi. "Nasıl dinleneceğini bilmiyordum. Siz usulünü buluyorsunuz."
 
----
-
-Serel, bu gelişmeleri, Mirasçı arşivlerine, dikkatle kaydederken, ilginç bir gözlem paylaştı. "Karia ve sen, aynı anda, farklı yerlerden, aynı sonuca varıyorsunuz — gençlerin sesinin, geleceği şekillendirmesi gerektiği sonucuna."
-
-"Belki," dedi Zaleena, düşünceli, "bu, sadece tesadüf değil. Belki, dünya, gerçekten, bu yöne doğru, yavaşça, kendi kendine, ilerliyor."
-
----
-
-O akşam, Roric, Zaleena'nın yanına oturdu, yaşlı gözlerinde, derin bir gururla. "Otuz yıl önce diktiğim bayrak, şimdi, gençlerin, kendi seslerini bulduğu bir yerde, dalgalanıyor. Bundan, daha iyisini, hayal edemezdim."
-
-"Senin sayende," dedi Zaleena, elini, onun eline koyarak.
-
-"Hayır." Roric'in sesi, sevgiyle doluydu. "Senin sayende, Zaleena. Ben, sadece, bir tohum ektim. Sen, onu, bu hale getirdin."
-
----
-
-Kessel, o gece, Zaleena'nın yanında, limanın seslerini dinlerken, yavaşça konuştu. "Karia'yla, aynı rüzgârı takip ediyorsunuz, galiba — iki farklı denizden, aynı yöne doğru."
-
-"Belki," dedi Zaleena, gülümseyerek, "bu, gerçek dostluğun anlamı — aynı rüzgârı, farklı gemilerle, birlikte takip etmek."
+Zaleena bunu tamamlanmış bir miras saymadı. İki ayın sonunda kurul yeniden oylanacak, üyelerin gerçekten kimi temsil ettiği denetlenecekti. Ses vermek sandalye koymakla bitmiyordu.

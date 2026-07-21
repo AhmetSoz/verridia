@@ -1,36 +1,16 @@
-# Bölüm 8 — Bekleyişin Ağırlığı
+# Bölüm 8 — İki Dönüş Rotası
 *(ZALEENA)*
 
-Karia'nın mektubu, Zaleena'ya ulaştığında, limandaki günlük işler, aniden, çok daha az önemli görünmeye başladı.
+Bozkır görüşmesi yaklaşırken Zaleena limanın günlük işlerini askıya almadı. Tam tersine, Korgan ile Temujin'in anlaşması kadar çatışmasının da ticaret yollarını etkileyebileceğini hesapladı.
 
-Mektubu okuduktan sonra, Zaleena'nın sesi ciddileşti. "Bu, büyük bir an. Eğer, Korgan, gerçekten, Delta'ya karşı dönerse..."
+Kessel'le iki dönüş rotası çıkardılar. Tuz düzlüğü çevresinde çatışma olursa doğu kervanları Eski-Kent üzerinden dönecek, yol üç gün uzayacaktı. Görüşme sakin biterse mevcut rota korunacaktı. Kaptanlara siyasal tahmin değil, yalnız bu iki ihtimal bildirildi.
 
-"Bütün bozkır, değişir." Kessel'in sesi, aynı ciddiyeti taşıdı. "Ve belki, bütün kıta."
+Roric savaş korkusuyla gemi fiyatlarının yükselmesini önlemek için liman panosuna son altı aylık navlun ortalamasını astırdı. Mira, bozkırdan gelecek ilk söylentinin doğrulanmadan konsey kararı sayılmamasını önerdi. Haber ancak iki bağımsız ulak veya resmî mühürle doğrulanacaktı.
 
----
+Karia'nın iki taslağı ulaştığında Zaleena kendi karşılığını hazırladı. Olumlu sonuçta Yamalı Liman Kuru Dere'nin bağımsızlığını ve Bozan soruşturmasının açık usulünü destekleyecekti. Bir askerî ittifakı otomatik tanımayacaktı. Olumsuz sonuçta ise taraf tutmadan ticaret yollarının güvenliğini isteyecekti.
 
-Roric, bu haberi duyduğunda, kendi geçmişinden, bir gözlem paylaştı. "Ben de, bir zamanlar, eski düşmanlarımla, beklenmedik ittifaklar kurdum — hayatta kalmak için. Bazen, en büyük düşmanlıklar, en güçlü dostluklara dönüşür, eğer, ikisi de, gerçek bir değişime hazırsa."
+Serel görüşmenin tarihteki yerini sordu. Zaleena cevap vermedi. Tarih adı sonradan koyabilirdi; limanın önce ertesi gün hangi yoldan erzak getireceğini bilmesi gerekiyordu.
 
-Zaleena'nın sesi düşünceliydi. "Umarım, Korgan, hazırdır."
+Beklemek yine ağırdı. Fakat ağırlığı hafifletmek için umut cümleleri kurmadı. Haritalar kopyalandı, ulak atları dinlendirildi ve iki mühürlü boş bildiri masada tutuldu.
 
----
-
-Mira, bu bekleyişi, Genç Denizciler Meclisi'nde, dikkatle paylaştı. "Bu, bize, gösteriyor ki, bizim küçük kararlarımız bile — bir toplantı, bir anlaşma — daha büyük bir resmin, parçası olabilir."
-
-Draven, bu düşünceye, kendi deneyiminden, bir katkı sundu. "Ben, bir zamanlar, sadece, kendi hayatta kalmamı düşünürdüm. Şimdi, bozkırda, hiç tanımadığım bir Han'ın, kararının, beni bile etkileyeceğini, biliyorum."
-
----
-
-O hafta, Serel, Mirasçı arşivlerinden, ilginç bir tarihi not paylaştı. "Kırık Yemin'den bu yana, hiçbir Azgut Han'ı, bir düşmanla, bu şekilde, doğrudan, açık bir görüşme yapmadı. Eğer, bu, gerçekleşirse, tarihe geçecek bir an olur."
-
-"Umarım," dedi Zaleena, "iyi bir şekilde, tarihe geçer."
-
----
-
-O akşam, Kessel'le, sessizce otururken, Zaleena, kendi kendine, bu bekleyişin, ne kadar ağır olduğunu, hissetti.
-
-"Hiçbir şey yapamamak," dedi Zaleena, yavaşça, "bazen, en zor kısım."
-
-"Ama yapabileceğin bir şey var," dedi Kessel, elini, onunkine koyarak. "Umut etmek. Ve hazır olmak — ne olursa olsun."
-
-Zaleena, bu söze, sessizce başını salladı — ve o gece, uzak bir bozkırda, gerçekleşecek görüşmenin sonucunu, sabırsızlıkla, ama sabırla, beklemeye başladı.
+Sonuç geldiğinde Zaleena şaşırabilirdi. Hazırlıksız yakalanmayacaktı.

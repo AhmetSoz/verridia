@@ -1,54 +1,38 @@
 # Bölüm 22 — Örsün Gölgesinde
 *(TEMUJİN)*
 
-Savaş meclisi, Korgan'ın çadırında toplandığında, Temujin, duyduğu haberin ağırlığını, ilk anda tam kavrayamadı.
+Korgan savaş meclisinde Yıldız-Örsü'nü gösterdi. Temürçilerin krateri alınırsa silahları, ustaları ve üretim ocakları Azgutların olacaktı.
 
-"Yıldız-Örsü," dedi Korgan, haritadaki krater işaretini vurgulayarak, sesi büyük bir kararlılıkla doluydu. "Temürçiler'in silah ambarları, kıtanın en iyisi. Eğer krateri alırsak, sadece onların silahlarına değil — onların zanaatına, bilgisine, gelecekteki bütün üretimlerine sahip oluruz. Azgutlar, artık, kimseye muhtaç kalmayan bir ordu olur."
+Temujin haritadaki tek geçidi inceledi. "Sekiz yüz Örs Muhafızı dar boğazı tutuyor. Saldırırsak ilk gün bin adam kaybedebiliriz."
 
-Uzun bir sessizlik oldu — meclisteki yaşlı komutanlardan bazıları, huzursuzca kıpırdandı.
+"Korkuyor musun?" dedi Korgan.
 
-Temujin, dikkatlice, sesini yükseltti. "Han'ım, izin verirseniz bir şey belirteyim. Temürçiler, kimseye katılmaz, ama kimseye de düşman olmaz — bu, onların gerçek kalkanı. Onlara saldırırsak, sadece bir krateri değil, bütün kıtanın öfkesini kazanırız. Sungur ve Azgut, Delta ve Hegemonya — hepsi, Temürçi silahlarına muhtaç. Onları yok edersek, hepsini, kendimize karşı birleştirmiş oluruz."
+"Bütün kıtanın demircisini düşman etmeyi pahalı buluyorum. Sungurlar da Hegemonya da onların silahını alıyor. Krateri ele geçirsek bile ustalar bizim için çalışmayabilir."
 
-Korgan'ın gözleri, Temujin'e döndü, soğuk bir keskinlikle. "Sınırın Ötesi'nin Kurdu, savaştan mı korkuyor?"
+Korgan parmağını geçidin üstüne bastı. "Baharda yürüyoruz. Öncüyü sen yöneteceksin."
 
-"Savaştan korkmuyorum, Han'ım. Kaybedeceğimiz bir savaştan korkuyorum. Kraterin tek girişi var, duvarları, nesillerdir güçlendirilmiş. Sekiz yüz Örs Muhafızı, kıtanın en iyi donanımlı savaşçıları arasında sayılır. Bu, kolay bir zafer olmaz."
+Emir böylece tartışma kılığına girmiş bir hüküm oldu.
 
-Korgan'ın sesi sertleşti. "Zaferler, kolay olsaydı, tarihe geçmezlerdi." Meclise döndü, sesini yükseltti. "Karar verildi. Baharda, Yıldız-Örsü'ne yürüyeceğiz."
+Meclisten sonra Orkhon öfkesini saklamadı. İlk dalga duvarlara ulaşamadan yarıya inecekti. Korgan, Temujin'i halkın önünde kahraman yaparak öldürmek istiyordu.
 
----
+"Duvara saldırmayacağım," dedi Temujin.
 
-Meclis dağıldığında, Korgan, Temujin'i durdurdu, sesi, bir öncekinden daha yumuşak ama daha tehlikeliydi.
+"Emri çiğnersen daha erken ölürsün."
 
-Korgan'ın gözlerinde, gizlenemeyen bir hesap parıldadı. "Vanguard'ı sen komuta edeceksin. Sınırın Ötesi'nde hayatta kaldın. Bakalım, örsün gölgesinde de aynı şansa sahip olacak mısın."
+Temujin kraterin çevresindeki ticaret karakollarını işaretledi. Korgan için bir zafer görüntüsü, gerçek fetihten daha değerli olabilirdi. Bir dış karakol teslim edilir, karşılığında silah anlaşması yapılırsa Han istediği duyuruyu alırdı. Temürçiler ise ana ocaklarını korurdu.
 
-Temujin, bu sözlerin altındaki gerçek niyeti, hemen anladı — Korgan, onu, bu sefer, açık bir intihar görevine gönderiyordu, ama bu kez, halkın önünde, bir onur kisvesiyle.
+"Bunu onların kabul etmesi gerekir," dedi Orkhon. "Sonra Korgan'ın gerçeği anlamaması."
 
-"Onurlandım, Han'ım," dedi sadece, sesinde hiçbir duygu göstermeden.
+"İki ayrı sorun. Önce birincisi."
 
----
+Sube gece geldiğinde ona tüccar kılığına girecek güvenilir bir ulak seçmesini söyledi. Mesaj Ustalar Konseyi'ne ulaşacaktı: Azgut ordusu baharda yürüyor, fakat öncü komutanı kan dökülmeden anlaşma arıyordu.
 
-O gece, Orkhon, çadıra öfkeyle girdi. "Bu, bir intihar emri, evlat. Kraterin duvarlarına ilk saldıran birlik — kim olursa olsun, en ağır kayıpları verir. Korgan, seni, halkın gözünde bir kahraman olarak öldürmeye çalışıyor bu sefer."
+"Reddederlerse?" diye sordu Sube.
 
-"Biliyorum." Temujin'in sesi sakindi, ama içinde, hızlı bir hesap dönüyordu. "Ve tam bu yüzden, farklı düşünmemiz gerek, Orkhon. Eğer krateri, doğrudan saldırıyla almaya çalışırsak, kaybederiz — ben de, ordu da. Ama eğer, savaşmadan bir yol bulabilirsem..."
+"Reddettiklerini doğrula. Sessizliği cevap saymayacağız."
 
-"Ne düşünüyorsun?"
+"Korgan öğrenirse?"
 
-Temujin, uzun bir süre sessiz kaldı, sonra, yavaşça. "Temürçiler'in tek korkusu, vazgeçilmezliklerini kaybetmek. Eğer onlara, savaşmadan önce, bir haber ulaştırabilirsem — bir uzlaşma teklifi, Korgan'ın bilgisi dışında — belki, kan dökülmeden, bir anlaşmaya varabiliriz. Onlar, tarafsızlıklarını korur; biz, ihtiyacımız olan silahları, savaşmadan alırız."
+"Beni ihanetten öldürür. Bu yüzden adımı yazmayacaksın."
 
-Orkhon'un gözleri büyüdü. "Bu, Han'ına karşı, açık bir ihanet olur, Temujin. Eğer öğrenirse..."
-
-"Öğrenmeyecek." Temujin'in sesi, keskin bir kararlılıkla doluydu. "Çünkü eğer başarırsam, sonuç, onun istediği şey olacak — silahlar, kansız bir şekilde elimize geçecek. Yöntemi sorgulamayacak kadar açgözlü, Han'ım. Sadece sonucu görecek."
-
----
-
-Sube, gece yarısı çağrıldığında, gizli ağın ilk gerçek görevini aldı.
-
-"Yıldız-Örsü'ne, sessizce, güvenilir bir adam gönder," dedi Temujin, sesi alçak. "Temürçi Ustalar Konseyi'ne ulaşacak — resmi bir elçi gibi değil, sıradan bir tüccar gibi. Mesaj basit olacak: Azgut ordusu geliyor, ama komutanlarından biri, kan dökülmeden bir çözüm arıyor. Eğer ilgilenirlerse, bir işaret göndersinler."
-
-Sube, bu görevin ağırlığını hissederek, ciddiyetle başını salladı. "Ya reddederlerse?"
-
-"O zaman," dedi Temujin, gözleri, çadırın dışındaki karanlığa dikili, "baharda, örsün gölgesinde, gerçekten ölmeyi göze almam gerekecek. Ama bahse girerim, Sube — Temürçiler, savaşmaktan çok, hayatta kalmayı sever. Ve hayatta kalmanın bir yolu varsa, onu, her zaman, savaşa tercih ederler."
-
-Sube ayrıldığında, Temujin, tek başına, haritaya baktı — Yıldız-Örsü'nün kızıl işaretine, uzun bir süre, sessizce.
-
-Bu, artık, sadece kendi hayatta kalma mücadelesi değildi. Kendi Han'ına karşı, sessiz, tehlikeli bir oyun oynuyordu — ve eğer yanlış giderse, bedeli, sadece kendi canı olmayacaktı.
+Sube mesajı ezberleyip kâğıdı ateşe attı. Temujin küller soğuyana kadar bekledi. Korgan ona savaş alanındaki en tehlikeli yeri vermişti. Temujin o yeri savaş başlamadan değiştirmeye çalışacaktı.

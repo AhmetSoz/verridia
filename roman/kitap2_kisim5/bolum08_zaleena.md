@@ -1,42 +1,28 @@
-# Bölüm 8 — Boş Koltuk, Yeni Ses
+# Bölüm 8 — Boş Koltuğun Oyu
 *(ZALEENA)*
 
-Toma'nın ayrılışından sonra, Kaptanlar Konseyi'nde, boş kalan koltuk, Zaleena'ya, kimin, onun yerini alması gerektiğini, düşünmeye zorladı.
+Toma'nın boşalttığı konsey koltuğuna on bir kişi başvurdu. Üçü kıdemli kaptan, ikisi tersane ustasıydı. Mira en genç adaydı ve yalnız üç yıldır kıyı gemisi yönetiyordu.
 
-Roric, dürüstçe önerdi. "Genç bir isim düşünmelisin. Toma, sadece bir kaptan değildi — yeni neslin, bir sesiydi."
+Zaleena ilk elemede oy kullanmadı. Adaylardan son iki yıldaki para cezalarını, mürettebat kayıplarını ve ortak liman işlerine katılımını açıklamalarını istedi. Mira bir seferde yük sınırını aştığı için aldığı cezayı saklamadı; fırtınadan önce limana dönme kararını geciktirdiğini de ekledi.
 
-Zaleena, bu tavsiyeyi, ciddiye aldı, ve haftalarca, dikkatle, kendi kaptanlarını gözlemledi.
+"Aynı koşulda şimdi ne yaparsın?" diye sordu Draven.
 
----
+"Yükü iki gemiye bölerim. Kazancı azaltırım."
 
-Sonunda, kararını, genç bir kadın kaptan üzerinde verdi — Mira, sakin ama keskin zekasıyla tanınan, disiplinli bir denizci.
+İlk oylamada kimse çoğunluk alamadı. İkinci turda Mira ile yaşlı kaptan Havel kaldı. Havel daha deneyimliydi, fakat koltuğun Toma dönene kadar kendisine ait olmasını kabul etmiyordu. Mira ise bir yıllık geçici görev ve sonunda yeniden seçim şartını baştan imzaladı.
 
-"Seni, Konsey'e davet ediyorum," dedi Zaleena, Mira'yı, kendi odasına çağırarak.
+Yedi oyun dördünü aldı.
 
-Mira, bu teklife, gerçek bir şaşkınlıkla karşılık verdi. "Ben mi? Ama ben, sadece, üç yıldır kaptanım."
+İlk toplantıda Zaleena ona yakınında bir yer ayırmıştı. Mira boş sandalyeyi masanın öbür ucuna taşıdı.
 
-"Toma da, aynı şekilde başlamıştı," dedi Zaleena, gülümseyerek. "Yaş, ya da deneyim süresi, tek ölçüt değil, Mira. Karakter, bilgelik — bunlar, sayılır."
+"Oradan belgeleri daha iyi görüyorum," dedi.
 
----
+Zaleena sandalyeyi geri aldırmadı.
 
-Draven, bu seçimi, memnuniyetle karşıladı. "İyi bir seçim. Mira, adil bir kadın — herkes, ona, saygı duyar."
+Konsey, kuzey iskelesinin onarımı için vergi artışını tartıştı. Mira artışa karşı çıktı; önce depolarda üç aydır bekleyen kullanılmamış kerestenin sayılmasını istedi. Sayımda onarımın üçte birine yetecek malzeme bulundu. Vergi önerisi daraltıldı.
 
-Kessel, aynı fikirde. "Ve Konsey'e, taze bir bakış açısı getirir."
+Kessel akşam Mira'nın iyi seçim olduğunu söyledi.
 
-Mira'nın ilk toplantısı, bir hafta sonra yapıldı — genç kadın, başlangıçta gergindi, ama Zaleena'nın sabırlı desteğiyle, kısa sürede, kendi sesini bulmaya başladı.
+"Henüz bilmiyoruz," dedi Zaleena. "Bugün iyi bir soru sordu. Bir yıl boyunca hangi soruların sonucunu taşıdığına bakacağız."
 
----
-
-Serel, o hafta, Mirasçı ziyaretinde, Zaleena'ya, ilginç bir gözlem paylaştı. "Yamalı Liman, garip bir şekilde, sürekli, kendini yeniliyor — Toma gider, Mira gelir, Draven değişir. Bu, sağlıklı bir devletin işareti, Zaleena."
-
-Zaleena'nın sesi düşünceliydi. "Belki. Ya da, belki, sadece, bir zamanlar, sabit bir yapıya sahip olmayan bir limanın, hâlâ, kendi şeklini arıyor olmasının bir işareti."
-
----
-
-O akşam, Kessel'le, sessizce otururken, Zaleena, bütün bu değişimleri, bir kez daha düşündü.
-
-"Bazen," dedi Zaleena, yavaşça, "merak ediyorum — bir gün, ben de, Toma gibi, bir yerlere göndereceğim, ya da, birinin, benim yerimi alacağı bir gün gelecek mi?"
-
-"Elbette gelecek," dedi Kessel, gerçekçi ama şefkatli. "Her lider, bir gün, yerini bırakır. Ama önemli olan, geride, ne bıraktığın — güçlü mü, kırılgan mı bir yapı."
-
-Zaleena, bu söze, sessizce başını salladı — ve kendi kendine, bir kez daha, söz verdi: geride bırakacağı şeyin, güçlü, kalıcı, ve gerçek olacağına.
+Toma'nın yokluğu böylece tek bir kişinin lütfuyla doldurulmadı. Koltuk yeni sahibine değil, belirli süreyle yeni bir sese açılmıştı.

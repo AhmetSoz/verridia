@@ -1,42 +1,30 @@
 # Bölüm 3 — Boş Koltuk
-*(KARİA)*
+*(KARIA)*
 
-Vorlag'ın ani "emekliliği" — Karia'nın, kamuoyuna sunduğu resmi açıklama, yaşlılık ve sağlık nedenleriyle sarayı terk ettiği yönündeydi — Konsey'de, beklenenden az bir şaşkınlık yarattı.
+Vorlag'ın görevden alınma gerekçesi mühürlü oturumda okundu. Halk duyurusunda sağlık yalanına başvurulmadı; ayrıntılar devlet güvenliği nedeniyle kapalı tutuldu. Konsey'de boş kalan sandalye ise açık seçimle doldurulacaktı.
 
-Toplantıdan sonra, çalışma odasında, Faelan'ın sesi rahattı. "Kimse gerçekten sormadı. Ya inanıyorlar, ya da inanmıyorlar ama sormaya cesaret edemiyorlar."
+Üç aday çıktı. Eski soyları Leydi Arvenna, ticaret loncalarını Usta Pelor temsil ediyordu. Faelan'ın adaylığını Kaelan değil, kuzey limanlarından iki küçük soylu önerdi.
 
-"İkisi de, bana uyar," dedi Karia, boş koltuğa bakarak. "Önemli olan, sessizliğin korunması — Delta'yla anlaşmamız, bunu gerektiriyor."
+"Ben gölgede çalışıyorum," dedi Faelan. "Açık görev beni daha az yararlı yapabilir."
 
----
+"Ya da gölgede yaptığın işin sınırını ilk kez Konsey'e karşı sorumlu kılar," dedi Karia.
 
-Boş koltuğun doldurulması, daha hassas bir meseleydi. Sör Kaelan, bu konuda, uzun bir süredir, dikkatli bir öneri taşıyordu.
+Adaylar mal varlıklarını ve dış ticaret bağlarını kâtiplere sundu. Faelan, gizli görevleri açıklamadan Delta'dan aldığı eski ödemeleri de kayda geçirdi. Bunlar kraliyet hizmetinin operasyon bütçeleriydi; yine de saklanmadı.
 
-Bahçede, her zamanki gibi, sakin bir sohbet havasında, Kaelan öneriyi getirdi. "Genç bir isim düşün, evladım. Eski soylardan biri değil — senin gibi, kendi başarısıyla yükselmiş biri. Bu, hem Konsey'e taze bir bakış getirir, hem de, halka, senin, eski düzeni değil, yeni bir düzeni temsil ettiğini gösterir."
+İlk turda kimse çoğunluk alamadı. Pelor ikinci turda çekilip liman düzenlemeleri için yazılı güvence istedi. Faelan bu koşulu kabul etti. Pelor'un oylarıyla üçüncü turda seçildi.
 
-Karia, bu öneriyi, uzun bir süre düşündü. "Kimi düşünüyorsun?"
+Karia sonucu ilan ederken Vorlag'ın boş sandalyesine bakmadı. Koltuk bir sadakat ödülü olmamış, pazarlık ve kayıtla doldurulmuştu.
 
-"Faelan'ı," dedi Kaelan, dolambaçsız. "Yıllardır, senin en güvendiğin isim. Ve bir casus ustasının, artık, açık bir koltukta oturması, Konsey'e, ilginç bir mesaj verir: hiçbir sırrın, senden saklı kalamayacağı."
+İlk oturumdan sonra Faelan yeni yerinde rahatsızca oturdu. "Masada sırtım kapıya dönük."
 
----
+"Alışırsın."
 
-Faelan, bu öneriyi duyduğunda, ilk kez, gerçek bir şaşkınlıkla karşılık verdi. "Ben mi? Majesteleri, ben, gölgelerde çalışmaya alışkınım — ışıkta değil."
+"Alışmak istemiyorum."
 
-"Belki de," dedi Karia, "zamanı gelmiştir, ışığa çıkmanın. Bir kraliçe, sadece savaş meydanında değil, kendi sarayında da, güvendiği isimleri, yanında, açıkça istemeli. Kabul eder misin?"
+Karia önüne liman güvenliği dosyasını itti. "O zaman kapıyı gören aynayı sen tasarlarsın. Fakat bundan sonra önerilerinin karşısında oy verebilecek insanlar olacak."
 
-Faelan, uzun bir süre, sessizce düşündü, sonra, yavaşça başını salladı. "Kabul ediyorum, Majesteleri. Ama sizi uyarıyorum — bir casus, bir konsey üyesi olarak da, hâlâ, bir casus gibi düşünecektir."
+Faelan dosyayı açtı. "Bu kısmı daha az seviyorum."
 
-Karia'nın gülümsemesi hafifti. "Bunu, tam olarak istiyorum."
+"Bu yüzden seçim yaptık."
 
----
-
-Törenle, Faelan'ın yeni konumu ilan edildiğinde, Konsey'in tepkisi, karışıktı — bazıları, memnuniyetsizce fısıldadı, bazıları, temkinli bir merakla izledi. Ama hiç kimse, açıkça itiraz etmedi; Karia'nın otoritesi, artık, sorgulanmayacak kadar sağlamdı.
-
-O akşam, Sör Kaelan, Karia'yı, son bir kez, bahçede buldu.
-
-"Bir yıl önce," dedi Kaelan, yavaşça, "seni, savaş meydanında tanıdım — kararlı, ama tahttan uzak bir amiral. Şimdi, seni, kendi sarayında, kendi Konseyi'ni, kendi seçimlerinle şekillendirirken görüyorum. Gurur duyuyorum, evladım."
-
-Karia, bu söze, derin bir minnetle karşılık verdi. "Sensiz, bu yolun hiçbirini, bu kadar iyi yönetemezdim, Kaelan."
-
-"Belki," dedi yaşlı şövalye, hafif bir gülümsemeyle, "ama yönü, hep, senin seçimindi. Ben, sadece, pusulanı okumana yardım ettim."
-
-Karia, o gece, tek başına otururken, ilk kez, aylardır, gerçek bir istikrar hissetti — kriz değil, sadece, sabırla inşa edilen, yavaş ama gerçek bir ilerleme.
+Kaelan uzaktan onları izliyordu. Karia onay beklemedi. Bir yönetimi değiştirmek, boş sandalyeye kendi adamını koymak değildi; o adamın bile kurala bağlı kalacağı bir sandalye yapmaktı.

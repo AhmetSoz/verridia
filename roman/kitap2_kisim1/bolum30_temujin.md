@@ -1,54 +1,44 @@
 # Bölüm 30 — Kabul Edilen Yalan
 *(TEMUJİN)*
 
-Elara, ikinci kez geldiğinde, aynı terk edilmiş değirmende, yüzünde, bir öncekinden daha ağır bir ifade taşıyordu.
+Elara değirmene ikinci gelişinde masaya bir harita koydu.
 
-"Konsey, kabul etti," dedi, oturur oturmaz, dolambaçsız. "Ama oybirliğiyle değil. Darga, ve onun kanadı, bunu, 'yeminin ruhuna ihanet' olarak nitelendirdi — tarafsızlığımızı, bir yalanla korumanın, tarafsız kalmaktan daha kötü olduğunu savundu."
+"Konsey kabul etti. Oybirliğiyle değil."
 
-"Peki nasıl kazandın onları?"
+Darga'nın gelenekçileri tarafsızlığın bir oyunla korunamayacağını savunmuştu. Elara, sekiz yüz muhafızın ölmesiyle on iki kişinin geri çekilmesi arasında seçim yapmalarını istemişti. Hekat onun tarafını tutunca karar geçmişti.
 
-"Kazanmadım — sadece, sayıca üstün geldim. Hekat, yaşlı ve yorgun; kararı, artık, tam olarak vermiyor, ama etkisi hâlâ büyük. Ben, ona, basit bir soru sordum: 'Sekiz yüz muhafızımızın, gerçek bir savaşta öleceği kesin. Yalanla, kimse ölmeyecek. Hangisi, gerçekten, yeminimize daha sadık?' Bu soru, onu ikna etti. Ve o ikna olunca, konsey de takip etti."
+Haritadaki Kartal Burnu Karakolu ana kratere uzaktı. Stratejik değeri az, görünüşü etkileyiciydi. On iki muhafız kısa süre direnecek ve geri çekilecekti.
 
----
+"Sahte ceset istemiyorum," dedi Temujin. "Korgan saydırır."
 
-Elara, masaya, katlanmış bir harita açtı — kraterin doğu yamacı, işaretli bir nokta.
+"Ceset olmayacak. Kan ve kırık zırh bırakacağız. Geri çekilme yolunu sizin öncünüz kapatmayacak."
 
-"Burası, Kartal Burnu Karakolu," dedi, parmağıyla göstererek. "Küçük, sembolik, gerçek stratejik değeri yok — sadece görünüşte önemli. On iki muhafız, orada duracak, direnecek gibi görünecek, sonra, 'ağır kayıplar' vererek çekilecekler. Senin ordun, karakolu 'ele geçirecek.' Han'ın, bunu, bir zafer olarak görecek — ve gerçekten öyle görünecek, uzaktan izleyen herkese."
+"Adamlarım plana alınmayacak. Fazla kişi sır demektir."
 
-"Ya yakından bakan biri fark ederse?"
+Elara geçiş saatini ve işaret fişeğini gösterdi. Temujin her ayrıntıyı ezberleyip haritayı ona geri verdi.
 
-"Fark etmeyecek şekilde planladık. Muhafızlarımız, gerçek yaralar alacak — kontrollü, tehlikesiz ama inandırıcı. Kan, gerçek olacak. Sadece, ölüm, olmayacak."
+Kampa döndüğünde yeni sorun onu bekliyordu. Batu, öncüye katılmak istemiş; Korgan da onu ikinci komutan yapmıştı.
 
-Temujin, bu detaylı planı, hayranlıkla dinledi. "Temürçiler, gerçekten, her şeyi düşünüyor."
+Orkhon çadır örtüsünü kapattı. "Batu gerçek savaş görmezse kendi savaşını çıkarır."
 
-"Nesillerdir, hayatta kalmak, tek işimiz oldu," dedi Elara, hafif bir gülümsemeyle. "Bu konuda, iyiyiz."
+"Gerçeği anlatırsak ilk içkide bağırır."
 
----
+Sube, kraterin batı yamacındaki dar geçidi gösterdi. "Ona yan kanadın gizli bir Temürçi hücumunu durduracağını söyleyin. Kimse gelmezse görevi başarı sayar."
 
-Kampa döndüğünde, Temujin'i, beklenmedik bir haber karşıladı — Korgan'ın çadırında, Orkhon, endişeli bir yüzle bekliyordu.
+"Ya yerini bırakıp karakola koşarsa?" dedi Orkhon.
 
-Orkhon'un sesi gergindi. "Batu, vanguard'a katılmak için Han'a yalvardı. Ve Korgan, kabul etti. Batu, senin yanında, ikinci komutan olarak, sefere katılacak."
+"İki yedek atını yanlış nallayacağız," dedi Sube. "Koşamaz."
 
-Temujin'in içi soğudu. Batu, Kırıcılar Şöleni'nden beri, kendi yenilgisinin intikamını, bir şekilde almak istiyordu — ve şimdi, Temujin'in en hassas, en gizli planının tam ortasına, habersiz bir şekilde yerleşiyordu.
+Temujin ona baktı. "Atlara zarar yok."
 
-Temujin'in içi soğudu, sesi alçaldı. "Bu, bir felaket olabilir. Batu, oyundan haberi olmadan, gerçek bir kahramanlık göstermeye çalışırsa..."
+"Yalnız ön sol nala gevşek çivi. Yüz adımda fark edilir."
 
-"Planını bozabilir," diye tamamladı Orkhon. "Ya da daha kötüsü, gerçeği fark edip, Korgan'a koşabilir."
+Plan onaylandı. Batu'ya batı geçidinin önemi Korgan'ın yanında anlatılacaktı; böylece görevi küçümseyemezdi.
 
----
+Temujin yalnız kaldığında hesap yeniden değişmişti. Elara'nın Konsey'i, Darga'nın adamları, Batu ve Korgan aynı yalanın farklı kenarlarında duruyordu. Bir kişinin erken davranması yeterdi.
 
-O gece, Temujin, tek başına, çadırında, bu yeni sorunu düşünürken, Sube, sessizce içeri girdi.
+O gece Sube'ye ikinci emir verdi. "Karakol düştüğü anda geri çekilme borusunu sen çalacaksın. Ben emretmesem bile."
 
-"Bir fikrim var," dedi Sube, dikkatle. "Batu'yu, plana dahil etmeyelim — ama onu, karakoldan uzak tutalım. Ona, farklı, gerçek görünen ama düşük riskli bir görev verelim — mesela, yan kanadı korumak. Böylece, hem onur kazanır, hem de, gerçek olayın yakınına gelmez."
+"Neden?"
 
-Temujin, bu öneriyi, uzun bir süre tarttı, sonra, yavaşça başını salladı. "İyi bir fikir. Ama Batu, kolay ikna olmaz — kendini, hep, en tehlikeli yerde görmek ister, şerefini kanıtlamak için."
-
-"O zaman," dedi Sube, hafif bir gülümsemeyle, "ona, yan kanadın, aslında, en tehlikeli yer olduğuna inandırmamız gerek."
-
-Temujin, ilk kez, günler sonra, gerçek bir gülümsemeyle karşılık verdi. "Sen, gerçekten, bu işlerde iyisin, Sube. Bir gün, benim yerime, sen otursan, hiç şaşırmam."
-
-Sube'nin sesi ciddileşti. "O gün gelmesin. Senin yerinde, senin görmek istiyorum — ve o zaman, benim işim, senin en güvendiğin gölge olmak, taht değil."
-
-Bu söz, Temujin'in içinde, garip bir sıcaklık bıraktı — kendi soğuk, hesaplı dünyasında, nadiren hissettiği bir tür bağlılık.
-
-Bahar, artık, çok uzak değildi — ve onunla birlikte, Temujin'in en tehlikeli, en karmaşık oyunlarından biri, gerçek bir sınava girecekti.
+"Çünkü zaferin uzadığı her dakika gerçeğe dönüşme ihtimali artar."

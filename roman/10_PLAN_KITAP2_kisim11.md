@@ -1,4 +1,6 @@
 # İKİNCİ KİTAP — 11. KISIM: (isim henüz konmadı)
+
+> **Redaksiyon notu (20 Temmuz 2026):** Bu dosya tarihsel yazım planıdır. Nihai bölüm kanonu doğrudan `kitap2_kisim7/` dosyalarında ve `../kulliyat/23_guncel_kanon_karti.md` içinde yer alır; aşağıdaki eski özetler güncel metinle çelişirse bağlayıcı değildir.
 *(10. Kısım'ın ("Gölgenin Ardındaki Işık") kapanışından hemen sonra başlıyor.)*
 
 ## Karakterlerin Yeni Konumu

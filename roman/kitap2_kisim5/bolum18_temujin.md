@@ -1,38 +1,20 @@
-# Bölüm 18 — Kaan'ın Cevabı
+# Bölüm 18 — Kaan'ın Sorusu
 *(TEMUJİN)*
 
-İkinci jest — bir Temürçi silah teklifinde, Korgan'a, sessizce avantajlı bir fiyat sağlanması — Kaan aracılığıyla, dikkatle iletildiğinde, cevap, bu kez, çok daha hızlı geldi.
+Altı aylık sınır çizelgesinin dördüncü değişiminde Kaan ilk kez konu dışına çıktı. Mektubun sonunda iki eski Delta mühür numarasını sormuştu. Numaralar Kael'in Bozan dosyasındaki ödemelerle aynıydı.
 
-"Kaan, doğrudan bir soru sordu," dedi Sube, heyecanlı bir raporla. "'Bu iyiliklerin arkasında kim var, ve ne istiyor?' diye sordu."
+Temujin bunun rastlantı olup olmadığını üç kez kontrol etti. Sonra Kaan'a numaraları nerede gördüğünü sordu.
 
-Temujin, bu soruyu, uzun bir süre düşündü. "Zamanı geldi, sanırım — kısmi bir gerçeği paylaşmanın."
+Cevap açıktı: Azgut arşivinde Bozan Han'ın son avından bir hafta önce alınmış iki yabancı ödeme bildirimi vardı. Belgeler yıllarca vergi kaydı sayılmış, veren kurumun adı silinmişti. Kaan, Kuru Dere'nin açık ilanındaki mühür dizisini görünce benzerliği fark etmişti.
 
----
+"Artık Bozan'ın adını söyleyebiliriz," dedi Kaya. "Kendi kaydından oraya ulaştı."
 
-Mesaj, dikkatle hazırlandı — Temujin'in kimliğini, hâlâ, tam olarak açıklamadan, ama niyetini, netleştiren bir mesaj: *Bozkırın, Delta'nın gölgesinden, tamamen özgür olmasını isteyen biri. Korgan'a karşı değil — bozkırın, ortak düşmanına karşı.*
+Temujin, Kaan'a kaynak çizelgesinin yalnız ilk sayfasını gönderdi. Kael'in kopyaları, Toruk'un kapalı ifadesi ve asılları inceleme talebi ayrı başlıklarla yazılıydı. Toruk'un nerede yaşadığı açıklanmadı.
 
-Kaan'ın cevabı, iki hafta sonra geldi, dikkatli ama meraklı: *İlginç bir iddia. Kanıtın var mı?*
+Mektubunda Korgan'ın tahtından söz etmedi. Bozan'ın ölümünün bozkırdaki güç dengesini değiştirdiğini, fakat bunun sonraki Kırıcı Yargı'nın sonucunu kendiliğinden geçersiz kılmadığını özellikle belirtti. Araştırılan şey Korgan'ın hükümdarlığı değil, dış bir örgütün bozkır liderini öldürüp öldürmediğiydi.
 
----
+Kaan on gün sonra tek cümle gönderdi: "Bunu Han'a götürmeden önce kopyanın mühürlerini kendi gözümle görmeliyim."
 
-Bu soru, Temujin'i, zor bir kararla karşı karşıya bıraktı — Toruk/Bozan dosyasının bir parçasını, şimdi mi paylaşmalıydı, yoksa, daha da beklemeli miydi?
+Batu görüşmenin tuzak olabileceğini söyledi. Temujin de aynı ihtimali görüyordu. Tarafsız yer olarak Eski-Kent'i, gözlemci olarak Lyra'yı önerdi. Silahlı refakat her iki taraf için ikişer kişiyle sınırlanacaktı.
 
-"Henüz, tam kanıtı vermeyeceğim," dedi Temujin, Kaya'yla, kararını tartışırken. "Ama küçük bir ipucu — Kaan'ın, kendi başına, araştırmasını teşvik edecek bir ipucu."
-
-Kaya, bu stratejiyi, dikkatle onayladı. "Akıllıca. Onu, kendi keşfine yönlendirmek, ona, doğrudan söylemekten, daha güçlü olabilir."
-
----
-
-Temujin'in cevabı, dikkatle seçilmiş bir işaretle gitti: *Yirmi dört yıl önce, bir okçu, Sazlık Taht'tan, beklenmedik bir servet kazandı. Bunu, araştır — kendi başına. Sonra, tekrar konuşuruz.*
-
-Haftalar geçti, hiçbir cevap gelmedi — ama Sube'nin ağı, Kaan'ın, sessizce, eski kayıtları araştırdığını, rapor etti.
-
----
-
-"Sabırlı olmalıyız," dedi Temujin, Batu'ya, bu bekleyişin ağırlığını paylaşırken.
-
-"Biliyorum," dedi Batu. "Ama zor. Bu, babanın öcünü almakla ilgili değil mi, sonunda?"
-
-Temujin, uzun bir süre düşündü. "Belki. Ama daha çok, gerçeği, açığa çıkarmakla ilgili — ve o gerçeğin, bozkırı, Delta'nın gölgesinden kurtarmasına, izin vermekle. Öç, sadece, bir yan sonuç olabilir — asıl amaç değil."
-
-O gece, Temujin, kendi kendine, bu uzun, sabırlı oyunun, bir gün, gerçekten, meyvesini verip vermeyeceğini merak etti — ama içinde, derin bir kesinlik vardı: doğru yolda olduğuna dair.
+Kaan henüz kabul etmemişti. Yine de uzun yol artık söylenti üzerinden değil, iki tarafın arşivinde bulunan aynı numaralar üzerinden ilerliyordu.

@@ -1,50 +1,38 @@
 # Bölüm 23 — İki Kadın
-*(KARİA)*
+*(KARIA)*
 
-Yamalı Liman'a, resmi bir heyetle değil, küçük, neredeyse gizli bir gemiyle geldiğinde, Karia, kendini, yıllardır hissetmediği bir şekilde, hafif hissetti — ne kraliçe, ne amiral, sadece, bir ziyaretçi.
+Karia Yamalı Liman'a küçük bir gemi ve altı muhafızla geldi. Ziyaret duyurulmadı, fakat liman kayıtlarına gerçek adıyla işlendi.
 
-Zaleena, onu, limanın sessiz bir köşesinde, bizzat karşıladı — resmiyetsiz, sade bir kıyafetle, gülümsemesi, samimi.
+Zaleena onu çalışma kamarasında karşıladı. Masada devlet dosyası yoktu; iki kadeh ve soğuk balık vardı.
 
-"Hoş geldin," dedi Zaleena, "gerçek Karia olarak, kraliçe değil."
+"Bugün benden ne istiyorsun?" dedi Zaleena.
 
-Karia'nın rahatlaması gerçekti. "Bunu, duymayı, ne kadar özlediğimi bilemezsin."
+"Cevap vermek zorunda olmadığım bir konuşma."
 
----
+Karia ardıllık tartışmasını anlattı. Kan bağı zorunlu olmayan yasa taslağını savunuyordu, fakat Konsey hâlâ evlilik baskısı yapıyordu.
 
-İki kadın, Zaleena'nın kendi kamarasında, şarap eşliğinde, saatlerce konuştu — devlet işlerinden değil, kendi hayatlarından.
+Zaleena da Kessel'in duygularını açtığını söyledi.
 
-"Konsey, benden, bir vâris istiyor," dedi Karia, sonunda, itiraf ederek. "Ve ben... hazır değilim, sanırım. Ya da belki, henüz, doğru kişiyi bulamadım."
+"Karşılık verdin mi?"
 
-Zaleena, bu itirafa, anlayışla karşılık verdi. "Kessel, bana, duygularını açtı, geçenlerde."
+"İhtimal verdim. Söz vermedim."
 
-"Ve?"
+"Akıllıca."
 
-Zaleena, dürüstçe karşılık verdi. "Ve bilmiyorum. Ona değer veriyorum — gerçekten. Ama korkuyorum, eğer, bu, yanlış giderse, hem kalbimi hem de en güvendiğim danışmanımı, aynı anda kaybederim diye."
+"Can sıkıcı ölçüde."
 
----
+İkisi güldü.
 
-"İkimiz de," dedi Karia, yavaşça, "aynı korkuyla boğuşuyoruz galiba — taht, ya da taç, bize, her şeyi verdi, ama basit bir şeyi almış gibi görünüyor: kolayca sevme özgürlüğünü."
+Karia, devlet görevinin her yakınlığı siyasi malzemeye çevirmesinden korktuğunu itiraf etti. Zaleena ise kraliçe olmadan önce de insanlara kolay güvenmediğini söyledi.
 
-Zaleena, bu gözleme, uzun bir süre, düşünceli baktı. "Belki de, çözüm, kolay sevmek değil. Belki, dikkatli ama gerçek sevmek."
+"Taç bizi yalnızlaştırmadı," dedi. "Yalnızlığımıza resmî ad verdi."
 
-"Belki." Karia, şarabını, yavaşça yudumladı. "Sör Kaelan, bana, bir şey söylemişti — vâris meselesini çözmek için, sadece bir eş aramak zorunda olmadığımı. Belki, ihtiyacım olan, beni anlayan insanlar, dostlar. Taht, tek başına taşınmak zorunda değil."
+Konuşma gece boyunca sürdü. Kaelan'ın inadı, Roric'in eski bayrağı ve Faelan'ın masaya sırtı dönük oturamaması gibi küçük şeylerden söz ettiler. Temujin hakkındaki raporu da tartıştılar, fakat bir geleceğin habercisi gibi değil; sınırları etkileyebilecek yabancı bir komutan olarak.
 
-Zaleena gülümsedi. "Bu, bize, ikimize de, uyan bir felsefe gibi görünüyor."
+Karia ertesi sabah ayrılırken Zaleena'ya sarılmadı. Güvertede bileklerini kenetlediler.
 
----
+"Bunu yeniden yapalım," dedi Karia.
 
-Gece ilerledikçe, konuşma, daha hafif konulara kaydı — Roric'in garip alışkanlıkları, Faelan'ın sert mizahı, Draven'ın yavaş yavaş kazandığı güven, hatta, uzak bir bozkırdan gelen, garip bir söylenti: sürülen bir Azgut savaş-lordunun, Sungurlar tarafından korunduğu.
+"Bir dahaki sefere sofrayı sen kur."
 
-Karia'nın sesi düşünceliydi. "İlginç bir hikâye. Bir gün, belki, bu adamla, gerçekten tanışırız."
-
-"Belki," dedi Zaleena, omuz silkerek. "Verridia, garip bir şekilde, küçük bir yer, bazen — herkesin hikayesi, bir noktada, bir başkasınınkine dokunuyor."
-
----
-
-Sabah, Karia, gemisine dönerken, Zaleena, rıhtımda, onu uğurladı.
-
-Zaleena'nın sıcaklığı gerçekti. "Bunu, tekrarlamalıyız. Sadece devlet işleri için değil."
-
-Karia gülümsedi. "Kesinlikle. Bir dostluk, bir ittifaktan, çok daha değerli, sanırım."
-
-Gemi, limandan ayrılırken, Karia, güvertede durup, uzaklaşan Yamalı Liman'a baktı — ve içinde, ilk kez, aylardır, gerçek bir arkadaşlığın, sıcaklığını hissetti, tahtın ağırlığından, bir an için, tamamen bağımsız bir sıcaklık.
+Gemi açıldığında Karia omzundaki ağırlığın kaybolduğunu düşünmedi. Yalnız onu adlandırabilecek bir insan daha vardı. Bu, yükü küçültmese de taşınmasını değiştirmişti.

@@ -1,64 +1,102 @@
 # Bölüm 9 — Bir Esirin Değeri
 *(TEMUJİN)*
 
-Büyük Ordugâh'a döndüklerinde, Temujin'in başarısı hızla yayıldı — Rüzgar-Dinleyenler'in gözetleme ağının üçte biri kör edilmiş, Baş Rüzgar-Dinleyen'in kendisi canlı esir alınmıştı. Bu, sıradan bir akıncı zaferinden çok daha büyük bir haberdi, ve Korgan'ın Büyük Savaş Çadırı'na girdiğinde, Han'ın gözlerindeki karışık ifade — gurur ve tedirginlik arasında bir yer — Temujin'in gözünden kaçmadı.
+Temujin Büyük Savaş Çadırı’na girdiğinde Korgan mesajı iki kez okutmuştu.
 
-Korgan'ın sesi gürdü ama dikkatli. "Genç Kurt. Sungurlar'ın en değerli komutanlarından birini getirmişsin bana. Etkileyici."
+“Baş Rüzgar-Dinleyen,” dedi Han. “Canlı.”
 
-"Emrinizdeyim, Han'ım." Temujin başını eğdi, saygıyla — ama bu saygı, her zamanki gibi, hesaplı bir mesafeyi de koruyordu.
+“Evet, Han’ım.”
 
-Batu, çadırın bir köşesinden, alaycı bir sesle konuştu. "Peki şimdi ne yapacaksın onunla, Genç Kurt? Bir ziyafet mi düzenleyeceksin, esirinle birlikte yemek yiyeceksin?"
+Korgan’ın memnuniyeti, Temujin’e bakarken daralıyordu. Başarı işine yarıyor; başaran adamın adı rahatsız ediyordu.
 
-Korgan, Batu'nun alayına aldırmadı. "Onu öldüreceğiz elbette. Halkın önünde, örnek olsun diye. Sungurlar, en iyi komutanlarının bile bizden kaçamayacağını görsün."
+Batu çadırın yanından güldü. “Genç Kurt esirine ziyafet mi verecek?”
 
-Temujin, bir an sessiz kaldı, kelimelerini dikkatle seçerek. "Han'ım, izin verirseniz, farklı bir öneri sunmak isterim."
+“Halkın önünde öldürülecek,” dedi Korgan. “Sungurlar en güçlü savaşçılarının da boyun eğdiğini görsün.”
 
-Korgan'ın gözü kısıldı — bu tür itirazlara alışık değildi. "Konuş."
+Temujin bekledi. Han’ın kararını hemen düzeltmeye kalkmak, karardan daha büyük görünmek demekti.
 
-"Kaya'yı öldürmek, bize bir anlık tatmin verir. Ama canlı tutmak, çok daha fazlasını verebilir." Temujin'in sesi ölçülüydü, her kelimesi tartılmıştı. "Sungurlar, en değerli komutanlarını geri almak için pazarlık yapmaya çalışabilir — belki toprak, belki silah, belki de savaş meydanında almayı umamayacağımız bir teslimiyet karşılığında. Ya da, eğer pazarlık istemezlerse, Kaya'nın bildiği her şeyi — kartal ağının geri kalanını, savunma planlarını, Han'ın zihniyetini — zamanla ondan öğrenebiliriz."
+“Ölümü bir gün konuşulur,” dedi. “Canlılığı aylarca işe yarar.”
 
-Orkhon, çadırın bir köşesinden, onaylayan bir şekilde başını salladı. "Genç Kurt haklı, Han'ım. Ölü bir esir, sadece bir gösteridir. Canlı bir esir, bir silahtır."
+Korgan tek gözünü ona çevirdi. “Nasıl?”
 
-Korgan, uzun bir süre düşündü, kalın parmaklarıyla masaya vurarak. "Peki ya kaçarsa? Ya da Sungurlar bir kurtarma operasyonu düzenlerse?"
+“Börü onu geri almak ister. Toprak, esir veya geçit karşılığında pazarlık yapabilir. Yapmazsa Kaya’nın varlığı Sungurları kurtarma girişimine zorlar. Kaç kişi gönderdiklerini, hangi yolu kullandıklarını görürüz.”
 
-"Onu sıkı tutarız. Ve eğer bir kurtarma girişimi olursa, bu bize, Sungurlar'ın ne kadar hazır olduğu, ne kadar kaynak harcayabileceği hakkında değerli bilgi verir."
+Orkhon masadaki taşı çevirdi. “Kartal ağını da biliyor.”
 
-Korgan, sonunda, isteksiz bir şekilde başını salladı. "Peki. Yaşasın, şimdilik. Ama sıkı tutulacak, Genç Kurt — ve eğer bir tehlike yaratırsa, sorumluluk senin."
+“Konuşmaz,” dedi Batu.
 
-"Anlaşıldı, Han'ım."
+“Konuşması tek değer değil.” Temujin Korgan’a baktı. “Öldürürsek Sungurlara şehit veririz. Yaşatınca her gün başarısızlıklarını hatırlatırız.”
 
----
+Bu gerekçe Korgan’ın hoşuna gitti. Kalın parmakları masada durdu.
 
-Toplantı dağıldığında, Orkhon, Temujin'in yanına geldi, sesi alçak. "Korgan'ın gözlerini gördün mü, planını onayladığında?"
+“Yaşasın,” dedi. “Kaçarsa başınla ödersin.”
 
-Temujin başını salladı, yüzünde hiçbir ifade yoktu. "Gördüm."
+“Kaçmayacak.”
 
-"O bakış, gurur değildi, evlat." Orkhon'un sesi ciddiydi. "O bakış, bir adamın, kendi gölgesinin ona ne kadar yaklaştığını fark etmesiydi."
+“Bunu da sen sağlayacaksın.”
 
-Temujin, bu sözleri bir süre sessizce sindirdi. "Ne yapmamı önerirsin?"
+Temujin başını eğdi. Çadırdan çıkarken Korgan’ın bakışını sırtında hissetti.
 
-Orkhon'un sesi, neredeyse bir yalvarıştı. "Yavaşla. Ya da en azından, daha görünmez ol. Korgan'ın seni bir tehdit olarak görmeye başladığı an, senin için her şey değişir — Genç Kurtlar'ın, planların, hepsi."
+Orkhon peşinden geldi. Ateş halkalarının arasına vardıklarında alçak sesle konuştu.
 
-Temujin, uzun bir süre cevap vermedi, gözleri çadırın dışına, ordugâhın ateşlerine dikili. "Yavaşlamak, bazen ileriye gitmenin bir yoludur, Orkhon. Ben acele etmiyorum zaten. Sadece, doğru anları kaçırmıyorum."
+“Başarını dinlerken gururlanmadı.”
 
----
+“Biliyorum.”
 
-Kaya'nın tutulduğu çadıra gittiğinde, Temujin, bir süre dışarıda durdu, içeri girmeden önce. Nöbetçiler, saygıyla eğildi.
+“Korktu.”
 
-İçeride, Kaya, elleri ve ayakları bağlı, ama duruşu hâlâ dimdikti — bir esirin değil, bir savaşçının duruşu. Fırtına, yaralı kanadıyla, bir köşede, sahibinin yanında sessizce duruyordu.
+“Beni ölçüyor.”
 
-Kaya'nın sesi soğuktu ama saygılı. "Genç Kurt. Beni öldürmeye mi geldin, yoksa sorgulamaya mı?"
+Orkhon önüne geçti. “Korkunun başladığı günü sen seçemezsin.”
 
-"Hiçbirine." Temujin, çadırın girişinde durdu, içeri tam girmeden. "Sadece, ne durumda olduğunu görmeye geldim. Kartalın için bir şifacı gönderdim — o, savaşımızın bir parçası değil."
+Temujin çevredeki çadırlara baktı. Genç Kurtlar’ın ateşi ötekilerden küçük, çevresindeki kalabalık daha düzenliydi. Korgan aynı şeyi görüyordu.
 
-Kaya'nın gözlerinde bir şaşkınlık parladı, hızla gizlense de. "Neden bu kadar nazik davranıyorsun bana? Ben senin düşmanınım."
+“Yavaşlamamı istiyorsun.”
 
-"Nezaket değil bu." Temujin'in sesi düzdü. "Hesap. Sağlıklı bir esir, hasta bir esirden daha değerlidir. Ve dürüst olmak gerekirse..." Durdu, bir an, kendi kendine bile itiraf etmekte zorlandığı bir şeyi söylemeden önce. "Kartalının, sahibine olan sadakatini gördüm. Bu tür bir bağı yok etmek, bana anlamsız geldi."
+“Daha az görünmeni istiyorum.”
 
-Kaya, ona uzun bir süre baktı, sanki bu adamı yeniden değerlendiriyormuş gibi. "Sen, duyduğum Azgutlar'dan farklısın, Genç Kurt."
+“Kaya’yı gizleyemezdim.”
 
-"Belki de," dedi Temujin, dönüp çıkarken, "Azgutlar'ın gelecekte ne olacağı, benim gibilere bağlı olacak."
+“Onu Korgan’a getirmen gerekiyordu. Onu yaşatmaya ikna etmen gerekmiyordu.”
 
-Çadırdan uzaklaşırken, Temujin, kendi içindeki o tuhaf, tanımlanamamış hissi bir kez daha fark etti — Kaya'ya karşı duyduğu bu garip saygı, hesabının bir parçası değildi. Ve Temujin, hesaplayamadığı hislerden her zaman biraz rahatsız olurdu.
+Temujin cevap vermedi. Orkhon haklıydı; bu kez kazandığı şey yalnız esir değildi. Han’ın hangi sözü dinlediğini herkese göstermişti.
 
-Yeva'nın sözleri hâlâ zihninde yankılanıyordu. Bu zafer, ona ne kadar yakınlaştırmıştı onu hedefine — ve ne kadar da yakınlaştırmıştı, göremediği bir tehlikeye?
+✦
+
+Kaya iki nöbetçi çemberinin ortasındaki çadırda tutuluyordu. Elleri önünde bağlıydı. Fırtına, kanadı sarılı hâlde yanındaki ahşap tünekten Temujin’i izledi.
+
+“Karar çıktı mı?” diye sordu Kaya.
+
+“Yaşayacaksın.”
+
+“Korgan merhameti öğrenmiş.”
+
+“Korgan değer hesabını öğrendi.”
+
+Temujin tünek yanındaki su kabını kontrol etti. Şifacı kanadı temizlemişti.
+
+“Kartala neden bakıyorsun?”
+
+“Yarası benim emrimle oldu.”
+
+“Adamlarım da senin emrinle öldü.”
+
+Temujin bu cümleyi karşılıksız bırakmadı. “Evet.”
+
+Kaya’nın yüzündeki alay azaldı. “Öteki Azgutlardan farklı olduğunu mu sanıyorsun?”
+
+“Farklı olduğumu biliyorum. Daha iyi olduğumu söylemedim.”
+
+“İyi. Kendine söylediğin ilk doğru söz olabilir.”
+
+Temujin kapıya yöneldi.
+
+“Genç Kurt.”
+
+Durdu.
+
+“Börü benim için pazarlık yapmaz,” dedi Kaya. “Klanı bir kişi için zayıflatmaz. Bunu hesabına ekle.”
+
+Temujin perdeyi açtı. “İnsanlar en doğru kararlarını, bedel başkasınınken verir. Göreceğiz.”
+
+Dışarı çıktığında nöbet düzenini değiştirdi. Kaya’nın kaçmasından çok, Korgan’ın fikrini yeniden değiştirmesinden çekiniyordu.

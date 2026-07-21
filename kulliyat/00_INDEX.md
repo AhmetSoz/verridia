@@ -4,7 +4,7 @@
 ## Yapının Mantığı
 - **Bölüm I–IX = DEĞİŞMEZ KATMAN.** Dünyanın fiziği, coğrafyası, kültürü, tarihi. Hangi çağda geçerse geçsin her seri buna uyar.
 - **Bölüm X = ZAMAN DAMGALI KATMAN.** "Şimdiki an"ın fotoğrafı; her kitap için yeni fotoğraf çekilir, eskisi arşive düşer.
-- **Karakterler bu külliyatta YOKTUR.** Karakterler ayrı bir **Karakter Kütüğü**nde tutulur (henüz taşınmadı — eski Külliyat Bölüm IV/VII/VIII buraya aktarılacak). Külliyat kişileri değil, dünyayı anlatır; kişilere yalnızca kurumların/tarihlerin gerektirdiği yerde değinir.
+- **Karakterler değişmez dünya katmanında tutulmaz.** Profiller `21_karakter_kutugu.md`, seri geçmişi `22_seri_kutusu.md`, tek yetkili güncel durum ise `23_guncel_kanon_karti.md` içindedir. Eski ara rapor ile güncel kart çelişirse güncel kart geçerlidir.
 - **YAZAR KATMANI blokları:** Her dosyanın sonundaki spoiler bölümleri. Romanlarda asla doğrudan açıklanmaz; ipucu ekimi bu bloklardan beslenir. Bu bloklar dışarıya (okuyucuya, tanıtıma) hiçbir koşulda sızdırılmaz.
 
 ## Dosyalar
@@ -31,6 +31,7 @@
 
 21. [21_karakter_kutugu.md](21_karakter_kutugu.md) — **KARAKTER KÜTÜĞÜ:** 4 ana POV'un kendi-merkezli profilleri (Togan, Temujin, Karia, Zaleena) + 1. Kısım'da tanıtılan tüm yan karakterler + tutarlılık kontrol listesi.
 22. [22_seri_kutusu.md](22_seri_kutusu.md) — **SERİ KUTUSU:** İsim sicili, imla/terminoloji sözlüğü, 1. Kısım zaman çizelgesi, sırlar defteri (ne zaman açılacak), 2. Kısım'a devreden açık uçlar.
+23. [23_guncel_kanon_karti.md](23_guncel_kanon_karti.md) — **TEK YETKİLİ GÜNCEL DURUM:** son yazılmış bölüm anındaki karakterler, devletler, ölümler, ilişkiler, açık uçlar ve kanon kararları.
 
 ### Roman (`../roman/`) — 4 POV rotasyonu: Togan / Temujin / Karia / Zaleena
 
@@ -41,20 +42,22 @@
 - [03_PLAN_kisim4.md](../roman/03_PLAN_kisim4.md) — 4. Kısım "Kızıl Hafta" (13 bölüm) — **1. KİTABIN DORUK NOKTASI VE KAPANIŞI.** Togan'ın kanı Sed'le rezonansa giriyor (kısmi ifşa), Temujin Sungurlar'ı kansız teslim alıp Kaya'yı özgür bırakıyor, Karia taç giyip Kraliçe oluyor (Kral'ın huzurlu ölümü), Zaleena Enkaz Kraliçesi olarak tam meşruiyet kazanıyor.
 - `kisim1/` → `kisim4/` klasörleri — toplam 53 bölümün tam metni.
 
-**2. KİTAP TAMAMLANDI (8 Kısım, 181 bölüm) — "Dört Bayrak, Bir Gökyüzü" ile kapandı**
+**2. KİTAP TAMAMLANDI (8 Kısım, 182 bölüm) — “Dört Yol, Ayrı Mühürler” ile kapandı**
 - [04_PLAN_KITAP2_kisim5.md](../roman/04_PLAN_KITAP2_kisim5.md) — 5. Kısım "Hafızanın Bedeli" (`kitap2_kisim1/`, 53 bölüm) — Togan Sed'e ulaşıp annesi Ayla'nın hikayesini öğreniyor; Temujin, Korgan tarafından sürülüyor, Genç Kurtlar'ı kuruyor; Karia/Zaleena, Vorlag/Valerius darbe girişimini ve Sarris'i çökertiyor.
 - [05_PLAN_KITAP2_kisim6.md](../roman/05_PLAN_KITAP2_kisim6.md) — 6. Kısım (`kitap2_kisim2/`, 36 bölüm) — **Togan ve Temujin ilk kez fiziksel olarak tanışıyor** (serinin ilk büyük POV-kesişme ödülü); Genç Kurtlar bağımsız bir topluluk olarak tanınıyor.
 - [06_PLAN_KITAP2_kisim7.md](../roman/06_PLAN_KITAP2_kisim7.md) — 7. Kısım "Kazanılan Denge" (`kitap2_kisim3/`, 19 bölüm) — Sarris, Delta liderliğinden düşüyor; Karia-Elowen ve Zaleena-Kessel ilişkileri kamuya açılıyor.
 - [07_PLAN_KITAP2_kisim8.md](../roman/07_PLAN_KITAP2_kisim8.md) — 8. Kısım (`kitap2_kisim4/`, 14 bölüm) — **DÖRT POV, serinin başından beri ilk kez, aynı yerde bir araya geliyor** (Karia ve Zaleena, Genç Kurtlar kampını ziyaret ediyor); Bozan Han suikastının Delta bağlantısı ortaya çıkıyor.
 - [08_PLAN_KITAP2_kisim9.md](../roman/08_PLAN_KITAP2_kisim9.md) — 9. Kısım "Aynı Rüzgârın Dört Yönü" (`kitap2_kisim5/`, 21 bölüm) — Meziyet Programı/Bilgeler Meclisi ve Genç Denizciler Meclisi kuruluyor; Temujin, Korgan'ı müttefike çevirme planını başlatıyor.
-- [09_PLAN_KITAP2_kisim10.md](../roman/09_PLAN_KITAP2_kisim10.md) — 10. Kısım "Gölgenin Ardındaki Işık" (`kitap2_kisim6/`, 17 bölüm) — Malakor, Togan'ı doğrudan hedef alıyor; Beklenti Yılı töreninde Korgan, Bozan gerçeğinden şüphelenmeye başlıyor.
-- [10_PLAN_KITAP2_kisim11.md](../roman/10_PLAN_KITAP2_kisim11.md) — 11. Kısım "Büyük Uzlaşma" (`kitap2_kisim7/`, 13 bölüm) — **⭐⭐⭐ Korgan ve Temujin, Delta'ya karşı sessiz bir ittifak kuruyor** — Kitap 2'nin en büyük dönüm noktalarından biri.
-- [11_PLAN_KITAP2_kisim12.md](../roman/11_PLAN_KITAP2_kisim12.md) — 12. Kısım (`kitap2_kisim8/`, 9 bölüm) — Malakor kısıtlanıyor; **Üç Bayrak (Azgut/Genç Kurtlar/Temürçi), sonra Dört Bayrak İttifakı (+ Hegemonya + Yamalı Liman) resmen kuruluyor** — **İKİNCİ KİTAP FİNALİ.**
+- [09_PLAN_KITAP2_kisim10.md](../roman/09_PLAN_KITAP2_kisim10.md) — 10. Kısım "Gölgenin Ardındaki Işık" (`kitap2_kisim6/`, 17 bölüm) — Malakor'un bir kişi kadar kurumsal bir makam olabileceği araştırılıyor; Kaan, Bozan emrinin kanıt zincirini Korgan'ın önüne taşıyor.
+- [10_PLAN_KITAP2_kisim11.md](../roman/10_PLAN_KITAP2_kisim11.md) — 11. Kısım "Büyük Uzlaşma" (`kitap2_kisim7/`, 13 bölüm) — Toruk güvenli geçişle ifade veriyor; Korgan ile Temujin ani dostluk yerine doksan günlük `Tuz Düzlüğü Mutabakatı`nı imzalıyor.
+- [11_PLAN_KITAP2_kisim12.md](../roman/11_PLAN_KITAP2_kisim12.md) — 12. Kısım (`kitap2_kisim8/`, 9 bölüm) — Kuru Dere baskını püskürtülüyor, Malakor makamının saha yetkisi kısmen askıya alınıyor; dört özerk bozkır tarafı ayrı mühürlerle sözleşme kuruyor, Hegemonya ve Yamalı Liman ayrı protokollerle bağlanıyor — **İKİNCİ KİTAP FİNALİ.**
 
-**3. KİTAP BAŞLADI**
-- [12_PLAN_KITAP3_kisim1.md](../roman/12_PLAN_KITAP3_kisim1.md) — 1. Kısım (`kitap3_kisim1/`, 4 bölüm yazıldı) — Dört Bayrak İttifakı'nın ilk sınavı: Malakor, dolaylı söylentilerle küçük boyları (Karaçul) İttifaka karşı kışkırtmaya çalışıyor; "Açıklık Günü" ile karşılık veriliyor.
+**3. KİTAP DEVAM EDİYOR (3 Kısım, 71 bölüm yazıldı)**
+- [12_PLAN_KITAP3_kisim1.md](../roman/12_PLAN_KITAP3_kisim1.md) — 1. Kısım "Sessiz Taşlar" (`kitap3_kisim1/`, 28 bölüm) — İttifakın ilk dış sınavı, Sessiz Taşlar gizemi ve Kaya'nın ölümüyle gelen kalıcı kırılma.
+- [13_PLAN_KITAP3_kisim2.md](../roman/13_PLAN_KITAP3_kisim2.md) — 2. Kısım "Kırılan Düğüm" (`kitap3_kisim2/`, 23 bölüm) — Sungur özerkliği, Temujin'in gri kararının Karakçı'nın ölümüyle sonuçlanması ve Togan'ın Işık Seddi yolculuğu.
+- [14_PLAN_KITAP3_kisim3.md](../roman/14_PLAN_KITAP3_kisim3.md) — 3. Kısım "Büyük Döngü" (`kitap3_kisim3/`, 20 bölüm yazıldı) — iki mührün aynı sistemin parçaları olabileceği ortaya çıkıyor; döngü aktif faza giriyor.
 
-**Açık uçlar (Kitap 3'e taşınan):** Malakor'un kısıtlanmasının kalıcılığı, Togan'ın "tam seçim" günü, Delta'nın (Amara) uzun vadeli güvenilirliği, **Karanlık Hasat'ın okyanus dibindeki "Karanlık Varlık"ı (serinin en büyük, en geç kozmik ifşası, hâlâ isimlendirilmedi)**, Dört Bayrak İttifakı'nın ilk büyük dış sınavı.
+**Güncel açık uçlar:** Togan'ın "tam seçim" günü; Yeşil-Göz Sable ile karşılaşma; Büyük Döngü'nün aktif fazdaki ilk somut krizi; Coren Vex üzerinden başlayan Delta iş birliğinin sonucu; Malakor'un güç kaybına vereceği karşılık; Karanlık Varlık'ın kimliği ve amacı.
 
 ### Harita & Site klasörü (`../harita_ve_site/`)
 - [01_harita_spec_olculu.md](../harita_ve_site/01_harita_spec_olculu.md) — Koordinat sistemi, tüm yerleşimlerin (x,y) ve % konumları, bölge çokgenleri, mesafe doğrulama. Görsel üretimi ve site hotspot'larının tek referansı.
@@ -71,7 +74,8 @@
 8. **Togan'ın kökeni** ayrıntılandı (Bölüm IX yazar katmanı): annesi Ayla (Azgut), Alpagu ve Anya'nın sır ortaklığı.
 
 ## Sıradaki İşler
-- [ ] **Karakter Kütüğü**: Eski Külliyat'taki ~30 profilin yeni formatta, kimseye-göre-değil kendi-merkezinde taşınması (4 POV önce).
-- [ ] **Seri Kutusu**: isim sicili, terim/imla sözlüğü, ana zaman çizelgesi, sırlar & ipuçları defteri, Rezonans silahı envanteri, açık kararlar defteri.
+- [x] **Karakter Kütüğü**: 4 ana POV, yan karakterler ve kitap sonu durum raporları taşındı.
+- [x] **Seri Kutusu**: isim sicili, terim/imla sözlüğü, zaman çizelgesi, sırlar ve açık kararlar oluşturuldu.
+- [ ] **Kanon temizliği**: eski ara durum kayıtlarını güncel kanondan ayır; Kitap 2 ve Kitap 3 için `10b/10c` zaman fotoğraflarını oluştur.
 - [ ] Külliyat'ın Word'e derlenmiş "okuma sürümü" (istendiğinde).
-- [ ] Harita eskizi (metinsel tarif → görsel).
+- [x] Harita ve sekiz ana mekân görseli/video geçişleri oluşturuldu; siteye bağlandı.

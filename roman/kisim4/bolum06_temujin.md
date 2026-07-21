@@ -1,50 +1,96 @@
 # Bölüm 6 — Kırılma Noktası
-*(TEMUJİN — Kızıl Hafta, 4. Gün)*
+*(TEMUJİN: Kızıl Hafta, 4. Gün)*
 
-Dördüncü gün, savaş, bir tıkanma noktasına ulaşmıştı — Sungurlar, dağların en derin, en savunmalı vadisine çekilmiş, ve Korgan'ın sayısal üstünlüğü, artık, dar geçitlerde işe yaramıyordu.
+Dördüncü günün sabahında Sungurlar son vadiye çekildi. Giriş, beş atın yan yana geçemeyeceği kadar dardı. Azgutların sayısı burada üstünlük değil yığılma yaratıyordu.
 
-Korgan, kendi çadırında, öfkeyle, haritanın üzerine eğilmişti. "Üç gündür ilerleyemiyoruz," diye homurdandı, sesi öfkeyle titriyordu. "Bu kadar az sayıda düşmana karşı, bu kadar çok kayıp veriyoruz."
+Korgan'ın savaş çadırındaki kayıp tahtasına üç günde yüz seksen yedi çizik atılmıştı.
 
-"Vadi, doğal bir kale, Han'ım," dedi Orkhon, sesi dikkatli. "Zorla girmeye çalışırsak, kayıplarımız katlanır."
+“Vadi önündeki kışlakta kimler var?” diye sordu Korgan.
 
-Korgan, uzun bir süre düşündü, sonra, gözlerinde soğuk bir hesapla, Temujin'e döndü. "Genç Kurt. Bir fikrin var mı, her zamanki gibi?"
+Batu cevap verdi. “İhtiyarlar, çocuklar ve yaralılar. Savaşçıların aileleri.”
 
-Temujin, bir an tereddüt etti — çünkü aklına gelen fikir, kendi vicdanıyla çelişen bir şeydi. "Vadinin girişinde, sivil bir Sungur yerleşimi var, Han'ım. Yaşlılar, çocuklar, savaşamayacak olanlar. Eğer onları esir alır, vadiye doğru bir kalkan olarak kullanırsak..."
+“Toplayın. Ön safa sürün.”
 
-Korgan'ın gözleri parladı, bu fikri hemen benimseyerek. "Mükemmel. Yap bunu, Genç Kurt."
+Çadır sessizleşti.
 
-Temujin, kendi önerisinin, Korgan tarafından bu kadar hızlı ve hevesle kabul edilmesiyle, içinde beklenmedik bir dehşet hissetti — çünkü bu öneriyi, aslında bir olasılık olarak, test etmek için söylemişti, gerçekten uygulanmasını değil.
+Orkhon başını kaldırdı. “Han'ım?”
 
-"Han'ım," dedi, sesi dikkatli, "bunu yaparsak, Sungurlar'ın gözünde, sonsuza dek, onursuz bir düşman oluruz. Bozkırın geri kalanı da bunu duyar — ve gelecekte, kimse bize teslim olmaya, bize güvenmeye cesaret edemez. Herkes, sonuna kadar savaşır, çünkü bizimle anlaşmanın bir anlamı olmadığını bilir."
+“Sungur, kendi çocuğunun arkasından ok atamaz. Kapıyı onlar açar.”
 
-Korgan, bir an duraksadı, bu argümanın ağırlığını tartarak. "Peki ne öneriyorsun?"
+Temujin haritadaki kışlak taşına baktı. İlk gün bıraktığı yoldan geçenlerin hepsi vadiye ulaşamamıştı. Korgan'ın emri uygulanırsa Anya da alınabilirdi.
 
-"Sivillere dokunmayalım," dedi Temujin, sesi kesin. "Bunun yerine, ben, küçük bir kolla, vadinin arkasından, dağın diğer tarafından dolaşacağım — Kartal-Yurdu'nda işe yarayan taktiğin bir benzeri. Zaman alır, ama kayıpsız bir zafer getirir."
+“Bu vadiyi açar,” dedi Temujin. “Sonraki bütün vadileri kapatır.”
 
-Korgan, uzun bir süre düşündü, sabırsızlığı ile Temujin'in mantığı arasında sıkışmış. "Üç gün veriyorum sana, Genç Kurt. Üç gün içinde sonuç alamazsan, kendi planımı uygularım — seninkini değil."
+Korgan ona döndü. “Açık konuş.”
+
+“Bundan sonra hiçbir klan bize teslim olmaz. Kadınlarını önümüzde göreceğini bilen savaşçı ölünceye kadar dövüşür. Bugün yüz adam kurtarmak için gelecek on savaşta bin adam kaybederiz.”
+
+“Senin hesabın ne?”
+
+Temujin vadinin kuzeyindeki kesik çizgiyi gösterdi. “Dağın arkasında keçi yolu var. Sube elli kişiyle iki günde aşabilir. Sungurlar kuşatıldıklarını görünce teslimiyet konuşulur.”
+
+“Ya konuşulmazsa?”
+
+“Saldırırız. Fakat sivilleri kullanmadan.”
+
+Korgan'ın eli masaya indi. Taşlar sıçradı. “Bana ahlak öğretme, çocuk.”
+
+“Size zaferin maliyetini söylüyorum.”
+
+Batu elini kılıcına götürdü. Orkhon kıpırdamadı. Korgan birkaç nefes boyunca Temujin'e baktı.
+
+“Üçüncü gün gün batımına kadar,” dedi. “Sonuç alamazsan kışlağı sen boşaltacaksın. İnsanları da sen öne süreceksin.”
+
+“Sonuç alacağım.”
+
+“Bu sözün burada duyuldu.”
 
 ---
 
-Temujin, çadırdan çıkarken, Orkhon'un, ona, garip bir gözle baktığını fark etti.
+Çadırdan çıktıklarında Orkhon, Temujin'in kolunu tuttu.
 
-"Neden bu kadar riske girdin?" diye sordu Orkhon, yürürken. "Korgan'ın planını hemen kabul edebilirdin. Neden bir alternatif önerdin, kendini tehlikeye atarak?"
+“Az önce Korgan'ın emrini reddettin.”
 
-Temujin, uzun bir süre sessiz kaldı, sonra, dürüstçe cevap verdi. "Çünkü, Orkhon, ben, korkuyla yönetilen bir bozkır istemiyorum. Ben, saygıyla yönetilen bir bozkır istiyorum. Ve saygı, masumları kalkan olarak kullanarak kazanılmaz."
+“Ona daha iyi bir yol verdim.”
 
-Orkhon, ona uzun bir süre baktı, sonra, yavaşça, başını salladı. "Sen, gerçekten, Korgan'dan farklısın, evlat. Umarım, bu farkın, seni bir gün öldürmez."
+“Kendine böyle anlatabilirsin. O anlatmayacak.”
+
+Temujin, Sube'yi çağırıp keçi yolunu tarif etti. Elli kişinin üç günlük erzağını taşımasını, metal zırh bırakmasını ve arkada iz silen iki adam bulundurmasını emretti.
+
+“Vadiye vardığında saldırma,” dedi. “Sancağı görecekleri yere dik. Sayımızı bilmesinler.”
+
+Sube gülümsedi. “Elli kişiyi beş yüz sanacaklar.”
+
+“Beş yüz sanmaları gerekmiyor. Kaçışın kapandığını bilsinler yeter.”
 
 ---
 
-O gece, Kaya'nın çadırına giderken, Temujin, garip bir ağırlık taşıyordu içinde — kendi vicdanının, ilk kez, açıkça, Korgan'ın iradesine karşı çıktığını fark etmişti, ve bu, geri dönüşü olmayan bir eşiği geçmek gibiydi.
+Kaya haberi dinlerken bileklerindeki ipin düğümünü çevirdi.
 
-"Bugün, halkını kurtardım," dedi Temujin, Kaya'ya, sesi yorgun. "Ama bunun bedelini, belki de kendim ödeyeceğim."
+“Korgan kışlağı kullanır,” dedi. “Süre dolarsa seni de ezer.”
 
-Kaya, ona uzun bir süre baktı, gözlerinde, ilk kez, gerçek bir minnettarlık vardı — bir düşmana duyulan, ama artık düşmanlıktan çok daha karmaşık bir duygu.
+“Süre dolmayacak.”
 
-"Neden yaptın bunu?" diye sordu Kaya, sesi yumuşak.
+“Börü teslim olmaz.”
 
-"Bilmiyorum tam olarak," dedi Temujin, dürüstçe. "Belki de, senin gibi biriyle konuşmak, bana, hesaplarımın ötesinde bir şey öğretti. Ya da belki de, ben, her zaman, biraz farklıydım — sadece, bunu kabul etmekten korkuyordum."
+“Sen söylersen olur mu?”
 
-Kaya, uzun bir süre sessiz kaldı, sonra, sesi ciddi, ekledi: "Eğer bir gün, Korgan'a karşı gelmen gerekirse, Genç Kurt — bunu bil ki, en azından bir düşmanın, seni, o zaman, düşman olarak görmeyecek."
+Kaya başını kaldırdı. Temujin cebinden küçük bir deri parçası ve kömür çıkardı.
 
-Bu sözler, Temujin'in içinde, garip bir sıcaklık yarattı — ve çadırından çıkarken, ilk kez, kendi geleceğinin, sadece Korgan'ın tahtını ele geçirmekle değil, çok daha büyük bir şeyle — belki de, bozkırın kendisinin ruhuyla — ilgili olduğunu hissetti.
+“Ona kendi elinle yaz. Arkadaki yolu aldığımı söyle. Teslim olursa klanına dokunulmayacağını da.”
+
+“Bu sözü Korgan mı veriyor?”
+
+“Ben veriyorum.”
+
+“Aynı şey değil.”
+
+“Biliyorum.”
+
+Kaya kömürü almadı. “Sözünü tutacak gücün var mı?”
+
+Temujin bir an sustu. “Olması için bu savaşı kazanmam gerek.”
+
+Kaya deri parçasını önüne çekti. “O zaman doğru kelimeleri seç.”
+
+İlk cümleyi birlikte kurdular.

@@ -1,60 +1,72 @@
 # Bölüm 7 — Kraliyet Krizi
-*(KARİA)*
+*(KARIA)*
 
-Haber, Karia'ya gece yarısı ulaştı — bir hizmetçi, soluk soluğa, kapısını çalarak: "Kral hastalandı, Amiral. Ciddi. Saray hekimleri çağrıldı."
+Kral’ın hastalandığı haberi gece yarısından sonra geldi.
 
-Karia, hızla giyinip Tuzlu Taht'a koştuğunda, sarayın koridorları zaten fısıltılarla doluydu — endişeli hizmetçiler, telaşlı muhafızlar, ve köşelerde, alçak sesle konuşan soylular. Kralın odasına yaklaştığında, kapının önünde Lord Vorlag'ı buldu, yüzünde her zamanki o soğuk sabır vardı, ama gözlerinde bir hesap parlıyordu.
+Karia zırhını giymedi. Üniforma ceketini kapatırken hizmetçiye baş hekimin ne zaman çağrıldığını, saray kapılarının kapanıp kapanmadığını ve Konsey üyelerinden kimlerin içeride olduğunu sordu.
 
-"Amiral Karia," dedi Vorlag, başını hafifçe eğerek. "Bu geç saatte gelmeniz ilginç. Kimden haber aldınız?"
+“Lord Vorlag yarım saattir orada,” dedi kadın. “Sör Valerius yeni geldi.”
 
-"Bu önemli değil, Lord Vorlag." Karia'nın sesi sertti. "Kral'ın durumu nedir?"
+Bu, hastalığın kendisi kadar kötü bir haberdi.
 
-"Hekimler içeride. Kalbi... zayıflamış görünüyor. Yaşı, ve son zamanlardaki stres, muhtemelen." Vorlag'ın sesinde, tuhaf bir sükunet vardı — bir adamın, bekleyip durduğu bir şeyin nihayet gerçekleştiğini gören sükuneti. "Konsey'i toplamamız gerekebilir, Amiral. Eğer Majesteleri bu geceyi atlatamazsa..."
+Kral’ın odası önündeki koridorda Vorlag tek başına bekliyordu. Etrafındaki hizmetçiler ondan uzak duruyor, muhafızlar bakışlarını kapıya sabitliyordu.
 
-Bu cümlenin tamamlanmamış hâli, koridorda soğuk bir gölge gibi asılı kaldı.
+“Amiral.” Vorlag başını eğdi. “Size kim haber verdi?”
 
-Tam o anda, Sör Valerius, hızlı adımlarla koridora girdi, yüzü kızarmış, sanki koşarak gelmiş gibi. "Duydum," dedi, sesi telaşlı ama altında bir heyecan da gizliydi — bunu gizlemeye bile zahmet etmemişti. "Ne kadar ciddi?"
+“Kral’ın durumu?”
 
-"Henüz bilmiyoruz," dedi Karia, sesi keskin. "Ve umarım, Sör Valerius, bu haberi duyduğunuzda hissettiğiniz şey endişe, başka bir şey değil."
+“Kalbi. Hekimler kesin konuşmuyor.” Vorlag ellerini kollarının içinde birleştirdi. “Sabaha çıkamazsa Konsey’in hazır olması gerekir.”
 
-Valerius'un yüzü bir an sertleşti, ama cevap vermedi.
+Valerius koşar adımlarla köşeyi döndü. “Ne kadar ciddi?”
 
-Kapı açıldı, ve baş hekim çıktı, yüzü yorgun ve endişeli. "Majesteleri stabil," dedi, sesi rahatlatıcı olmaya çalışıyordu ama başaramıyordu. "Şimdilik. Ama kalbi zayıf, ve... ve yaşı düşünüldüğünde, bir sonraki nöbetin ne zaman geleceğini kimse garanti edemez. Dinlenmesi gerekiyor. Kimseyle görüşmemeli, en azından birkaç gün."
+“Kral hayatta,” dedi Karia. “Şimdilik bilmeniz gereken bu.”
 
-Bu haber, koridordaki üç kişi arasında farklı ağırlıklarla karşılandı — Vorlag'ın yüzünde bir hesaplama, Valerius'un yüzünde bastırılmaya çalışılan bir heyecan, ve Karia'nın yüzünde, sadece derin bir endişe.
+Kapı açıldı. Baş hekim dışarı çıktığında alnı ter içindeydi.
 
-"O zaman," dedi Vorlag, sesi yavaşça, dikkatle seçilmiş, "belki de Konsey'in, olası bir... geçiş senaryosunu şimdiden tartışması akıllıca olur. Sadece ihtiyat olarak."
+“Nöbet geçti. Majesteleri uyuyor. Birkaç gün kimseyle görüşmeyecek.”
 
-"Kral hayatta, Lord Vorlag." Karia'nın sesi buz gibiydi. "Onun ölümünü konuşmak için henüz erken."
+“Hayati tehlike?” diye sordu Karia.
 
-"Ben onun ölümünü konuşmuyorum, Amiral." Vorlag'ın sesinde ince bir gülümseme vardı. "Sadece, Hegemonya'nın hazırlıksız yakalanmaması gerektiğini söylüyorum. Bu, sorumlu bir liderliğin göstergesidir."
+“Bir sonraki nöbeti kaldıramayabilir.”
 
-Karia, bu sözlerin altındaki gerçek niyeti görebiliyordu — Vorlag, bu krizi, Gelgit Vârisi meselesini kendi lehine çözmek için bir fırsat olarak kullanmaya çalışıyordu; muhtemelen Valerius'u, ya da belki Solmuş Hanedan'ın gölgesindeki bir ismi öne sürerek.
+Vorlag sözü hemen aldı. “O hâlde sabah Konsey’i toplamalıyız.”
 
----
+“Hangi gündemle?”
 
-O gece, saray sessizce ikiye bölündü — Vorlag ve Valerius'un etrafında toplanan bir kanat, "hazırlıklı olmak" adı altında acil bir Konsey toplantısı çağrısı yapmaya çalışırken; Karia, kendi sadık müttefiklerini — Drennar, ve şaşırtıcı bir şekilde Calder — sessizce bir araya getirdi.
+“Geçiş hazırlığı.”
 
-"Bu bir tuzak," dedi Karia, küçük, özel bir odada, güvenilir birkaç kişiyle toplandığında. "Kral hayattayken, bir vâris tartışması açmak, sadece kaosu davet eder. Eğer şimdi bir karar alınırsa, bu Kral'ın iradesiyle değil, Vorlag'ın acelesiyle alınmış olur."
+Karia ona döndü. “Theodoric’in ölümünü, odasının kapısında beklerken gündeme yazmayacaksınız.”
 
-"Ne öneriyorsunuz, Amiral?" diye sordu Leydi Calder, sesi dikkatli.
+“Hegemonya bir adamın kalbiyle birlikte duramaz.”
 
-"Bekleyeceğiz. Kral iyileşene kadar, hiçbir resmi karar alınmayacak. Ben, donanmamı ve halkın güvenini kullanarak, herhangi bir acele Konsey kararının önüne geçeceğim." Karia'nın sesi kesindi. "Vorlag, kaosu sever çünkü kaosta, en sabırlı ve en kurnaz olan kazanır. Ben ise düzeni tercih ederim — çünkü düzende, en dürüst olan kazanabilir."
+“Doğru. Bu yüzden yürürlükteki emirler devam eder. Taht boş değil.”
 
-Drennar, ağır bir şekilde başını salladı. "Tersanelerim ve gemilerim sizinle, Amiral. Ama bu uzun sürerse, tehlikeli olur."
+Valerius ilk kez konuştu. “Boşalırsa hazırlıksız kalacağız.”
 
-"Uzun sürmeyecek." Karia'nın sesinde bir kesinlik vardı, ama içten içe, bunun ne kadar kırılgan bir bahis olduğunu biliyordu. "Kral ya iyileşecek ya da..."
+“Siz hazırlığınızı yapmış görünüyorsunuz.”
 
-Cümleyi tamamlamadı. Odadaki herkes, gerisini biliyordu zaten.
+Genç şövalyenin yüzü kızardı. Vorlag koluna hafifçe dokunup onu susturdu. Bu tek hareket Faelan’ın raporlarından daha açıktı.
 
----
+✦
 
-Sabaha karşı, Karia, kendi odasında, tek başına, pencereden dışarı, karanlık limana baktı. Severin'in ihaneti, Vorlag'ın manevraları, Kral'ın hastalığı — hepsi aynı anda üzerine çökmüştü, ve Karia, ilk kez, gerçek bir yorgunluk hissetti içinde, sadece bedensel değil, ruhsal bir yorgunluk.
+Bir saat sonra Karia, Lord Drennar ve Leydi Calder’la küçük harita odasında buluştu. İkisinin de Vorlag’a yakın olmayan kendi oyları, gemileri ve adamları vardı.
 
-Kaelan'ın sözlerini hatırladı: korkusuna rağmen doğru olanı yapmak. Ama şu an, doğru olanın ne olduğundan bile emin değildi tam olarak — sadece, kaosun, düzenden daha tehlikeli olduğuna dair eski bir inancı vardı.
+“Sabah olağanüstü Konsey çağrısı yapacak,” dedi Karia. “Vâris konuşulmasını engelleyeceğiz.”
 
-Şöminenin ateşi, odada, giderek küçülüyordu — ve Karia, onu yeniden canlandırmak yerine, sönmesine izin verdi.
+Calder kaşını kaldırdı. “Hangi yetkiyle?”
 
-"Dayan, Theodoric," diye fısıldadı kendi kendine, sesi neredeyse duyulmaz. "Hegemonya'nın, senin ölümünle başlayacak bir kaosu kaldıracak gücü yok şu anda. Dayan, en azından hasat bitene kadar."
+“Baş hekimin raporu Kral’ın karar veremediğini değil, dinlenmesi gerektiğini söylüyor. Taht boşalmadan halef oylaması yapılamaz. Önce gündemi reddedeceğiz.”
 
-Ama dilekler, denizde olduğu gibi sarayda da, rüzgârı değiştirmezdi. Karia, bunu en iyi bilenlerden biriydi.
+“Yetmezse?” dedi Drennar.
+
+“Liman muhafızları saraya girmeyecek. Gemiler de yerinden ayrılmayacak.” Karia ikisinin yüzünü ayrı ayrı inceledi. “Ben darbe yapmıyorum. Vorlag’ın hastalık nöbetini darbeye çevirmesini engelliyorum.”
+
+Calder masaya parmağıyla bir kez vurdu. “Gündeme ret oyu veririm. Sonrası için söz vermem.”
+
+“İstediğim de bu.”
+
+Drennar başını salladı. “Tersaneler mevcut emirlerle çalışır.”
+
+Toplantı bittiğinde Karia kralın odasına yeniden gitti. Theodoric uyuyor, göğsü ince örtünün altında düzensiz yükseliyordu. Başucundaki masada çevirmeyi hiç bırakmadığı yüzük duruyordu.
+
+Karia sandalyeyi kapıya çekip oturdu. Sabah Konsey’e gidecekti. O zamana kadar Kral’ın odasına Vorlag’ın adamlarından hiçbiri yalnız girmeyecekti.

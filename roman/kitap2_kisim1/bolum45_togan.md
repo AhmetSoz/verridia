@@ -1,50 +1,36 @@
 # Bölüm 45 — Ölü Topraklar
 *(TOGAN)*
 
-Kuzey Sefer Yolu, ilk günlerde, sıradan bir bozkır yoluydu — kısa otlar, ara sıra bir tavşan izi, uzaktan görünen küçük çoban kampları.
+Kuzey Sefer Yolu onuncu gün değişti. Ot, bıçakla kesilmiş gibi tek bir çizgide bitti. Ötesinde çatlamış gri toprak uzanıyordu.
 
-Ama onuncu günün sonunda, dünya, değişmeye başladı.
+Yük atlarından biri sınırı geçmek istemedi. Perren gözlerini bezle kapatıp hayvanı yularından çekti.
 
-"Bak," dedi Perren, atını durdurup, önlerindeki toprağı işaret ederek.
+"Ölü topraklar," dedi.
 
-Ot, aniden, kesilmiş gibi bitiyordu — sanki, görünmez bir çizgi, yeşili griden ayırıyordu. Ötesinde, sadece, çatlamış, gri toprak vardı, ufka kadar uzanan, hiçbir bitki, hiçbir hareket olmadan.
+İlk üç gün kuş görmediler. Geceleri böcek sesi bile yoktu. Rüzgâr esiyor, fakat kaldıracak yaprak bulamıyordu.
 
-"Ölü topraklar," dedi Togan, sesi, kendi kulağına bile, huşu dolu çıktı.
+Dördüncü gün kaba yontulmuş bir sütuna rastladılar. Yazı aşınmıştı: *Toman Han'ın Yirmi Süvarisi. G.Ö. 47.*
 
----
+Perren taşı temizledi. "Alpagu'nun büyükbabası. Anya hikâyesini anlatırdı. Sed'e gittiğini değil."
 
-İlerledikçe, sessizlik, giderek daha ağırlaşıyordu — hiçbir kuş sesi, hiçbir böcek vızıltısı, sadece, rüzgârın, kuru toprak üzerinde, cansız bir uğultusu.
+Sütunun çevresinde mezar yoktu. Yirmi süvariden hiçbirinin dönmediği tek satırla belirtilmişti.
 
-Üçüncü günün sonunda, ilk taş anıtı gördüler — kaba yontulmuş bir sütun, üzerinde, aşınmış ama okunabilir bir isim: *Toman Han'ın Yirmi Süvarisi. G.Ö. 47. Bir daha dönmediler.*
+Beşinci gün zemin atların altında kabardı. Togan Perren'i eyerden çektiği anda kızıl damarlı yaratık kuru toprağı yarıp çıktı. Burkut yükseldi. Yük atları iplerini kopardı.
 
-"Elli yıldan fazla önce," dedi Perren, taşı, dikkatle incelerken. "Bir Sungur seferi, buraya kadar gelmiş."
+Yaratığın göğsündeki ışık her saldırıda güçleniyordu. Togan bunu zayıflık sanıp doğrudan vurmadı. Önce canavarı döndürdü. Perren arka bacağındaki çatlağa mızrak saplayınca gövde yana yattı; kızıl damar bir an açık kaldı.
 
-Togan, taşa, uzun bir süre baktı, garip bir ürperti hissederek. "Toman Han... bu isim, tanıdık geliyor."
+Togan kılıcını iki eliyle çatlağa indirdi. Darbe kolunu omzuna kadar uyuşturdu. Yaratık çökerken içinden sıcak kül boşaldı.
 
-"Alpagu'nun büyükbabası," dedi Perren, yavaşça hatırlayarak. "Anya'nın anlattığı eski hikâyelerde geçerdi. Demek ki, bu, ailenin ilk denemesi değilmiş — Sed'e ulaşmaya çalışmak."
+Perren'in alnı yarılmıştı. Togan'ın sol bileği ise derinin altından parlıyordu.
 
-Bu keşif, Togan'ın içinde, yeni bir ağırlık bıraktı — kendi yolculuğunun, sadece kendi hikâyesi olmadığını, nesillerdir süren bir merakın, bir çağrının, en son halkası olduğunu hissetti.
+"Onu nasıl gördün?" dedi Perren.
 
----
+"Işığı saldırmadan önce değişiyordu."
 
-Beşinci gün, ilk gerçek tehlike geldi — toprak, aniden, hafifçe titremeye başladı, uzaktan, derin bir uğultu yükseldi.
+"Ben görmedim."
 
-"Akıntı-Yaratığı," diye fısıldadı Perren, kılıcını çekerek.
+Togan bileğini bezle sardı. Bunun içgüdü mü, kan mı olduğunu söylemedi. Kendisinin de cevabı yoktu.
 
-Yaratık, topraktan çıktığında, önceki karşılaşmalardan farklıydı — daha büyük, daha vahşi, gözleri, kör bir öfkeyle parlayarak.
+O gece ateş yakmadılar. Ufukta, karanlığın içinde kesintisiz gri bir çizgi yükseliyordu. Bulut değildi; yıldızları alt kenarından başlayarak örtüyordu.
 
-"Merkeze vur!" diye bağırdı Togan, Temujin'in bir zamanlar keşfettiği zayıf noktayı, kendi deneyiminden hatırlayarak — ama bu bilgiyi, aslında, hiç duymamıştı; sadece, içgüdüsel bir bilgiydi, sanki, kanının derinliklerinden geliyormuş gibi.
-
-Çatışma, kısa ama şiddetliydi — iki dost, birbirini koruyarak, yaratığın saldırılarını savuşturdu, sonunda, Togan'ın kılıcı, canavarın göğsündeki kızıl damara saplandı, ve yaratık, çığlık atarak, taş gibi bedeniyle çöktü.
-
----
-
-Yaralarını sararken, Perren, Togan'a, garip bir merakla baktı. "O zayıf noktayı, nereden bildin? Daha önce, hiç böyle bir yaratıkla savaşmamıştık."
-
-Togan, bu soruyu, uzun bir süre düşündü, kendi de şaşırarak. "Bilmiyorum, gerçekten. Sadece... hissettim. Sanki, bir yerden, bir ses, bana fısıldadı."
-
-Bu itiraf, ikisinin arasında, uzun bir sessizlik yarattı — Perren, hiçbir şey söylemedi, ama gözlerinde, hem endişe hem de, sessiz bir kabullenme vardı: Togan'ın kanı, artık, sadece bir sır değildi. Yavaşça, gözle görülür bir şekilde, kendini göstermeye başlıyordu.
-
-O gece, ateşin başında, Togan, ufka baktı — ve orada, çok uzakta, ama artık, net bir şekilde, gökyüzüne yükselen, devasa, gri bir silüet gördü.
-
-"Sed," dedi, sesi, hem korku hem de, uzun zamandır beklenen bir huzurla titreyerek. "Görüyorum onu, Perren. Sonunda."
+Sed, üç günlük mesafeden bile göğün bir bölümünü kapatıyordu.

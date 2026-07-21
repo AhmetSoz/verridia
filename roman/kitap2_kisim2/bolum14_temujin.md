@@ -1,54 +1,38 @@
 # Bölüm 14 — Gölgedeki Bıçak
 *(TEMUJİN)*
 
-Korgan'ın cevabı, beklenenden farklı geldi — açık bir savaş ilanı değil, sadece, soğuk, resmi bir sessizlik.
+Korgan'ın ordusu hareket etmedi. Bunun yerine Orkhon, Kar-Yılan adını taşıyan bir suikastçının sınırı geçtiğini öğrendi.
 
-Sube, kampa, uzak bir kaynaktan gelen haberi taşıdı. "Ordusu, hareket etmedi. Görünüşe göre, Kartal Burnu'ndan sonra, gerçekten yorgunlar — ve Temürçi anlaşması, hâlâ kırılgan. Korgan, açık bir savaşı, şu an için, göze alamıyor gibi görünüyor."
+Temujin haberi Kaya'ya götürdü. "Açık savaş yerine tek bıçak."
 
-Temujin, bu haberi, dikkatle dinledi, ama içinde, rahatlama yerine, yeni bir tedirginlik doğdu. "Bu, iyi bir haber gibi görünüyor. Ama Korgan, asla, bir tehdidi, sadece unutmaz."
+"Bıçak seni ararken obaya giriyor," dedi Kaya. "Bu artık Sungur meselesi."
 
----
+Sürgünlerin silah taşıma yasağı kaldırılmadı. Sube kendi adamlarını kullanmak yerine Sungur gözcülerine Kar-Yılan'ın hareket biçimini anlattı. Tuzak iki grubun ortak planıyla kuruldu.
 
-Orkhon, birkaç gün sonra, kendi eski bağlantılarından, daha rahatsız edici bir haber getirdi.
+Temujin üç gece aynı çadırda yatıyormuş gibi göründü. Gerçekte boş ağılda uyudu. Batu kapı nöbetini bilerek gevşek gösterdi.
 
-"Bir isim duydum," dedi Orkhon, sesi alçak, endişeli. "Kar-Yılan. Korgan'ın, en gizli suikastçılarından biri. Sungur sınırına doğru, gizlice, yola çıktığı söyleniyor."
+Üçüncü gece siyah giysili biri çadırın arkasını kesti. İçeri girince yerdeki keçeye bastı; altındaki çıngıraklar çaldı. Kaya'nın iki savaşçısı çıkışı kapattı, Sube adamın bileğini ip halkasıyla çekti.
 
-Temujin'in kalbi soğudu. "Açık savaş yerine, tek bir bıçak."
+Kar-Yılan canlı alındı. Üzerinde Azgut mührü yoktu. Bıçağın kabzasında yalnız Korgan'ın özel muhafızlarına verilen çift diş işareti vardı.
 
-Orkhon'un sesinde, acı bir gerçekçilik vardı. "Daha ucuz. Daha az riskli, Korgan için. Eğer sen ölürsen, sorun, sessizce çözülür — savaş olmadan, Sungurlar'ı kızdırmadan, en azından, açıkça değil."
+"Beni öldürürseniz başkası gelir," dedi.
 
----
+"Seni öldürmeyeceğiz," dedi Temujin.
 
-Bu haberi, Kaya'yla paylaştığında, kadının yüzü, anında sertleşti.
+Kaya ona sertçe baktı. "Kararı meclis verir."
 
-"Kampımızın içinde bir suikastçı," dedi Kaya, sesi, soğuk bir öfkeyle. "Bu, sadece seni değil, bizim güvenliğimizi de tehdit ediyor."
+Temujin başını eğdi. Eski alışkanlığıyla kendi hükmünü açıklamıştı.
 
-"Biliyorum. Ve bunun için, özür dilerim — bu tehlikeyi, sana, farkında olmadan taşıdım."
+Meclis Kar-Yılan'ı sorgulayıp canlı tutmaya karar verdi. İfadesi, Korgan'ın ültimatomdan sonra Sungur toprağına katil gönderdiğini kanıtlayacaktı. Temürçilere ve tarafsız klanlara tanık eşliğinde haber yollanacaktı.
 
-Kaya, uzun bir süre, ona baktı, sonra, yavaşça, kararlı bir sesle konuştu. "Özür dileme. Bunun yerine, birlikte, bir plan yapalım. Eğer bir suikastçı geliyorsa, onu, hazırlıksız yakalamak yerine, kendi tuzağımıza çekelim."
+Temujin zindandan çıkarken Kaya yanına geldi.
 
----
+"Burada iyi bir karar bile tek başına senin değildir."
 
-Sube, bu plana, hızla, kendi ağını dahil etti — gizli gözcüler, kampın çevresine, dikkatlice yerleştirildi, hiçbir şüphe uyandırmadan.
+"Öğreniyorum."
 
-Sube'nin sesi kesindi. "Eğer yaklaşırsa, onu, görmeden, o bizi görmeyecek."
+"Yavaş öğreniyorsun."
 
-Temujin, geceleri, artık, daha dikkatli uyuyordu — Batu, sırayla, onunla nöbet tutuyordu, ikisi de, karanlığın, artık, sadece bir arka plan olmadığını, gerçek bir tehdit taşıdığını biliyorlardı.
+"Han çadırında daha yavaştım."
 
-Üçüncü gecenin sonunda, bir gölge, kampın kenarında, sessizce hareket ederken, Sube'nin gözcülerinden biri, ona, dikkatlice, yaklaştı.
-
-"Kımıldama," diye fısıldadı gözcü, bıçağını, gölgenin boğazına dayayarak. "Ya da bu gece, son gecen olur."
-
----
-
-Yakalanan suikastçı, kampın merkezine getirildiğinde, Temujin, onun yüzüne, uzun bir süre baktı — genç, sert, ama gözlerinde, garip bir şekilde, korku da vardı.
-
-"Kar-Yılan," dedi Temujin, yavaşça. "Korgan'ın en iyi bıçağı, demek."
-
-"Beni öldürebilirsin," dedi suikastçı, sesi, hâlâ meydan okuyan ama titrek. "Ama Korgan, başka birini gönderir. Ve başka birini. Sen, ölene kadar."
-
-Temujin, bu tehdidi, uzun bir süre düşündü, sonra, beklenmedik bir karar aldı. "Seni öldürmeyeceğim."
-
-Kaya, şaşkınlıkla, ona baktı. "Neden?"
-
-"Çünkü," dedi Temujin, gözlerini, suikastçıdan ayırmadan, "bir ölü suikastçı, sadece, bir sonrakini davet eder. Ama yaşayan bir tanık — Korgan'ın, kendi topraklarımıza, gizlice, bir katil gönderdiğine dair yaşayan bir kanıt — belki de, Korgan'ı, düşündüğünden daha fazla zorlar."
+Kaya'nın ağzı kısa süre kıpırdadı. Gülümsemedi, ama öfkesi azaldı. Suikastçı yakalanmıştı; daha önemlisi Korgan'ın gizli hamlesi artık birçok klanın okuyacağı açık bir kayda dönüşecekti.

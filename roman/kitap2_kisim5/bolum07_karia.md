@@ -1,38 +1,24 @@
 # Bölüm 7 — İlk Değerlendirme
-*(KARİA)*
+*(KARIA)*
 
-Toma, Metheris'e vardığında, Karia, onu, kişisel olarak, sarayın kapısında karşıladı — genç kaptanın, gözlerindeki karışık heyecan ve tedirginlik, ona, kendi geçmişini hatırlattı.
+Meziyet Programı'nın ilk değerlendirmesi sekizinci haftada yapıldı. Adaylar salonda beklemedi; yaptıkları işlerin kayıtları konuştu.
 
-"Hoş geldin, Toma," dedi Karia, sıcak bir gülümsemeyle. "Burada, kimse, senden, olduğundan farklı biri olmanı beklemiyor. Sadece, kendin ol — ve öğren."
+Toma saray protokolü sınavında son sıradaydı. İki soylunun unvanını karıştırmış, bir kurul çağrısını yanlış biçimde yazmıştı. Buna karşılık erzak biriminde üç yıldır süren bir kaybı bulmuştu. Tahıl çalınmıyor, kıyıdan gelen nemli çuvallar kuru depoya alınırken eksik tartılıyordu. Toma ölçüm usulünü değiştirince kayıp dörtte bir azaldı.
 
-Toma, resmi ama samimi bir eğilmeyle karşılık verdi. "Teşekkür ederim, Majesteleri."
+Osric askerî lojistikte güçlüydü, fakat köylü temsilcilerin sorularını küçümsemişti. Wren tarım raporlarında başarılı, bütçe hesabında zayıftı. Komisyon her aday için aynı üç başlığı kullandı: sonuç, yöntem ve itiraza verdiği karşılık.
 
----
+Karia değerlendirme toplantısına oy hakkı olmadan katıldı. Toma'ya yalnız bir soru sordu.
 
-İlk haftalar, Toma için, zorlu geçti — saray protokolü, siyaset, ekonomi, hepsi, ona, yabancı bir dildi. Ama Faelan, sabırlı bir öğretmen olarak, ona, yol gösterdi.
+"Unvanları öğrenmen ne kadar sürer?"
 
-Bir ay sonra, rapor verirken, Faelan'ın sesi memnundu. "Yavaş öğreniyor, ama derinlemesine. Sorular soruyor, gerçek sorular — sadece, ezberlemeye çalışmıyor."
+"Bir ay," dedi Toma. "Ama neden iki ayrı tahıl ölçüsü kullandığınızı öğrenmem daha önemli."
 
-Karia, bu haberi, memnuniyetle karşıladı. "Bu, tam olarak, aradığım şey."
+Saray üyelerinden biri bunu saygısızlık saydı. Karia, sorunun tutanağa aynen geçmesini istedi.
 
----
+Toma orta sırada kaldı. Wren'in arkasında, Osric'in önündeydi. Komisyon raporunda hiçbir adayın vârisliğe hazır olmadığı açıkça yazıldı. Karia bu cümleyi başarısızlık olarak görmedi; program sekiz haftada hükümdar üretiyorsa zaten bir gösteriden ibaretti.
 
-Elowen, Toma'yla, tarihi konularda, uzun sohbetler ediyordu — genç kaptan, denizcilik tarihine, beklenmedik bir tutkuyla yaklaşıyordu.
+Zaleena'ya gönderdiği mektuba sıralamayı, Toma'nın hatalarını ve tahıl hesabını birlikte ekledi. "İyi gidiyor" diye özetlemedi. Toma'nın aynı raporu kendisinin de okuyacağını biliyordu.
 
-"O," dedi Elowen, bir akşam, Karia'ya, "gerçekten, öğrenmeyi seviyor. Bu, nadir bir şey, Karia — çoğu insan, sadece, güç ister. O, anlamak istiyor."
+Elowen gece Karia'ya kimi daha çok beğendiğini sordu.
 
-Bu gözlem, Karia'nın içinde, gerçek bir umut uyandırdı. "Belki, birkaç yıl içinde, gerçekten, onun, krallığı yönetebileceğine, inanabilirim."
-
----
-
-Diğer adaylar da, aynı zamanda, kendi yollarında ilerliyordu — bir çiftçi kızı, tarım politikalarında, şaşırtıcı bir yetenek gösteriyordu; küçük bir soylunun oğlu, askeri stratejide, keskin bir zeka sergiliyordu.
-
-"Program, işe yarıyor," dedi Kaelan, bir değerlendirme toplantısında. "Belki, henüz, kimin, gerçek vâris olacağını bilmiyoruz — ama hepsi, değerli katkılar sağlıyor, şimdiden."
-
-Karia, bu ilerlemeyi, derin bir tatminle izledi. "Zamanla, göreceğiz — kim, gerçekten, bu ağırlığı taşımaya hazır."
-
----
-
-O akşam, Zaleena'ya, bir mektup yazdı Karia: *Toma, iyi gidiyor — yavaş ama derin bir öğrenme. Onu, bize gönderdiğin için, teşekkür ederim. Ve bil ki, ne olursa olsun, o, her zaman, Yamalı Liman'ın bir evladı olarak kalacak — nereye giderse gitsin.*
-
-Karia, mektubu mühürlerken, kendi kendine düşündü: bu program, sadece bir vâris bulmakla ilgili değildi — belki, daha büyük bir şeyle, krallıkların, birbirinden, en iyi insanları, birlikte yetiştirmesiyle ilgiliydi.
+"Bugün Wren'i," dedi Karia. "Yarın değişebilir. Zaten mesele de bu. Tahtı ilk izlenimime bırakmamak."

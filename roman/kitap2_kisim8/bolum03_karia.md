@@ -1,38 +1,16 @@
-# Bölüm 3 — Sınırı Aşan Tehdit
-*(KARİA)*
+# Bölüm 3 — Hesapların Son Sınırı
+*(KARIA)*
 
-Malakor'un, Genç Kurtlar kampına yaptığı saldırının haberi, Karia'ya ulaştığında, hemen, Faelan'ı, acil bir toplantıya çağırdı.
+Baskında bulunan ödeme emri Faelan'ın elindeki Malakor hesaplarıyla eşleşti. Bu kez yalnız bütçe şüphesi değil, silahlı kaçırma girişimiyle bağlantılı bir işlem vardı.
 
-"Bu," dedi Karia, sesi sert, "artık, sadece, bozkırın meselesi değil. Malakor, açıkça, silahlı bir güç kullandı — bu, kabul edilemez."
+Karia Delta ticaretini bütünüyle kesmedi. Konseyden üç hedefli karar çıkardı: beş hesabın Hegemonya'daki varlıkları dondurulacak, yarım çember önekli bütün kamu ödemeleri duracak ve Delta'dan yetkili bir kurul açıklaması istenecekti. İşçi ücretleriyle daha önce teslim edilmiş malların bedeli bağımsız kasadan ödenecekti.
 
-Faelan, bu değerlendirmeye, katıldı. "Resmi bir kınama, yeterli olmayabilir, Majesteleri. Belki, daha somut bir yanıt gerekiyor."
+Amara'ya ültimatom değil, yedi günlük cevap süresi olan resmî delil bildirimi gitti. Ekinde saldırganın ifadesi, ele geçirilen emir ve mühür karşılaştırması vardı.
 
----
+Bilgeler Meclisi yaptırımın sonucunu ölçmek için üç gösterge belirledi: kaç meşru tüccarın etkilendiği, kaç şüpheli hesabın yeni adla açılmaya çalıştığı ve Delta kurulunun hangi belgeleri gerçekten mühürlediği. Karia bu sayıları görmeden başarı ilan etmeyecekti.
 
-Karia, uzun bir süre düşündü, sonra, cesur bir karar aldı. "Amara'ya, doğrudan, bir ültimatom göndereceğim. Eğer, Malakor, kontrol altına alınmazsa, Hegemonya, Delta'yla olan bütün resmi ticaretini, askıya alacak."
+Amara üçüncü gün cevap verdi. Saldırı için Delta önderliğinden izin çıkmadığını, Fısıltı Ustalığı makamının "koruyucu denetim" yetkisini kendi başına yorumladığını yazdı. Acil kurul toplantısı çağrılmıştı. Neris dış gözlemci olarak salonda bulunacaktı.
 
-"Büyük bir risk," dedi Sör Kaelan, dikkatle.
+Faelan, Malakor'un doğrudan Karia'yı hedef alabileceğini söyledi. Saray güvenliği artırıldı; buna karşılık Karia duruşma tarihini gizlemedi. Hesap sahiplerinin avukatları ve itiraz belgeleri kabul edilecekti.
 
-"Biliyorum," dedi Karia. "Ama bazen, en büyük riskler, en gerekli olanlardır."
-
----
-
-Amara'nın cevabı, beklenenden hızlı geldi — ve içeriği, Karia'yı, gerçek bir şaşkınlıkla karşıladı.
-
-*Karia,* diye yazmıştı Amara, *bu saldırı, benim onayım olmadan yapıldı — ve bu, son sınırdı. Delta Konseyi'ni, acil olarak topluyorum. Malakor'un, artık, hesap vermesi gerekiyor — resmi olarak.*
-
-Bu haber, Karia'yı, temkinli ama gerçek bir umutla doldurdu. "Amara, gerçekten, harekete geçiyor."
-
----
-
-Bilgeler Meclisi, bu krizi, kendi açısından, değerlendirdi. Toma, denizcilik bağlantılarından, ek bir bilgi getirdi. "Duyduğuma göre, Delta'nın bazı üyeleri, Malakor'un, artık, kontrolden çıktığını, açıkça, düşünüyor."
-
-"Belki," dedi Osric, stratejik bir gözlemle, "bu, Delta'nın, kendi içinde, büyük bir değişimin, başlangıcı olabilir."
-
----
-
-O hafta, Karia, Temujin'e, destekleyici bir mesaj yazdı: *Amara, harekete geçti. Belki, bu kriz, Malakor'un, sonunda, hesap vermesini sağlar. Togan'a söyle — yalnız değil, hiçbir zaman olmayacak.*
-
-Elowen, bu mesajı, gönderirken, Karia'ya, gururla baktı. "Sen, gerçekten, bir kraliçe değil, bir müttefik oldun, Karia — bütün bir kıta için."
-
-Karia, bu söze, derin bir mütevazılıkla karşılık verdi. "Sadece, doğru olanı yapmaya çalışıyorum. Gerisi, herkesin, birlikte, inşa ettiği bir şey."
+Tehdit sınırı aşmıştı. Verilecek cevap da sınırı aşan bir öfke değil, birden çok yönetimin aynı işlem kodunu ayrı hukuklarıyla durdurmasıydı.

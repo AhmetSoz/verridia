@@ -1,40 +1,24 @@
-# Bölüm 2 — Kaan'ın Kararı
+# Bölüm 2 — Eski-Kent'teki Masa
 *(TEMUJİN)*
 
-Kaan'ın cevabı, aylar süren sessizlikten sonra, sonunda geldi — ve bu kez, mesaj, Temujin'in beklediğinden çok daha ağırdı.
+Kaan Eski-Kent'e kararlaştırılan günde geldi. Yanında bir yazıcıyla iki muhafız vardı. Temujin de aynı sınıra uydu; Batu ile Kaya kapıda kaldı, Lyra görüşmenin tarafsız kayıtçısı oldu.
 
-*Araştırdım,* diye yazmıştı Kaan. *Eski kayıtlar, Sazlık Taht'tan gelen ödemeleri doğruluyor. Ve bir isim buldum — Toruk. Hâlâ, ordugâhta yaşayan biri. Bu, gerçek mi?*
+Masaya Bozan dosyasının Sungur nüshası kondu. Kaan sayfa numaralarını açık ilanla karşılaştırdı, mühür izlerini kendi arşivinden getirdiği balmumu kalıplarıyla ölçtü. İki iz aynıydı. Toruk'un ifadesini okurken üç yerde durup sorularını kenara yazdı.
 
-Temujin, bu mesajı, uzun bir süre, sessizce okudu.
+"Adamı neden tutuklamadın?"
 
----
+"Azgut toprağında yaşıyor. Benim yetkim yok. Kuru Dere'ye güvenli geçişle geldi ve döndü."
 
-"Ne yapacaksın?" diye sordu Kaya, mesajı okuduktan sonra.
+Kaan bunu beğenmiş görünmedi; fakat itirazını kayda geçirdi, suçlama yapmadı.
 
-"Gerçeği, onaylayacağım," dedi Temujin, kararı, zihninde netleşerek. "Ama tam kanıtı, hâlâ, vermeyeceğim. Kaan'ın, kendi başına, Korgan'a nasıl yaklaşacağına, karar vermesi gerek."
+Kendi araştırmasında Toruk'un avdan sonra borçlarını bir gecede kapattığını doğrulamıştı. Ödeme tutarı Kael'in çizelgesine yakındı. Yine de aracının kimliği ve Delta emrinin aslı yoktu.
 
-Cevap, dikkatle yazıldı: *Doğru. Toruk, gerçeği biliyor — ve itiraf etti, bana, kişisel olarak. Ama kanıtı, sana, henüz vermeyeceğim, Kaan. Çünkü, bu bilgi, doğru ellerde bile, yanlış zamanda kullanılırsa, felaket olabilir.*
+"Korgan'a götürürsem ilk sorusu senin bundan ne kazandığın olur," dedi.
 
----
+"Cevabım hazır: Bozan'ın ölümünü Korgan'ın tacına karşı kullanmayacağım. Delta'nın bozkıra müdahalesi ayrı soruşturulacak."
 
-Kaan'ın cevabı, bu kez, çok daha hızlı geldi — ve içeriği, Temujin'i, gerçek bir şaşkınlıkla karşıladı.
+Kaan, Beklenti Yılı toplantısını önerdi. Azgut ileri gelenlerinin hesap verdiği bu yıllık oturumda arşiv kayıtları resmen açılabiliyordu. Korgan dosyayı reddetse bile reddi tanıkların önünde olacaktı.
 
-*Anlıyorum, temkinini. Ama bilmeni isterim — ben, Korgan'a, sadık bir danışmanım, ama körü körüne değil. Eğer, bu gerçek, doğruysa, Korgan'ın, bunu, bir gün, öğrenmesi gerektiğine inanıyorum. Sadece, doğru zamanda, doğru şekilde.*
+Temujin şart koydu: Toruk'un kapalı ifadesi ilk anda açıklanmayacak, önce ödeme kayıtlarının bağımsız incelenmesi istenecekti. Kaan kabul etti.
 
-*Belki,* diye devam ediyordu mesaj, *ikimiz, bu 'doğru zamanı,' birlikte planlayabiliriz.*
-
----
-
-Bu teklif, Temujin'i, derin bir umutla doldurdu — yıllar süren, sabırlı bir plan, sonunda, gerçek bir müttefikle, karşılık buluyordu.
-
-"Bu," dedi Temujin, Togan'a, gelişmeyi paylaşırken, "beklediğimden, çok daha hızlı ilerledi."
-
-"Bazen," dedi Togan, gülümseyerek, "sabır, beklenenden, daha hızlı meyve verir — çünkü, doğru zeminde ekilmiştir."
-
----
-
-Temujin ve Kaan arasında, bundan sonra, düzenli bir yazışma başladı — dikkatli, yavaş, ama gerçek bir plan, Korgan'a, gerçeği, ne zaman ve nasıl sunacaklarını, birlikte şekillendiren bir plan.
-
-"Bir yıl," dedi Temujin, Kaya'ya, tahminini paylaşırken. "Belki, bir yıl içinde, Korgan, gerçeği öğrenecek — ve o zaman, göreceğiz, bozkırın, gerçekten değişip değişemeyeceğini."
-
-Kaya, bu hedefe, temkinli ama gerçek bir umutla baktı. "Büyük bir hedef, Temujin. Ama sen, hep, büyük hedefler için, doğru sabrı bulan biri oldun."
+Görüşme sonunda dostluk yemini etmediler. Kaan dosyanın özetini mühürledi, aslını masada bıraktı. Temujin için en değerli karar buydu; karşı taraf kanıtı sahiplenmeden taşımayı seçmişti.

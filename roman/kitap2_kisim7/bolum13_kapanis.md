@@ -1,36 +1,18 @@
-# Bölüm 13 — Büyük Uzlaşma
-*(KAPANIŞ — TOGAN / TEMUJİN / KARİA / ZALEENA)*
+# Bölüm 13 — Büyük Uzlaşmanın İlk Günü
+*(KAPANIŞ / TOGAN / TEMUJİN / KARİA / ZALEENA)*
 
-O gece, Verridia'nın dört bir köşesinde, dört insan, tarihin, gerçekten, yön değiştirebileceğine dair, yeni bir kanıtı, kendi kalplerinde taşıdı.
+Halk arasında Büyük Uzlaşma denen şeyin ilk günü büyük görünmedi.
 
----
+Togan, Tuz Düzlüğü'nden döndükten sonra Sed kayıtlarını kontrol etti. Malakor makamından yeni cevap gelmemişti. Nöbetçiler kuzey çalılığında da iz bulamamıştı. İki sessizlikten hiçbirine güvence anlamı yüklemedi; bir sonraki beş isim sınamasının tarihini yazdı.
 
-**Genç Kurtlar kampında**, Temujin, Korgan'dan gelen ilk resmi mesajı, bir kez daha okurken, Togan, yanına oturdu.
+Temujin ortak arşiv heyetinin ilk toplantısında Korgan'ın temsilcisiyle kavga etti. Temsilci, Kael'in kopyalarını delil saymak istemiyordu. Lyra ikisini de durdurup asıllar bulunana kadar belgelerin "doğrulanmamış eş kopya" diye kaydedilmesini önerdi. İki taraf da istemediği bu ifadeyi kabul etti.
 
-"Babanın hayali," dedi Togan, "gerçekleşiyor."
+Karia, Hegemonya arşivine gelen heyete Severin dosyasını açtı. Dosyada Bozan'ın adı yoktu. Yalnız ödeme emirlerinin aynı önekle yürüdüğü doğrulandı. Heyet bu benzerliğin soruşturulacağını, henüz bağlantı kurulmadığını yazdı.
 
-"Bizim hayalimiz," dedi Temujin, düzelterek, gülümseyerek. "Hiçbir şey, tek başına, gerçekleşmez."
+Zaleena doğu rotasındaki ilk deneme kervanının sigorta kaydını imzaladı. Kervanda silah yoktu; yün, tuz ve tıbbi ot taşıyordu. Kazancı da riski de sınırlıydı.
 
----
+Doksan günlük mutabakat eski düşmanlığı silmedi. Korgan Temujin'i affetmemiş, Temujin sürgününü unutmuş değildi. Sungurlar ve Temürçiler kendi kararlarını kendi konseylerinde alıyordu. Delta'ya savaş açılmamıştı.
 
-**Metheris'te**, Karia, Elowen'in yanında, yeni imzalanan destek belgesini, dikkatle katlarken, sessizce konuştu.
+Yine de Bozan'ın ölümü artık bir av kazası diye kapatılamıyor, Kuru Dere iki tarafça yeniden tanınıyor ve bir sınır tartışması kılıç çekilmeden kayda geçiyordu. Büyük Uzlaşma adı kalacaksa büyüklüğünü el sıkışmadan değil, bu küçük sınavlardan kazanacaktı.
 
-Karia'nın sesi meraklıydı. "Bir gün, tarih kitapları, bu anı, nasıl anlatacak, merak ediyorum."
-
-"Umarım," dedi Elowen, "gerçeği anlatır — sabrın, anlayışın, ve cesaretin, kılıçtan daha güçlü olduğunu."
-
----
-
-**Yamalı Liman'da**, Zaleena, Kessel'in yanında, limanın, gece ışıklarını izlerken, yavaşça gülümsedi.
-
-Zaleena'nın sesi hafifti. "Roric, 'Büyük Uzlaşma' ismini, çok sevdi."
-
-"Hak ediyor," dedi Kessel. "Bazı isimler, sadece, bir olayı değil, bir umudu da taşır."
-
----
-
-Dört ayrı ufukta, dört insan, artık, sadece kendi hikayelerinin değil, bütün bir kıtanın, yavaşça değişen kaderinin, bir parçası olduklarını, biliyordu. Malakor'un gölgesi, hâlâ, bir yerlerde, bekliyordu. Togan'ın kanı, hâlâ, nihai bir seçim, talep ediyordu. Ama bu gece, en azından, karanlığa karşı, gerçek bir ışık, yakılmıştı.
-
-Ve dördü de, biliyordu: bu ışık, artık, hiçbir gölgenin, tam olarak söndüremeyeceği kadar, güçlüydü.
-
-*(11. Kısım Sonu — 12. Kısım'da devam edecek)*
+*(11. Kısım Sonu; 12. Kısım'da devam edecek)*

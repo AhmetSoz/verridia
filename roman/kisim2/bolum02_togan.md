@@ -1,46 +1,60 @@
 # Bölüm 2 — Sisli Diyar
 *(TOGAN)*
 
-Togan, hayatı boyunca büyük olduğunu sandığı bir dünyada yaşamıştı — Ak-Siper'in zirveleri, Solgun Bozkırlar'ın ufku, gökyüzünün sonsuzluğu. Ama Kuzey Sefer Yolu'na çıktığı ilk gün, Hegemonya topraklarının derinliğine baktığında, kendi dünyasının aslında ne kadar küçük olduğunu ilk kez anladı.
+Kuzey Sefer Yolu, Togan’ın beklediğinden kalabalıktı.
 
-Yol, dar ve çamurlu, ağaçların arasından kıvrılarak uzanıyordu; ama üzerinde, Togan'ın daha önce hiç görmediği bir hareketlilik vardı. Kervanlar — uzun, yüklü kervanlar — güneyden kuzeye doğru ilerliyordu; arabaların üzerinde tahıl çuvalları, silah sandıkları, ve nöbetçi askerlerin yorgun yüzleri vardı. Togan, bir tepenin gölgesinde durup bu geçişi izlerken, bir şeyin garipliğini fark etti: bu insanlar, savaşa gidiyor gibi değil, savaşa hazırlanıyor gibi görünüyordu — ve bu hazırlığın ağırlığı, yüzlerinde okunuyordu.
+Şafaktan beri üç tahıl kervanı, iki asker kolu ve boş arabalarla güneye dönen bir yükçü kafilesi geçmişti. Yol dar olduğu için tekerler aynı çukurlara giriyor, çamur orman kenarına kadar sıçrıyordu. Bozkırda yaklaşan kalabalık ufuktan görünürdü. Burada insanlar ağaçların arasından birden çıkıyor, sisin içinde yeniden kayboluyordu.
 
-Burkut, üzerinde geniş daireler çizerek uçtu, sonra bir ağacın dalına kondu; Togan'a, bu yabancı toprakların ona da yabancı geldiğini hatırlatan huzursuz bir bakışla.
+Togan yola inmedi. Gareth’in gösterdiği patikaları kullanarak kervanlara paralel yürüdü. Burkut ağaç tepelerinin üstünde uçuyor, asker yaklaştığında kısa bir çığlıkla haber veriyordu.
 
-Togan, yoldan uzak durarak, ağaçların arasından, kervanlara paralel ilerlemeyi seçti. Gareth'in öğrettiği gibi — devriyelerin göremeyeceği patikalar, gölgeden gölgeye hareket etmek. Ama bu ihtiyat, onu kervanların konuşmalarından da uzak tutmuyordu; ses, ağaçların arasında garip bir netlikle taşınıyordu.
+Öğleye doğru iki arabanın arasındaki konuşmayı duydu.
 
-"...Kral'ın stokları yetmeyecekmiş diyorlar," diyordu bir kervancı, yorgun sesiyle. "Hasat gelene kadar sıkı tutmamız gerek."
+“Kralın ambarları boşmuş.”
 
-"Hasat gelince ne olacak sanki?" diye karşılık verdi bir diğeri, acı bir kahkahayla. "Bir savaş daha. Her zaman bir savaş daha."
+“Boşsa bizim çuvallar nereye gidiyor?”
 
-Togan, bu sözleri dinlerken, kendi klanının da aynı korkuyu taşıdığını hatırladı — Azgutlar'a karşı, hasat öncesi gerginlik, aynı "yetecek mi" sorusu. Bu, ona garip bir şekilde teselli değil, daha derin bir kasvet verdi: sanki bütün dünya, aynı kadim korkunun farklı dillerdeki yankısıydı.
+“Lordların ambarına.”
 
----
+Ardından yorgun bir kahkaha geldi. “Kızıl Hafta’da lordlar yosun yer artık.”
 
-Öğleye doğru, küçük bir sınır kasabasının kenarına ulaştı — adı neydi bilmiyordu, ama Sis-İşçileri'nin yaşadığı türden bir yerdi belli ki. Taş temelli, ahşap üst katlı evler, dar sokaklar, ve her köşede, savaşa hazırlığın izleri: bilenmiş baltalar, doldurulmuş ambarlar, ve askerlerin, kasabanın meydanında, tembelce ama tetikte devriye gezdiği bir hava.
+Öndeki muhafız arkasına bağırınca konuşma kesildi.
 
-Togan, kasabaya girmeyi göze alamadı — bir Sungur savaşçısı, silahlı ve yabancı, burada anında dikkat çekerdi. Bunun yerine, kasabanın kenarındaki bir tepeden, uzaktan izledi.
+Togan, arabaların üstündeki tahıla baktı. Kartal-Yurdu’nda da kıştan önce aynı sayım yapılırdı: kaç çuval, kaç çocuk, kaç gün. Taş evler, zırhlı askerler ve uzun kervanlar Hegemonya’yı daha güçlü gösteriyordu. Açlık hesabı burada da değişmiyordu.
 
-Meydanın bir köşesinde, bir grup çocuk, tahta kılıçlarla oyun oynuyordu — "Azgutlar'a karşı savaş" oyunu, belli ki, çünkü bir grup diğerini "barbar" diye bağırarak kovalıyordu. Togan, bu sahneyi izlerken, garip bir acı hissetti içinde; bu çocuklar, kendi halkını hiç tanımadan, sadece bir isim, bir korku olarak biliyorlardı onları. Ve muhtemelen, bozkırdaki çocuklar da aynı oyunu, roller değişmiş hâlde oynuyordu — Hegemonya'yı "kibirli züppeler" diye kovalayarak.
+✦
 
-Bu düşünce, Togan'ın zihninde garip bir netlik yarattı: bu savaşların hiçbiri, aslında kimsenin gerçekten anladığı bir şey değildi. Sadece korkuyla beslenen, nesilden nesile aktarılan bir alışkanlıktı.
+Yol öğleden sonra küçük bir kasabanın yanından geçti. Togan ağaçların örtüsünde durdu.
 
-Meydanın diğer köşesinde, bir tellal, yüksek sesle bir ferman okuyordu — Togan, uzaktan tam duyamadı kelimeleri, ama tonundan, bunun bir seferberlik çağrısı olduğunu anladı. Kalabalıktan yükselen mırıltı, ne coşku ne isyan taşıyordu; sadece yorgun bir kabullenme.
+Taş temelli evlerin üst katları ahşaptı. Meydandaki ambarın önünde mızraklı nöbetçiler bekliyor, bir demirci aralıksız balta biliyordu. Tellal, Kral’ın seferberlik fermanını okuyordu. Togan bütün kelimeleri seçemedi; “Kızıl Hafta”, “kuzey devriyesi” ve “zorunlu pay” sözleri kalabalığın içinden ona kadar ulaştı.
 
-Togan, bir süre daha izledi, sonra döndü ve kasabanın kenarından uzaklaşarak yoluna devam etti. Burada durmanın anlamı yoktu; onun peşinde koştuğu şey, bu kasabanın çok ötesindeydi.
+Kimse alkışlamadı. İnsanlar ferman bitince sıradaki işlerine döndü.
 
----
+Meydanın öte yanında çocuklar tahta kılıçlarla oynuyordu. İkisi eski çuvalları pelerin gibi omzuna bağlamıştı. Kalabalık grup onları çember içine aldı.
 
-Akşam olduğunda, bir nehir kıyısında mola verdi — küçük, sığ bir dere, Sarmaşan'ın uzak bir kolu olabilirdi, ya da tamamen farklı bir su yolu; Togan bu toprakların coğrafyasını tam bilmiyordu. Ateş yakmadı, sadece kuru erzağından yedi, Burkut'a payını ayırdı.
+“Azgutlar geliyor!” diye bağırdı çocuklardan biri.
 
-Karanlık çökerken, ufuktaki o eski, tanıdık lekeye takıldı gözü yeniden — ama bu gece, hiçbir şüpheye yer bırakmayacak kadar net ve büyümüştü. Bir Sungur olarak gökyüzünü okumayı bilirdi; ve artık, okuduğunu inkâr edemiyordu.
+Çuval pelerinli çocuklar yere düşürüldü. Ötekiler zafer çığlığı attı.
 
-Beklenti Yılı başlamıştı. Belki de haftalar önce başlamıştı bile, ve o, kendi yasının içinde kaybolmuş, fark etmemişti.
+Togan’ın aklına Kartal-Yurdu’ndaki oyunlar geldi. Orada da çocuklar tahta kılıçlarla Hegemonya askerlerini yener, yüzünü hiç görmedikleri krallara hakaret ederdi. Düşman, daha adı doğru söylenmeden öğreniliyordu.
 
-Bu düşünce, ona garip bir aciliyet verdi. Eğer Kızıl Hafta yaklaşıyorsa, Işık Seddi'ne — ve orada aradığı her ne ise ona — ulaşmak için zamanı daha da kısıtlıydı. Kızıl Hafta'da, dünyanın her köşesi kaosa dönerdi; yollar tehlikeli, insanlar çaresiz, ve belki de kuzeye giden yol tamamen kapanabilirdi.
+Kasabaya girmedi. Zırhındaki Sungur işaretini bir pelerinle örtebilirdi; Burkut’u saklayamazdı.
 
-"Hızlanmalıyız, dostum," diye fısıldadı Burkut'a, kartal omzuna konduğunda. "Vaktimiz sandığımızdan az."
+Kuzeye devam etti.
 
-Gecenin ilerleyen saatlerinde, uykuya dalmadan önce, Togan bir kez daha, artık alışkanlık hâline gelmiş bir düşünceyle boğuştu: bu yolculuğun sonunda ne bulacağını bilmiyordu. Belki bir mucize, belki bir yalan, belki de sadece kendi ölümü. Ama geri dönmek, artık bir seçenek değildi — geride bıraktığı her şey, bu ileriye doğru attığı her adımla, biraz daha uzak, biraz daha ulaşılmaz hâle geliyordu.
+✦
 
-Rüyasında, o gece, ilk kez Kaya'yı gördü — arkadaşının yüzü, endişeli ve uzak, sanki bir şey söylemeye çalışıyor ama sesi Togan'a ulaşamıyormuş gibi. Togan, rüyanın neden bu kadar rahatsız edici olduğunu anlayamadan uyandı, ve bir süre, karanlıkta, kalbinin neden bu kadar hızlı attığını merak ederek oturdu.
+Akşam, yolun uzağındaki sığ bir dere kenarında durdu. Ateş yakmadan kuru et yedi. Burkut payını aldıktan sonra alçak bir dala çıkıp tüylerini düzeltti.
+
+Togan yarasının sargısını açtı. Kesik kapanıyordu ama uzun yürüyüşten sonra kenarları yeniden kızarmıştı. Seren’in merhemini sürüp bezi bağladı.
+
+Karanlık çöktüğünde Kızıl Sürü kuzey ufkunda göründü. Beklenti Yılı’nın ilk gecelerinden biriydi. Kızıl Hafta’ya aylar vardı; Işık Seddi’ne kaç günde ulaşacağını ise bilmiyordu.
+
+Haritası yoktu. Gareth’in tarif ettiği yol ve Burkut’un yön duygusu vardı. Bu, Kartal-Yurdu’ndan ayrılırken düşündüğünden daha azdı.
+
+“Yarın daha erken çıkarız,” dedi.
+
+Uykusunda Kaya’yı gördü. Süt ablası, taş duvarlı dar bir yerde duruyor, ağzını açtığı hâlde ses çıkaramıyordu. Fırtına onun üstünde dönüyor fakat yere inemiyordu.
+
+Togan uyandığında eli kılıcının kabzasındaydı.
+
+Dere aynı sesle akıyor, Burkut dalında duruyordu. Rüyanın bıraktığı sıkıntı geçmedi. Gün doğmadan eşyalarını topladı ve yola çıktı.

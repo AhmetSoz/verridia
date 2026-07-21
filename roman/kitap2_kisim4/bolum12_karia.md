@@ -1,44 +1,24 @@
-# Bölüm 12 — Bir Devletin Tohumu
-*(KARİA)*
+# Bölüm 12 — Tahtın Ölçüsü
+*(KARIA)*
 
-Genç Kurtlar'ın kampında geçirdiği günler, Karia'ya, beklenmedik bir ders verdi — küçük, kırılgan ama gerçek bir topluluğun, nasıl, sıfırdan, adalet ve karşılıklı saygı üzerine inşa edilebileceğini, kendi gözleriyle görme fırsatı.
+Karia üçüncü gün Kuru Dere kuruluna katıldı. Yedi üyeden ikisi toplantı boyunca Temujin'e karşı çıktı. Biri kış erzağının satışını, öteki yeni katılan bir ailenin kabulünü tartışıyordu. Temujin iki oylamayı da kaybetti.
 
-Kampı gezerlerken, Karia gözlemini paylaştı. "Burada, hiçbir zorunlu hizmet yok, duyduğuma göre. Herkes, kendi isteğiyle katılmış."
+Toplantı dağıldığında Karia şaşkınlığını saklamadı. "Son sözü sen söylemiyor musun?"
 
-"Öyle." Temujin'in sesi kesindi. "Korku üzerine kurulu bir topluluk, ilk fırtınada çöker. Ben, bunu, Korgan'ı izleyerek öğrendim."
+"Savaşta komuta bende," dedi Temujin. "Ambar onların. Aç kalacak olan yalnızca ben değilim."
 
----
+Bu cevap Karia'nın aklında kaldı. Genç Kurtlar kusursuz değildi. Kurul üyelerinden biri Temürçi kökenli Yeşim'in oy hakkına hâlâ itiraz ediyor, eski boy ayrımları her tartışmada yeniden beliriyordu. Fakat anlaşmazlık saklanmıyor, kararın kime ait olduğu baştan biliniyordu.
 
-Yeşim, Temürçi kökenli genç kadın, Karia'yla, kısa bir sohbette, kendi hikâyesini paylaştı. "Ailem, hâlâ, Darga kanadına bağlı. Ama burada, kendi seçimlerimi yapabiliyorum — ilk kez."
+Akşam Elowen'le yürürken Karia vâris meselesini açtı.
 
-Karia, bu hikâyeyi, derin bir ilgiyle dinledi. "Hegemonya'da da, benzer bir şey inşa etmeye çalışıyorum — ama bir imparatorluğun ağırlığıyla, bu, çok daha yavaş ilerliyor."
+"Kan bağını tek ölçü sayarsam, yönetme yeteneğini bir rastlantıya bırakıyorum," dedi. "Ama yalnızca sevdiğim birini seçersem de ülkeyi kişisel tercihime bağlarım."
 
-"Belki," dedi Temujin, "büyük değişimler, her zaman, küçük başlar. Genç Kurtlar, bir gün, bir imparatorluk olabilir — ya da, sadece, iyi bir örnek olarak kalabilir. İkisi de, bir değer taşır."
+Elowen hemen onay vermedi. "O hâlde kişiyi değil, ölçüyü önce belirle."
 
----
+Karia çadırına döndüğünde Faelan'a bir karar değil, görev yazdı. Metheris'e dönüşünde hukukçulardan, eyalet temsilcilerinden ve ordu dışından üyeler taşıyan bir vârislik komisyonu kurulacaktı. Adaylar kan bağına göre elenmeyecek; yönetim deneyimi, hesap verme geçmişi ve konsey önünde itiraza dayanma becerisiyle değerlendirilecekti. Son seçim yine kolay olmayacaktı, fakat en azından kapı doğumla kapanmayacaktı.
 
-O akşam, Karia, Elowen'le, kampın kenarında, sessizce yürürken, kendi düşüncelerini paylaştı.
+Ertesi sabah Temujin notu okuyunca "Bizi örnek aldığını mı yazacaksın?" diye sordu.
 
-Karia'nın sesi düşünceliydi. "Burada, bir şey görüyorum — insanların, korkuyla değil, seçimle bir arada durduğu bir yer. Bunu, Metheris'te de, daha fazla istiyorum."
+"Hayır," dedi Karia. "Siz bana bir sorunun başka türlü sorulabileceğini gösterdiniz. Cevabı kendi ülkem bulacak."
 
-"Vâris meselesi mi, düşünüyorsun?" diye sordu Elowen, dikkatle.
-
-"Belki," dedi Karia, dürüstçe. "Ama artık, düşünüyorum ki, bir vâris, sadece, kan bağıyla gelmek zorunda değil. Belki, bir gün, seçtiğim, eğittiğim biri — Faelan'ın önerdiği gibi, benim gibi, kendi başarısıyla yükselmiş biri — tahtı, benden sonra, taşıyabilir."
-
----
-
-Elowen, bu düşünceye, sıcak bir onayla karşılık verdi. "Bu, sana, çok yakışan bir fikir, Karia. Kan değil, karakter."
-
-Karia gülümsedi. "Belki de, Temujin'in, bu küçük topluluğu inşa etme şeklinden, öğrendiğim bir şey bu."
-
-O gece, Karia, kendi çadırında, Faelan'a, kısa bir not yazdı: *Metheris'e döndüğümüzde, konuşmamız gereken bir konu var — vâris meselesi hakkında, yeni bir yaklaşım.*
-
----
-
-Ertesi sabah, Karia, Temujin'e, bu düşüncesini paylaştığında, genç savaş-lordu, derin bir gururla karşılık verdi.
-
-Temujin'in sesi ciddiydi. "Eğer, gerçekten, bu yolu seçersen, Genç Kurtlar, sana, örnek olmaktan, gurur duyar."
-
-"Zaten duyuyorum."
-
-İkisi, kampın merkezine doğru yürürken, Karia, kendi kendine düşündü: bazen, en büyük dersler, en beklenmedik yerlerden — bir zamanlar düşman olması beklenen bir bozkır sürgününden — gelirdi.
+Mührü ancak bu cümleden sonra bastı. Kuru Dere'den bir yönetim biçimi kopyalamıyor, kendi tahtının ölçüsünü ilk kez açıkça tartışmaya açıyordu.

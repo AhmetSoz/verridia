@@ -1,38 +1,22 @@
-# Bölüm 3 — Bir Davet Fikri
-*(KARİA)*
+# Bölüm 3 — Açık Ziyaret
+*(KARIA)*
 
-Faelan'ın son raporu, Genç Kurtlar'ın büyümesini, artık, göz ardı edilemeyecek bir noktaya taşıdığını gösteriyordu.
+Faelan'ın raporu Kuru Dere'nin ilk yıl bilançosuyla birlikte geldi. Yerleşimde yüz yirmi kişi yaşıyor, bunların yetmiş dördü silah taşıyordu. Yeni katılanların adları hem Azgutlara hem Sungurlara bildirilmişti. Son sınır tartışması üç mühürlü tutanakla kapanmıştı.
 
-"Temürçi ittifakı, onları, sadece bir sürgün topluluğu olmaktan çıkardı," dedi Faelan. "Artık, gerçek bir ekonomik güçleri var. Ve duyduğuma göre, komşu boylardan, sessizce, daha fazla destek topluyorlar."
+Karia rakamlardan çok yönteme dikkat etti. Genç Kurtlar güçlenmiş, fakat bunu komşularından saklamamıştı.
 
-Karia, bu haberi, derin bir ilgiyle dinledi. "Belki, zamanı geldi, bu ilişkiyi, gölgelerden çıkarmanın."
+"Onları uzaktan tartmayı bırakmalıyız," dedi Faelan'a. "Temsilci göndermek yetmez. Ben gideceğim."
 
----
+Faelan itiraz etmeden önce önündeki güvenlik çizelgesini çevirdi. "Bir hükümdarın ziyareti yerleşimi tanımak kadar onu hedef hâline getirmek demektir."
 
-O hafta, Zaleena'ya, uzun bir mektup yazdı Karia — yeni bir fikri, dikkatle açıklayan bir mektup.
+"Bu yüzden tek başıma gitmeyeceğim."
 
-*Zaleena,* diye yazdı, *düşünüyorum ki, belki, ikimiz, birlikte, Temujin'e, resmi bir elçilik göndermeliyiz — ya da, daha cesur bir fikir: belki, bizzat gidip, onunla tanışmalıyız. Genç Kurtlar, artık, göz ardı edilemeyecek bir güç. Ve ben, bu adamı, yıllardır, sadece mektuplarla tanıyorum — gerçek bir buluşma, belki, hepimiz için, değerli olur.*
+Karia, Zaleena'ya yazdığı mektupta ortak ve açık bir ziyaret önerdi. İki ayrı heyet aynı gün Kuru Dere'ye girecek, getirilen armağanların ve yapılacak görüşmelerin dökümü yerleşimin kayıtlarına geçirilecekti. Böylece ne Azgutlar ne Sungurlar gizli bir himaye anlaşmasından kuşkulanabilirdi.
 
----
+Zaleena'nın cevabı ertesi ulakla ulaştı. Öneriyi kabul ediyor, fakat muhafız sayısının sınırlı tutulmasını ve rota bilgisinin yalnızca sorumlu komutanlarda kalmasını istiyordu. Karia iki koşulu da doğru buldu.
 
-Zaleena'nın cevabı, hızlı ve heyecanlıydı: *Muhteşem bir fikir. Ben de, bu Temujin'i, çok merak ediyorum — ve itiraf etmeliyim, bozkırı, hiç görmedim. Belki, bu, sadece bir diplomatik ziyaret değil, kendi başına bir macera da olur.*
+Sör Kaelan, dönüşte yönetimi kimin yürüteceğini sordu. Karia hazırdı: Faelan dış haberleşmeyi, konsey mali kararları üstlenecek; acil bir savaş kararı için ikisinin ortak mührü gerekecekti. Elowen heyete tarihçi olarak katılacak, fakat görüşme kayıtlarını yayımlamadan önce Kuru Dere kurulunun onayını alacaktı.
 
-Karia, bu cevabı okurken, gülümsedi — Zaleena'nın, hâlâ, içindeki o eski kaşif ruhunu, hiç kaybetmediğini, bir kez daha, fark ederek.
+"Bunu bir gösteriye çevirmeyeceğiz," dedi Karia. "Gidip onların nasıl ayakta kaldığını göreceğiz. Sonra da bizden ne istediklerini, daha önemlisi ne istemediklerini dinleyeceğiz."
 
----
-
-Sör Kaelan, bu planı, dikkatle değerlendirdi. "Riskli bir yolculuk, evladım — bozkır, uzak, tehlikeli. Ve bir kraliçenin, topraklarının dışına çıkması, her zaman, bir güvenlik meselesi."
-
-"Biliyorum," dedi Karia. "Ama bazen, Kaelan, en değerli ittifaklar, mesafeyi göze alarak kurulur. Ve ben, artık, sadece, sarayımda oturup, raporlar okuyan bir kraliçe olmak istemiyorum — bir zamanlar, kendi gözlerimle, savaş meydanlarını görürdüm. Belki, zamanı geldi, aynı cesaretle, yeni ittifaklar için de yola çıkmanın."
-
----
-
-Elowen, bu planı duyduğunda, gerçek bir heyecanla karşılık verdi. "Bozkır! Hiç görmediğim topraklar, hiç okumadığım tarihler. Seninle gelebilir miyim?"
-
-Karia, bu istekli soruya, sıcak bir gülümsemeyle karşılık verdi. "Elbette. Belki, sen de, orada, kendi araştırman için, değerli bir şeyler bulursun."
-
-O akşam, Karia, planı, resmi olarak, Faelan'a devretti — güvenlik düzenlemeleri, yol güzergâhı, zamanlama, hepsi, dikkatle hazırlanacaktı.
-
-"Ne zaman?" diye sordu Faelan.
-
-"Yaz ortasına doğru," dedi Karia, kararlı. "Zaleena'yla, birlikte planlayacağız. Ve belki, sonunda, bu Temujin'i, hikayelerden çok daha fazlası olarak tanıma fırsatım olur."
+Yolculuğun tarihi yaz ortasına kondu. Karia son emri imzalarken ilk kez bir raporun kenarındaki sayılar değil, o sayıları her ay eksiksiz gönderen insanların yüzleriyle ilgilendiğini fark etti.

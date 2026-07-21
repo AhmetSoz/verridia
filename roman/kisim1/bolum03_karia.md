@@ -1,72 +1,100 @@
 # Bölüm 3 — Fiyortların Demiri
 *(KARIA)*
 
-Metheris'in üstüne çöken sis, şafaktan sonra bile dağılmıyordu.
+Sis şafaktan sonra da dağılmadı. Karia için bunun önemi yoktu. Bir limanın çalışıp çalışmadığını görmek için güneş gerekmezdi.
 
-Leydi Karia, Kuzey Filosu'nun amiral gemisi Boğucu Ana'nın Yemini'nin güvertesinde durmuş, aşağıdaki limanı izliyordu. Rıhtım, gecenin en karanlık saatinden beri uyanıktı; işçiler, sırtlarında tuzlanmış balık fıçıları ve dövülmüş Gelgit-Çeliği külçeleriyle, iskeleler arasında karınca sırası gibi akıyordu. Uzaktaki Kuzey Feneri, sisin içinden soğuk bir altın parıltıyla nöbet tutuyordu — kaç yüzyıldır aynı ışığı verdiğini kimse bilmezdi, ama o gece bir kez daha, Karia'ya bu ışığın bir teselliden çok bir uyarıya benzediğini düşündürdü.
+Kuzey Filosu’nun amiral gemisi *Boğucu Ana’nın Yemini* rıhtıma bağlıydı. Güvertesinden, yük vinçlerinin her inişini, ambar kapılarındaki yığılmayı ve işçilerin hangi iskelede bekletildiğini seçebiliyordu. Tuzlanmış balık fıçıları bir yana, dövülmüş Gelgit-Çeliği külçeleri öte yana taşınıyordu. Kuzey Feneri sisin içinde soluk sarı bir daireden ibaretti.
 
-Kırk beş yaşındaydı ve fiyort rüzgârlarının sertliğini yüzünde taşıyordu; gözlerinin kenarında, güneşle savaşın bıraktığı ince çizgiler vardı. Saçları her zamanki gibi arkada, pratik bir örgüyle toplanmıştı. Üzerinde saray kıyafeti değil, dövüş izleri taşıyan işlevsel bir Gelgit-Çeliği zırh vardı — Metheris'te ondan başka hiçbir soylunun güvertede giymeye tenezzül etmediği türden bir zırh.
+Karia kırk beş yaşındaydı; ömrünün çoğunu fiyort rüzgârında geçirmişti. Saçlarını ensesinde sıkı bir örgüyle toplar, güvertede saray giysisi yerine eski Gelgit-Çeliği zırhını giyerdi. Zırhın sol omzundaki yarığı üç kez onartmıştı. Yenisi teklif edildiğinde de üç kez reddetmişti. Çatlağını bildiği çelik, huyunu bilmediği çelikten güvenliydi.
 
-"Amiral." Genç bir subay yaklaştı, elinde bir tomar kâğıtla. "Üçüncü ve Yedinci filo, hasat öncesi son denetimi tamamladı. Gemi gövdelerinde çürüme yok, ama..." Duraksadı.
+“Amiral.”
 
-"Ama?"
+Genç subay iki eliyle tuttuğu kayıt tomarını rüzgârdan korumaya çalışıyordu.
 
-"Ama Akıntı Tozu ambarları, geçen yılın aynı döneminden yüzde otuz daha boş, Amiral. Depo kâhyaları, hasada kadar mevcut stokla idare edebileceklerini söylüyor. Hasat sonrasına dair kimse bir şey söylemiyor."
+“Üçüncü ve Yedinci filo denetimi tamamladı. Gövdelerde çürüme yok. Akıntı Tozu ambarlarıysa...”
 
-Karia'nın çenesi hafifçe sertleşti, ama yüzündeki ifade değişmedi. Bu, subaylarının önünde asla göstermemeyi öğrendiği bir şeydi — Hegemonya'nın en büyük zayıflığının, kralın kendisinden önce onun donanmasının komutanının omuzlarında taşındığını. "Kâhyalara söyle, idare etmeyi bir sanat değil bir zorunluluk olarak görsünler. Ve Lord Drennar'a haber gönder — Kızıl Hafta'dan önce iki fiyort savaş gemisi daha suya insin istiyorum, tersanenin uyuyup uyumadığına bakmaksızın."
+Karia onun durmasına izin vermedi. “Ne kadar eksik?”
 
-Subay başını eğip uzaklaştı. Karia bir süre daha rıhtımı izledi. Aşağıda, Sis-İşçileri'nden bir grup, sırtlarında yükle, sessizce ve başları öne eğik yürüyordu — yıllardır aynı yürüyüş, aynı sessizlik. Onların hiçbiri, üstlerindeki soyluların "çifte ondalık" adını verdiği o eski adaletsizliği yüksek sesle söylemeye cesaret edemezdi. Ama Karia, halkın arasında büyümüş biri olarak, o sessizliğin altında neyin biriktiğini bilirdi. Bir gün, o sessizlik başka bir şeye dönüşecekti. Sadece ne zaman olduğu belirsizdi.
+“Geçen yılın aynı dönemine göre yüzde otuz.”
 
-"Düşünceli görünüyorsun," dedi bir ses, güvertenin gölgeli tarafından.
+“Hasada kadar yeter mi?”
 
-Karia dönmedi; sesin sahibini tanımıştı zaten. "Faelan. Seni bu kadar erken bekliyordum sanki."
+“Kâhyalar yeteceğini söylüyor.”
 
-Metheris'in yeraltı dünyasının efendisi, bir gölge gibi süzülerek yanına geldi. Ne bir askerin ne bir soylunun kıyafetini taşıyordu; sıradan bir tüccarın pratik ama kaliteli giysileri vardı üzerinde, ve yüzünde her zamanki o alaycı, eğlenen ifade. Ama gözleri — o soğuk, yılansı gözler — her zamanki gibi tetikteydi.
+“Kâhyalar denize açılmıyor.” Karia, tomarın üstteki sayfasını çekip aldı. Rakamları bir kez okuması yetti. “Her gemi için iki aylık savaş payını ayırın. Kalanı rütbeye göre değil, devriye gününe göre bölüştürün. Lord Drennar’a da haber gönder. Kızıl Hafta’dan önce iki fiyort gemisi daha istiyorum.”
 
-"Erken gelen kuş, geç kalan lorddan daha çok kurt bulur," dedi Faelan, güverte tırabzanına yaslanarak. "Ama bu sefer taşıdığım şey kurt değil, Leydi'm. Daha ilginç bir şey."
+“Tersane gece vardiyasına kalırsa işçiler—”
 
-"Söyle."
+“Gece vardiyasının ücretini sefer bütçesine yazın. Uykusuz işçiyi kırbaçlatan ustabaşını da tersaneden atın. Yorgun ellerin yaptığı gemi, ilk fırtınada hepimize tabut olur.”
 
-"Lord Severin'in konvoylarından biri, dün gece Kuzey Sefer Yolu'na değil, doğuya, Ak-Siper'in eteklerine sapmış. Resmî kayıtlarda 'sınır devriyesi malzemesi' yazıyor. Ama arabaların ağırlığı, sıradan bir devriyenin taşıyacağından fazlaydı — ve refakatçi askerler, Severin'in kendi muhafızları değildi. Kiralık kılıçlardı. Ağızları sıkı, yüzleri tanınmayan türden."
+Subay rahatladığını belli etmemeye çalışarak selam verdi ve uzaklaştı.
 
-Karia'nın içi bir anlığına soğudu, ama sesi sakin kaldı. Bu, sınırın ötesine — bozkıra — silah kaçırıldığına dair ilk söylenti değildi; ama ilk kez bu kadar somut bir iz vardı elinde. "Azgutlar'a mı, Sungurlar'a mı?"
+Karia yeniden rıhtıma döndü. Sis-İşçileri yük sırtında, başları öne eğik ilerliyordu. Her fıçının üstünde iki ayrı vergi mührü vardı: kralın ondalığı, lordların ondalığı. Saray buna çifte ondalık diyordu. Rıhtımda kullanılan adıysa açlıktı.
 
-"Henüz bilmiyorum. Ama bahse girmem gerekseydi..." Faelan omuz silkti, sanki bu bahsin sonucu onun için hiçbir şey ifade etmiyormuş gibi. "Severin, oğlunu kaybettiği o kuzey seferinden beri hiçbir şeye tam olarak inanmıyor, Leydi'm. Ne krala, ne Konsey'e, ne de sabra. İnandığı tek şey, birinin bozkırı yeterince kanattığında, Hegemonya'nın oraya el koyabileceği. Kimin kanını akıttığı onun için önemli değil."
+“Bu sabah düşüncelerin pahalı görünüyor.”
 
-"Bu bir Konsey meselesi." Karia'nın sesi sertleşti. "Kralın haberi olmalı."
+Ses güvertenin kıç tarafından geldi. Karia arkasını dönmedi.
 
-"Kralın," dedi Faelan yavaşça, kelimeleri tartarak, "şu anda haberi olması gereken şey, kendi oğlunun hâlâ kuzeyde bir yerde soğuk bir mezarda yatıp yatmadığı, yoksa hiç mezarı olmadan mı kaybolduğu, Leydi'm. Theodoric'in zihni artık çok fazla şeyi bir arada taşıyamıyor. Bunu siz de benim kadar iyi biliyorsunuz."
+“Faelan. Demek fare kapanları yine çalışmıyor.”
 
-Bu söz, ikisinin arasında asılı kaldı — söylenmesi yasak, ama ikisinin de bildiği bir gerçek gibi. On iki yıl önce kaybolan veliahtın hayaleti, Metheris'in her koridorunda dolaşırdı; ve o hayalet ne kadar sessiz kalırsa, arkasında bıraktığı boşluk o kadar yüksek sesle çığlık atıyordu.
+Metheris’in yeraltı ağını yöneten adam yanına geldi. Ne asker gibi giyinirdi ne soylu gibi. Üzerindeki koyu renk tüccar ceketi sade görünüyordu; kumaşını bilen biri, bir rıhtım işçisinin yıllık ücretini taşıdığını anlardı.
 
-Karia gözlerini kuzeye, sis perdesinin ardındaki görünmez dağlara çevirdi. "Lord Vorlag bu konuda ne düşünüyor, biliyor musun?"
+Faelan tırabzana yaslandı. “Kapanı kuran fareyse pek çalışmıyor, Leydi’m.”
 
-Faelan'ın dudaklarının kenarında ince bir gülümseme belirdi — bir adamın, bildiği bir sırrı ne zaman ve nasıl vereceğini tam olarak bilen birinin gülümsemesi. "Lord Vorlag, son üç gündür Konsey salonunda, kimsenin girmesine izin vermediği özel toplantılar yapıyor. Kiminle? Bilmiyorum — henüz. Ama toplantıların bittiği saatlerde, sarayın batı kanadından, genellikle Sör Valerius'un odalarına giden bir hizmetçi çıkıyor. Aynı hizmetçi, her seferinde."
+“Getirdiğin şeyi söyle.”
 
-Karia bunu bir süre sessizce sindirdi. Vorlag ve Valerius — eski kanla genç şahin, birbirinden nefret eden iki adam. Onları bir araya getirebilecek tek şey, ikisinin de ondan daha çok korktuğu bir üçüncü ihtimaldi. Ve bu ihtimalin adı neydi, çok iyi biliyordu: Gelgit Vârisi. Vasiyetin unutulmuş satırı. Kral ölmeden önce, kan bağı aranmaksızın, Konsey onayıyla bir vâris ilan edebilirdi — ve saraydaki herkes, bu vârisin kim olabileceğini, hiç yüksek sesle söylemeden biliyordu.
+“Lord Severin’in konvoylarından biri dün gece Kuzey Sefer Yolu’ndan ayrılıp Ak-Siper eteklerine yöneldi. Kayıtta sınır devriyesi malzemesi yazıyor. Arabalar o yük için fazla ağırdı. Refakatçiler de Severin’in askerleri değildi. Kiralık kılıçlar; yüzleri yeni, keseleri dolu.”
 
-"Beni izliyorlar," dedi sonunda, sesi düz ve sakin.
+Karia elindeki kâğıdı katladı. Bozkıra silah gönderildiği aylardır konuşuluyordu. İlk kez söylentinin teker izi vardı.
 
-"Sizi izliyorlar, Leydi'm," diye onayladı Faelan. "Ve bir noktada, izlemekten daha fazlasını yapmaya karar verecekler. O gün geldiğinde, umarım hazırlıklı olursunuz — çünkü ben sizin sırtınızı her zaman kollayamam. Ben sadakatimi en yüksek fiyata satarım ve şu anda o fiyatı ödeyen sizsiniz. Ama fiyatlar değişir."
+“Azgutlar mı, Sungurlar mı?”
 
-Bu, bir tehdit değildi; Faelan'ın diliyle konuşulmuş, çıplak bir dürüstlüktü sadece. Karia bunu takdir ediyordu — sarayın geri kalanının sahte iltifatlarına kıyasla, bu soğuk açıklık neredeyse bir rahatlamaydı.
+“Bunu öğrenmek daha pahalı.”
 
-"O gün geldiğinde," dedi Karia, "sadakatinin fiyatını yeniden pazarlığa açık tutarım. Şimdilik, Severin'in konvoyunun peşini bırakma. Ve o hizmetçinin adını öğren."
+“Fiyat söyle.”
 
-Faelan başıyla eğildi, gölgeye adım attı ve rıhtımın kalabalığına karışıp kayboldu — hiç görülmemiş gibi.
+Faelan gülümsedi. “Önce malın nereye gittiğini görelim.” Sonra limandaki bir yük teknesini izliyormuş gibi başını çevirdi. “Severin, oğlunu kuzeyde kaybettiğinden beri krala da Konsey’e de güvenmiyor. Bozkır yeterince kanarsa Hegemonya’nın gelip kalan toprağı alacağına inanıyor. Kanın kime ait olduğu umurunda değil.”
 
----
+“Bu Konsey’e götürülür. Kralın da haberi olmalı.”
 
-Karia bir süre daha tek başına kaldı, güvertenin tırabzanına dayanmış, aşağıdaki limanı ve ötesindeki sisi izleyerek. Uzaklarda, denizin üzerinde, martı çığlıkları yükseliyor, birkaç balıkçı teknesi son gece avından dönüyordu. Sıradan bir sabahtı bu — kıtanın geri kalanı için. Ama Karia, deniz kadar eski bir sezgiyle biliyordu ki, bu Beklenti Yılı'nın sessizliği, fırtına öncesi denizin o tuhaf, aldatıcı durgunluğuydu.
+“Kralın zihninde zaten bir kayıp oğul var.” Faelan’ın sesi alçaldı. “Bir de kayıp konvoyu taşıyabilir mi, emin değilim.”
 
-Aklına, çocukluğunun geçtiği kuzey sınırı geldi; korsan baskınlarının, Akıntı-Yaratıkları'nın ve hiç bitmeyen bir tehdit hissinin arasında büyümüştü. O günlerden bugüne taşıdığı tek bir ders vardı: sarayın altın kaplı koridorlarında oynanan oyunlar ne kadar zarif görünürse görünsün, sonunda hep aynı şeye indirgeniyordu — kimin, ne zaman, kimin sırtından geçeceği. Ve Karia, hayatı boyunca bir kez bile bir başkasının sırtından geçmemeye yemin etmişti. Bu yemin, onu saraya bu kadar sevimsiz, ama halka bu kadar sevimli kılan şeydi.
+Karia ona döndü. Bu söz başka bir adamın ağzında hakaret sayılırdı. Faelan hakaret edecekse ima kullanmazdı.
 
-Denizin ötesinde, sisin bir köşesinde, bir anlığına gökyüzü açılır gibi oldu ve Karia, kuzeye doğru, ufkun en uzak noktasında, gözünün her zamanki gibi görmeye alışkın olmadığı bir şey fark etti — belli belirsiz, kızılımsı bir leke, yıldızların arasında bir yara gibi duran. Kızıl Sürü. Bir denizci için, bu görüntü yabancı değildi; her yıl biraz daha büyürdü, her yıl biraz daha az görmezden gelinebilir hâle gelirdi.
+Prens Aldric on iki yıl önce kuzey seferinde kaybolmuştu. Cesedi bulunmadığı için Kral Theodoric hâlâ kapının açılacağı bazı sabahlar olduğuna inanıyordu. O sabahların sayısı arttıkça Konsey, kralın yerine daha çok karar verir olmuştu.
 
-Ama bu sabah, Karia'ya her zamankinden daha büyük göründü. Belki de sadece yorgunluktu. Belki de sadece, bu yılın diğer yıllardan farklı olacağına dair, kanıtı olmayan ama yanlış da çıkmayan o eski denizci sezgisiydi.
+“Vorlag ne biliyor?” diye sordu Karia.
 
-Sis, bir kez daha kapandı ve leke gözden kayboldu.
+Faelan parmaklarıyla ıslak tırabzana bir çizgi çekti. “Son üç gündür Konsey salonunu özel görüşmeler için kapatıyor. Görüştüğü kişiyi bulamadım. Fakat her toplantıdan sonra batı kanadından çıkan aynı hizmetçi Valerius’un odalarına gidiyor.”
 
-Karia derin bir nefes aldı, zırhının üzerindeki ıslaklığı silkeledi ve döndü. Aşağıda onu bekleyen bir gün vardı — depolar, gemiler, subaylar, ve söylenmemiş bir savaşın bütün o sıradan, yorucu hazırlıkları. Sarayın oyunlarına ayıracak zamanı yoktu bugün.
+Vorlag ile Valerius birbirlerinden nefret ederdi. Aynı masaya oturuyorlarsa masanın üstünde ikisinden de çok korktukları biri vardı.
 
-Ama sarayın oyunları, onun zamanı olup olmadığını hiç sormazdı.
+Karia, unutulmuş vasiyet maddesini düşündü. Theodoric, kan bağı aramadan bir Gelgit Vârisi seçebilir; Konsey onaylarsa tacı ona bırakabilirdi. Maddeden haberdar olanlar azdı. Kimin seçilebileceğini tahmin edenler giderek çoğalıyordu.
+
+“Beni tartıyorlar,” dedi.
+
+“Tartmakla yetinmeyecekleri güne hazırlanıyorlar.” Faelan’ın işaret parmağı tırabzandaki su çizgisini ikiye böldü. “Ben her zaman sırtınızı kollayamam. Sadakatimi en yüksek fiyata satarım. Bugün o fiyatı siz ödüyorsunuz; yarın pazarı yeniden kurarlar.”
+
+Karia bu açıklığı, Konsey’deki yeminlerden daha güvenilir buluyordu. Bir geminin su aldığını bilmek, kuru olduğuna inanmaktan iyiydi.
+
+“Pazar kurulursa ilk teklifi bana getir. Şimdi Severin’in konvoyunu izle. Hizmetçinin adını da öğren.”
+
+Faelan başını eğdi. Merdivenden rıhtıma indi ve yükçülerin arasına karıştı. Üzerindeki pahalı cekete rağmen birkaç adım sonra onu seçmek güçleşti.
+
+✦
+
+Sisin bir yanı inceldi. Kuzey göğü kısa süreliğine açıldığında Kızıl Sürü, sabah aydınlığına rağmen soluk bir yara gibi görünüyordu.
+
+Karia çocukluğunda da o kızıllığı görmüştü. Yıllar geçtikçe büyüdüğünü denizciler söyler, kâhinler her yıl başka bir anlam çıkarırdı. Karia, ölçemediği şeyler hakkında hüküm vermeyi sevmezdi. Yine de bu sabah gözünü ondan ayırması beklediğinden uzun sürdü.
+
+Güvertede bir halat boşandı. Makara hızla dönerken genç bir tayfa elini uzattı.
+
+“Çek elini!” diye bağırdı Karia.
+
+Tayfa geriye sıçradı. Halat kamçı gibi güverteye vurdu. Karia yanına gidip düğümü kendi bağladı, sonra nöbetçi subayı çağırdı.
+
+“Bütün makaralar bugün yeniden denetlenecek. Akıntı Tozu kayıtlarını da kamarama getir.”
+
+“Konsey’den çağrı gelirse?”
+
+Karia düğümü son kez çekerek sınadı. “Nerede olduğumu biliyorlar.”

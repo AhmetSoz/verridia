@@ -1,56 +1,42 @@
 # Bölüm 17 — Kâtibin Şüphesi
 *(TOGAN)*
 
-Mühür Odası'ndan sonraki günler, Togan için, garip bir sisin içinde geçti — ne tam uyanık, ne tam uykuda, sürekli aynı soruyu döndürerek: *neyim ben?*
+Mühür Odası'ndan sonra Togan aynı sayfayı üç kez okuyup hiçbirini hatırlayamadı. Lyra kitabı elinden alıp kapattı.
 
-Lyra, onu, üçüncü günün sonunda, kütüphanenin dış avlusunda buldu, tek başına, elindeki bir kitabı okumadan tutarken.
+"Ozan sana ne gösterdi?"
 
-"Seni yiyip bitiren bir şey var," dedi Lyra, yanına oturarak, sesi dikkatli. "Ozan'la konuştuğundan beri."
+"Sormaman gereken bir şey."
 
-Togan, uzun bir süre cevap vermedi, sonra, yavaşça başını salladı. "Bana bir şey söyledi — söylememesi gereken bir şey, sanırım. Ama tam söylemedi de. Yarım bıraktı, bilerek."
+"Otuz yıldır onunla çalışıyorum. Ne zaman bilgi sakladığını anlarım. Bu kez senden de saklıyor."
 
-"Bu, onun tarzı." Lyra'nın sesinde, hafif bir keskinlik vardı. "Otuz yıldır bu kütüphanede çalışıyorum, Togan. Ozan'ı, herkesten iyi tanırım diyebilirim — ama hiçbir zaman, tam olarak, ne bildiğini bilemedim. Sadece, ne zaman bir şey sakladığını anlarım. Ve şu anda, seninle ilgili, bir şey saklıyor."
+Lyra çalışma odasının kapısını kilitledi. Rafın arkasından gevşek yapraklı bir defter çıkardı. On yıl boyunca farklı metinlerden topladığı tek bir sözcük kapağa yazılmıştı: *Praetorian.*
 
----
+"Ne demek?"
 
-İçeri girdiler, Lyra'nın kendi çalışma odasına — dar, kitap yığınlarıyla dolu, tek bir pencereden gelen ışıkla aydınlanan bir mekân.
+"Bilmiyorum. Eski dilde bir görev adı olabilir. Işık saçan varlıklarla ilgili dört kayıtta geçiyor. Birinde 'kanla seçilenler' denmiş. Başka birinde 'ışığın kendi içinden doğan karşılık.'"
 
-"Sana bir şey göstereceğim," dedi Lyra, raflardan birine uzanarak, "ama bunu, Ozan'dan gizli yapıyorum. Eğer öğrenirse, kızar — belki de haklı olarak. Ama düşünüyorum ki, bu, senin bilme hakkın olan bir şey."
+Togan'ın ensesi soğudu. "Işıyanların zayıflığı mı?"
 
-Eski, yıpranmış bir defter çıkardı, sayfaları gevşek, mürekkebi solmuş. "Bu, benim kendi araştırma notlarım. On yıl önce başladım, sebebini tam hatırlamıyorum bile — belki sadece meraktan. Kayıtlarda, tekrar tekrar geçen bir kelime buldum, hep aynı bağlamda: 'Praetorian.'"
+"Belki muhafızı. Belki hizmetkârı. Eksik metni istediğimiz anlama zorlayamayız."
 
-Togan, kelimeyi tekrarladı, dilinde yabancı bir tat bırakarak. "Ne anlama geliyor?"
+Bu söz Ozan'ın verdiği cevaptan daha dürüsttü. Togan defteri kapatıp Lyra'ya uzattı.
 
-"Emin değilim, tam olarak. Ama kayıtlar, bunu, ışık saçan varlıklara karşı duran birileri için kullanıyor — onlarla savaşan, ya da onlara hizmet eden, tam anlaşılmıyor. Bazı parçalar, 'kan bağıyla seçilenler' diyor. Bazıları, 'Işıyanlar'ın tek gerçek zayıflığı' diyor." Lyra, sayfayı çevirdi, parmağıyla bir satırı işaret etti. "Bu satırı, yıllardır anlamlandıramadım. Ama Ozan'ın sana söylediklerinden sonra... düşünmeden edemiyorum."
+"Bunu başkası gördü mü?"
 
-Togan'ın nefesi, göğsünde sıkıştı. "Annemin kanı. Benim kanım. Bu 'Praetorian' dediğin şeyle bir bağlantısı olabilir mi?"
+"Hayır. Ozan bile notları bir araya getirdiğimi bilmiyor."
 
-"Bilmiyorum," dedi Lyra, dürüstçe. "Ve bunu söylemek beni rahatsız ediyor, çünkü kâtip olarak, işim, bilmek. Ama bu konuda, elimde sadece parçalar var, Togan — bütün resim değil. Ozan, belki, daha fazlasını biliyor. Belki bilmiyor. Ama eğer biliyorsa, bunu, çok iyi bir sebep yüzünden saklıyor olmalı."
+"Öyle kalsın."
 
----
+Akşam Perren iki kâse çorbayla geldi. Togan birini aldı, ama sırrı anlatmadı. Bunun yerine Kaya'ya yazdığı yarım mektubu çekmeceden çıkardı.
 
-O gece, Togan, kendi odasında, tek başına, mumun titrek ışığında, bu yeni kelimeyi düşünerek oturdu. *Praetorian.* Bir silah mıydı bu kelime, yoksa bir kimlik mi? Kendi bedeninde taşıdığı bu miras, onu, bir gün, bir şeye — ya da birine — karşı durmaya mı zorlayacaktı?
+*Savaşın haberini Eski-Kent'te öğrendim,* diye yazdı. *Yanınızda olmadığım için özür dilemek yetmez. Börü'nün yaşadığını ve senin bir Azgut komutanı tarafından serbest bırakıldığını duydum. Adı Temujin'miş. Ona borcumu kendim söyleyeceğim.*
 
-Perren, kapıyı hafifçe vurup içeri girdi, elinde iki kâse sıcak çorbayla. "Yemek yemedin bugün."
+Perren omzunun üstünden okumadı. "Gönderecek misin?"
 
-"Açlığım yok."
+Togan mumu eğitip balmumunu kâğıda damlattı. "Göndermediğim her gün özrü kendim için yazmış olurum."
 
-Perren, yine de kâseyi masaya bıraktı, sonra, Togan'ın karşısına oturdu, sessizce. Uzun bir süre, ikisi de konuşmadı — ama bu sessizlik, rahatsız edici değildi; yıllarca birlikte yol almış iki insanın, kelimeye ihtiyaç duymayan sessizliğiydi.
+Mektubu sabah batıya gidecek arayıcıya teslim etti.
 
-"Bir gün," dedi Togan sonunda, "sana her şeyi anlatacağım. Söz veriyorum. Ama şu anda, kendi kafamda bile, düzgün bir cümle kuramıyorum."
+Gece uyandığında avucu yanıyordu. Derisinin altında ince çizgiler kısa bir an parladı, sonra söndü. Rüyasından yalnız tek ses kalmıştı. Sözcüğü anlamıyordu, fakat Lyra'nın defterindeki harflerle aynı biçimde duyuyordu.
 
-"Acele etme." Perren'in sesi, her zamanki gibi sakindi. "Ben, yıllardır, seninle yürüyorum, Togan — bir sır daha, beni şaşırtmaz. Sadece, yalnız taşıma bu yükü. Ne zaman hazır olursan, ben buradayım."
-
-Bu basit söz, Togan'ın içinde, tuhaf bir rahatlama yarattı — Mühür Odası'ndan beri ilk kez, o kadar yalnız hissetmedi.
-
----
-
-Daha sonra, uykuya dalmadan önce, Togan, kağıt ve kalem aldı, bir mektup yazmaya başladı — Sungurlar'a, Kaya'ya, belki de Börü'ye. Aylardır ertelediği bir mektup.
-
-*Sizi bulamadığım için özür dilerim,* diye yazdı, sonra durdu, kelimeleri tartarak. *Duydum ki esir alındın, sonra serbest bırakıldın — bir Sungur savaş-lordu tarafından. Adını bilmiyorum ama bir gün, ona bir şey borçlu olduğumu hissediyorum, garip bir şekilde, hiç tanışmadan.*
-
-Kalemini durdurdu, gözleri, pencereden dışarı, Eski-Kent'in karanlık siluetine dalarak. Bilmiyordu, o an, yazdığı bu birkaç satırın, bir gün, iki farklı hayatı, ne kadar yakından birbirine bağlayacağını.
-
-Mektubu katladı, mühürledi — ama göndermeye henüz cesaret edemedi. Masasının çekmecesine koydu, bir sonraki güne bırakarak.
-
-Uykuya daldığında, rüyasında, ilk kez, bir yüz gördü — ışıktan, ama insan formunda bir yüz — ve uyandığında, hatırlayamadı, sadece, içinde bıraktığı soğuk, garip bir huzuru hatırladı.
+*Praetorian.*

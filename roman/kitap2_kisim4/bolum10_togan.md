@@ -1,44 +1,28 @@
-# Bölüm 10 — Tarihçinin Merakı
+# Bölüm 10 — Tarihçinin Sınırı
 *(TOGAN)*
 
-Elowen, kampta geçirdiği ikinci günde, Togan'ı, dikkatli ama açık bir merakla buldu.
+Elowen ikinci gün Togan'dan bir görüşme istedi. Elinde defter yoktu. Önce neyi kaydetmek istediğini, kayıtların kimlere açılacağını ve Togan'ın metni yayımlanmadan görme hakkını anlattı.
 
-Elowen, yanına oturdu. "Lyra, bana, senin hikâyeni, kısmen anlattı. Sed. Işıyanlar. Bir tarihçi olarak, itiraf etmeliyim — bu, hayatımda duyduğum en olağanüstü şey."
+"Hayır dersen hiçbir şey yazmayacağım," dedi.
 
-Togan, bu ilgiye, temkinli bir gülümsemeyle karşılık verdi. "Bazı kısımları, paylaşabilirim. Ama bazıları... bazıları, benim, kendime saklamam gereken şeyler."
+Togan bu cümleyi tarttı. Daha önce insanlar kanını ya bir tehdit ya da cevap bekleyen bir bilmece saymıştı. Elowen ilk kez anlatmama hakkını da sorunun parçası yapıyordu.
 
----
+"Sed'in yerini yazmayacaksın," dedi. "Praetorianların geçitlerini de. Annemin bana ait anıları bende kalacak."
 
-"Anlıyorum," dedi Elowen, saygıyla. "Sınırlarını, zorlamak istemem. Ama belki, paylaşabileceğin kadarını, kayıt altına almama izin verir misin? Gelecek nesiller için — bu, sadece senin hikâyen değil, bütün Verridia'nın hikâyesinin bir parçası."
+"Kabul."
 
-Togan, bu isteği, uzun bir süre düşündü. "Neden, bu kadar önemli, senin için?"
+"Bedelleri yazabilirsin. Baş ağrısını, süre sınırını, unuttuğum şeyleri. İnsanlar yalnızca yapabildiklerimi okursa bunu denemek isteyecekler."
 
-"Çünkü," dedi Elowen, gözlerinde, gerçek bir tutkuyla, "tarih, sadece geçmişi anlamak için değil — geleceği, doğru şekillendirmek için de önemli. Eğer, Işıyanlar hakkında, doğru bilgi, kayıt altına alınmazsa, yanlış bilgi — Kael'inki gibi — onun yerini alır."
+Elowen o zaman defterini açtı.
 
----
+Görüşme iki saat sürdü. Togan Ayla'nın Işıyan kökenini, kendisine kalan değişimin nasıl uyandığını ve Akıntı'nın dokunduğu madeni bazen nasıl sezebildiğini anlattı. Bunun bir yalanı ya da niyeti göstermediğini özellikle üç kez söyledi. Elowen üçünü de aynı cümlenin altına çizdi.
 
-Bu argüman, Togan'ı, gerçek bir düşünceye sevk etti. "Haklısın, sanırım. Ama bazı detayları, hâlâ, gizli tutmam gerekiyor — kendi güvenliğim için, belki, başkalarının güvenliği için de."
+Beş isim sınamasına geldiklerinde Togan adları söylemedi. Onların yerine "önceden seçilmiş beş yakın" yazıldı. Son ziyaretin tarihini ve bir saatlik sınırı Lyra'nın açık kaydından doğruladılar.
 
-Elowen'in içtenliği gerçekti. "Kabul ediyorum bu sınırı."
+Akşam Elowen taslağı getirdi. Togan iki yeri sildirdi. Birinde Ayla'nın korkusuna ilişkin tahmin vardı; ötekinde Sed'in olası yönü çıkarılmıştı. Elowen itiraz etmeden çizgiyi çekti, değişikliklerin yanına Togan'ın isteğiyle kaldırıldığını yazdı.
 
-O öğleden sonra, Togan, dikkatle seçtiği detaylarla, kendi hikâyesini, Elowen'e anlattı — annesinin hikâyesini, Praetorianların gerçek doğasını, ama kendi "üçüncü yolunun" tam mekanizmasını, gizli tutarak.
+Perren daha sonra neden kabul ettiğini sordu.
 
----
+Togan, kırmızı mürekkeple kapatılmış satırlara baktı. "Çünkü susarsam boşluğu Kael gibiler dolduruyor. Her şeyi anlatırsam da başkasına yol gösteriyorum. İkisinin arasında bir kayıt mümkün mü, onu deniyorum."
 
-Karia, bu konuşmanın bir kısmını, uzaktan izlemişti — ve sonra, Temujin'le birlikte, kendi sohbetlerine döndü.
-
-"Elowen, her zaman, böyle mi?" diye sordu Togan, konuşma bittikten sonra, Karia'ya.
-
-Karia gülümsedi. "Meraklı mı? Evet. Ama aynı zamanda, saygılı. Bu, onun, en iyi özelliklerinden biri — bilgiye aç, ama asla, zorlamaz."
-
-Togan, bu tanımlamaya, yavaşça başını salladı. "İyi bir eş seçmişsin."
-
-Karia, bu söze, hafif bir kızarıklıkla, ama gerçek bir mutlulukla karşılık verdi. "Sanırım, öyle."
-
----
-
-O akşam, kamp ateşinin başında, Elowen, topladığı notları, dikkatle, kendi defterine işlerken, Togan, onu, uzaktan izledi — ve içinde, garip bir umut filizlendi: belki, kendi hikâyesi, doğru şekilde kaydedilirse, bir gün, başka bir "yarım-kan," kendi yolunu bulurken, ona, yardımcı olabilirdi.
-
-Perren, yanına oturdu. "Neye gülümsüyorsun?"
-
-"Sadece," dedi Togan, düşünceli, "düşünüyorum ki, belki, hikâyemiz, sadece bizim için değil — bir gün, başka birinin, kendi yolunu bulmasına da, yardımcı olabilir."
+Defter ertesi sabah iki mühürle kapandı. Biri Elowen'in, diğeri Togan'ındı.

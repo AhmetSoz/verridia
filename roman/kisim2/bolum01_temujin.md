@@ -1,70 +1,92 @@
 # Bölüm 1 — Kartal Avı
 *(TEMUJİN)*
 
-Beş gündür at sırtındaydılar, gündüzleri gizlenip geceleri ilerleyerek — elli kişi, elli at, ve tek bir amaç: Sungurlar'ın gözlerini kör etmek, ana ordu harekete geçmeden önce.
+Beş gecedir ilerliyor, gündüzleri kuru dere yataklarında saklanıyorlardı. Elli at, dar alanda iz bırakmamak için tek sıra gidiyordu.
 
-Temujin, keşif raporlarını üçüncü kez gözden geçirdi; ordugâhtaki casusların yıllardır sabırla topladığı bilgiler, şimdi bir haritaya dönüşmüştü zihninde. Rüzgar-Dinleyenler, tek bir merkezden değil, bozkırın dört bir yanına serpiştirilmiş küçük gözetleme noktalarından çalışıyordu — her biri bir ya da iki kişi, bir kartal, ve günlerce sürebilecek erzak. Bu ağı bir kerede kırmak imkânsızdı. Ama Temujin'in planı bir kerede kırmayı hedeflemiyordu zaten; sadece, Korgan'ın ana saldırısından önceki kritik haftada, Sungurlar'ın gözlerini yeterince kör etmeyi.
+Temujin önündeki deri haritayı dizine bastırdı. Rüzgar-Dinleyenler tek bir merkezden yönetilmiyordu. Her gözetleme noktasında bir ya da iki kişi, bir kartal ve birkaç günlük erzak bulunurdu. Ağı bütünüyle parçalamak elli kişiyle mümkün değildi; Korgan’ın ordusuna batıda iki günlük kör bir koridor açmak mümkündü.
 
-"İlk hedef," dedi Orkhon'un yerine gönderdiği genç izci Sube, haritanın üzerindeki bir noktayı işaret ederek, "Kartal Kayası. İki gözetleyici var orada — biri deneyimli, biri çırak. Kartalları, günde iki kez uçuşa çıkıyor."
+Sube, haritadaki ilk yüksekliği gösterdi. “Kartal Kayası. Bir usta, bir çırak. Kuşları tan ve ikindide uçuyor.”
 
-Temujin başını salladı. Kartal Kayası, Sungur topraklarının en dış noktalarından biriydi — Kartal-Yurdu'na üç günlük mesafede, ama bozkırın en geniş görüş açısına sahip tepelerden birinin üzerinde. Burayı kör etmek, Korgan'ın ordusunun batıdan yaklaşırken fark edilmeden ilerleyebileceği bir koridor açardı.
+“Değişim saati?”
 
-"Gece saldırırız," dedi Temujin. "Kartallar uyurken, gözetleyiciler en gevşek anlarındayken."
+“Yedi günde bir. Son değişim dört gün önce.”
 
----
+Temujin hesabı tamamladı. “Gece yarısından sonra çıkacağız. Kartallar uyanmadan gözetleyicileri alacağız.”
 
-Kartal Kayası'na üçüncü gecenin sonunda ulaştılar. Temujin, kayalığın eteğinde, adamlarını iki kola ayırdı — biri tepenin arkasından, sessizce dolaşarak; diğeri, kendisinin komuta ettiği, doğrudan önden.
+Beşinci gecenin sonunda kayalığın eteğine vardılar. Temujin adamları iki kola ayırdı. Sube yirmi kişiyle arka yamacı tutacak, kendisi ön taraftan çıkacaktı.
 
-Ay ışığı zayıftı o gece; Tek Göz, henüz tam dolunay olmamıştı, ama kuzeydeki o kızıl leke, garip bir şekilde gökyüzünün geri kalanından daha parlak görünüyordu — sanki normal ışığın yerini yavaş yavaş alıyormuş gibi. Temujin bunu fark etti, ama üzerinde düşünecek zamanı yoktu.
+Tek Göz hilalden yeni büyüyordu. Kuzey ufkundaki Kızıl Sürü ise yıldızların arasında kolayca seçiliyordu.
 
-Tepenin zirvesinde, küçük bir taş barınağın önünde, deneyimli gözetleyici — adı Temujin'in casus raporlarına göre Batur'du, Kaya'nın en güvendiği adamlarından biri — nöbet tutuyordu; yanındaki kartal, kayanın üzerinde, kanatlarını hafifçe açmış uyukluyordu.
+Temujin elini kaldırdı. Okçular yaylarını gerdi.
 
-Temujin, elini kaldırdı — sessiz bir işaret. Arkasındaki okçular, yaylarını gerdi.
+Taş barınağın önündeki kartal başını çevirdi.
 
-Ama tam o anda, kartal, hiç beklenmedik bir şekilde, gözlerini açtı.
+Bir insanın duyamadığı şeyi duymuştu. Kanatlarını açıp çığlık attı.
 
-Bozkır kartallarının duyuları, insan gözünün algılayamadığı ayrıntıları yakalardı — bir kokunun değişimi, bir gölgenin yanlış yönden düşmesi, havadaki bir gerginlik. Kartal, aniden keskin bir çığlık attı ve kanat çırparak havalandı.
+“Şimdi.”
 
-"Şimdi!" diye bağırdı Temujin, ve gece bir anda parçalandı.
+İlk ok kıdemli gözetleyicinin omzuna girdi. Adam yere düşmedi. Boynundaki kemik düdüğü ağzına götürüp tek, uzun bir ses çıkardı. Temujin’in adamları üstüne atıldığında alarm çoktan doğuya yayılmıştı.
 
-Batur, kartalının uyarısıyla anında ayağa fırladı, elindeki kılıcı çekti; ama Temujin'in okçuları çoktan atış yapmıştı. İlk ok, Batur'un omzuna saplandı; adam acıyla geri sendeledi, ama düşmedi — bunun yerine, göğsündeki küçük bir kemik düdüğü ağzına götürdü ve son gücüyle üfledi.
+Çırak barınaktan fırladı. Sube’nin kolu kaçış yolunu kapatınca çocuk kılıcını çekemeden yakalandı.
 
-Düdüğün sesi, gecenin sessizliğini keskin bir çığlık gibi yardı — ve Temujin'in içi bir anlığına soğudu. Bu, bir alarmdı; ve bu ses, rüzgârın izin verdiği kadar uzağa, belki bir sonraki gözetleme noktasına kadar taşınabilirdi.
+Kartal kayalığın üstünde dönerek bağırıyordu. Temujin düdüğün gittiği mesafeyi hesaplamaya çalıştı. Rüzgâr doğuya esiyordu. Bir sonraki nokta yarım günlük yoldaydı.
 
-"Susturun onu!" diye bağırdı Temujin, ama emri geç kalmıştı zaten.
+“Duymuşlar mıdır?” diye sordu Sube.
 
-Adamlarından biri, Batur'un üzerine atılıp onu yere devirdi; kısa, acımasız bir çatışmadan sonra, gözetleyici sessizce yere yığıldı — ölü değil, ama bilinçsiz, ciddi şekilde yaralı. Genç çırak, barınaktan yarı çıplak fırlamış, ne yapacağını bilemeden donakalmıştı; Temujin'in adamlarından biri onu yakaladı, ellerini bağladı, ağzını tıkadı.
+“Duymadıklarını varsayamayız.” Temujin yaralı gözetleyicinin başına çömeldi. Ok kemiğe saplanmıştı; adam yaşayabilirdi. “İkinci noktaya gidersek hazır beklerler.”
 
-Kartal ise, gökyüzünde, çılgınca çığlıklar atarak dönüyordu — sahibine yardım edecek gücü yoktu, ama sessiz kalmayı da reddediyordu.
+“Geri mi dönüyoruz?”
 
-Temujin, kayalığın zirvesinde durdu, gözleri düdüğün sesinin gittiği yöne, doğuya dikili. Eğer bu ses gerçekten bir sonraki noktaya ulaştıysa, sürprizin avantajını şimdiden kaybetmiş olabilirlerdi.
+“Hedef değiştiriyoruz.”
 
-"Kaç kişi duyabilir bunu?" diye sordu Sube, yanına gelerek, sesi endişeliydi.
+Yaralı adamı kayanın rüzgâr almayan yanına taşıttı. Yanına su, yiyecek ve bıçağını bıraktı. Öldürmek işine yaramazdı; yaşaması Sungurlara Temujin’in seçimini anlatacaktı.
 
-"Bilmiyorum." Temujin'in sesi sertti, kendine kızgındı — bu ayrıntıyı hesaba katmamıştı, kartalların bu kadar keskin uyanabileceğini. "Ama artık önemi yok. Plan B'ye geçiyoruz. Yavaş ve sessiz yerine, hızlı ve doğrudan." Döndü, adamlarına baktı. "İkinci nokta, buradan yarım günlük mesafede. Şafaktan önce oraya ulaşmalıyız — eğer alarm gerçekten yayılıyorsa, her saat bizim aleyhimize işliyor demektir."
+Çırağı ise yanlarına aldılar.
 
----
+Atlara bindiklerinde çocuk elleri bağlı hâlde Sube’nin önünde oturuyordu. Korkusunu saklayamıyor, kartalın uzaktan gelen her çığlığında arkasına dönüyordu.
 
-Yaralı Batur'u, bir ağacın gölgesine, su ve biraz erzakla bıraktılar — Temujin'in emriyle; öldürmek gereksizdi, ve gereksiz bir ölüm, bir gün geri tepebilecek bir borçtu ona göre. Genç çırağı ise yanlarında götürdüler, bilgi almak için.
+Temujin atını yanına sürdü. “Adın ne?”
 
-Atların üzerinde, doğuya doğru dörtnala giderlerken, Temujin'in zihni hızla çalışıyordu. Eğer düdüğün sesi gerçekten duyulduysa, Sungurlar birkaç gün içinde, batı sınırlarındaki bir şeyin yanlış gittiğini anlayacaktı. Bu, onun sabırla kurduğu sürpriz avantajını tehdit ediyordu — ama aynı zamanda, yeni bir fırsat da yaratıyordu: eğer Sungurlar paniklerse, savunmalarını yeniden düzenlemeye çalışırken hata yapabilirlerdi.
+Çocuk cevap vermedi.
 
-Yanındaki genç çırağa döndü; çocuk, atının üzerinde, korkudan titriyordu.
+“Seni öldürmeyeceğim. Fakat ne kadar süre bağlı kalacağını sen belirlersin.”
 
-"Adın ne?" diye sordu Temujin, sesi şaşırtıcı derecede yumuşaktı.
+Çocuğun çenesi kasıldı.
 
-Çocuk cevap vermedi, sadece gözlerini kaçırdı.
+“Düdüğü kim duydu?”
 
-"Konuşmazsan," dedi Temujin, sesi hâlâ yumuşak ama artık bir kesinlik taşıyordu, "seni Batur'un yanına bırakırım, ellerin bağlı, bu bozkırın ortasında. Konuşursan, hayatta kalırsın — belki de bir gün, benim ordumda bir yer bulursun." Durdu. "Ben Sungurlar'ı yok etmeye çalışmıyorum, çocuk. Sadece, gözlerini bir süreliğine kapatmaya çalışıyorum. Bu ayrımı anlarsan, hayatın çok daha kolay geçer."
+“Herkes.”
 
-Çocuğun gözlerinde bir kararsızlık belirdi — korku ve hayatta kalma içgüdüsü arasında. "Baş Rüzgar-Dinleyen Kaya," dedi sonunda, sesi titrek, "her hafta gözetleme noktalarını bizzat denetler. Yarın... yarın onun sırası."
+“Herkes bir cevap değil.”
 
-Temujin'in içinde bir şey sıkıştı — ne olduğunu tam adlandıramadığı bir his. Kaya. Casus raporlarında bu isim geçmişti — Sungurlar'ın en yetenekli savaşçısı, Han'ın en yakın dostu, ve Rüzgar-Dinleyenler'in gerçek beyni. Eğer bu çocuk doğru söylüyorsa, önlerindeki günlerde, planlarının en büyük ödülü — ya da en büyük tehlikesi — kendi ayaklarıyla onlara doğru geliyordu.
+“Doğu noktası duymuştur. Belki güneydekiler de.”
 
-"Ne zaman ve nerede?" diye sordu Temujin, sesi artık tamamen sakin, hesaplı — ama içindeki o tuhaf sıkışma hâlâ oradaydı, tanımlanamamış bir şekilde.
+Temujin güzergâhı zihninde yeniden çizdi. Üç gözetleme noktası uyarılmışsa hazırladığı koridor kapanmıştı.
 
-Çocuk, titreyen bir sesle, bildiği rotayı anlattı.
+“Bu hafta noktaları kim denetliyor?”
 
-Temujin, Sube'ye döndü. "Plan değişti," dedi. "İkinci noktayı unutun. Yeni hedefimiz, yarın, Kaya'nın kendisi."
+Çocuk sustu. Temujin atların hızını düşürmeden bekledi.
 
-Gecenin geri kalanında, elli kişilik kol, doğuya değil, Kaya'nın denetleme rotasının kesişeceği noktaya doğru yön değiştirdi. Temujin, atının üzerinde, çocuğun titreyen sesini bir kez daha zihninde tekrarladı — ve nedenini bilmediği bir huzursuzlukla, elini, kılıcının kabzasına sıkıca kapattı.
+“Seni yaralı ustanın yanına bırakabilirim,” dedi. “Ya da bağlı ellerini çözer, bir at ve iki günlük erzak veririm.”
+
+“Söz mü?”
+
+“Doğru söylersen.”
+
+Çocuk dudağını ısırdı. “Baş Rüzgar-Dinleyen Kaya. Yarın batı hattına gelir.”
+
+Temujin raporlardaki adı hatırladı. Sungur kartal ağını Kaya kurmuş, her noktayı kendisi seçmişti. Ağı birer birer kesmek yerine onu kuran kişiyi almak bütün hesabı değiştirirdi.
+
+“Rotası?”
+
+Çocuk, iki dar vadi ile kuru bir pınarı tarif etti.
+
+Temujin Sube’ye döndü. “İkinci noktayı bırak. Kaya’nın yolunu keseceğiz.”
+
+“Çocuk?”
+
+“Söz verdiğimizi yap.”
+
+Sube çocuğun ellerini çözdü, ona yedek atlardan birini verdi. Çırak karanlıkta uzaklaşırken Temujin elli kişiyi güneye çevirdi.
+
+İlk plan bozulmuştu. Daha değerli bir hedef önlerine çıkmıştı; bunun fırsat mı tuzak mı olduğunu sabah gösterecekti.

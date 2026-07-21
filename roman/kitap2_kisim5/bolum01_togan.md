@@ -1,42 +1,22 @@
-# Bölüm 1 — Yemin-Bozan'ın Sonu
+# Bölüm 1 — Kael'in Son İzi
 *(TOGAN)*
 
-Haber, bir kervan tüccarından, dolaylı yollardan, Genç Kurtlar kampına ulaştığında, Togan, önce, inanmak istemedi.
+Kael'in ölümü önce söylenti olarak geldi. Sazlık Taht yakınındaki bir handa, üzerinde adını taşıyan hiçbir eşya bulunmayan bir adam öldürülmüştü. Hancı, adamın sağ elinin durmadan titrediğini söylemişti.
 
-"Kael, bulunmuş," dedi Sube, haberi, dikkatle aktararak. "Sazlık Taht yakınlarında, bir handa. Ölü."
+Togan bu ayrıntıda durdu. Kael'i son gördüğünde aynı titremeyi fark etmişti.
 
-Togan'ın içi, beklenmedik bir hüzünle doldu — Kael, hiçbir zaman, bir dost olmamıştı, ama garip bir şekilde, onun varlığı, dünyanın, karmaşık, çok katmanlı doğasının, bir hatırlatıcısı gibiydi.
+Sube, haberi getiren tüccarı kurul odasında iki kez dinledi. Ölünün yüzünü görmemişti; tarife uyan adamı hanın ahırında çalışan bir çocuk teşhis etmişti. Malakor'un adı yalnızca fısıltılarda geçiyordu.
 
----
+"Onu Malakor'un öldürdüğünü yazamayız," dedi Temujin. "Bildiğimiz tek şey Kael'e benzeyen bir ölünün bulunduğu."
 
-"Malakor mu?" diye sordu Temujin, yanına gelerek.
+Togan öfkelenmek için bile sağlam bir yer bulamadı. Kael dostu değildi. Sed hakkında yalan satmış, insanları birbirine sürmüştü. Son gelişindeyse Bozan dosyasını bırakmış ve bütün kopyaların kendisiyle yok olmasını engellemişti.
 
-Sube, omuz silkti. "Muhtemelen. Ama kimse, kesin bilmiyor. Kael, çok düşman biriktirmiş bir adamdı — ölümünün sorumlusu, uzun bir liste olabilir."
+Kaya, dosyanın güvenliğini yeniden ele aldı. Orijinal diye sakladıkları şeyin de Kael'in kopyası olduğunu tutanağa açıkça yazdılar. Üç mühürlü nüsha hazırlandı: biri Eski-Kent arşivine, biri Karia'nın geçici soruşturma kuruluna, biri Sungur konseyinin kasasına gidecekti. Kuru Dere'de yalnız kaynak çizelgesi kalacaktı.
 
-Togan, bu haberi, uzun bir süre, sessizce düşündü. "Bize, verdiği şey — dosya, bilgi — bunun, onun ölümüyle bir ilgisi var mı, sence?"
+Konumlar ulaklara bile birlikte söylenmedi. Her ulak yalnız kendi teslim yerini biliyordu.
 
-"Bilmiyorum," dedi Temujin, ciddi. "Ama eğer varsa, bu, bizim de, dikkatli olmamız gerektiği anlamına gelir. Eğer, Malakor, Kael'in, bize, ne verdiğini öğrenirse..."
+Togan gece Lyra'ya kısa bir not yazdı. Kael için aklanma cümlesi kurmadı. İyilikle kötülüğü bir terazide tartıp son hareketiyle bütün ömrünü temize çıkarmadı.
 
----
+"Bazen doğru şeyi yaptı," diye yazdı. "Bazen de gerçeği sattı. İkisini de kaydedin."
 
-Bu düşünce, kampta, yeni bir tedirginlik yarattı — Toruk/Bozan dosyası, artık, sadece bir bilgi değil, potansiyel bir tehlike de taşıyordu.
-
-Kaya, dikkatle önerdi. "Dosyayı, daha güvenli bir yere taşımalıyız. Belki, birden fazla kopya, birden fazla yerde."
-
-Temujin, bu öneriyi, hızla kabul etti. "Bir kopyayı, Karia'ya göndereceğim — zaten, içeriğini biliyor. Bir kopyayı, Elara'ya — Temürçi arşivleri, güvenli. Orijinali, burada, gizli tutacağım."
-
----
-
-O akşam, Togan, kendi kendine, Kael'in garip mirasını düşündü — bir ömür boyu, bilgiyi, güç için kullanan bir adam, sonunda, karşılıksız bir jestle, hayatını bitirmişti.
-
-"Onun için üzülüyor musun?" diye sordu Perren, yanına oturarak.
-
-"Biraz," dedi Togan, dürüstçe. "O, bize, zarar vermeye çalıştı, bir zamanlar — Sed hakkında yalanlarla. Ama sonunda, gerçek bir şey de yaptı. Belki, herkes, böyle karmaşıktır — ne tam kötü, ne tam iyi."
-
----
-
-Lyra'ya, o gece, kısa bir mektup yazdı Togan — Kael'in ölümünü, Mirasçı kayıtlarına, dikkatle not etmesi için.
-
-*Kael, karmaşık bir adamdı,* diye yazdı. *Ama sonunda, bir gerçeği, doğru ellere ulaştırmayı seçti. Belki, bu, onun, hatırlanması gereken kısmı.*
-
-Mektubu mühürlerken, Togan, kendi kanının, kendi hikâyesinin, hâlâ, bu büyük, karmaşık dünyanın, sadece küçük bir parçası olduğunu, bir kez daha hissetti — ve bu, ona, garip bir şekilde, hem alçakgönüllülük hem de huzur verdi.
+Mektubu kapatınca avucunda deri dosyanın hayalî ağırlığını duydu. Kael'in son işi onlara bir cevap değil, doğrulamak zorunda oldukları bir iz bırakmıştı.

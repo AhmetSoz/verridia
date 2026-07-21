@@ -1,38 +1,22 @@
-# Bölüm 11 — Fısıltı Ustası
-*(KARİA)*
+# Bölüm 11 — Unvanın Yaşı
+*(KARIA)*
 
-Temujin'in mektubu, Malakor'un, Togan'a duyduğu gizemli ilgiyi anlattığında, Karia, hemen, Faelan'ı, kendi araştırmasına yönlendirdi.
+Faelan, Malakor adına ait ilk sağlam izi bir casus raporunda değil, Delta'nın eski iaşe cetvellerinde buldu. Kırk sekiz yıl arayla düzenlenmiş iki belgede "Fısıltı Ustası Malakor" için aynı makam payı ayrılmıştı. İmzalar farklı ellerdendi.
 
-"Malakor hakkında, ne biliyoruz?" diye sordu Karia, Faelan'a.
+"Bir insan iki dönemde de yaşamış olabilir," dedi Karia. "Ya da ad, makamla birlikte devrediliyordur."
 
-"Çok az," dedi Faelan, dürüstçe. "'Fısıltı Ustası' — Delta'nın, en gizli bilgi ağını yönetiyor, ama kendisi, neredeyse hiç görülmüyor. Koltuksuz bir üye, duyduğuma göre — kimin, onu davet ettiği bile bilinmiyor."
+Faelan üçüncü olasılığı ekledi: belgelerden biri sonradan değiştirilmiş olabilirdi. Asıllar Delta arşivindeydi.
 
----
+Karia, Amara'ya kişisel yardım istemek yerine resmî bir arşiv sorusu gönderdi. İki cetvelin doğrulanmasını, Malakor makamının yetki tanımını ve Togan hakkında açılmış bir Delta dosyası olup olmadığını sordu. Karşılığında Hegemonya'daki kopyaların mühür görüntülerini paylaşmayı teklif etti.
 
-Karia, bu belirsizliği, rahatsız edici buldu. "Amara'ya sorabilir miyiz?"
+Amara'nın cevabı temkinliydi. Cetveller gerçek görünüyordu; ancak Fısıltı Ustası bütçesi Delta önderinin doğrudan denetiminde değildi. Malakor adıyla çalışan birimin insan, para ve haber kaynakları ayrı kayıtta tutuluyordu. Amara bu kayda erişmek için iç kurul kararı gerektiğini yazdı.
 
-"Deneyebiliriz," dedi Faelan, "ama Malakor, muhtemelen, Amara'nın bile, tam kontrolünde değil. O, kendi başına, bağımsız bir güç gibi görünüyor, Delta içinde."
+"Yardım etmiyor mu?" diye sordu Kaelan.
 
-Karia, bu bilgiyi, uzun bir süre değerlendirdi, sonra, Amara'ya, dikkatli bir mesaj yazdı: *Malakor'un, bozkırdaki bir dostumuza, gösterdiği ilgi, endişe verici. Bu konuda, bize, yardımcı olabilir misiniz?*
+"Sınırını söylüyor. Yardım edip etmediğini kurul talebinden sonra anlarız."
 
----
+Karia ortak bir denetim önerdi. Delta'dan iki, Hegemonya'dan bir ve Eski-Kent'ten bir arşivci yalnız bütçe zincirini inceleyecekti. Togan'ın sağlık kayıtları veya Sed'in yeri paylaşılmayacaktı.
 
-Amara'nın cevabı, beklenenden daha temkinliydi: *Malakor, konusunda, dikkatli olmalısınız. O, benim de, tam olarak anlayamadığım bir figür — Delta'nın en eski, en gizli geleneklerinden biri. Ona karşı, doğrudan hareket etmenizi, önermem. Ama bilgi toplamaya, yardımcı olabilirim — dikkatli bir şekilde.*
+Amara talebi iç kurula götürmeyi kabul etti. Bu, ona güvenmek için yeterli değildi; fakat reddin kimden geldiğini görünür kılacaktı.
 
-Bu cevap, Karia'yı, hem rahatlatı hem endişelendirdi. "Amara, bile, ondan çekiniyor."
-
----
-
-Sör Kaelan, bu gelişmeyi, ciddiyetle değerlendirdi. "Eğer, Delta'nın kendi içinde bile, kimse, Malakor'u tam anlamıyorsa, bu, onu, çok daha tehlikeli yapar, evladım."
-
-"Biliyorum," dedi Karia, düşünceli. "Ve bu yüzden, Togan'ı, uzaktan da olsa, korumalıyız — elimizden gelen her şekilde."
-
-O akşam, Karia, Temujin'e, bir mektup yazdı: *Malakor hakkında, çok az şey biliniyor — Amara bile, ondan çekiniyor. Ama size, elimden gelen her türlü bilgiyi, yardımı, sağlayacağım. Togan, sadece sizin dostunuz değil — şimdi, benim de.*
-
----
-
-Elowen, bu gelişmeleri, tarihsel bir merakla izledi. "Malakor gibi figürler, genellikle, tarihin, gölgede kalan kısımlarını temsil eder — hiçbir kayıt, onları, tam olarak yakalayamaz."
-
-"Belki," dedi Karia, "ama bir gün, biz, onu, gölgeden çıkarırız. Togan'ın güvenliği için, gerekirse."
-
-Karia, bu kararlılıkla, kendi kendine, düşündü: bozkırla, Yamalı Liman'la, kurduğu bu bağlar, tam olarak, böyle anlar için değerliydi — ortak bir tehdide karşı, hiç kimsenin, artık, yalnız durmak zorunda olmaması için.
+Karia, Temujin'e gönderdiği notta "Amara bile korkuyor" demedi. Bildikleri daha sınırlı ve daha kullanışlıydı: Malakor bir kişiden çok kurumsal bir unvan olabilirdi, bütçesi Delta liderliğinden ayrıydı ve ilk kez resmî denetim talebiyle karşı karşıyaydı.

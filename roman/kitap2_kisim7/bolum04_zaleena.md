@@ -1,40 +1,18 @@
-# Bölüm 4 — Dört Kanal, Tek Baskı
+# Bölüm 4 — Limandaki İki Hesap
 *(ZALEENA)*
 
-Zaleena, kendi payına düşen desteği, dikkatle, ama kararlılıkla, Amara'ya iletti — Yamalı Liman'ın, Malakor'un herhangi bir gizli operasyonuna, artık, hiçbir şekilde, alan tanımayacağını bildiren bir mesaj.
+Malakor bütçesinin beş hesabından ikisi Yamalı Liman'da kullanılmıştı. Biri sekiz yıldır işlem görmüyordu. Diğeri hâlâ üç kargo şirketinin depo ücretlerini ödüyordu.
 
-Kessel, mesajı okuduktan sonra, düşüncesini paylaştı. "Bu, açık bir tehdit değil, ama net bir sınır çizmek."
+Draven şirketlerden birinin eski ortağını tanıyordu. Bilgi verebileceğini söyledi, fakat soruşturma kuruluna girmedi. Geçmiş bağını kayda geçirdi ve yalnız eski sözleşme kodlarını açıkladı.
 
-"Tam olarak," dedi Zaleena. "Amara'ya, yalnız olmadığını göstermek istiyorum."
+Konsey aktif hesabı dondurmadı. Otuz gün boyunca para çıkışlarını iki imzaya bağladı, yeni hesap açılmasını yasakladı ve ilgili şirketlere duruşma hakkı verdi. Gemiler yük boşaltmaya devam edecek, işçilerin ücretleri tutulmayacaktı.
 
----
+İlk hafta bir depo sahibi kısıtı aşmak için ödemeyi beş küçük parçaya böldü. Mira bunu olağan ticaret dalgalanması sanmıştı; Neris'in yardımcısı aynı emir önekini fark etti. İşlem durduruldu, depo sahibinin ifadesi alındı.
 
-Draven, bu stratejiye, kendi ağından, bir katkı sundu. "Sazlık Taht'taki eski bağlantılarımdan bazıları, hâlâ, bana, bilgi sağlıyor. Malakor'un hareketlerini, dikkatle izleyebilirim."
+Adam Malakor adını bilmiyordu. Talimatları her ay değişen bir kâtipten aldığını, kâtibin yarım çemberli bakır iğne taşıdığını söyledi. Tarif Togan'ı izleyen adamların işaretiyle eşleşiyordu.
 
-Zaleena, bu teklifi, memnuniyetle kabul etti. "Dikkatli ol, Draven. Malakor, tehlikeli bir adam."
+Zaleena bilgiyi Karia, Amara ve Eski-Kent'e aynı tutanakla gönderdi. Togan'a yazdığı not daha kısaydı: Yarım çember işareti liman ödeme zincirinde doğrulanmıştı; onu izleyen kişinin sözüne ilişkin yeni kanıt yoktu.
 
-Draven'ın sesi ciddiydi. "Biliyorum. Ama bu, tam olarak, borcumu ödeyebileceğim, türden bir görev."
+Kessel ilk sonuçların Malakor'u geri çekilmeye zorladığını düşündü. Zaleena emin değildi. Bir hesabın yavaşlaması bir makamın yenildiği anlamına gelmiyordu.
 
----
-
-Serel, bu gelişmeleri, Mirasçı arşivlerine kaydederken, önemli bir gözlem paylaştı. "Dört farklı güç — Hegemonya, Yamalı Liman, Genç Kurtlar, ve şimdi, Delta'nın kendi içinden Amara — aynı hedefe, farklı yönlerden, baskı yapıyor. Bu, tarihte, nadir görülen bir taktik."
-
-"Belki," dedi Zaleena, düşünceli, "bu, Malakor gibi, gölgede yaşayan güçlere karşı, tek etkili yöntem. Doğrudan bir savaş değil — sabırla, her yönden, alanını daraltmak."
-
----
-
-O hafta, ilk sonuçlar, gelmeye başladı — Malakor'un, bazı gizli operasyonlarının, aniden, durdurulduğu, çeşitli kaynaklardan, rapor edildi.
-
-Roric, bu haberleri, gururla paylaştı. "İşe yarıyor."
-
-"Şimdilik," dedi Zaleena, temkinli. "Ama Malakor, sabırlı bir adam. Belki, sadece, geri çekiliyor — yeni bir strateji için."
-
----
-
-O akşam, Togan'a, kısa bir mektup yazdı Zaleena — doğrudan, ilk kez, sadece Temujin ya da Karia aracılığıyla değil.
-
-*Togan,* diye yazdı, *seni, hiç tanımadan, uzun süre, sadece bir isim olarak bildim. Şimdi, seni, gerçek bir dost olarak görüyorum — ve bu yüzden, bilmeni isterim: Malakor'a karşı, yalnız değilsin. Dördümüz, artık, aynı tarafta duruyoruz.*
-
-Kessel, bu mektubu, gönderirken, Zaleena'ya, sıcak bir gülümsemeyle baktı. "Güzel bir mesaj."
-
-"Umarım," dedi Zaleena, "ona, ihtiyaç duyduğu gücü verir — bilmek, yalnız olmadığını."
+Yine de baskı ilk kez ölçülebilir bir sonuç vermişti: para yolu daralmış, bir aracı tarifi ortaya çıkmış ve üç liman işçisinin ücreti korunmuştu. Zaleena için doğru sıra buydu.

@@ -1,32 +1,18 @@
 # Bölüm 7 — Kriz Protokolü
-*(KARİA)*
+*(KARIA)*
 
-Karia'nın önerdiği "kriz protokolü," bir ay içinde, Faelan ve Zaleena'nın kendi danışmanlarıyla, ayrıntılı bir anlaşmaya dönüştü — iki krallık arasında, acil durumlarda, hızlı, koordineli bir yardım sistemi.
+Kuzey sevkiyatının hesabı kapanmadan Karia kalıcı protokol taslağını Konsey'e sundu. Metin yalnız erzak, sağlık malzemesi ve afet taşımasını kapsıyordu. Askerî yardım ayrı antlaşma olmadan istenemeyecekti.
 
-"Bu," dedi Faelan, son taslağı sunarken, "sadece, erzak veya askeri yardım değil, Majesteleri. Bilgi paylaşımı, tıbbi destek, hatta, doğal afetlerde, ortak müdahale ekipleri de içeriyor."
+Faelan dört tetik koşulu yazmıştı: bölgesel stokun kırk günün altına düşmesi, iki ana yolun kapanması, salgın ilanı veya liman kapasitesinin üçte birini kaybetmesi. Yardımı yalnız hükümdar değil, ilgili konseyin çoğunluğu da isteyebilecekti.
 
-Karia, bu kapsamlı planı, gururla onayladı. "Tam olarak, hayal ettiğim şey."
+Bilgeler Meclisi taslağı inceledi. Wren yoksul bölgenin taşıma ücretini ödeyememesi hâlinde sistemin çalışmayacağını söyledi. Osric sınırsız yardımın savunma bütçesini eriteceğini ekledi. Toma ortak bir acil fon önerdi; iki yönetim ticaret gelirinin küçük bir bölümünü önceden yatıracaktı.
 
----
+Karia fonu kabul etti, fakat yıllık üst sınır koydu. Sınır aşılırsa iki konsey yeniden oy verecekti. Gönderilen gemi ve personelin komutası kendi yönetiminde kalacak; dağıtım yetkisi yardım isteyen tarafta olacaktı. Her sevkiyattan sonra kayıp ve maliyet raporu yayımlanacaktı.
 
-Protokolün imza töreni, hem Metheris'te hem Yamalı Liman'da, aynı anda, sembolik bir jestle kutlandı — iki kraliçe, aynı metni, farklı şehirlerde, aynı gün, imzaladı.
+Toma, Yamalı Liman vatandaşı olduğu için son oylamadan çekildi. Görüşü raporda kaldı, oyu sayılmadı.
 
-"Tarih boyunca," dedi Elowen, bu töreni, dikkatle belgelerken, "bu tür ittifaklar, genellikle, evliliklerle ya da savaşlarla kurulurdu. Bu, ikisi de değil — sadece, karşılıklı saygı ve ihtiyaç."
+Konsey protokolü dokuz ay deneme süresiyle onayladı. Karia metni imzaladı, fakat yürürlüğe koymadı. Zaleena'nın konseyi aynı maddeleri kabul etmeden anlaşma yalnız tek taraflı bir teklifti.
 
-Karia, bu gözleme, düşünceli bir gülümsemeyle karşılık verdi. "Belki, bu, geleceğin, ittifak kurma şekli olur — kan bağı ya da fetih değil, ortak değerler."
+Elowen tören hazırlığı sorduğunda Karia başını salladı. "Önce karşı taraf okusun. Sonra uygulanabilir mi görelim."
 
----
-
-Bilgeler Meclisi, bu protokolün, günlük işleyişini, dikkatle takip etmeye başladı — Toma, özellikle, deniz temelli koordinasyonda, kilit bir rol üstlendi.
-
-"Zaleena'yla, neredeyse, her gün, yazışıyorum artık," dedi Toma, bir toplantıda, gülümseyerek. "Garip bir şekilde, hem Hegemonya'ya hem Yamalı Liman'a, aynı anda, ait hissediyorum kendimi."
-
-"Belki de," dedi Karia, "bu, tam olarak, senin gerçek rolün, Toma — iki krallık arasında, canlı bir köprü."
-
----
-
-O akşam, Karia, kendi kendine, bütün bu gelişmeleri, uzun uzun düşündü — bir yıl önce, sadece, kendi krallığının, güvenliğini düşünürdü. Şimdi, iki krallığın, ortak refahını, birlikte inşa ediyordu.
-
-Sör Kaelan, bu düşünceyi, bahçede, paylaşırken, gururla gözlemledi. "Sen, evladım, sadece bir kraliçe değilsin artık — bir mimar oldun. Krallıklar arası, yeni bir ilişki biçiminin, mimarı."
-
-Karia, bu söze, derin bir tevazuyla karşılık verdi. "Tek başıma değil, Kaelan. Zaleena, Toma, Faelan, hepsi — bu mimarlığın, bir parçası."
+Mühürlü nüsha Yamalı Liman'a gitti. Karia'nın masasında kalan kopyanın kapağında ittifak sözcüğü yoktu. Başlık yaptığı işi söylüyordu: Karşılıklı Sivil Kriz Desteği Denemesi.

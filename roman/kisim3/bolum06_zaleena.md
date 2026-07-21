@@ -1,48 +1,86 @@
-# Bölüm 6 — Enkaz Kraliçesi'nin İlk Adımı
+# Bölüm 6 — Enkaz Kraliçesi
 *(ZALEENA)*
 
-Yamalı Liman, Roric'in "ölümünün" haberiyle, beklendiği gibi, bir güç boşluğunun kaosuna sürüklenmeye başlamıştı — ama Zaleena, bu kaosu, ilk kez, kontrollü bir şekilde yönlendirmeye hazırdı.
+Kaptanlar Konseyi, kıyıya oturmuş eski Hegemonya kalyonunda toplandı. Geminin direkleri yıllar önce sökülmüş, güvertesi pazar ve toplantı yeri olmuştu. Hiçbir kaptan ona sahip değildi. Bu yüzden herkes orada konuşabilirdi.
 
-Kaptanlar Konseyi'nin resmî toplantısı, bu sefer, Çatlak Kurukafa'nın arka odasında değil, limanın en büyük, en tarafsız yapısında — eski bir Hegemonya kalyonunun güvertesinde, herkesin görebileceği bir açıklıkta toplandı. Zaleena, bunu bilinçli seçmişti: gizli kapılar ardında değil, herkesin gözü önünde yapılan bir seçim, daha az itiraza açık olurdu.
+Yirmi kaptan geldi. Roric'in koltuğu boş bırakıldı.
 
-"Roric'in yokluğunda," dedi Zaleena, toplanan yirmi kadar kaptana hitap ederek, sesi net ve otoriteliydi, "bir sonraki Enkaz Kralı'nı ya da Kraliçesi'ni, eski usulle, düelloyla değil, oyla seçmemizi öneriyorum."
+Zaleena, boşluğun karşısında durdu. “Roric dönmeyecek. Beş geminin daha dönme ihtimali var ama liman o zamana kadar başsız kalamaz.”
 
-Bu öneri, anında bir itirazla karşılandı — kaptanlardan biri, adı Draven, öne çıkarak. "Düello, bizim geleneğimizdir, Zaleena! Güç, kanıtlanmalı, oylanmamalı!"
+Draven kollarını göğsünde kavuşturdu. “Eski yol belli. Tahtı isteyenler dövüşür.”
 
-"Güç," dedi Zaleena, sesi sakin ama keskin, "sadece kılıçla kanıtlanmaz, Draven. Roric'in gücü, kılıcındaydı, ve bak nereye vardı — sekiz gemi, iki tanesi battı, kendisi kayıp. Belki de, gücün başka bir tanımına ihtiyacımız var artık."
+“Eski yolun son seçtiği adam sekiz gemiyi bilinmeyen bir düşmana sürdü.”
 
-"Ve sen mi belirleyeceksin bu yeni tanımı?" Draven'ın sesinde bir meydan okuma vardı.
+“Korkaklık gösterse daha mı iyiydi?”
 
-"Hayır." Zaleena'nın sesi kesin. "Konsey belirleyecek. Ben sadece bir öneri sunuyorum. Ve eğer Konsey, düelloyu seçerse, ben de o düelloya girerim — kimseden çekinmem. Ama önce, oylayalım, hangi yolu seçeceğimizi."
+“Keşif göndermesi daha iyiydi.”
 
-Bu teklif, kaptanlar arasında uzun bir tartışmaya yol açtı — bazıları, Zaleena'nın mantığını takdir ederken, bazıları, geleneksel yöntemi savunuyordu. Sonunda, dar bir oy farkıyla, oylama yöntemi kabul edildi.
+Güvertede birkaç kaptan başını salladı. Roric'in dönen adamları kayıpları anlatmıştı. Artık yenilginin üstüne kahramanlık örtmek kolay değildi.
+
+Zaleena devam etti. “Önce yöntem için oy verelim. Düello isteyenler sağa, seçim isteyenler sola.”
+
+Kaptanlar yer değiştirirken çizme sesleri güverteyi dövdü. On bir kişi sola geçti. Dokuzu sağda kaldı.
+
+Draven tükürüğünü denize attı. “O zaman adayım.”
+
+“Ben de,” dedi Zaleena.
+
+Kessel, arka sıradan elini kaldırdı. “Başka?”
+
+Üç kaptan daha öne çıktı.
+
+İlk turda hiçbiri çoğunluğu bulamadı. En az oy alan iki aday çekildi. İkinci turda Kessel kendi adını sildirip Zaleena'yı destekledi. Geriye Zaleena ile Draven kaldı.
+
+“Son oy açık verilecek,” dedi Zaleena. “Bu limanı kimin seçtiğini herkes bilecek.”
+
+“İnsanları korkutmak için mi?” diye sordu Draven.
+
+“Seçimin arkasında durabilmeleri için.”
+
+İsimler çağrıldı. Kaptanlar oylarını yüksek sesle söyledi.
+
+On ikinci Zaleena oyu Kessel'den geldi. Draven sekizde kaldı.
+
+Kessel boş koltuğun önüne yürüdü. “Sessiz Zaleena, Yamalı Liman'ın Enkaz Kraliçesi seçildi.”
+
+Alkış önce Zaleena'nın tayfasından yükseldi. Sonra başkaları katıldı. Draven alkışlamadı ama kılıcına da davranmadı.
+
+Zaleena boş koltuğa oturmadı.
+
+“İlk kararım şu,” dedi. “Her saldırı, kayıp gemi ve erzak payı kayda girecek. İkinci kararım: Liman savunmasında her kaptanın görevi seçimden önce belirlenecek. Üçüncüsü: Bu kararları değiştirmek için beni öldürmeniz gerekmeyecek. Yeniden oy vermeniz yetecek.”
+
+Bu son söz alkıştan daha etkili oldu. Birkaç kaptan şaşkınlıkla birbirine baktı. Zaleena onların yüzlerini aklında tuttu.
 
 ---
 
-Oylama, üç gün sürdü — kaptanlar arasında gizli görüşmeler, ittifaklar, pazarlıklar. Zaleena, bu süre boyunca, sabırla, kendi ağını işletti: Sorin'in topladığı bilgiler, Kessel'in sessiz desteği, ve yıllarca inşa ettiği güvenilirlik.
+Gece, Deniz Hayaleti'nin dip kamarasına indi. Roric sedirde oturabiliyordu. Yüzündeki temiz bezin altında yanık merhemi kokuyordu.
 
-Sonunda, oylar sayıldığında, Zaleena, en yüksek oyu almıştı — kesin bir çoğunlukla değil, ama yeterli bir farkla.
+“Kaç oy?” diye sordu.
 
-"Sessiz Zaleena," diye ilan etti Kessel, oyların sayımını denetleyen kaptan olarak, "Yamalı Liman'ın yeni Enkaz Kraliçesi."
+“On iki.”
 
-Bu kelime — Kraliçe — havada, garip bir ağırlıkla asılı kaldı. Zaleena, uzun süredir hayal ettiği bir andı bu, ama gerçekleştiğinde, beklediğinden çok daha ciddi, çok daha yük dolu hissettirdi.
+“Draven?”
 
-Draven ve birkaç destekçisi, öfkeyle toplantıyı terk etti — ama açık bir isyan çıkarmadılar, en azından şimdilik. Zaleena, bunun geçici bir sükunet olduğunu biliyordu; güç değişimleri, hiçbir zaman herkesi memnun etmezdi.
+“Sekiz.”
 
----
+Roric burnundan soludu. “Onu küçük düşürme. Sana karşı savaşırsa sekiz kaptan bulur. Yanında savaşırsa sekiz kaptan getirir.”
 
-O akşam, Zaleena, Enkaz Krallığı'ndaki — artık kendi krallığı olan — batık kalyonun güvertesinde, tek başına durdu. Roric'in eski tahtı, hâlâ oradaydı; Zaleena, ona oturmadı, sadece yanında durdu, elini ahşabına koyarak.
+Zaleena bunu zihnine yazdı. “Tahta oturmadım.”
 
-"Bir bayrak," diye mırıldandı kendi kendine. "Sadece bir tahttan fazlası. Kayıtlı, paylı, kalıcı bir şey."
+“Oturacaksın.”
 
-Sorin, yanına geldi, sesinde bir gurur vardı. "Başardın, Kaptan — Kraliçe demeliyim artık sanırım."
+“Çürük.”
 
-"Henüz hiçbir şey başarmadım, Sorin." Zaleena'nın sesi düşünceliydi. "Sadece bir kapı açtım. Şimdi, o kapının ardında ne inşa edeceğimi göstermem gerekiyor — ve bu, unvandan çok daha zor bir iş."
+“Bu limandaki bütün tahtlar çürük.”
 
-Roric, gizlice, gemide, hâlâ iyileşiyordu — kimliği saklı, ama Zaleena'nın planının bir parçası olarak, sabırla bekliyordu. Zaleena, bir gün, onun hikâyesini, kendi hikâyesinin bir parçası olarak açığa çıkaracaktı — ama o gün, henüz gelmemişti.
+Zaleena kamaradan çıkınca Sorin kapıda bekliyordu.
 
-Eski tahtın ahşabı, elinin altında, soğuk ve pürüzlüydü — Zaleena, kendi yeni krallığının, yaklaşan fırtınaya ne kadar hazır olduğunu merak etti.
+“Kraliçem,” dedi, sözcüğü tartarak.
 
-"Paslı Gelgit," diye mırıldandı kendi kendine, "hâlâ orada, bir yerlerde bekliyor. Ve bu sadece başlangıç, biliyorum."
+“Güvertede Kaptan diyeceksin.”
 
-Deniz, sessizce, gemisinin altında dalgalandı — ve Zaleena, ilk kez, bir kraliçe olarak, kendi sorumluluğunun tam ağırlığını hissetti omuzlarında.
+“Peki burada?”
+
+Zaleena merdivene yöneldi. “Burada da.”
+
+Yukarıda ilk kayıt defteri masasına bırakılmıştı. Zaleena kapağı açtı, tarih attı ve seçimin sonucunu kendi eliyle yazdı: on ikiye sekiz. Unvan, ancak sayıya dönüştüğünde işe yarıyordu.

@@ -1,46 +1,38 @@
 # Bölüm 6 — Eski Düşmanın Merhameti
 *(TEMUJİN)*
 
-Kaya, Temujin'i, uzun bir süre, sessizce süzdü — kampın ortasında, otuz kişilik grup, çevrelerini saran, düşmanca bakışlar altında, dizlerinin üzerinde bekliyordu.
+Sungur meclisi çadırın önünde toplandı. Temujin ile adamları ağıllarda silahsız bekliyordu. Öldürülen savaşçıların aileleri ilk sözü aldı.
 
-"Kalk," dedi Kaya sonunda, sesi, hâlâ sert ama artık, saf bir öfke değildi. "Dizlerinin üzerinde bir adamla, gerçek bir konuşma yapamam."
+"Oğlum Kartal-Yurdu yolunda öldü," dedi yaşlı bir adam. "Bunun hesabını kim verecek?"
 
-Temujin, ayağa kalktı, gözlerini, Kaya'dan kaçırmadan. "Teşekkür ederim."
+Temujin ayağa kalktı. "Emri veren bendim. Hesabı benden sor."
 
-"Henüz teşekkür etme." Kaya'nın sesi, keskindi. "Klanım, seni, burada, diri görmek istemiyor, Genç Kurt. Kardeşlerimizin çoğu, senin fethinde öldü — kansız dediğin o fetihte bile, ölenler oldu. Onların ailelerine, ne söyleyeceğimi bilmiyorum."
+"Canını mı vereceksin?"
 
----
+"Meclis isterse. Fakat otuz kişinin canını benim kararım için almayın."
 
-Kampın etrafında, bir kalabalık toplanmıştı — bazıları, silahlarını göstererek, açık bir infaz talep ediyordu.
+Kaya araya girmedi. Anya, yaşına rağmen ayakta konuştu. Temujin'in geçmişi silinmeyecek, ama silahsız gelen bir topluluğu kapıda öldürmek Kırık Yemin'in yöntemini tekrarlamak olacaktı.
 
-"Öldür onu!" diye bağırdı biri, kalabalığın arasından. "Ya da bize ver, biz hallederiz!"
+Börü omzu bağlı hâlde meclise katıldı. "Sığınma vermek ittifak değildir," dedi. "Korgan'a karşı savaş sözü de değildir."
 
-Kaya, elini kaldırdı, sessizlik istedi — ve şaşırtıcı bir otoriteyle, kalabalık, yavaşça sustu.
+Üç koşul önerildi. Sürgünler obanın dışındaki bölgede yaşayacak, silahlarını yalnız Sungur emriyle alacak ve üç ay boyunca meclisin verdiği işlerde çalışacaktı. Azgut ordusuna haber yollamaları yasaktı.
 
-"Bu adam," dedi Kaya, yüksek sesle, herkesin duyabileceği şekilde, "beni, esir aldığında, öldürebilirdi. Bunun yerine, serbest bıraktı — hiçbir karşılık beklemeden. Bu, onun geçmişini silmez. Ama bugün, silahsız, otuz kişiyle, kapımıza geldi — bu, bir tuzak değil. Bu, bir insanın, gerçek bir çaresizlikle, tek bildiği kapıyı çalması."
+Oylama az farkla kabul çıktı.
 
----
+Kaya kararı Temujin'e bildirdi. "Geçici sığınma. Üç ay sonunda yeniden oylanacak."
 
-Yaşlı bir kadın, kalabalığın önüne çıktı — Temujin, onun, Anya olduğunu, sonradan öğrenecekti.
+"Kabul."
 
-"Kaya," dedi yaşlı kadın, sesi, sakin ama ağır, "bu adam, düşmanımız. Ama İhtiyarlar Konseyi olarak, şunu da biliriz — bir düşmanı, kapımızda, silahsız bir şekilde öldürmek, bizim de, bir zamanlar, karşı çıktığımız bir şeydi. Kırık Yemin gecesi, hatırlıyor musun?"
+"Bunu merhamet sanma. Kendi yasamızı koruyoruz."
 
-Bu isim, kalabalıkta, ani bir sessizlik yarattı — herkes, o gecenin ağırlığını, çok iyi biliyordu.
+"Bu yüzden buraya geldim."
 
-"Öneririm," dedi Anya, yavaşça, "ona, geçici bir sığınma verelim. Silahsız, gözetim altında, sınırlı bir bölgede. Eğer, niyeti gerçekten barışsa, bunu, zamanla kanıtlar. Eğer değilse..." Durdu, gözleri, Temujin'e sert bir şekilde dikilerek. "O zaman, klanın adaleti, gecikmeden gelir."
+Akşam Kaya onu yalnız çağırdı. Togan'dan söz etti; Kırık Yemin'den sonra kendi yasının peşine düşen Sungur savaşçısından. Temujin adı daha önce mektupta okuduğunu fark etti.
 
----
+"Eski-Kent'ten yazdı," dedi. "Beni serbest bıraktığın için sana borçlu olduğunu söylüyordu."
 
-Kaya, bu öneriyi, uzun bir süre düşündü, sonra, yavaşça, başını salladı. "Kabul ediyorum. Temujin — sığınma, geçici. Sen ve adamların, silahsız kalacaksınız, kampın dışında, ayrı bir bölgede. Ve eğer, bir kez, güvenimizi kırarsanız, ikinci bir şans olmayacak."
+"Borcum yoktu."
 
-"Anlıyorum. Ve teşekkür ederim — gerçekten." Temujin'in sesi, ilk kez, günler sonra, gerçek bir rahatlamayla doluydu.
+"Onun da yok. Yine de böyle düşünür."
 
-O akşam, Kaya, Temujin'i, kendi çadırına, kısa bir konuşma için çağırdı.
-
-"Neden bana güvendin?" diye sordu Kaya, doğrudan. "Beni öldürebilirdim, biliyorsun."
-
-"Biliyordum," dedi Temujin. "Ama bir şeyi de biliyordum — sen, adaletsiz bir kadın değilsin. Ve bazen, en büyük bahis, doğru kişiye güvenmektir."
-
-Kaya, bu cevaba, uzun bir süre baktı, sonra, hafifçe, garip bir şekilde gülümsedi. "İlginç bir adamsın, Genç Kurt. Bir gün, sana, Togan'ı anlatmalıyım — klanımızdan biri, şu anda, uzak bir yolculukta. Sanırım, ikinizin, ortak noktaları olurdu."
-
-Temujin, bu ismi, ilk kez duydu — hiçbir şey ifade etmedi ona, sadece, uzak bir yolculuğa çıkmış, tanımadığı bir adamın adı gibi geldi.
+Kaya mektubu göstermedi. Temujin de istemedi. Tanımadığı Togan artık ilk kez yalnız bir addan fazlasıydı: kendi kararlarından birinin uzakta bıraktığı karşılık.

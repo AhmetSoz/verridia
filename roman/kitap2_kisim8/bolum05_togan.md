@@ -1,40 +1,16 @@
-# Bölüm 5 — Nefes Alma Alanı
+# Bölüm 5 — Nefes Aralığı
 *(TOGAN)*
 
-Malakor'un kısıtlanması haberi, Togan'a ulaştığında, ilk kez, aylardır, gerçek bir rahatlama hissetti — tam değil, ama gerçek.
+Delta kurulunun kararı geldiğinde Togan rahatlamadı. İlk gece yine iki kez uyandı. Suna'nın omzundaki kesik kapanıyor, fakat sol kolu hâlâ uyuşuyordu. Sekiz saniyelik müdahaleyi hatırladıkça Melira'nın adını bulamadığı o boşluk geri geliyordu.
 
-"Bitmedi," dedi Togan, Temujin'e, dikkatle. "Ama en azından, artık, sürekli, arkamı kollamak zorunda değilim."
+Lyra deney programını geçici olarak durdurdu. Bir sonraki doksan günlük değerlendirmeye kadar Togan, Praetorian parçasıyla çalışmayacak ve Akıntı etkisini savaş taliminde tekrarlamayacaktı. Baskında işe yaramış olması bedeli ortadan kaldırmıyordu.
 
-Temujin, bu değerlendirmeye, katıldı. "Nefes alma alanı. Bunu, iyi kullanmalıyız."
+Sungur konseyi Kaya aracılığıyla ayrı bir teklif gönderdi. Togan'dan kalıcı hizmet ya da bağlılık istemiyorlardı. Altı hafta boyunca sınır nöbetçilerine gözlem kaydı, çift doğrulama ve yanlış alarm usulünü öğretecekti. Ücreti konsey ödeyecek, ders notları Sungur arşivinde kalacak ve Kuru Dere aynı metinlere erişecekti.
 
----
+Togan şart ekledi: Işıyan gücü eğitim konusu olmayacak, Perren dağ derslerinin ortak eğitmeni sayılacak ve program sonunda Sungur öğrenciler kendi eğitmenlerini seçecekti. Konsey kabul etti.
 
-Işıyan'a, bu gelişmeyi, bir mektupla bildirdi Togan — ve cevap, dikkatli ama umutlu bir tonla geldi.
+Kaya ilk ders günü onu "resmî danışman" diye tanıtmadı. Süreli sözleşmenin maddelerini okudu. Togan bunu unvandan daha değerli buldu.
 
-*İyi haber,* diye yazmıştı Işıyan. *Ama unutma — Malakor, kısıtlanmış olsa da, hâlâ, bildiklerini, unutmadı. Eğitimine, devam etmelisin — belki, artık, daha az acil, ama hâlâ, önemli.*
+Suna iyileşince derse katıldı. Baskın gecesindeki kararı anlattı; düşman sayısını yanlış tahmin ettiğini, fakat kemik alarmını doğru okuduğunu söyledi. İki sonuç da tahtaya yazıldı.
 
-Togan, bu tavsiyeye, sadakatle uydu — haftalık alıştırmalarını, dikkatle, sürdürdü.
-
----
-
-Perren, bu süreçte, Togan'ın, en sadık destekçisi olmaya, devam etti. "Nasıl hissediyorsun, gerçekten?"
-
-"Daha güçlü," dedi Togan, dürüstçe. "Ama aynı zamanda, daha da farkındayım — kendi gücümün, ne kadar büyük bir sorumluluk taşıdığının."
-
-"Bu, iyi bir farkındalık," dedi Perren. "Güç, sorumluluk olmadan, tehlikelidir."
-
----
-
-O hafta, Kaya, Togan'a, beklenmedik bir haber getirdi. "Kaya ismini taşıyan bir kadın olarak, sana, bir teklif sunmak istiyorum — Sungurlar'ın, resmi 'nöbetçi danışmanı' olur musun? Senin öğrettiğin teknikler, klanımızın, geleceği için, değerli olabilir."
-
-Togan, bu teklife, gerçek bir gururla karşılık verdi. "Onur duyarım."
-
----
-
-Bu yeni rol, Togan'a, hem Genç Kurtlar'da hem Sungurlar'da, resmi bir konum kazandırdı — iki topluluk arasında, canlı bir köprü, tıpkı, Temujin'in, uzun zamandır, inşa etmeye çalıştığı bağların, bir başka örneği.
-
-O akşam, Togan, kendi kendine, bütün bu değişimi düşündü — bir zamanlar, sadece, kendi yasını taşıyan bir yetim, şimdi, iki topluluğun, güvendiği bir danışmandı.
-
-"Annem," dedi Togan, Perren'e, yavaşça, "gurur duyardı, sanırım. Sadece, kanımla değil — kim olduğumu seçtiğimle."
-
-Perren, bu söze, sessizce, dostça bir gülümsemeyle karşılık verdi — ve iki dost, yeni kazanılan bu sakinliğin, kısa da olsa, tadını çıkardılar.
+Malakor'un saha yetkisi askıdaydı. Gizli kasaların üçü hâlâ kapalıydı ve görevli ifadeye gelmemişti. Togan nefes alma alanını güvenlik duygusuyla karıştırmadı. Onu, kendi yerine başkalarının da nöbet tutmayı öğrenebileceği altı haftaya çevirdi.

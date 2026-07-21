@@ -1,48 +1,32 @@
 # Bölüm 39 — İki Taht, Tek Masa
-*(KARİA)*
+*(KARIA)*
 
-Jilet Resifleri, bu kez, gizli bir buluşma için değil, resmi bir zirve için hazırlanmıştı — iki kraliçenin bayrakları, aynı rıhtımda, yan yana dalgalanıyordu.
+Jilet Resifleri'ndeki ikinci buluşmada iki bayrak açıkça asıldı. Karia'nın gemisi koya girerken Zaleena'nın muhafızları Hegemonya usulü selam vermedi; kendi kılıçlarını güverteye vurarak karşıladı.
 
-Karia, kendi gemisinden indiğinde, Zaleena'yı, zaten orada, kendi retinüsüyle bekler buldu — ikisi de, ilk buluşmalarındaki temkinli tavırdan çok uzak, artık, gerçek bir müttefikin rahatlığıyla selamlaştılar.
+Ortak çadırda Karia'nın yanında Faelan ve Kaelan, Zaleena'nın yanında Roric ile Kessel vardı. Masaya önce kanıtlar kondu: Vorlag'ın para hattı, Draven'ın buluşma tarihleri, Sazlık Taht'taki sevk kayıtları.
 
-"Kraliçe Zaleena."
+"Aynı yöntemi kullanıyorlar," dedi Karia. "Bizi içeriden daha yönetilebilir biriyle değiştirmek."
 
-"Kraliçe Karia." Zaleena'nın gülümsemesi, kısa ama sıcaktı. "Sonunda, gölgelerden çıkıp, gün ışığında konuşuyoruz."
+Zaleena Draven'ı henüz tutuklamadığını söyledi. Karia da Vorlag'ı izlemeyi sürdürüyordu.
 
----
+Faelan iki hattın tek planla sınanmasını önerdi. Draven'a verilecek gerçek ama zamanlanmış bilgi Amara'ya gidecek, Vorlag'a verilen başka bir parça Sarris'in tepkisini ölçecekti.
 
-Toplantı çadırında, haritalar, raporlar, ve iki kraliçenin danışmanları — Faelan ve Sör Kaelan, Roric ve Kessel — masanın etrafına yerleşti.
+Kessel kaşlarını çattı. "Ya ikisi bilgi paylaşırsa?"
 
-"Başlayalım," dedi Karia, doğrudan konuya girerek. "Delta, ikimizi de, aynı stratejiyle tehdit ediyor — bağımsız liderleri, kendi kuklalarıyla değiştirmek. Benim durumumda, Vorlag ve Valerius. Seninkinde, Draven ve Amara'nın etkisi."
+"O zaman Delta'daki bölünmenin sandığımız kadar derin olmadığını öğreniriz," dedi Karia.
 
-Zaleena, başını salladı. "Ve muhtemelen, bu, sadece ikimizle sınırlı değil. Delta, yıllardır, bu oyunu, kim bilir kaç yerde oynuyor."
+Kaelan saldırı fikrine temkinli yaklaştı. "Çatlağı genişletirken duvarın hangi yana düşeceğini hesaplayın. Sarris'le Amara'yı savaştırmak, ikisini zayıflatabilir. Ya da içlerinden birini tek başına güçlendirebilir."
 
-Roric, öne eğildi, sesi düşünceli. "Sarris ve Amara'nın, Delta içinde ayrı kanatlar olduğunu öğrendik. Belki de, bu bölünme, bize bir fırsat sunuyor — onları, birbirine karşı kullanmak."
+Bu uyarı plana yazıldı. Amaç Delta'yı çökertmek değil, kendi devletlerine müdahalenin maliyetini yükseltmekti.
 
----
+Görüşme sonunda dört maddelik ortak düzen çıktı. İki saray saldırı haberlerini aynı gün paylaşacak, ilaç ve deniz yollarını birlikte koruyacak, iç sızıntılara verilecek bilgiyi eşleştirecek ve Valerius'un hareketini izleyecekti.
 
-"Benim önerim," dedi Faelan, haritaya bir işaret koyarak, "şu: Vorlag'ın darbe planını, tam olgunlaşmasına izin verelim, ama kontrollü bir şekilde. Tam zamanında, hem Vorlag'ı hem Valerius'un desteğini, aynı anda çökertelim — halkın önünde, tartışılamaz bir kanıtla."
+Karia metni imzalarken Zaleena kalemi durdurdu. "Bir yıl önce beni korsan sayıyordun."
 
-Kessel, öne eğildi. "Draven için de, aynı strateji işleyebilir. Ama bir farkla — Draven, Vorlag kadar tehlikeli değil. Sadece hırslı ve satılmış. Belki, onu, tamamen çökertmek yerine, kendi lehimize çevirebiliriz — gerçek suçunu bilmesini sağlayıp, ondan sonra, bize sadık kalmasını zorunlu kılarak."
+"Kayıtsız bir filo yönetiyordun."
 
-Zaleena, bu öneriyi, uzun bir süre düşündü, sonra, başını salladı. "İyi bir fikir. Bir düşman, bazen, korkuyla, bir müttefikten daha sadık olabilir."
+"Şimdi?"
 
----
+"Kayıt tutan, vergi alan ve beni masada zorlayan bir kraliçesin."
 
-Sör Kaelan, sessizce dinlemişti, ama şimdi, sesini yükseltti. "Bir şey daha var, Majesteleri — ikinizin de düşünmesi gereken. Eğer Delta'nın iç bölünmüşlüğünü kullanacaksak, bunu, sadece savunma için değil, saldırı için de düşünmeliyiz. Sarris ve Amara, birbirine rakip. Belki de, birini, diğerine karşı, açıkça kışkırtabiliriz — Delta'yı, kendi içinden çökertmek için."
-
-Karia ve Zaleena, bir an, bakıştılar — ikisi de, bu fikrin, cesur ama tehlikeli olduğunu anlayarak.
-
-Karia'nın sesi yavaşladı. "Riskli. Ama belki de, gerekli. Delta, sonsuza kadar, gölgeden oynayamaz — bir gün, ışığa çıkarmamız gerekecek, ne şekilde olursa olsun."
-
-"O zaman," dedi Zaleena, sesi kararlı, "bugün, sadece savunma planı yapmıyoruz. Bugün, bir savaşın ilk hamlesini de planlıyoruz — sadece, henüz, kimse bunun bir savaş olduğunu bilmiyor."
-
----
-
-Toplantı, saatler sürdü — detaylar, zamanlamalar, işaretler, hepsi, dikkatle konuşuldu. Güneş batarken, iki kraliçe, son bir kez, rıhtımda, yan yana durdular.
-
-"Bir yıl önce," dedi Karia, denize bakarak, "seni, sadece bir kaçakçı olarak tanırdım, Zaleena. Şimdi, seni, belki de, en güvendiğim müttefik olarak görüyorum."
-
-Zaleena'nın gülümsemesi hafifti. "Garip bir dünya. Ama belki de, en iyi ittifaklar, hep, en beklenmedik yerlerden doğar."
-
-İki kraliçe, ayrılırken, el sıkıştı — kısa, resmi bir hareket, ama içinde, gerçek bir güvenin ağırlığı vardı. Karia, kendi gemisine dönerken, ilk kez, aylardır, geleceğe, korkuyla değil, hesaplı bir umutla baktığını fark etti.
+Zaleena kısa bir gülüşle imzayı attı. Bu, dostluk ilanı değildi. Daha dayanıklı bir şeydi: iki tarafın da sınırını ve çıkarını bildiği bir ortaklık.

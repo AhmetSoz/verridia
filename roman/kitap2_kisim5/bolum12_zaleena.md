@@ -1,36 +1,24 @@
-# Bölüm 12 — Mira'nın İlk Sınavı
+# Bölüm 12 — Mira'nın İlk İtirazı
 *(ZALEENA)*
 
-Mira'nın Konsey'deki ilk gerçek sınavı, beklenenden erken geldi — bir tartışma, Delta'yla yapılan yeni ticaret anlaşmasının şartları üzerine, keskin bir şekilde alevlendi.
+Amara'nın gönderdiği ticaret taslağı ilk bakışta önceki anlaşmadan iyiydi. Liman vergisi düşüyor, Delta gemilerinin depolama süresi kısalıyordu. Yaşlı kaptanların çoğu aynı gün imza atmak istedi.
 
-"Amara'nın son teklifi," dedi bir yaşlı kaptan, şüpheyle, "bize göre değil. Şartlar, hâlâ, onların lehine ağır basıyor."
+Mira elini kaldırdı. "On yedinci maddeyi açıklamadan oy vermeyelim."
 
-Zaleena, bu tartışmayı, dikkatle izledi — ve Mira'nın, ilk kez, kendi görüşünü, açıkça savunduğunu gördü.
+Madde, "olağanüstü güvenlik hâlinde" Delta denetçilerine yükleri açma ve limanda tutma yetkisi veriyordu. Süre sınırı yoktu; olağanüstü hâli kimin ilan edeceği de yazılmamıştı.
 
----
+"Geçen anlaşmada bu kadar düşük vergi yoktu," dedi Havel. "Her kazancın bir bedeli olur."
 
-"Katılmıyorum," dedi Mira, sesi, ilk başta gergin, ama giderek netleşerek. "Şartlara, dikkatle baktım — evet, bazı maddeler, Delta lehine. Ama genel denge, bize, geçen yıla göre, çok daha iyi. Mükemmeli beklerken, iyiyi kaçırmamalıyız."
+"Bedelin miktarı yazılı değilse kazancı hesaplayamayız," diye karşılık verdi Mira.
 
-Yaşlı kaptan, bu argümana, şaşkınlıkla baktı — ama sonunda, yavaşça, başını salladı. "Belki, haklısın, genç kaptan."
+Zaleena tartışmayı kesmedi. Mira'dan yalnız itiraz değil, karşı metin istedi. Genç kaptan ertesi sabah üç öneriyle geldi: güvenlik hâlini Yamalı Liman ve Delta temsilcileri birlikte ilan edecek, el konan yük yetmiş iki saat içinde bağımsız hakeme götürülecek, uygulama ilk altı ay yalnız iki iskelede denenecekti.
 
----
+Konsey maddeleri beşe karşı iki oyla kabul etti. Amara'nın temsilcisi ilk ikisine razı oldu, pilot uygulamanın tek iskeleyle sınırlanmasını istedi. Pazarlık iki iskele ve üç ayda kapandı.
 
-Toplantıdan sonra, Zaleena, Mira'yı, gururla tebrik etti. "İyi savundun görüşünü."
+Toplantıdan sonra Zaleena, Mira'ya iyi konuştuğunu söylemedi. "Yetmiş iki saati neye göre seçtin?"
 
-"Korkuyordum," dedi Mira, dürüstçe. "Ama sonra, düşündüm — beni, buraya, sessiz kalmam için getirmediniz."
+Mira'nın cevabı hazır değildi. Limandaki bozulabilir yüklerin ortalama bekleme süresini bilmeden sayıyı tahmin etmişti.
 
-"Kesinlikle," dedi Zaleena, gülümseyerek. "Seni, gerçek bir ses olman için getirdim."
+"Yarın depolardan gerçek süreyi getir," dedi Zaleena. "Doğru itiraz, zayıf hesabı bağışlatmaz."
 
----
-
-Draven, bu gelişmeyi, kendi deneyimiyle, ilginç bir şekilde yorumladı. "Ben, yıllarca, sessiz kalmayı, güvenli buldum. Mira, cesaretle konuşuyor. Belki, ondan, öğrenecek çok şeyim var."
-
-Roric, bu yorumla, hafif bir gülümsemeyle karşılık verdi. "Herkes, birbirinden öğreniyor, görüyorum — bu, iyi bir işaret, bu limanın, sağlıklı büyüdüğünün."
-
----
-
-O akşam, Zaleena, Karia'ya, kısa bir mektup yazdı: *Mira, ilk sınavını geçti — cesaretle, netlikle. Sanırım, Yamalı Liman'ın geleceği, güvenli ellerde, yavaş yavaş şekilleniyor. Toma'nın orada nasıl gittiğini de merak ediyorum — belki, bir gün, ikisi, aynı masada, iki krallığın temsilcisi olarak otururlar.*
-
-Kessel, bu mektubu, dikkatle okurken, Zaleena'ya döndü. "Güzel bir gelecek hayal ediyorsun."
-
-"Belki," dedi Zaleena, "ama artık, biliyorum ki, hayaller, sabırla, doğru insanlarla, gerçeğe dönüşebilir. Bunu, kendi gözlerimle gördüm — bir kaçakçıdan, bir kraliçeye giden yolda."
+Ertesi gün süre kırk sekiz saate indirildi. Mira'nın ilk sınavı sesini yükseltmesi değildi; sözünü veriye göre düzeltmeyi kabul etmesiydi.

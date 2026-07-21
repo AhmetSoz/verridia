@@ -1,46 +1,62 @@
 # Bölüm 53 — Üç Ufuk, Bir Eşik
-*(KAPANIŞ — TOGAN / TEMUJİN / KARİA / ZALEENA)*
+*(KAPANIŞ — TOGAN / TEMUJİN / KARIA / ZALEENA)*
 
-O gece, Verridia'nın üç ayrı köşesinde, üç insan, aynı gökyüzüne baktı. Dördüncüsü, artık, o gökyüzünün altında değildi.
+Sed'in içindeki yol taş değildi. Togan ayağını bastığı yerde yüzey kısa süre katılaşıyor, ardından kızıl ışığın içinde eriyordu. Yaşlı Işıyan önünde ilerledi.
 
----
+"Ayla da bu yoldan mı geçti?"
 
-**Sed'in ardında**, Togan, ne gece ne gündüz olan bir ışığın altında yürüyordu — kızıl, sabit, hiç değişmeyen bir alacakaranlık, gökyüzü olmayan bir gökyüzü. Yanında, yaşlı Işıyan, sessizce, ona eşlik ediyordu. Perren, kapının bu tarafında, dışarıda kalmıştı — Togan'ın kendi isteğiyle, "eğer dönmezsem, Ozan'a söyle, seçimimi kendim yaptım" demişti, son bir kez sarılıp. Şimdi, bu garip diyarın derinliklerine ilerlerken, Togan, ilk kez, gerçek bir korkuyla değil, garip bir sükûnetle yürüyordu. *Bir köprü olacağım,* diye tekrarladı kendi kendine, annesinin, elli yıl önce, aynı topraklarda attığı adımları hayal ederek, *kılıç değil.* Ama önünde, karanlığın içinden, yeni bir ışıltı belirdiğinde, bu sükûnet, bir anda, yeniden, ham bir korkuya dönüştü.
+"Başka bir kapıdan. Aynı merkeze."
 
----
+Uzakta ikinci bir ışık yandı. Tek bir varlık değildi; karanlığın içinde sıra sıra duran yüzlerdi. Togan elini kılıcından çekmedi.
 
-**Bozkırın batısında**, Temujin, otuz kişilik küçük kervanının başında, atını sürüyordu — arkasında, Korgan'ın gölgesi, önünde, belirsiz bir karşılama. Batu, yanında, sessizce at sürüyordu, ikisinin de gözleri, ufukta, henüz görünmeyen Sungur çadırlarını arıyordu.
-
-"Kızıl Ay'ın ilki, üç gün sonra doğacak," dedi Sube, arkadan yaklaşarak, sesinde, Yeva'nın kehanetinin ağırlığı.
-
-"Biliyorum." Temujin, gökyüzüne baktı — hâlâ mavi, hâlâ sıradan, ama içinde, yaklaşan bir değişimin sessiz bilgisiyle. "Üç Kızıl Ay'ın ilki geçti bile, Sube — o gece, ateşin etrafında. Belki de, geri kalan iki, bize, daha nazik davranır."
-
-"Ya da," dedi Batu, sesi, hem endişeli hem umutlu, "geri kalan iki, bize, Sungurlar'ın kapısını açar."
+Sed'in dışında Perren üç günlük çentiğin ilkini gri duvara kazıdı.
 
 ---
 
-**Metheris'te**, Karia, çalışma odasının penceresinden, aynı gökyüzüne baktı — Sarris'in anlaşmasının mürekkebi, hâlâ, masasındaki kağıtta kurumamıştı. Zafer değildi bu, ama bir soluk alma alanıydı — ve bir amiral için, bazen, bu, yeterliydi.
+Bozkırın batısında Sube beyaz bezi kaldırdı. Karşı sırtta beş Sungur süvarisi belirdi. En öndeki kadın yayı gerili tuttu.
 
-Faelan'ın son raporu, elindeydi: Vorlag'ın sürgün gemisi, güvenle, Sis'e ulaşmıştı. Bir tehdit, kapanmıştı. Ama Karia, pencereden dışarı bakarken, biliyordu ki, Delta, hâlâ, orada, gölgede, bekliyordu — sabırla, tıpkı kendisi gibi.
+"Silahları yere," dedi Temujin.
 
-"Bir fırtına geçti," diye mırıldandı kendi kendine, "ama deniz, hiçbir zaman, uzun süre sakin kalmaz."
+Batu önce ona, sonra yaklaşan süvarilere baktı. Baltasını toprağa bıraktı. Otuz savaşçı onu izledi.
 
----
+Sungur devriyesi mesafeyi kapatınca kadın Temujin'i tanıdı.
 
-**Yamalı Liman'da**, Zaleena, limanın en yüksek noktasından, aynı gökyüzüne baktı — Amara'nın mektubu, cebinde, hâlâ katlı duruyordu. Aşağıda, şehir, sakin, düzenli, bir yıl önce hayal bile edemeyeceği bir düzenle, uyumaya hazırlanıyordu.
+"Kaya seni görmek isteyecek," dedi. "Sevinip sevinmeyeceğini bilmiyorum."
 
-Draven, uzaktan, kendi devriyesini denetliyordu — artık, bir hain değil, temkinli bir müttefik. Paslı Gelgit'in barış bayrağı, limanın ağzında, hafif rüzgârda, sessizce dalgalanıyordu.
-
-*Belki de,* diye düşündü Zaleena, gökyüzündeki yıldızları izleyerek, *bir gün, bu kadar çok ipliğin, nasıl birbirine dolandığını, hep birlikte anlarız — Karia, ben, ve isimlerini bile bilmediğim, uzak bir bozkırda, uzak bir duvarın ardında, kendi yollarını arayan diğerleri.*
+"Ben de bunu öğrenmeye geldim."
 
 ---
 
-Üç ayrı ufukta, üç insan, aynı geceye, aynı yıldızlara bakıyordu — biri, kaybettiği bir dünyanın enkazından, yeni bir devlet inşa ederek; biri, kaybettiği bir ordunun yerine, eski bir düşmanın kapısını çalarak; biri, kazandığı bir tacın ağırlığını, sabırla taşıyarak.
+Metheris'te Karia, Delta anlaşmasının iki nüshasını Konsey üyelerine dağıttı. Vorlag'ın boş sandalyesi masanın sağında duruyordu.
 
-Dördüncüsü, aynı anda, hiçbirinin hayal edemeyeceği bir diyarda, ne yıldız ne gökyüzü olan bir ışığın altında, kendi kanının, nesillerdir süren bir sırrının, son eşiğinde duruyordu.
+"Bu sandalye bugün doldurulmayacak," dedi. "Yeni üye seçimini açık oylamayla yapacağız. Adayların bütün ticari bağları kayda girecek."
 
-Hiçbiri, o gece, birbirlerinin varlığından haberdar değildi. Ama iplikler, sessizce, yavaşça, birbirine doğru uzanıyordu — bir kaçakçının kraliçe olduğu bir liman, bir savaş-lordunun sürgün olduğu bir bozkır, bir amiralin tacının altında ezildiği bir saray, ve bir duvarın ardında, hiçbir haritanın göstermediği bir diyar.
+Maros itiraz için elini kaldırdı. Karia söz verdi. Konsey tartışmaya başladı.
 
-Hafızanın bedeli, ödenmeye devam ediyordu. Ve dünya, her zamanki gibi, kimin hazır olup olmadığını sormadan, kendi kadim ritmine devam ediyordu.
+Kaelan kapı yanında oturuyor, bastonunun üstünde iki elini dinlendiriyordu. Karia ilk kez onun cevabını aramadan konuşmayı yönetti.
 
-*(5. Kısım Sonu — 6. Kısım'da devam edecek)*
+---
+
+Yamalı Liman'da ilk ortak devriye döndü. Vesna'nın gemisiyle Kessel'in gemisi aynı yaratık sürüsünü kuzeye çevirmiş, kayıp vermemişti.
+
+Zaleena kaptan raporlarını imzaladı. Draven, Amara'nın mührünü taşıyan teslimat çizelgesini masaya bıraktı.
+
+"Altı aylık ilk sevkiyat üç gün erken çıkmış."
+
+"Sayımı rıhtımda yap," dedi Zaleena. "Mühür doğru diye sandık doğru sayılmaz."
+
+Draven emri alıp çıktı. Sorin kapıda Eski-Kent'ten gelen yeni bir zarfla bekliyordu. Üzerinde Baş Kâtip Lyra'nın mührü vardı.
+
+Zaleena zarfı açtı. İlk satır, Sed'e giden Sungur savaşçının geri dönmediğini bildiriyordu.
+
+Togan'ın adını bu kez deftere değil, ortak haberleşme haritasının kenarına yazdı.
+
+Dört yol ilk kez aynı masada değildi. Biri bir duvarın içinde, biri eski düşmanının sınırında, ikisi kurdukları düzenlerin başındaydı. Aralarındaki bağ henüz ittifak sayılmazdı; yalnız mektuplarda, borçlarda ve birbirine ulaşan adlarda görünüyordu.
+
+Sed'in içinde sıra sıra ışıklar aynı anda Togan'a döndü.
+
+Yaşlı Işıyan durdu.
+
+"Şimdi," dedi, "neden açabildiğini öğreneceksin."
+
+*(5. Kısım Sonu: 6. Kısım'da devam edecek)*

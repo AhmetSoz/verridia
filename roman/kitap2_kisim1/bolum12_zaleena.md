@@ -1,46 +1,42 @@
 # Bölüm 12 — Bayrağın Gölgesi
 *(ZALEENA)*
 
-Faelan'ın mesajı, Zaleena'ya, beklediğinden daha resmi bir dille ulaştı: anlaşma, artık Hegemonya Konseyi'nce onaylanmıştı. Karia, kelimenin tam anlamıyla, bir korsan kraliçesiyle, açıkça, bir devletin ismini kullanarak anlaşma yapmıştı.
+Karia'nın cevabı bu kez Konsey mührü taşıyordu. Altı aylık deneme yolu onaylanmış, Yamalı Liman belgelerde ilk kez ayrı bir yönetim olarak adlandırılmıştı.
 
-Bu haber, Yamalı Liman'da, beklediğinden daha hızlı yayıldı — ve beklediğinden daha karışık bir tepkiyle karşılandı.
+Draven mektubu masaya bıraktı. "Elli yıllık düşmanımızın mührüne güvenecek miyiz?"
 
-"Hegemonya'yla resmi anlaşma mı?" Draven'ın sesi, toplantı odasında, inanmazlıkla yükseldi. "Elli yıllık düşmanımızla?"
+"Hayır," dedi Zaleena. "Gemi kayıtlarına, ödenen paraya ve teslim edilen yüke güveneceğiz."
 
-"Elli yıllık düşmanımızla," diye onayladı Zaleena, sesi sakin. "Çünkü elli yıl, bir düşmanlığı haklı kılmaz, Draven — sadece onu eski yapar. Ve eski olan her şey, doğru olan anlamına gelmez."
+Kessel geçiş hesabını önüne çekti. Kuzey rotası dokuz gün kısalacak, iki yükten sonra ilk refakat masrafı çıkacaktı. Draven rakamlara itiraz edemedi. Bunun yerine Delta'yı sordu.
 
-Kessel, bu tartışmada, ilk kez, açıkça Zaleena'nın yanında yer aldı. "Bir Hegemonya gemisini kurtardık. Karşılığında ne kaybettik? Hiçbir şey. Ama kazandığımız — Hegemonya sularında serbest ticaret, resmi tanınma — bunlar, hiçbir düello ile kazanılamayacak şeyler."
+Cevap üç gün sonra Amara'nın elçisiyle geldi.
 
-Draven, uzun bir süre, ikisine baktı, öfkesi yavaşça bir kabullenmeye dönüşürken. "Peki ya Delta? Onlar bunu nasıl karşılayacak?"
+Mektup kibar yazılmıştı. Hegemonya'yla kurulan yeni ilişkinin Delta ortaklığını zayıflatmaması umuluyor, aksi durumda Can Macunu tedarikinin yeniden değerlendirilebileceği belirtiliyordu.
 
-Bu soru, Zaleena'nın da kendi kendine sorduğu bir soruydu — ve cevabını henüz bilmiyordu.
+Sorin son satırı ikinci kez okudu. "Bunu keserlerse ağır yaralıları kaybederiz."
 
----
+Zaleena elçiye dönüp fiyatı sordu. Adam, mevcut anlaşmanın iki katını söyledi.
 
-Cevap, üç gün sonra geldi — bir Delta gemisi, resmi bir elçiyle, Yamalı Liman'a demirledi.
+"Öderiz," dedi Zaleena. "Üç aylık miktarı piyasa fiyatından satın alacağız. Ayrıcalık istemiyoruz."
 
-Elçi, Leydi Amara'nın kendi imzasını taşıyan bir mektup getirmişti; Zaleena, onu okurken, kelimelerin altındaki soğuk uyarıyı net bir şekilde hissetti.
+Elçi beklediği cevabı alamamıştı. "Leydi Amara'nın teklifi yalnız para meselesi değildi."
 
-"'Sessiz Zaleena'ya,'" diye okudu, sesi düz, "'Hegemonya ile kurduğunuz yeni ilişkiyi, ilgiyle takip ediyoruz. Umarım, bu ilişki, Delta ile aramızdaki eski ve değerli ortaklığı zayıflatmaz. Aksi bir durumda, bazı ayrıcalıkların — özellikle, Can Macunu tedarikinin — yeniden gözden geçirilmesi gerekebilir.'"
+"Benim cevabım para meselesi. Malınızı satmak istiyorsanız fiyatı yazın. Siyaset satıyorsanız alıcınız ben değilim."
 
-Bu, açık bir tehdit değildi — ama Delta'nın diliyle yazılmış her cümle gibi, altında, net bir mesaj taşıyordu: bize bağımlısınız, unutmayın.
+Elçi gemisine döndüğünde kaptanlar hâlâ salondaydı. Zaleena, Kessel'e ilaç stokunu saymasını emretti. Sorin alternatif şifacıları çıkaracak, Draven ise ilk ticaret konvoyunun güvenliğini üstlenecekti.
 
-Sorin, mektubu okuduktan sonra, endişeyle sordu: "Can Macunu olmadan, yaralılarımızı nasıl tedavi ederiz?"
+Gece Roric'in kamarasına indi. Eski kral mektubu okudu ve kısa bir kahkaha attı.
 
-"Ederiz," dedi Zaleena, sesi kesin. "Belki daha zor, belki daha pahalı — ama Delta'nın bize muhtaç olduğu kadar, biz de onlara muhtaç değiliz artık, Sorin. Roric'in zamanında öyleydi. Benim zamanımda, değişiyor."
+"Seni bağımlılığınla korkutmuşlar."
 
----
+"Haklı oldukları için işe yarayacağını sandılar."
 
-O akşam, Roric'in kamarasında, Zaleena, bu yeni gerilimi ona anlattı — artık, danışmanı olarak, düzenli bir alışkanlık hâline gelmişti bu.
+"Haklı değiller mi?"
 
-"Delta, seni köşeye sıkıştırmaya çalışıyor," dedi Roric, dikkatle dinledikten sonra. "Ama akıllıca bir tehdit değil bu — çünkü sana, tam da kaçınmak istediğin şeyi hatırlatıyor: onlara bağımlılığını. Bu, bazen, insanı daha bağımsız olmaya iter, daha itaatkâr değil."
+Zaleena cevap vermeden önce duvardaki eski deniz haritasını inceledi. Delta limanları kırmızı mürekkeple işaretlenmişti. Kırmızı noktaların arasında Hegemonya kıyıları ve Mirasçıların kullandığı bilinen küçük iskeleler vardı.
 
-"Aynı benim düşündüğüm gibi." Zaleena, pencereden dışarı, limanın ışıklarına baktı. "Belki de, zamanı geldi — kendi şifa bilgimizi geliştirmenin. Delta'ya tamamen bağımlı olmayan bir yol bulmanın."
+"Bugün öyleyiz," dedi. "Yarın da öyle kalmak zorunda değiliz."
 
-"Nasıl?"
+Roric, haritadan iki olası rota gösterdi. Zaleena ikisini de kopyaladı. Yukarı çıktığında ilk emri ilaç stokuna değil, limanın boş duran taş deposuna verdi.
 
-"Bilmiyorum henüz." Zaleena'nın sesinde, ilk kez o gece, gerçek bir kararlılık vardı. "Ama Karia'nın kraliyetinde bir Mirasçı bağlantısı olduğunu duydum — eski bilgiye erişimi olan bir topluluk. Belki, bir gün, onlarla da konuşmanın bir yolunu buluruz."
-
-Roric, ona uzun bir süre baktı, gözlerinde bir hayranlık vardı. "Sen, gerçekten, bu limanı, hayal ettiğimden çok daha büyük bir şeye dönüştürüyorsun, Zaleena."
-
-Zaleena, gülümsedi, ama gözleri hâlâ düşünceliydi. Bir ittifak kurmuştu, evet — ama her ittifak, yeni bir denge, yeni bir tehdit, yeni bir hesap getiriyordu beraberinde. Ve Kaos Mevsimi, hâlâ, denizin derinliklerinde, sabırla, kendi zamanını bekliyordu.
+Bir ay içinde orası şifahane olacaktı.

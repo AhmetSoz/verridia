@@ -1,50 +1,40 @@
 # Bölüm 32 — Kendi Güvertende
 *(ZALEENA)*
 
-Karia'nın uyarısı, kısa ama net geldi: *Delta, Konsey'imde bir kulak buldu. Kendi çevrende, benzer bir sızıntı olup olmadığını kontrol et.*
+Karia'nın uyarısı elçiyle geldi. Zaleena aynı akşam Kessel'i çağırdı.
 
-Zaleena, bu mesajı, uzun bir süre okudu, sonra, Kessel'i çağırdı.
+"Draven'ı izle. Kiminle konuştuğunu bilmek istiyorum."
 
-"Draven'ı, dikkatlice izlemeni istiyorum," dedi Zaleena, sesi düşük. "Açıkça değil — sadece, kimlerle konuştuğunu, nereye gittiğini."
+"İttifaka karşı çıkması onu hain yapmaz."
 
-Kessel'in kaşları çatıldı. "Şüphen mi var?"
+"Bu yüzden izleyeceksin, tutuklamayacaksın."
 
-"Şüphem var." Zaleena, pencereye döndü, limana baktı. "Draven, ittifaka her zaman karşı çıktı — bu, normal, kendi görüşü olabilir. Ama son zamanlarda, itirazları, tuhaf bir şekilde, hep, Amara'nın tehditleriyle aynı zamana denk geliyor. Sanki, önceden haber alıyormuş gibi."
+Kessel bir hafta sonra döndü. Draven ayda iki gece küçük tekneyle doğu koyuna gidiyor, Delta kervanıyla buluşuyordu. Son görüşmede bir kese almıştı.
 
----
+Zaleena kanıtı sınamak için ona sahte bir hazırlık anlattı. Hegemonya'dan dört savaş gemisi alacaklarını, teslimatın güney geçidinden yapılacağını söyledi. Bilgi odada yalnız ikisinin arasındaydı.
 
-Bir hafta sonra, Kessel'in raporu geldi — beklenenden daha ağır.
+"Buna karşıyım," dedi Draven.
 
-Kessel'in sesi düşüktü. "Draven, geceleri, kimseye söylemeden, küçük bir tekneyle, şehir dışına çıkıyor. İzledim. Bir Delta kervanıyla buluşuyor — düzenli olarak, ayda iki kez."
+"Şimdilik karşı çıkma. Fiyat düşmeden duyulmasını istemiyorum."
 
-Zaleena'nın içi, soğuk bir öfkeyle doldu. "Ne konuştuklarını duydun mu?"
+Draven başını salladı. Kendi kamarasına dönmedi; gece olmadan limandan çıktı.
 
-"Hayır, çok uzaktaydım. Ama bir şey gördüm — Draven, her buluşmadan sonra, elinde küçük bir kese altınla dönüyor."
+Aynı gün Arven Eski-Kent'ten döndü. Mirasçıların mühürlü cevabı sınırlı anlaşmayı kabul ediyordu. Onlar şifa yöntemleri ve eski simya notları verecek, Yamalı Liman Enkaz bölgesinin haritalarını paylaşacaktı. İlk heyet iki ay içinde gelecekti.
 
----
+Zaleena metni iki kez okudu. Delta olmadan açılan ilk düzenli bilgi hattı buydu.
 
-Roric, bu haberi duyduğunda, yorgun bir öfkeyle başını salladı. "Draven'ı, hep, hırslı ama sadık sandım. Yanılmışım, görünüşe göre."
+"Lyra güvenilir mi?" diye sordu.
 
-"Belki de," dedi Zaleena, "ikisi de doğru. Hırslı, ve satılabilir. Delta, böyle insanları, çok iyi bulur — kendi hırsının, sadakatinden daha güçlü olduğu insanları."
+"Söylediğini kayda geçiriyor," dedi Arven. "Söylemediğini de saklamıyor. Benim için yeterliydi."
 
-"Ne yapacaksın?"
+Üç gün sonra Amara'nın adamları güney geçidindeki boş demir yerlerini kiralamaya başladı. Savaş gemilerini gözlemek için depo ve gözcü evi tutmuşlardı.
 
-Zaleena, uzun bir süre düşündü. "Karia'nın yaptığı gibi — hemen ifşa etmeyeceğim. Önce, Draven'a, yanlış bir bilgi vereceğim, küçük ve kontrollü. Eğer bu bilgi, Amara'nın davranışlarında yankılanırsa, kesin kanıtımız olur. Ve o zaman, Draven'ı, sadece bir hain olarak değil — Delta'ya karşı kullanabileceğimiz bir araç olarak da düşünebiliriz."
+Kessel haberi getirince Zaleena yalnız bir soru sordu. "Draven dışında kim biliyordu?"
 
----
+"Kimse."
 
-Aynı hafta, ikinci bir haber geldi — bu kez, umut verici bir haber: Sorin, Eski-Kent'ten, Mirasçılar'ın resmi cevabıyla döndü.
+İhanet doğrulanmıştı.
 
-Sorin, mektubu Zaleena'ya uzattı, yüzünde geniş bir gülümsemeyle. "Kabul ettiler. Sınırlı bir bilgi/ticaret anlaşması — Delta'dan bağımsız bir alkimi bilgisi kanalı, karşılığında, bizim deniz haritalarımız ve Enkaz bölgesi hakkındaki bilgimiz."
+Zaleena Draven'ın adını liman görev çizelgesinden silmedi. Onu aynı masaya çağırmaya devam edecekti. Karia'nın yaptığı gibi hattın nereye kadar uzandığını görmek istiyordu.
 
-Zaleena, mektubu, dikkatle okudu — resmi, temkinli bir dil, ama altında, gerçek bir ilgi vardı.
-
-"Bu," dedi Zaleena, sesi, ilk kez günler sonra, gerçek bir umutla doluydu, "Delta'nın gölgesinden çıkmamız için, attığımız ilk gerçek adım. Küçük bir adım — ama bir adım."
-
----
-
-O akşam, tek başına, kamarasında otururken, Zaleena, kendi kendine, uzun bir süre düşündü — Draven'ın ihaneti, Delta'nın büyüyen gölgesi, ve şimdi, küçük ama gerçek bir umut ışığı, Eski-Kent'ten gelen.
-
-*Her adımda,* diye düşündü, *bir ihanet, bir umutla dengeleniyor gibi. Belki de, bu, liderliğin gerçek doğası — hiçbir zafer, saf değil; hiçbir kayıp, tam değil.*
-
-Sorin'e döndü, sesi kararlı. "Draven'a, o yanlış bilgiyi ver. Yarın. Ve sonra, göreceğiz — gerçekten, kimin oyununun bir parçası olduğumuzu."
+Arven'in getirdiği anlaşmayı ise ayrı bir kasaya koydu. Aynı gün kendi güvertesinde bir hain ve uzağında yeni bir ortak bulmuştu. İkisini birbirine karıştırmadan yönetmesi gerekiyordu.

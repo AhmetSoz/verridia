@@ -1,36 +1,16 @@
-# Bölüm 7 — Dördüncü Bayrak
-*(KARİA)*
+# Bölüm 7 — Beşinci Mühür Değil
+*(KARIA)*
 
-Temujin'in mektubu, "Üç Bayrak İttifakı"nın kuruluşunu anlattığında, Karia, son cümleyi, defalarca okudu — *belki, bir gün, bu, dört bayrağa, hatta, daha fazlasına dönüşür.*
+Bozkır sözleşmesi Metheris'e ulaştığında Faelan, Hegemonya'nın da imza vermesini önerdi. Karia metni baştan sona okudu ve reddetti.
 
-"Bunu, nasıl okumalıyım?" diye sordu Karia, Faelan'a, düşünceli.
+"Bu dört topluluğun sınır usulü. Biz o sınırın parçası değiliz. Beşinci mühür olursak yetkimiz olmayan masaya otururuz."
 
-"Belki," dedi Faelan, dikkatle, "bir davet olarak. Hegemonya'nın, bu ittifaka, bir şekilde, dahil olması, ihtimali."
+Bunun yerine dış iş birliği protokolü hazırladı. Hegemonya, ortak soruşturmalara arşiv erişimi sağlayacak; korunmuş tanıklara geçiş belgesi verecek ve sivil kriz protokolünü bozkır koordinasyon masasıyla bağlayacaktı. Askerî yardım, birlik geçişi ve silah ticareti kapsam dışıydı.
 
----
+Bilgeler Meclisi metindeki "karşılıklı tanıma" ifadesine itiraz etti. Korgan'ın devleti, Sungur konseyi, Temürçi kurulu ve Kuru Dere aynı hukuk biçimine sahip değildi. Toma daha açık bir cümle yazdı: Her taraf ötekinin kendi temsilcisini kendi usulüyle seçtiğini kabul edecekti.
 
-Bu düşünce, Karia'yı, uzun bir süre, meşgul etti. "Hegemonya, bir bozkır ittifakına, tam olarak, nasıl katılabilir? Farklı bir kültür, farklı bir yönetim."
+Protokol altı aylık denemeye bağlandı. Hegemonya Konseyi, bozkırdaki dört tarafın ayrı onayları olmadan metni yürürlüğe koymayacaktı. İlk gelen cevap Elara'dandı; iki maddede değişiklik istedi. Korgan arşiv erişiminin karşılıklı olmasını şart koştu. Sungur konseyi tanık geçişinde kendi gözcüsünü istedi. Kuru Dere kurulu ücretleri tartıştı.
 
-"Belki," dedi Sör Kaelan, "tam üyelik değil — ama resmi bir 'dostluk anlaşması.' Ticaret, karşılıklı savunma, ama kendi bağımsızlığımızı, koruyarak."
+Müzakere bir ay sürdü. Karia bunu gecikme saymadı. Hızlı kabul, tarafların metni okumadığını düşündürürdü.
 
-Karia, bu fikri, dikkatle değerlendirdi, sonra, kararını verdi. "Bunu, önereceğim. Temujin'e, ve dolaylı olarak, Korgan ve Elara'ya."
-
----
-
-Mesaj, dikkatle hazırlandı: *Üç Bayrak İttifakı'nın kuruluşunu, büyük bir gururla kutluyorum. Hegemonya, bu ittifaka, resmi bir dostluk anlaşmasıyla, katılmak isteyebilir — tam üyelik değil, ama gerçek bir ortaklık. Düşünün, ve bana, cevabınızı bildirin.*
-
-Bu teklif, üç lider arasında, hızla, olumlu bir karşılık buldu — ve birkaç hafta içinde, resmi bir "Dostluk Protokolü," Hegemonya ile Üç Bayrak İttifakı arasında, imzalandı.
-
----
-
-Elowen, bu gelişmeyi, tarihe, büyük bir titizlikle kaydetti. "Bu, gerçekten, kıtanın, hiç görmediği bir şey, Karia — dört farklı güç, dört farklı kültür, ortak bir gelecek için, birlikte hareket ediyor."
-
-"Ve belki," dedi Karia, "bir gün, Zaleena'nın Yamalı Liman'ı da, resmi olarak katılır. Belki, gerçekten, hepimiz, bir gün, tek bir büyük ittifakın, parçası oluruz."
-
----
-
-O akşam, Karia, kendi kendine, bütün bu gelişmeleri, derin bir gururla düşündü — bir yıl önce, sadece, kendi krallığının, güvenliğini düşünen bir kraliçe, şimdi, kıtanın, tarihini, şekillendiren bir ağın, merkezinde duruyordu.
-
-Faelan, o akşam, son bir gözlem paylaştı. "Bu, senin mirasın olacak, Majesteleri — taht değil, bu ağ. Ve bu, çok daha kalıcı bir miras."
-
-Karia, bu söze, sessizce, ama derin bir memnuniyetle, başını salladı.
+Son nüshada beş ayrı imza vardı; fakat Hegemonya bozkır sözleşmesinin üyesi olmadı. Dışarıdan bağlanan bir ortaktı. Karia'nın katkısı ağı büyütmek değil, iki farklı yapının birbirini yutmadan konuşacağı bir kapı açmaktı.

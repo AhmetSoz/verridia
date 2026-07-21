@@ -1,42 +1,22 @@
 # Bölüm 9 — Görmeyen Göz
 *(TOGAN)*
 
-Bahar geldiğinde, Sube'nin ağı, rahatsız edici bir haber getirdi — Malakor'un adamlarından biri, Sazlık Taht'ta, dikkatlice, Kael'in son günlerini araştırıyordu.
+Baharın ilk kervanıyla Sube'den bir uyarı geldi. Sazlık Taht'ta iki kişi Kael'in son yolunu soruyor, uğradığı hanlarla konuştuğu ulakları tek tek çıkarıyordu. İkisinden biri Malakor'un eski tahsildarlarına ait bakır işareti taşıyordu.
 
-Sube'nin sesi endişeliydi. "Kiminle konuştuğunu, nereye gittiğini, soruyorlar. Ve bir isim, bu sorgulamalarda, geçiyormuş — bizimki."
+Bu, Malakor'un emir verdiğini kanıtlamıyordu. Yine de Kuru Dere nöbetleri iki katına çıktı.
 
-Togan'ın içi, soğudu. "Malakor, Kael'in, bize, bir şey verdiğini biliyor mu, yani?"
+Togan dosyaların saklandığı yerleri değiştirmeyi önerdi. Temujin karşı çıktı. "Her korktuğumuzda mühürleri oynatırsak iz bırakırız."
 
----
+Eski-Kent yazıcısı daha güvenli bir çözüm getirdi. Üç nüshanın ilk ve son satırları, sayfa sayıları ve mühür izleri açık bir kayıt ilanına çevrilecekti. Belgelerin içeriği yayımlanmayacak, saklandıkları yerler açıklanmayacaktı. Böylece bir nüsha yok edilse bile hangisinin eksildiği ve ötekilerin onunla aynı olduğu bilinecekti.
 
-"Henüz kesin değil," dedi Sube, "ama şüpheleniyor gibi görünüyor. Ve Malakor, biliyorsun — sabırlı, ama amansız bir adam."
+Togan ilanı Sazlık Taht'a götürecek ulak kafilesine katıldı. Yolda saldırı olmadı. Hanın duyuru tahtasına asılan metin yalnız Bozan soruşturması için bağımsız kayıt bulunduğunu söylüyordu. Kael'in adı, kaynak zincirindeki tanık olarak geçiyordu; kahraman ya da suçlu ilan edilmiyordu.
 
-Temujin, bu haberi, ciddiyetle karşıladı. "Dosyanın kopyalarını, dağıttığımıza, şükrediyorum şimdi. Ama bu, aynı zamanda, hepimizi — Karia'yı, Elara'yı — tehlikeye atıyor olabilir."
+İkinci gece bir adam duyuruyu sökmeye çalıştı. Nöbetçiler onu yakaladı. Adamın üzerinde Malakor'un işareti yoktu; hancı, kâğıdın müşterileri korkutacağını söyleyip para vermişti. Togan, şüpheyi kanıt sanmanın ne kadar kolay olduğunu o anda gördü.
 
-Togan, uzun bir süre, düşündü. "Belki, saldırıyı beklemek yerine, kendi hamlemizi yapmalıyız."
+Bir hafta sonra Kael'i soran iki kişi kasabadan ayrıldı. Sube bunun geri çekilme mi, yön değiştirme mi olduğunu bilmiyordu.
 
----
+"En azından artık belgeyi yok etmek için kimi öldüreceklerini bilmiyorlar," dedi Batu.
 
-"Ne düşünüyorsun?" diye sordu Kaya.
+Togan rahatlamadı. "Biz de onların kimi aradığını bilmiyoruz."
 
-"Malakor'a," dedi Togan, yavaşça, "dolaylı bir mesaj gönderebiliriz — dosyanın, artık, tek bir yerde olmadığını, birden fazla güvenilir elde, dağıtılmış olduğunu bildiren bir mesaj. Eğer, bizi susturmaya çalışırsa, bilgi, zaten, açığa çıkar. Bu, onu, caydırabilir."
-
-Temujin, bu stratejiyi, dikkatle değerlendirdi. "Akıllıca. Ama riskli — eğer, Malakor, bunu, bir blöf olarak görürse..."
-
-Togan'ın sesi kararlıydı. "Görmeyecek. Çünkü, gerçek. Ve gerçekler, her zaman, en iyi blöflerden daha güçlüdür."
-
----
-
-Mesaj, Sube'nin ağı aracılığıyla, dikkatle, Malakor'a ulaştırılacak şekilde tasarlandı — hiçbir doğrudan tehdit değil, sadece, soğuk, hesaplı bir gerçek: *Bozan dosyası, artık, üç farklı elde, üç farklı krallıkta. Bir tanesine dokunursanız, hepsi, aynı anda, açığa çıkar.*
-
-Haftalar geçti, hiçbir doğrudan cevap gelmedi — ama Sube'nin ağı, Malakor'un adamlarının, sorgulamalarını, yavaşça durdurduğunu, rapor etti.
-
----
-
-Batu'nun sesi rahatlamıştı. "İşe yaradı, görünüşe göre."
-
-Temujin'in sesi temkinliydi. "Şimdilik. Malakor, sabırlı bir adam — belki, sadece, farklı bir yol arıyordur."
-
-Togan, bu belirsizliği, uzun bir süre düşündü, sonra, kendi kendine, sessizce karar verdi: bu tehdit, tamamen geçmemişti — sadece, ertelenmişti. Ve bir gün, muhtemelen, Malakor'un gölgesi, yeniden, hepsinin hayatına, geri dönecekti.
-
-"Hazır olmalıyız," dedi Togan, sonunda, yüksek sesle. "Bu, bitmiş bir mesele değil — sadece, şimdilik, sessiz bir mesele."
+Görmeyen göz iki tarafta da vardı. Aradaki farkı, tuttukları kayıt ve bilmedikleri yerde durabilme iradesi belirleyecekti.

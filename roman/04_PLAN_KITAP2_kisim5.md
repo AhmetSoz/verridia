@@ -1,4 +1,6 @@
 # İKİNCİ KİTAP — 5. KISIM: "HAFIZANIN BEDELİ"
+
+> **Redaksiyon notu (20 Temmuz 2026):** Bu dosya tarihsel yazım planıdır. Nihai bölüm kanonu doğrudan `kitap2_kisim1/` dosyalarında ve `../kulliyat/23_guncel_kanon_karti.md` içinde yer alır; aşağıdaki eski özetler güncel metinle çelişirse bağlayıcı değildir.
 *(1. Kitap'ın kapanışından hemen sonra başlıyor. Kaos Mevsimi — Kızıl Hafta sonrası ilk yıl, Akıntı-Yaratıkları en aktif, dünya yaralarını sarıyor.)*
 
 ## Karakterlerin Yeni Konumu (1. Kitap sonundan devralınan)

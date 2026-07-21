@@ -1,44 +1,36 @@
 # Bölüm 44 — Enkaz Barışı
 *(ZALEENA)*
 
-Otuz günlük ateşkes, sessizce, sorunsuzca geçti — Vesna'nın gemileri, bir kez bile, sınırı ihlal etmedi.
+Otuz gün boyunca Paslı Gelgit tek bir Yamalı Liman gemisine dokunmadı. Otuz birinci sabah Vesna bir gemi ve silahsız heyetle geldi.
 
-Otuz birinci gün, Vesna, kendisi, tek bir gemiyle, yeniden geldi — bu kez, silahsız bir heyetle, resmi bir görüşme için.
+Görüşme altı saat sürdü. Balıkçılık sınırı eski fener hattından geçecek, iki taraf Akıntı yaratığı gördüğünde üç ateş yakacaktı. Ortak devriyeler ayda iki kez yapılacak, ele geçirilen yağmacılar kendi liderlerine teslim edilecekti.
 
-"Sözümü tuttum," dedi Vesna, Zaleena'nın karşısına otururken, sesi, gururlu ama alçakgönüllü. "Şimdi, gerçek bir anlaşma konuşalım mı?"
+Vesna kuzeydeki iki koy için ısrar etti. Zaleena birini verdi, diğerini ortak sığınak saydırdı.
 
-Zaleena, uzun bir süre, ona baktı, sonra, başını salladı. "Konuşalım."
+"Halkım buna hemen inanmaz," dedi Vesna. "Sizin bayrağınızı düşman diye öğrendiler."
 
----
+"Benim kaptanlarım da sizinkini görünce top dolduruyor. Önce davranış değişir. Hikâye sonra yetişir."
 
-Görüşme, saatler sürdü — sınırlar, balıkçılık hakları, ortak devriye bölgeleri, Akıntı-Yaratıkları'na karşı ortak savunma planları. Vesna, sert bir pazarlıkçıydı, ama dürüsttü — Zaleena, bu dürüstlüğü, hemen takdir etti.
+İki nüsha hazırlayıp mühürlediler. Antlaşma bir yıl geçerliydi; her üç ayda bir gözden geçirilecekti.
 
-Görüşmenin sonuna doğru, Vesna'nın sesi biraz daha temkinleşti. "Bir şey daha. Halkım, yıllardır, Yamalı Liman'a düşman olarak yetiştirildi. Bu, bir gecede değişmez. Zaman isteyeceğim, kendi halkımı, bu barışa ikna etmek için."
+Aynı akşam Draven ilk kontrollü bilgisini aldı. Karia'nın Vorlag'dan şüphelendiğini Amara'ya söyleyecek, kanıtların zayıf olduğunu ekleyecekti.
 
-"Anlıyorum," dedi Zaleena. "Ben de, kendi kaptanlarımın bazılarını, aynı şekilde ikna etmem gerekecek. Bu, ikimiz için de, sabır gerektiren bir yol."
+"Bu kısım yalan," dedi Draven.
 
----
+"Evet. Yalanı doğru ayrıntılar arasında taşıyacaksın."
 
-Draven, o akşam, ilk gerçek görevini aldı — Zaleena'nın, dikkatle hazırladığı bir bilgiyi, Amara'ya taşıyacaktı: Karia'nın, Vorlag'ın ihanetini artık bildiğini, ama henüz harekete geçmediğini.
+"Amara beni sınarsa?"
 
-"Bu bilgi, gerçek," dedi Zaleena, Draven'a, son talimatları verirken. "Ama zamanlaması, benim seçimim. Amara, bunu öğrendiğinde, Sarris'e karşı, kendi hesaplarını yapmaya başlayacak — tıpkı Karia'nın planladığı gibi."
+"Bildiğin kadarını söyle. Bilmediğin şeyi uydurma."
 
-Draven, başını salladı, sesi, hâlâ biraz gergin ama artık, gerçek bir kararlılıkla. "Anlaşıldı, Kraliçem. Bu sefer, doğru tarafta duracağım."
+Draven giderken Vesna'nın gemisi hâlâ rıhtımdaydı. Zaleena aynı gün bir düşmanla antlaşma imzalamış, bir haini düşman hattına geri yollamıştı. İkisine de güvenmiyordu. İkisinden de ölçülebilir bir davranış istemişti.
 
-"Umarım öyle olur, Draven. Senin için de, benim için de."
+Roric antlaşma nüshasını okudu. "Bir yıl önce Paslı Gelgit'i batırmak istiyordun."
 
----
+"Bir yıl önce başlarında Vesna yoktu. Bizim de ortak devriye için gemimiz yoktu."
 
-Draven ayrıldıktan sonra, Roric, Zaleena'nın yanına oturdu, yüzünde, yorgun ama gerçek bir gurur vardı.
+"Sen değiştin."
 
-Roric, yavaşça başını salladı. "Paslı Gelgit'le barış, Delta'ya karşı bir plan, çevrilmiş bir hain. Bir yılda, bu kadar çok şey başardın, Zaleena. Eski kaptanlığından, bugüne, inanılmaz bir yol katettin."
+"Koşullar da."
 
-"Yalnız değildim," dedi Zaleena, dürüstçe. "Sen, Kessel, Sorin, hatta Karia — hepiniz, bu yolun bir parçasıydınız."
-
-"Belki." Roric'in gözleri, sıcak bir şefkatle parladı. "Ama yön, hep, senin seçimindi, Zaleena. Ve bu yön, iyi bir yön."
-
----
-
-O gece, tek başına, kamarasında otururken, Zaleena, kendi kendine, bir zamanlar, sadece kendi hayatta kalmasını düşünen bir kaçakçı olduğunu hatırladı — ve şimdi, bir barışı imzalıyor, bir krallığı yönetiyor, bir kıtanın gizli savaşında, bir taraf tutuyordu.
-
-*Değişen bir dünyaydı bu,* diye düşündü, masasındaki iki mektubu — Vesna'nınkini ve Sorin'inkini — yan yana dizerken. *Ve belki de, ilk kez, bu değişimin yönünü, kendi ellerimle şekillendirebiliyorum.*
+Zaleena anlaşmayı kaptanlara ertesi sabah açıklayacaktı. Önce devriye bölgelerini gösteren haritayı duvara astı. Barış, konuşmadan önce hangi sularda geçerli olduğunu bilmeliydi.

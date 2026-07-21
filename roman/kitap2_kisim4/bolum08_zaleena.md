@@ -1,44 +1,24 @@
-# Bölüm 8 — Eski-Kent
+# Bölüm 8 — Eski-Kent'in Kayıtları
 *(ZALEENA)*
 
-Eski-Kent'in kuleleri, ufukta belirdiğinde, Zaleena, kendi kendine, bu anın, ne kadar uzun süredir, dolaylı yollardan, hayatına girdiğini düşündü — Serel'in mektupları, Sorin'in raporları, ve şimdi, sonunda, gerçek taşlar, gerçek insanlar.
+Eski-Kent'in kuleleri öğleden sonra göründü. Zaleena önce surların yüksekliğini değil, önlerindeki bostanları fark etti. Eski taşların dibinde yeni sulama kanalları açılmıştı.
 
-Yaşlı Ozan, onları, kapıda, kendi eliyle karşıladı — kör gözleri, garip bir şekilde, her ikisini de, doğrudan görüyormuş gibi hissettiriyordu.
+Ozan onları kapıda karşıladı. Körlüğü yüzünden kimseye dönmekte gecikmiyor, ayak sesinden konuşanı buluyordu. Resmî selamlaşma biter bitmez heyetleri kütüphaneye değil, konuk kayıt masasının önüne götürdü.
 
-Ozan, derin bir saygıyla eğildi. "Kraliçeler. Uzun bir yoldan geldiniz. Hoş geldiniz, Mirasçılar'ın evine."
+"Silah ve armağan dökümünüz Kuru Dere'ye buradan gönderilecek," dedi. "Yanlış anlaşılmayı yoldan önce varmış oluruz."
 
----
+Zaleena bu tedbiri beğendi. Kessel sandıkları açtırdı; yazıcılar hediyeleri, ilaçları ve muhafızların silahlarını ayrı ayrı kaydetti.
 
-Lyra, onları, kütüphaneye götürürken, Zaleena, merakını, sonunda, dile getirdi. "Togan'ı, anlatır mısınız bize? Uzun zamandır, sadece, mektuplarda, isim olarak biliyoruz onu."
+Akşam Lyra, Genç Kurtlar hakkında hazırladığı açık raporu getirdi. Togan'ın Sed ziyaretleri için uyguladığı doksan günlük sınır, önce ve sonra yapılan beş isim sınaması, bir saatlik süre ve bellek kaydı raporda yer alıyordu. Karia aynı paragrafı iki kez okudu.
 
-Lyra, bu soruya, sıcak bir gülümsemeyle karşılık verdi. "Togan, karmaşık bir adam — yasla başladı, öfkeyle devam etti, ve şimdi... şimdi, sanırım, bir tür huzur buldu, ama kolay kazanılmamış bir huzur."
+"Kendi gücüne kural koymayı kabul etmiş," dedi.
 
-Ozan, dikkatle ekledi. "Kanının sırrı, onun hikayesinin, sadece bir parçası. Asıl hikaye, o sırla, nasıl yaşamayı seçtiği."
+"Mecbur kaldı," diye karşılık verdi Lyra. "İlk bedeli kuralsızken ödedi."
 
----
+Zaleena, Togan'ı öven bir hikâye değil, son ziyaretin kayıtlarını istedi. Lyra kişisel notları çıkardı; yalnızca tarih, süre ve sınama sonuçlarını gösterdi. Beş adın hepsi ziyaret öncesinde ve sonrasında doğru söylenmişti. Baş ağrısı üçüncü gün bitmişti.
 
-Karia, bu anlatıya, derin bir ilgiyle katıldı. "Ve Temujin? İkisi, nasıl, bu kadar yakın dostlar oldu?"
+Temujin içinse nüfus ve ticaret defterlerini incelediler. Yeni gelenlerin açık kaydı, silahlı sayısının antlaşma sınırının altında tutulması ve sınır anlaşmazlıklarının üç ayrı mühürle kapatılması Zaleena'ya bir liderin karakterinden daha çok şey anlatıyordu.
 
-"Kader, garip yollarla örer," dedi Lyra, gülümseyerek. "Bir Azgut ve bir Sungur evlatlığı, düşman olması beklenirken, birbirlerinde, kendi yansımalarını buldular. İkisi de, kendi klanlarının, beklediği yoldan, farklı bir yol seçti."
+Ozan yemekte Togan'ın gençliğinden söz etmek isteyen Elowen'i nazikçe durdurdu. "Başkasının acısı konuk eğlendirmez," dedi. "Sorularınızı kendisine sorarsınız; cevap vermek isterse anlatır."
 
-Zaleena, bu sözlere, kendi kendine düşündü: belki, bu, hepsinin ortak noktasıydı — kendi beklenen yollarından sapıp, kendi yollarını çizen insanlar.
-
----
-
-O akşam, ağırlama yemeğinde, Ozan, beklenmedik bir hediye sundu — Togan'ın, yıllar önce, ilk günlerinde yazdığı bir günlük sayfası, dikkatle saklanmış.
-
-Ozan, sayfayı, Karia'ya uzattı. "Bunu, size, göstermek istedim. Onun, kim olduğunu, benim anlatımımdan daha iyi, kendi kelimeleri anlatır."
-
-Karia, sayfayı, dikkatle okudu — genç, yaralı ama kararlı bir sesin, kendi yasını, kendi öfkesini, kendi umudunu, ham bir dürüstlükle anlattığı sözler.
-
-Sayfayı, saygıyla geri verirken, sesi yumuşadı. "Güçlü bir adam."
-
----
-
-Zaleena, o gece, kendi odasında, Kessel'le, bu günün izlenimlerini paylaşırken, garip bir heyecan hissetti.
-
-"Üç hafta sonra," dedi Zaleena, "onunla, gerçekten tanışacağız. Ve Temujin'le."
-
-"Sabırsızlanıyor musun?" diye sordu Kessel.
-
-"Çok," dedi Zaleena, dürüstçe. "Sanki, uzun bir kitabın, sonunda, son sayfasına yaklaşıyormuşum gibi hissediyorum — ama aynı zamanda, bu, sadece, yeni bir bölümün başlangıcı."
+Zaleena, Eski-Kent'ten beklediği efsaneyi bulamadı. Daha yararlı bir şey buldu: insanların geçmişi saklamadan, mahremiyeti de çiğnemeden tutabildiği kayıtlar.

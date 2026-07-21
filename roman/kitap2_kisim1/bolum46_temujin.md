@@ -1,54 +1,46 @@
 # Bölüm 46 — Ateşin Etrafında
 *(TEMUJİN)*
 
-Çağrı, gece yarısı geldi — Korgan'ın kendi ateşine, sadece birkaç seçilmiş komutanla, acil bir toplantı.
+Gece yarısı Korgan'ın ateşine çağrıldığında Batu dizlerinin üstündeydi. Elleri bağlı, ağzının kenarı kanlıydı.
 
-Temujin, ateşe yaklaştığında, havadaki gerginliği, hemen hissetti — Korgan'ın yüzü, taş gibi sertti, ve Batu, zaten oradaydı, iki muhafız arasında, elleri bağlı.
+Han, Temürçilerle yapılmış yazışmaları gösterdi. Mektuplar gerçekti; gönderen kişi yanlış yazılmıştı.
 
-"Ne oluyor?" diye sordu Temujin, sesini sakin tutmaya çalışarak, ama içi, aniden, soğuk bir dehşetle doldu.
+"Batu düşmanla anlaşmış," dedi Korgan. "Cezasını sen vereceksin."
 
-"İhanet oluyor," dedi Korgan, sesi, ateşin çıtırtısı üzerinden, keskin bir şekilde yükseldi. "Batu, Temürçiler'le gizli yazışmalar yapmış — kanıtı var elimde. Bir tüccarın itirafı, mühürlü mektuplar. Bu adam, düşmanla anlaşmış."
+Temujin mühürde Elara'nın örsünü gördü. Korgan gerçeği bilmiyor olabilirdi. Belki de biliyor, hangisinin ötekini feda edeceğini görmek istiyordu.
 
-Temujin'in kalbi durdu. Bu, doğruydu — ama yanlış kişiye atfedilmişti. Yazışmalar, Batu'nun değil, kendisinindi; Elara'yla yaptığı gizli görüşme, bir şekilde, sızmış, ama sorumluluk, yanlış adama yüklenmişti.
+Kılıcını çekti.
 
----
+Batu yalnız onun duyacağı kadar alçak konuştu. "Yap. İkimiz birden ölürsek hiçbir şey kalmaz."
 
-"Sen," dedi Korgan, gözlerini, Temujin'e çevirerek, sesinde, buzlu bir tuzak vardı, "onu, kendi elinle cezalandıracaksın. Şimdi. Herkesin önünde. Bu, sana olan güvenimi kanıtlayacak — ya da, sana olan şüphemi doğrulayacak."
+Temujin kılıcın ucunu toprağa indirdi. "Mektupları ben yazdım."
 
-Ateşin etrafındaki komutanlar, sessizce, gerginlikle izliyordu — Temujin, bu anın, tam olarak, Yeva'nın kehanet ettiği an olduğunu anladı: iki sadakat arasında bir seçim, kendi hayatta kalması ile bir dostun hayatı arasında.
+Ateşin çevresindeki komutanlar kıpırdandı.
 
-Batu, dizlerinin üzerinde, Temujin'e baktı — gözlerinde, korku değil, garip bir kabullenme vardı, sanki, zaten, kendi kaderini kabul etmişti.
+"Kartal Burnu anlaşmaydı," dedi Temujin. "Temürçiler karakolu bıraktı. Karşılığında ana kratere saldırmadık. Binlerce Azgut ölmedi."
 
-"Yap," diye fısıldadı Batu, sesi, sadece Temujin'in duyabileceği kadar alçak. "Reddedersen, ikimiz de ölürüz. Bensiz, en azından, sen, ittifakımızı devam ettirebilirsin."
+Korgan ayağa kalktı. "Benim zaferimi sahteledin."
 
----
+"Size karakol, silah anlaşması ve yaşayan bir ordu verdim."
 
-Temujin, kılıcını, yavaşça, kınından çekti — ağırlığı, elinde, hiç bu kadar ağır hissetmemişti.
+"Bana itaatsizlik verdin."
 
-Ama tam, Batu'nun önünde durduğunda, bir şey, içinde, kırıldı — belki de, Genç Kurtlar'a verdiği söz, belki de, kendi babasının, adının bile bilinmediği bir ihanetle öldüğü gerçeği, belki de, sadece, artık, gerçek bir dostluğu, ikinci kez, kaybetmeyi reddeden bir irade.
+Korgan muhafızlara işaret etti. Orkhon aynı anda Temujin'in yanına geçti. Gölgelerden Sube ve eski Genç Kurtlardan otuz kişi çıktı. Kılıç çekmediler; yalnız iki adamın çevresinde durdular.
 
-"Hayır," dedi Temujin, kılıcını, aşağı indirerek, sesi, ateşin çıtırtısını bile bastıracak kadar net çıktı.
+Han'ın muhafızları sayıca üstündü. Çatışma başlarsa Temujin'in tarafı ezilecekti, fakat ilk ölenler Korgan'ın en iyi savaşçıları olurdu. Ateşin başındaki diğer komutanlar da karar vermek zorunda kalacaktı.
 
-Sessizlik, ateşin etrafına çöktü — hiç kimse, bu kelimeyi, beklemiyordu.
+Korgan bunu gördü.
 
-"Ne dedin sen?" Korgan'ın sesi, tehlikeli bir şekilde alçaldı.
+"Şafağa kadar topraklarımdan çıkacaksınız," dedi. "Temujin ve Batu. Size katılan herkes adıyla hain yazılacak. Geri dönerseniz okla karşılanırsınız."
 
-"Bu suçlama, yanlış, Han'ım." Temujin, kılıcını, tamamen indirdi, gözlerini, Korgan'dan kaçırmadan. "Temürçilerle yazışan, Batu değil, benim. Ve bunu yaptım, çünkü, sizin, boş yere binlerce adamı öldürmenizi engellemek istedim — Kartal Burnu, gerçek bir zafer değildi, Han'ım. Kontrollü bir anlaşmaydı, kan dökülmeden."
+Temujin Batu'nun ipini kesti. "Orkhon ve diğerleri?"
 
----
+"Gitmek isteyen gitsin. Kalan yeminini yenilesin."
 
-Bu itiraf, ateşin etrafındaki herkesi, dehşetle dondurdu. Korgan'ın yüzü, önce, inanmazlıkla, sonra, saf bir öfkeyle değişti.
+Sube tereddüt etmeden Temujin'in arkasına geçti. Otuz kişinin hepsi onu izledi. Orkhon en son hareket etti; Korgan'a bir kez eğilip ateşin dışına çıktı.
 
-"İhanet," diye tısladı Korgan, ayağa kalkarak. "Kendi Han'ına, açık ihanet."
+Şafak sökmeden çadırlar indirildi. Temujin geride bıraktığı ordugâha son kez baktı. Burada rütbesini, askerlerini ve Azgut adını kaybetmişti.
 
-"Hayır." Temujin'in sesi, hâlâ sakindi, ama artık, geri dönüşü olmayan bir kararlılıkla doluydu. "Sadakat, Han'ım — ama halkıma, sizin gururunuzdan daha büyük bir sadakat. Binlerce Azgut, hâlâ hayatta, çünkü ben, gerçek bir katliam yerine, bir yalanı seçtim. Eğer bu, ihanetse, o zaman, evet — suçluyum. Ama pişman değilim."
+Batu atını yanına sürdü. "Beni neden seçtin?"
 
-Orkhon, sessizce, Temujin'in yanına geldi, kılıcını yarı çekerek — ve onun ardından, birkaç düzine savaşçı, gölgelerden çıkarak, Temujin'in etrafında toplandı: Sube'nin, aylardır, sessizce hazırladığı gizli ağın üyeleri.
-
-Korgan, çevresine baktı — kendi muhafızları, sayıca üstündü, ama Temujin'in etrafındaki bu ani, sessiz destek, onu, bir an, tereddüde düşürdü.
-
-"Bu gece," dedi Korgan sonunda, sesi, öfkeyle titreyerek, "burada bitmeyecek, Temujin. Ama bu gece, seni öldürmeyeceğim de — çünkü, ölü bir hain, diri bir hainden daha az kullanışlı. Sen ve Batu, ordugâhtan sürüleceksiniz. Şafağa kadar."
-
-Ateş, sessizce çıtırdadı — ve Temujin, Batu'nun ellerindeki ipleri, kendi elleriyle keserken, Yeva'nın sözlerini hatırladı: *bir şey kaybedeceksin, hangisini seçersen seç.*
-
-Bu gece, kaybettiği şey, Azgut ordusundaki yeriydi. Ama kazandığı şey — gerçek bir dostun hayatı, ve kendi vicdanının bütünlüğü — belki de, çok daha değerliydi.
+"Seni değil. Bir daha yalanın doğru adamı öldürmesine izin vermemeyi seçtim."

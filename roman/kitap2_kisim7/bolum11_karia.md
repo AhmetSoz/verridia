@@ -1,36 +1,16 @@
-# Bölüm 11 — Tarihi Bir Haber
-*(KARİA)*
+# Bölüm 11 — Mutabakata Verilen Destek
+*(KARIA)*
 
-Temujin'in mektubu, Korgan'la yapılan anlaşmayı anlattığında, Karia, bu haberi, gerçek bir hayranlıkla, iki kez okudu.
+Tuz Düzlüğü Mutabakatı'nın tam metni Metheris'e ulaştığında Karia kutlama bildirisini geri çekti. Hazırladığı ilk taslak askerî ittifaktan söz ediyordu; oysa metinde saldırmazlık, soruşturma ve karşılıklı gizli faaliyet yasağı vardı.
 
-"İnanılmaz," dedi Karia, Faelan'a, mektubu göstererek. "Yıllar süren bir düşmanlık, sonunda, bir ittifaka dönüştü."
+Yeni bildiri yalnız bu maddeleri destekledi. Hegemonya ortak arşiv heyetine davet edilmedikçe gözlemci göndermeyecek, fakat Severin dosyasındaki doğrulanmış kayıtları heyete açacaktı. Korgan ya da Temujin adına güvence vermiyordu.
 
-Faelan, bu haberi, stratejik bir gözle değerlendirdi. "Bu, kıtanın, güç dengesini, kalıcı olarak değiştirebilir, Majesteleri. Bozkır, artık, tek bir sesle değil, birleşik bir cephe olarak, hareket edebilir."
+Bilgeler Meclisi anlaşmanın ticaret etkisini tartıştı. Wren hemen yeni sözleşme yapılmasına karşı çıktı; doksan günlük süre tüccarın uzun yatırımına yetmezdi. Toma küçük ve sigortalı iki deneme kervanı önerdi. Osric, sınır güvenliği raporu paylaşılmadan askerî mal satışının durmasını istedi.
 
----
+Konsey iki sivil kervanı onayladı, silah ticaretini kapsam dışında bıraktı. Zarar halinde Hegemonya hazinesi değil, gönüllü tüccarların ortak sigorta sandığı ödeme yapacaktı.
 
-Karia, hızla, resmi bir tanıma hazırladı — Hegemonya'nın, bu yeni bozkır ittifakını, açıkça desteklediğini bildiren bir mesaj.
+Faelan, Delta'nın mutabakatı kendisine karşı cephe sayabileceğini söyledi. Karia bildiriye bir cümle daha ekledi: Soruşturma herhangi bir devlete savaş ilanı değildi; belgelerde adı geçen kişilerin cevap hakkı korunacaktı.
 
-"Bu," dedi Sör Kaelan, taslağı okurken, "cesur bir hamle, evladım. Delta, bunu, hemen, bir tehdit olarak görecek."
+Elowen metne tarihî sıfat eklemedi. Arşiv başlığı, belgenin kendi adıyla kaldı.
 
-"Biliyorum," dedi Karia, kararlı. "Ama artık, korkarak, gölgelerde saklanmanın, zamanı geçti. Doğru olanı, açıkça desteklemeliyiz."
-
----
-
-Elowen, bu tarihi anı, dikkatle, kayıt altına aldı. "Bu, gelecek nesillerin, okuyacağı bir hikaye olacak, Karia — bir kraliçenin, bir kaçakçının, bir sürgünün, ve annesinin sırrını taşıyan bir gencin, birlikte, kıtanın kaderini, değiştirdiği bir hikaye."
-
-Karia, bu düşünceye, derin bir duyguyla karşılık verdi. "Umarım, hikaye, burada bitmez. Umarım, bu, sadece, başlangıç."
-
----
-
-O hafta, Osric ve Wren, Bilgeler Meclisi'nde, bu gelişmenin, Hegemonya için, ne anlama geldiğini, dikkatle tartıştılar.
-
-"Belki," dedi Wren, "bozkırla, gerçek bir ticaret ortaklığı, artık, mümkün. Onların, tahıl ihtiyaçları var; bizim, onların madenlerine, ihtiyacımız var."
-
-Karia, bu pratik düşünceye, gururla karşılık verdi. "Tam olarak, böyle düşünmenizi istiyorum — büyük olaylar, her zaman, küçük, somut fırsatlar da getirir."
-
----
-
-O akşam, Zaleena'ya, coşkulu bir mektup yazdı Karia: *Başardılar! Korgan ve Temujin, gerçekten, ittifak kurdu. Bu, hayal bile edemeyeceğimiz bir an. Belki, bir gün, hepimiz — sen, ben, Temujin, Togan, hatta Korgan — aynı masada, kıtanın geleceğini, birlikte planlarız.*
-
-Karia, mektubu mühürlerken, kendi kendine, düşündü: bir yıl önce, bu, sadece, uzak bir hayaldi. Şimdi, adım adım, gerçeğe dönüşüyordu.
+Karia son mührü bastığında Temujin'e ayrıca kişisel tebrik göndermedi. Onun yerine Hegemonya arşivine giriş için tarih ve iki tanık adı yolladı. Uzak destek alkıştan daha kullanışlı olmalıydı.

@@ -1,52 +1,80 @@
 # Bölüm 10 — Limanın Sınavı
 *(ZALEENA)*
 
-Saldırı, Zaleena'nın Enkaz Kraliçesi ilan edilişinden sadece beş gün sonra geldi — ve bu sefer, tek bir koyda, tek bir aileye değil, doğrudan Yamalı Liman'ın kendisine yönelikti.
+Enkaz Kraliçesi seçilişinin beşinci gecesinde dış iskele çanı üç kez vurdu.
 
-Gece yarısına yakın, dış rıhtımdaki nöbetçilerden biri, çığlık atarak alarmı verdi — sudan, karanlıkta, düzinelerce zırhlı silüet, limanın en dış iskelelerine tırmanıyordu.
+Yangın değildi. Fırtına değildi. Üç vuruş, sudan saldırı demekti.
 
-Zaleena, alarmı duyar duymaz, Deniz Hayaleti'nin güvertesine fırladı, gözleri karanlığı tararken. "Paslı Gelgit," diye mırıldandı, korkudan çok bir kesinlikle. "Sonunda geldiler."
+Zaleena güverteye çıktığında Paslı Gelgit çoktan tırmanıyordu. Zırhlı sırtlar kazıkların arasında beliriyor, uzun parmaklar ıslak tahtaya tutunuyordu. İlk nöbetçi mızrağını bir yaratığın göğsüne sapladı. Uç, kabuğun üzerinde kaydı.
 
-"Kaptan — Kraliçem," diye düzeltti Sorin, telaşla yanına gelirken, "ne yapmalıyız?"
+“Bütün çanları çalın,” dedi Zaleena. “Dış iskeleleri boşaltın. Halat köprüleri kesin.”
 
-Zaleena, bir an, hızla düşündü — bu, sıradan bir deniz canavarı saldırısı değildi; yaratıkların sürü hâlinde, koordineli bir şekilde hareket etmesi, garip bir zekâya işaret ediyordu, tıpkı ilk gördüğü koydaki gibi.
+Sorin yanına koştu. “Ateş?”
 
-"Bütün kaptanları uyandırın!" diye bağırdı Zaleena, sesi limanın her köşesine ulaşacak kadar yüksek. "Bu, bir kaptanın savaşı değil — bütün limanın savaşı! Ateş oklarını hazırlayın — bu yaratıklar suda güçlü, ama ateşten korkuyorlar mı, bilmiyoruz, ama denemeye değer!"
+“Önce denizin üstünde deneyin. Yağ fıçılarını suya dökmeyin; bezleri yakın.”
+
+Roric'in seferinden sonra hazırlattığı mangallar üç iskelede yakıldı. Tayfalar, katranlı bez sarılmış kancaları alevlendirip yaratıkların önüne attı. İlk Paslı Gelgit ateşe değince tiz bir ses çıkardı ve geriledi. Arkasındakiler de durdu.
+
+“Ateş işe yarıyor!” diye bağırdı Sorin.
+
+“Korkutuyor. Öldürmüyor.” Zaleena üçüncü iskeleye baktı. “Draven'ın hattı çökmek üzere.”
+
+Seçimde ona karşı oy veren sekiz kaptanın gemileri dış taraftaydı. Yaratıkların en büyük kümesi de oraya yüklenmişti.
+
+Zaleena Deniz Hayaleti'nin baş halatını kestirdi. Akıntı gemiyi yana çevirince bordadaki iki küçük top doğrudan iskele ağzını gördü.
+
+“Saçma doldurun.”
+
+“Bizimkiler de orada,” dedi topçu.
+
+“Draven kırmızı feneri kaldırınca ateş.”
+
+Zaleena bir haberciyi halat köprüden gönderdi. Draven emri duyduğunda tartışmadı. Adamlarını depo duvarının arkasına çekti ve kırmızı feneri iki kez salladı.
+
+İki top aynı anda patladı. Demir parçaları ilk sıradaki kabukları kırdı. Arkadaki yaratıklar yanan kancalara takılınca iskeledeki baskı çözüldü.
+
+Draven kendi tayfasıyla karşı hücuma geçti. Düşen bir denizciyi sırtından tutup güvenli yere sürükledi. Sonra Zaleena'nın gönderdiği ateş takımına yol açtı.
+
+Çatışma şafağa kadar sürdü. Paslı Gelgit, ölülerini suya çekerek geri gitti. Hiçbiri kıyıda ceset bırakmadı.
 
 ---
 
-Çatışma, gece boyunca, kaotik ve vahşi bir şekilde sürdü. Paslı Gelgit'ler — Zaleena'nın artık verdiği isimle — zırhlı derileri sayesinde sıradan kılıç darbelerine dayanıklıydı, ama ateş oklarının etkisi, yaratıkları geri püskürtmede işe yaradı; alevlerden korkan yaratıklar, yavaş yavaş, sulara doğru çekilmeye başladı.
+Hasar sayımı gün doğarken başladı.
 
-Zaleena, kendi gemisinin güvertesinde, komuta ederken, Draven'ın da, kendi mürettebatıyla, savaşa katıldığını gördü — eski husumetler, ortak bir tehdit karşısında, bir kenara bırakılmıştı, en azından şimdilik.
+Yedi denizci ölmüş, on dokuzu yaralanmıştı. İki iskele kullanılamaz durumdaydı. Bir erzak deposunun alt katını su basmıştı. Zaleena rakamları kayıt defterine geçirirken Draven geldi. Kolundaki kesik kaba bir bezle sarılmıştı.
 
-"Kraliçem!" diye bağırdı Draven, bir ara, yanına yaklaşarak, sesi savaşın kaosunda bile bir saygı taşıyordu — belki de ilk kez. "İskele üçte bir grup mürettebat kapana kısılmış! Yardıma ihtiyaçları var!"
+“Top emrini bir nefes geç verseydin adamlarımı biçerdin,” dedi.
 
-Zaleena, hiç tereddüt etmeden, kendi adamlarından bir kısmını, Draven'ın gösterdiği yöne yönlendirdi — kendi eski rakibine, tam bir güvenle.
+“Feneri bir nefes geç kaldırsaydın da.”
 
-Saldırı, şafağa doğru, sonunda geri püskürtüldü — yaratıklar, ağır kayıplar vererek, denizin derinliklerine çekildi. Ama liman, kayıpsız kurtulmamıştı; birkaç iskele hasar görmüş, bazı denizciler kaybedilmişti.
+Draven başını salladı. “Bana güveneceğini sanmadım.”
+
+“Sana güvenmedim. Verdiğim işareti anlayacağına güvendim.”
+
+Draven bu ayrımı düşündü. Sonra kayıt defterine baktı. “Yedi ölüyü yazdın mı?”
+
+“Adlarıyla.”
+
+“Roric yalnız gemileri sayardı.”
+
+“Ben de gemileri sayacağım. Önce insanları.”
+
+Draven sağ elini uzattı. “Savunma düzenini Konsey'e getir. Sekiz oyumu söz veremem. Kendi oyumu veririm.”
+
+Zaleena elini sıktı. Bu sadakat değildi. İlk sağlam tahtaydı; üzerine basılabilirdi.
 
 ---
 
-Sabah, hasarın değerlendirilmesi sırasında, Draven, Zaleena'nın yanına geldi, yüzünde, ilk kez, gerçek bir saygı vardı.
+Öğleden sonra, geri çekilme izlerini incelemek için küçük bir tekneyle dış kazıklara çıktı. Kabuk parçalarından birini bezle aldı. Altında yosuna benzeyen ince, kırmızı lifler kıpırdıyordu.
 
-"Seni yanlış değerlendirmişim, Kraliçem," dedi, sesi samimi. "Düello olmadan lider seçmek, bana zayıflık gibi gelmişti. Ama bu gece, senin kararlılığını, senin liderliğini gördüm. Bu, kılıçla kanıtlanan bir güçten farklı, ama daha az değerli değil."
+“Delta buna bir ad koymuştur,” dedi Sorin.
 
-Zaleena, ona baktı, hafifçe gülümsedi. "Teşekkür ederim, Draven. Umarım, bundan sonra, birlikte çalışabiliriz — rakip olarak değil, aynı limanın koruyucuları olarak."
+“Ad yetmez. Neden şimdi kıyıya çıktıklarını bilmemiz gerek.”
 
-Draven, başını salladı, ve bu, Zaleena'nın liderliğinin, ilk gerçek, geniş kabul gördüğü an oldu.
+“Bize söylerler mi?”
 
----
+Zaleena lifleri kapalı bir kavanoza koydu. “Bedelini sorarlar.”
 
-Öğleden sonra, Zaleena, hasarlı rıhtımda yürürken, denizin ötesine, ufka baktı. Paslı Gelgit'lerin geri çekilmesi, bir zafer olsa da, geçici bir zaferdi sadece — bu yaratıklar, bir yerden geliyordu, ve bir sebepten çoğalıyor, güçleniyordu.
+Liman'a dönünce Delta'ya gidecek mektubu yazdı. Yardım istemedi. Numune, saldırı saati ve yaratıkların ateşe verdiği tepki karşılığında ellerindeki kayıtları talep etti. Son satıra görüşme yeri olarak tarafsız Jilet Resifleri'ni ekledi.
 
-"Bu sadece bir başlangıç," dedi kendi kendine, Sorin'in yanında durup. "Kızıl Hafta geldiğinde, bu yaratıklar, çok daha fazla ve çok daha güçlü olacak. Yamalı Liman, hazır olmalı."
-
-"Nasıl hazırlanacağız?" diye sordu Sorin.
-
-Zaleena, uzun bir süre düşündü. "Delta'yla konuşmalıyız," dedi sonunda. "Onlar, bu yaratıklar hakkında bir şeyler biliyor, biliyorum. Ve belki de, ilk kez, Yamalı Liman'ın gerçek bir müttefike ihtiyacı var — sadece bir müşteriye değil."
-
-Bu düşünce, Zaleena'nın zihninde, yeni bir plan olarak şekillenmeye başladı — ve o, ilk kez, kendi krallığının, tek başına ayakta duramayacağını, daha büyük bir ağın parçası olması gerektiğini kabul etti.
-
-Rıhtımın hasarlı iskelesinden, tamir çekiçlerinin sesi yükseliyordu hâlâ, gece yarısına rağmen.
-
-"Yakında," diye fısıldadı rüzgâra, "hepimiz, ne kadar hazır olduğumuzu öğreneceğiz."
+Yeni düzeninin ilk dış pazarlığı böyle başladı.

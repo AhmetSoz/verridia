@@ -1,52 +1,84 @@
-# Bölüm 3 — Kuzey Kapısı'nın Sahibi
-*(KARİA)*
+# Bölüm 3 — Kuzey Kapısı’nın Sahibi
+*(KARIA)*
 
-Lord Severin'in konağı, Metheris'in kuzey kanadında, diğer Gelgit Lordları'nın saraylarından daha sade ama daha soğuk bir görkeme sahipti — duvarlarda, kuzey seferlerinden getirilmiş tuhaf, anlaşılmaz nesneler sergileniyordu: kırık bir dikilitaş parçası, paslanmış bir zırh kalıntısı, ve en göze çarpanı, büyük bir haritanın üzerine iğnelerle işaretlenmiş, yıllar içinde giderek daha da yoğunlaşan bir nokta kümesi — kaybolan keşif kollarının izleri.
+Lord Aldous Severin’in konağında aile portrelerinden çok kuzey seferi kalıntısı vardı.
 
-Karia, konağa habersiz gelmişti — bu, bir nezaket ziyareti değildi, ve Severin bunu anında anlamıştı, yüzündeki ilk şaşkınlık bir temkine dönüşürken.
+Kırık bir dikilitaş parçası girişte sergileniyor, paslanmış zırh parçaları duvar nişlerini dolduruyordu. Kabul odasının en büyük duvarı haritaya ayrılmıştı. Kuzey Sefer Yolu boyunca saplanmış yüzlerce siyah iğne, kaybolan keşif kollarını gösteriyordu.
 
-"Amiral Karia," dedi, sesi kibar ama gerginlikle dolu. "Beklenmedik bir onur."
+Karia’nın habersiz gelişi Severin’i sabahlığıyla yakalamıştı. Lord yine de hizmetçileri çıkarıp kapıyı kendi eliyle kapattı.
 
-"Oturalım, Lord Severin." Karia'nın sesi resmi değildi, ama bir soru da sormuyordu — bir emirdi bu. "Konuşmamız gereken bir şey var."
+“Beklenmedik bir ziyaret, Amiral.”
 
-Severin'in gözleri bir an, konağın duvarındaki o iğnelerle dolu haritaya kaydı — belki bilinçsizce, belki de bir sığınak arar gibi. Sonra oturdu, ellerini masanın üzerinde kavuşturdu. "Dinliyorum, Amiral."
+“Öyle olması gerekiyordu.” Karia masanın karşısındaki sandalyeyi gösterdi. “Oturun.”
 
-Karia, hiçbir dolambaç yapmadan konuya girdi. "Bir kervanınız, üç hafta önce, Kuzey Sefer Yolu'na değil, doğuya, Ak-Siper'in eteklerine sapmış. İçindeki silahlar, Azgut topraklarına ulaşmış." Durdu, gözlerini Severin'in yüzüne dikti. "Bunu inkâr edecek misiniz?"
+Severin emri duydu. İtiraz etmeden oturdu.
 
-Odada uzun bir sessizlik oldu. Severin'in yüzü, bir an için bütün maskesini kaybetti — ve Karia, altında, yorgun, çaresiz bir adamı gördü; on iki yıldır aynı acıyı taşıyan bir baba.
+Karia mühürlü kopyayı masaya bıraktı. “Üç hafta önce dört arabanız Kuzey Sefer Yolu’ndan ayrıldı. Ak-Siper eteklerinde boş bulundu. Kırık sandıktan Hegemonya yapımı ok uçları çıktı; nal izleri Azgut toprağına gidiyor.”
 
-"İnkâr etmeyeceğim," dedi Severin sonunda, sesi kısık. "Sizinle oyun oynamayacak kadar yorgunum, Amiral."
+Severin’in bakışı bir kez duvardaki haritaya kaydı.
 
-"O zaman açıklayın." Karia'nın sesi sertti, ama tamamen düşmanca değildi — bir hesap sorma değil, bir cevap arayışıydı bu.
+“İnkâr edecek misiniz?”
 
-Severin, uzun bir süre sessiz kaldı, gözleri konağın duvarındaki o iğnelerle dolu haritaya kaydı yeniden. "Oğlumu on iki yıl önce kaybettim, Amiral," dedi sonunda. "Kuzey Sefer Yolu'nda, bir keşif kolunun başında. Ceset yok. Mezar yok. Sadece bir sessizlik, ki bu sessizlik her geçen yıl biraz daha ağırlaşıyor omuzlarımda."
+“Hayır.”
 
-"Bunun Azgutlar'a silah kaçırmakla ne ilgisi var?" Karia'nın sesi biraz yumuşamıştı, ama hâlâ kesindi.
+Karia bu kadar çabuk gelen cevaba hazırlıklı değildi. “Silahları kime verdiniz?”
 
-"Her şeyle ilgisi var." Severin'in gözleri, ilk kez o gün, gerçek bir ateşle parladı — çaresizliğin ateşiyle. "Eğer bozkır kanarsa, eğer Azgutlar ve Sungurlar birbirini yeterince zayıflatırsa, Hegemonya'nın Kuzey Sefer Yolu'na ayıracak kaynağı, ayıracak dikkati artar. Şu anda kaynaklarımızın çoğu, bozkır sınırını izlemeye, olası bir saldırıya hazırlanmaya gidiyor. Eğer bozkır kendi kendini yerse, o kaynaklar serbest kalır — ve ben, oğlumun cevabını arayan son seferi finanse edebilirim."
+“Aracılar isim kullanmaz.”
 
-Karia, bu itirafın ağırlığını bir süre sessizce taşıdı. Bu, beklediği bir açıklama değildi — beklediği açgözlülük, ihanet, ya da düşmanla gizli bir ittifaktı; ama karşısında bulduğu şey, çürümüş bir umutsuzluktu sadece, bir babanın yasının ürettiği çarpık bir mantık.
+“Onları siz tuttunuz.”
 
-"Bunu anlıyorum, Lord Severin," dedi sonunda, sesi yumuşamıştı ama otoritesini kaybetmemişti. "Yasınızı anlıyorum. Ama yaptığınız şey, binlerce insanın hayatını, kendi kişisel acınız için riske atmak. Azgutlar'a verdiğiniz her silah, bir gün bir Sungur'un göğsüne, ya da belki bir gün bizim askerlerimizin göğsüne saplanacak."
+“Kervan kâtibim tuttu. Ben parayı verdim.”
 
-Severin'in yüzü buruştu, ama itiraz etmedi. "Ne yapacaksınız şimdi, Amiral? Beni Konsey'e mi ifşa edeceksiniz? Ailemi mi mahvedeceksiniz?"
+“Neden?”
 
-Karia, uzun bir süre düşündü. Kaelan'ın sözleri kulaklarında çınlıyordu — korkusuna rağmen doğru olanı yapmak. Ama doğru olan neydi burada? Severin'i hemen ifşa etmek, Konsey'i bu kadar hassas bir zamanda parçalamak mıydı, yoksa bu zayıf, kırık adamı bir şekilde kontrol altına alıp, ihanetini durdurmak mıydı?
+Severin’in gözleri siyah iğnelerden birine takıldı. “Oğlumun kolu on iki yıl önce burada kayboldu.”
 
-"Şimdilik," dedi sonunda, sesi kesin, "hiçbir şey yapmayacağım — açık olarak. Ama bu son olacak, Lord Severin. Bir kervanınız daha doğuya saparsa, bir silah daha Azgut eline geçerse, elimdeki kanıtı Konsey'in önüne koyarım, ve bunun bedelini yalnız siz değil, tüm haneniz öder. Anladınız mı?"
+Karia haritadaki noktayı gördü. Kuzey yolunun bitki örtüsünden çıktığı, ölü toprakların başladığı yerdi.
 
-Severin'in omuzları hafifçe çöktü — bir tehditten çok, bir rahatlamadan gelen bir çöküş gibiydi bu. "Anladım, Amiral. Teşekkür ederim."
+“Ceset bulamadık,” dedi Severin. “Zırh bulamadık. Geri dönen tek at bile olmadı. Konsey bir yıl aradı, sonra masrafı fazla buldu.”
 
-"Bana teşekkür etmeyin." Karia ayağa kalktı, sesi yeniden sertleşmişti. "Ben sizi affetmiyorum, Lord Severin. Sadece, şu anda, Hegemonya'nın bir iç kriz kaldıracak gücü olmadığına karar veriyorum. Bu, farklı bir şey."
+“Bu, Azgutları silahlandırmanızı açıklamıyor.”
 
----
+“Bozkır birbirini tüketirse sınır birlikleri serbest kalır. Donanmanın ve ordunun kuzeye ayıracak gücü olur.” Severin parmağını iğnenin üstünde tuttu. “Bir sefer daha finanse ederim. Son bir sefer.”
 
-Konaktan çıkarken, Karia'nın zihni hızla çalışıyordu. Severin'i kontrol altına almıştı, evet — ama bu, sorunun sadece bir parçasıydı. Asıl endişesi, Vorlag ve Valerius'un ittifakıydı; ve bu ittifakın arkasında, Gelgit Vârisi meselesinin, er ya da geç, bir kriz noktasına ulaşacağı gerçeğiydi.
+Karia karşısındaki hesabı anladı. Bir adam, oğlunun mezarını bulmak için hiç tanımadığı çocuklara mezar kazdırıyordu.
 
-Sokakta yürürken, uzaktan, limana doğru bir kalabalığın toplandığını gördü — meraklı bakışlar, alçak sesle konuşan insanlar. Karia, kalabalığa yaklaştı, ve rıhtımın kenarında, bir grup denizcinin, telaşlı bir şekilde bir şeyi tartıştığını duydu.
+“Verdiğiniz okların nereye saplanacağını düşündünüz mü?”
 
-"...doğuda bir şey görülmüş, diyorlar. Yetim Kıyıları'nda. Zırhlı bir yaratık, sürü hâlinde..."
+“Her gece.”
 
-Karia, bu haberi bir an dinledi, kaşları çatıldı. Yeni bir Akıntı-Yaratığı türü, hasat mevsiminden önce görülüyorsa, bu iyi bir işaret değildi. Ama şu anda, bu, çözmesi gereken pek çok sorundan sadece biriydi.
+“Yine de gönderdiniz.”
 
-Limana döndüğünde, tersanenin çekiç sesleri hâlâ durmadan çalışıyordu — Beklenti Yılı, resmen üzerlerindeydi artık, ve Karia, kendi gemisinin, önündeki fırtınaya hazır olup olmadığından hâlâ emin değildi.
+Severin cevap vermedi.
+
+Karia raporu masadan aldı. Kanıtı Konsey’e götürürse Severin tutuklanır, hanesi koltuğunu korumak için direnir, Vorlag krizi kendi lehine kullanırdı. Hasat hazırlığı sürerken kuzey limanları bir lordsuz kalabilirdi. Suçu saklamak daha güvenliydi. Doğru değildi.
+
+“Kervan kâtibiniz bu gece görevden alınacak,” dedi. “Ticaret kayıtlarınız benim adamlarıma açılacak. Kuzey depolarınızdan tek sandık izinsiz çıkmayacak.”
+
+Severin başını kaldırdı. “Beni Konsey’e vermeyecek misiniz?”
+
+“Şimdi değil. Bir sevkiyat daha yakalarsam raporu yedi lordun önüne koyarım. O zaman sizi ben korumam.”
+
+Severin’in omuzları indi. “Teşekkür ederim.”
+
+“Bu bağışlanma değil.” Karia ayağa kalktı. “Sizi denetim altında tutuyorum. Aradaki farkı unutursanız oğlunuz için kurduğunuz son umut da biter.”
+
+Kapıya vardığında Severin arkasından seslendi. “Siz olsaydınız ne yapardınız?”
+
+Karia durdu. Kaelan’ın evinde sorduğu sorunun başka biçimiydi bu.
+
+“Oğlumu arardım,” dedi. “Başkasının oğluna silah doğrultmadan.”
+
+✦
+
+Konaktan limana inerken rıhtım girişinde kalabalık gördü. Doğudan gelen bir ticaret gemisinin tayfası, Yetim Kıyıları’nda zırhlı yaratıkların balıkçı teknelerine saldırdığını anlatıyordu.
+
+“Sürü hâlinde,” dedi tayfalardan biri. “Karaya da çıkıyorlarmış.”
+
+Karia durup geminin adını, rotasını ve haberi hangi limanda duyduklarını sordu. Adam önce şaşırdı, sonra hepsini anlattı.
+
+Karia yanındaki subaya döndü. “Kuzey Feneri kayıtlarına geçir. Aynı tarif ikinci kez gelirse kıyı devriyelerine uyarı çıkaracağız.”
+
+Tersaneden çekiç sesleri yükseliyordu. Severin’in silahları doğuya gitmiş, doğudan yeni bir yaratığın haberi gelmişti. Karia günün başında bir sorunu kapatmaya çalışmıştı; limana vardığında masasında iki sorun vardı.
+
+Adımlarını hızlandırdı.

@@ -1,56 +1,38 @@
 # Bölüm 21 — Kayıp Arayıcı
 *(TOGAN)*
 
-Meclis odası, Togan'ın daha önce girmediği bir yerdi — Mirasçılar'ın en yaşlı on iki üyesinin, ayda bir kez, kapalı kapılar ardında toplandığı, dar ve loş bir salon.
+Mirasçıların on iki kişilik meclisi ayda bir kez toplanıyordu. Togan salona oy vermek için değil, bir adı duymak için çağrıldı.
 
-Lyra, onu, kapıda karşıladı, sesi alçak. "Ozan, senin de dinlemeni istedi. Ama sessiz kal — bu, senin oy hakkın olan bir toplantı değil."
+Aras altı aydır kayıptı. Son mesajını Dişsiz Ağız denen mağara bölgesinden göndermişti. Hegemonya arayıcılarıyla Delta adamları da aynı yerde dolaşıyordu.
 
-İçeride, on iki yaşlı kâtip ve arayıcı, uzun bir masanın etrafında oturuyordu, ortalarında, büyük bir harita — kıtanın doğusu, işaretlerle, notlarla dolu.
+"Ne buldu?" diye sordu Togan.
 
-"Aras'tan hâlâ haber yok," dedi bir yaşlı kadın, sesi endişeliydi. "Altı aydır. Son bilinen konumu, Dişsiz Ağız yakınlarındaki mağaralar."
+Masanın ucundaki yaşlı kadın kaşlarını çattı. Lyra araya girdi. "Konuşmasına izin verildi."
 
-"Hegemonya ajanları da onu arıyor," diye ekledi başka biri. "Ve Delta'nın da ilgisi var — bu, endişe verici. Eğer Aras'ı, onlardan biri bulursa..."
+Yaşlı Ozan haritada mağaranın ağzını işaretledi. "Aras ikinci bir sığınaktan söz etti. Ne olduğunu yazmadı. Son mektubundan sonra izi kesildi."
 
-Yaşlı Ozan, elini kaldırdı, sessizlik istedi. "Aras, ne bulduğunu tam olarak bilmiyordu — bunu, hepiniz biliyorsunuz. Ama bulduğu şey, her kimin eline geçerse geçsin, önemli bir şey. Onu bulmamız gerek — canlı, tercihen, ama bulmamız şart."
+Toplantı bitince Togan, Ozan'ı koridorda durdurdu.
 
----
+"Perren'le gideriz. İz sürmeyi biliyoruz."
 
-Toplantı sona erdiğinde, Togan, Ozan'ı, koridorda durdurdu.
+"Seni kendi sorundan uzaklaştırmak için mi?"
 
-"Ben yardım edebilirim," dedi, sesi kararlı. "Perren ve ben, yıllarca, izsiz topraklarda yürüdük. İz sürmede iyiyiz. Ve dürüst olmak gerekirse..." Durdu, kelimeleri tartarak. "Burada, sadece kendi sırrımı araştırarak oturmak, artık, beni huzursuz ediyor. Bir amaca ihtiyacım var — kendi kanımdan başka bir şeye."
+"Bir insan kayıp. Onu aramak sorun değil, iş."
 
-Ozan, uzun bir süre, kör gözleriyle ona baktı — sanki, Togan'ın yüzünü, başka bir duyuyla okuyormuş gibi. "İlginç bir teklif, genç savaşçı. Ve belki de, ikimiz için de faydalı. Sen, bize yardım edersin; biz de, sana, Dişsiz Ağız bölgesinin eski kayıtlarına erişim veririz — orası, ilginç bir tesadüfle, annenin son görüldüğü bölgeye yakın."
+Ozan bu cevabı tarttıktan sonra bölgenin Ayla'nın kuzeyde görüldüğü hatta yakın olduğunu söyledi. Bu bilgi Togan'ın kararını değiştirmedi; yalnız yolun ağırlığını artırdı.
 
-Togan'ın nefesi kesildi. "Öyle mi?"
+Perren haritayı odalarına serdi. Mağaraya güneyden giden kısa rota Akıntı izleriyle doluydu. Batı yolu iki gün uzundu, fakat su kaynakları belliydi.
 
-"Kesin değil. Ama olası." Ozan'ın sesi, dikkatli bir umutla doluydu. "Bazen, evlat, bir yolun peşinden gitmek, başka bir yolu da aydınlatır."
+"Kısa yoldan gideceğini söyleme," dedi Perren.
 
----
+"Söylemeyecektim."
 
-O gece, Perren'e bu teklifi anlattığında, eski dostu, uzun bir süre sessiz kaldı, sonra, yavaşça başını salladı.
+"Yüzün söyledi."
 
-"Dişsiz Ağız," dedi Perren, sesi düşünceli. "O bölgeyi biliyorum — uzaktan. Tehlikeli topraklar. Akıntı-Yaratıkları, oralarda, daha sık görülür derler."
+Togan güldü. Son günlerde ilk kez bu ses kendisine yabancı gelmedi.
 
-"Korkuyor musun?"
+Hazırlık üç gün sürdü. Lyra eski mağara notlarını kopyaladı, Perren ip ve kandil yağı aldı. Togan ise Kaya'ya yolladığı mektubun kervana teslim edildiğini doğruladı. Geri dönüşü aylar sürebilirdi; cevap gelene kadar yolda olacaktı.
 
-"Korkuyorum, evet." Perren'in dürüstlüğü, her zamanki gibi, yalın ve rahatlatıcıydı. "Ama on bir yıl, dağlarda, tek başıma yaşadım, Togan — korku, beni hiç durdurmadı, sadece dikkatli olmamı sağladı. Eğer gidersen, ben de geleceğim. Yalnız gitmene izin vermem."
+Şafakta Eski-Kent'in kapısından çıktılar. Burkut yükselip batıya doğru bir tur attı, sonra kuzey yoluna döndü.
 
-Togan, bu söze, sıcak bir minnetle gülümsedi. "Neden bu kadar sadıksın bana, Perren? Gerçekten hiç anlamıyorum."
-
-Perren, bir süre düşündü, sonra, omuz silkti, hafifçe. "Belki çünkü, sen, beni, dağlardan indiren tek kişisin. On bir yıl, kimseyle konuşmadım, Togan — sen gelene kadar. Bir insanı, unutulmuşluktan çıkaran birine, sadakat borçlu kalırsın — ne kadar tuhaf görünürse görünsün bu."
-
----
-
-Hazırlıklar, üç gün sürdü — erzak, harita kopyaları, Mirasçılar'ın verdiği eski notlar, Dişsiz Ağız'ın son bilinen coğrafyası hakkında.
-
-Yola çıkmadan önceki son gece, Togan, çekmecesindeki mektubu — Kaya ve Börü'ye yazdığı, hiç gönderemediği mektubu — tekrar eline aldı.
-
-Uzun bir süre, elinde tuttu, sonra, kararlı bir hareketle, Lyra'ya götürdü. "Bunu, mümkün olan ilk kervanla, Sungurlar'a gönderebilir misin?"
-
-Lyra, mektuba baktı, sonra, Togan'a. "Emin misin?"
-
-"Değilim," dedi Togan, dürüstçe, hafif bir gülümsemeyle. "Ama bazı şeyleri, sonsuza kadar erteleyemezsin. Ben, şimdi, bilinmeyen bir yola çıkıyorum. En azından, geride, yarım kalmış bir şeyi bırakmak istemiyorum."
-
-Lyra, mektubu aldı, cebine yerleştirdi. "Göndereceğim. Söz veriyorum."
-
-Togan, teşekkür etti, sonra, odasına döndü — yarın, Perren'le birlikte, Dişsiz Ağız'a doğru yola çıkacaktı, kendi kanının sırrına, belki de bir adım daha yaklaşarak.
+Togan arkasına bakmadı. Bu kez kaçmıyor, kayıp birinin izini sürüyordu. Aradaki fark ayaklarının altında hissediliyordu.

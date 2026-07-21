@@ -1,54 +1,70 @@
 # Bölüm 12 — Bayrağın İlk Direği
-*(ZALEENA — Kızıl Hafta, 7. Gün)*
+*(ZALEENA: Kızıl Hafta, 7. Gün)*
 
-Son Kırıntı'nın sabahında, Yamalı Liman, yorgun ama hayatta, Kızıl Hafta'nın son gününü karşıladı — kayıplar olmuştu, evet, ama liman, Zaleena'nın liderliğinde, önceki yıllara göre, çok daha az kayıpla atlatmıştı bu fırtınayı.
+Zaleena'nın bacaklarındaki uyuşma Son Kırıntı sabahında geçti. Ayağa kalktığında Roric dip kamarasının kapısında bekliyordu. Temiz gömlek giymiş, yüzünün yanık tarafını örtmemişti.
 
-Zaleena, Enkaz Krallığı'nın güvertesinde, limanın hasarını değerlendirirken, Roric'in kamarasına son bir kez gitti.
+“Bugün beni Konsey'e çıkar,” dedi.
 
-"Kızıl Hafta bitti," dedi, ona haberi vererek. "Liman, ayakta. Ve ben, artık, gerçekten, bir kraliçe olarak kabul ediliyorum — sadece bir geçici lider olarak değil."
+“Yürüyebiliyor musun?”
 
-Roric, ona uzun bir süre baktı, gözlerinde, iyileşmenin getirdiği yeni bir netlik vardı. "Zaleena, bir şey sormak istiyorum. Ne zamana kadar beni burada, gizlice, saklayacaksın?"
+“Hayır. Yine de çıkar.”
 
-Zaleena, bu soruyu bir süre düşündü. "Neden soruyorsun?"
+“Neden şimdi?”
 
-Sesi, ilk kez, gerçek bir huzurla doluydu. "Çünkü sanırım artık saklanmak istemiyorum. Ölü ya da kaybolmuş olarak yaşamak... bu, hayatta olmaktan daha kötü bir şey, Zaleena. Belki de, gerçeği açıklamanın zamanı geldi."
+Roric eski kancasının olmadığı bileğine baktı. “Çünkü senin taç giydiğin limanda ölü numarası yaparak yaşarsam ikimizin de sözü çürür.”
 
-Zaleena, bu değişimi, onun gözlerinde görebiliyordu — eski gururun yerini, yeni bir tür kabullenme, hatta bir huzur almıştı.
+Zaleena yirmi kaptanı batık kalyonun güvertesine çağırdı. Gerekçe söylemedi. Roric iki tayfanın arasında merdivene çıktığında konuşmalar bir anda kesildi.
 
-"Peki ne önerirsin?"
+Draven kılıcını yarıya kadar çekti. “Bu ne?”
 
-"Beni, halkın önüne çıkar. Yaralı, yenilmiş, ama hayatta olarak." Sesi kararlıydı. "Ve senin, beni kurtardığını, bana ikinci bir şans verdiğini söyle. Bu, senin hikâyeni daha da güçlendirir — sadece güçlü değil, merhametli bir kraliçe olduğunu gösterir. Ve ben... ben, belki, bir danışman olarak, sana hâlâ faydalı olabilirim, gölgede değil, açıkça."
+“Roric,” dedi Zaleena.
 
-Zaleena, bu öneriyi, uzun bir süre düşündü, sonra, yavaşça, gülümsedi. "Bu, aslında, iyi bir plan, Roric. Belki de, ilk düşündüğümden daha akıllısın."
+“Öldüğünü söyledin.”
+
+“Kayıp olduğunu söyledim. Yaşadığını öğrendiğimde sakladım.”
+
+“Seçimi kazanmak için.”
+
+Zaleena inkâr etmedi. “Onu korumak için. Limanı parçalanmaktan korumak için. İkisinin bana fayda sağladığını da biliyordum.”
+
+Kaptanlar bağırmaya başladı. Kessel masaya vurdu fakat kimse susmadı. Roric sağlam elini kaldırınca sesler yavaşça indi.
+
+“Ben saklanmayı kabul ettim,” dedi. “Çünkü döndüğüm gün sekiziniz beni öldürür, öteki sekiziniz de adıma birbirinizi keserdiniz.”
+
+“Taht seninken seçim geçersiz,” dedi bir kaptan.
+
+Roric boş koltuğa baktı. “Taht benim değil.” Kemerinden eski Enkaz Kralı mührünü çıkardı ve masaya bıraktı. “Seferi kaybettim. Adamlarımı dinlemedim. Bugün unvandan çekiliyorum.”
+
+Draven kılıcını kınına soktu. “Bu, Zaleena'yı aklamaz.”
+
+“Aklamak istemiyorum,” dedi Zaleena. “Kararımı verdim. Şimdi siz karar verin.”
+
+Kessel oylamayı açtı. Soru, önceki seçimin Roric'in dönüşünden sonra geçerli sayılıp sayılmayacağıydı.
+
+On beş kaptan geçerli dedi. Beşi karşı çıktı.
+
+Zaleena sonuç açıklanınca koltuğa yine oturmadı. “Bundan sonra bir kralın kaybolması seçim için yeterli olmayacak. Ölüm, çekilme ya da Konsey'in üçte iki oyuyla görevden alma gerekecek. Kuralı bugün yazacağız.”
+
+Draven başını yana eğdi. “Kendi yaptığın şeyi yasaklıyorsun.”
+
+“Bir kez işe yaraması doğru olduğu anlamına gelmez.”
 
 ---
 
-Öğleden sonra, Zaleena, Roric'i, limanın merkezindeki büyük meydana, halkın önüne çıkardı — yaralı, yüzünün bir yanı hâlâ yanık izleriyle kaplı, ama dimdik duran eski Enkaz Kralı.
+Roric öğleden sonra halka çıktı. Liman onun dönüşüne Konsey kadar öfkeli tepki verdi. Roric, seferde verdiği kayıpları ve saklanmayı kendi ağzıyla anlattı.
 
-Kalabalık, önce şok, sonra bir kargaşa içinde tepki verdi — bazıları öfkeyle, "bizi kandırdın" diye bağırırken, bazıları, hayranlıkla, onun hayatta kalışını kutluyordu.
+“Zaleena beni yenmedi,” dedi. “Ben kendimi batırdım. O beni sudan çıkardı. Bundan sonra Enkaz Kraliçesi odur. Ben de verdiği işe yararsam burada kalırım.”
 
-Zaleena, sesini yükselterek, kalabalığı sakinleştirdi. "Roric, seferinde yenildi — ama savaşırken, kahramanca savaştı, ve bunun bedelini, kendi bedeniyle ödedi. Ben, onu, ölmeye terk etmek yerine, kurtarmayı seçtim, çünkü Yamalı Liman'ın, geçmişini inkâr eden değil, ondan ders çıkaran bir yer olmasını istiyorum."
-
-Bu sözler, kalabalığı, yavaşça, sakinleştirdi — ve Roric, kendisi, öne çıkarak, halka seslendi.
-
-"Ben, gururum yüzünden, sizi yanlış bir seferle tehlikeye attım," dedi, sesi zayıf ama dürüst. "Zaleena, hem hayatımı kurtardı, hem de bana, gerçek liderliğin ne olduğunu gösterdi. Ona, tam desteğimi veriyorum — Yamalı Liman'ın, tarihindeki en iyi Kraliçesi olarak."
-
-Bu itiraf, eski bir kralın, yeni bir kraliçeye, halkın önünde verdiği bir onaydı — ve bu, Zaleena'nın liderliğini, tartışılmaz bir şekilde pekiştirdi.
+Kalabalığın alkışı tek parça değildi. Bazıları sustu, bazıları küfretti. Çoğu dinledi. Zaleena bunu yeterli saydı. Gerçek kabul, tek bir konuşmayla gelmezdi.
 
 ---
 
-Akşam, Zaleena, Sorin'le birlikte, limanın rıhtımında yürürken, ilk kez, geleceğe dair somut planlarını, yüksek sesle konuştu.
+Akşam güvertede kâğıt, boya ve eski sancak parçaları açıldı. Her kaptandan Yamalı Liman için bir işaret getirmesi istendi.
 
-"Bir bayrak tasarlayacağız." Sesi kararlıydı. "Yamalı Liman'ın kendi bayrağı. Ve bir kayıt sistemi — her kaptanın, her geminin, resmi olarak tanındığı bir sistem. Artık, sadece kaos ve yağma değil, düzen ve gurur da olacak burada."
+Sorin kırık bir gemi çizdi. Kessel, birbirine geçen iki kanca önerdi. Draven hiçbir şey getirmedi; Roric otuz yıldır kullandığı yıpranmış siyah bayrağı masaya bıraktı.
 
-Sorin, gülümsedi. "Roric bunu duysa ne derdi merak ediyorum."
+“Bunu kopyalamayacağız,” dedi Zaleena. “Ama atmayacağız da.”
 
-Zaleena hafifçe güldü. "Muhtemelen, kendi payını isterdi bu yeni düzenden."
+Eski bayrağı yeni kayıt defterinin yanına serdi. İlk direk ertesi gün dikilecekti. Üzerine ne çekileceğine Konsey karar verecekti.
 
-Rıhtımın fenerleri, teker teker sönüyordu artık, gece sona ererken; Kızıl Hafta, resmen bitmişti.
-
-"Kaos Mevsimi başlıyor şimdi," dedi Zaleena, sesi düşünceli. "Bu, en tehlikeli dönem — yaratıklar en aktif, en saldırgan. Ama biz, hazırız artık. Bu hafta, bize, bunu kanıtladı."
-
-Denize baktığında, ufukta, güneşin yavaşça battığını gördü — ve Zaleena, ilk kez, gerçek bir umutla, geleceğe baktı.
-
-"Bir bayrak," diye fısıldadı kendi kendine, gülümseyerek. "Sonunda, bir bayrak."
+Yamalı Liman ilk kez bir simge aramıyordu. Nasıl bir yer olacağına karar vermeye çalışıyordu.

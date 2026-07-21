@@ -1,4 +1,6 @@
 # İKİNCİ KİTAP — 8. KISIM: (isim henüz konmadı)
+
+> **Redaksiyon notu (20 Temmuz 2026):** Bu dosya tarihsel yazım planıdır. Nihai bölüm kanonu doğrudan `kitap2_kisim4/` dosyalarında ve `../kulliyat/23_guncel_kanon_karti.md` içinde yer alır; aşağıdaki eski özetler güncel metinle çelişirse bağlayıcı değildir.
 *(7. Kısım'ın ("Kazanılan Denge") kapanışından hemen sonra başlıyor.)*
 
 ## Karakterlerin Yeni Konumu (7. Kısım sonundan devralınan)

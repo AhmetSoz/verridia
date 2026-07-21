@@ -1,42 +1,20 @@
-# Bölüm 1 — Sed'e Bir Soru
+# Bölüm 1 — Sed'e Sorulan Soru
 *(TOGAN)*
 
-Malakor'un mektubu, Togan'ı, beklenenden erken, üçüncü bir Sed ziyaretine yöneltti — bu kez, dengesini korumak için değil, bir cevap aramak için.
+Malakor'un mektubu Togan'ın ziyaret tarihini öne çekmedi. Soruları bir sağlık bahanesine çevirmek, koyduğu doksan günlük sınırı daha ilk baskıda bozmak olurdu. Lyra aracılığıyla Sed'e kapalı bir not gönderdi; cevap bir sonraki düzenli ziyarette verilecekti.
 
-"Işıyan," dedi Togan, kapıdan içeri girer girmez, "Delta'nın, Praetorianlar hakkında, sizin kayıtlarınızdan fazlasını bildiği, mümkün mü?"
+Doksan ikinci gün beş isim sınamasından geçti ve Perren'le yola çıktı. Işıyan önce denge ölçümünü yaptı. Ancak işlem bittikten sonra Malakor'un iddia ettiği üç kaydı konuştular.
 
-Yaşlı Işıyan, bu soruya, uzun bir sessizlikle karşılık verdi — Togan, bu sessizliğin, kötü bir işaret olduğunu, hemen anladı.
+"Karanlık Hasat'ta kayıtlarımızın bir bölümü dağıldı," dedi Işıyan. "İnsanların eline geçenler oldu. Delta'nın bunlardan birini taşıması mümkün. Bildiğini göstermez."
 
----
+Işıyan arşivinde Ayla'nın soyuna benzeyen iki eski vaka bulmuştu. Birinde bellek kaybı, ötekinde Praetorian zırhına temas sonrası ateş görülüyordu. Üçüncü kişi yoktu. Malakor iki doğru kaydı kullanıp bilinmeyen bir üçüncüyle Togan'ı konuşturmaya çalışmış olabilirdi.
 
-"Mümkün," dedi Işıyan sonunda, sesi, ağır bir kabullenişle. "Karanlık Hasat'tan sonra, bazı kayıtlar, dağıldı — bazıları, insanların eline geçti. Eğer, Delta, o kayıtlardan birine, nesillerce önce, ulaştıysa..."
+"Kanım zırhı kontrol edebilir mi?" diye sordu Togan.
 
-"O zaman?"
+"Kontrol sözcüğü fazla büyük. Değiştirilmiş metalin Akıntı düzenini bozduğunu gördük. Bir iradeyi yönlendirdiğimizi görmedik."
 
-"O zaman, belki, senin kanının, nasıl kullanılabileceğini, benden bile, daha iyi biliyorlar."
+Togan gücünü derinleştirmek istediğini söyledi. Işıyan bunu ancak ölçülebilir ve geri döndürülebilir denemelerle kabul etti. Sed dışına hiçbir Praetorian parçası çıkarılmayacak, her deneme on dakikayı geçmeyecek ve bellek sınaması önce-sonra yapılacaktı. İlk hata bütün programı durduracaktı.
 
----
+Çıkışta beş adı doğru söyledi. Baş ağrısı aynı akşam başladı.
 
-Bu itiraf, Togan'ın içinde, soğuk bir dehşet bıraktı. "Ne yapabilirler, bu bilgiyle?"
-
-Işıyan, uzun bir süre düşündü, sonra, dikkatle. "Eğer, gerçekten, eski bir kaydı ele geçirdilerse — belki, Praetorian gücünü, kontrol etmenin bir yolunu arıyorlardır. Senin kanın, Praetorian'ı zayıflatır. Ama belki, doğru koşullarda, kontrol de edebilir — köle gibi değil, ama... yönlendirilebilir."
-
-"Beni, bir araç olarak mı kullanmak istiyorlar?"
-
----
-
-Işıyan, dürüstçe karşılık verdi. "Belki. Ya da belki, sadece, seni, yok etmek istiyorlar — riski, ortadan kaldırmak için. İkisi de, mümkün, genç kan-taşıyıcı. Ve ben, kesin bir cevap veremem."
-
-Togan, bu belirsizliği, uzun bir süre, sessizce taşıdı. "Ne yapmalıyım?"
-
-"Kendi gücünü," dedi Işıyan, yavaşça, "onların, senin hakkında bildiğinden, daha iyi anlamalısın. Çünkü, bilgi, bazen, en iyi savunmadır."
-
----
-
-Bu tavsiye, Togan'ı, yeni bir kararlılığa yöneltti. "O zaman, bana, öğret. Her şeyi. Kanımın, gerçekten, neler yapabileceğini."
-
-Işıyan, bu isteğe, dikkatli bir onayla karşılık verdi. "Bu, zaman alacak. Ve bazı şeyler, seni, korkutacak. Ama eğer, hazırsan..."
-
-Togan'ın kararlılığı kesindi. "Hazırım."
-
-Eski-Kent'e dönüş yolunda, Togan, kendi kendine düşündü: Malakor'un gölgesi, artık, sadece bir tehdit değildi — kendi gücünü, gerçekten anlamak için, bir çağrıydı da. Ve bu sefer, korkuyla değil, kararlılıkla, o çağrıya, cevap verecekti.
+Togan Malakor'a cevap olarak yeni bilgi göndermedi. Eski-Kent kayıt masasına yalnız bir cümle bıraktı: Bağımsız arşiv, iki benzer vakayı doğrulamış; üçüncüsüne kaynak bulunamamıştı. Bir iddiayı yarı doğru yapan şey, tehlikesini azaltmıyordu.

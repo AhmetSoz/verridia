@@ -1,40 +1,24 @@
-# Bölüm 13 — Doğrudan Mesaj
+# Bölüm 13 — Malakor'un Sorusu
 *(TOGAN)*
 
-Mektup, hiçbir kurye aracılığıyla değil, bir sabah, Togan'ın çadırının önünde, sessizce, gizemli bir şekilde belirdi — hiç kimse, onu, kimin bıraktığını görmemişti.
+Mektup gizlice çadırına bırakılmadı. Eski-Kent'in kayıt kervanıyla, alındı belgesi ve kapalı mühürle geldi. Gönderen satırında yalnız "Fısıltı Ustalığı Makamı" yazıyordu.
 
-Togan, mühürü açtığında, el yazısı, soğuk, düzenli, ve garip bir şekilde, kibar bir üslupla yazılmıştı.
+Togan zarfı kurul odasında açtı. Temujin, Kaya ve yazıcı tanıktı. Metin tehdit taşımıyordu; bu onu daha az rahatsız edici yapmadı.
 
-*Genç kan-taşıyıcı,* diye başlıyordu mektup, *ismimi biliyorsun artık — Malakor. Ve muhtemelen, benden korkuyorsun. Bu, doğal. Ama bilmeni isterim — sana, zarar vermek istemiyorum. Sadece, anlamak istiyorum.*
+Malakor, Ayla'nın Sed ziyaretleri arasında ortalama kaç gün geçtiğini soruyordu. Delta kayıtlarında aynı soydan üç kişinin bulunduğunu, üçünün de düzensiz aralıklarla ağır bellek kaybı yaşadığını iddia etmişti. Kayıtların kopyasını vermeyi, karşılığında Togan'ın ziyaret çizelgesini istemişti.
 
----
+"Üç kişi doğru mu?" diye sordu Kaya.
 
-Temujin, bu mektubu, Togan'la birlikte okuduğunda, sesi, gergin bir dikkatle çıktı. "Ne anlamak istiyor?"
+"Bilmiyoruz," dedi Togan. "Adlarını bile yazmamış."
 
-Mektup, devam ediyordu: *Yıllarca, Praetorianlar hakkında, kayıtları topladım — Mirasçıların bile bilmediği kayıtları. Ve senin gibi bir kan, Togan, tarihte, sadece birkaç kez görüldü. Her seferinde, ya büyük bir felaket, ya da büyük bir kurtuluş getirdi. Merak ediyorum — sen, hangisi olacaksın?*
+Mektup, Malakor'un bir kişi mi makam mı olduğunu da açıklamıyordu. Sonunda aynı yarım çember mührü vardı.
 
----
+Temujin teklifi tümden reddetmeyi önerdi. Togan önce Lyra'ya danışmak istedi. Ertesi gün kendi cevabını yazdı: sağlık çizelgesi paylaşılmayacak, Sed'in yeri ve ziyaret tarihleri pazarlık konusu olmayacaktı. Malakor iddia ettiği üç kaydın adlarını, tarihlerini ve kaynak zincirini bağımsız arşivciye açarsa Togan yalnız yayımlanabilir tıbbi sonuçları değerlendirecekti.
 
-Bu soru, Togan'ın içinde, derin bir rahatsızlık uyandırdı. "Bu, bir tehdit mi?"
+Bir şart daha ekledi. Bundan sonraki her yazışma Eski-Kent kayıt masasından geçecek, gizli gözlem sürerse görüşme sona erecekti.
 
-"Bilmiyorum," dedi Kaya, dikkatle. "Ama bir gözlem gibi görünüyor — belki, gerçek bir merak."
+Perren, Malakor'un bu sınıra uyacağını düşünüp düşünmediğini sordu.
 
-Mektup, son satırlarıyla, bitiyordu: *Seni izlemeye devam edeceğim, Togan — ama şimdilik, uzaktan. Belki, bir gün, doğrudan konuşuruz. O zamana kadar, kendi yolunu, dikkatle seç. Çünkü, senin seçimin, sadece seni değil, belki, çok daha büyük bir şeyi de, etkileyecek.*
+"Bilmiyorum. Cevabım onu ikna etmek için değil, benim neyi vermeyeceğimi yazmak için."
 
----
-
-Togan, bu mektubu, defalarca okudu, her seferinde, yeni bir katman keşfederek. "Sanki, beni tehdit etmiyor — sadece, izlediğini, bildiriyor."
-
-"Belki de," dedi Temujin, düşünceli, "bu, kendi başına, bir tehdit. Bilmek, bazen, en büyük silahtır."
-
-Perren, bu mektubu, öfkeyle karşıladı. "Nasıl cesaret eder, seni, bu şekilde izlemeye?"
-
----
-
-"Sakin ol, Perren," dedi Togan, yavaşça. "Öfke, şu an, bize yardımcı olmaz. Bunun yerine, dikkatli olmalıyız — ve belki, kendi seçimimizi, onun beklentilerinin dışında, şekillendirmeliyiz."
-
-O gece, Togan, mektubu, dikkatle sakladı — bir tehdit, bir uyarı, ya da belki, garip bir şekilde, bir davet olarak.
-
-"Ne yapacaksın?" diye sordu Temujin.
-
-"Kendim olacağım," dedi Togan, kararlı. "Malakor'un beklediği ne olursa olsun — köprü ya da kılıç — ben, kendi seçimimi, kendi zamanımda yapacağım. Onun gözetimi altında değil."
+Mektup dört tanık önünde mühürlendi. Togan artık kendisini Malakor'un kehanetindeki kurtuluş ya da felaket olarak görmüyordu. Karşısında veri isteyen bir makam vardı. İlk hakkı, hayır diyebilmekti.

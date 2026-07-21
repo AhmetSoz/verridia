@@ -1,42 +1,40 @@
 # Bölüm 50 — Yeni Yol
 *(TEMUJİN)*
 
-Sürgün kampı, ordugâhtan üç günlük mesafede, küçük bir vadide kuruldu — Sube'nin topladığı otuz kişi, artık, Temujin ve Batu'nun etrafında, resmiyetsiz ama gerçek bir birlik oluşturuyordu.
+Sürgünler üç gün sonra dar bir vadide durdu. Otuz savaşçı, Batu, Orkhon ve Sube ateşin çevresinde toplandı. Korgan'ın ulakları arkalarında olabilirdi; uzun süre kalamazlardı.
 
-"Nereye gideceğiz?" diye sordu Batu, ateşin başında, sesi, ilk kez, gerçek bir belirsizlikle doluydu. "Bozkırda, Korgan'ın uzanamayacağı hiçbir yer yok — bu, onun kırk yıllık fetihlerinin sonucu."
+Batu haritanın boş yerlerine baktı. "Bozkırda Korgan'ın erişmediği toprak kalmadı."
 
-Temujin, uzun bir süre, ateşe baktı, zihninde, olası bütün yolları tartarak. "Hegemonya, bizi, düşman olarak görür — Karia'nın Konseyi, bir Azgut savaş-lordunu, asla barındırmaz. Delta, bizi, kendi çıkarları için kullanır, sonra satar. Temürçiler, tarafsızlıklarını bozmaz."
+Temujin seçenekleri saydı. Hegemonya onları düşman komutan sayardı. Delta bedel isterdi. Temürçiler yeni anlaşmayı korumak için tarafsız kalırdı.
 
-"Peki ne kalıyor?"
+"Sungurlara gideceğiz," dedi.
 
-Temujin, yavaşça, gözlerini kaldırdı, sesi, kendine bile şaşırtıcı bir netlikle çıktı. "Sungurlar."
+Batu ayağa kalktı. "Onlarla savaştık."
 
----
+"Sonunda savaş ortaklığı kurduk. Kendi meclislerini korudular. Kaya'yı esir aldım ve serbest bıraktım; sözümü tuttuğumu biliyor."
 
-Batu, bu öneriye, dehşetle karşılık verdi. "Sungurlar mı? Onları, sen fethettin, Temujin. Neden, bir düşmanın himayesine sığınalım?"
+"Bu bizi dost yapmaz."
 
-"Çünkü," dedi Temujin, yavaşça, "onları, kılıçla değil, sözle fethettim. Ve bir isim var orada — Kaya. Bir zamanlar, esir aldığım, sonra, serbest bıraktığım bir kadın. Aramızda, gerçek bir saygı oluştu, düşmanlık değil. Eğer, kıtada, bana bir kapı açacak tek bir yer varsa, o kapı, belki de, orada."
+"Kapıyı çalabilmemizi sağlar."
 
-Orkhon, ateşin öbür tarafından, dikkatle dinliyordu. "Riskli bir bahis, evlat. Kaya, seni affetmiş olabilir, ama bütün klan, aynı şekilde düşünmeyebilir."
+Orkhon batı yolunu inceledi. Sungur devriyelerine ulaşmaları altı gün sürecekti. Korgan peşlerine süvari çıkarırsa açık arazide yakalanabilirlerdi.
 
-"Biliyorum." Temujin'in sesi, kararlı ama alçakgönüllüydü. "Ama başka bir seçeneğimiz yok, sanırım — ya bir umut deneriz, ya da, bu vadide, yavaşça, unutulup gideriz."
+Sube daha zor soruyu sordu. "Bizi kabul ederlerse ne olacağız? Azgut birliği mi? Sungur savaşçıları mı?"
 
----
+"Sığınma isteyen insanlar," dedi Temujin. "Silahlarımızı meclislerinin önünde yere bırakacağız. Hizmet şartlarını onlar söyleyecek. Korgan'a teslim edilmemek dışında hiçbir hak istemeyeceğiz."
 
-Sube, o gece, yanına geldi, sesi, dikkatli bir merakla. "Eğer Sungurlar'a gidersek, ne olacağız orada? Fatihler mi, mülteciler mi?"
+Batu yüzünü buruşturdu. "Diz mi çökeceğiz?"
 
-Bu soru, Temujin'in içinde, uzun bir süre yankılandı. "Bilmiyorum, gerçekten. Belki, hiçbiri. Belki, yeni bir şey — ne fatih, ne mülteci, sadece, yeni bir yol arayan insanlar. Bir zamanlar, Genç Kurtlar'ı kurarken, hayalim, bozkırı, korkuyla değil, meşruiyetle birleştirmekti. Belki, bu yeni yol, o hayale, farklı bir şekilde, hâlâ hizmet edebilir."
+"Hayır. Silah bırakmakla diz çökmek aynı değil. Bizi karıştırırsan Sungurlara varmadan ayrıl."
 
-"Han olmayı bırakıyor musun yani?"
+Ateşin çevresinde sessizlik oldu. Batu sonunda yerine oturdu.
 
-"Han olma hayalimi," dedi Temujin, yavaşça, "bırakmıyorum. Sadece, ona giden yolu, yeniden çiziyorum. Korgan, bana, bir kapıyı kapattı bu gece. Ama her kapanan kapı, genellikle, başka bir yolun açıldığını da gösterir — eğer, onu görecek kadar sabırlıysan."
+"Kaya reddederse?"
 
----
+"Güneye ineriz ve yeniden hesaplarız."
 
-Sabah, kamp toplandığında, otuz kişilik küçük birlik, kuzeye değil, batıya, Sungur topraklarına doğru yola çıktı — önlerinde, belirsiz bir karşılama, ama içlerinde, tuhaf bir umut.
+Şafakta kamp toplandı. Temujin otuz kişiyi sıra yerine küçük gruplara böldü; uzaktan ordu gibi görünmeyeceklerdi. Sube önden beyaz bez taşıdı.
 
-Batu, Temujin'in yanında at sürerken, sesi, yavaşça, bir soruya döndü. "Eğer Kaya, bizi reddederse?"
+Batıya döndüklerinde Temujin sürgünün ilk emrini verdi: hiçbir Sungur köyünden izinsiz su alınmayacak, karşılarına çıkan devriyeye silah çekilmeyecekti.
 
-"O zaman," dedi Temujin, ufka bakarak, "yeniden düşünürüz. Ama bir şeyi öğrendim, Batu — bazen, en büyük güç, kılıçla değil, doğru anda, doğru kapıyı çalmakla kazanılır."
-
-Yolculuk, günler sürecekti — ama Temujin, ilk kez, aylardır, gerçek bir amaçla, kendi kaderinin, artık, sadece Korgan'ın gölgesinde değil, kendi seçimleriyle şekillendiğini hissetti.
+Yeni yolun ilk sınavı, istedikleri düzeni başkasının toprağında da uygulayıp uygulayamayacaklarıydı.

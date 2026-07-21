@@ -1,50 +1,82 @@
 # Bölüm 4 — Enkaz Zamanı
-*(ZALEENA — Kızıl Hafta, 1. Gün)*
+*(ZALEENA: Kızıl Hafta, 1. Gün)*
 
-Yamalı Liman, Kızıl Hafta'nın ilk gününde, garip bir çift ruh haline bürünmüştü — bir yandan, korsanların kadim geleneği gereği, bu hafta, bir fırsat zamanıydı; fırtınaların getirdiği enkazlar, savunmasız gemiler, bereketli bir yağma dönemi. Diğer yandan, Paslı Gelgit tehdidinin gölgesinde, herkes, her zamankinden daha tetikteydi.
+Deniz çekilince Yamalı Liman'ın altında saklanan her şey ortaya çıktı.
 
-Zaleena, Enkaz Krallığı'ndaki eski tahtın yanında durmuş, limanın hazırlıklarını denetliyordu — bu sefer, sadece kendi gemisi için değil, bütün liman için sorumluydu.
+Eski çapalar, yarılmış tekneler ve birbirine dolanmış insan kemikleri çamurun içinde uzanıyordu. Kaptanlar tayfalarını yağmaya indirmek için sabırsızlanıyordu. Zaleena, ilk kabarmanın saatini bilmeden hiçbir geminin halatını çözmesine izin vermedi.
 
-"Kraliçem," dedi Kessel, yaklaşarak, sesi ciddi. "Delta'ya gönderdiğiniz elçi döndü."
+“Enkaz Zamanı'nı kaçırıyoruz,” dedi Draven.
 
-Zaleena, dönüp, elçiyi karşıladı — genç bir tayfa, yorgun ama başarılı bir görevden dönmüş gibi bir havada.
+“Hayatta kalanlar ikinci gelgiti de görür.”
 
-"Ne haber getirdin?" diye sordu Zaleena.
+Kessel güverteye ince cübbeli bir kadınla çıktı. Kadının boynunda Rivan Deltası'nın bakır kamış mührü vardı.
 
-"Leydi Amara, sizinle görüşmeyi kabul ediyor, Kraliçem," dedi elçi. "Ama şartları var. Paslı Gelgit hakkında bilgi karşılığında, Delta, Yamalı Liman'dan belirli haklar istiyor — özellikle, Sazlık Taht'a giden su yollarında serbest geçiş, ve belki de, bazı 'özel' kargoların sorgusuz taşınması."
+“Liman'daki Delta ambarının vekili,” dedi Kessel. “Seni görmek istiyor.”
 
-Zaleena, bu şartları bir süre düşündü. Delta'yla bir ittifak, değerli bilgiler getirebilirdi, ama aynı zamanda, Yamalı Liman'ın bağımsızlığını da riske atabilirdi — tam da inşa etmeye çalıştığı "bayrak"ın ruhuna aykırı bir bağımlılık.
+Kadın eğilmedi. “Leydi Amara'ya gönderdiğiniz mektup henüz Sazlık Taht'a varmış olamaz. Fakat saldırı kaydınızın bir kopyası bana ulaştı.”
 
-"Kabul ediyorum," dedi sonunda, "ama sınırlı bir süre için. Bir yıl. Ve bu sürenin sonunda, yeniden pazarlık edeceğiz — eşit şartlarda, ihtiyaç duyan taraf olarak değil."
+“Hızlısınız.”
+
+“Burada malımız var. Hızlı olmak zorundayız.” Vekil küçük bir deri tomar açtı. İçinde Paslı Gelgit'in kabuğuna benzeyen bir parça vardı. “Yaratıklar yüksek sesten kaçıyor. Ateş yalnız yönlerini değiştiriyor. Kabuklarının altında tuz keseleri var; tatlı su değerse dengelerini kaybediyorlar.”
+
+Zaleena parçaya dokunmadı. “Bedeli?”
+
+“Kızıl Hafta boyunca Delta tekneleri iç kanallardan denetlenmeden geçecek.”
+
+“Hayır.”
+
+“O zaman bilgi de yok.”
+
+Zaleena güney iskelesindeki Delta ambarını gösterdi. “Sular yükselince ilk basılacak yeriniz orası. Ben savunmazsam mallarınız bilgiyle birlikte denize gider.”
+
+Kadın dudaklarını birbirine bastı. “Ne öneriyorsunuz?”
+
+“Yedi günlük geçici anlaşma. Tekneleriniz öncelikli geçer ama yükler kayıt altına alınır. Siz bütün gözlem notlarınızı ve elinizdeki tatlı suyu savunmaya verirsiniz. Amara'nın cevabı gelirse kalıcı şartları Jilet Resifleri'nde konuşuruz.”
+
+“Özel kargolarımız var.”
+
+“Benim de özel hapishanelerim.”
+
+Vekil sonunda elini uzattı. “Yedi gün.”
+
+Zaleena elini sıktı. “Yedi gün.”
 
 ---
 
-Öğleye doğru, bir fırtına, ani ve şiddetli, limanın açıklarında patladı — Kızıl Hafta'nın ilk büyük gelgit dalgası, beraberinde, uzak bir Hegemonya ticaret gemisinin enkazını getirdi.
+İlk kabarma öğleden sonra geldi. Açıkta parçalanmış bir Hegemonya ticaret gemisini limana doğru sürüklüyordu. Üç kaptan işaret beklemeden yelken açtı.
 
-"Yağma!" diye bağırdı bir kaptan, heyecanla, ve kısa sürede, birkaç gemi, enkaza doğru harekete geçti.
+Zaleena küfretti. “Draven, kuzeylerinden dolaş. Kessel, arada kal. Tek başlarına enkaza yanaşmalarına izin verme.”
 
-Zaleena, bu geleneksel telaşı izlerken, garip bir sorumluluk hissi duydu — eskiden, o da bu heyecanın bir parçası olurdu, hiçbir sorgulama olmadan. Ama şimdi, Kraliçe olarak, her kararın, sadece kendi kârı değil, bütün limanın geleceği için bir anlam taşıdığını biliyordu.
+Deniz Hayaleti önden gitti. Batık geminin çevresinde su, rüzgârın tersine dalgalanıyordu. İlk zırhlı baş bordada belirdiğinde Zaleena çanı çaldırdı.
 
-"Dikkatli olun!" diye bağırdı, kendi gemisini de enkaza doğru yönlendirirken. "Paslı Gelgit'ler, enkaz kokusuna geliyor olabilir. Tek başına yaklaşmayın!"
+Paslı Gelgit sürüsü enkazın altında bekliyordu.
 
-Bu uyarı, zamanında geldi — enkazın yakınında, sudan, birkaç zırhlı silüet belirdi, ama bu sefer, koordineli bir liman filosu, onları hızla geri püskürttü, kayıpsız.
+Kessel gemilerini yan yana getirip dar bir koridor kurdu. Draven, emre uymayan kaptanların dönüş yolunu açtı. Zaleena ise Delta vekilinin verdiği bilgiyi sınadı: iki tatlı su fıçısını kancalara bağlatıp sürünün önüne boşalttı.
+
+Suya değen yaratıkların bacakları büküldü. Yüzeyde yönlerini şaşırıp birbirlerine çarptılar.
+
+“Çalışıyor,” dedi Sorin.
+
+“Fıçılar bitene kadar.”
+
+Gemiler enkazı bırakıp limana döndü. Hiç tayfa kaybedilmedi. Emre karşı gelen üç kaptanın yağma payını Zaleena o akşam kesti; kurtarma masrafını da borçlarına yazdı.
 
 ---
 
-Akşam, Zaleena, Roric'i, gizli saklandığı kamarada ziyaret etti — yaşlı adam, yavaşça iyileşiyordu, ama ruhu hâlâ kırıktı.
+Roric dip kamarasında anlaşmanın kaydını okudu.
 
-"Kızıl Hafta başladı," dedi Zaleena, ona haberleri anlatarak. "Ve liman, iyi yönetiliyor. İnsanlar, artık, beni gerçekten bir kraliçe olarak görüyor."
+“Delta'ya kapıyı araladın,” dedi.
 
-Roric, ona uzun bir süre baktı, gözlerinde karışık bir gurur ve keder vardı. "Sen, benim asla olamayacağım bir şey oluyorsun, Zaleena. Bir lider, sadece güçlü değil, akıllı da."
+“Ayağımı eşiğe koydum.”
 
-"Sen de akıllıydın, Roric," dedi Zaleena, sesi yumuşak. "Sadece, gururun, aklının önüne geçti bazen."
+“Aynı şey sanırlar.”
 
-"Belki de," dedi Roric, acı bir gülümsemeyle, "bir gün, sen de aynı hataya düşersin. Güç, insanı böyle yapar."
+“Yanıldıklarını öğrenirler.”
 
-Zaleena, bu uyarıyı bir süre düşündü, sonra, ciddiyetle başını salladı. "Belki. Ama en azından, seni hatırlayacağım, Roric. Bir uyarı olarak."
+Roric kâğıdı geri verdi. “Gücün ilk zehri, herkesten akıllı olduğuna inanmaktır.”
 
-Kamaradan çıkarken, Zaleena, güverteye gitti; rıhtımdaki son fenerlerin sönüşünü izledi.
+Zaleena kaydı katladı. “İkinci zehri nedir?”
 
-"Altı gün daha," diye mırıldandı kendi kendine. "Altı gün, ve göreceğiz, bu yeni krallığın, gerçekten ne kadar sağlam olduğunu."
+“Uyarıları yalnız düşmanlarından duyduğunu sanmak.”
 
-Denizin derinliklerinde, bir yerlerde, Paslı Gelgit'lerin daha büyük bir sürüsü, sabırla, kendi zamanını bekliyordu — ve Zaleena, bunu bilmese de, içgüdüsel olarak, en kötüsünün henüz gelmediğini hissediyordu.
+Zaleena bunu cevapsız bıraktı. Güverteye çıktığında Delta'nın tatlı su fıçıları iskelelere dağıtılıyordu. Her fıçının yanına kimin teslim aldığı yazıldı. Yedi günlük anlaşmanın ilk bedeli hemen ödenmişti.

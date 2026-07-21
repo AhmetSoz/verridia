@@ -1,54 +1,82 @@
 # Bölüm 11 — Tuzlu Tahtın Son Sahibi
-*(KARİA — Kızıl Hafta, 7. Gün)*
+*(KARIA: Kızıl Hafta, 7. Gün)*
 
-Son Kırıntı'nın sabahında, Karia, saraydan gelen bir haberle uyandırıldı — ama bu sefer, sesi telaşlı değil, sessiz ve ağırdı.
+Karia'yı uyandıran hizmetçi ağlamamaya çalışıyordu.
 
-"Amiral," dedi hizmetçi, gözleri yaşlı, "Majesteleri, bu gece, uykusunda vefat etti. Sessizce. Acı çekmeden."
+“Kral gece öldü, Leydi'm. Hekim acı çekmediğini söyledi.”
 
-Karia, bu haberi, bir süre, sessizce sindirdi — beklediği bir haberdi bu, ama beklemek, gelişini hiç de kolaylaştırmamıştı.
+Karia önce saati sordu. Sonra limanın durumunu. Cevapları alınca siyah ceketini giydi ve saraya yürüdü. Yas tutacak kadar durursa yeniden hareket edemeyeceğinden korkuyordu.
 
-Tuzlu Taht odasına gittiğinde, Kral'ın bedeni, hâlâ, yatağında, huzurlu bir ifadeyle yatıyordu — sanki, günler önce söylediği o "huzur" kelimesi, sonunda, gerçek bir anlam kazanmıştı.
+Theodoric'in odasında perdeler açılmamıştı. Kralın sağ eli yatağın kenarından sarkıyordu. Karia eli örtünün üzerine koydu, sonra avucundaki çizik yüzüğü çıkardı.
 
-Karia, yatağın yanına diz çöktü, uzun bir süre, sessizce, eski kralın elini tuttu.
+“Bunu taşımamı istediniz,” dedi. “Taşıyacağım.”
 
-"Teşekkür ederim," diye fısıldadı, sesi titrek. "Bana güvendiğiniz için. Sizi hayal kırıklığına uğratmayacağım, Theodoric."
+Hekim ve iki hizmetçi dışında duyan olmadı.
 
----
+Koridora çıktığında Faelan bekliyordu. “Konsey toplandı. Vorlag, törenden önce sizinle görüşmek istiyor.”
 
-Haber, hızla, bütün Metheris'e, sonra bütün Hegemonya'ya yayıldı — Kral öldü, ve yeni bir çağ, Gelgit Vârisi Karia'nın çağı, başlıyordu.
+“Önce emirler.” Karia yürürken sıraladı. “Liman çalışmayı durdurmayacak. Cenaze için halkın hasat payına dokunulmayacak. Şehir kapıları açık kalacak ama muhafız iki katına çıkacak. Valerius sınırdan dönmeye kalkarsa tutuklanacak.”
 
-Taht töreni, geleneğe göre, Boğulan Kralın Kovuğu'nda yapılacaktı — Karia, elini okyanus suyuna batırıp Gelgit Yemini edecek, ve resmi olarak, Hegemonya'nın yeni hükümdarı olacaktı.
+Faelan not aldı. “Şimdi kraliçe gibi konuşuyorsunuz.”
 
-Ama tören öncesi, Karia, Vorlag'ın, son bir kez, onunla konuşmak istediğini öğrendi.
+“Tören yapılmadı.”
 
-"Amiral," dedi Vorlag, özel bir odada, sesi her zamanki gibi soğuk ama bu sefer, garip bir şekilde, daha az düşmanca. "Kral'ın ölümü, benim için de, bir kayıp. Yıllarca hizmet ettim ona."
-
-"Biliyorum," dedi Karia, dikkatle.
-
-"Size karşı olan itirazlarım," diye devam etti Vorlag, "kişisel değildi hiçbir zaman, Amiral. Sadece, geleneğe, düzene olan inancımdandı. Ama bir kraliyet, düzenden fazlasına ihtiyaç duyar bazen — canlı bir liderliğe de. Ve siz, bunu, Yosun-Devi'ni öldürdüğünüzde, bütün Hegemonya'ya kanıtladınız."
-
-Bu sözler, Karia'yı şaşırttı — Vorlag'ın, ilk kez, bir tür teslimiyet, ya da en azından bir ateşkes teklif ettiğini hissetti.
-
-"Ne öneriyorsunuz, Lord Vorlag?"
-
-"Sadakatimi," dedi Vorlag, başını eğerek — ilk kez, gerçek bir alçakgönüllülükle. "Şartlı bir sadakat, itiraf ediyorum. Ama sizi, tahtınızda, aktif olarak yıkmaya çalışmayacağım artık. Yeter ki, siz de, eski hanedanların, eski geleneklerin, tamamen unutulmasına izin vermeyin."
-
-Karia, uzun bir süre düşündü, sonra, başını salladı. "Kabul ediyorum, Lord Vorlag. Geleneğe saygı duyacağım — ama geleneğin, ilerlemenin önünde bir engel olmasına da izin vermeyeceğim."
-
-Vorlag, ince bir gülümsemeyle, başını eğdi. "Adil bir anlaşma, Majesteleri."
-
-Bu son kelime — Majesteleri — Karia'nın kulağına, ilk kez, resmi ve ağır bir şekilde geldi.
+“Ölüm beklemiyor.”
 
 ---
 
-Taht töreni, akşam, Boğulan Kralın Kovuğu'nda yapıldı — yedi Gelgit Lordu'nun önünde, Karia, elini soğuk okyanus suyuna batırdı, Gelgit Yemini'ni etti.
+Vorlag boş Konsey salonunda tek başınaydı. Önüne iki belge koydu.
 
-"Ben, Karia, Hegemonya'nın yeni hükümdarı," dedi, sesi, fiyortların derinliklerinde yankılanarak, "yemin ederim ki, bu tacı, atalarımın gururu için değil, halkımın refahı için taşıyacağım. Yemin ederim ki, gücümü, zayıfları ezmek için değil, onları korumak için kullanacağım."
+Birincisi, Yedi Lordun haklarını koruyan eski sözleşmeydi. İkincisi, Karia'nın kral olduktan sonra Konsey'i dağıtmayacağına ilişkin kısa bir taahhüttü.
 
-Yedi Lord, sırayla, ellerini suya batırdı — Vorlag dahil, hiçbiri, bu kez, elini çekmedi. Taç, "kuru" kalmadı; meşruiyeti, tam ve sarsılmazdı.
+“Elimi suya batırmamı istiyorsanız,” dedi Vorlag, “Hegemonya'yı bir donanma karargâhına çevirmeyeceğinizi bilmek isterim.”
 
-O gece, yeni Kraliçe Karia, sarayın en yüksek kulesinden, Metheris'in ışıklarına baktı — ve ilk kez, kendi omuzlarındaki bu ağırlığı, korkuyla değil, bir kararlılıkla taşıdığını hissetti.
+“Tahta kuru bırakmakla tehdit ediyorsunuz.”
 
-Kuzeydeki o eski leke, ufukta, yavaşça soluklaşmaya başlamıştı bile; Kızıl Hafta, sona eriyordu.
+“Pazarlık ediyorum.”
 
-"Bu sadece başlangıç," diye mırıldandı kendi kendine. "Ve ben, hazırım."
+Karia ikinci belgeyi okudu. Konsey'in bütçe ve savaş ilanı yetkileri korunuyor, buna karşılık Lordlar Gelgit Vârisi kararını yeniden tartışmaya açmamayı kabul ediyordu. Tuzak, son satırdaydı: kralın atadığı her görevli Konsey onayına bağlanmıştı.
+
+Karia satırı çizdi. Yerine yüksek görevliler için üçte iki çoğunlukla itiraz hakkı yazdı.
+
+“Atamalarımı siz yapmayacaksınız. Fakat altı Lord size katılırsa yanlış kişiyi koruyamam.”
+
+Vorlag değişikliği okudu. “Valerius hanelerine karşı tasfiye?”
+
+“Suç kişiseldir. Kanıt olmadan kimseye dokunulmayacak.”
+
+“Benim haneme de?”
+
+“Sizin haneniz yasaların dışında değil. Altında da değil.”
+
+Vorlag kalemi aldı. “Kralınız sizden daha kolaydı.”
+
+“Bu yüzden otuz yıl hayatta kaldı.”
+
+İkisi belgeyi imzaladı. Ateşkes, güvene değil birbirlerinin sınırını yazıya geçirmelerine dayanıyordu.
+
+---
+
+Theodoric'in cenazesi hazırlanırken taç töreni aynı akşam yapıldı. Hegemonya bir gece bile hükümdarsız kalmayacaktı.
+
+Boğulan Kralın Kovuğu'nda deniz suyu diz boyundaydı. Yedi Lord taş çemberin çevresinde durdu. Karia, yosun yarasındaki sargıyla suya girdi.
+
+“Bu tacı kanım için değil, bana verilen görev için taşıyorum,” dedi. “Hegemonya'nın kıyısını, ekmeğini ve yasasını koruyacağıma Gelgit önünde yemin ederim.”
+
+Elini soğuk suya batırdı.
+
+Drennar, Hallis, Calder ve Maros sırayla onu izledi. Severin duraksadı; Karia'nın sakladığı dosyayı hatırlayıp elini indirdi. Bren kalabalığın tarafını seçti.
+
+Vorlag son kaldı.
+
+Kovukta yalnız damlayan su duyuldu. Yaşlı lord, Karia'nın elindeki yüzüğe baktı. Sonra bastonunu yardımcısına verip dizine kadar suya girdi.
+
+Elini batırdı.
+
+Taç kuru kalmadı.
+
+Karia saraya döndüğünde ilk fermanını yazdı. Theodoric'in cenaze masrafları kraliyet hazinesinden ödenecek, Yosun-Devi'nde ölen otuz bir kişinin ailesine aynı miktarda pay ayrılacaktı.
+
+Fermanın altına ilk kez yalnız “Karia” yazmadı.
+
+“Kraliçe Karia” yazdı ve mührü bastı.

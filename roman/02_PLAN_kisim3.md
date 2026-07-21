@@ -4,7 +4,7 @@
 ## Bu Kısmın Merkezi Gerilimi
 Roric'in akıbeti netleşecek (Zaleena hattının patlama noktası). Kaya'nın esareti derinleşecek — belki bir kaçış girişimi, belki Togan'la dolaylı bir bağın ilk ipucu. Togan, Sed'e yaklaşırken kendi kaderiyle yüzleşecek. Karia'nın Severin dosyası ve Gelgit Vârisi meselesi bir kriz noktasına doğru ilerleyecek.
 
-## Bölüm Haritası (TAMAMLANDI — 3. Kısım yazıldı, 11 bölüm)
+## Bölüm Haritası (TAMAMLANDI — 11 bölüm; edebî redaksiyon 20 Temmuz 2026'da tamamlandı)
 1. **Zaleena** — bolum01 — Roric bulundu: yaralı ama hayatta, gücü kırık. Zaleena onu gizlice saklıyor, "yatırım" olarak. ✅
 2. **Temujin** — bolum02 — Kaya'nın kaçış girişimi başarısız; itirafında Togan'ın adı ve amacı ilk kez geçiyor. ✅
 3. **Togan** — bolum03 — Sed'e ilk yaklaşım, Şafak Kapısı görülüyor, gizemli yabancı (Perren) beliriyor. ✅

@@ -1,38 +1,32 @@
 # Bölüm 10 — Yeşim'in Haberi
 *(TEMUJİN)*
 
-Yeşim, bir ay sonra, beklenmedik bir haberle, Temujin'in çadırına geldi — yüzünde, hem heyecan hem endişe.
+Yeşim ailesinden şifreli bir haber aldı. Hekat'ın sağlığı ağırlaşmış, Darga halef seçimini hızlandırmak için Elara'yı kurala aykırı hazırlık yapmakla suçlamaya hazırlanmıştı.
 
-"Ailemden, gizli bir mesaj aldım," dedi Yeşim, sesi alçak. "Darga, benim, burada olduğumu öğrenmiş. Ve daha da önemlisi — Darga, Elara'nın kanadına karşı, yeni bir hamle hazırlıyor. Halef yarışını, zorla kendi lehine çevirmek istiyor."
+Temujin hemen mesaj göndermek istedi. Kaya kaynağın güvenilirliğini sordu.
 
-Temujin, bu haberi, dikkatle dinledi. "Ne tür bir hamle?"
+"Kız kardeşim yazdı," dedi Yeşim.
 
----
+"Mektubun gerçekten ondan olduğunu nasıl biliyorsun?"
 
-Yeşim'in sesi belirsizdi. "Tam olarak bilmiyorum, ama duyduğuma göre, Hekat'ın sağlığı, hızla kötüleşiyor. Darga, onun ölümünü, kendi lehine kullanmaya hazırlanıyor — belki, Elara'yı, sahtekârlıkla suçlayarak, belki, doğrudan bir güç gösterisiyle."
+Yeşim çocukluklarında kullandıkları iki metal işaretini gösterdi. Yine de haber ikinci kaynaktan doğrulanmadan resmî uyarı yapılmadı. Sube'nin tüccar bağlantısı Hekat'ın hastalığını ve Darga'nın olağanüstü konsey talebini doğruladı.
 
-Temujin, bu bilgiyi, uzun bir süre değerlendirdi — Elara, ona, Kartal Burnu'nda, hayati bir yardım sağlamıştı; bu borcu, unutmamıştı.
+Elara'ya giden mektubu Yeşim kendi adıyla imzaladı. Temujin yalnız Genç Kurt mührünü ekledi. Böylece kadın gizli bir araç gibi kullanılmadı.
 
----
+Elara iki hafta sonra cevap verdi. Darga'nın hamlesini seziyor, fakat suçlamanın zamanını bilmiyordu. Uyarı sayesinde şaheserini ve üretim kayıtlarını erken tarihle Konsey kasasına teslim etmişti.
 
-"Elara'yı uyarmalıyız," dedi Temujin, kararlı.
+"Borçlandığını yazmış," dedi Yeşim.
 
-Kaya, bu karara, dikkatli bir soruyla katıldı. "Bu, bizim savaşımız değil, Temujin. Temürçi iç meseleleri, bizi, doğrudan ilgilendirmiyor."
+"Borç istemedik."
 
-"Belki," dedi Temujin, yavaşça, "ama Elara, bana yardım etti, borç gözetmeden. Ve düşünüyorum ki, eğer, Darga, kazanırsa, Temürçiler'in tarafsızlığı, çok daha katı, çok daha izolasyonist bir hâle gelir — bu, uzun vadede, herkes için kötü olur, biz dahil."
+"İnsanlar yardım alınca yine de hisseder."
 
----
+Temujin Kaya'nın bir zamanlar söylediği cümleyi hatırladı. Borcun niyetini veren kişi seçemezdi.
 
-Sube, bu görevi, hızla üstlendi — Yeşim'in kendi gizli kanallarını kullanarak, Elara'ya, dikkatli bir uyarı mesajı ulaştırıldı.
+Bu olaydan sonra Genç Kurtların dış haber kuralı yazıldı. Tek kaynaktan gelen bilgi eyleme dönüşmeyecek, haberi getiren kişinin adı izni olmadan saklanmayacak ve başka bir topluluğun iç kavgasına silahlı müdahale yapılmayacaktı.
 
-Cevap, iki hafta sonra geldi — Elara'nın kısa, ama minnettar bir notu: *Uyarınız için teşekkürler. Zaten, biliyordum, ama teyit, değerliydi. Hazırlanıyorum. Bir gün, bu borcu, size, ödeyeceğim.*
+Batu kuralları fazla yavaş buldu. "Darga beklemiyor."
 
-Temujin, bu cevabı, Kaya'ya gösterdiğinde, kadının yüzünde, temkinli bir onay belirdi. "Görüyorum ki, sen, gerçekten, uzak bağlar kurmakta, iyisin, Temujin."
+"Yanlış haber de beklemez," dedi Temujin.
 
----
-
-Temujin'in sesi düşünceliydi. "Belki de bu, Genç Kurtlar'ın, gerçek gücü olacak — kılıçla değil, karşılıklı borçlar ve saygılarla örülü bir ağ. Delta'nın kendi oyununu, kendine karşı kullanması gibi, belki, biz de, bozkırın kendi karmaşık ilişkilerini, kendi lehimize kullanabiliriz."
-
-Togan, bu konuşmayı, sessizce dinlerken, kendi kendine düşündü: Temujin'in hayali, yavaşça, gerçek bir strateji haline geliyordu — ve belki, bu strateji, bir gün, bütün kıtanın, dengesini, kalıcı olarak değiştirecekti.
-
-O gece, Yeşim, kendi halkına, ilk kez, gerçek bir fayda sağladığını bilerek, ateşin başında, yeni ailesinin arasında, biraz daha az yalnız hissetti.
+Yeşim ilk kez ailesinden kaçan biri değil, iki topluluk arasında kendi adıyla konuşan bir üye olmuştu. Temujin için asıl kazanç Elara'nın ileride ödeyeceği borç değil buydu.

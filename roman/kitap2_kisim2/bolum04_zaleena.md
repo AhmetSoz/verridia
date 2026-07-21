@@ -1,44 +1,32 @@
 # Bölüm 4 — İlk Meyve
 *(ZALEENA)*
 
-Mirasçı gemisi, beklenenden erken geldi — küçük, sade, ama üzerinde, Lyra'nın mühürlü imzasıyla, resmi bir heyet taşıyordu.
+Mirasçı heyetine Kâtip Serel başkanlık ediyordu. Küçük gemiyle üç sandık getirmişti; ikisi kitap, biri kurutulmuş bitkilerle doluydu.
 
-Heyetin başındaki kadın, orta yaşlı, keskin gözlü bir arşivci, kendini, "Kâtip Serel" olarak tanıttı.
+Serel masaya dört formül koydu. Biri kanamayı yavaşlatıyor, biri yaygın deniz zehirlerini etkisizleştiriyordu. Hiçbiri Can Macunu kadar güçlü değildi.
 
-Serel, Zaleena'nın huzurunda, resmi bir eğilmeyle konuştu. "Mirasçılar adına geldim — anlaşmamızın ilk adımını atmak için."
+"Bunları burada yapabilir miyiz?" dedi Zaleena.
 
----
+"İki bitki Enkaz kıyısında yetişiyor. Üçüncüsünü Eski-Kent'ten alırsınız. Damıtma kabını kendiniz üretebilirsiniz."
 
-Görüşme, Zaleena'nın beklediğinden çok daha verimli geçti — Serel, Delta'dan bağımsız birkaç temel alkimi formülü paylaştı: basit yara iyileştiricileri, zehir panzehirleri, hiçbiri Can Macunu kadar güçlü değildi, ama hiçbiri de, Delta'nın tekeline bağlı değildi.
+Şifahanenin ustası Mira ilk karışımı Serel'in önünde hazırladı. Sıvı mavi yerine kahverengi oldu.
 
-"Bu, bir başlangıç," dedi Serel, formülleri, dikkatle hazırlanmış parşömenler halinde sunarken. "Daha derin bilgi, güvenin, zamanla inşa edilmesini gerektirir. Ama bu, iyi niyetimizin bir kanıtı."
+"Ateş fazla yüksek," dedi Serel.
 
-Zaleena, parşömenleri, dikkatle inceledi, içinde, gerçek bir umut filizlenerek. "Bu, Delta'nın tekelini, tam olarak kırmaz. Ama bir çatlak açar."
+İkinci denemede renk tuttu. Zaleena formülü kasaya kaldırmak yerine Mira'nın iki çırağına da kopyalattı. Bilgi tek kişinin elinde kalırsa yeni bir Delta yaratırlardı.
 
-"Her büyük değişim," dedi Serel, hafif bir gülümsemeyle, "küçük bir çatlakla başlar."
+Karşılığında Mirasçılara güncel Enkaz haritası verildi. Paslı Gelgit devriye hattı, batıkların yeni yerleri ve Akıntı yaratıklarının görüldüğü tarihler ayrı renklerle işaretlenmişti.
 
----
+Serel haritayı incelerken Togan'ın adını sordu. Zaleena onu yalnız kayıtlardan bildiğini söyledi.
 
-Karşılığında, Zaleena, Serel'e, Enkaz bölgesinin en güncel deniz haritalarını, ve Paslı Gelgit'le yeni kurulan barışın detaylarını sundu.
+"Sed'e gitti," dedi Serel. "Baş Kâtip Lyra haber bekliyor."
 
-Serel, haritaları inceledi. "Bu bilgi, Mirasçılar için, çok değerli. Yıllardır, Enkaz sularının gerçek doğasını, sadece parça parça biliyorduk."
+"Dönerse mektup yolu açık."
 
-"Karşılıklı fayda," dedi Zaleena. "Umarım, bu, uzun bir ortaklığın başlangıcı olur."
+İlk günün sonunda Mira'nın hazırladığı merhem liman işçisinin kesilmiş avucunda denendi. Kanama kısa sürede yavaşladı. Küçük bir sonuçtu, fakat gözlerinin önündeydi.
 
----
+Roric akşam ne kazandıklarını sordu.
 
-Roric, görüşmeden sonra, Zaleena'nın yanına geldi, yüzünde, nadir görülen bir memnuniyet vardı. "İyi gitti."
+"Dört tarif değil," dedi Zaleena. "Beş kişinin yapabildiği dört tarif."
 
-"Gitti." Zaleena, parşömenleri, dikkatle, kendi arşivine yerleştirirken, sesi, düşünceli bir tatminle doluydu. "Küçük adımlar, Roric. Ama her biri, bizi, Delta'nın gölgesinden, biraz daha uzağa taşıyor."
-
-"Peki sırada ne var?"
-
-Zaleena, uzun bir süre düşündü, sonra, yavaşça. "Sırada, sabır var. Serel'in dediği gibi — güven, zamanla inşa edilir. Bu ilişkiyi, aceleye getirmeyeceğim. Ama her ay, her yeni formül, her yeni bilgi paylaşımıyla, Yamalı Liman'ı, biraz daha bağımsız, biraz daha güçlü yapacağım."
-
----
-
-O akşam, kendi kamarasında, tek başına otururken, Zaleena, yeni formülleri, bir kez daha gözden geçirdi — küçük, mütevazı bilgiler, ama, kendi ellerinde, bir devletin, yavaşça, kendi ayakları üzerinde durmaya başladığının kanıtıydı.
-
-Pencereden, limana baktı — sakin, düzenli, güvenli. Bir zamanlar, sadece hayatta kalmak için savaşan bir kaçakçının hayal bile edemeyeceği bir manzara.
-
-*Yavaş,* diye düşündü Zaleena, *ama gerçek. Ve bazen, en kalıcı zaferler, en yavaş kazanılanlardır.*
+Ertesi sabah formüller şifahanenin eğitim defterine geçirildi. Delta'nın tekeli bir anlaşmayla kırılmamıştı. İlk kez bir yarayı onların şişesini açmadan kapatabilmişlerdi.

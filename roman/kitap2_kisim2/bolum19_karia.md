@@ -1,38 +1,32 @@
 # Bölüm 19 — Ticaretin Dili
-*(KARİA)*
+*(KARIA)*
 
-Zaleena'nın ilk resmi ticaret heyeti, Metheris limanına, bahar güneşinin altında demirlediğinde, Karia, bunun, ittifaklarının, artık, kağıt üzerinde değil, gerçek hayatta, somutlaştığının bir işareti olduğunu düşündü.
+Yamalı Liman'ın ilk resmî ticaret heyetine Kaptan Toma başkanlık etti. Üç gemi kurutulmuş balık, batık metalinden işlenmiş alet ve Enkaz reçinesi taşıyordu.
 
-Heyetin başındaki genç kaptan, kendini, "Toma" olarak tanıttı — Zaleena'nın, güvendiği yeni nesil kaptanlardan biri.
+Metheris gümrüğü ilk gün gemilerden ikisini bekletti. Belgelerde Yamalı Liman için ayrı ülke kodu yoktu. Karia tören konuşması yapmak yerine gümrük binasına gitti.
 
-"Kraliçem, sizi, Kraliçe Zaleena adına selamlıyorum," dedi Toma, resmi bir eğilmeyle. "Enkaz bölgesinin en iyi ürünleri, sizin pazarlarınıza açılmaya hazır — ve karşılığında, Hegemonya'nın zanaatı, bizim limanımıza."
+"Yeni kod açılması üç ay sürer," dedi başmemur.
 
----
+"Geçici kod?"
 
-Görüşme, saatler sürdü — vergi oranları, gümrük anlaşmaları, ortak liman güvenliği, hepsi, dikkatle müzakere edildi. Faelan, artık, Konsey üyesi olarak, tartışmanın teknik detaylarına, keskin bir dikkatle katıldı.
+"Konsey kararı gerekir."
 
-"Bu anlaşma," dedi Faelan, görüşme sonunda, "sadece ticari değil, Majesteleri. Stratejik. Yamalı Liman'ın güçlenmesi, bizim, kuzey sularımızın güvenliği için de, iyi bir haber."
+Faelan aynı öğleden sonra küçük ticaret komitesini topladı. Toma vergi indirimi değil, Hegemonya tüccarlarıyla aynı oranı istedi. Karşılığında Yamalı Liman da Metheris gemilerine eşit tarife uygulayacaktı.
 
-Karia, başını salladı, içinde, gerçek bir tatminle. "Bir yıl önce, Zaleena, sadece bir kaçakçıydı benim için — belki bir tehdit, belki bir fırsat. Şimdi, en güvenilir müttefiklerimden biri."
+Anlaşma gün batmadan geçti. Geçici kod olarak YL harfleri kayda girdi.
 
----
+Toma ilk beyan kâğıdını Karia'ya gösterdi. "Bazen bir devlet iki harften başlıyor."
 
-Toma, görüşmeden sonra, Karia'ya, kişisel bir mesaj da iletti — Zaleena'nın, kendi eliyle yazdığı bir mektup.
+"Bazen de o iki harfi yazdırmak için üç filo gerekiyor."
 
-*Karia,* diye yazıyordu mektup, *umarım, bu anlaşma, ikimizin de halkına fayda sağlar. Ve umarım, bir gün, yüz yüze, sadece siyaset değil, gerçek bir sohbet için de buluşuruz — belki, ikimizin de, hâlâ öğrenmekte olduğu bu 'kraliçelik' işi hakkında.*
+Toma, Zaleena'nın kişisel mektubunu verdi. Kraliçelik yükünü devlet görüşmesi dışında konuşabilecekleri bir ziyaret öneriyordu.
 
-Karia, bu son cümleye, hafif bir gülümsemeyle karşılık verdi — Zaleena'nın, kendisi gibi, bu yeni rolün ağırlığıyla, hâlâ, sessizce boğuştuğunu bilmek, garip bir teselli veriyordu.
+Karia daveti kabul etti, fakat küçük ve duyurulmamış bir heyet istedi. Bu bir gizli ittifak toplantısı olmayacak, iki yönetici arasındaki özel görüşme olacaktı. Güvenlik kaydı yine tutulacaktı.
 
----
+Kaelan akşam mektubu sormadı. Karia kendisi anlattı.
 
-O akşam, Sör Kaelan, Karia'yı, bahçede buldu, mektubu, hâlâ elinde tutarken.
+"Git," dedi yaşlı şövalye. "Tahtı paylaşamazsın. Ağırlığını konuşabilirsin."
 
-"İyi haberler mi?" diye sordu Kaelan.
+Rıhtımda Toma'nın yükleri nihayet boşaltılıyordu. İlk satış Enkaz reçinesi değil, batık metalinden yapılmış sağlam çiviler oldu. Metheris tersanesi bütün sandığı satın aldı.
 
-"Öyle," dedi Karia, mektubu katlayarak. "Zaleena, benzer bir yol yürüyor, sanırım — kraliçelik, vâris meselesi, kendi kalbiyle krallığı arasında bir denge kurmaya çalışmak. Yalnız olmadığımı bilmek, garip bir şekilde, rahatlatıcı."
-
-"Belki de," dedi Kaelan, düşünceli bir sesle, "bu, senin aradığın cevabın bir parçasıdır, evladım — vâris meselesini çözmek için, sadece bir eş aramak zorunda değilsin. Belki, ihtiyacın olan, seni anlayan müttefikler, dostlar. Taht, tek başına taşınmak zorunda değil."
-
-Karia, bu düşünceyi, uzun bir süre, sessizce tarttı — ve ilk kez, aylardır, vâris meselesinin, sadece bir evlilik sorusu olmadığını, belki de, daha geniş bir soru olduğunu hissetti: kimlerle, bu yükü, paylaşacaktı.
-
-Masasına oturup, Zaleena'ya, kısa bir cevap yazdı: *Ben de, aynı şeyi diliyorum. Belki, gelecek ay, gerçek bir ziyaret planlayabiliriz — sadece iki kraliçe olarak değil, iki kadın olarak da.*
+Karia ticaretin dostluk yaratacağını varsaymadı. Fakat çiviler Hegemonya gemilerine girdikçe iki limanın birbirini batırması daha pahalı olacaktı. Ticaretin en dürüst dili bazen buydu.

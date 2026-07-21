@@ -1,42 +1,32 @@
 # Bölüm 16 — Yeni Delta
 *(ZALEENA)*
 
-Karia'nın mektubu, Zaleena'yı, gerçek bir şaşkınlıkla karşıladı: *Sarris düştü. Delta, artık, farklı bir yüzle, karşımızda.*
+Sarris'in yetkileri alınınca Amara geçici yürütme başına seçildi. Karia'nın mektubu haberi zafer diye değil, güç değişimi diye aktarıyordu.
 
-Roric, haberi duyunca, inanamadı. "İnanılmaz. Yıllarca, Sarris'in gölgesi, bütün kıtanın üzerindeydi. Ve şimdi... sessizce, gitti."
+Amara yeni bir sözleşme önerdi. Fiyatlar altı aylık ortalamaya bağlanacak, teslimat miktarları dış denetçiyle doğrulanacak ve bireysel kaptan kredileri Delta kayıtlarında açık tutulacaktı.
 
-Zaleena, bu gelişmeyi, dikkatle değerlendirdi. "Amara'nın, gerçekten, tahmin ettiğimizden daha güçlü olduğunu gösteriyor bu."
+"Tam şeffaflık yazmış," dedi Kessel.
 
----
+Zaleena metindeki istisnaları gösterdi. Askerî malzeme ve özel ortak hesapları denetim dışında kalıyordu.
 
-Amara'nın kendi mesajı, birkaç gün sonra geldi — resmi, ama daha önce hiç göstermediği bir sıcaklıkla.
+"Tam değil. Öncekinden fazla."
 
-*Zaleena,* diye yazmıştı, *Delta, artık, benim önderliğimde. Ve söz veriyorum — geçmişin oyunları, gerçekten bitti. Yeni bir anlaşma teklif ediyorum: tam şeffaflık, adil fiyatlandırma, ve Yamalı Liman'ın bağımsızlığına, tam saygı.*
+Kaptanlar Konseyi anlaşmayı bir yıllık deneme için kabul etti. Mirasçılardan bir kâtip ve Hegemonya'dan bağımsız bir muhasebeci denetçi seçildi. Delta da kendi temsilcisini ekledi; rapor üç imzayla geçerli olacaktı.
 
-Zaleena, bu teklifi, uzun bir süre düşündü, sonra, Kessel'e döndü. "Ne düşünüyorsun?"
+Serel aynı hafta geldiğinde bağımsız bilgi hattının artık gereksiz olup olmadığını sormadı. Yeni şifa formüllerini ve Eski-Kent'in arşiv kopyalarını getirdi.
 
----
+"Delta değişti diye tek kaynağa dönmeyeceğiz," dedi Zaleena.
 
-"Temkinli bir iyimserlik," dedi Kessel, dikkatle. "Amara, şimdiye kadar, sözünü tuttu — Sarris'in oyunlarını, kendi tarafında, gerçekten durdurdu. Ama güç, insanları, bazen, değiştirir."
+"Bunu duymak için sordum sayılır," dedi Serel.
 
-Zaleena, başını salladı. "Doğru. Yine de, bu, denemeye değer bir fırsat. Delta'yla, gerçek bir ortaklık — bu, yıllar önce, hayal bile edemeyeceğim bir şeydi."
+Amara ilk denetim tarihini zamanında bildirdi. Sarris'e bağlı iki hesap ise dondurulmuş görünüyordu. Zaleena bunların kapandığına inanmadı; yalnız hareket edemediklerini kaydetti.
 
-O hafta, Zaleena, Amara'nın teklifini, resmi olarak kabul etti — dikkatli, ama gerçek bir umutla.
+Akşam Kessel bir yılda kurdukları bağları saydı: Paslı Gelgit, Hegemonya, Mirasçılar ve şimdi yeni Delta.
 
----
+"Dördüne de güvenmiyoruz," dedi Zaleena.
 
-Serel'in Mirasçı gemisi de, aynı hafta, yeni bir ziyaretle geldi — ilişkinin, artık, düzenli hale geldiğinin bir kanıtı.
+"Bu kötü mü?"
 
-"Delta'daki değişimi duyduk," dedi Serel, Zaleena'yla görüşürken. "İlginç bir zaman, gerçekten. Belki, bağımsız bilgi kanalımız, artık, eskisi kadar acil değil — ama biz, yine de, bu ortaklığı, sürdürmek istiyoruz. Değer, sadece, ihtiyaçtan gelmiyor."
+"Hayır. Dördüyle de güvenmeden çalışabileceğimiz kurallar var. İyi olan bu."
 
-Zaleena'nın minnettarlığı gerçekti. "Katılıyorum. Dostluk, sadece, gerektiğinde değil, her zaman, değerlidir."
-
----
-
-O akşam, Kessel'le, sessizce otururken, Zaleena, bütün bu gelişmeleri, bir kez daha, düşündü.
-
-"Bir yıl içinde," dedi Zaleena, yavaşça, "Delta'nın en tehlikeli kanadı düştü, Paslı Gelgit'le barış yaptık, Mirasçılar'la ittifak kurduk. Bazen, kendime, bunların, gerçekten olduğuna inanmakta zorlanıyorum."
-
-"Ama oldu," dedi Kessel, elini, onunkine sıkıca kenetleyerek. "Ve sen, bunların, hepsinin, merkezindeydin."
-
-Zaleena, bu söze, derin bir gururla, ama aynı zamanda, alçakgönüllü bir farkındalıkla karşılık verdi — hiçbir zafer, tek başına kazanılmamıştı; hepsi, sadakat, sabır, ve doğru insanlarla, doğru anlarda kurulan bağlarla örülmüştü.
+Yeni Delta eski gölgesini bir gecede kaybetmemişti. İlk kez gölgenin nerede başladığını görmek için ortak hesap ışığı yakılmıştı.

@@ -1,54 +1,44 @@
 # Bölüm 42 — İki Sadakat
 *(TEMUJİN)*
 
-Korgan, Temujin'i, meclis toplantısından sonra, yalnız bıraktı — bu, her zaman, kötü bir işaretti.
+Korgan meclisten sonra Temujin'i yalnız tuttu.
 
-"Batu hakkında ne düşünüyorsun?" diye sordu Han, dolambaçsız, gözlerinde, hesaplı bir dikkatle.
+"Batu'yla yakınlaştın."
 
-Temujin, dikkatle cevap verdi. "İyi bir savaşçı. Sadık, Han'ım."
+"Kartal Burnu'nda birlikte savaştık."
 
-"Sadık mı?" Korgan'ın sesi, hafif bir alayla yükseldi. "Son zamanlarda, seninle, garip bir yakınlık kurdu. İkiniz, artık, birlikte anılıyorsunuz — meclis odasında bile fısıldanıyor bu."
+"Onu izle. Kimlerle konuştuğunu ve benden ne sakladığını haftada bir bildireceksin."
 
-Temujin'in içi soğudu, ama yüzü, sakin kaldı. "Kartal Burnu'ndan beri, evet, bir saygı gelişti aramızda, Han'ım. Ben, onun hayatını kurtardım. Bu tür şeyler, insanları yakınlaştırır."
+Temujin itiraz etmedi. "Emredersiniz."
 
-"Ya da," dedi Korgan, yavaşça, "iki hırslı adamı, ortak bir çıkar etrafında birleştirir."
+Orkhon'a göre iki seçenek vardı: Korgan'a yalan söylemek ya da Batu'nun güvenini parçalamak. Temujin üçüncüsünü seçti ve Batu'yu gece çağırdı.
 
----
+Haberi duyunca Batu şaşırmadı. "Bana da seni izlememi söyledi."
 
-"Senden, bir şey istiyorum," dedi Korgan, sesi, artık, doğrudan bir emre dönüşerek. "Batu'yu, benim için, izleyeceksin. Kimlerle konuştuğunu, ne planladığını, bana, düzenli olarak rapor edeceksin. Eğer, gerçekten sadıksa, bu, ona zarar vermez. Eğer değilse..."
+"Ne zaman?"
 
-Temujin, bu emrin ağırlığını, hemen kavradı — Korgan, onu, sadece Batu'yu izlemeye değil, kendi yeni ittifakını, kendi elleriyle, sabote etmeye zorluyordu.
+"Geçen hafta. Önce senin bana gelip gelmeyeceğini görmek istedim."
 
-"Anlaşıldı, Han'ım," dedi, sesinde, hiçbir tereddüt göstermeden. "İzleyeceğim."
+Temujin öfkesini göstermedi. Batu da onu sınamıştı; bu, kurulmakta olan ittifakın sınırıydı.
 
----
+"Korgan'a ne verdin?"
 
-Çadırına döndüğünde, Temujin, uzun bir süre, tek başına oturdu, zihni, hızla, olası yolları tartarak.
+"Senin geceleri harita çalıştığını, Sube'yle görüştüğünü. Bildiği şeyleri."
 
-Orkhon, sessizce içeri girdi, yüzünde, endişeli bir soru vardı. "Ne istedi?"
+"Bundan sonra raporları birlikte hazırlayacağız. Zararsız doğrular. Yalan değil, eksik görüntü."
 
-"Batu'yu casusluk yapmamı istedi." Temujin'in sesi, yorgun bir öfkeyle doluydu. "Ya sahte raporlar veririm, ve eğer Korgan, gerçeği başka bir yoldan öğrenirse, ikimiz de düşeriz. Ya da gerçek raporlar veririm, ve Batu'yla olan güveni, kendi ellerimle yıkarım."
+Batu masaya yumruğunu koydu. "Bir şartım var. Bana karşı gerçek bir hamle yaparsan önce kendin söylersin. Adamından duymam."
 
-"Üçüncü bir yol var mı?"
+"Sen de."
 
-Temujin, uzun bir süre düşündü, sonra, yavaşça. "Belki. Batu'ya, gerçeği söylerim — Korgan'ın, onu izletmek istediğini. Ve birlikte, Korgan'a, neyi görmesini istediğimize karar veririz. Gerçek bir ihanet değil — kontrollü bir görüntü, tıpkı Kartal Burnu'nda yaptığımız gibi."
+Bileklerini kenetlediler.
 
-"Bu, tehlikeli bir oyun, evlat. İki tarafı da, aynı anda, aldatıyorsun."
+İlk ortak rapor Batu'nun kuzey devriyesi talep ettiğini söyledi. Gerçekte bu talep hiç yapılmayacaktı; Korgan kabul ederse Batu emri yerine getirecek, reddederse kuşkusunun yönü görülecekti.
 
-"Biliyorum." Temujin'in gözleri, çadırın dışındaki karanlığa dikildi. "Ama Yeva'nın dediği gibi, üç Kızıl Ay içinde, bir seçim yapmam gerekecek. Belki de, bu, o seçime giden ilk adım."
+Han ertesi gün talebi reddetti ve Batu'yu merkezde tuttu.
 
----
+"İkimizi de yakınında istiyor," dedi Batu.
 
-Batu, o gece, gizlice çağrıldığında, haberi, beklenmedik bir sakinlikle karşıladı.
+"Ayrı ayrı değil. Birbirimizi izlerken görmek istiyor."
 
-"Şaşırmadım," dedi Batu, oturarak. "Korgan, bana da, benzer bir şey söyledi geçen hafta — seni izlememi istedi."
-
-Temujin'in gözleri büyüdü. "Ve söylemedin bana?"
-
-"Söylemeyi düşünüyordum. Ama önce, senin, aynı teklifi alıp almadığını görmek istedim." Batu'nun sesi, garip bir eğlenceyle doluydu. "Görünüşe göre, Korgan, ikimizi de, birbirimize karşı kullanmaya çalışıyor. Ve ikimiz de, aynı anda, aynı hataya düşmedik."
-
-Temujin, bu ortak keşfe, tuhaf bir rahatlamayla güldü — günler sonra, ilk kez. "O zaman, gerçek bir anlaşmaya varalım, Batu. Korgan'a, ikimiz de, birbirimiz hakkında, sadece, zararsız, önceden üzerinde anlaştığımız şeyleri rapor edeceğiz. Gerçek planlarımız, aramızda kalacak."
-
-Batu, elini uzattı, ilk kez, gerçek bir müttefik jestiyle. "Anlaştık. Ve Temujin — bu, artık, sadece bir borç meselesi değil. Bu, gerçek bir ittifak."
-
-Temujin, bu eli sıktı, içinde, hem bir zafer hem de, yaklaşan fırtınanın ağırlığını hissederek. Üç Kızıl Ay, artık, daha da yakın görünüyordu.
+Temujin rapor defterine reddi kaydetti. Korgan onları birbirine bağlamaya çalıştıkça ortak ölçüleri artıyordu. Bu, güven demek değildi. Fakat artık ikisi de Han'ın sorusuna cevap vermeden önce ötekinin ne duyduğunu soruyordu.

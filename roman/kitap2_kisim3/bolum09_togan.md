@@ -1,40 +1,28 @@
 # Bölüm 9 — Mektup ve Sabır
 *(TOGAN)*
 
-Togan, üç gece, uyumadan önce, aynı mektubu, zihninde, tekrar tekrar yazdı — sonunda, kağıda dökene kadar.
+Togan belirtileri altı gün kaydettikten sonra Ozan'a yazdı. Unuttuğu adları, kızıl alevi ve her kullanım sonrası ağrının süresini ayrı ayrı belirtti. Mektubu Sube'nin ağıyla değil, Hegemonya ticaret kervanının kayıtlı postasıyla gönderdi.
 
-*Yaşlı Ozan,* diye başladı, *dengem, titremeye başladı. Işıyan'ın verdiği denge, kalıcı değilmiş — bunu, artık, kendi gözlerimle görüyorum. Mirasçı kayıtlarında, benzer bir denge bulan, ya da, benim durumumu anlayabilecek biri var mı? Cevabınızı, sabırla bekleyeceğim.*
+Cevap en erken altı hafta sonra gelecekti.
 
-Mektubu, Sube'nin ağı aracılığıyla, Eski-Kent'e gönderdi — cevabın, haftalar alacağını bilerek.
+Bu sürede yankı alıştırması yapmadı. Her sabah beş adı söyledi, Perren sonucu deftere yazdı. Nöbetten çekilmişti; silah eğitimini ise sürdürdü. Bedeni hareketsiz bırakmak korkusunu büyütüyordu.
 
----
+Kaya bir gün meşale olayını sordu. "Yine olursa ne yapacağız?"
 
-Bu bekleyiş, Togan'ı, huzursuz etti — ama Temujin, ona, sabırlı olmayı hatırlattı.
+Togan daha önceki gibi herkesi kendisinden uzaklaştırmalarını istemedi. Bunun yerine üç adımlı plan hazırladılar. Perren önce adları soracak, Kaya alanı boşaltacak, Temujin metal ve ateşi uzaklaştıracaktı. Togan kendine zarar verirse ellerini bağlamak için deri kayış hazır tutulacaktı.
 
-"Sen, bana, sabrın, bazen, en büyük güç olduğunu öğrettin," dedi Temujin, bir akşam, ateşin başında. "Şimdi, aynı dersi, kendine de uygulaman gerekebilir."
+"Bunu gerçekten istiyor musun?" dedi Kaya.
 
-"Kolay değil," dedi Togan, yorgun bir gülümsemeyle, "kendi kanının, ne zaman kontrolden çıkacağını bilmeden, sabırlı olmak."
+"Kontrolümü kaybettiğim anda karar veremem. Şimdi veriyorum."
 
-"Biliyorum. Ama yalnız değilsin bu bekleyişte."
+Perren kayışı yanında taşıdı, fakat Togan'ın karşısına koymadı.
 
----
+Bekleyişin üçüncü haftasında hiçbir olay olmadı. Bu iyiye işaret olabilirdi. Yankının daha sessiz biçimde değişmesi de mümkündü. Togan iki ihtimali de kayda yazdı.
 
-Bu arada, Togan, kendi kontrolünü, dikkatli alıştırmalarla, güçlendirmeye çalıştı — her gün, sessizce, yankısını, dikkatle dinleyerek, onu, öfke ya da korkuyla değil, sakin bir farkındalıkla, yönetmeyi öğrenerek.
+Temujin sabırlı olmasını söylediğinde Togan kızmadı. "Sabır, hiçbir şey yapmamak değil. Her gün ne değiştiğini ölçüyorum."
 
-Kaya, bu alıştırmaları, meraklı bir dikkatle izledi. "İşe yarıyor mu?"
+"Bana da öğretmen gerekecek."
 
-"Biraz," dedi Togan, dikkatle. "Sanırım, sorun, yankının kendisi değil — benim, onu, ne zaman, nasıl hissettiğim. Eğer, sakin kalabilirsem, daha kontrollü kalıyor."
+"Önce kendi raporlarını zamanında yaz."
 
-"Peki ya, sakin kalamadığın anlarda?"
-
-Togan, bu soruya, dürüst bir cevap verdi. "O zaman, tehlikeli oluyor. Bunu, herkesin bilmesini istiyorum — eğer, bir gün, kontrolü kaybedersem, benden uzak durun. Ne olursa olsun."
-
----
-
-Perren, bu konuşmayı, sessizce dinlemişti, şimdi, kararlı bir sesle karşılık verdi. "Hayır. Uzak durmayacağım. Söz verdim, sana, ne olursa olsun, yanında olacağıma — ve bu sözü, tutacağım."
-
-Togan, bu inatçı sadakate, hem minnet hem endişeyle karşılık verdi. "Perren, eğer, tehlikeli olursam..."
-
-"O zaman," dedi Perren, sözünü kesmeden, "seni, durdurmanın bir yolunu buluruz — birlikte. Ama seni, terk etmeyeceğim, Togan. Bu, tartışmaya kapalı."
-
-Togan, gözlerinde, bastırılmış bir duyguyla, dostuna, sessizce başını salladı — ve o gece, ilk kez, günler sonra, gerçek bir huzurla uyudu, bilerek ki, ne olursa olsun, bu yolu, tek başına yürümeyecekti.
+Togan o gece uyumadan önce beş taşı sırayla tuttu. Bütün adlar yerindeydi. Huzur duymadı; yalnız ertesi sabaha kadar kullanabileceği bir veri daha kazandı.

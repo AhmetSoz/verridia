@@ -1,46 +1,36 @@
 # Bölüm 1 — Şüpheli Bir Konuk
 *(TOGAN)*
 
-Genç Kurtlar'ın küçük kampına, ilk resmi "konuk," bir aydan az bir süre içinde geldi — zarif giyimli, ölçülü konuşan bir tüccar, kendini, "Delta'nın dostane bir temsilcisi" olarak tanıttı.
+Genç Kurtların ilk resmî konuğu Delta temsilcisi Renn oldu. İnce kumaşlı çadırını kendi adamları kurdu; getirdiği armağan sandığı iki kişinin zor taşıyacağı kadar ağırdı.
 
-Togan, bu adamı, kampın kenarından, dikkatle izledi — bir şey, içgüdüsel olarak, onu rahatsız ediyordu.
+Temujin onu yeni toplantı çadırında kabul etti. Togan, Sube ve topluluk defterini tutan Yeva da tanık olarak oturdu.
 
-"Ne hissediyorsun?" diye sordu Temujin, yanına gelerek, sesi alçak.
+Renn silah, kredi ve simya malzemesi önerdi. İlk yıl ödeme alınmayacak, ikinci yıl tutar yeni anlaşmayla belirlenecekti.
 
-"Bilmiyorum, tam olarak," dedi Togan, gözlerini kapatmadan, adamı izlemeye devam ederek. "Ama bir şey... yanlış. Sözleri, bir şey söylüyor, ama niyeti, başka bir şey."
+"Faiz oranı nerede?" dedi Togan.
 
----
+"Dostlar arasında oran sonra konuşulur."
 
-Temujin, tüccarı, kendi çadırında kabul etti — dikkatli, ama açık bir düşmanlık göstermeden.
+"Teminat?"
 
-"Delta," dedi tüccar, kendini "Renn" olarak tanıtarak, "sizin, bağımsızlığınızı, ilgiyle izliyor. Ve bir teklif sunmak istiyor — kaynaklar, silahlar, hatta, belki, alkimi bilgisi. Karşılığında, sadece, dostane bir ticaret ilişkisi."
+"Topluluğun gelecekteki ticaret gelirleri."
 
-Temujin, dikkatle karşılık verdi. "Cömert bir teklif. Neden, bu kadar erken, bize, bu kadar çok şey sunuyorsunuz?"
+Togan'ın şüphesi bir sezgiden gelmiyordu. Bedeli boş bırakılmış, teminatı bütün gelecek olan bir sözleşme önlerindeydi.
 
-Renn, bu soruya, hafif bir gülümsemeyle karşılık verdi. "Çünkü, Genç Kurtlar, bir gün, önemli bir güç olabilir. Ve Delta, önemli güçlerle, erken dostluk kurmayı sever."
+Temujin sandığın açılmasını istedi. İçinde otuz yeni kılıç ve altı şişe güçlendirici öz vardı. Her parça için teslim belgesi hazırlanmıştı; armağan denmesine rağmen borç hanesi boş değildi.
 
----
+"Kabul etmiyoruz," dedi Temujin.
 
-Togan, bu konuşmayı, çadırın dışından, dikkatle dinlemişti. İçeri girdiğinde, sesi, doğrudan, neredeyse kaba bir netlikle çıktı.
+Renn gülümsedi. "Düşünmek için zamanınız var."
 
-"Sizi tanımıyorum," dedi Togan, Renn'e, doğrudan bakarak, "ama bir şey biliyorum — Delta, hiçbir zaman, karşılıksız cömert olmaz. Bu teklifin altında, ne var, gerçekten?"
+"Sandığı bugün götürün. Düşünürken malınızı kullanmış sayılmak istemiyoruz."
 
-Renn'in yüzü, bir an, hafifçe gerildi — neredeyse fark edilmez bir tik, ama Togan, onu yakaladı.
+Renn ilk kez rahatsız oldu. Yine de itiraz etmeden kalktı.
 
-Renn'in sesi, hâlâ pürüzsüzdü, ama artık, biraz daha temkinli. "Sadece, ticaret."
+Temsilci ayrılınca Temujin, Togan'a ne hissettiğini sordu.
 
----
+"Hiçbir şey hissetmedim. Okudum. İkinci yılın fiyatı yok."
 
-Temujin, bu gerilimi fark ederek, dikkatle araya girdi. "Teklifinizi, düşüneceğiz, Renn. Ama şimdilik, hiçbir şeye karar vermeden önce, kendi bağımsızlığımızı, sağlamlaştırmak istiyoruz — kimseye borçlu olmadan."
+Sube Renn'i sınırdan çıkana kadar izleyecekti. Bunun için gizli büyüye gerek yoktu; ziyaretçinin hangi yola döndüğünü ve kimle konuştuğunu bilmek yeterliydi.
 
-Renn ayrıldıktan sonra, Temujin, Togan'a döndü. "Ne düşünüyorsun, gerçekten?"
-
-"Düşünüyorum ki," dedi Togan, yavaşça, "bu teklif, bir hediye değil, bir tuzak. Delta, sizi, bağımlı hale getirmek istiyor — tıpkı, Karia ve Zaleena'yı yaptığı gibi, duyduğuma göre. Kabul ederseniz, bir gün, kendi borcunuzun altında, ezilebilirsiniz."
-
-Temujin, bu uyarıyı, derin bir ciddiyetle dinledi. "O zaman, teklifi reddedeceğiz. Ve Delta'nın, gerçek niyetini, dikkatle izlemeye devam edeceğiz."
-
----
-
-O gece, Temujin, Sube'yi çağırdı. "Bu Renn'i, izle. Nereye gidiyor, kiminle konuşuyor. Eğer Delta, bizi, erken bir hedef olarak görüyorsa, bunu, tam olarak anlamamız gerek."
-
-Togan, ateşin başında, tek başına otururken, kendi kendine düşündü: Delta'nın gölgesi, görünüşe göre, hiçbir yeni gücü, uzun süre, kendi haline bırakmıyordu. Ve belki de, Genç Kurtlar'ın, gerçek ilk sınavı, dış bir düşmanla değil, bu görünmez, sabırlı ağla olacaktı.
+Akşam kılıç sandığı yeniden arabaya yüklendi. Genç Kurtların ilk büyük teklifi, sahip olmadıkları geleceği teminat göstermelerini istiyordu. Reddetmeleri topluluğa tek bir kılıç kazandırmadı. İlk borçtan kaçınmalarını sağladı.

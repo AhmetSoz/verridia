@@ -1,38 +1,22 @@
-# Bölüm 7 — Yol Arkadaşları
-*(KARİA)*
+# Bölüm 7 — Aynı Yolun Kuralları
+*(KARIA)*
 
-Yolculuk, Karia'nın hayal ettiğinden, çok daha keyifli geçiyordu — Zaleena'nın gemisiyle, kıyı boyunca, sonra, Eski-Kent'e giden kara yoluna geçerek, iki kraliçe, ilk kez, günler boyunca, sürekli bir arada bulunuyordu.
+İki heyet kıyı yolunun son hanında birleşti. İlk anlaşmazlık ertesi sabah çıktı. Faelan önden dört atlı göndermek istiyor, Zaleena bunun çevre köylerde askerî geçit sanılacağını söylüyordu.
 
-Bir akşam, ateşin başında, Zaleena itiraf etti. "Seninle, bu kadar uzun bir yolculuk yapmayı, hiç hayal etmemiştim — bir yıl önce, bir kaçakçı olarak."
+Karia iki tarafın haritalarını yan yana açtı. "Öncüler armasız gidecek. Köylere girmeyecek, yalnızca köprüleri ve suyu denetleyecekler."
 
-"Ben de," dedi Karia, gülümseyerek, "seninle, sıradan bir sohbet edeceğimi, hiç düşünmemiştim, bir amiral olarak."
+Zaleena başını salladı. Faelan da emri uyguladı. Ortak yolculuğun dostluğu kendiliğinden üretmediğini daha ilk günden öğrenmişlerdi; her küçük karar iki ayrı yönetim alışkanlığını masaya getiriyordu.
 
----
+Elowen, öğle molasında Kessel'e eski sınır taşlarını sordu. Kessel üçüncü soruda sabrını kaybetti.
 
-Elowen ve Kessel, bu yolculukta, kendi aralarında da, beklenmedik bir dostluk kurmuşlardı — biri, tarih tutkusuyla, diğeri, pratik bilgeliğiyle, uzun saatler boyunca, sohbet ediyorlardı.
+"Her yıkıntının hikâyesini bilmem," dedi. "Bazen taş yalnızca taştır."
 
-Zaleena, onları izledi. "İlginç bir çift, değil mi? Elowen, sonsuz sorular soruyor; Kessel, sonsuz sabırla cevaplıyor."
+Elowen defterini kapattı. Akşam olunca Kessel yanına gelip gündüz sert konuştuğunu kabul etti. Buna karşılık Elowen de muhafızların dinlenme saatinde soru sormamaya söz verdi. Ertesi gün ikisi, yol üzerindeki kuyuların yaşını birlikte hesaplıyordu.
 
-"Onlar da," dedi Karia, düşünceli, "bizim gibi — beklenmedik yerlerden gelen, beklenmedik bir mutluluk."
+Karia ile Zaleena geceleri yönetim meselelerini konuştu. Karia kalıcı bir vergi düzeninin güven verdiğini savunuyor, Zaleena limanda gelir mevsime göre değiştiği için sabit yükün küçük tüccarı ezdiğini anlatıyordu. Hiçbiri ötekini ikna etmedi. Karia bunu başarısızlık saymadı; Zaleena'nın hangi koşulda nasıl düşündüğünü artık biliyordu.
 
----
+Eski-Kent'e iki gün kala yağmur başladı. Tekerlerden biri çamura gömülünce Karia da arabadan indi. Faelan itiraz edecek oldu, sonra Zaleena'nın çoktan omzunu tekerleğe verdiğini gördü.
 
-Faelan, yolculuğun güvenliğini, dikkatle organize etmişti — küçük ama etkili bir muhafız grubu, hiçbir gösterişe kaçmadan, iki kraliçeyi koruyordu.
+Arabayı altı kişi çıkardılar. Karia'nın çizmesi dizine kadar çamur olmuştu. Elowen gülmesini saklamadı.
 
-Bir akşam, rotayı kontrol ederken, Faelan haber verdi. "Eski-Kent'e, iki gün kaldı. Ozan, sizi, orada, bekliyor."
-
-Karia, bu haberi, artan bir merakla karşıladı. "Togan'ı, oradan, tanıyor muyuz, gerçekten? Sadece, isim olarak, mektuplarla bildiğimiz biri."
-
-"Yakında, öğreniriz," dedi Zaleena, gülümseyerek.
-
----
-
-O gece, Karia, kendi çadırında, tek başına, bu yolculuğun anlamını, bir kez daha düşündü — bir yıl önce, sadece, kendi krallığının sınırları içinde yaşayan bir kraliçe, şimdi, bilinmeyen topraklara, yeni dostluklar kurmak için, cesaretle yola çıkıyordu.
-
-Elowen, çadıra girdi, yorgun ama mutlu bir gülümsemeyle. "Yarın, Eski-Kent'i göreceğiz. Heyecanlı mısın?"
-
-"Çok," dedi Karia, dürüstçe. "Ama aynı zamanda, garip bir şekilde, sakin de. Sanki, bu yolculuk, gerçekleşmesi gereken bir şeymiş gibi."
-
-Elowen, yanına oturdu, elini tutarak. "Bazı yolculuklar, öyledir — kaderin, sabırla, örmeye devam ettiği bir dokunun, sadece, görünür hale gelmesi."
-
-Karia, bu söze, sessizce başını salladı — ve ikisi, o gece, yaklaşan buluşmanın, hem heyecanını hem de belirsizliğini, birlikte, sessizce paylaştılar.
+O gece rota toplantısı kısa sürdü. Aynı yolda ilerlemek için aynı düşünmek gerekmediğini hepsi anlamıştı; yalnızca ayrılığı karar çıkana dek taşıyacak bir usul gerekiyordu.

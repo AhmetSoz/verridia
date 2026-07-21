@@ -1,36 +1,18 @@
-# Bölüm 3 — Amara'nın Teklifi
-*(KARİA)*
+# Bölüm 3 — Beş Hesabın Çevresi
+*(KARIA)*
 
-Amara'nın mesajı, bu kez, çok daha somut bir teklif taşıyordu — Karia, onu, okurken, gerçek bir şaşkınlık hissetti.
+Neris'in ilk raporundan sonra Amara somut bir öneri gönderdi. Malakor bütçesine bağlı beş ticaret hesabına dış limanlarda geçici ödeme durdurması uygulanırsa Delta iç kurulu defterleri açmak zorunda kalacaktı.
 
-*Karia,* diye yazmıştı Amara, *düşündüm, uzun uzun. Ve karar verdim — Malakor'un, Delta içindeki, kontrolsüz gücünü, sınırlamak istiyorum. Bunun için, sizin ve Zaleena'nın desteğine, ihtiyacım olabilir — dışarıdan bir baskı, benim, içeriden yapacağım hamleyi, güçlendirebilir.*
+Karia öneriyi Faelan ve Bilgeler Meclisi'ne verdi. Toma, hesaplardan ikisinin meşru tüccarlarla ortak çalıştığını buldu. Tüm ödemeyi kesmek masum gemileri de durduracaktı. Wren dondurmanın hangi belgeyle kalkacağını sordu; Amara'nın metninde cevap yoktu.
 
----
+Hegemonya yalnız kendi sınırındaki iki hesaba işlem kısıtı koydu. Mallara el konmayacak, yeni kamu sözleşmesi verilmeyecek ve mevcut ödemeler bağımsız incelemeye alınacaktı. Süre otuz gündü. Uzatma için Konseyin yeni kararı gerekecekti.
 
-Faelan, bu teklifi, dikkatle değerlendirdi. "İlginç. Ama riskli de — eğer, Amara, gerçekten, samimi değilse, bu, bizi, Malakor'a karşı, gereksiz yere, açık hedef yapabilir."
+Zaleena aynı yöntemi kendi liman hukukuna göre değerlendirecekti. Eski-Kent, kayıtları çoğaltacak; Amara ise Delta içindeki asıl hesap sahiplerini açıklayacaktı. Temujin'e baskıya katılma görevi verilmedi. Bozan soruşturmasını bu ekonomik adımla karıştırmamak gerekiyordu.
 
-"Biliyorum," dedi Karia, düşünceli. "Ama eğer, samimiyse, bu, büyük bir fırsat. Delta'nın, en tehlikeli figürünü, kendi içinden, zayıflatma fırsatı."
+Faelan dört kanalın aynı gün harekete geçmesinin güçlü görüneceğini söyledi.
 
----
+"Aynı gün olmasına ihtiyacımız yok," dedi Karia. "Aynı kanıta dayanmasına ihtiyacımız var."
 
-Karia, bu teklifi, dikkatle, Zaleena ve Temujin'le paylaştı — üç farklı bakış açısı, ortak bir stratejiye doğru, yavaşça şekillendi.
+Amara, Hegemonya'nın sınırlı kararını yetersiz buldu; fakat koşulları kabul etti. İlk hesabın sorumlusu incelemeye itiraz etti ve duruşma istedi. Karia bu talebi de güvence altına aldı.
 
-"Belki," dedi Zaleena, kendi cevabında, "üçümüz, ayrı ayrı, ama koordineli bir şekilde, Amara'ya, desteğimizi bildirebiliriz — resmi olmayan, ama gerçek bir destek."
-
-Temujin, kendi bakış açısını ekledi: *Ben de, kendi kanalımdan, Kaan aracılığıyla, Korgan'a, Malakor'un, bozkırdaki tehlikeli varlığını, dikkatle hatırlatabilirim. Belki, Korgan bile, bu konuda, bir baskı unsuru olabilir.*
-
----
-
-Bu üçlü strateji, dikkatle, hayata geçirildi — her biri, kendi kanalından, Malakor'a karşı, sessiz ama kararlı bir baskı oluşturmaya başladı.
-
-Sör Kaelan, bu koordinasyonu, hayranlıkla izledi. "Dört ayrı güç, tek bir hedefe karşı, birlikte hareket ediyor. Bu, gerçekten, görülmemiş bir şey, evladım."
-
-"Belki," dedi Karia, "bu, geleceğin, nasıl işleyeceğinin, bir örneği. Tek bir kahraman değil — birlikte hareket eden, birbirine güvenen müttefikler."
-
----
-
-O akşam, Karia, kendi kendine, bu büyüyen koalisyonu, düşündü — bir yıl önce, hayal bile edemeyeceği bir şey, şimdi, gerçek bir güç haline geliyordu.
-
-Elowen, bu düşünceyi, tarihsel bir bağlamda değerlendirdi. "Böyle koalisyonlar, nadiren, bu kadar organik oluşur, Karia. Genellikle, savaşın zorunluluğuyla kurulurlar. Sizinki, farklı — ortak değerlerle, sabırla inşa edildi."
-
-Karia, bu gözleme, derin bir gururla karşılık verdi. "Ve belki, tam bu yüzden, daha kalıcı olacak."
+Malakor'u içeriden zayıflatmak için gizli bir koalisyon kurmuyorlardı. Beş hesabın çevresine ışık, süre ve itiraz yolu koyuyorlardı. Eğer Amara'nın amacı yalnız rakibini tasfiye etmekse aynı kurallar bir gün ona da uygulanacaktı.

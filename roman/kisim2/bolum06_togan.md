@@ -1,44 +1,54 @@
 # Bölüm 6 — Yarım Kalan Haberler
 *(TOGAN)*
 
-Togan, Kuzey Sefer Yolu'na paralel ilerlerken, bir kervanın mola verdiği küçük bir dinlenme noktasına rastladı — birkaç çadır, bir kuyu, ve yorgun tüccarların, ateşin başında dinlenirken paylaştığı dedikodular.
+Kervan mola yerinin ateşi ağaçların arasından görünüyordu.
 
-Gizlice yaklaştı, gölgelerin arasına çömeldi, ve kulak misafiri oldu — bu, artık ona ikinci doğa gibi gelen bir alışkanlıktı.
+Togan yola yaklaşmadı. Kuyunun arkasındaki çalılığa çömeldi; Burkut’u daha karanlık bir dala gönderdi. Ateş çevresinde altı tüccar oturuyor, katırların ipleri yakındaki kazıklara bağlanmış duruyordu.
 
-"...bozkırda bir şey olmuş, diyorlar," diyordu tüccarlardan biri, sesi merakla dolu. "Bir Sungur kervanı, dün buradan geçti — telaşlı, sanki bir şeyden kaçıyorlarmış gibi."
+“Bozkırdan gelenler bu sabah geçti,” dedi adamlardan biri. “Atları köpük içindeydi.”
 
-"Ne olmuş ki?" diye sordu bir diğeri.
+“Azgut baskını mı?”
 
-"Bilmiyorum tam olarak. Ama birinin adını duydum — bir komutan, kaybolmuş ya da yakalanmış, tam anlayamadım. Sungurlar'ın en iyi savaşçılarından biriymiş."
+“Sungurlarmış. Kendi dillerinde bağırıp durdular. Bir kartal komutanı kayıp mıymış, esir miymiş... Anlamadım.”
 
-Togan'ın kalbi, bir anlığına duruverdi. Gölgelerin arasında, hareketsiz kaldı, kulakları o son cümleye kilitlenmiş.
+Togan’ın parmakları çalının dalını kırdı.
 
-"İsmi neydi?" diye sordu ilk tüccar, ilgisiz bir merakla — onun için bu, sadece bir dedikoduydu, uzak bir dünyanın önemsiz bir ayrıntısı.
+Tüccarlardan biri başını sese çevirdi. Togan kıpırdamadı.
 
-"Bilmiyorum. Kartal falan diyorlardı, ya da rüzgâr. Bu bozkır isimleri hep birbirine benziyor bana." Tüccar omuz silkti, konuyu değiştirdi, başka bir şeyden bahsetmeye başladı — ticaretten, fiyatlardan, hasadın yaklaşmasından.
+“Adı neymiş?”
 
-Togan, gölgelerin arasında, uzun bir süre hareketsiz kaldı. Kartal falan. Rüzgâr falan. Bu isimler, ona sadece bir şeyi hatırlatabilirdi: Kaya. Baş Rüzgar-Dinleyen. Ama bu, çok belirsiz bir bilgiydi — belki de farklı bir isimdi, farklı bir hikâyeydi, ilgisiz bir olaydı.
+“Rüzgâr, fırtına, öyle bir şey. Bozkırlıların yarısı kuş, yarısı hava zaten.”
 
-Yine de, içindeki o eski, tanıdık soğukluk yeniden uyanmıştı. Rüyasında gördüğü Kaya'nın yüzü, o endişeli, uzak ifade, şimdi başka bir anlam kazanmıştı gözünde.
+Adamlar güldü ve tahıl fiyatına geçtiler.
 
-Gölgelerden sıyrılıp uzaklaşırken, Togan, kendi kendine bir tartışma yürüttü. Geri dönmeli miydi? Emin olmalı mıydı? Ama geri dönmek, günler, belki haftalar demekti — ve eğer bu haber doğruysa bile, geri döndüğünde değiştirebileceği hiçbir şey olmayabilirdi. Ayrıca, belki de bu sadece bir söylenti, bir yanlış anlaşılmaydı; bozkırdan gelen her haber, bu kadar uzak bir mesafede, çarpıtılmadan ulaşamazdı.
+Togan ateşin başına çıkıp ayrıntı sormak istedi. Sungur habercilerin hangi yöne gittiğini, kaç kişi olduklarını, söylenen adın kadın mı erkek mi olduğunu öğrenebilirdi. Bunu yaparsa zırhındaki işaret de Burkut da saklanamazdı.
 
-"Belki bir şey değildir," diye mırıldandı kendi kendine, ama sesindeki inanç eksikti.
+Geri çekildi.
 
-Burkut, omzunda huzursuzca kıpırdandı — sanki o da, efendisinin içindeki kararsızlığı hissediyormuş gibi.
+Kartal komutanı. Rüzgâr. Fırtına.
 
----
+Üçü de Kaya’ya çıkıyordu.
 
-Togan, o gece, yolculuğuna devam ederken, zihni sürekli bu belirsiz haberle boğuştu. Kaya'yı son gördüğünde, arkadaşının yüzündeki hayal kırıklığını hatırladı — "Sen kiminle savaşıyorsun? Gerçekten?" sorusunu. Ve şimdi, belki de Kaya, Togan'ın terk ettiği o savaşta, bir bedel ödemiş olabilirdi — Togan'ın orada olmadığı bir savaşta.
+✦
 
-Bu düşünce, içinde yeni bir suçluluk katmanı açtı; Melira için taşıdığı yasın üzerine, şimdi bir de bu geliyordu — belki de arkadaşını, klanını, hepsini terk ederek, onları daha da savunmasız bırakmıştı.
+Kervan uyuduktan sonra yola yaklaştı. Taze at izlerini buldu. İzler güneye gidiyordu; haberi Metheris’e taşıyan Sungurlar olabilirdi. Peşlerine düşerse bir gün içinde yetişebilirdi.
 
-Ama sonra, kendi kendine sertçe hatırlattı: bir tek adamın varlığı ya da yokluğu, bir savaşın kaderini değiştirmezdi. Eğer Kaya gerçekten bir şey yaşadıysa, bu Togan'ın orada olup olmamasından bağımsız bir şeydi — bozkırın, Azgutlar'ın, kadim kan davasının kendi ritmiydi bu, ve Togan'ın tek bir kılıcı, o ritmi değiştirecek güçte değildi.
+Kuzey Sefer Yolu öteki yöndeydi.
 
-Yine de, bu mantık, içindeki huzursuzluğu tam olarak dindiremedi.
+Togan yol ayrımında uzun süre durdu. Kaya’yı son gördüğü sabah, süt ablasının elini uzatmadığını hatırladı. Togan çamurdan kendi başına kalkmış, birkaç saat sonra obayı terk etmişti.
 
-Sabaha karşı, bir tepenin üzerinde durup, arkasına, geldiği yöne, uzak kuzeydoğuya baktı — bozkırın, göremeyeceği kadar uzak olduğu yöne. "Umarım yanılıyorumdur, Kaya," diye fısıldadı rüzgâra, kelimelerin hiçbir yere ulaşmayacağını bilerek. "Umarım bu sadece bir yanlış anlaşılmadır."
+Burkut omzuna indi. Pençeleri usulca sıkıldı.
 
-Sonra döndü, yüzünü yeniden kuzeye, Işık Seddi'ne doğru çevirdi ve yürümeye devam etti — çünkü geri dönmenin bir anlamı yoktu artık, ve önündeki yol, arkasında bıraktığı her belirsizlikten daha somut, daha gerçekti.
+“Dönmeli miyiz?” diye sordu Togan.
 
-Ama o gece attığı her adımda, Togan, ilk kez, ayrılışının bedelinin sadece kendi kalbinde değil, belki de başkalarının hayatında da ödendiğini düşünmeye başladı.
+Kartal başını yana çevirdi.
+
+Geri dönüş en az bir hafta sürecekti. Haber doğruysa olay çoktan bitmişti. Yanlışsa Melira’ya ulaşmak için elindeki zamanı kendi korkusuna vermiş olacaktı. Togan iki gerekçenin de ardında aynı şeyi buldu: ne seçerse seçsin kendini bağışlamayacaktı.
+
+Güneye giden izlerin üstünde çömeldi, parmaklarını nal çukuruna bastırdı.
+
+“Yaşa, abla,” dedi.
+
+Ayağa kalkıp kuzeye döndü.
+
+O gece hızlı yürüdü. Yaralı bacağı her adımda sızladı; durmadı. Kaya’nın başına geleni bilmiyordu. Bilmediği şey, geride bıraktığı her fersahla ağırlaştı.

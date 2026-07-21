@@ -1,60 +1,42 @@
 # Bölüm 34 — Kartal Burnu
 *(TEMUJİN)*
 
-Bahar, Azgut ordusunu, Yıldız-Örsü'nün kızıl krater ışıltısıyla karşıladı — uzaktan bile, gökyüzünü hafifçe aydınlatan bir parıltı.
+Bahar ordusunu Yıldız-Örsü'nün kızıl ışığına getirdi. Temujin öncüleri Kartal Burnu'na dizerken Batu batı geçidini tutuyordu. Korgan geriden izliyor, zaferin ilk haberini bekliyordu.
 
-Temujin, vanguard'ın başında, Kartal Burnu Karakolu'na yaklaşırken, planın her detayını, zihninde, son bir kez tekrarladı. On iki Temürçi muhafızı, direnecek, sonra, "ağır kayıplarla" çekilecekti. Batu, yan kanatta, "en tehlikeli nokta" olduğuna ikna edilmiş bir mevzide, gerçek olaydan uzak duracaktı.
+Elara'nın işareti yükseldi. Temürçi muhafızları ok attı; Azgut kalkanları kapandı. İki taraf da hedeflerini bilerek ıskaladı. Temujin üçüncü boruda ilerledi, muhafızlar kırık zırh ve kanlı bez bırakarak çekildi.
 
-"Herkes yerinde mi?" diye sordu Temujin, Orkhon'a.
+Tam geri dönüş emrini verecekken batıdan gerçek çelik sesi geldi.
 
-"Herkes yerinde. Batu, yan kanatta, gururla bekliyor — Sube'nin ikna kabiliyetine güvenmek zorundayız."
+Bir haberci atını köpük içinde sürdü. "Batu'ya saldırdılar. Temürçiler, ama karakoldakilerden değiller."
 
----
+Darga'nın adamları plana başkaldırmıştı.
 
-Saldırı, planlandığı gibi başladı — Temujin'in birlikleri, karakola yaklaştı, Temürçi muhafızları, inandırıcı bir direniş gösterdi, sonra, "ağır kayıplarla," yavaşça geri çekilmeye başladı.
+Temujin yedek birliği batıya çevirdi. Geçitte Batu altı muhafızla boğuşuyor, iki Azgut yerde yatıyordu. Bir Temürçi baltasını Batu'nun arkasından kaldırdı. Temujin kalkanını araya soktu; darbe tahtayı çatlattı.
 
-Ama sonra, beklenmedik bir şey oldu.
+"Burada ne işin var?" diye bağırdı Batu.
 
-Yan kanattan, gerçek bir çatışma sesi yükseldi — kılıç sesleri, gerçek çığlıklar, planın hiçbir yerinde olmayan bir kaos.
+"Öncüyü sağ tutuyorum."
 
-"Ne oluyor?" diye haykırdı Temujin, atını, o yöne çevirerek.
+Sube yüksek sırttan geri çekilme borusunu çaldı. Temujin saldıranları çevrelemek yerine çıkış bıraktı. Elara'nın muhafızları kendi adamlarını geri çağırınca çatışma söndü.
 
-Bir haberci, telaşla geldi. "Batu'nun kanadına, gerçek bir saldırı var! Temürçi muhafızlarından bir grup — ama plan dışı, disiplinsiz bir grup!"
+İki Azgut ağır, üçü hafif yaralanmıştı. Bir Temürçi'nin kolu kırılmıştı. Ölen yoktu.
 
-Temujin'in kalbi hızlandı — Darga'nın kanadı, düşünceyi bir an içinde tamamladı. Konsey'in kararına karşı çıkan gelenekçiler, kendi başlarına, gerçek bir direniş göstermeye karar vermiş olmalıydılar.
+Batu çatlamış kalkana baktı. "Beni kurtardın."
 
----
+"Birliğimin ikinci komutanını."
 
-Yan kanata ulaştığında, manzara, Temujin'in korktuğu gibiydi — Batu, gerçekten, ölümcül bir çatışmanın içindeydi, çevresi, öfkeli, disiplinsiz ama gerçek bir tehlikeyle sarılmıştı.
+"Aynı şey değil."
 
-"Batu'yu koru!" diye bağırdı Temujin, kendi süvarilerini, doğrudan çatışmaya sürerek.
+"Bugün aynı."
 
-Kendisi, atından indi, kılıcını çekti, Batu'nun yanına, savaşarak ilerledi. Bir Temürçi muhafızı, Batu'ya, arkadan yaklaşırken, Temujin, son anda araya girdi, darbeyi, kendi kalkanıyla karşıladı.
+Korgan'a Kartal Burnu'nun düştüğü bildirildi. Han karakola kendi sancağını dikti ve ana kratere ilerlemeyi ertesi mecliste konuşacağını söyledi. Temujin planın en tehlikeli yerinin şimdi başladığını anladı; Korgan küçük zaferle yetinmeyebilirdi.
 
-"Sana ne oluyor?" diye kükredi Batu, şaşkınlıkla, kendi de savaşırken. "Bu, planladığımız gibi değildi!"
+Elara'dan gece bir mesaj geldi. Darga ustalıktan men edilmiş, saldırıya katılanlar kraterden çıkarılmıştı.
 
-"Biliyorum!" Temujin'in sesi, kaosun içinde, keskin çıktı. "Ama şimdi konuşacak vakit değil — savaş!"
+Temujin cevap yazmadı. Önce Batu'yu çadırına çağırdı.
 
----
+"Yarın Korgan ana geçide yürümek isterse ne diyeceksin?"
 
-Çatışma, kısa ama şiddetliydi — Temujin'in müdahalesiyle, denge, hızla değişti; disiplinsiz Temürçi grubu, sayıca yetersiz kaldı, sonunda, geri çekilmeye zorlandı, ölü sayısı, ikisi de olarak sınırlı kaldı, ama Batu'nun kendi birliğinden üç kişi yaralandı.
+Batu yaralı kolunu bağlatıyordu. "Kartal Burnu'nun yeterince kan aldığını söylerim."
 
-Sessizlik çöktüğünde, Batu, Temujin'e döndü, yüzünde, garip bir karışık ifadeyle — şaşkınlık, minnet, ve eski bir düşmanlığın izleri.
-
-"Neden geldin?" diye sordu Batu, sesi, hâlâ nefes nefese. "Beni sevmiyorsun. Ben de seni sevmiyorum. Ama sen, kendi hayatını riske attın, benim için."
-
-Temujin, kılıcını kınına yerleştirirken, uzun bir süre, cevap vermedi. "Çünkü," dedi sonunda, "bir ordu, kendi içindeki düşmanlıklara rağmen, birbirini korumazsa, gerçek düşmana karşı hiçbir şansı olmaz. Bunu, senden hoşlanıp hoşlanmamamdan, ayrı tutuyorum, Batu."
-
-Batu, uzun bir süre, ona baktı, sonra, yavaşça, garip bir saygıyla, başını eğdi. "O zaman, sana bir borcum var. Ve ben, borçlarımı öderim."
-
----
-
-O akşam, Korgan'a rapor verilirken, "zafer," planlandığı gibi anlatıldı — karakol ele geçirildi, düşman ağır kayıplar verdi, Azgut ordusu, ilk hedefine ulaştı.
-
-Ama Temujin, kendi çadırında, tek başına, Elara'ya, gizlice bir mesaj yazdı: *Darga'nın kanadından bir grup, plana uymadı, gerçek bir saldırı yaptı. Üç adamım yaralandı, sizinkilerden kayıp yok bildiğim kadarıyla. Bu bir daha olursa, anlaşmamız, ikimiz için de tehlikeye girer.*
-
-Cevap, birkaç gün içinde geldi, Elara'nın kısa, öz üslubuyla: *Darga, cezalandırıldı — ustalığından geçici olarak men edildi. Bir daha olmayacak. Anlaşma, ayakta.*
-
-Temujin, bu mesajı okurken, derin bir nefes aldı — plan, tehlikeli bir şekilde sarsılmıştı, ama sonunda, ayaktaydı. Ve beklenmedik bir şekilde, en büyük rakibi, artık, ona bir borç taşıyordu.
-
-Bozkırın oyunları, düşündü Temujin, hiçbir zaman, planlandığı gibi gitmiyordu — ama bazen, plansızlık bile, doğru yöne akabiliyordu.
+Borç ilk ödemesini bulmuştu.

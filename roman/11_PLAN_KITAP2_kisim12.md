@@ -1,40 +1,36 @@
-# İKİNCİ KİTAP — 12. KISIM: (isim henüz konmadı)
-*(11. Kısım'ın ("Büyük Uzlaşma") kapanışından hemen sonra başlıyor.)*
+# İKİNCİ KİTAP — 12. KISIM: “DÖRT YOL, AYRI MÜHÜRLER”
 
-## Karakterlerin Yeni Konumu
-- **Togan** (~27): Praetorian karşıtı güç eşiğine ulaştı, Malakor'un ilgisi hâlâ açık.
-- **Temujin** (~25): Korgan'la ittifak kurdu — bozkırın birleşme hayaline dev bir adım.
-- **Karia** (~46), **Zaleena** (~36): Yeni bozkır ittifakını destekliyor, "Büyük Uzlaşma"yı kutluyor.
+> **Nihai redaksiyon kaydı (20 Temmuz 2026):** Bu plan, `kitap2_kisim8/` altındaki dokuz tamamlanmış bölümün güncel kanon özetidir. Ayrıntıda doğrudan bölüm metni ve `../kulliyat/23_guncel_kanon_karti.md` bağlayıcıdır.
 
-## Açık Uçlar (devralınan)
-1. Malakor'un/Delta'nın, Korgan-Temujin ittifakına tepkisi.
-2. Malakor'un Togan'a olan ilgisinin nihai amacı ve sonucu.
-3. Togan'ın "tam seçim" günü.
-4. Üçlü ittifak ihtimali (Azgut-Genç Kurtlar-Temürçi).
-5. Amara'nın Delta içi konumunun geleceği.
+## Bölüm Haritası
 
-## Bölüm Haritası (4 bölüm yazıldı)
-1. **Togan** — bolum01 — Malakor, kampa 20+ kişilik saldırı gönderiyor; Batu, Togan'ın yerine sahte hedef oluyor; saldırı püskürtülüyor ama Malakor'un Togan'ın konumunu bildiği ürpertici bir şekilde ortaya çıkıyor. ✅
-2. **Temujin** — bolum02 — Korgan, ittifakın ilk sınavında, gerçek destek (asker takviyesi) gönderiyor — söz tutuluyor. ✅
-3. **Karia** — bolum03 — Karia, Amara'ya ültimatom gönderiyor; Amara, Delta Konseyi'ni topluyor. ✅
-4. **Zaleena** — bolum04 — **Malakor, resmi olarak kısıtlanıyor** — tam zafer değil ama önemli bir sınırlama. ✅
+1. **Yarım Çember Baskını** — Malakor bağlantılı on sekiz kişilik birlik, Togan'ı kaçırmak için Kuru Dere'ye saldırır. Kimse ölmez; Suna yaralanır. Togan, Akıntı'yla işlenmiş ağı sekiz saniye bastırır ve bunun karşılığında bir anı boşluğu yaşar.
+2. **Sınırların Ortak Cevabı** — Saldırı, tek bir önderin buyruğuyla değil, ayrı tarafların kendi usulleriyle verdiği ortak güvenlik cevabını zorunlu kılar.
+3. **Hesapların Son Sınırı** — Yarım çember işareti ve para hareketleri Malakor makamına uzanır; kanıt, kişisel suçlamadan ayrılır.
+4. **Delta Kurulunun Oyu** — Kurul, 4–3 oyla Malakor makamının saha yetkisini askıya alır ve hesaplarını mühürler. Mevcut makam sahibi çağrıya gelmez; zafer eksik kalır.
+5. **Nefes Aralığı** — Yaralılar ve tanıklar korunur. Togan'ın gücünün süresi, bedeli ve güvenlik sınırları yeniden kayda geçirilir.
+6. **Dört Bozkır Mührü** — Azgut, Sungur, Temürçi ve Genç Kurt tarafları `Bozkır Erken Uyarı ve Tanık Güvenliği Sözleşmesi`ni dört ayrı mühürle imzalar. Hiçbiri diğerinin iç yönetimine veya komutasına bağlanmaz.
+7. **Beşinci Mühür Değil** — Hegemonya, bozkır sözleşmesine iç taraf olarak katılmaz; ayrı bir dış iş birliği protokolü kurar.
+8. **Deniz Düğümü** — Yamalı Liman, egemenliğini devretmeden ayrı `Deniz Geçiş Eki` ile haber ve güvenli geçiş ağına bağlanır.
+9. **Dört Yol, Ayrı Mühürler** — İkinci Kitap, tek bayrak altında birleşmeyle değil, birbirini tanıyan özerk yollarla kapanır.
 
-## DEVAM VE KAPANIŞ (9 bölüm yazıldı)
-5. **Togan** — bolum05 — Malakor kısıtlandıktan sonra nefes alma alanı; Sungurlar'ın resmi "nöbetçi danışmanı" oluyor. ✅
-6. **Temujin** — bolum06 — **⭐⭐ Üç Bayrak İttifakı kuruluyor** (Azgut/Genç Kurtlar/Temürçi). ✅
-7. **Karia** — bolum07 — Hegemonya, dostluk protokolüyle ittifaka katılıyor. ✅
-8. **Zaleena** — bolum08 — **⭐⭐⭐ Dört Bayrak İttifakı tamamlanıyor** (Yamalı Liman da katılıyor). ✅
-9. **KİTAP 2 FİNALİ** — bolum09_kitap2_finali, "Dört Bayrak, Bir Gökyüzü" — dört POV'un tam bir yıllık yolculuğunun kapanışı. ✅
+## Kitap 2 Sonu Kanonu
 
-## KİTAP 2 TAMAMLANDI — 12. Kısım'da (bu dosya) ve toplamda 8 Kısım, 181 bölüm
-Dört Bayrak İttifakı'nın kuruluşu, Kitap 2'nin merkezi teması olan "dört POV'un dünyalarının birleşmesi"ni tamamladı. Ardından **Kitap 3** başlayacak — yeni bir plan dosyası dizisiyle (kitap3_kisim1/ vb.).
+- **Togan:** Akıntı'yla değiştirilmiş varlık ve metali kısa süre bastırabilir; yalanı veya kötülüğü sezmez. Eğitimde on, baskında sekiz saniye sınırı görülmüştür. Baş ağrısı, zaman kaybı ve anı boşluğu gücün gerçek bedelidir. Sungurlarla ilişkisi kalıcı makam değil, altı haftalık sınırlı eğitim sözleşmesidir.
+- **Temujin ve Korgan:** Dost ya da tek ordunun ortakları değildir. Doksan günlük `Tuz Düzlüğü Mutabakatı`; saldırmazlık, ortak Bozan soruşturması, karşılıklı gizli operasyon yasağı ve Kuru Dere bağımsızlığını güvenceye alır. Daha sonra bir yıl uzatılır.
+- **Kuru Dere:** Bağımsız Genç Kurt yerleşimidir. Azgut ve Sungur hak iddialarından vazgeçer. İlk yıl tam zamanlı silahlı güç yüz elli kişiyle sınırlıdır; üye raporları açıktır, iç yönetim ve ticaret kendisine aittir.
+- **Karia:** Veraset kararını tek bir isme indirmez; Meziyet Programı ve geçici komisyon üzerinden adayları sınar.
+- **Zaleena:** Kaptanlar Konseyi'ni kurumsallaştırır ve deniz ağını ayrı protokolle kıtasal erken uyarıya bağlar.
+- **Malakor:** Tek kişi kadar devredilen bir makam olabilir. Kurumsal yetkisi kısmen askıya alınmıştır; makam sahibi kayıptır ve tehdit sürer.
 
 ## Kitap 3'e Taşınan Açık Uçlar
-1. Malakor'un kısıtlanması kalıcı mı? Bir sonraki (daha gizli) hamlesi.
-2. Togan'ın "tam seçim" günü — hâlâ gelecekte.
-3. Delta'nın derin kökleri tam sökülmedi — Sarris/Amara dinamiği nereye gider.
-4. Karanlık Hasat'ın okyanus dibindeki "Karanlık Varlık" — hâlâ isimlendirilmedi, serinin en büyük, en geç rezervi.
-5. Dört Bayrak İttifakı'nın, gerçek bir dış tehditle, ilk büyük sınavı henüz gelmedi.
 
-## Not
-Kalite kuralları aynen geçerli. Yeni isim eklerken Seri Kutusu'ndaki kaydı kontrol et. Temujin'in ordusu her zaman "Azgut ordusu." Kapanış cümlelerinde pencere/harita/liman-bakma kalıplarından kaçın — her defasında farklı bir somut eylemle bitir.
+1. Malakor makamının mevcut sahibinin nerede olduğu ve yarım çember ağının sonraki hamlesi.
+2. Bozan'ın öldürülmesine ilişkin özgün emrin sahibi ve tam kanıt zinciri.
+3. Togan'ın “tam seçim” günü; gücünün bedelinin kalıcı etkileri.
+4. Doksan günlük mutabakatın bir yıllık uzatmadan sonra hangi sınavda kırılacağı ya da güçleneceği.
+5. Kitap 3'te “Dört Bayrak İttifakı” diye anılacak siyasi şemsiyenin, ayrı egemenlikleri korurken ilk büyük dış tehdide vereceği cevap.
+
+## Tamamlanma
+
+**2. KİTAP TAMAMLANDI: 8 Kısım, 182 bölüm.**

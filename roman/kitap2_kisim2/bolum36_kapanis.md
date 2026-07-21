@@ -1,48 +1,52 @@
-# Bölüm 36 — Dört Yol, Bir Gökyüzü
-*(KAPANIŞ — TOGAN / TEMUJİN / KARİA / ZALEENA)*
+# Bölüm 36 — Dört Yol, Bir Sözleşme
+*(KAPANIŞ — TOGAN / TEMUJİN / KARIA / ZALEENA)*
 
-O gece, Verridia'nın dört bir köşesinde, dört insan, yeniden, aynı gökyüzüne baktı — Sed'in ardındaki o garip, yıldızsız alacakaranlıktan, sonunda, dönmüş olan biri de dahil.
+Kuru Dere'deki ilk direk eğri dikildi. Batu çukuru sığ kazmış, Sube rüzgârı hesaba katmamıştı. Togan ipi omzuna dolayıp çekti; Temujin toprağı yeniden sıkıştırdı.
 
----
+Direğin tepesine kurt izli küçük bayrak çekildi. Sungur bayrağı doğu sınırında, Azgut sancağı batı nöbetinde kaldı. Üçü yan yana değildi. Aralarında anlaşmada yazan mesafe vardı.
 
-**Sungur topraklarında**, iki ateş, yan yana yanıyordu — biri, Genç Kurtlar'ın yeni, küçük kampının, diğeri, Sungur klanının. Togan ve Temujin, ikisinin arasındaki boşlukta oturmuş, gökyüzüne bakıyorlardı — yıldızlar, net, sayısız, hiçbir kızıl leke taşımadan, en azından, şimdilik.
+"Böylesi daha doğru," dedi Togan.
 
-"Garip bir yıl oldu," dedi Temujin, sessizliği bozarak.
+Temujin eğri direği kontrol etti. "Birlikte görünmüyorlar."
 
-"Öyle." Togan, gözlerini, yıldızlardan ayırmadan. "Bir yıl önce, ben, sadece, kendi yasımı taşıyan bir savaşçıydım. Sen, gölgede, sabırla bekleyen bir savaş-lorduydun. Şimdi... ikimiz de, farklı insanlarız."
-
-"Daha iyi mi?" diye sordu Temujin.
-
-"Bilmiyorum," dedi Togan, dürüstçe. "Ama daha gerçek, sanırım. Kendi kim olduğumuzu, daha iyi biliyoruz artık."
-
-Uzakta, Batu'nun sesi, bir şarkıya karışıyordu — Genç Kurtlar'ın, yeni, küçük ama gerçek topluluğunun, ilk gecelerinden birinin, sessiz kutlaması.
+"Birbirlerinin yerini kapatmıyorlar."
 
 ---
 
-**Metheris'te**, Karia, çalışma odasının penceresinden, aynı gökyüzüne baktı — masasında, Elowen'in son mektubu, henüz cevaplanmamış, duruyordu. Faelan'ın raporu, yanında: Temujin'e açılan kanal, sessizce, ama sağlam bir şekilde büyüyor.
+Metheris'te Karia aynı anlaşmanın üç nüshasını karşılaştırdı. Azgut kâtibi Kuru Dere'nin batı sınırını yarım ok içeriden çizmişti. Sungur nüshasında çizgi düz gidiyordu.
 
-*Bir gün,* diye düşündü Karia, *bütün bu iplikler — bir bozkır savaş-lordu, bir kütüphaneci, bir eski kaçakçı kraliçesi — bir yerde, birleşecek. Ve o gün, hazır olmak istiyorum.*
+Faelan bunun yazım hatası olabileceğini söyledi.
 
-Sör Kaelan'ın sesi, kapıdan, nazikçe seslendi. "Uyumuyor musun, evladım?"
+"Sınırda yarım ok yazım hatası değildir," dedi Karia.
 
-"Düşünüyorum," dedi Karia, gülümseyerek. "Sadece, düşünüyorum."
+İlk ticaret kervanını fark çözülene kadar bekletti. Temujin'e tebrik değil, iki haritanın kopyası gitti.
 
----
-
-**Yamalı Liman'da**, Zaleena, Kessel'in yanında, limanın en yüksek noktasında, aynı gökyüzüne baktı. Aşağıda, şehir, sakin, düzenli, bir yıl önce hayal bile edemeyeceği bir barışla, uyuyordu — Paslı Gelgit'in bayrağı, Roric'in eski bayrağının yanında, birlikte, rüzgârda dalgalanarak.
-
-"Ne düşünüyorsun?" diye sordu Kessel.
-
-"Düşünüyorum ki," dedi Zaleena, yavaşça, "bir zamanlar, hayatta kalmak, tek hedefimdi. Şimdi... şimdi, bir şeyler inşa ediyorum. Ve bu, çok daha korkutucu, ama çok daha anlamlı."
+Elowen'in gemisinin limana giriş haberi geldiğinde Karia dosyayı kapatmadı. Önce sınır notunu imzaladı, sonra karşılamaya indi.
 
 ---
 
-Dört ayrı ufukta, dört insan, aynı geceye, aynı yıldızlara bakıyordu — biri, kendi kanının, iki dünya arasında, bir köprü olmayı seçmiş; biri, bir sürgünden, sessizce, yeni bir topluluk inşa etmiş; biri, bir tacın ağırlığını, artık, yalnız değil, dostlarla paylaşmayı öğrenmiş; biri, bir kaçakçının hayalini, gerçek bir devlete dönüştürmüş.
+Yamalı Liman'da Zaleena iki araba tuzun ve bir araba ipin hesabını çıkardı. Kaptan Toma yükü Metheris'e taşıyacak, kara kervanı oradan Kuru Dere'ye gidecekti.
 
-Hiçbiri, o gece, aralarındaki bütün bağlantıların, tam haritasını görmüyordu — Kaya'nın, ikisini de tanıyan bir köprü olduğunu; Karia'nın, sessizce, Temujin'e uzandığını; Zaleena'nın, Mirasçılar aracılığıyla, Togan'ın dünyasına, çoktan dokunduğunu.
+Amara'nın eksik ilaç kutularının telafisi de aynı gün şifahaneye ulaştı. Mira şişeleri sayarken Zaleena iki ayrı teslim belgesini yan yana imzaladı: biri eski bir gücün bozduğu sözü düzeltmesi, diğeri yeni bir gücün ilk sözünü sınamasıydı.
 
-Ama iplikler, sessizce, sabırla, birbirine doğru örülmeye devam ediyordu — ve bir gün, belki, yakın bir gün, bu dört ayrı ufuk, tek bir gökyüzü altında, aynı ateşin etrafında buluşacaktı.
+Kessel ilk Genç Kurt ödemesinin aylar süreceğini söyledi.
 
-Hafızanın bedeli ödenmişti. Şimdi, geleceğin bedeli, ödenmeyi bekliyordu — ve dünya, her zamanki gibi, kimin hazır olup olmadığını sormadan, kendi kadim ritmine devam ediyordu.
+"O yüzden küçük başladık," dedi Zaleena.
 
-*(6. Kısım Sonu — 7. Kısım'da devam edecek)*
+---
+
+Gece Togan beş taşı ateşin önüne dizdi. Perren adları sordu. Bu kez hepsini durmadan söyledi.
+
+Yakındaki yeni kampta Temujin ilk nüfus defterini açmıştı. Otuz dört ad vardı: sürgünlerle birlikte onlara katılan dört zanaatkâr. Son satırın altında boş yer bıraktı.
+
+Togan ateşi söndürüp yanına geldi. Metheris'ten gelen sınır uyuşmazlığı mektubunu masaya koydu.
+
+"İlk devlet sorunun," dedi.
+
+Temujin iki farklı çizgiye baktı. "Savaş değilmiş."
+
+"Çoğu gün olmayacak."
+
+İkisi sabaha kadar yarım okun hangi taşta başladığını hesapladı. Yeni topluluğun ilk gecesi büyük sözlerle değil, yanlış çizilmiş bir sınırı düzeltmeye çalışarak geçti.
+
+*(6. Kısım Sonu: 7. Kısım'da devam edecek)*

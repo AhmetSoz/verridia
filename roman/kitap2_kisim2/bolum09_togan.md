@@ -1,56 +1,44 @@
 # Bölüm 9 — Üçüncü Yol
 *(TOGAN)*
 
-Günler mi, saatler mi geçti, Togan, tam olarak bilemedi — Sed'in ardındaki garip zaman akışı, onu, hem hızlandırıyor hem yavaşlatıyordu, sürekli.
+Togan kararını yaşlı Işıyan'a iki cümleyle anlattı.
 
-Ama sonunda, kararını verdiğinde, Işıyan'ı bulmaya gitti, adımları, artık, tereddütsüzdü.
+"Bağı tamamlamayacağım. Kırık hâlini de başıboş bırakmayacağım. Onu denetlemeyi öğreneceğim."
 
-Togan, yaşlı varlığın karşısına geçti. "Bir seçim yaptım. Ama sizin sunduğunuz iki yoldan hiçbiri değil."
+"Böyle bir yol uygulanmadı."
 
-Işıyan, başını hafifçe eğdi, meraklı bir dikkatle. "Anlat."
+"Meren'den önce tam bağ da uygulanmamıştı."
 
----
+Işıyan onu yuvarlak bir odaya götürdü. Zeminde üç halka vardı. Togan ortadakine oturdu, silahlarını dışarıda bıraktı.
 
-"Annemin yolunu seçmeyeceğim," dedi Togan, sesi kararlı. "Çünkü, geri çekilmek, sadece, bu soruyu, bir gün, başka birinin — belki kendi çocuğumun — omuzlarına bırakmak demek. Ama Meren'in yolunu da seçmeyeceğim — çünkü, kendimi, tamamen kaybetme riskini, şimdi, hazır olmadan almayacağım."
+İlk çalışma yalnız dinlemekti. İşleyiş'in bütün sesleri aynı anda üzerine geldi. Taşların hareketi, uzaktaki Işıyanların çok katlı konuşması ve Sed'in ardındaki ağır vuruş zihnini doldurdu. Togan kaçmak için ayağa kalktığında halka onu geri itti.
 
-"Peki ne istiyorsun?"
+"Kes şunu!"
 
-Togan, derin bir nefes aldı. "İstiyorum ki, bu yankıyı, kaybetmeden, ama kontrol ederek taşıyayım. Annemin bıraktığı yarım işi, tam bir teslimiyet olmadan, ama daha bilinçli bir şekilde, taşımayı öğreneyim. Eğer bu mümkünse."
+"Kesen sen olacaksın. Tek bir sesi seç."
 
----
+Togan Perren'in üç gün önce söylediği son cümleyi düşündü: *Bir nefes fazla değil.* O sesi bulunca diğerleri geriye çekildi.
 
-Işıyan, uzun bir süre, sessiz kaldı — Togan, bu sessizliğin, düşünce değil, belki de, gerçek bir şaşkınlık olduğunu hissetti.
+İkinci çalışmada bileğindeki ışığı kendi isteğiyle yakması gerekti. İlk denemede hiçbir şey olmadı. İkincide bütün kolu yandı. Üçüncüde yalnız avucunda küçük bir çizgi belirdi.
 
-Işıyan, yavaşça karşılık verdi. "Bunu, kimse, benden önce, istemedi. Herkes, ya tam kabul etti, ya da tam reddetti. Sen, ortada bir yol arıyorsun."
+"Bu kontrol değil," dedi Işıyan. "Yalnız sınır."
 
-"Mümkün mü?"
+"Sınırla başlarım."
 
-"Deneyebiliriz," dedi Işıyan, dikkatle. "Ama garanti veremem. Belki, bu, seni, ikisinin de en kötü yanını taşımana neden olur — ne tam güç, ne tam güvenlik. Ya da belki, gerçekten, bir denge bulursun. Kimse bilemez, sen denemeden."
+Çalışma bittiğinde Togan'ın burnu kanıyor, elleri titriyordu. Kazandığı şey güç değildi. Yankıyı çağırıp kısa süre susturabiliyordu. Her kullanımın ardından başının arkasında keskin bir ağrı kalıyordu.
 
-Togan, bu riski, uzun bir süre tarttı, sonra, başını salladı. "Denemek istiyorum."
+"Tam bağ olmadan daha ileri gidemezsin," dedi Işıyan.
 
----
+"Bugün gitmeyeceğim."
 
-Süreç, Togan'ın hayal ettiğinden farklıydı — acı değil, ama yoğun bir farkındalık, sanki, kendi kanının, ilk kez, gerçekten dinleniyormuş gibi. Işıyan, ellerini, Togan'ın göğsüne koydu, ve saatlerce (ya da dakikalarca, Togan asla emin olamadı), sessizce, bir şeyler fısıldadı — kelimeler değil, ama bir tür rehberlik, bir tür ayarlama.
+Kapıya yürürlerken Işıyan, Ayla'nın kayda bıraktığı sözü aktardı: *Oğluma korkunun seçim olmadığını söyleyin. Cesaret ise her seferinde seçilir.*
 
-Süreç bittiğinde, Togan, kendini, aynı zamanda hem daha güçlü hem daha net hissetti — yankı, hâlâ oradaydı, hâlâ eksikti, ama artık, kontrolsüz bir fısıltı değil, bilinçli bir araç gibi hissettiriyordu.
+Togan sözün gerçekten Ayla'dan kaldığını doğrulayamadı. Yine de yanında götürdü.
 
-"Nasıl hissediyorsun?" diye sordu Işıyan.
+Kapı açıldığında Perren duvarın dibinde ayağa kalktı. İkinci çentiğin yanına üçüncüyü kazımak üzereydi.
 
-Togan, şaşkınlıkla karşılık verdi. "Kendim gibi. Ama daha... net. Sanki, uzun zamandır, yarı-sağır olduğum bir kulağım, şimdi, biraz daha açıldı."
+Togan ona sarıldı. "Ne kadar kaldı?"
 
----
+"Dört nefes."
 
-"Bu, kalıcı bir çözüm değil," dedi Işıyan, uyararak. "Bir gün, tam seçimi, yine yapman gerekebilir — belki senin, belki bir başka anda. Ama şimdilik, sana, hem kendini koruyacak hem de kanının gücünü kullanabilecek bir denge verdim."
-
-Togan, gerçek bir minnetle karşılık verdi. "Yeterli bu. Şimdilik, yeterli."
-
-Işıyan, Togan'ı, kapıya kadar götürdü — İşleyiş'in kızıl ışığından, Sed'in dışındaki, tanıdık, mavi gökyüzüne doğru.
-
-"Bir şey daha," dedi Işıyan, Togan ayrılmadan önce. "Annen, sana, bir mesaj bırakmıştı — bizim kayıtlarımızda. Basit bir cümle, ama belki, sana, anlam ifade eder: 'Oğluma söyleyin, korku, bir seçim değildir — ama cesaret, her zaman öyledir.'"
-
-Togan, bu sözleri, kalbinde, derin bir sıcaklıkla taşıyarak, kapıdan çıktı — ve dışarıda, Perren, sabırla, tam olarak bıraktığı yerde, onu bekliyordu.
-
-Perren, gözlerinde gerçek bir rahatlamayla, koşarak yaklaştı. "Döndün."
-
-Togan, eski dostuna sarıldı. "Döndüm. Ve sanırım, artık, kim olduğumu, biraz daha iyi biliyorum."
+Togan güldü, sonra başındaki ağrı yüzünden duvara yaslandı. Aynı kişi olarak dönmüştü. En azından unutmadığı bütün adlar hâlâ yerindeydi.

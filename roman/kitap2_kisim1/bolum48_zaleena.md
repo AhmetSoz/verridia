@@ -1,40 +1,28 @@
 # Bölüm 48 — Delta'ya Mesaj
 *(ZALEENA)*
 
-Karia'nın mektubu, kısa ama zafer doluydu: *Ağ çöktü. Vorlag sürgünde, Valerius'un girişimi durduruldu.*
+Karia'nın raporu geldiğinde Zaleena, Delta'ya verilecek ortak cevabı yeniden yazdı.
 
-Zaleena, bu haberi, Roric ve Kessel'e okurken, sesinde, gerçek bir gurur vardı. "Bir kraliçe, kendi tehdidini bertaraf etti. Şimdi, sıra, belki de, bizim tarafımızda."
+Sarris ile Amara'ya ayrı nüshalar gidecekti. Metin aynıydı: Hegemonya ya da Yamalı Liman yönetimine yeni bir gizli müdahale olursa Sazlık Taht deposu, Vorlag ödemeleri ve Can Macunu tehdidi aynı gün açıklanacaktı.
 
-"Ne düşünüyorsun?" diye sordu Roric.
+"Köşeye sıkışmış insan pazarlık etmez," dedi Roric. "Saldırır."
 
-Zaleena, uzun bir süre, haritaya baktı — Sazlık Taht'ın işaretli konumuna. "Düşünüyorum ki, artık, sadece savunmakla yetinmemeliyiz. Delta, çatlıyor — Sarris ve Amara, birbirine güvenmiyor. Belki de, zamanı geldi, ikisine de, doğrudan bir mesaj göndermenin."
+"Bu yüzden çıkış bırakıyoruz. Ticaret sürecek. Kanıtlar da kasada kalacak. Müdahale durursa kaybedecekleri bir şey yok."
 
----
+Draven Amara'ya giden nüshayı taşıyacaktı. Zaleena mektubu ona verirken her kelimeyi değiştirmeden aktarmasını istedi.
 
-"Ne tür bir mesaj?" diye sordu Kessel, temkinli.
+"Benden şüphelenirse?"
 
-"Basit bir gerçek," dedi Zaleena, yavaşça. "Karia ve ben, artık, Delta'nın oyununu biliyoruz — ikinizin de, bağımsız liderleri, kendi kuklalarınızla değiştirmeye çalıştığınızı. Ve bu oyunu, bir daha, oynamanıza izin vermeyeceğiz. Eğer, bize karşı, ya da birbirinize karşı, gizli oyunlarınıza devam ederseniz, ikimiz de, gerçekleri — Sazlık Taht'ın simyasal patlayıcı deposunu, Vorlag'ın ihanetini, hepsini — açığa çıkarırız. Halka. Konseylere. Herkese."
+"Şüphelensin. Bu kez gizli bilgi götürmüyorsun. Kraliçenin resmî mesajını taşıyorsun."
 
-Roric, bu planı, uzun bir süre düşündü, sonra, yavaşça başını salladı. "Cesur bir hamle. Ama riskli — Delta, köşeye sıkıştırılmış bir yılan gibi, en tehlikeli, tam bu anda olabilir."
+Sarris'e giden nüsha Karia'nın elçisiyle gönderildi. İki mektubun varış saati birbirine yakın tutuldu; Delta kanatlarından biri diğerini önceden uyaramayacaktı.
 
-"Biliyorum." Zaleena'nın sesi, kararlı ama temkinliydi. "Ama sonsuza dek, gölgede oynayamayız, Roric. Bir noktada, ışığa çıkmaları gerek — ya da, en azından, bizim şartlarımızla, karanlıkta kalmaları."
+Aynı gün bozkırdan gelen bir ticaret kervanı Azgut ordusundaki kırılmayı anlattı. Genç Kurt denen savaş-lordu ile Batu sürülmüş, yanlarında küçük bir birlik götürmüştü. Kervancı nereye gittiklerini bilmiyordu.
 
----
+Zaleena ismi deftere geçirdi. Togan'dan sonra uzak topraklardan kayda giren ikinci addı. Aralarında bağ kurmadı; yalnız bozkırdaki güç dengesinin değişebileceğini Karia'ya bildirdi.
 
-Draven, bu mesajı, Amara'ya iletme görevini üstlendiğinde, sesi, ilk kez, gerçek bir sadakatle çıktı.
+Akşam Kessel, mesajın fazla sert olup olmadığını sordu.
 
-"Bunu, tam olarak istediğin gibi ileteceğim, Kraliçem," dedi Draven. "Ve bu sefer, hiçbir çarpıtma olmayacak."
+Zaleena son nüshayı kasaya koydu. "Sertlik sesin yüksekliği değildir. Karşı tarafın hangi davranışın hangi sonucu doğuracağını anlamasıdır. Bu metin yeterince açık."
 
-"Güveniyorum sana, Draven — şimdilik. Bunu, boşa çıkarma."
-
-Draven, ayrılırken, Zaleena'ya, garip bir dürüstlükle baktı. "Biliyor musun, Kraliçem — ihanetimi keşfettiğinde, öleceğimi düşünmüştüm. Bunun yerine, bana, bir ikinci şans verdin. Bunu, unutmayacağım."
-
----
-
-Aynı gün, Karia'dan gelen ikinci bir mektup, Zaleena'yı, beklenmedik bir haberle karşıladı: *Bozkırdan garip bir söylenti geldi — Azgut ordusunda büyük bir kriz olmuş, bir savaş-lordu sürülmüş. İsim belirsiz ama "Genç Kurt" lakaplı biri olduğu söyleniyor. Belki, bir gün, senin de yolun, bu isimle kesişir.*
-
-Zaleena, bu satırı, iki kez okudu — "Genç Kurt" ismi, bir kez daha, ona hiçbir şey ifade etmedi, sadece, uzak bir savaşın, uzak bir yankısı gibi göründü.
-
-Mektubu katlayıp masasına koyarken, Zaleena, kendi kendine, düşündü: dünya, sanki, görünmez iplerle, birbirine bağlanıyordu — her bir haberde, her bir isimde, henüz anlaşılmayan bir bağlantı gizliydi.
-
-Mektubu, diğerlerinin yanına, dikkatle yerleştirdi. *Yakında,* diye düşündü, *bütün bu iplikler, bir yerde, düğümlenecek. Ve o gün, hazır olmam gerek.*
+Ertesi sabah iki ulak ayrı yönlere çıktı. Limanda hiçbir top ateşlenmedi. Yine de Zaleena, kraliçe olduktan sonra verdiği en doğrudan karşılığı o iki kapalı zarfla vermişti.

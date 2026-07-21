@@ -1,46 +1,36 @@
 # Bölüm 3 — Doğrudan Bir Ses
-*(KARİA)*
+*(KARIA)*
 
-Mesaj, Faelan'ın ağı aracılığıyla geldiğinde, Karia, ilk kez, doğrudan, Temujin'in kendi sesini duyduğunu fark etti — dolaylı raporlar değil, kendi seçtiği kelimelerle.
+Temujin'in mektubu üçüncü bayrağın mührüyle geldi. Kendi çıkarını saklamıyor, Sarris'in teknik olarak anlaşmayı bozmadığını da kabul ediyordu. Karia bu ayrımı ciddiye aldı.
 
-"Sarris, bizi hedef alıyor," diye yazmıştı Temujin, kısa ve net. "Karaçul boyuna, silah sağlıyor. Sizin anlaşmanız, bizi kapsamıyor — biliyorum. Ama düşündüm, bunu bilmeniz, size de fayda sağlayabilir."
+Faelan, Delta arşivinden Karaçul sözleşmesinin iki nüshasını buldu. Boya gösterilmeyen ekte kuyuların işletme hakkı vardı.
 
-Karia, bu mesajı, iki kez okudu, içinde, gerçek bir hayranlık uyanarak. "Dürüst bir adam," dedi, Faelan'a, mesajı gösterirken. "Kendi çıkarını, açıkça, ama kurnazlıkla ifade ediyor."
+"Uyarı göndermeyeceğiz," dedi Karia. "Belgeyi göndereceğiz."
 
----
+Karaçullar silahları reddedip Kuru Dere'yle su düzeni kurdu. Temujin teşekkür mektubunda sonucu kendisine mal etmedi. Karia onun dosyasındaki *denenmemiş* notunun yanına ilk tarihli olumlu örneği ekledi.
 
-"Ne yapacaksınız?" diye sordu Faelan.
+Elowen aynı hafta arşiv değişimi için Metheris'e geldi. Karia onu kraliyet kütüphanesinin kapalı deniz kayıtlarına götürdü. İçeri girmeden önce kayıt şartını söyledi: gördükleri ortak arşiv çalışmasına ait olacak, kişisel yakınlık özel erişim hakkı yaratmayacaktı.
 
-"Karaçul'a, bir uyarı göndereceğim," dedi Karia, kararlı. "Sarris'in oyununa alet olmanın, bedelinin, düşündüklerinden ağır olacağını bildiren bir uyarı. Bu, hem Temujin'e yardım eder, hem de, Sarris'e, anlaşmamızın sınırlarını, bir kez daha hatırlatır."
+Elowen rahatladı. "Bunu söylemen gerekiyordu."
 
-Faelan, bu stratejiyi, hızla uyguladı — ve birkaç gün içinde, Karaçul'un, silahları reddettiği haberi geldi.
+"Seni buraya neden çağırdığımı da söylemem gerekiyor."
 
----
+Rafların arasında Karia ilişkiyi yalnız iş arkadaşlığı saymadığını anlattı. Elowen aynı şeyi hissediyordu, fakat Metheris'teki görevin buna bağlı olmasını istemedi.
 
-O hafta, Elowen, üçüncü kez, Metheris'e geldi — bu sefer, resmi bir görevle değil, kişisel bir davetle: Karia, ona, kraliyet kütüphanesinin, en eski, en nadir bölümünü göstermeyi teklif etmişti.
+"İş biterse burada kalmak zorunda olmayacağım," dedi.
 
-Eski, tozlu raflar arasında yürürlerken, Karia'nın sesi yumuşadı. "Bunu, kimseye göstermem. Ama sen... sen, farklısın, Elowen."
+"Olmayacaksın."
 
-Elowen, bu itirafa, gerçek bir duyguyla karşılık verdi. "Bunu duymak, benim için, çok değerli, Majesteleri."
+"Ayrılırsak arşiv anlaşması sürer mi?"
 
-Karia, hafif bir gülümsemeyle düzeltti. "Karia. Burada, sadece, Karia."
+Karia bu sorudan hoşlanmadı. Yine de cevap verdi. "Sürer."
 
----
+Elowen elini uzattı. Karia tuttu. İlk adımları bir vaat değil, iki sınırın açıkça söylenmesiydi.
 
-İki kadın, saatlerce, eski parşömenler arasında, tarih ve efsaneler üzerine konuştular — ve Karia, bir kez daha, zamanın nasıl geçtiğini, fark etmediğini keşfetti.
+Akşam Kaelan görüşmenin nasıl geçtiğini sordu.
 
-"Bir şey sormak istiyorum," dedi Elowen, sonunda, sesi, hafifçe titreyerek. "Bu ziyaretler... sadece, kütüphane değişimi için mi?"
+"Zor sorular sordu."
 
-Karia, bu soruya, uzun bir süre, dürüst bir cevap ararken, sessiz kaldı. "Hayır," dedi sonunda. "Sanırım, değil. Ama itiraf etmeliyim, Elowen — bu, benim için, yeni bir toprak. Yıllarca, sadece, savaş ve siyaset bildim."
+"O hâlde iyi geçmiş."
 
-"Acele etmeyelim o zaman," dedi Elowen, yumuşak bir gülümsemeyle. "Ben, sabırlı bir kadınım, Karia. Tarih, bana, bunu öğretti — en güzel şeyler, genellikle, en yavaş inşa edilenlerdir."
-
----
-
-O akşam, Elowen ayrıldıktan sonra, Sör Kaelan, Karia'yı, bahçede buldu, yüzünde, bilge bir gülümseme.
-
-"Nasıl geçti?" diye sordu Kaelan.
-
-Karia'nın sıcaklığı gerçekti. "İyi. Çok iyi, sanırım."
-
-Kaelan, bu cevaba, yavaşça başını salladı, hiçbir şey eklemeden — bazen, en iyi destek, sadece, sessiz bir onaydı.
+Karia gülümsedi. Temujin'le yapılan ilk doğrudan alışveriş de Elowen'le kurduğu yakınlık da aynı gün bir şey öğretmişti: güven, hoş sözden önce karşı tarafın saklamadığı koşullarla başlıyordu.

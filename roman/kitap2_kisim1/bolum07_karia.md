@@ -1,56 +1,48 @@
 # Bölüm 7 — İki Taht, Tek Masa
-*(KARİA)*
+*(KARIA)*
 
-Buluşma yeri, Faelan'ın önerisiydi — Jilet Resifleri'nin güvenli bir koyunda, tarafsız, kayıtsız, hiçbir bayrağın gölgesinde olmayan küçük bir ada. Karia, oraya, tek bir gemiyle, en güvendiği on muhafızla gitti; fazlası, bir tuzak izlenimi verirdi, azı ise, gereksiz bir risk.
+Jilet Resifleri arasındaki adsız koyu Faelan seçmişti. Kayıtlarda hiçbir devlete bağlı görünmüyordu. Karia tek gemi ve on muhafızla geldi. Daha kalabalık bir heyet tehdit sayılır, daha küçüğü tedbirsizlik olurdu.
 
-"Emin misiniz, Majesteleri?" diye sordu Faelan, tekne kıyıya yaklaşırken, sesinde nadir görülen bir tedirginlik vardı. "Bir kraliçenin, bir korsan kraliçesiyle, kayıtsız, tanıksız buluşması... eğer bu duyulursa, Konsey'de yeni bir kriz yaratabilir."
+"Bu görüşme duyulursa Konsey açıklama ister," dedi Faelan, sandal kıyıya yaklaşırken.
 
-"Duyulmayacak," dedi Karia, sesi kesin. "Ve eğer bir gün duyulursa, bunu kendim açıklarım — gizli bir ihanet olarak değil, akıllı bir devlet aklı olarak."
+"İsterse alır. Kararımı gizlemek zorunda kalabilirim; savunmak zorunda değilim."
 
-Kıyıda, küçük bir ateşin başında, tek bir figür bekliyordu — uzun boylu, sakin duruşlu bir kadın, koyu renkli pratik giysiler içinde. Zaleena, Karia'nın adım attığını görünce, ayağa kalktı, ama eğilmedi — bu, bir saygısızlık değildi, bir eşitlik ilanıydı, ve Karia, bunu anında anladı, takdir etti.
+Zaleena küçük bir ateşin yanında bekliyordu. Yanında yalnız Sorin vardı. Karia yaklaşınca ayağa kalktı, fakat eğilmedi.
 
-"Kraliçe Karia." Sesi düz, ölçülüydü.
+"Kraliçe Zaleena."
 
-"Kraliçe Zaleena." Kelimeyi bilerek vurguladı — unvanını tanıdığını göstermek için. "Gelmeyi kabul ettiğin için teşekkür ederim."
+Karia unvanı özellikle kullandı. "Kraliçe Karia."
 
-"Merakımı yenemedim." Dudaklarında ince bir gülümseme belirdi. "Bir Hegemonya kraliçesinin, benimle, Delta'nın bilgisi olmadan konuşmak istemesi — bu, nadir bulunan bir fırsat."
+Ateşin iki yanına oturdular. Karia sözü uzatmadı.
 
-İkisi, ateşin iki yanına oturdu; muhafızlar ve Sorin, saygılı bir mesafede beklediler.
+"Delta ikimize aynı hafta içinde el uzattı. Bana Sarris'i, sana Amara'yı gönderdi. Bizi ayrı anlaşmalarla bağlamak istiyorlar."
 
-"Açık konuşacağım," dedi Karia. "Delta, ikimize de aynı anda yaklaştı — bana Sarris, sana Amara. Bu, tesadüf değil bence. İki büyüyen gücü, ayrı ayrı bağlamaya çalışıyorlar, birbirimizden habersiz tutarak."
+"Ben de öyle düşündüm," dedi Zaleena. "Fakat aynı sonuca varmamız, aynı çıkarı taşıdığımız anlamına gelmez."
 
-Zaleena'nın gözlerinde bir tanıma parladı. "Ben de aynı sonuca vardım. Delta, dengeyi sever — ama kendi kurduğu dengeyi. İki bağımsız güç, onlar için bir tehdit."
+"Çıkarlarımızın kesişmesi yeterli. Yamalı Liman'ın meşru ticaret gemilerine belirli Hegemonya rotalarını açarım. Sen de bize karşı hazırlanacak deniz saldırılarını bildirirsin. Delta, birimizi ötekine karşı kullanmaya kalkarsa haberleşiriz."
 
-"O zaman," dedi Karia, "belki de, tehdit olmaya devam etmeliyiz. Ayrı ayrı değil, birlikte."
+Zaleena ateşe ince bir dal attı. "Konseyin korsan dediği insanlarla ticareti nasıl açıklayacaksın?"
 
-Bu öneri, havada bir an asılı kaldı. Zaleena, ateşe baktı, düşünceli.
+"Sonuçla. İlaç daha ucuza gelir, kuzey limanlarına tahıl daha hızlı ulaşırsa aynı üyeler buna yeni deniz siyaseti diyecek."
 
-"Ne öneriyorsun, tam olarak?" Zaleena'nın sesi merak taşıyordu, temkinli bir merak.
+"Kaçakçılar anlaşmayı bozarsa?"
 
-"Resmi bir ittifak değil — henüz. Konsey, bunu asla kabul etmez, en azından şimdi. Ama bir anlayış. Yamalı Liman'ın gemileri, Hegemonya sularında belirli bir serbestlik kazanır — kaçakçılık için değil, meşru ticaret için. Karşılığında, sen, Hegemonya'ya karşı düzenlenecek herhangi bir saldırıyı, önceden haber verirsin. İkimiz de, Delta'nın bizi birbirimize karşı kullanmasına izin vermeyiz."
+"Sen cezalandırırsın. Hegemonya kaptanları bozarsa ben."
 
-Zaleena, uzun bir süre sessiz kaldı, gözleri hesap yaparcasına Karia'yı süzdü. "Bunu neden istiyorsun? Hegemonya, bizi her zaman 'haşere' olarak gördü."
+Zaleena ilk kez hafifçe gülümsedi. "Bu kısmı beğendim."
 
-"Çünkü," dedi Karia, dürüstçe, "eski görüşler, artık işe yaramıyor. Sen, limanını bir kaostan bir düzene çevirdin — bunu, Roric asla yapamazdı. Bu, bana, seninle iş yapılabileceğini gösteriyor. Ve dünyanın gidişatı," durdu, sesi biraz alçaldı, "Paslı Gelgit, Kızıl Hafta'nın garip alâmetleri, Işıyanlar hakkındaki eski hikâyeler — hepsi, bize, eski düşmanlıkların artık lüks olduğunu gösteriyor."
+Karia konuşmanın en riskli yanını sona bırakmıştı. Mirasçı kayıtlarında Işıyanlarla ilgili parçalar bulduğunu söyledi. Zaleena'nın yüzü değişmedi; yalnızca parmakları dizinin üstünde durdu.
 
-Zaleena'nın kaşları hafifçe kalktı — bu son kısım, onu şaşırtmıştı. "Işıyanlar hakkında ne biliyorsun?"
+"Denizde gördüğümüz bazı yaratıklar Akıntı soyuna benzemiyor," dedi Zaleena. "Amara da bunu biliyor olabilir."
 
-"Fazla değil. Ama Mirasçılar'ın eski kayıtlarında bir şeyler var — tam anlamadığım, ama beni tedirgin eden şeyler." Karia, bir an durdu. "Sen neden sordun?"
+"Öyleyse eski düşmanlıkları taşımak için kötü bir zaman."
 
-Zaleena, uzun bir süre cevap vermedi, sonra, yavaşça: "Çünkü denizde gördüğüm bazı şeyler, sıradan Akıntı-Yaratıkları'na benzemiyor artık. Ve bir denizci olarak öğrendiğim bir şey var: bilinmeyen bir tehdit karşısında, eski düşmanlıklar, gerçekten de lüks oluyor."
+Zaleena elini uzattı. Saray selamı değil, güvertede yapılan kısa ve sağlam bir tokalaşmaydı.
 
-İkisi, bir an, sessizce birbirlerine baktılar — iki farklı dünyanın, iki farklı tacın sahibi, ama aynı fırtınayı sezen iki kadın.
+"Anlaştık. Önce bir deneme rotası. Sonra istihbarat."
 
-"Anlaştık, o zaman," dedi Zaleena, elini uzatarak — bir Hegemonya el sıkışması değil, bir denizci tokalaşması, sağlam ve doğrudan.
+Karia elini sıktı. "Ve hiçbir Delta görevlisi iki tarafa birden konuşamayacak."
 
-Karia, eli kabul etti. "Anlaştık."
+Dönüş yolunda Faelan, görüşmenin nasıl geçtiğini sordu.
 
----
-
-Gemiye dönerken, Faelan, Karia'nın yanına geldi, sesinde bir merak vardı. "Nasıl geçti, Majesteleri?"
-
-"İyi," dedi Karia, gözleri, uzaklaşan adaya, Zaleena'nın küçülen silüetine dikili. "Beklediğimden çok daha iyi. O kadın, Faelan — o kadın, benim gördüğüm en akıllı liderlerden biri olabilir. Ve en tehlikelisi, eğer bir gün düşman olursak."
-
-"Peki dost olarak kalırsak?"
-
-Karia, hafifçe gülümsedi, ilk kez o gün gerçek bir rahatlamayla. "O zaman, belki de, bu kıtanın dengesi, sandığımızdan daha ilginç bir şekilde değişebilir."
+Karia kıyıda küçülen kadını izledi. "Sözleşme yazmadık. Yine de bugün Konsey'deki çoğu antlaşmadan daha işe yarar bir şey kurduk."

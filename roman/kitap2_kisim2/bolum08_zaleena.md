@@ -1,46 +1,30 @@
 # Bölüm 8 — Roric'in Sözü
 *(ZALEENA)*
 
-Roric, Zaleena'yı, kendi eski atölyesine çağırdığında, sesindeki tonun, sıradan bir davet olmadığını, hemen anladı.
+Roric eski atölyesinde tahta bir sandık açtı. İçinden kaba dikişli, solmuş bir bayrak çıkardı.
 
-Roric, elindeki eski, tahta bir sandığı, masaya koydu. "Bir şey söylemek istiyorum. Uzun zamandır, ertelediğim bir şey."
+"Otuz yıl önce diktim," dedi. "Yamalı Liman'ın yalnız saklanılan yer değil, yönetilen yer olacağını sanıyordum. Sonra bayrağı sandığa koydum."
 
-Sandığı açtığında, içinde, eski, solmuş bir bayrak vardı — kaba dikilmiş, ama dikkatle korunmuş.
+Bezde lacivert zemin üstüne birbirine bağlanmış üç beyaz halka vardı. Kenarı çürümüş, ortası sağlam kalmıştı.
 
----
+"Neden şimdi?" dedi Zaleena.
 
-"Bu," dedi Roric, bayrağı, dikkatle çıkararak, "otuz yıl önce, gençliğimde, diktiğim bir bayraktı. O zaman, hayalim, Yamalı Liman'ı, gerçek bir devlet yapmaktı — kaçakçıların, korsanların, unutulmuşların, sadece hayatta kalmadığı, gerçekten var olduğu bir yer. Ama yıllar geçtikçe, bu hayalden vazgeçtim — çok büyük, çok imkânsız göründü."
+"Çünkü vergi iskelesi kurdun, mahkeme açtın, düşmanınla anlaşma yaptın. Benim hayal diye sakladığımı iş olarak yaptın."
 
-Zaleena, bayrağa, uzun bir süre baktı, içinde, garip bir duyguyla. "Bunu, neden şimdi gösteriyorsun bana?"
+Zaleena bayrağı hemen devlet simgesi ilan etmedi. Kaptanlar, rıhtım ustaları ve pazar temsilcilerini topladı. Roric bezin geçmişini kendi anlattı. Üç halka eski korsan filolarını değil, barınak, emek ve serbest geçişi simgeliyordu.
 
-Roric'in sesi, yaşlı ama gururluydu. "Çünkü sen, bu hayali, gerçekleştirdin, Zaleena. Belki, farkında bile olmadan. Benim otuz yıl önce hayal ettiğim şeyi, sen, birkaç yılda, inşa ettin."
+Genç denizciler yeni bir işaret istedi. Yaşlı kaptanlar eski bayrağı tanıyordu. Sonunda desen korunup lacivert zemin açık deniz yeşiline çevrildi; alt köşeye küçük bir liman feneri eklendi.
 
----
+Roric oylama sonucunu duyunca Zaleena'ya baktı. "Benim bayrağım değil artık."
 
-Bu itiraf, Zaleena'nın içinde, derin bir duyguyu uyandırdı — Roric, yıllardır, ona, bir mentör, bir baba figürü olmuştu; bu anın, ne kadar özel olduğunu, hemen kavradı.
+"Zaten amacımız buydu."
 
-"Bu bayrağı," dedi Zaleena, yavaşça, "Yamalı Liman'ın resmi bayrağı yapmalıyız. Senin hayalinle başladı bu yolculuk, Roric — benimle bitmemeli."
+Yeni bez bir hafta sonra en yüksek direğe çekildi. Tören sırasında yük boşaltma durmadı, devriye nöbeti değişti ve şifahanede kazan kaynadı. Zaleena gösteri için limanın işini kesmedi.
 
-Roric, bu öneriye, gözlerinde, bastırılmış bir duyguyla karşılık verdi. "Emin misin? Kendi bayrağını tasarlayabilirsin, kendi vizyonunla."
+Roric direğin altında gözlerini sildi. "Hayal ettiğimden farklı."
 
-"Kendi vizyonum, zaten, seninkinin üzerine inşa edildi." Zaleena'nın sesi kesindi. "Bu bayrak, bizim ortak hikayemizin bir parçası olmalı — sadece benim değil."
+"Daha mı kötü?"
 
----
+"Daha kalabalık. O yüzden daha iyi."
 
-O hafta, tören düzenlendi — eski bayrak, dikkatle onarılıp, limanın en yüksek direğine çekildi, bütün halkın önünde.
-
-Roric, töreni izlerken, yaşlı gözlerinde, gerçek bir gururla, Zaleena'nın yanında durdu.
-
-Roric'in sesi, duyguyla titriyordu. "Otuz yıl, uzun bir bekleyiş oldu. Ama bugün, sonunda, bu bayrağın, rüzgârda dalgalandığını görüyorum — ve bu, hayal ettiğimden bile güzel."
-
-"Bir gün," dedi Zaleena, elini, yaşlı adamın omzuna koyarak, "bu bayrağın altında, çocuklarımız, torunlarımız, hiçbir zaman, kaçakçı olmak zorunda kalmayacak bir hayat yaşayacak. Bu, senin mirasın, Roric — benimki değil."
-
-Roric, bu söze, cevap veremedi — sadece, sessizce, gözyaşlarını sildi, ve ikisi, uzun bir süre, sessizce, rüzgârda dalgalanan bayrağı izlediler.
-
----
-
-O gece, kamarasına döndüğünde, Zaleena, kendi kendine, düşündü: bazı zaferler, savaşlarla değil, sabırla, sadakatle, ve uzun süredir taşınan bir hayale, sonunda, hak ettiği yeri vererek kazanılıyordu.
-
-Draven, o akşam, kısa bir rapor getirdiğinde, Zaleena'nın yüzündeki mutluluğu fark etti. "İyi bir gün geçirmişsiniz, Kraliçem."
-
-"Öyle," dedi Zaleena, hafif bir gülümsemeyle. "Bazen, en iyi günler, hiçbir kriz olmadan geçenlerdir."
+Akşam Draven teslimat raporu getirdi. Zaleena sayıları kontrol ederken pencereden yeni bayrağın gölgesini gördü. Bir simgeyi miras almak kolaydı. Onu başkalarının da sahiplenebileceği biçimde değiştirmek, devlete daha çok benziyordu.

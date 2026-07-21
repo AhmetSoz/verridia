@@ -1,54 +1,66 @@
 # Bölüm 2 — Büyüyen Gölge
 *(TEMUJİN)*
 
-Kaos Mevsimi'nin ilk ayları, Büyük Ordugâh'ta, Temujin için, hem bir zafer hem de giderek artan bir tehlike dönemi olmuştu.
+Kızıl Hafta'dan sonraki iki ayda Temujin'in birliğine yüz kırk üç kişi başvurdu. Hepsini almadı.
 
-Sungurlar'ın teslimiyeti, bozkırın her köşesinde, onun adını, Korgan'ın adından bile daha sık anılır hâle getirmişti — "Sungurlar'ı kansız alan adam," diye anılıyordu artık, bazı çadırlarda, neredeyse bir efsane gibi.
+Korgan sayıyı sorunca iki yüz dedi. Büyük görünen bir birlik Han'ı ürkütürdü; eksik görünen kayıt ise casuslarını meşgul ederdi. Gerçek sayı yüz on dokuzdu.
 
-Bu ün, Temujin'in Genç Kurtlar'ını da büyütmüştü — artık elli değil, iki yüze yakın genç savaşçı, ona sadakat yemini etmişti, resmi olarak Korgan'ın ordusunun bir parçası olsalar da, kalben, Temujin'in kişisel gücüydü bu.
+Orkhon listeyi ateşe tuttu. “Kendi adamlarını Han'ından saklıyorsun.”
 
-Orkhon, bir akşam, Temujin'in çadırına geldi, sesi ciddiydi. "Korgan, seni izliyor. Her geçen gün, daha dikkatli, daha şüpheci."
+“Han da niyetini benden saklıyor.”
 
-"Biliyorum." Temujin'in sesi sakindi. "Ama henüz açık bir hamle yapmadı."
+“Onun çadırında bu cümle ihanet sayılır.”
 
-"Yapmayacak da — ta ki, senin bir zayıflığını bulana kadar. Ya da, senin, onun bir zayıflığını bulup bulmadığını anlayana kadar."
+“Bu yüzden benim çadırımdayız.”
 
-Bu sözler, ikisinin arasında, söylenmemiş bir gerçeği ima ediyordu — Korgan'ın günlerinin, bir şekilde, sayılı olduğu, ve bu sayının, Temujin'in kendi eylemleriyle, giderek azaldığı.
+Sungur antlaşması bozkırda Temujin'in adıyla anılıyordu. Korgan'ın adı ilk satırdaydı; kimse o satırı kimin yazdığını unutmamıştı.
+
+Büyük Savaş Çadırı'na çağrı geldiğinde Temujin bunun hesabının sorulacağını düşündü. Yanıldı. Korgan önüne iki hedef koydu.
+
+Haritada biri Yıldız-Örsü, öteki Valerius Geçidi'ydi.
+
+“Sungurlar ortak sancağımızı tanıdı,” dedi Korgan. “Bozkırda bitmemiş tek iş Temürçiler. Onları da alırsak batıya yürürüz.”
+
+Batu, Hegemonya işaretine yumruğunu bastı. “Önce batı. Yeni kraliçe daha tahtını ısıtmadı.”
+
+Temujin toplantıda bulunan on iki savaş lordunu saydı. Yedisi Batu'ya bakıyordu. Üçü Korgan'ın yüzünden karar bekliyordu. İkisi sessizdi.
+
+“Temürçilere saldırırsak çeliğimizi kaybederiz,” dedi. “Hegemonya'ya yürürsek Valerius Geçidi'nde atlarımızı kaybederiz.”
+
+Korgan eliyle devam etmesini istedi.
+
+“Kızıl Hafta filolarını zenginleştirdi. Karia adlı yeni kraliçe Yosun-Devi'ni Hançer Körfezi'nde durdurmuş. Halkı arkasında. En zayıf göründükleri an geçti.”
+
+Batu güldü. “Bir kadının öldürdüğü yosundan mı korkuyorsun?”
+
+“Yosundan değil. Onu izleyen yüz yirmi savaş gemisinden.”
+
+Çadırdaki iki sessiz lord başlarını kaldırdı.
+
+Temujin haritada Sungur vadilerini gösterdi. “Antlaşmanın kurultayda onaylanması gerek. Kışlaklar yer değiştirecek, ortak devriyeler kurulacak. Bunları yapmadan yeni savaş açarsak arkamızda barış değil, bekleyen bir bıçak bırakırız.”
+
+Korgan, Batu'nun yumruğunu haritadan çekmesini bekledi. “Ne kadar süre?”
+
+“Bir kış.”
+
+“Çok.”
+
+“Bir kış hazırlık yaparsak savaş iki yıl kısalır.”
+
+Korgan diğer lordlara baktı. Temujin'in saydığı yediden üçü artık haritayı inceliyordu.
+
+“İlk kar eriyene kadar,” dedi Korgan. “Sonra ya Temürçiler ya batı.”
+
+Bu kabul değildi. Takvime bağlanmış bir tehdit sayılırdı.
 
 ---
 
-Birkaç gün sonra, Korgan, beklenmedik bir şekilde, bütün savaş-lordlarını, büyük bir toplantıya çağırdı — ve toplantının konusu, Temujin'i, ilk kez, gerçekten endişelendirdi.
+Toplantıdan sonra Orkhon yanına yetişti. “Onu kendi meclisinde geri adım attırdın.”
 
-"Bozkırın birleşmesi," dedi Korgan, çadırda, sesi gür ve kararlı, "artık, neredeyse tamamlandı. Sungurlar bize katıldı, Temürçiler tarafsız kalmaya devam ediyor — ama bu, sonsuza dek süremez. Bir sonraki hedefimiz, ya onları da sancağımıza katmak, ya da Hegemonya'ya karşı, doğrudan bir sefer düzenlemek olmalı."
+“Kendi kaybını ertelettim.”
 
-Bu ikinci seçenek, çadırda, karışık bir heyecan yarattı — Batu, hemen, coşkuyla, Hegemonya seferini destekledi.
+“Korgan aradaki farkı görmez.”
 
-Temujin, dikkatle, sessiz kaldı bir süre, sonra, sesini yükseltti. "Han'ım, izin verirseniz — Temürçiler'e saldırmak, ya da Hegemonya'ya doğrudan bir sefer düzenlemek, ikisi de, şu anda, aşırı riskli. Temürçiler'in silahları, kıtanın en iyisi; onları düşman etmek, kendi ordumuzu silahsız bırakmak demek. Ve Hegemonya, yeni bir Kraliçe'yle, belki de, eskisinden daha güçlü bir konumda."
+“Görür.” Temujin atların bağlandığı sıraya baktı. Korgan'ın habercisi şimdiden güney çadırlarına gidiyordu. “Bu yüzden beni öldürmek için orduya ihtiyacı olmayan bir yol arayacak.”
 
-"Yeni bir Kraliçe mi?" Korgan'ın sesinde bir şaşkınlık vardı.
-
-"Casuslarımdan haber aldım. Eski Kral öldü, yerine, Leydi Karia adında bir kadın, Kraliçe oldu — halkın gözünde, zaten popüler, ve büyük bir Yosun-Devi'ni bizzat öldürdüğü söyleniyor."
-
-Bu haber, çadırda, yeni bir sessizlik yarattı — Korgan, bu bilgiyi, açıkça, hesaba katmamıştı.
-
-"Peki ne öneriyorsun, Genç Kurt?" Sesinde artık açık bir sabırsızlık vardı.
-
-"Sabır. Sungurlar'ı sindirelim, gücümüzü pekiştirelim. Hegemonya'nın yeni Kraliçesi'nin, ne kadar güçlü olduğunu, ilk yıllarında görelim. Ve o zaman, doğru zamanda, doğru bir hamle yapalım — aceleyle değil."
-
-Korgan, uzun bir süre, öfkeyle, sessiz kaldı — bu tavsiye, mantıklıydı, ama aynı zamanda, Temujin'in, bir kez daha, kendi planlarının önüne geçtiğinin bir kanıtıydı da.
-
-"Peki," dedi sonunda, sesi sert. "Sabredeceğiz. Ama Genç Kurt — bu senin son tavsiyen olsun, benim planlarıma karşı. Sabrımın da bir sonu var."
-
----
-
-Toplantıdan çıktığında, Orkhon, Temujin'in yanına geldi, yüzünde derin bir endişe vardı.
-
-"Tehlikeli bir oyun oynuyorsun, evlat," dedi Orkhon. "Korgan'ı, halkın önünde, bir kez daha, aştın."
-
-"Biliyorum." Sesi düşünceliydi. "Ama doğru olanı söyledim, Orkhon. Ve bir gün, doğru olanı söylemenin, benim gücümün temeli olacağını umuyorum — Korgan'ın korkusunun değil."
-
-Orkhon, uzun bir süre, ona baktı, sonra, yorgun bir şekilde başını salladı. "Umarım, o gün gelmeden önce, Korgan'ın sabrı tükenmez, Temujin."
-
-O gece, Temujin, kendi çadırında, tek başına, elindeki kılıcı uzun uzun inceledi — ve içinde, kendi geleceğinin, artık, sadece bir zaman meselesi olduğunu hissetti: ya Korgan'ı, bir şekilde, aşacaktı, ya da Korgan, onu, bir şekilde, yok edecekti.
-
-İkisinin arasında, artık, çok az yer kalmıştı.
+O gece gerçek asker listesini üç parçaya böldü. Birini Sube'ye verdi, birini ezberledi, üçüncüsünü yaktı. Korgan'ın hamlesi gelmeden önce Genç Kurtlar tek bir kâğıttan ibaret olmaktan çıkmalıydı.

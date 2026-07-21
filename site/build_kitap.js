@@ -10,6 +10,7 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const OUT = path.join(__dirname, 'assets', 'js', 'kitap-data.js');
+const CHECK_ONLY = process.argv.includes('--check');
 
 // Kitap / Kısım yapısı (klasör -> başlık eşlemesi)
 const YAPI = [
@@ -132,5 +133,15 @@ for (const kitapDef of YAPI) {
 const js = '// Otomatik üretildi — node site/build_kitap.js\nwindow.VERRIDIA_KITAP = ' +
   JSON.stringify(data) + ';\n';
 fs.mkdirSync(path.dirname(OUT), { recursive: true });
-fs.writeFileSync(OUT, js, 'utf8');
-console.log(`Tamam: ${data.toplamBolum} bölüm, ~${data.toplamKelime.toLocaleString('tr-TR')} kelime -> ${path.relative(ROOT, OUT)} (${(js.length / 1024 / 1024).toFixed(2)} MB)`);
+if (CHECK_ONLY) {
+  const mevcut = fs.existsSync(OUT) ? fs.readFileSync(OUT, 'utf8') : '';
+  if (mevcut !== js) {
+    console.error(`GÜNCEL DEĞİL: ${path.relative(ROOT, OUT)} roman dosyalarından geri kalmış. "npm run build:kitap" çalıştır.`);
+    process.exitCode = 1;
+  } else {
+    console.log(`GÜNCEL: ${data.toplamBolum} bölüm, ~${data.toplamKelime.toLocaleString('tr-TR')} kelime.`);
+  }
+} else {
+  fs.writeFileSync(OUT, js, 'utf8');
+  console.log(`Tamam: ${data.toplamBolum} bölüm, ~${data.toplamKelime.toLocaleString('tr-TR')} kelime -> ${path.relative(ROOT, OUT)} (${(js.length / 1024 / 1024).toFixed(2)} MB)`);
+}

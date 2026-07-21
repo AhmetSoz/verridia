@@ -1,46 +1,38 @@
 # Bölüm 24 — Borç Ağının Gerçek Şekli
 *(ZALEENA)*
 
-Küçük kap, Karia'nın mührüyle, sessiz bir kervanla geldiğinde, Zaleena, onu, uzun bir süre, açmadan, masasında tuttu — sanki içindekini bilmek, bir kez açıldığında, geri dönüşü olmayan bir kapıyı aralayacakmış gibi.
+Karia'nın gönderdiği tüpü Zaleena açmadı. Camın ardından görünen kızıl damarlar yeterliydi.
 
-Sonunda açtığında, kızıl damarlı tozu görür görmez, Zaleena'nın nefesi kesildi.
+"Bunu taşıdım," dedi. "Adını bilmiyordum. Sandık açılırsa gemiyi yakacağı söylenmişti."
 
-"Bunu tanıyorum," dedi, sesi düşük, neredeyse kendine. Kessel, karşısında, meraklı bir sessizlikle bekliyordu. "Yıllar önce taşıdığım kargolardan biri, tam bu renkteydi. O zaman, adını bilmiyordum — sadece, ağır ve tehlikeli olduğunu biliyordum."
+Kessel, Karia'nın mektubundaki sevk levhalarını eski defterlerle karşılaştırdı. Tarihlerden ikisi Zaleena'nın seferleriyle aynıydı. Delta malzemeyi hem Sungur hem Azgut aracılara yollamıştı.
 
-Karia'nın mektubu, yanında, kısa ve doğrudandı: *Delta'nın deposunda bulundu. Hem Sungur hem Azgut işaretli sandıklarda. Artık şüphe yok — Delta, savaşın iki tarafını da besliyor.*
+Roric tüpü görünce üçgen damgayı doğruladı. "Sarris'in ağı. En az otuz yıldır kullanılıyor."
 
-"Roric'i çağır," dedi Zaleena, sesi sertleşerek. "Bunu, görmesi gerek."
+"Amara'nın işi olabilir mi?"
 
----
+"Olabilir. Delta'da kimin kimin parasını kullandığını dışarıdan anlayamazsın."
 
-Roric, tozu incelediğinde, yüzü, eski bir anıyla gölgelendi. "Bunu, otuz yıl önce, bir kez gördüm — bir Delta ambarında, yanlışlıkla. O zaman, sorgulamadım; Delta'yla iş yapan herkes gibi, gördüğümü unutmayı öğrenmiştim." Başını salladı, yavaşça. "Ama şimdi anlıyorum, Zaleena. Bu, tesadüf değildi. Delta, yıllardır, bu oyunu oynuyor — belki de, benim zamanımdan bile önce başlamış."
+Zaleena yalnız güvendiği dört kaptanı topladı. Kanıtı masaya koydu ve sonucu süslemeden anlattı.
 
-"Ne kadar derine gidiyor bu, sence?" diye sordu Zaleena.
+"Bunu limana açıklamıyoruz," dedi. "Sarris inkâr eder, sonra delili çaldığımızı söyler. Önce bağımlılığımızı azaltacağız. İlaç, kredi ve onarım malzemesi için ayrı yollar kuracağız."
 
-"Bilmiyorum. Ama tahmin ediyorum ki, sadece bozkır savaşı değil. Belki, Yamalı Liman'ın Paslı Gelgit sorunu bile, bir şekilde, bu ağın bir parçası. Belki, her sorunun altında, bir yerde, Delta'nın parmak izi var."
+Yaşlı kaptan Mira, Can Macunu olmadan yaralıları kaybedeceklerini söyledi.
 
-Bu düşünce, Zaleena'nın içinde, soğuk bir öfkeyle yerleşti. Yıllarca, Delta için çalışmıştı — bilmeden, belki de, kendi halkının, farkında olmadan, aynı ağın bir ipliği olmasına yardım etmişti.
+"Bu yüzden Eski-Kent'e gemi gönderdim. Şifahane de kuruluyor. Altı ay içinde yerli ot ve cerrahi malzeme stokumuz olacak."
 
----
+"Altı ay boyunca Delta saldırmazsa."
 
-O akşam, Zaleena, kaptanlar arasında güvendiği birkaç ismi, gizlice çağırdı — Kessel, Sorin, ve iki eski, sadık kaptan, Draven'ın kanadından değil.
+"Saldırırsa elimizdeki kayıtlar üç limanda birden açılır. Kopyaların yerini yalnız ben bilmiyorum."
 
-"Delta'nın, savaşı beslediğine dair, artık, somut kanıtımız var," dedi Zaleena, kanıtı, masaya koyarak. "Bunu, henüz, herkese açıklamayacağım — panik, bize yardım etmez. Ama bilmenizi istedim: Yamalı Liman'ın, Delta'dan bağımsız olması gerektiği fikri, artık, sadece benim hayalim değil. Bir zorunluluk."
+Bu son cümle doğru değildi; Sorin, Kessel ve Roric de biliyordu. Fakat masadaki herkesin bilmesi gerekmiyordu.
 
-Kaptanlardan biri, yaşlı bir kadın, endişeyle sordu: "Delta'sız, Can Macunu'nu nereden bulacağız? Onlarsız, yaralılarımız..."
+Toplantıdan sonra Sorin fenerle kaldı. "Kendini suçluyorsun."
 
-"Alternatif arıyorum," dedi Zaleena, sesi kesin. "Eski-Kent'e giden gemim, bu yüzden yola çıktı. Mirasçılar, kendi simya bilgilerine sahip — Delta'ya bağlı olmayan bir bilgi. Eğer başarılı olursa, belki, bir gün, Amara'nın tehditlerine, artık boyun eğmemiz gerekmez."
+Zaleena yük defterine baktı. "Paralarını aldım. Sandıkları taşıdım."
 
----
+"İçinde ne olduğunu bilmiyordun."
 
-Gece yarısına doğru, tek başına kaldığında, Zaleena, pencereden, limana baktı — karanlık sular, sessiz gemiler, ve ötede, ufukta, Eski-Kent'e doğru giden geminin, artık günlerdir yol aldığını bildiği yön.
+"Şüphelenmemek için para aldım. O farklı."
 
-Sorin, sessizce yanına geldi, elinde bir fener. "İyi misin?"
-
-"Bilmiyorum." Zaleena'nın sesi, ilk kez, günler sonra, gerçek bir yorgunlukla çıktı. "Bir zamanlar, sadece kendi hayatta kalmamı düşünürdüm, Sorin. Şimdi, bütün bir limanın, belki de bütün bir kıtanın, farkında olmadan içine düştüğü bir ağı düşünüyorum. Bu, taşınması ağır bir yük."
-
-"Ama sen, bu yükü taşıyacak birine benziyorsun," dedi Sorin, sesi sıcak, sadık. "Roric'in dediği gibi — elindekinden fazlasını göstererek kazanan kadın. Belki, bu sefer de, öyle olur."
-
-Zaleena, bu söze, hafif bir gülümsemeyle karşılık verdi — ama içinde, gerçek bir korku da vardı: eğer bu ağ, gerçekten, sandığından daha derinse, gösterecek yeterli gücü, hiçbir zaman bulamayabilirdi.
-
-Yine de, Sorin'in fenerinin ışığında, güvertede bir adım attı, sonra, kendi kendine, sessizce bir söz verdi: *ne kadar derin olursa olsun bu ağ, bir yolunu bulacağım onu yırtmanın.*
+Defterdeki altı seferi kırmızı mürekkeple işaretledi. Sonra her birinin karşısına yükün ulaştığı yerleri yazdı. Suçluluk geçmişi değiştirmeyecekti. İyi bir kayıt, en azından gelecekte kimi durduracağını gösterirdi.

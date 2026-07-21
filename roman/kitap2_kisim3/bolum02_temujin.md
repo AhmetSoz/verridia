@@ -1,40 +1,26 @@
 # Bölüm 2 — Sarris'in Uzun Kolu
 *(TEMUJİN)*
 
-Sube'nin takibi, beş gün sonra, somut bir sonuç verdi.
+Sube beş gün sonra Renn'in Karaçul boyuna gittiğini bildirdi. Delta arabasından aynı kılıçlar indirilmişti. Karaçullar Kuru Dere'nin kuzey su kuyusu üzerinde eski hak iddia ediyordu.
 
-Sube, kampa dönüşünde, sesi ciddi çıktı. "Renn, doğrudan, Sarris'e rapor veriyor. Amara'ya değil. Ve daha kötüsü — komşu bir küçük boya, gizlice, silah taşıdığını gördüm. Karaçul boyu, biliyorsun, bize karşı, eski bir kırgınlık taşıyor."
+"Sarris onları bize karşı borçlandırıyor," dedi Temujin.
 
-Temujin'in içi soğudu. "Sarris, Karaçul'u, bize karşı kışkırtmaya mı çalışıyor?"
+Karia'yla yapılan beş yıllık anlaşma Sungur–Azgut savaşına gizli silah satışını yasaklıyordu. Karaçul ile Genç Kurtlar metinde yoktu. Sarris boşluğu kullanmıştı.
 
-Sube, düşünceli karşılık verdi. "Öyle görünüyor. Belki, bizi zayıflatmak için. Belki, sadece, kaosun, kendisine kâr getirdiğini bildiği için."
+Temujin Hegemonya'ya kendi mührüyle açık rapor yolladı. Sarris'in anlaşmayı teknik olarak ihlal etmediğini de yazdı. Talebi askerî destek değil, Karaçul'a sunulan sözleşmenin Delta arşivinden doğrulanmasıydı.
 
----
+Karia belgeyi iki hafta içinde gönderdi. İlk yıl ücretsiz görünen kılıçların karşılığında Karaçul'un üç kuyusunun yirmi yıllık işletme hakkı alınacaktı. Boy liderlerine gösterilen nüshada bu ek yoktu.
 
-Kaya, bu haberi, derin bir öfkeyle karşıladı. "Bu, Karia'nın Sarris'le yaptığı anlaşmaya aykırı değil mi?"
+Temujin kopyayı Karaçul meclisine iki tanıkla ulaştırdı. Tehdit eklemedi.
 
-"Teknik olarak, hayır," dedi Temujin, acı bir gerçekçilikle. "O anlaşma, Karia ve Zaleena'yı koruyor — bizi değil. Sarris, muhtemelen, bunu, bir boşluk olarak görüyor. Bizi hedef almak, onun için, hâlâ, serbest bir oyun alanı."
+Karaçul heyeti bir hafta sonra Kuru Dere'ye geldi. Kılıçları geri vermişlerdi. Su kuyusu anlaşmazlığı ise masada duruyordu.
 
-"Ne yapacağız?"
+"Sizi sevdiğimiz için gelmedik," dedi boy başı.
 
-Temujin, uzun bir süre düşündü, sonra, yavaşça. "Belki, Karia'nın kanalını kullanmalıyız — dolaylı olarak, ona, bu durumu bildirmeliyiz. Eğer, Sarris, onun anlaşmasını, bu şekilde delip geçiyorsa, belki, Karia'nın, bunu bilmesi, ona da fayda sağlar."
+"Ben de sevgi istemedim," dedi Temujin. "Kuyunun kullanımını konuşalım."
 
----
+İki taraf suyu mevsime göre paylaşan bir deneme düzeni kurdu. Karaçullar ilkbaharda, Genç Kurtlar yaz sonunda öncelik alacaktı. Ölçüm için Sungur kâtibi çağrıldı.
 
-Mesaj, Sube'nin ağı aracılığıyla, dikkatlice, Karia'ya ulaştırıldı — Temujin'in ilk doğrudan iletişimi, bir Hegemonya kraliçesiyle.
+Batu sonucu Karia'nın korkusuna bağladı. Togan itiraz etti. "Karaçullar sözleşmede ne kaybedeceğini gördü. Kendi kararlarını verdiler."
 
-Cevap, şaşırtıcı derecede hızlı geldi — kısa, ama net bir mesaj: *Bilgi için teşekkürler. Sarris'in bu hamlesi, benim de sınırlarımı zorluyor. Karaçul'a, kendi kanallarımdan, dikkatli bir uyarı göndereceğim — sizinle savaşmanın, bedelinin, düşündüklerinden ağır olacağını bildiren bir uyarı.*
-
-"İlginç bir kadın," dedi Kaya, mesajı okuduktan sonra, hafif bir gülümsemeyle. "Hiç tanışmadığın biri, seni, bu kadar hızlı destekliyor."
-
-"Belki de," dedi Temujin, düşünceli, "bu, tam olarak, inşa etmeye çalıştığım şey — kılıçla değil, karşılıklı çıkarla kurulan bağlar."
-
----
-
-Karaçul boyu, bir hafta sonra, beklenmedik bir şekilde, Genç Kurtlar'a, resmi bir barış teklifiyle geldi — Sarris'in silahlarını, sessizce reddederek.
-
-Batu'nun sesinde şaşkınlık vardı. "Karia'nın uyarısı, işe yaramış."
-
-"Ya da," dedi Togan, düşünceli, "Karaçul, sadece, hangi rüzgârın, hangi yöne estiğini, iyi okuyor. Sarris'in gücü, sınırsız değil — özellikle, birkaç kraliçe, birlikte, ona karşı durduğunda."
-
-Temujin, bu gelişmeyi, derin bir tatminle izledi — küçük bir zafer, ama gerçek. Ve içinde, yeni bir düşünce, sessizce filizlendi: belki, Genç Kurtlar'ın gerçek gücü, hiçbir zaman, sadece kendi kılıçlarında olmayacaktı — belki, gerçek güç, uzak, ama gerçek müttefiklerin, sessiz ağında olacaktı.
+Temujin bunu kabul etti. Uzak bir kraliçenin gücü işe yaramıştı, fakat barışı kuran şey saklanmış ekin açığa çıkmasıydı. Sarris kılıç satamamış; karşılığında Kuru Dere ilk komşuluk anlaşmasını kazanmıştı.

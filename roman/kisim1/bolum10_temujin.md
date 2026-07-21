@@ -1,60 +1,96 @@
 # Bölüm 10 — Kemiklerin Söylediği
 *(TEMUJİN)*
 
-Gürz-Diş Korgan'ın Büyük Savaş Çadırı, her zamanki gibi, bir toplantı yerinden çok bir meydan okumaya benziyordu. Kara bizon derisinden yapılmış devasa çadırın ortasında, Han'ın kendisi, tek gözünün üzerindeki eski yara izini gölgede bırakan bir meşale ışığında oturuyordu; sağında Orkhon, solunda Batu, ve masanın etrafında bozkırın en güçlü savaş-lordları.
+Korgan’ın Büyük Savaş Çadırı, altmış kişinin rahatça oturabileceği genişlikteydi. Han yine de savaş-lordlarını birbirlerinin omzuna değecek kadar dar bir halkaya toplardı. Yakın duran adam daha iyi dinler, kaçmak isterse daha çabuk yakalanırdı.
 
-"Hasat geldiğinde," diyordu Korgan, sesi çadırın derilerini titretecek kadar gür, "Sungurlar'a son darbeyi indireceğiz. Yirmi yedi yıl bekledik. Yirmi yedi yıl, o inatçı klanın dağ eteklerinde saklanmasına izin verdik. Bu hasat, son hasat olacak."
+Kara bizon derilerinin ortasında tek bir büyük meşale yanıyordu. Korgan masanın başında, Batu sağında, Orkhon solunda oturuyordu. Temujin kendine ayrılan yere geçtiğinde haritadaki taşların çoktan dizildiğini gördü.
 
-Masanın etrafında bir onay mırıltısı yükseldi — çoğu savaş-lordu için bu, uzun zamandır beklenen bir haberdi. Temujin, sessizce dinliyordu; yüzünde ne bir heves ne bir itiraz vardı, sadece dikkatli bir hesap.
+Sungur topraklarının çevresi siyah bizonlarla kapanmıştı.
 
-"Nasıl?" diye sordu Orkhon, sesi her zamanki gibi düz ve pratik. "Sungurlar açık meydanda savaşmaz. Kartal gözleriyle her hareketimizi önceden görürler. Onları bir kez daha pusuya çekmeye çalışırsak, geçen sefer olduğu gibi başımıza iş açabilirler."
+“Hasat geldiğinde son darbeyi indireceğiz,” dedi Korgan. Gür sesi çadır derisini titretti. “Yirmi yedi yıldır dağ eteklerine saklanıyorlar. Bu kez kaçacak delik bırakmayacağım.”
 
-Korgan'ın gözü kısıldı — bu tür sorulara alışık değildi, özellikle de kendi savaş-lordlarından. "O yüzden pusu kurmayacağız. Onları sayıyla eziyoruz. Bütün bozkırın gücünü, tek bir cephede, tek bir günde onların üzerine yığacağız. Kartal görsün, ne fark eder? Gördükleri şeyden kaçamayacaklar."
+Masanın çevresinden onay sesleri yükseldi. Batu yumruğunu göğsüne vurdu.
 
-Temujin, bu planın kaba gücünü içten içe tarttı. Bu, Korgan'ın klasik yöntemiydi — ezici, doğrudan, etkili ama zarafetten yoksun. Sungurlar'ı bu şekilde yenmek mümkündü, evet; ama bedelini de düşünmek gerekiyordu. Böyle bir savaş, Azgut ordusunun neredeyse tamamını tüketirdi — ve Temujin'in Genç Kurtlar'ı, hâlâ küçük, hâlâ büyümekte olan bir tohumdu. Eğer ana ordu bu savaşta kırılırsa, onun sabırla ördüğü her şey de anlamsız hâle gelirdi.
+Orkhon haritadan başını kaldırmadı. “Kartal ağı dururken ordunun yaklaştığını günler öncesinden görürler.”
 
-"Han'ım," dedi Temujin, sesi ilk kez o toplantıda yükseldi, "izin verirseniz bir öneri."
+Korgan’ın tek gözü daraldı. “Görsünler.”
 
-Korgan'ın gözü ona döndü, yarı ilgi yarı sabırsızlıkla. "Konuş, Genç Kurt."
+“Geçen sefer de gördüler.”
 
-"Sungurlar'ı ezmek için bütün ordumuzu riske atmamıza gerek yok belki de." Temujin'in sesi ölçülü, saygılıydı — Korgan'ın önünde asla fazla akıllı görünmemesi gerektiğini biliyordu. "Onların gerçek gücü sayıları değil, bilgileri. Kartal ağları olmadan, Sungurlar sıradan bir klandan farksız. Eğer önce o ağı kırarsak — belki de gökyüzünü onlardan alırsak — geri kalanı, sizin planınızla, çok daha az kayıpla halledilir."
+Çadır sessizleşti. Korgan, kendisine yenilgiyi hatırlatan adamları sevmezdi. Orkhon bunu bildiği için cümlesini değiştirmedi.
 
-Bir sessizlik oldu. Batu, kaba bir kahkaha attı. "Kartalları nasıl yakalayacaksın, Genç Kurt? Elinle mi tutacaksın onları?"
+“Bu kez sayıyla ezeriz,” dedi Han. “Bütün boylar aynı gün ilerler. Kaçacakları her geçide bir kol koyarım.”
 
-"Kartalları değil," dedi Temujin, sesi sakin kaldı Batu'nun alayına rağmen. "Yuvalarını. Ve yuvaları koruyan avcıları. Rüzgar-Dinleyenler'in sayısı azdır — belki dört yüz kişi. Onları hedef alan, küçük ve hızlı bir kol, ana ordumuz saldırmadan haftalar önce harekete geçebilir."
+Temujin haritadaki mesafeleri hesapladı. On binlerce at aynı dar cepheye girecek, erzak kolları uzayacak, Sungurlar hazırlandıkları araziye çekilecekti. Zafer mümkündü. Ardında kalacak ordunun ne işe yarayacağı belirsizdi.
 
-Orkhon, tek gözüyle Temujin'e baktı; Temujin, bu bakışta bir onayın yavaş yavaş şekillendiğini gördü. "Bu," dedi Orkhon yavaşça, "düşünülmeye değer bir fikir, Han'ım."
+Korgan’ın planına doğrudan karşı çıkmak, planın kendisinden daha tehlikeliydi.
 
-Korgan bir süre sessiz kaldı, kalın parmaklarıyla masaya vurarak düşündü. "Küçük bir kol," dedi sonunda, "sen mi yöneteceksin?"
+“Han’ım,” dedi. “Ordunun önündeki gözü alırsak sayımızı daha az harcarız.”
 
-"Eğer izin verirseniz."
+Korgan ona döndü. “Konuş.”
 
-Korgan'ın gözünde bir hesap parladı — Temujin'in artan ününden rahatsız olan, ama onu da kaybetmek istemeyen bir liderin hesabı. "Elli kişi al. Fazlasını değil. Ve başarısız olursan, Genç Kurt, bunun bedelini kendi başınla ödersin, benim ordumla değil."
+“Sungurların gücü savaşçı sayıları değil. Rüzgar-Dinleyenler, her geçitte ve tepede kartal uçuruyor. Ana ordu ilerlemeden önce gözetleme noktalarını kırarsak Börü, darbeyi nereden indireceğinizi bilemez.”
 
-"Anlaşıldı, Han'ım."
+Batu güldü. “Kartalları mı kovalayacaksın?”
 
----
+“Kartallar geri dönecek yuva bulamazsa kovalamaya gerek kalmaz.” Temujin haritada üç yüksekliği işaret etti. “Dört yüz kadar Rüzgar-Dinleyen var. Hepsine saldırmayız. Haber zincirinin boğumlarını keseriz. Küçük bir kol hızlı girer, kuleleri kullanılmaz hâle getirir ve ana ordu yürüyene kadar ortadan kaybolur.”
 
-Toplantı dağıldığında, Temujin çadırdan çıkarken, dışarıda, ateşin ışığının ulaşamadığı bir köşede, Toprak-Ana Yeva'nın onu beklediğini gördü. Yaşlı kadının gözleri, her zamanki gibi tamamen beyazdı, ama Temujin, bu kör bakışın kendisini görmekten daha fazlasını yaptığını hissetti — sanki içini okuyordu.
+Orkhon taşları yeni düzene göre ayırdı. “Kartal Kayası düşerse batı hattı bir gün kör kalır. İkinci nokta iki gün daha kazandırır.”
 
-"Genç Kurt," dedi Yeva, sesi transa geçmiş biri gibi derin ve yankılıydı. "Kemikler bu sabah yine aynı çatlağı gösterdi."
+Korgan kalın parmağıyla Kartal Kayası’nın üstündeki taşı itti. Temujin’in ünü işine yarıyordu; aynı ün, Han’ın onu ne kadar uzağa göndermeye razı olduğunu da belirliyordu.
 
-Temujin durdu, saygıyla eğildi — bozkırın hiçbir savaşçısı, Han'lardan bile eski olan bu kadına saygısızlık etmezdi. "Ne görüyorsun, Ana?"
+“Kolu sen yöneteceksin.”
 
-"Bu hasat, hasat değil." Yeva'nın sesi alçaldı, neredeyse bir fısıltıya döndü. "Ay kızıla dönecek, evet. Ama bu sefer başka bir şey de geliyor onunla birlikte. Toprak bunu biliyor. Bizonlar bunu biliyor — sen de gördün, değil mi? Sebepsiz yere kaçan sürüyü?"
+“Emredersiniz.”
 
-Temujin'in içi bir an ürperdi, ama sesi sakin kaldı. "Bir tesadüf olabilir, Ana."
+“Elli kişi. Bir tane fazla değil.” Korgan öne eğildi. Eski yara, meşale ışığında göz çukurunu daha da derin gösterdi. “Başarısız olursan kaybettiğim yalnız sen olacaksın. Başarırsan zafer yine benim olacak.”
 
-"Sen tesadüflere inanmazsın, Genç Kurt. Zihnin çok keskin, çok hesaplı — tesadüfe yer bırakmaz." Yeva'nın kör gözleri, bir şekilde, tam olarak Temujin'in yüzüne dikilmiş gibiydi. "Sen kendini iyi saklıyorsun, evlat. Herkesten. Belki de kendinden bile. Ama kemikler, saklanan şeyleri de görür bazen."
+Temujin başını eğdi. “Zafer Han’ındır.”
 
-Bu sözler, Temujin'in içinde tanımlayamadığı bir soğuklukla dolaştı. "Ne demek istiyorsun, Ana?"
+Bunu söylerken masadaki herkesin hangi kelimeye inandığını ayrı ayrı kaydetti.
 
-Yeva uzun bir süre cevap vermedi; sadece, kör gözleriyle, hâlâ ona bakıyormuş gibi durdu. "Henüz bir şey demek istemiyorum," dedi sonunda, sesi yorgun. "Zaman gelince, kemikler kendi dilleriyle konuşur. Şimdilik sana sadece şunu söyleyeyim: Sungurlar'a karşı planın akıllıca. Ama gözünü sadece güneye, sadece batıya dikme, Temujin. Bu hasatta, tehlike her yönden gelebilir — hatta hiç beklemediğin bir yönden."
+✦
 
-Kadın, başka bir şey söylemeden döndü ve karanlığa doğru yürüdü, kemiklerinin ve tüylerinin hışırtısı gecenin sessizliğine karışana kadar.
+Toplantı dağıldığında Yeva dışarıda bekliyordu. Boynundaki küçük kemikler rüzgârda birbirine vuruyor, beyaz gözleri ateş ışığını tutmuyordu.
 
-Temujin, uzun bir süre olduğu yerde kaldı, gözleri kuzeye, karanlığın en derin köşesine dikili. Yeva'nın sözleri, aklının bir köşesinde huzursuz bir tohum gibi kök salmıştı — ve Temujin, hesaplamayı sevmediği tek şeyin, tam da hesaplayamadığı şeyler olduğunu, o gece bir kez daha hatırladı.
+Temujin durdu. “Toprak-Ana.”
 
-Çadırına dönerken, Genç Kurtlar'ının kamp ateşinin yanından geçti; gençler onu görünce ayağa kalktı, saygıyla eğildi. Temujin, onlara bakarken, elli kişilik bir kolla Sungurlar'ın kartal ağını kırma planını bir kez daha zihninde gözden geçirdi — ama bu kez, Yeva'nın sözleri, planın kenarlarında sessizce dolaşan bir gölge gibiydi.
+Yeva avucunu açtı. İçinde başparmak boyunda, ateşten kararmış dört kemik parçası vardı.
 
-Belki de, diye düşündü, bu hasatta kazanmak istediği şey, sandığından daha karmaşık bir oyunun sadece bir parçasıydı.
+“Üç kez yaktım,” dedi. “Her seferinde dört yana ayrıldı.”
+
+Temujin parçaları inceledi. “Ne anlama geliyor?”
+
+“Bilmiyorum.”
+
+Yeva’dan bu cevabı nadiren duyardı.
+
+“Bizonları gördün,” dedi kadın.
+
+“Gördüm.”
+
+“Kuzeye kaçtılar.”
+
+“Önlerinde bilmediğimiz bir avcı olabilir.”
+
+“Avcıdan kaçan sürü, avcının tersine gider. Onlar kuzeye koştu.” Yeva kemiklerden birini Temujin’in avucuna bıraktı. Parçanın çatlağı dört kola ayrılıyordu. “Bu hasatta tehlikeyi tek sancak altında arama. Toprak bir yönden konuşmuyor.”
+
+“Sungur planını mı gördün?”
+
+“Kemikler plan bilmez.”
+
+“O hâlde ne yapmamı istiyorsun?”
+
+Yeva’nın yüzü ona döndü. “Bir kez olsun, hesaplayamadığın şeyi yok saymamanı.”
+
+Kadın yürüyüp karanlıkta kayboldu.
+
+Temujin kemik parçasını çadırına götürdü. Haritanın üstüne, Kartal Kayası’nı gösteren taşın yanına bıraktı. Elli kişiyi beş takıma böldü; her takımın dönüş yolunu ayrı çizdi. Sonra kuzey hattında, hiçbir emrin karşılık gelmediği boş bir işaret koydu.
+
+Sube içeri girdiğinde haritaya baktı. “Bu nedir?”
+
+“Bilmediğimiz şey.”
+
+“Onun için kaç kişi ayıracağız?”
+
+Temujin, Yeva’nın çatlamış kemiğini çevirdi. “Şimdilik yalnız dikkatimizi.”

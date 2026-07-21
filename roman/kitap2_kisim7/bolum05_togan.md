@@ -1,40 +1,22 @@
-# Bölüm 5 — Yankının Derinliği
+# Bölüm 5 — On Saniyelik Sessizlik
 *(TOGAN)*
 
-Işıyan'ın eğitimi, Togan'ın beklediğinden, çok daha yoğun bir deneyim oldu — haftalarca, Sed'in içinde kalarak, kendi kanının, tam olarak neler yapabileceğini, dikkatle keşfetti.
+Bir sonraki Sed ziyareti doksan gün sonra yapıldı. Togan önce beş adı söyledi, denge işlemini tamamladı ve kalan sekiz dakikada ilk deneye girdi. Haftalarca Sed'de kalmak seçtikleri güvenlik düzenini anlamsızlaştırırdı.
 
-"Bugün," dedi Işıyan, bir seansın ortasında, "yeni bir şey deneyeceğiz. Sadece hissetmek değil — hafifçe, dokunmak."
+Işıyan avuç büyüklüğünde, işlevini yitirmiş bir Praetorian zırh parçasını taş masaya koydu. Parça hâlâ Akıntı'nın düzenli titreşimini taşıyordu. Togan onu uzaktan sezebiliyor, fakat ne yaptığını bilmiyordu.
 
-Togan, bu öneriye, tedirginlikle karşılık verdi. "Dokunmak, neye?"
+"Susturmaya çalışma," dedi Işıyan. "Yalnız kendi ritminle arasındaki farkı bul."
 
----
+Togan elini yaklaştırdı. Sol bileğindeki damarlar yandı. Metalin uğultusu önce yükseldi, sonra on saniyeden kısa bir süre kesildi. Parça matlaşmadı; yüzeyindeki ince çizgi yer değiştirdi.
 
-Işıyan, dikkatle açıkladı. "Bir Praetorian zırhının, senin kanının yakınında, nasıl tepki verdiğini, hatırlıyor musun? Matlaşma, güç kaybı? Bugün, bunu, kontrollü bir şekilde, kendi isteğinle, tetiklemeyi deneyeceğiz."
+Işıyan deneyi hemen durdurdu. İkinci tekrar yapılmadı.
 
-Bu fikir, Togan'ı, hem heyecanlandırdı hem korkuttu. "Bu, tehlikeli olabilir mi?"
+Çıkış sınamasında Togan beş adı doğru söyledi, fakat Perren'e sabah mı akşam mı geldiğini yanlış cevapladı. Lyra bunu bellek hatası olarak kaydetti. Baş ağrısı dört gün sürdü; önceki ziyaretlerden bir gün uzundu.
 
-"Dikkatli olursak, hayır. Ve eğer, gerçekten, Malakor, senin kanını, bir silaha çevirmeyi düşünüyorsa, bu gücü, kendin, anlamalı, kontrol etmelisin — onlardan önce."
+"Başardın mı?" diye sordu Temujin dönüşte.
 
----
+"Bir parçanın titreşimini on saniye değiştirdim. Bunun dışında ne olduğunu bilmiyoruz. Bedeli de bir zaman hatasıyla dört gün ağrı."
 
-Küçük bir deney, dikkatle hazırlandı — Işıyan'ın kendi, küçük bir enerji yapısı, Togan'ın, elini, yaklaştırmasıyla, gerçekten, hafifçe zayıfladı.
+Kayıt üç yerde tutuldu: Lyra'nın sağlık defteri, Sed'in deney kaydı ve Togan'ın kendi kopyası. Tam teknik ayrıntı açık arşive konmadı; fakat deneme yapıldığı saklanmadı.
 
-"Hissettim," dedi Togan, şaşkınlıkla. "Sadece, hissetmek değil — gerçekten, bir şey... aktardım, sanki."
-
-Işıyan, bu başarıya, dikkatli bir memnuniyetle karşılık verdi. "İlerliyorsun. Ama bu, hâlâ, çok küçük bir güç. Gerçek bir Praetorian'a karşı, ne kadar etkili olacağını, bilmiyoruz — ve umarım, hiçbir zaman, bunu, gerçek bir savaşta, test etmek zorunda kalmazsın."
-
----
-
-Bu yeni bilgi, Togan'ı, hem güçlü hem de, garip bir şekilde, daha da savunmasız hissettirdi. "Eğer, Malakor, bunu öğrenirse..."
-
-"O zaman," dedi Işıyan, ciddi, "seni, daha da değerli — ya da daha da tehlikeli — bulur. Bu bilgiyi, çok dikkatli taşı, genç kan-taşıyıcı."
-
-Togan, Eski-Kent'e döndüğünde, bu yeni gücü, sadece, Temujin ve Perren'le paylaştı — kimseye, hiçbir şekilde, sızmaması gereken bir sır olarak.
-
----
-
-Bu haberi duyunca, Temujin'in ciddiyeti derinleşti. "Bu, hem bir umut hem bir tehlike. Eğer, gerçekten, Praetorianlara karşı, bir silah olabilirsen, bu, bir gün, büyük bir savaşta, belirleyici olabilir. Ama aynı zamanda, seni, herkesin — Delta'nın, belki başkalarının da — en çok istediği kişi yapar."
-
-Togan, bu ağırlığı, sessizce kabul etti. "Biliyorum. Ama artık, en azından, bu gücü, kendi ellerimde tutuyorum — başkalarının, benim hakkımda, benden daha fazla bilmesine izin vermeden."
-
-Perren, ona, sessizce, dostça bir gülümsemeyle baktı — ve Togan, bir kez daha, bu yolun, ne kadar yalnız olursa olsun, hiçbir zaman, gerçekten yalnız yürünmediğini, hissetti.
+Malakor'a hiçbir sonuç gönderilmedi. Togan artık gücünü eline aldığını düşünmüyordu. Yalnız bir etkinin tekrarlanabilir olabileceğine dair ilk küçük kanıtı vardı. On saniyelik sessizlik, bir silah değil; daha dikkatli sorulması gereken yeni bir soruydu.

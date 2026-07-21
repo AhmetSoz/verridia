@@ -1,40 +1,48 @@
 # Bölüm 51 — Gölgelerin Anlaşması
-*(KARİA)*
+*(KARIA)*
 
-Sarris, bu kez, önceden haber vermeden geldi — ve yüzündeki ifade, önceki ziyaretlerinden çok farklıydı: oyunun keyfi değil, gerçek bir hesaplaşmanın ağırlığı.
+Sarris bu kez haber vermeden geldi. Karia onu kabul etti, fakat Faelan'ı bitişik odada tanık bıraktı.
 
-"Ültimatomunuzu aldım," dedi Sarris, saray odasına girer girmez, dolambaçsız. "Zaleena'nınkini de. İkiniz, cesur bir hamle yaptınız, Majesteleri."
+"İki mektubunuzu da aldık," dedi Sarris. "Zamanlaması etkileyiciydi."
 
-"Cesaret değil bu," dedi Karia, sakin bir sesle. "Gereklilik. Vorlag düştü. Draven, artık bize sadık. Deponuzun kanıtı, hâlâ elimizde. Ve Amara, sizin oyununuzdan, artık, memnun değil gibi görünüyor."
+"Cevabınız?"
 
-Sarris'in yüzü, bir an, gerçek bir yorgunlukla gölgelendi. "Haklısınız. Amara, bu son olaylardan sonra, benimle, uzun ve rahatsız edici bir konuşma yaptı. Delta, göründüğü kadar birleşik değil — bunu, zaten biliyordunuz."
+Sarris yazılı bir teklif koydu. Delta, Hegemonya ve Yamalı Liman'da lider değiştirmeye yönelik gizli faaliyetleri durduracak; Can Macunu ticareti siyasi koşula bağlanmayacaktı. Karşılığında depo kanıtları açıklanmayacaktı.
 
----
+"Vorlag hattı kimin projesiydi?" dedi Karia.
 
-"Ne teklif ediyorsunuz?" diye sordu Karia, doğrudan.
+"Benim."
 
-Sarris, uzun bir süre düşündü, sonra, ilk kez, gerçek bir yenilgiyle konuştu. "Bir anlaşma. Delta, artık, ne sizin ne de Zaleena'nın tahtına, gizli oyunlarla müdahale etmeyecek. Vorlag gibi projeler, sona erdi — resmi olarak. Karşılığında, elinizdeki kanıtları, kamuya açıklamayacaksınız. Delta'nın itibarı, hâlâ, bize, değerli."
+"Savaş malzemeleri?"
 
-"Ve savaşı finanse etmeniz? Sungur-Azgut çatışmasına sattığınız silahlar?"
+Sarris susarak cevabı verdi.
 
-Sarris, bu soruya, uzun bir sessizlikle karşılık verdi. "O, benim özel bir projemdi, itiraf ediyorum — Amara'nın onayı olmadan. Ve şimdi, Amara'nın baskısıyla, o proje de, yavaşça, kapatılıyor. Bu, size, bir zafer olarak yeterli mi?"
+"Metinde yok."
 
----
+"O sevkiyatlar sona erecek."
 
-Karia, bu teklifi, uzun bir süre tarttı — tam bir zafer değildi, ama gerçek bir kazanımdı: Delta'nın, en azından, şimdilik, geri çekildiği bir kazanım.
+"Sözlü vaat kabul etmiyorum."
 
-"Kabul ediyorum," dedi sonunda, "şimdilik. Ama bilmenizi isterim, Sarris — eğer, bir daha, gizli bir oyun oynarsanız, benim ya da Zaleena'nın aleyhine, kanıtlarımız, artık, sadece bir tehdit olmaktan çıkar. Gerçek olur."
+Karia madde ekledi: Delta aynı çatışmanın iki tarafına gizli askerî malzeme satmayacak, geçmiş sevkiyatların kalan borçlarını da siyasi baskı için kullanmayacaktı. Sarris itiraz etti. Karia kalemi masaya bıraktı.
 
-Sarris, bu uyarıyı, sessizce kabul etti, sonra, ayrılırken, son bir kez döndü. "Bir şey daha, Majesteleri — merak ediyorsanız diye söylüyorum. Amara, sizi ve Zaleena'yı, artık, farklı bir gözle görüyor. Belki de, ileride, Delta'yla ilişkiniz, sadece düşmanlık değil, daha karmaşık bir şey olabilir."
+"Anlaşmasız dönebilirsiniz. Kanıtlar yarın da elimizde olacak."
 
----
+Sarris uzun bir pazarlıktan sonra maddeyi daraltarak kabul etti. Yasak, beş yıl ve Sungur–Azgut çatışması için geçerli olacaktı. Kusursuz değildi; denetlenebilir bir başlangıçtı.
 
-Sarris ayrıldıktan sonra, Faelan, gölgeden çıktı, yüzünde, temkinli bir tatmin vardı.
+"Amara bu metni imzalayacak mı?" dedi Karia.
 
-"Tam bir zafer değil," dedi Faelan, "ama gerçek bir kazanım."
+"Kendi nüshasını Zaleena'ya gönderdi. İki metin birbirine bağlı."
 
-"Biliyorum." Karia, pencereden, limana baktı, gemiler, sakin, düzenli bir şekilde demirlemiş. "Delta, hâlâ, orada — gölgede, bekleyerek. Ama bugün, en azından, onları, bir adım geriye ittik."
+Karia ancak o zaman imza attı. Kanıtların yok edilmeyeceğini, yalnız yayımlanmayacağını ayrıca yazdırdı.
 
-Zaleena'ya, kısa bir mesaj yazdı: *Sarris geldi, geri çekildi — şimdilik. Tam bir zafer değil, ama gerçek bir nefes alma alanı kazandık. Belki de, bu, ikimiz için de, yeterli bir başlangıç.*
+Sarris ayrılırken kapıda durdu. "Bizi düşmanınız sanıyorsunuz."
 
-Karia, mektubu mühürlerken, kendi kendine, düşündü: bir yıl önce, sadece bir amiraldi, savaş meydanlarında, düşmanı görebiliyordu. Şimdi, bir kraliçeydi, ve düşmanları, çoğu zaman, gölgelerde, yüzlerini hiç göstermeden savaşıyordu. Ama bugün, en azından, bir gölge, biraz olsun, ışığa çıkmıştı.
+"Sizi çıkarı olan bir güç sayıyorum. Düşmanlık davranışınıza bağlı."
+
+Faelan içeri geldi ve metni baştan sona okudu.
+
+"Zafer mi?"
+
+"Hayır. Beş yıllık fren."
+
+Karia bir nüshayı Zaleena'ya gönderdi, birini Konsey kasasına koydu. Frenler yolu güvenli yapmazdı. Yalnız hızlanan aracın önündeki zamanı biraz uzatırdı.

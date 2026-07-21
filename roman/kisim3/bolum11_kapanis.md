@@ -1,30 +1,74 @@
 # Bölüm 11 — Kızıl Haftanın Eşiği
-*(KAPANIŞ — TOGAN / TEMUJİN / KARİA / ZALEENA)*
+*(KAPANIŞ: TOGAN / TEMUJİN / KARIA / ZALEENA)*
 
-Gökyüzü, artık, hiçbir yorumu gerektirmeyecek kadar açıktı: Kızıl Sürü, ufkun büyük bir kısmını kaplamış, geceleri neredeyse kanlı bir örtü gibi gökyüzüne yayılmıştı. Kızıl Hafta, artık günlerle değil, saatlerle ölçülüyordu.
+**Işık Seddi**
 
----
+Perren, dikilitaşın önüne bir tas su koydu. Yüzeydeki halkalar akşamdan beri sıklaşıyordu.
 
-**Işık Seddi'nin önünde**, Togan, Perren'in yanında, duvara bakarak bekliyordu. Kaya'nın kaderini hâlâ bilmiyordu, Börü'nün yaralandığını hâlâ bilmiyordu — ama içinde, bir şeylerin, geride bıraktığı dünyada, geri dönüşü olmayan bir şekilde değiştiğine dair bir sezgi büyüyordu. "Yakında," dedi Perren, gözleri de duvara dikili, "öğreneceğiz. Kızıl Hafta'nın en derin anı geldiğinde, ya bir cevap bulacağız, ya da bu bekleyişin bedelini son kez ödeyeceğiz."
+“Uğultuyu duydun mu?” diye sordu.
 
----
+Togan kulağını taşa dayadı. Önce kendi kanını işitti. Sonra derinden gelen, dişlerini sızlatan tek bir ses yükseldi.
 
-**Büyük Ordugâh'ta**, Temujin, Kartal-Yurdu zaferinin ardından, artık sadece bir savaş-lordu değil, bozkırın konuştuğu bir isimdi. Ama bu ün, Korgan'ın gözündeki tedirginliği de büyütmüştü — ve Temujin, kendi zaferinin, kendisini hem daha güçlü hem daha savunmasız kıldığını biliyordu. Kaya, hâlâ esirdi, ama aralarında, garip bir saygı, neredeyse bir dostluk filizlenmişti. Ve Temujin, hâlâ, Togan adındaki o yabancı yolcuyu düşünüyordu ara sıra — hiç tanımadığı, ama bir şekilde, kendi hikâyesinin kenarına dokunan bir isim.
+“Duydum.”
 
----
+Belindeki ipi kapının karşısındaki kaya halkasına bağladı. Öteki ucunu Perren'e verdi.
 
-**Metheris'te**, Karia, Gelgit Vârisi olarak, ilk büyük sınavını atlatmıştı — Valerius'un tehdidi bertaraf edilmiş, Severin kontrol altına alınmıştı. Ama Vorlag, hâlâ, sabırla, gölgede bekliyordu; ve Karia, kendi zaferlerinin, hiçbirinin kalıcı bir güvenlik getirmediğini biliyordu. Kral, yavaşça iyileşiyordu, ama herkes biliyordu ki, bu, sadece bir erteleme.
+“Beyaz odayı görürsem beni uyandır.”
 
----
+“Nasıl?”
 
-**Yamalı Liman'da**, Zaleena, Enkaz Kraliçesi olarak, ilk krizini de atlatmıştı — Paslı Gelgit saldırısı püskürtülmüş, Draven'ın güveni kazanılmıştı. Ama denizin derinliklerinde bekleyen tehdit, hâlâ, sabırla büyüyordu; ve Zaleena, artık, Delta'yla bir ittifak kurma fikrini, ciddiyetle düşünmeye başlamıştı.
+Togan hançerini yaşlı adama uzattı. “Gerekirse bununla.”
 
----
+Perren hançeri almadı. İpi iki eline doladı.
 
-Dört ayrı hayat, dört ayrı savaş, dört ayrı zafer ve yenilgi — ama hepsi, aynı büyüyen gölgenin, aynı yaklaşan fırtınanın parçasıydı. Kızıl Hafta, artık kapıdaydı; ve Verridia'nın dört bir köşesinde, insanlar, farkında olmadan, aynı kaderin farklı ipliklerini örüyordu.
+Kapının işaretlerinden biri söndü.
 
-Togan, Kaya'nın esaretini bilmiyordu. Temujin, kendi elindeki esirin, kuzeye giden bir yolcuyla bağlantılı olduğunu henüz kavramamıştı. Karia ve Zaleena, birbirlerinin varlığından, hâlâ, tamamen habersizdi.
+**Büyük Ordugâh**
 
-Ama ipler, yavaş yavaş, görünmez bir dokumacının elinde, birbirine yaklaşıyordu — ve Kızıl Hafta'nın kendisi, belki de, bu iplikleri, ilk kez, birbirine değdirecek olan fırtınaydı.
+Korgan'ın armağan ettiği siyah samur kürkü Temujin'in çadırına getirildi. Haberci, Genç Kurt'un gün batımında bütün boyların önünde onurlandırılacağını söyledi.
 
-*(3. Kısım Sonu — 4. Kısım'da devam edecek: KIZIL HAFTA)*
+Temujin kürkü Sube'nin omuzlarına bıraktı. “Ölülerin ailelerine ayrılan erzağı say.”
+
+“Törene gelmeyecek misiniz?”
+
+“Geleceğim.”
+
+Masada Kartal-Yurdu'nda ölen on yedi kişinin adı duruyordu. Temujin listeyi iki kez okudu. Korgan ona herkesin görebileceği bir onur verecekti. O da herkesin duymasını istemediği on yedi adı söyleyecekti.
+
+Uzaktan savaş davulları başladı. Kaya, bağlı tutulduğu çadırda ritmi tanıdı ve ayağa kalktı.
+
+**Metheris**
+
+Karia, Valerius'un şehir kapısından çıktığına ilişkin raporu mühürledi. Ardından önündeki erzak çizelgesine döndü.
+
+Kızıl Hafta için ayrılan tahıl, sarayın istediği şölenlere yetiyor; aşağı mahallelerin üç günlük payını karşılamıyordu. Karia saray kalemini çizdi.
+
+“Şölen iptal,” dedi.
+
+Kâtip tereddüt etti. “Gelenek sayılır, Leydi'm.”
+
+“Açlık da öyle. Birini değiştirelim.”
+
+Fırınlara dağıtılacak miktarı yazdırdı. Kuzey Feneri'nin nöbetini iki katına çıkardı. Sonra kralın odasına giden merdivenin başında bir muhafızı görevden alıp yerine iki kişi koydu. Valerius gitmişti; Vorlag hâlâ saraydaydı.
+
+Liman çanı beklenmeyen bir gelgiti haber verdi.
+
+**Yamalı Liman**
+
+Su, gece yarısından önce yüzlerce adım geri çekildi. Gemiler çamura oturdu. Kazıkların arasında Paslı Gelgit'e ait kırmızı lifler kaldı.
+
+Zaleena, bütün kaptanlara kendi bölüklerini verdi. Draven dış iskeleleri, Kessel cephaneliği, Sorin haber teknelerini yönetecekti. Emirler ilk kez sözle değil, yirmi nüsha hâlinde dağıtıldı.
+
+“Delta mektubu?” diye sordu Sorin.
+
+“Yola çıktı.”
+
+“Cevap gelmeden saldırırlarsa?”
+
+Zaleena denizin çekildiği karanlık boşluğa baktı. “Elimizdekilerle karşılarız.”
+
+Uzakta, görünmeyen suyun içinden binlerce kabuğun birbirine sürtünmesine benzeyen bir ses geldi. Nöbetçiler mangalları yaktı.
+
+Gece, gün olmadan kızardı.
+
+Kızıl Hafta başladı.

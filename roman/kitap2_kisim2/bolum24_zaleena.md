@@ -1,50 +1,36 @@
 # Bölüm 24 — Ortak Sular
 *(ZALEENA)*
 
-İlk gerçek sınav, ittifakın kurulmasından üç hafta sonra geldi — bir Akıntı-Yaratığı sürüsü, Enkaz ile Paslı Gelgit sularının kesiştiği bölgede, aniden belirdi.
+İttifakın üçüncü haftasında Akıntı yaratıkları ortak balıkçılık bölgesine girdi. Vesna'nın üç gemisi sürünün içinde kalmıştı.
 
-"Vesna'nın gemileri, zaten orada," dedi Kessel, haritaya bakarak, sesi gergin. "Ama sürü, büyük — tek başlarına, yetersiz kalabilirler."
+Zaleena Deniz Hayaleti'ni iki gemiyle çıkardı. Önceden belirlenen üç beyaz fişek, Paslı Gelgit'in dümen kaybı yaşadığını gösteriyordu.
 
-Zaleena, kararını, anında verdi. "Filomuzu, hemen harekete geçir. Ortak savunma sözü, sadece kağıt üzerinde kalmayacak."
+"Paralel rota," dedi Kessel. "Aralarına girersek çarpışırız."
 
----
+Zaleena kendi gemilerini sürünün dış kenarına dizdi. Mancınıklar merkeze değil, yaratıkları kuzey kanalına sürecek açıyla ateş etti. Vesna aynı işareti anlayıp gemilerini ters yöne kırdı.
 
-Deniz Hayaleti, hızla, savaş bölgesine ulaştığında, manzara, Zaleena'nın korktuğu gibiydi — Vesna'nın üç gemisi, devasa, kızıl damarlı yaratıklarla çevrili, umutsuzca direniyordu.
+En büyük yaratık onun amiral gemisinin kıçına tırmandı. Zaleena yardım için rotayı bozmadı. Bunun yerine ikinci gemiye kırmızı sancak verdi; kurtarma görevi ona aitti. Deniz Hayaleti sürüyü tutmaya devam etti.
 
-"Ateş açın!" diye bağırdı Zaleena, kendi gemilerini, düzenli bir formasyonda yönlendirerek. "Vesna'nın gemilerini koruyun, önce!"
+Plan çalıştı. Kancalı halatlar yaratığı bordadan çekti, ortak ateş kızıl damarını parçaladı. Geri kalan sürü kuzeye dağıldı.
 
-Çatışma, kaotik ama etkiliydi — iki filo, ilk kez, gerçek bir savaşta, birlikte hareket ediyordu, önceden planlanmış sinyaller ve rotalarla, şaşırtıcı bir uyum içinde.
+İki filo yan yana demirlediğinde bir Paslı Gelgit denizcisi ölmüş, beş kişi yaralanmıştı. Yamalı Liman'da iki yaralı vardı.
 
----
+Vesna karşı güverteden seslendi. "Gemime gelmeni bekledim."
 
-Vesna, kendi gemisinden, Zaleena'ya, bir sinyal fişeği gönderdi — teşekkür ve koordinasyon, tek bir işarette.
+"Gelseydim sürü ikimizi de kıyıya sürerdi."
 
-"Merkeze yönleniyorlar!" diye bağırdı Kessel, bir yaratığın, Vesna'nın amiral gemisine yaklaştığını fark ederek.
+Vesna bir an sustu, sonra başını eğdi. "Doğru."
 
-Zaleena, kendi gemisini, hızla, o yöne çevirdi. "Yaklaşın! Vesna'yı yalnız bırakmayacağız!"
+Akşam ortak kutlama yerine olay incelemesi yapıldı. İşaretlerin ikisi geç görülmüş, kurtarma gemisi görevi önceden belirlenmemişti. Yeni plana her hatta bir yedek kurtarma teknesi eklendi.
 
-Son çatışma, şiddetli ama kısaydı — birleşik ateş gücü, en büyük yaratığı, sonunda, deniz dibine gönderdi, geri kalanlar, dağılıp kaçarken.
+Kessel toplantıdan sonra Zaleena'nın yanında kaldı.
 
----
+"Vesna'nın gemisi vurulunca korktun."
 
-Savaş sonrası, iki filo, yan yana demirlediğinde, Vesna, kendi güvertesinden, Zaleena'ya seslendi.
+"Evet."
 
-"Sözünü tuttun!" dedi Vesna, sesinde, gerçek bir minnet. "Bunu, hiç unutmayacağım, Zaleena."
+"Yine de ona koşmadın."
 
-Zaleena, karşılık verdi. "Bu, ittifakın anlamı. Sözler, sadece kağıt üzerinde kalırsa, hiçbir anlamı yok."
+"Komuta bazen yardım etmek istediğin yere gitmemektir."
 
-O gece, iki filo, ortak bir ateş etrafında toplandı — bir zamanlar düşman olan iki halkın denizcileri, şimdi, aynı zaferi kutluyordu.
-
----
-
-Kessel, Zaleena'nın yanına, sessizce oturdu, ikisi, uzun bir süre, kutlamayı izlediler.
-
-"Bugün," dedi Kessel, yavaşça, "seni, gerçekten korkmuş gördüm — Vesna'nın gemisine yaklaştığımızda. İlk kez, bu kadar açık bir şekilde."
-
-Zaleena, dürüstçe kabul etti. "Korkmuştum. Ama korku, beni durdurmadı."
-
-Kessel, ona, uzun bir süre baktı, sonra, yavaşça. "Geçen konuşmamızı düşündüm, Zaleena. Ve anladım ki, cevabını, hemen istemek, haksızlık olurdu. Yanındayım — nasıl olursa olsun, hangi şekilde tanımlarsan tanımla bunu."
-
-Zaleena, bu söze, derin bir minnetle karşılık verdi — kelimelere dökemeyecek kadar derin. "Teşekkür ederim, Kessel. Bu sabır, bana, gerçekten çok şey ifade ediyor."
-
-İki filo, o gece, ortak sularda, güvenle demirledi — ve Zaleena, kendi kendine düşündü: bazı zaferler, sadece savaş meydanında değil, sabırla kurulan güvenle de kazanılıyordu.
+Kessel başka bir şey söylemedi. Zaleena onun sessizliğini bu kez bekleyiş değil anlayış saydı. Ortak sular ilk sınavı geçmişti; kusursuz değil, bir sonraki çatışmada daha az hata yapacak kadar dürüstçe.

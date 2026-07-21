@@ -1,36 +1,24 @@
-# Bölüm 14 — İlk Jest
+# Bölüm 14 — Kaan'ın Mührü
 *(TEMUJİN)*
 
-Sube'nin gizli kanalı, Korgan'ın danışmanlarından birine — genç, nispeten yeni bir isim olan Kaan — dikkatle açıldı, aylar süren, sabırlı bir yaklaşımla.
+Kaan'ın cevabı kırk bir gün sonra ulaştı. Mektupta teşekkür yoktu. Azgut veterinerleri kuzey geçidindeki hastalığı doğrulamış, on yedi sürüyü güneye çevirmişti. Son satırda tek soru bulunuyordu: "Bu kaydı hangi çıkar karşılığında gönderdiniz?"
 
-"Kaan, hırslı ama dürüst biri," dedi Sube, ilk raporunda. "Korgan'a sadık, ama körü körüne değil. Doğru yaklaşımla, belki, bir köprü olabilir."
+Temujin cevabı beğendi. Kaan minnet borcu kabul etmiyor, bedeli baştan görmek istiyordu.
 
-Temujin, bu bilgiyi, dikkatle değerlendirdi. "İlk jest, ne olmalı, sence?"
+"Gerçeği söyle," dedi Kaya. "İkinci mektupta gölgeye saklanırsan ilkine de güvenmez."
 
----
+Temujin kendi adını ve Kuru Dere kurulunun yetkisini yazdı. Hastalık bilgisinin karşılığı olmadığını, yalnız bundan sonraki sınır uyarılarında aynı doğrulukla cevap beklediklerini belirtti. Bozan dosyasından söz etmedi.
 
-"Küçük bir şey," dedi Kaya, tartışmaya katılarak. "Doğrudan, siyasi olmayan bir şey. Belki, bir bilgi — Korgan'ın, değer vereceği ama bizim için, kritik olmayan bir bilgi."
+Batu, Korgan'ın Temujin'in adını görünce kanalı kapatacağını düşündü. "Sürgün hükmünü unutmadı."
 
-Temujin, bu öneriyi, uzun bir süre düşündü, sonra, bir fikir buldu. "Kuzey Sınırı'ndaki Akıntı-Yaratığı hareketleri. Togan'ın nöbetçileri, son zamanlarda, artan bir aktivite tespit etti — Korgan'ın sınır muhafızları için, değerli bir uyarı olabilir."
+"Ben de unutmadım. Bu yüzden elçi göndermiyorum. Yazılı kayıt gönderiyorum. İsterse yırtar."
 
----
+İkinci cevap daha kısa sürede geldi. Kaan, resmî ilişki kurma yetkisi olmadığını yazmıştı. Ancak kuzey sınırındaki hastalık, akın ve kuyu kayıtlarının karşılıklı paylaşılmasını kendi sorumluluğunda sürdürecekti. Mektubun altında kişisel işareti değil, danışmanlık makamının mührü vardı.
 
-Bilgi, dikkatle, dolaylı bir kanaldan, Kaan'a ulaştırıldı — hiçbir imza, hiçbir açık kaynak, sadece, "bozkırın bir dostundan" notuyla.
+Temujin karşılık olarak altı aylık bir çizelge önerdi. Her bildirim tarih, kaynak türü ve doğrulanma derecesi taşıyacaktı. Kimliği gizli muhbirler kanıt sayılmayacak, yalnız uyarı olarak işaretlenecekti.
 
-Üç hafta sonra, Sube'nin ağı, beklenmedik bir gelişme rapor etti. "Korgan, uyarıyı ciddiye aldı — sınır savunmasını güçlendirdi. Ve daha da önemlisi, Kaan, bu bilginin kaynağını merak ediyor. Belki, bir sonraki adım için, hazır."
+Sube bu kadar açık bir usulün gizli kanala uymadığını söyledi.
 
----
+"Artık gizli kanal istemiyorum," dedi Temujin. "Sessiz olabilir. Sahte olmasın."
 
-Temujin, bu ilerlemeyi, dikkatli bir tatminle karşıladı. "Yavaş, ama işliyor. Bir yıl, belki iki yıl sürebilir, bu güveni inşa etmek. Ama sabırlıyım."
-
-Batu, bu sabrı, hayranlıkla izledi. "Sen, gerçekten, hiçbir şeyi, aceleye getirmiyorsun, değil mi?"
-
-"Acele," dedi Temujin, düşünceli, "en büyük düşmanım oldu, hep. Babamın ölümü, muhtemelen, birinin, aceleyle, yanlış bir hesap yapmasının sonucuydu. Ben, farklı olmak istiyorum."
-
----
-
-O akşam, Togan, bu gelişmeyi öğrendiğinde, Temujin'e, derin bir hayranlıkla baktı. "Yıllar süren bir plan. Çoğu insan, bu kadar sabırlı olamaz."
-
-"Belki," dedi Temujin, ufka bakarak, "ama ben, bozkırın, gerçek birleşmesinin, bir günde değil, nesillerce süren bir çabayla geleceğini öğrendim. Ve ben, sadece, o çabanın, bir parçası olmak istiyorum — belki, sonucunu, kendim göremeyeceğim, ama önemli değil. Önemli olan, doğru yönde, ilk adımları atmak."
-
-Togan, bu düşünceye, sessizce başını salladı — ve iki dost, gecenin derinliklerinde, sessizce, kendi büyük hayallerinin, yavaşça, gerçeğe dönüşüşünü izlediler.
+Kaan'ın üçüncü mührü geldiğinde Bozan'ın adı hâlâ geçmemişti. Temujin acele etmedi. Önce iki taraf da karşısındakinin yanlışını düzeltebildiği bir alışkanlık kurmalıydı. Gerçek, ancak onu taşıyacak yol kadar güvenli olacaktı.

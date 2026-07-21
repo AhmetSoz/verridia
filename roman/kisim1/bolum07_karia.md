@@ -1,64 +1,98 @@
-# Bölüm 7 — Tuzlu Taht'ın Gölgesi
+# Bölüm 7 — Tuzlu Taht’ın Gölgesi
 *(KARIA)*
 
-Tuzlu Taht odası, Karia'nın her girişinde aynı hissi verirdi: bir mahzenin içine hapsedilmiş bir denizin hissi. Duvarlar, yüzyıllar boyunca biriken tuz kristalleriyle kaplanmıştı; ışık onlara vurduğunda, sanki oda kendi içinden donuk bir parıltı yayıyormuş gibi görünürdü. Ama bu parıltı hiçbir zaman sıcaklık taşımazdı — sadece, denizin derinliklerinde bir yerlerde unutulmuş bir hazinenin soğuk ışıltısını.
+Tuzlu Taht odası denizden çok mahzen kokardı.
 
-Kral III. Theodoric, tahtında, her zamankinden daha küçük görünüyordu. İnce omuzları, üzerindeki ağır ipek cüppenin altında neredeyse kayboluyordu; elleri, kolçakların üzerinde, durmaksızın parmağındaki yüzüğü çeviriyordu. Gözleri Karia'ya döndüğünde, içlerinde bir anlığına eski bir zekânın kıvılcımı parladı — sonra yeniden o tanıdık, sulu ve uzaklara dalmış ifadeye gömüldü.
+Duvarlara yüzyıllar içinde kat kat tuz çökmüş, meşalelerin ışığı kristallerde donuk lekeler hâlinde çoğalmıştı. Karia her gelişinde önce havanın ağırlığını fark ederdi. Bir geminin ambarında bu kadar rutubet olsa kâhyayı görevden alırdı. Sarayda aynı rutubete gelenek deniyordu.
 
-"Leydi Karia," dedi Kral, sesi bir fısıltıdan biraz daha güçlü. "Yaklaş. Kulaklarım artık eskisi gibi değil."
+Kral III. Theodoric tahtında oturuyordu. İpek cüppesi ince omuzlarından sarkıyor, sağ eli yüzüğünü durmadan çeviriyordu. Karia yaklaşınca bakışları toparlandı.
 
-Karia bir adım yaklaştı, başını hafifçe eğdi. "Majesteleri beni çağırdı."
+“Daha yakına gel. Kulaklarım iyi değil.”
 
-"Çağırdım, evet. Çağırdım." Theodoric'in gözleri bir an odanın köşelerinde gezindi — sanki orada, gölgelerin içinde, görünmez bir dinleyici arıyormuş gibi. Sonra sesini daha da alçalttı. "Stoklarımız hakkında ne duydun?"
+Karia üç adım kala durup başını eğdi. “Majesteleri.”
 
-"Beklediğimizden az, Majesteleri. Ama idare edilebilir." Karia'nın sesi sakindi, pratikti — bir denizcinin, en kötü haberi bile fırtınadan önce sakin bir sesle vermeyi öğrendiği türden bir sakinlik. "Hasat başladığında..."
+“Ambarlar.” Kral yüzüğü bir tur daha çevirdi. “Bana doğru rakamı söyle.”
 
-"Hasat." Kral'ın sesi tuhaf bir titremeyle kesildi kelimenin ortasında. "Yirmi sekiz yıl. Yirmi sekiz yıl sonra bir hasat daha, ve ben hâlâ Kapı'nın ardında ne olduğunu bilmiyorum, Karia. Babam bilmiyordu. Onun babası da bilmiyordu. Ben... ben bunu öğrenen kral olmak istiyordum."
+Demek kâhyaların iyimser hesabını görmüştü.
 
-Bu itiraf, odanın soğuk tuz kokulu havasında garip bir çıplaklıkla asılı kaldı. Karia, kralın önünde bu kadar savunmasız durmasını izlerken, içinde hem bir acıma hem de derin bir tedirginlik hissetti. Zayıf bir kral tehlikeliydi — ama kendi zayıflığının farkında olan zayıf bir kral, çok daha tehlikeliydi, çünkü elindeki son gücü, o zayıflığı gizlemek için pervasızca harcayabilirdi.
+“Akıntı Tozu geçen yıldan yüzde otuz eksik. Filo savaş payını ayırdı. Hasat zamanında yapılırsa açık kapanır.”
 
-"Majesteleri," dedi Karia yavaşça, "Kapı'nın ardında ne olduğunu öğrenmek için önce bugünü kurtarmamız gerekiyor. Hasat bittiğinde hâlâ bir tahtınız, hâlâ bir halkınız olmalı."
+“Ya yapılmazsa?”
 
-Theodoric'in gözleri ona döndü — bu kez daha keskin, daha net, bir anlığına o eski zekânın tamamı geri gelmiş gibi. "Sen her zaman böyle konuşursun, Karia. Bugünü kurtar, yarını düşün. Vorlag ise bana hep dünü hatırlatır. Ve Valerius..." Sesi bir kez daha titredi, ama bu kez farklı bir sebepten — yorgunluktan çok, bir kararın ağırlığından. "Valerius bana yarını vaat ediyor. Öyle büyük bir yarın ki, bugünün hiçbir bedeli önemli değilmiş gibi konuşuyor."
+“Devriyeleri azaltır, eski gemileri limanda tutarız. Kaybederiz ama donanma işlemez hâle gelmez.”
 
-Karia'nın içi soğudu, ama yüzü değişmedi. "Majesteleri neyi kastediyor?"
+Theodoric’in parmakları durdu. “Sen kötü haberi bile tamir listesi gibi veriyorsun.”
 
-Kral, bir süre cevap vermedi. Parmağındaki yüzüğü bir kez daha çevirdi, sonra durdu — sanki bu küçük hareket bile artık ona güç veremiyormuş gibi. "Bir vârisim yok, Karia," dedi sonunda, sesi çıplak bir gerçeğin ağırlığıyla düşmüştü. "Aldric... Aldric on iki yıldır kayıp. Ben ölürsem, ve yakında öleceğim — bunu ikimiz de biliyoruz — taht kimin olacak? Vorlag'ın gölgesindeki o solmuş hanedanın mı? Yoksa Valerius'un, kılıcıyla aldığı bir tahtın mı?"
+“Tamir listesi çıkarılabilen şey henüz batmamıştır.”
 
-"Ya da," dedi Karia, sesi dikkatle ölçülmüş, "Majesteleri'nin, Konsey'in onayıyla, kan bağı aranmaksızın seçeceği biri."
+Kral, buna benzeyen kısa bir gülüş çıkardı. Ardından gözleri odanın tuzlu duvarlarında dolaştı.
 
-Bu, ismini hiç söylemeden ortaya atılmış bir tekliftii — ve ikisi de bunu biliyordu. Kral'ın gözleri bir anlığına Karia'nın gözlerine kilitlendi; içlerinde bir şey parladı, bir umut mu yoksa bir hesap mı olduğu belli olmayan bir şey.
+“Yirmi sekiz yıl,” dedi. “Bir hasat daha geliyor. Babam Kapı’nın ardında ne olduğunu öğrenemedi. Onun babası da. Ben öğrenen kral olacaktım.”
 
-"Gelgit Vârisi maddesi," diye mırıldandı Theodoric, sanki kelimeleri ilk kez yüksek sesle söylüyormuş gibi bir tereddütle. "Fatih'in vasiyetinin unutulmuş satırı. Vorlag onu gömmek ister. Sen... sen ne düşünürsün, Karia?"
+Karia, Theodoric’i ilk kez bu kadar yaşlı görmüyordu; ilk kez yaşlılığını saklamak istemediğini görüyordu.
 
-Karia bir an sessiz kaldı. Bu soru, saraydaki en tehlikeli tuzaktı — bir evet, onu bir gecede en büyük hedef hâline getirirdi; bir hayır ise, belki de kraliyetin tek gerçek şansını elinin tersiyle iterdi. "Düşünürüm ki," dedi sonunda, kelimelerini bir kılıç gibi dikkatle seçerek, "Majesteleri'nin kararı ne olursa olsun, Hegemonya'nın hasadın ardından hâlâ ayakta olması gerekir. Taç kimin başında olursa olsun, önce o tacın altında bir Hegemonya kalmalı."
+“Kapı bekleyebilir, Majesteleri. Aç kalan şehir beklemez.”
 
-Bu, ne bir evet ne bir hayırdı — ve Kral, tam da bunu beklediği için, hafifçe başını salladı, gözlerinde bir anlığına yorgun bir minnettarlık belirdi. "Sen her zaman en güvenli cevabı verirsin, Karia. Bu yüzden sana güveniyorum. Ve bu yüzden," sesi bir kez daha alçaldı, neredeyse duyulmaz oldu, "seni bu kadar çok korkuyorlar."
+Kral’ın bakışları yeniden keskinleşti. “Sen bugünü kurtarmak istersin. Vorlag bana dünü anlatır.” Yüzüğünü bu kez ters yönde çevirdi. “Valerius ise yarını vaat ediyor. Öyle parlak bir yarın ki bugünün ölülerini saymaya gerek kalmayacağını sanıyor.”
 
----
+“Majesteleri onun hangi vaadini kastediyor?”
 
-Karia, tahtın odasından çıktığında, sarayın soğuk taş koridorları onu bir rahatlama gibi karşıladı — en azından burada, tuzun o boğucu parıltısı yoktu. Ama rahatlığı uzun sürmedi.
+Theodoric cevap vermeden önce tahtın iki yanındaki muhafızlara baktı. Elini kaldırınca ikisi de kapının dışına çıktı. Ağır kanatlar kapanıp odada yalnız tuzun çıtırtısı kaldı.
 
-Batı kanadına giden koridorun kavşağında, iki gölge duruyordu — biri yaşlı ve kambur, diğeri genç ve dimdik. Lord Vorlag ve Sör Valerius, alçak sesle konuşuyorlardı; Karia'nın adımlarını duyduklarında konuşmaları anında kesildi, ama yüzlerindeki ifadeler tam olarak gizlenemedi.
+“Aldric on iki yıldır kayıp.” Kral’ın ağzı oğlunun adında zorlandı. “Dönecekse şimdiye kadar dönerdi.”
 
-"Leydi Karia." Vorlag'ın sesi, bir hışırtı gibi ince ve soğuktu. "Kral'la güzel bir görüşme mi oldu?"
+Karia sessiz kaldı. Theodoric bu cümleyi ilk kez kendi iradesiyle tamamlamıştı.
 
-"Her zamanki gibi öğreticiydi, Lord Vorlag." Karia'nın sesi hiçbir şey ele vermedi.
+“Ben ölünce tahta kim oturacak?” diye sordu Kral. “Vorlag’ın bulacağı uzak bir kuzen mi? Valerius’un kılıcı mı?”
 
-Sör Valerius'un gözlerinde, her zamanki o küçümseyen ışıltı vardı, ama bu kez altında farklı bir şey de gizliydi — bir sabırsızlık, belki de bir zafer beklentisi. "Umarım Majesteleri'ne, hasat gelmeden Bozkırlar'a karşı kesin bir tavır almanın önemini hatırlatmışsınızdır, Leydi'm. Yumuşaklığın bedelini hep başkaları öder."
+“Fatih’in vasiyetinde üçüncü bir yol var.”
 
-"Yumuşaklık değil, Sör Valerius." Karia'nın sesi bu kez biraz daha keskindi. "Sağduyu. Ama sanırım ikisi arasındaki fark, sizin yaşınızda henüz öğrenilmemiş bir ders."
+“Gelgit Vârisi.”
 
-Valerius'un çenesi sertleşti, ama Vorlag, ince bir gülümsemeyle araya girdi — bir savaşı erken bitirmek isteyen bir adamın gülümsemesiyle. "Genç şahinler her zaman acele eder, Leydi Karia. Bu bizim gibi yaşlıların işi, onları dizginlemek."
+Kelime, tuzlu odada söylenince daha da ağırlaştı.
 
-Bu söz, Karia'nın kulağına yanlış geldi — çünkü Vorlag'ın sesinde dizginlemek değil, yönlendirmek vardı. İki adam arasındaki bu tuhaf, doğal olmayan yakınlık, Faelan'ın söylediği her şeyi doğruluyordu: bu ikisi, birbirinden nefret etseler de, şimdi aynı korkunun gölgesinde duruyordu. Ve o korkunun adı, tahtın önünde az önce ağzına bile alınan o kelimeydi: Vâris.
+Kan bağı olmayan biri kral tarafından seçilebilir, Konsey’in onayıyla tahta çıkabilirdi. Yüzyıllardır kullanılmayan madde, hanedanın kendinden sonra da sürmesini isteyen bir fatihin bıraktığı son önlemdi.
 
-"İyi günler, Lordlarım," dedi Karia, başını hafifçe eğerek yanlarından geçti.
+“Sen ne düşünüyorsun, Karia?”
 
-Arkasında, iki adamın konuşmasının yeniden alçak bir fısıltıyla başladığını duydu — kelimeleri seçemedi, ama tonunu duydu, ve bu ton, ona sarayın en kesin gerçeğini bir kez daha hatırlattı: burada, hiçbir ittifak sadakatten doğmazdı. Sadece ortak korkudan.
+Bu bir görüş sorusu değildi. Theodoric, önündeki kadının tacı kabul edip etmeyeceğini anlamaya çalışıyordu.
 
-Koridorun sonunda, pencerenin önünden geçerken, dışarıya, limana baktı. Sis biraz dağılmıştı ve uzakta, Kuzey Feneri'nin ışığı hâlâ yanıyordu — gündüz vakti bile, sanki bir şeyden asla emin olamıyormuş gibi.
+Karia’nın aklına ambar çizelgesi geldi. Çürük iki gemi, eksik Akıntı Tozu, gece vardiyasında çalışacak tersane işçileri. Taç bunların hiçbirini ortadan kaldırmayacaktı; hepsini onun masasına yığacaktı.
 
-Karia, kendi kendine, denizde öğrendiği en eski dersi tekrarladı: fırtına geldiğinde, gemisi olmayanlar boğulur. Ve şu anda, Metheris'te, herkes kendi gemisini inşa ediyordu — bazıları yelken için, bazıları savaş için, bazıları da sadece batmamak için.
+“Önce hasadı geçiririz,” dedi. “Sonra Hegemonya’yı taşıyabilecek kişiyi seçersiniz. Taçtan önce, altında kalacak ülkeyi düşünmeliyiz.”
 
-Onun gemisi, hâlâ hangisi olacağına karar vermemişti.
+Theodoric onu uzun süre inceledi. “Evet demedin.”
+
+“Hayır da demedim.”
+
+Kral başını tahtın arkalığına yasladı. “En güvenli cevabı verdin. Bu yüzden sana güveniyorum.” Gözlerini kapatırken ekledi: “Bu yüzden senden korkuyorlar.”
+
+✦
+
+Karia odadan çıkınca derin bir nefes aldı. Koridorun kuru taş kokusu bile ferah geldi.
+
+Batı kanadına ayrılan kavşakta Lord Vorlag ile Sör Valerius konuşuyordu. Vorlag’ın kambur gövdesi duvara yakın, Valerius’unki geçidin ortasındaydı. Karia’nın zırhı taş zeminde ses çıkarınca ikisi de sustu.
+
+“Leydi Karia.” Vorlag ellerini geniş kollarının içine sakladı. “Majesteleri’yle verimli bir görüşme miydi?”
+
+“Kral’la yapılan her görüşme verimlidir.”
+
+Valerius’un bakışları Karia’nın yüzünde cevap aradı. “Umarım bozkıra karşı kesin bir harekâtın gereğini anlatmışsınızdır. Yumuşaklığın bedelini sınırdaki halk ödüyor.”
+
+“Sizin önerdiğiniz seferin erzak hesabını gördüm,” dedi Karia. “Bedelini önce sınırdaki halkın ödeyeceğinden emin olabilirsiniz.”
+
+Valerius’un çenesi gerildi. “Zaferin bir maliyeti vardır.”
+
+“Hesabını yapmadığınız şey maliyet değil, kumardır.”
+
+Vorlag aralarına yarım adım girdi. “Genç şahinler yüksekten uçmak ister. Biz yaşlılara da dizginlemek düşer.”
+
+Karia, Faelan’ın raporunu hatırladı. Vorlag, Valerius’u dizginlemiyordu. Genç adamın hangi yöne saldıracağını seçiyordu.
+
+“O hâlde ipin elinizden kaymamasına dikkat edin,” dedi.
+
+Yanlarından geçip yürüdü. Arkasında konuşma yeniden başladı; bu kez seslerini daha fazla kısmışlardı.
+
+Karia merdivenlere vardığında aşağı, limana inen yolu seçti. Sarayın içinde kalırsa duyduğu her sözün anlamını tartmaya devam edecekti. Güvertede onu ölçülebilir sorunlar bekliyordu: kaç varil, kaç gemi, kaç gün.
+
+Gelgit Vârisi kelimesi ise peşinden merdivenleri indi.

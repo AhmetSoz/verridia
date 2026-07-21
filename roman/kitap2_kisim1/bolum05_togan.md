@@ -1,54 +1,36 @@
 # Bölüm 5 — Geride Kalanların Hesabı
 *(TOGAN)*
 
-Baş Kâtip Lyra, üç gün sonra, Togan'ı Büyük Kütüphane'nin bir yan odasına çağırdı — dar, mumla aydınlatılan, duvarları raflarla kaplı bir oda.
+Baş Kâtip Lyra, üçüncü sabah Togan'ı penceresiz bir çalışma odasına çağırdı. Masanın üzerindeki parşömen daha açılmamıştı. Yine de Lyra'nın iki elini tomarın üstünde tutuşu, getirdiği haberin ağırlığını ele veriyordu.
 
-"Sana bir şey göstermem gerekiyor," dedi, elindeki bir tomar parşömenle masaya yaklaşırken. "Arayıcılarımızdan biri, geçen ay, bozkırdan döndü. Batıdaki savaşın tam bir dökümünü getirdi."
+"Bozkırdan dönen bir arayıcımız var," dedi. "Batıdaki seferi yazmış. Sungurlar da kayıtta geçiyor."
 
-Togan'ın nefesi bir an durakladı. "Hangi savaş?"
+Togan'ın parmakları istemsizce masanın kenarına kapandı. Perren, kapının yanında sessizce bekliyordu.
 
-"Azgutlar'ın Sungurlar'a karşı yürüttüğü sefer." Lyra, ona bir bakış attı — dikkatli, ölçen bir bakış. "Klanının adı geçiyor, Togan. Belki oturmalısın."
+"Oku."
 
-Oturmadı. Ayakta kaldı, elleri masanın kenarına yapışmış, Lyra'nın parşömeni açmasını izledi.
+Lyra mührü kırdı. Korgan'ın ordusu Kartal-Yurdu'na kadar ilerlemişti. Börü omzundan ağır yaralanmış, fakat yaşamıştı. Sungurlar geri çekilmeyi durdurup Azgutlarla savaş ortaklığı kurmuştu. Kendi meclislerini ve komuta düzenlerini koruyorlardı.
 
-"Kızıl Hafta'dan önceki haftalarda," diye okumaya başladı Lyra, sesi düz, bir kâtibin tarafsızlığıyla, "Azgut Han'ı Gürz-Diş Korgan, bozkırı birleştirme seferinin son ayağını başlattı. Sungurlar, Kartal-Yurdu'nun batısındaki bir dağ geçidinde yenildi. Klan lideri Gök-Göz Börü yaralandı — omuzdan, ciddi ama ölümcül olmayan bir yara. Klan, resmen Azgut sancağına katıldı."
+Togan ancak o zaman soluk verdi. "Kaya?"
 
-Togan'ın midesi düğümlendi. "Yaralandı," diye tekrarladı, kelimeyi bir kez daha söylemek, onu daha az korkunç yapacakmış gibi. "Ama hayatta."
+Lyra satırı parmağıyla buldu. "Esir düşmüş. Ardından serbest bırakılmış."
 
-"Hayatta." Lyra, bir sonraki satıra geçti. "Ve bir isim daha var burada — Baş Rüzgar-Dinleyen. Bir savaş operasyonunda esir alınmış, sonra... serbest bırakılmış. Kayıtlarımız, bunu tuhaf buluyor. Esirler genellikle serbest bırakılmaz, özellikle bu kadar değerli olanlar."
+Togan'ın ağzında bakır tadı belirdi. "Kim bırakmış?"
 
-"Kaya." Togan'ın sesi, kendi kulağına bile yabancı geldi. "Kaya'dan bahsediyorsunuz."
+"Temujin adında genç bir Azgut komutanı. Rapor, Han'ıyla her konuda aynı yolu tutmadığını söylüyor. Ne kadarının gerçek olduğunu bilmiyorum."
 
-"Öyle görünüyor." Lyra, parşömeni ona uzattı. "Kim serbest bıraktığını biliyor musun? Kayıtlarımız, bunu yapan komutanın adını da not etmiş — bir Azgut savaş-lordu, Temujin adında biri. Genç, ama zaten kendi adını bozkırda duyurmuş biri."
+Adı bir kez okudu, sonra yeniden. Temujin. Tanımadığı bir adam, süt ablasının hayatını bağışlamıştı. Bu bilgi minnetten önce utanç getirdi. Kaya kan dökerken o, dünyanın öbür ucunda kendi kaybının izini sürmüştü.
 
-Togan, bu ismi hiç duymamıştı. Parşömeni eline aldı, gözleri satırları taradı — kendi elyazısı olmayan, temiz, resmi bir kâtip yazısı; ama her kelime, ona bir yumruk gibi geliyordu.
+"Orada olsaydım..."
 
-"Neden bıraksın ki?" diye sordu, kendi kendine sorduğu bir soruyu yüksek sesle tekrarlayarak. "Bir düşman, neden en değerli esirini geri versin?"
+"Belki onun yanında yaralanırdın," dedi Lyra. "Belki hiçbir şeyi değiştiremezdin. Kayıtlar yapılmış olanı söyler. Yapılmamış ihtimalleri değil."
 
-"Bilmiyorum," dedi Lyra. "ama bir şey daha var — belki alakasız, belki değil. Aynı raporda, bir de dedikodu geçiyor: Azgutlar arasında, bu Temujin'in, kendi Han'ından farklı bir yolda yürüdüğüne dair fısıltılar varmış. Belki bir gün, bu farklılık, bir şeye dönüşür. Belki de sadece bir gençlik hevesidir, söner gider."
+Togan parşömeni bıraktı. Ellerindeki titremeyi durdurmak için yumruklarını sıktı.
 
-Togan, parşömeni masaya bıraktı, elleri hafifçe titriyordu. Perren, kapının yanında, sessizce duruyordu — konuşmuyordu, ama gözleri Togan'ı bırakmıyordu.
+Gece avlunun soğuk taşlarına oturdu. Burkut yanına konduğunda pençeleri taşta kuru bir ses çıkardı. Togan başını kartalın kanadına yasladı. Kaya'nın vedadaki sorusu hâlâ kulağındaydı: *Gerçekte kiminle savaşıyorsun?*
 
-"Bir yıl," dedi Togan, sesi boğuk. "Bir yıl önce, klanımı terk ettim. Kaya'ya, Börü'ye, hepsine sırtımı döndüm — kendi yasımın peşinden koşmak için. Ve onlar, ben burada, bir Sungur savaşçısının ne kadar 'ilginç' bir hikâye taşıdığını anlatırken, orada, gerçek bir savaşta kanıyorlardı."
+"Döneceğim," dedi. Söz ağzından çıkınca bir dilekten çok borca benzedi. "Börü'nün karşısına çıkacağım. Kaya'nın da."
 
-"Sen orada olsaydın bile," dedi Lyra, sesi sert değildi ama gerçeği yumuşatmıyordu da, "sonucu değiştirebilir miydin, emin değiliz. Bozkırın kaderi, tek bir kılıçla dönmez, Togan. Bunu sen de biliyorsun."
+Ayağa kalktığında dizleri uyuşmuştu. İçeriden Perren seslendi. Lyra, Kırık Yemin gecesine ait bir Mirasçı kaydı bulmuştu.
 
-"Biliyorum." Ama bilgi, suçluluğu dindirmiyordu.
-
----
-
-O gece, Togan, kütüphanenin dışındaki avluda, tek başına oturdu — Perren, onu yalnız bırakmayı, sessizce, doğru bilmişti.
-
-Zihninde, Kaya'nın yüzü döndü durdu — son gördüğü hâliyle, hayal kırıklığı dolu gözlerle, "Sen kiminle savaşıyorsun? Gerçekten?" diye sorarken. Ve şimdi, Kaya, bir Azgut esiri olmuş, sonra serbest bırakılmıştı — nedenini bilmediği bir sebeple, tanımadığı bir adamın merhametiyle.
-
-Bir borç, diye düşündü Togan. Tanımadığım birine bir borcum var artık. Ve bunu asla ödeyemeyeceğim, çünkü o adam, benim var olduğumu bile bilmiyor.
-
-Burkut, omzuna kondu, sessizce — kartalın varlığı, tek gerçek teselliydi bu gece.
-
-"Geri dönmeliyim," diye mırıldandı Togan, kendi kendine. "Bir gün. Kaya'ya teşekkür etmeliyim. Börü'nün yüzüne bakabilmeliyim — özür dileyebilmeliyim."
-
-Ama şimdi değil. Şimdi, önünde başka bir yol vardı — kendi kanının, kendi kökeninin cevabı, hâlâ tam olarak açılmamış bir sır olarak duruyordu, ve bu sırrı çözmeden geri dönmek, ona hâlâ zamansız geliyordu.
-
-İçeriden, Perren'in sesi geldi — yumuşak, çağıran. "Lyra, sabah bir şey daha bulmuş. Eski bir Mirasçı kaydı, Kırık Yemin gecesiyle ilgili. Gelmek ister misin?"
-
-Togan, gözlerini kuruttu, ayağa kalktı. Bu gece taşıdığı yük, yarın da orada olacaktı — ama şimdi, önündeki soru, bekleyemeyecek kadar acildi.
+Togan kapıya yöneldi. Eve dönüş yolunu artık biliyordu. Önce, eve hangi kanla döneceğini öğrenmesi gerekiyordu.

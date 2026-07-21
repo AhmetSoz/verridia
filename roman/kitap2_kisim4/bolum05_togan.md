@@ -1,42 +1,28 @@
-# Bölüm 5 — Beklenmedik Haber
+# Bölüm 5 — Üç Haftalık Hazırlık
 *(TOGAN)*
 
-Lyra'nın mektubu, Genç Kurtlar'ın kampına, beklenmedik bir haberle ulaştığında, Togan, ilk anda, tam olarak inanamadı.
+Lyra'nın mektubunu Togan iki kez okudu. Karia ile Zaleena, Eski-Kent üzerinden Kuru Dere'ye geliyordu. Ozan onları iki gün ağırlayacak, ardından kılavuzları bozkır yoluna çıkaracaktı.
 
-*Togan,* diye yazıyordu Lyra, *iki kraliçe — Hegemonya'dan Karia, Yamalı Liman'dan Zaleena — Eski-Kent'e doğru yolda, seni ve Temujin'i, bozkırda ziyaret etmek için. Yollarının, bizim topraklarımızdan geçeceğini duyduk, ve Ozan, onları, burada, ağırlamayı teklif etti.*
+Temujin haberi duyunca ziyaret defterini istedi. Kaya ise kampın girişindeki kırık çitleri gösterdi.
 
-Togan, bu mektubu, Temujin'e okurken, ikisinin de yüzünde, aynı şaşkınlık belirdi.
+"Kraliçeler çitten geçebilir," dedi. "Kış sürüleri geçemez. Önce işe yarayanı onarın."
 
----
+Hazırlığın yönü böyle belirlendi. Yeni çadır kurulmadı, yıpranmış olanlar yamandı. Ortak ambar sayıldı, silah kayıtları güncellendi. İki hükümdara gösterilecek şey kusursuz bir tören değil, yerleşimin sıradan bir gününü taşıyabilmesiydi.
 
-"Zaleena," dedi Temujin, yavaşça, ismi, ilk kez, gerçek bir insana ait olarak telaffuz ederek. "Karia'nın, mektuplarında bahsettiği isim. Şimdi, gerçekten, buraya mı geliyor?"
+Togan konuk evindeki sedirleri kaldırırken omzundaki eski yara sızladı. Karia ile Zaleena şimdiye kadar mektuplarda geçen iki uzak addı. Üç hafta sonra aynı masada oturacaklardı. Bu düşünce elindeki tahtayı ağırlaştırıyordu.
 
-Togan, hâlâ şaşkındı. "Görünüşe göre. Ve Karia da. İki kraliçe, bizi, kendi topraklarında ziyaret etmek için, bu kadar yol kat ediyor."
+Perren onun yüzünü okuyup güldü. "Savaş öncesinde bu kadar gerilmiyordun."
 
-Kaya, bu haberi duyduğunda, gerçek bir heyecanla karşılık verdi. "Bu, büyük bir onur, Temujin. Ve büyük bir fırsat — Genç Kurtlar'ın, artık, gerçekten, ciddiye alındığının bir kanıtı."
+"Savaşta ne yapacağımı biliyorum."
 
----
+"Burada da doğruyu söyleyeceksin. Daha zor olabilir."
 
-Hazırlıklar, hızla başladı — kampın, mümkün olduğunca düzenli, mümkün olduğunca misafirperver görünmesi için, herkes, elinden geleni yaptı.
+Akşam Temujin, Toruk'a gönderilen güvenli geçiş mektubundan söz etti. Cevap gelirse ifade ziyaret öncesinde alınacaktı.
 
-Temujin, bu hazırlıkların ortasında, bir an, Togan'a döndü. "Garip, değil mi? Bir yıl önce, ben, bir kaçaktım, sen, kendi kanının sırrını arayan bir yolcuydun. Şimdi, iki kraliçe, bizi, ziyarete geliyor."
+"Bunu kraliçelere anlatacak mısın?" diye sordu Togan.
 
-"Dünya, garip yollarla, birbirine bağlanıyor," dedi Togan, düşünceli. "Annemin bir zamanlar dediği gibi — ya da, söylediğini hayal ettiğim gibi."
+"Doğrulanmamış bir dosyayı diplomatik masaya koymam. Ama ziyaret sırasında ortaya çıkabilecek bir tehlikeyi de saklamam. Önce Toruk'u dinleyeceğiz."
 
----
+Togan bu sınıra razı oldu. Kael'in emanetini kendi sandığında değil, kurul odasındaki üç kilitli dolapta tutuyorlardı. Anahtarlar Kaya, Temujin ve Batu'daydı.
 
-Yaşlı Ozan'dan, ikinci bir mektup geldi, birkaç gün sonra — kraliçelerin, Eski-Kent'te, iki gün kalacaklarını, sonra, bozkıra doğru, yola devam edeceklerini bildiren bir mektup.
-
-Batu, haritaya baktı. "İki gün. Sonra, buraya, yaklaşık üç hafta içinde ulaşırlar."
-
-Temujin, bu zaman çizelgesini, dikkatle değerlendirdi. "Üç hafta. Yeterli zaman, hem hazırlanmak hem de..." Durdu, düşüncesini tamamlayarak. "Hem de, Toruk meselesini, belki, bu ziyaretten önce, netleştirmek için."
-
----
-
-O akşam, Togan, kendi kendine, bu beklenmedik gelişmeyi, uzun uzun düşündü — Karia ve Zaleena, uzun süredir, sadece, uzak isimler, uzak hikayelerdi. Şimdi, gerçek insanlar olarak, onların dünyasına, adım atacaklardı.
-
-"Hazır mısın?" diye sordu Perren, yanına oturarak.
-
-"Sanırım," dedi Togan, yavaşça gülümseyerek. "Ama itiraf etmeliyim, Perren — biraz gergin de hissediyorum. Bu, sıradan bir buluşma değil."
-
-"Hiçbiri, sıradan değildi zaten," dedi Perren, dostça. "Ve bu da, öyle olmayacak."
+Günün sonunda çit bitmişti. Togan, avucuna batan kıymığı dişiyle çekti. Üç haftada Kuru Dere'yi başka bir yere dönüştüremezlerdi. Gelenlerin görmesi gereken de zaten başkası değildi.

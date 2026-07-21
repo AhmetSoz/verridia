@@ -1,52 +1,36 @@
 # Bölüm 41 — Sed'e Doğru
 *(TOGAN)*
 
-Kael'in sözleri, günler boyunca, Togan'ın zihninde, sönmeyen bir ateş gibi yanmaya devam etti — *Praetorianlar, bir zamanlar, Işıyanlar'la birlikte durdu.*
+Kael'in bıraktığı cümle üç gece boyunca Togan'ı uyutmadı. Dördüncü sabah Lyra'nın haritasında Kuzey Sefer Yolu'nu buldu.
 
-Bir akşam, Lyra'nın çalışma odasında, haritayı incelerken, Togan, kararını, sonunda, yüksek sesle söyledi.
+"Sed'e gideceğim."
 
-"Sed'e gitmek istiyorum."
+Lyra kitabını kapattı. "Oraya giden raporların yarısı dönüş raporu değildir."
 
-Lyra, elindeki kitabı, yavaşça masaya bıraktı, yüzünde, gerçek bir şok vardı. "Ne?"
+"Dişsiz Ağız'daki varlık kanımın geçitlere dokunabildiğini söyledi. Praetorianların Işıyanlarla birlikte durduğunu Kael biliyor. Burada başkalarının cümlelerini birleştiriyorum. Sed'de kendi cevabımı arayacağım."
 
-"Duydun beni. Bütün bu bilgiler — Ozan'ın anlattıkları, Işıyan'ın söyledikleri, Kael'in bıraktığı yarım gerçek — hepsi, bana, ikinci elden geliyor, Lyra. Cevapları, kendi gözlerimle görmem gerek. Ve cevaplar, Sed'de."
+Ozan kararı duyunca kuzey yolunun son kırk fersahını anlattı. Su yoktu, av yoktu. Sed'e yaklaşan insanlarda uyku kaybı ve işitme yanılmaları görülüyordu.
 
----
+"Annen oraya gitti," dedi. "Döndüğünde ömrü günlerle ölçülüyordu."
 
-Yaşlı Ozan, bu haberi duyduğunda, uzun bir süre, sessizce oturdu — Togan, onun kör gözlerinde, hem bir endişe hem de, garip bir şekilde, bir kabullenme gördü.
+Togan'ın çenesi kasıldı. "Bu yüzden gitmem gerekiyor."
 
-"Biliyordum, bir gün, bunu söyleyeceğini," dedi Ozan sonunda, sesi ağır. "Kanın, seni, oraya çağırıyor, genç savaşçı — bunu, hissedebiliyorum. Ama Sed, kolay bir yolculuk değil. Kuzey Sefer Yolu'nun son kırk fersahı, ölü topraklardır — hiçbir bitki, hiçbir kuş. Ve Sed'in kendisi..." Durdu, sesi, bir an, titredi. "Sed'in kendisi, insanları, geri döndürmeyen bir sınırdır, çoğu zaman."
+Perren kapının yanında bekliyordu. "Atları ben seçerim."
 
-"Biliyorum riski."
+"Gelmeni istemedim."
 
-"Biliyor musun, gerçekten?" Ozan'ın sesi, ilk kez, sert bir uyarıyla yükseldi. "Annen, oraya gitti, Togan — ve bir daha, aynı kadın olarak dönmedi. Sen, onun kanını taşıyorsun. Ama bu, seni, koruyacak mı, yoksa daha da savunmasız mı bırakacak, bilmiyorum."
+"İstememene alışığım."
 
----
+Lyra iki hafta boyunca son keşif raporlarını kopyaladı. Onlara Mirasçı madalyonu, su arıtma tuzu ve Sed yakınında konuşulmaması gereken seslerin listesini verdi. Listenin son maddesi kısaydı: *Kendi sesini arkandan duyarsan dönme.*
 
-Perren, bu tartışmayı, sessizce dinlemişti — şimdi, öne çıktı, sesi kararlı.
+Yola çıkmadan önce Togan, Kaya'ya yolladığı mektubun kopyasını yanında bırakmadı. Lyra'nın arşivine teslim etti.
 
-"Ben de geliyorum," dedi, hiç tartışmaya açık olmayan bir netlikle.
+"Dönmezsem?"
 
-"Perren, bu, senin savaşın değil—"
+"Kopyayı gönderirim."
 
-"Senin savaşların, benim savaşlarım oldu, Togan, dağlardan indiğin günden beri." Perren'in sesi, sıcak ama kesindi. "Ve şimdi, seni, dünyanın en tehlikeli sınırına, yalnız gitmene izin vermeyeceğim. Bu, tartışmaya kapalı."
+"Dönersem yak."
 
-Togan, bu sadakate, derin bir minnetle karşılık verdi — kelimelere dökemeyecek kadar derin bir minnetle.
+Şafakta Burkut kuzeye yükseldi. Perren iki yük atını önden sürdü. Eski-Kent'in taş kuleleri arkalarında küçülürken Togan kalçasındaki kılıcın ağırlığını, göğsündeki hızlı vuruşu ve avucundaki ince yanmayı ayrı ayrı hissediyordu.
 
----
-
-Lyra, sonunda, isteksizce de olsa, yardım etmeyi kabul etti. "Size, elimizdeki en güncel haritaları, en son keşif raporlarını vereceğim. Ve bir şey daha." Raftan, küçük, metal bir madalyon çıkardı, üzerinde, eski bir Mirasçı simgesi. "Bunu taşıyın. Eğer, yolda, başka Mirasçı arayıcılarına rastlarsanız, bu, sizi, dost olarak tanıtır."
-
-Ozan, ayrılırken, Togan'ın omzuna, son bir kez, elini koydu. "Git, o zaman, genç savaşçı. Ama şunu unutma: cevap bulman, bir zafer değildir illa ki. Bazen, en büyük cevaplar, en ağır sorulardır. Hazır ol, bulduğun şeyin, seni değiştirebileceğine."
-
-"Hazırım," dedi Togan, sesi, kendi kulağına bile, daha önce hiç olmadığı kadar kararlı geldi.
-
----
-
-Hazırlıklar, iki hafta sürdü. Yola çıkacakları sabah, Togan, son bir kez, çekmecesine baktı — Kaya ve Börü'ye giden mektubun bir kopyasını, hâlâ saklıyordu, ve şimdi, yanına, yeni bir not ekledi: *Nereye gidersem gideyim, bir gün, döneceğim — ve o gün, size, her şeyi anlatacağım.*
-
-Perren, kapıda bekliyordu, atları hazırlanmış. "Hazır mısın?"
-
-Togan, Eski-Kent'in kulelerine, son bir kez baktı, sonra, atına bindi. "Hazırım. Kuzeye — Sed'e."
-
-İki dost, birlikte, Kuzey Sefer Yolu'na doğru yola çıktılar — önlerinde, kıtanın en eski, en tehlikeli sınırı, ve içlerinde, hem korku hem de, uzun zamandır bastırılmış bir umut.
+Korkuyordu. Bu kez korkuyu kararlılık diye adlandırmadı. Dizginleri tuttu ve yine de kuzeye sürdü.

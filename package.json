@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:kitap": "node site/build_kitap.js",
+    "check:kanon": "node scripts/kanon_kontrol.js",
+    "check:nesir": "node scripts/nesir_kontrol.js",
+    "check:kitap": "node site/build_kitap.js --check",
+    "test": "npm run check:kanon && npm run check:nesir && npm run check:kitap && node --check site/assets/js/ana.js && node --check site/assets/js/okuyucu.js"
   },
   "repository": {
     "type": "git",
@@ -16,7 +20,7 @@
     "url": "https://github.com/AhmetSoz/verridia/issues"
   },
   "homepage": "https://github.com/AhmetSoz/verridia#readme",
-  "description": "",
+  "description": "Verridia roman, külliyat ve etkileşimli dünya sitesi",
   "dependencies": {
     "gsap": "^3.15.0"
   }

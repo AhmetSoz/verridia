@@ -1,38 +1,20 @@
-# Bölüm 6 — Üç Bayrak
+# Bölüm 6 — Dört Bozkır Mührü
 *(TEMUJİN)*
 
-Elara'nın mesajı, beklenmedik ama harika bir teklif taşıyordu — Temürçilerin, resmi olarak, Korgan-Temujin ittifakına, üçüncü bir ortak olarak katılma isteği.
+Tuz Düzlüğü Mutabakatı'nın doksanıncı gününde Korgan süreyi bir yıl uzatmayı önerdi. Temujin kabul etti, fakat saldırı gecesinde ayrı hareket eden Sungur ve Temürçi yönetimlerinin anlaşma dışında kalmasını yanlış buldu.
 
-"Bu," dedi Temujin, Kaya'ya, mesajı okurken, "hayal ettiğimden bile, daha hızlı ilerliyor."
+Kaya, Sungur konseyinin yetkili delegesi olarak geldi. Elara Temürçi kurulunun mührünü taşıdı. Korgan Azgutları, Temujin Kuru Dere'deki Genç Kurtları temsil ediyordu. Dört taraf aynı yönetime dönüşmek için değil, sınır aşan tehditlerde haberin kaybolmaması için masaya oturdu.
 
-*Yıllardır,* diye yazmıştı Elara, *tarafsızlığımızı, bir kalkan olarak kullandık. Ama belki, artık, zaman, farklı bir şey istiyor — aktif bir ortaklık, sadece, tarafsız bir gözlem değil.*
+Hazırlanan sözleşme üç alanla sınırlıydı: erken uyarı kayıtlarının paylaşılması, korunmuş tanıkların tarafsız yere geçişi ve gizli yabancı ödemelerin ortak incelenmesi. Otomatik askerî yardım yoktu. Her topluluk kendi sınırında ve kendi komuta zinciriyle karar verecekti.
 
----
+Kuru Dere'nin ilk antlaşmasındaki yüz elli silahlı sınırı değişmedi. Sungurlar hiçbir Azgut kararına bağlanmadı; Temürçi ticaret kuralları da ayrı kaldı. Anlaşmadan çekilmek için otuz gün önce açık bildirim yeterliydi.
 
-Bu teklif, üç taraf arasında, dikkatli bir müzakereye yol açtı — Korgan, Temujin, ve Elara, her biri, kendi topluluğunun çıkarlarını, koruyarak, ortak bir çerçeve üzerinde, anlaşmaya çalıştı.
+Korgan, metne Delta adının doğrudan yazılmasını istedi. Kaya karşı çıktı; yarın başka bir örgüt aynı yöntemi kullanabilirdi. Son cümlede örgüt değil eylem tanımlandı: kayıtsız silahlı geçiş, gizli ödeme ve zorla insan götürme.
 
-"Temel ilke," dedi Korgan, ilk ortak toplantıda, "hiçbirimiz, diğerinin, iç işlerine karışmayacak. Ama dışarıdan gelen tehditlere — özellikle, Delta'dan — birlikte karşı duracağız."
+Dört mühür aynı sayfaya basıldı, ama bayraklar tek direkte toplanmadı. Her heyet kendi işaretini kendi çadırının önünde tuttu.
 
-Elara, bu ilkeye, katıldı. "Ve ticaret, serbest kalacak — hiçbir taraf, diğerine, haksız avantaj sağlamaya çalışmayacak."
+Batu anlaşmanın adını sordu. Temujin resmî başlığı okudu: Bozkır Erken Uyarı ve Tanık Güvenliği Sözleşmesi.
 
----
+"İnsanlar daha kısa bir ad bulur," dedi Batu.
 
-Temujin, bu üç taraflı anlaşmanın, taslağını, dikkatle hazırladı — yıllarca, kendi kafasında, taşıdığı bir hayalin, sonunda, somut bir belgeye dönüştüğü an.
-
-"Bir isim düşünmeliyiz," dedi Batu, taslağı incelerken. "Bu ittifak için."
-
-Kaya, düşünceli bir öneri sundu. "Üç Bayrak İttifakı? Basit, ama açık."
-
----
-
-Bu isim, hızla, kabul gördü — ve resmi imza töreni, sınırdaki, artık tarihi bir anlam kazanan, taş değirmende, düzenlendi.
-
-Üç lider — Korgan, Temujin, Elara — aynı anda, aynı belgeyi, imzaladı, üç bayrak, aynı direkte, yan yana, ilk kez, dalgalandı.
-
-"Bu," dedi Korgan, törenin sonunda, "belki, bozkırın, en büyük günü. Kırık Yemin'den sonra, ilk kez, gerçek bir birlik — zorla değil, seçimle."
-
----
-
-Togan, bu töreni, Perren'le birlikte izlerken, derin bir duyguyla, kendi kendine düşündü: bir zamanlar, sadece, kendi kanının sırrını arayan bir yolcu, şimdi, tarihi bir anın, tanığı oluyordu.
-
-O akşam, Temujin, Karia ve Zaleena'ya, coşkulu bir mektup yazdı: *Üç Bayrak İttifakı, resmen kuruldu. Belki, bir gün, bu, dört bayrağa, hatta, daha fazlasına dönüşür. Şimdilik, bu, yeterince büyük bir zafer.*
+"Bulsunlar. Biz ne yaptığını unutmayalım."

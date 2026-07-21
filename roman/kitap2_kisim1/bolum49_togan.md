@@ -1,56 +1,46 @@
 # Bölüm 49 — Sed
 *(TOGAN)*
 
-Üç gün boyunca, Sed, ufukta, yavaşça büyüdü — ta ki, sonunda, onun gerçek ölçeği, Togan'ı, dehşetle dolduruncaya kadar.
+Sed üç gün boyunca büyüdü. Dibine vardıklarında Togan başını ne kadar kaldırsa üst kenarını göremedi. Gri yüzeyde taş aralığı, çatlak ya da alet izi yoktu.
 
-Duvar, gökyüzüne, en az iki yüz adam boyu yükseliyordu — gri, pürüzsüz, hiçbir işçilik izi taşımayan bir yüzeyle, ufkun bir ucundan diğerine, görebildikleri kadar uzanarak.
+Perren avucunu duvara yaklaştırıp geri çekti. "Sıcak."
 
-"Bu," dedi Perren, sesi, huşuyla titreyerek, "insan yapımı olamaz. Hiçbir medeniyet, böyle bir şey inşa edemez."
+Togan için soğuktu. Elini yüzeye koyduğu anda bileğindeki ışık dirseğine kadar yayıldı. Duvarın içinden gelen titreşim kalbinin vuruşuna uymadı; kalbi ona uymaya başladı.
 
-"Belki de," dedi Togan, yavaşça, "Eskiler, bizim düşündüğümüzden çok daha fazlasını yapabiliyordu."
+"Togan."
 
----
+Perren'in sesi uzaktan geliyordu. Duvarın ardında çok daha kalın bir ses uyanmıştı.
 
-Duvarın dibine yaklaştıklarında, Togan, o tanıdık rezonansı, ilk kez, bu kadar güçlü hissetti — sanki, kendi kanı, duvarın kendisiyle, sessiz bir şarkı söylüyormuş gibi.
+Elinin çevresinde ince bir çizgi parladı. Çizgi insan boyundan yüksek bir dikdörtgen çizip içeri doğru açıldı. Ötesinde karanlık değil, sabit kızıl bir aydınlık vardı.
 
-Elini, soğuk, pürüzsüz yüzeye koyduğunda, titreşim, bütün bedenine yayıldı — acı değil, ama yoğun, neredeyse ezici bir farkındalık.
+Perren kılıcını çekti. Togan duvardan elini ayırınca kapı kapanmadı.
 
-"İyi misin?" diye sordu Perren, endişeyle.
+İçeriden yaşlı görünen bir Işıyan çıktı. Dişsiz Ağız'dakinden daha uzun ve daha ağırdı; ışığı titremiyor, taş gibi sabit duruyordu.
 
-"Bilmiyorum." Togan'ın sesi, kendi kulağına bile, uzak geldi. "Bir şey... bir şey, beni tanıyor, Perren. Duvarın ötesinde, bir şey, farkına vardı."
+"Karışık kan yeniden eşiğe geldi," dedi.
 
----
+"Ayla'yı tanıdın mı?"
 
-Cevap, beklenmedik bir şekilde geldi — duvarın yüzeyinde, Togan'ın elinin altında, hafif bir ışık, yavaşça belirdi, sonra, genişledi, bir kapı şeklini alarak.
+"Buradan geçti. Sorular taşıdı, sonra seni taşıdı."
 
-Perren, geri sıçradı, kılıcını çekerek. "Togan!"
+Togan boğazındaki düğümü yuttu. "Bana ne olduğunu öğreneceğim."
 
-Ama Togan, geri çekilmedi — içinde, garip bir kesinlik vardı, bunun, bir tehdit değil, bir davet olduğuna dair.
+"İçeride öğrenebilirsin. Öğrenmek değiştirir."
 
-Kapı, sessizce açıldığında, ötesinde, karanlık değil, garip, yumuşak bir kızıl ışıltı vardı — ve o ışıltının içinden, bir figür, yavaşça belirdi. İnsan formunda, ama derisi, hafif bir ışıkla parlayan bir Işıyan — ama bu, Dişsiz Ağız'daki değildi; daha yaşlı, daha ağır bir varlık hissi taşıyordu.
+Perren kolunu tuttu. "Dönüş var mı?"
 
-"Uzun zamandır," dedi varlık, sesi, derin, çok katmanlı, "senin gibi bir kan, bu kapıya yaklaşmadı."
+Işıyan ona baktı. "Kapı açılırsa dönüş vardır. Açan kişi aynı kalmaz."
 
----
+Togan erzak çantasını çıkardı. Kılıcını çözmedi.
 
-Togan, sesi titreyerek, sordu: "Beni bekliyor muydunuz?"
+"Üç gün," dedi Perren'e. "Kapı açılmazsa Eski-Kent'e dön. Ozan'a gördüğünü anlat."
 
-"Beklemek," dedi varlık, yavaşça, "bizim için, sizin anladığınız gibi değil. Ama evet — bir şekilde, senin gelişini, hissettik. Annenin kanı, yıllar önce, bir iz bıraktı. Sen, o izin, tamamlanmamış yankısısın."
+"Seni bırakmam."
 
-"Annemi tanıyor musunuz?"
+"İçeri gelirsen kapıyı hangimizin açacağını bilmiyoruz. Dışarıda kalırsan dönüş yolum olur."
 
-"Tanıdım." Varlığın sesi, bir an, insan diline daha yakın bir şeye büründü — belki de, bir tür hüzün. "Cesurdu. Ve meraklıydı — sizin türünüzün, nadiren sahip olduğu bir merak. Sana, onun hakkında, söyleyebileceğim çok şey var, genç kan-taşıyıcı. Ama önce, bilmen gereken bir şey var: buraya girmek, bir seçimdir. Ve her seçim, bir bedel taşır."
+Perren öfkeyle çenesini sıktı. Sonunda Togan'ın ön kolunu kavradı. "Üç gün. Bir nefes fazla değil."
 
----
+Togan eşikten geçti. Ayak tabanlarından başına kadar sıcaklık yükseldi. Arkasında Perren'in yüzü, önünde kızıl bir yol vardı.
 
-Perren, Togan'ın yanına geldi, sesi gergin. "Togan, düşünmeden karar verme."
-
-"Düşünüyorum, Perren." Togan'ın gözleri, açık kapıdan, o garip kızıl ışıltıya dikildi — yıllardır sorduğu her sorunun cevabı, belki de, tam orada, birkaç adım ötede bekliyordu.
-
-"Eğer girersem," dedi Togan, varlığa dönerek, "geri dönebilir miyim?"
-
-"Dönersin," dedi varlık, yavaşça. "Ama aynı kişi olarak dönmeyeceksin. Hiç kimse, bu kapıdan, aynı kalarak geçmez."
-
-Togan, uzun bir süre, sessizce düşündü — Perren'e baktı, sonra, tekrar, kapıya.
-
-"Geliyorum," dedi sonunda, sesi, korkuya rağmen, kararlı çıktı — ve ilk adımını, Sed'in içine doğru attı.
+Kapı kapandığında duvarın dışındaki rüzgâr kesildi.

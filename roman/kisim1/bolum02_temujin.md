@@ -1,76 +1,110 @@
 # Bölüm 2 — Genç Kurt ve Sönen Ateşler
 *(TEMUJİN)*
 
-Rüzgâr, aşağıdaki ateşlerin dumanını tepeye taşıyordu — pişen etin ağırlığı, bir yerlerde söylenen yarım kalmış bir savaş türküsünün parçaları.
+Rüzgâr, yemek dumanını ve yarım kalmış bir savaş türküsünü aşağıdaki obadan tepeye taşıyordu.
 
-Temujin, obanın tepesinden, yüzlerce çadırı seyrediyordu; her biri, karanlıkta, birer kızıl göz gibi yanıyordu. Korgan'ın obası, bu ateş denizinin ortasında, en büyük ve en parlağıydı — bir kral tahtı gibi. Ama Temujin'in gözünde, bu parlaklık bir güç değil, sönmeye yüz tutmuş bir közün son direnişiydi.
+Temujin yüzlerce ateşi tek tek ayırabiliyordu. En büyük halka Korgan’a aitti. Toygun’un çadırları onun batısında, Batur’unkiler kuru dere yatağının ötesindeydi. Uzaktan bakıldığında hepsi aynı ordunun ateşleriydi; yakına inildiğinde her halkanın başka bir söze, başka bir korkuya kulak verdiğini bilirdi.
 
-Yirmi dört yaşındaydı, ve adı, Korgan'ın en yaşlı generallerinden bile daha sık dolaşıyordu ağızlarda. "Genç Kurt." İlk duyduğunda gülmüştü bu lakaba; şimdi bir zırh gibi taşıyordu onu. Zırhın altında ise, hiç kimsenin görmediği bir açlık vardı — Korgan'ın asla anlayamayacağı türden bir açlık.
+Korgan yalnız alevlerin çokluğuna bakıyordu. Temujin, aralarındaki karanlığı da sayıyordu.
 
-"Yıldıza bakıp savaş planı yapan tek adam sensin galiba."
+“Yıldızlara bakarak savaş planı yapan tek adam sensin galiba.”
 
-Dönmedi. Sesi, adımların ritminden tanımıştı zaten — "Tek Göz" Orkhon, bozkırın en tehlikeli strateji ustası, tek gözle herkesten iyi görürdü.
+Arkasını dönmedi. Ağır ama ölçülü adımları tanımıştı. Tek Göz Orkhon, kalan gözüyle çoğu adamın iki gözle göremediğini görürdü.
 
-"Yıldıza bakmıyorum." Gözleri ateşlerden ayrılmadı. "Sayıyorum."
+“Yıldızlara bakmıyorum.”
 
-"Neyi?"
+“Neye bakıyorsun?”
 
-"Kaç tanesinin sönmesi gerektiğini." Bir sessizlik, sonra: "Korgan'ın obasını görüyor musun? En parlak olan. Ama şuradaki küçüklere bak — Toygun'un, Batur'un. Onlar da parlıyor, sanki aynı ateşten yanıyorlarmış gibi. Değiller oysa. Kendi hırsları var. Sadece rüzgâr, hepsini aynı yöne eğiyor."
+“Kaç ateşin söndürülmesi gerektiğine.” Temujin, Korgan’ın oba halkasını gösterdi. “En parlağı onunki. Toygun’unki de yanıyor, Batur’unki de. Aynı rüzgârda eğiliyorlar diye aynı ateş sanıyor kendilerini.”
 
-Orkhon, kalın kollarını göğsünde kavuşturarak yaklaştı. "Bunu düşünmek bile tehlikeli, evlat. Korgan'ın kulağı her yerdedir."
+Orkhon yanında durdu, kollarını göğsünde kavuşturdu. “Böyle hesapların dumanı Han’ın çadırına kadar gider.”
 
-"Korgan'ın kulağı isyanı duymaya ayarlı. Ben isyan etmiyorum ki. Sayıyorum, sadece."
+“İsyan hesabı yapmıyorum.”
 
-Tam olarak doğru değildi bu, ama yalan da sayılmazdı. Temujin, Korgan'a kılıç çekmeyi hiç düşünmemişti — kaba, yavaş bir yöntem olurdu bu, üstelik Han'ın arkasında hâlâ on binlerce kılıç vardı. Onun planı çok daha sabırlıydı: imparatorluğu yıkmak değil, içeriden devralmak. Öyle ki, Korgan öldüğünde, hangi ateşin etrafında toplanacaklarını kimse sormayacaktı bile — cevap zaten ortada olacaktı.
+“Neyin hesabını yapıyorsun?”
 
-"Baban da böyle konuşurdu," dedi Orkhon, sesi yumuşayarak.
+Temujin cevap vermedi. Yirmi dört yaşındaydı. Genç Kurt adını ilk işittiğinde gülmüş, sonra bu lakabın insanlar üzerindeki etkisini görmüştü. Şimdi onu ne över ne de reddederdi. İşe yarayan bir ad, iyi bilenmiş bir bıçaktan farklı değildi.
 
-Temujin'in çenesi kilitlendi. Babası hakkında konuşmaya izinli tek kişiydi Orkhon, ve bu izni nadiren kullanırdı. "Babam hırsının bedelini ödedi. Ben aynı hatayı yapmayacağım."
+Korgan’a meydan okuyup on binlerce askeri karşısına almak istemiyordu. Bunun için fazla sabırlıydı. Han öldüğünde obaların hangi ateşe yöneleceğini sormayacağı bir düzen kuracaktı. Cevap, ölümden önce verilmiş olacaktı.
 
-"Hangi hatayı? Çok istemenin mi, çok erken istemenin mi?"
+“Baban da susmadan önce böyle konuşurdu,” dedi Orkhon.
 
-Cevap vermedi — çünkü kendi de bilmiyordu, ve bu bilmemek, tam da böyle sessizliklerde, en çok geceleri sızlatıyordu içini.
+Temujin’in azı dişleri birbirine bastı. Babasından söz etme hakkını Orkhon’a kimse vermemişti; Temujin de bu hakkı ondan alamamıştı.
 
-Aşağıda, ateşlerin arasında bir kıpırdanma oldu — bir grup genç savaşçı, gece talimine çıkıyordu. "Genç Kurtlar" — Temujin'in kendi seçip kendi eğittiği, kâğıt üzerinde sadece "kişisel muhafız," gerçekteyse sabırla ekilmiş bir tohum.
+“Babam hırsının bedelini ödedi. Ben aynı yanlışı yapmayacağım.”
 
-"Elli kişiler artık," dedi Orkhon, aşağıyı süzerek — sesinde hem uyarı hem gizli bir hayranlık. "Korgan bilse..."
+“Yanlışı çok istemek miydi, erken davranmak mı?”
 
-"Biliyor." Temujin'in sesi geceden bile soğuktu. "Kendi obamın güvenliği için birkaç genç eğittiğimi söyledim. İnandı — çünkü inanmak istedi. Bir Han'ın en büyük zaafı budur: kendine söylediği yalanı, rahat ettiği için, gerçek sanması."
+Temujin, aşağıdaki ateşlerden birinin sönüşünü izledi. Karanlık, çadırların arasındaki boşluğu hemen doldurdu.
 
-Orkhon, bunu bir süre tarttı, sonra yere tükürdü — bozkırda bir düşünceyi onaylamanın en eski yolu. "Peki ya Batu? Bizon-Yürekli, bu küçük ordunu fark etmedi mi hiç?"
+“Erken davranmaktı,” dedi. Bunu söylerken doğru cevabı verip vermediğinden emin değildi.
 
-O isim, Temujin'de farklı bir şey uyandırdı — hayranlık değil, saygılı bir tedirginlik. Batu, bozkırın en saf gücüydü; bir baltayı, kalkanıyla birlikte tek darbede ikiye bölebilirdi. Temujin onu küçümsemiyordu, sadece bilirdi ki: gücün tek başına hiçbir kıymeti yoktu, onu sallayan zihinden akıllı olamazdı hiçbir kılıç.
+Genç savaşçılardan oluşan bir sıra, talim alanından dönüyordu. Adımlarını aynı tempoda atıyor, kalkanlarını sol omuzlarında taşıyorlardı.
 
-"Batu sadece kendi gücünü görür. Bu hem en büyük silahı hem en büyük zaafı. Bir gün ikisi aynı anda ona ihtiyaç duyduğumda, hangisi kazanır göreceğiz."
+“Elli kişi olmuşlar,” dedi Orkhon. “Kişisel muhafız için kalabalık bir sayı.”
 
-Orkhon kısa, kuru bir kahkaha attı. "Korgan'ın tahtından daha büyüğünü istiyorsun, değil mi evlat? Uzun zamandır görüyorum bunu aslında. Sadece söylemeni bekliyordum."
+“Obam büyüyor.”
 
-Temujin, ilk kez o gece, gözlerini ateşlerden ayırıp döndü ona. Yüzünde ne gülümseme vardı ne inkâr — sadece çölün gecesi kadar derin bir kesinlik.
+“Korgan’a da bunu mu söyledin?”
 
-"Korgan bozkırı birleştirmeyi hayal ediyor. Ben, Metheris'in surlarının bir gün yıkıldığını görmeyi hayal ediyorum. Onun hayali, benim yolumun ilk adımı sadece."
+“Sormadan önce.”
 
-Bu itiraf, gecenin serinliğinde asılı kaldı bir süre. Orkhon, tek gözüyle, karşısındaki genci sanki ilk kez görüyormuş gibi süzdü.
+Orkhon’un ağzının bir köşesi kıpırdadı. Genç Kurtlar kâğıt üzerinde Temujin’in muhafızlarıydı. Gerçekte onun seçtiği, birlikte dövüşmeyi öğrettiği, ganimetten önce birbirlerinin adını bilen adamlardı. Elli kişi bir Han’ı deviremezdi. Elli kişi, beş yüz kişinin çekirdeği olabilirdi.
 
-"O zaman," dedi sonunda, sesi ciddileşerek, "seni ilk adımdan önce öldürebilecek herkesin bir listesini çıkarmalıyız. Korgan, o listenin sadece bir maddesi."
+“Bizon-Yürekli Batu bu çekirdeği görmüyor mu?”
 
-"Zaten çıkarıyorum." Sesindeki soğukluk, gecenin kendisinden keskindi.
+“Görüyor. Orduyu güçlendirdiğimi sanıyor.”
 
-Bir süre ikisi de konuşmadı. Aşağıda talim bitmiş, gençler ateşe dönmüştü; kılıç şakırtısı yerini kahkahaya, sonra alçak bir türküye bırakmıştı. Temujin onları izlerken, o tanıdık açlığın yeniden kabardığını hissetti. Bugün elli kişiydiler. Bir gün beş yüz olacaklardı. Sonra beş bin — ve o gün, hiçbir oba, ateşinin kimin gölgesinde yandığını sormayacaktı.
+“Yanılıyor mu?”
 
-"Sabret, evlat." Orkhon'un eli, bir an, omzuna kondu — babacan değil, bir generalin diğerine verdiği türden bir dokunuş. "Bozkır, acelecileri hep beslemiştir. Ama karnını en son onlarla doyurmuştur."
+“Bugün için hayır.”
 
-"Sabrediyorum zaten." Sesi fısıltıya yakındı. "En zor ders bu değil mi? En tehlikeli avcı, en uzun bekleyebilendir."
+Temujin Batu’yu küçümsemiyordu. Bir baltayı kalkanıyla birlikte yarabilecek kadar güçlü bir adamı küçümsemek, hesabı yanlış sayıdan başlatmaktı. Fakat Batu her sorunun karşısına gücünü koyardı. Temujin’in beklediği gün geldiğinde o gücün kimi koruyacağına Batu’nun kendisi bile son ana kadar karar veremeyebilirdi.
 
-Orkhon başını salladı ve tepeden indi, kendi ateşine doğru; tek gözü karanlıkta bir süre parladı, sonra gölgelere karıştı.
+Orkhon yere tükürdü. “Korgan’ın tahtı sana küçük geliyor.”
 
----
+Temujin ilk kez ona döndü.
 
-Temujin, yalnız kalınca, rüzgârın yön değiştirdiğini fark etti — şimdi kuzeyden esiyordu, soğuk ve keskin, içinde tanımlayamadığı bir koku taşıyarak: ıslak taş, eski demir gibi bir şey. Bozkırda büyümüş bir adam için yabancı olan her koku, bir tehdit demekti.
+“Korgan bozkırı birleştirmek istiyor. Ben Metheris’in surlarının yıkıldığı günü görmek istiyorum. Bozkır, yolun başı.”
 
-Obaya dönerken, ufukta, kuzeyin ötesinde, gökyüzünün her zamankinden biraz daha kızıl olduğunu fark etmedi. Henüz değil. Gözleri hep aşağıdaydı zaten — ateşlerde, insanlarda, hesaplarda; gökyüzüne bakacak vakti yoktu Temujin'in.
+Orkhon’un sağlam gözü kısıldı. Bu kez karşısında eski dostunun oğlunu değil, gelecekte hizmet edeceği ya da kendi eliyle durduracağı adamı tartıyordu.
 
-O gece, dünyanın kendi saatinin tükenmekte olduğunu sezen tek kişi, ordugâhın en uzak çadırında oturan yaşlı bir kadındı — yıldızlara değil, önündeki kurumuş kemiklere bakan bir kadın. Toprak-Ana Yeva, elindeki bizon kemiğini üçüncü kez ateşe tuttu, üçüncü kez aynı çatlağın aynı yerde belirdiğini gördü, ve parmaklarıyla kemiği, yavaşça, toprağa bıraktı.
+“Öyleyse seni daha ilk adımda öldürebileceklerin listesini çıkar,” dedi. “Korgan, listenin tamamı değil.”
 
-Dışarıda, Han'ın çadırı önünde nöbet tutan bir savaşçı, o tuhaf, ıslak demir kokulu rüzgârdan rahatsız olup omuz silkti — ve bunun, kuzeyden, kimsenin bilmediği bir yerden geldiğini hiç düşünmedi.
+“Liste hazır.”
 
-Yeva biliyordu. Ama söyleyecek kelimesi yoktu henüz — yalnızca, içinde büyüyen, adı konmamış bir korku vardı.
+“Hazır listeler çabuk eskir.”
+
+Aşağıda talim sona ermişti. Kılıç seslerinin yerini kahkahalar aldı. Elli genç, ateşin çevresine otururken halka genişledi. Temujin boş kalan yerleri saydı. Bir gün orada beş yüz kişi olacaktı. Sonra beş bin. Bu düşünce, karnında uzun süredir taşıdığı açlığı yatıştırmadı; ona biçim verdi.
+
+Orkhon elini Temujin’in omzuna koydu. Dokunuşta bir babanın tesellisi yoktu. Bir komutan, diğerine ağırlığını hatırlatıyordu.
+
+“Sabret. Bozkır acele edenleri doyurur; önce cesetlerini ister.”
+
+“Sabrediyorum.”
+
+“Biliyorum. Beni korkutan da bu.”
+
+Orkhon tepeden indi. Karanlıkta bir süre yalnız geniş sırtı seçildi, sonra o da çadırların arasına karıştı.
+
+✦
+
+Rüzgâr kuzeye döndü.
+
+Temujin burnuna gelen kokuyu ayırmaya çalıştı. Islak taş. Eski demir. Bozkırın alışıldık kokuları değildi. Yabancı olan her şey önce tehlike sayılırdı; yararlı olduğuna ancak sonra karar verilirdi.
+
+Obaya inerken Toprak-Ana Yeva’nın çadırının önünde durdu. Keçe perde yarı açıktı. İçerideki cılız ateşin başında oturan yaşlı kadın, bir bizon kemiğini alevin üzerinde tutuyordu.
+
+Kemik çıtırdadı.
+
+Yeva onu çevirdi, çatlağa baktı ve yeniden ateşe uzattı. Aynı yerden ikinci bir ses geldi. Parmakları durdu.
+
+“Toprak-Ana?”
+
+Yeva başını kaldırdı. Bakışları Temujin’in yüzünde tutunmayıp omzunun ötesine kaydı. Ağzını açtı, fakat söylemek istediği şey için kelime bulamadı. Kemiği toprağa bırakıp avucunu göğsüne bastırdı.
+
+Temujin, trans hâlindeki kâhinleri çocukluğundan beri görürdü. Sabah sorulacak bir bilmece daha, diye düşündü. Şimdi ilgilenmesi gereken elli canlı adam vardı.
+
+Yoluna devam etti. Gözleri ateşlerde, nöbetçilerde ve çadır aralarındaki karanlıktaydı. Kuzey ufku başının üstünde kızarırken bakışını yerden kaldırmadı.
+
+Islak demir kokusu onu obasına kadar izledi.

@@ -1,50 +1,58 @@
 # Bölüm 8 — Yelken Açan Gurur
 *(ZALEENA)*
 
-Roric'in filosu, şafak vakti, Yamalı Liman'dan ayrıldı — ama Zaleena'nın saydığı gemi sayısı, ilk toplantıdaki on üçten, sekize düşmüştü. Kessel'in çekilmesi, beklediği gibi, bir zincirleme etki yaratmıştı; üç kaptan daha, son anda, çeşitli bahanelerle sefere katılmaktan vazgeçmişti.
+Roric’in filosu sekiz gemiyle ayrıldı.
 
-Zaleena, Deniz Hayaleti'nin güvertesinde durmuş, uzaklaşan filoyu izliyordu. Roric'in amiral gemisi, önde, gururla ilerliyordu — ama Zaleena'nın gözünde, bu gurur, artık bir cesaretten çok bir inattı.
+Kaptanlar Konseyi’nde on üç bıçak haritanın çevresine konmuştu. Kessel gemisini üç gün dış koyda tuttuktan sonra geri dönmüş, sefere katılmayacağını rıhtımın ortasında ilan etmişti. Ardından üç kaptan daha çekilmiş, sonuncusu gece yarısı demir halatını kesip kaçmıştı.
 
-"Sekiz gemi," dedi Sorin, yanına gelerek, sesinde bir endişe vardı. "Metheris'in donanmasına karşı, hatta kuzeye gitmiş olsa bile, sekiz gemi yeterli mi?"
+Roric’in amiral gemisi liman ağzını geçerken toplarını ateşledi. Gürültü Jilet Resifleri’nde birkaç kez yankılandı.
 
-"Yeterli olabilirdi, eğer sürpriz avantajı hâlâ ellerindeyse." Zaleena'nın sesi düşünceliydi. "Ama Roric, bu kadar gürültü kopardıktan sonra — bütün Kaptanlar Konseyi'nde, bütün limanda konuşulan bir plandan sonra — sürpriz avantajının hâlâ var olduğunu mu sanıyor gerçekten?"
+“Sürprizleri de böylece yola çıktı,” dedi Zaleena.
 
-Sorin, bu soruya cevap vermedi; ikisi de biliyordu ki, cevap muhtemelen hayırdı.
+Sorin sekiz gemiyi yeniden saydı. “Metheris’e yeter mi?”
 
-Zaleena, filonun ufukta küçülmesini izlerken, garip bir karışık duygu hissetti içinde — bir kısmı, Roric'in bu pervasızlığından duyduğu hayal kırıklığı; bir kısmı ise, onun yerini alacağı günün yaklaştığını bilmenin verdiği soğuk bir tatmin. Bu iki duygunun bir arada var olabilmesi, kendisi hakkında bildiği bir şeyi bir kez daha doğruluyordu: Zaleena, hiçbir zaman tek bir duyguya tam olarak teslim olmazdı.
+“Savunma zayıfsa yağmaya yeter. Dönmeye yetmeyebilir.”
 
----
+Roric’in gemileri sisin içinde sırayla kayboldu. Zaleena rahatlamadı. Filonun küçülmesi daha az kayıp demekti; aynı zamanda Roric’in yenilgi korkusuyla daha büyük risk alması demekti.
 
-Öğleden sonra, limanda, Kessel'in gemisi hâlâ demirli duruyordu — kaptan, kendisi, rıhtımda, Zaleena'yı görünce yaklaştı.
+Kessel dış rıhtımda onu bekliyordu. Yaşlı kaptanın gemisinin yelkenleri toplanmış, topları kıyıya çevrilmişti.
 
-"Sessiz Zaleena," dedi Kessel, sesi yorgun. "Sen de çekildin galiba, benim gibi."
+“Benim gibi kaldın,” dedi Kessel.
 
-"Ben hiç katılmamıştım, Kessel." Zaleena'nın sesi düzdü.
+“Ben başından beri kalıyordum.”
 
-Yaşlı kaptan, kısa bir kahkaha attı, acı bir tonla. "Doğru. Sen her zaman en akıllı olansın, değil mi? Ya da en azından, en sabırlı." Durdu, gözleri ufka, Roric'in filosunun kaybolduğu yöne kaydı. "Onlar için endişeleniyor musun?"
+“Bu yüzden senden hoşlanmak zor.” Kessel uzaklaşan son yelkenin ardından baktı. “Onlar için kaygılanıyor musun?”
 
-Zaleena, bu soruyu bir süre düşündü. "Endişeleniyorum," dedi sonunda, dürüstçe. "Ama Roric, uyarıları dinlemeyi seçmedi. Bir noktada, bir liderin kararlarının sonuçlarını kendisinin taşıması gerekir."
+“Evet.”
 
-"Ve eğer başarısız olursa?" diye sordu Kessel. "Enkaz Kralı'nın tahtı boşalırsa?"
+Kessel cevabın hızına şaşırdı.
 
-Bu soru, havada bir an asılı kaldı — Zaleena'nın kendi kendine sorduğu, ama yüksek sesle hiç dile getirmediği bir soru.
+“Roric dönmezse ne olacak?” diye sordu.
 
-"O zaman," dedi Zaleena yavaşça, "birinin o boşluğu doldurması gerekecek. Birinin, Yamalı Liman'ı, bir sonraki Roric'in gelmesini beklemek yerine, kalıcı bir şeye dönüştürmesi gerekecek."
+“Önce dönen gemileri onaracağız. Ölülerin ailelerine pay ayıracağız. Kıyı savunmasını yeniden kuracağız.”
 
-Kessel'in gözlerinde bir merak parladı. "Sen mi olacaksın o kişi?"
+“Sonra onun yerine oturacaksın.”
 
-Zaleena, ona uzun bir süre baktı, sonra hafifçe gülümsedi — nadir görülen, gerçek bir gülümsemeydi bu. "Zamanı gelince göreceğiz, Kessel. Şimdilik, sadece bekliyorum."
+Zaleena, Kessel’in gözlerinden kaçmadı. “Biri oturacaksa, limanın ertesi gününü düşünen biri olsun isterim.”
 
----
+“Bu sen misin?”
 
-O gece, Zaleena, gemisinin güvertesinde, tek başına, kuzeye baktı. Roric'in filosu, ufukta çoktan kaybolmuştu; ama Zaleena'nın içinde, onların akıbetine dair bir kesinlik vardı — iyi bir kesinlik değil.
+“Bunu Roric’in cesedi gelmeden tartışmayacağım.”
 
-Paslı Finn'in atölyesinden, geceleyin bile, hafif bir çekiç sesi geliyordu — yaşlı gemi ustası, yeni tasarımı üzerinde çalışmaya devam ediyordu, sanki bir şeyin yaklaştığını o da seziyormuş gibi.
+Kessel başını salladı. “Doğru cevap.”
 
-Zaleena, kıç güvertesine gitti, elini geminin küpeştesine koydu — bu, yıllardır yaptığı bir şeydi, bir tür sessiz konuşma, gemisiyle kurduğu tek taraflı bir diyalog.
+“Güvenli cevap.”
 
-"Sen ve ben," diye mırıldandı, "bekleyeceğiz. Roric'in inadı, kendi bedelini ödeyecek. Ve o gün geldiğinde, hazır olacağız."
+“İkisi bazen aynı şeydir.”
 
-Uzaktan, denizin derinliklerinden, belli belirsiz bir ses geldi — Zaleena'nın tam olarak tanımlayamadığı, ama içini ürperten bir ses. Bir hayvan çığlığı mıydı, yoksa sadece dalgaların bir oyunu muydu, emin olamadı.
+✦
 
-Ama o gece, uzun bir süre daha, güvertede kaldı — uyumadan, sadece bekleyerek, denizin ve kaderin, kendi hızında işlemesine izin vererek.
+Öğleden sonra Zaleena boşalan iskeleleri dolaştı. Sekiz gemiyle birlikte yüzlerce denizci, on iki top ve limanın en iyi yelken ustalarının çoğu gitmişti. Paslı Gelgit saldırıları ise kıyıya yaklaşmaya devam ediyordu.
+
+Kessel’i kuzey devriyesine, iki küçük gemiyi güney girişine yazdı. Finn’in yeni teknesini suya indirmeden önce denemek için üç tayfa seçti.
+
+Sorin emir listesini aldı. “Beklemiyor muyduk?”
+
+“Roric’i bekliyoruz. Canavarları değil.”
+
+Akşam olmadan dış rıhtımda zift kazanları kuruldu. Roric’in sekiz yelkeni ufuktan silinmişti; geride bıraktığı boşluk ilk kez bir savunma düzenine dönüşüyordu.

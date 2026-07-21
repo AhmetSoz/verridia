@@ -1,48 +1,84 @@
 # Bölüm 4 — Çatlayan Sadakatler
 *(ZALEENA)*
 
-Yamalı Liman'ın rıhtımı, son bir haftadır, her zamankinden daha gergin bir havaya bürünmüştü. Roric'in büyük sefer hazırlığı ilerliyordu — gemiler onarılıyor, mürettebatlar toplanıyor, silahlar bileniyordu. Ama Zaleena, bu hazırlığın altında, ince bir çatlak sesi duyabiliyordu; herkesin duymadığı, ama onun otuz beş yıllık kulağının asla kaçırmadığı türden bir ses.
+Kessel’in gemisi sabah sayımında yoktu.
 
-"Kessel bu sabah gemisini limandan çıkarmış," dedi Sorin, Deniz Hayaleti'nin güvertesinde, sesinde bir merak vardı. "Kimseye söylemeden. Bazıları, seferden çekildiğini düşünüyor."
+Rıhtım kâtibi gece çıkışı için kayıt tutulmadığını söyledi. Kessel’in tayfasından karada kalan iki kişi de kaptanlarının nereye gittiğini bilmiyordu. Yamalı Liman’da bir kaptanın sessizce ayrılması yasak değildi; ardında bu kadar konuşma bırakması dikkate değerdi.
 
-Zaleena, bu haberi bir an sessizce sindirdi. Kessel'in şüpheciliği, Kaptanlar Konseyi'nde ilk gösterdiği andan beri onun radarındaydı; ama bir kaptanın açıkça çekilmesi, farklı bir şeydi — bu, diğerlerine de bir sinyal gönderirdi.
+Sorin haberi *Deniz Hayaleti*’nin güvertesine getirdi. “Meyhanede Roric’in kendi cenazesine hazırlandığını söylemiş.”
 
-"Nereye gitmiş?"
+“Kessel mi?”
 
-"Bilmiyorum, Kaptan. Ama mürettebatından biri, meyhanede, Roric'in 'artık kendi ölümünü kutlamaya hazırlandığını' söylemiş. Sarhoşça bir laf tabii, ama..."
+“Tayfasından biri.”
 
-"Ama sarhoş lafların çoğu, ayık bir korkunun gölgesidir." Zaleena'nın sesi düşünceliydi. "Roric'e söylediğim şeyi düşünüyor Kessel de demek. Paslı Gelgit'i."
+“Sarhoş muydu?”
 
-O sırada, rıhtımın öbür ucundan, bir kargaşa sesi yükseldi — bağırışlar, telaşlı adımlar. Zaleena, Sorin'le birlikte, sesin geldiği yöne baktı; küçük bir balıkçı teknesi, hasar görmüş bir hâlde limana giriyordu, tayfaları panik içinde bağırıyordu.
+“Oldukça.”
 
-"Saldırıya uğradık!" diye bağırdı teknenin kaptanı, güverteye ayak basar basmaz. "Jilet Resifleri'nin dışında! O şeylerden — zırhlı, sürü hâlinde! İki adamımızı kaybettik!"
+Zaleena arma sandığını kapattı. “İnsan ayıkken sakladığını bazen içince başkasının sözüymüş gibi anlatır.”
 
-Rıhtımdaki kalabalık arasında bir dalga gibi yayılan bu haber, kısa sürede bütün limanı sardı. Zaleena, olay yerine yaklaşırken, kalabalığın arasında Roric'i de gördü — Enkaz Kralı, her zamanki gibi kendinden emin görünmeye çalışıyordu, ama gözlerindeki tedirginlik, Zaleena'nın gözünden kaçmadı.
+Kessel’in ayrılışı bir oy demekti. Daha önemlisi, başka kaptanlara çekilmenin mümkün olduğunu gösteriyordu.
 
-"Görüyor musun şimdi?" dedi Zaleena, Roric'in yanına yaklaşarak, sesi alçak ama keskindi. "Sana söylemiştim."
+Rıhtımın dış ucundan bağırış koptu.
 
-Roric'in çenesi sertleşti. "Bir tekne saldırısı, Zaleena. Denizde her zaman tehlike vardır. Bu, planımı değiştirmez."
+Küçük bir balıkçı teknesi limana tek kürekle giriyordu. Sancak bordası parçalanmış, yelkeni direğe dolanmıştı. Güvertedeki üç adamdan biri kanlı bezle kolunu tutuyor, öteki kıyıdakilere halat atmalarını bağırıyordu.
 
-"Planın, bütün filoyu denize açık bırakacak, Roric. Eğer bu yaratıklar gerçekten yayılıyorsa —"
+Zaleena iskeleye indi.
 
-"Yeter!" Roric'in sesi, kalabalığın duyabileceği kadar yükseldi, ve Zaleena, bunun bilinçli bir seçim olduğunu anladı — kendi otoritesini, halkının önünde, ona meydan okuyan bir kadına karşı yeniden ilan etmek. "Metheris seferi devam edecek. Kim korkuyorsa, şimdi çekilsin. Ama korkanların payından bahsetmeyeceğim, o pay cesur olanlara kalacak."
+“Nerede?” diye sordu teknenin kaptanına.
 
-Bu sözler, kalabalıkta karışık bir tepki yarattı — bazıları hevesle bağırdı, bazıları sessizce başını salladı, şüpheyle. Zaleena, Roric'in gözlerine bir süre daha baktı, sonra döndü, hiçbir şey söylemeden uzaklaştı. Bu, kazanamayacağı bir tartışmaydı — Roric'in gururu, artık mantığın önüne geçmişti.
+“Jilet Resifleri’nin dışında. Dört taneydiler. Belki daha çok.” Adamın dudakları soğuktan morarmıştı. “Teknenin altına vurup bizi suya düşürdüler. İki kişiyi alamadık.”
 
----
+“Zırhlı mıydılar?”
 
-Gemisine dönerken, Sorin yanına geldi, sesi endişeliydi. "Kessel'in çekilmesi başkalarını da etkileyecek mi dersin?"
+Adam başını salladı. “Paslı taş gibi.”
 
-"Muhtemelen." Zaleena'nın sesi düşünceliydi. "Ama bu iyi bir şey, Sorin. Roric'in filosu ne kadar küçülürse, hezimeti o kadar hızlı ve o kadar az kanlı olur — ve benim beklediğim an, o kadar erken gelir."
+Kalabalık iki yana açıldı. Roric ağır adımlarla iskeleye geldi. Silahlı üç adam peşindeydi.
 
-"Bu kadar soğuk olmak zorunda mısın her zaman?" Sorin'in sesinde, ilk kez, hafif bir eleştiri vardı.
+Zaleena ona döndü. “Şimdi kaç tekne gerek?”
 
-Zaleena, ona döndü, bir an için yüzündeki maskeyi biraz gevşetti. "Soğuk olmazsam, Sorin, bu denizde hayatta kalamam. Ben Roric'in ölmesini istemiyorum — ama onun inadının bedelini, başkalarının ödemesini de istemiyorum. Elimden geldiğince az insan kaybederek bu geçişi atlatmak istiyorum, o kadar."
+Roric yaralı balıkçıya baktı, sonra çevredeki yüzleri gördü. “Denizde canavar vardır.”
 
-Bu, tam olarak doğru değildi belki — ya da tam olarak yalan da değildi. Zaleena, kendi hesaplarının bazen kendi vicdanıyla nasıl iç içe geçtiğini bazen kendisi bile ayırt edemiyordu.
+“Bunlar kıyıya çıkıyor ve sürüyle avlanıyor.”
 
-Akşam çökerken, Zaleena, güvertede tek başına, kuzeye baktı. Kızıl leke, artık gündüz bile net görünüyordu — ve deniz, her zamankinden daha huzursuz bir şekilde dalgalanıyordu, sanki derinliklerinde bir şey, uyanmaya hazırlanıyormuş gibi.
+“Bir tekne kaybettik diye Metheris’ten vazgeçmem.”
 
-"Roric," diye mırıldandı kendi kendine, "eğer beni dinlemeyeceksen, en azından adamlarını bu kadar aceleye getirme. Onların hepsi senin gururunun bedelini ödemeyi hak etmiyor."
+“İki adam kaybettin.”
 
-Ama bunu söyleyecek kimse yoktu yanında; sadece rüzgâr, ve uzaktaki fenerin sessiz, kayıtsız ışığı.
+Roric’in kancası kemerine vurdu. Sesini kalabalığın duyacağı kadar yükseltti. “Sefer devam edecek. Korkan şimdi çekilsin. Payı da yüreği olanlara kalır.”
+
+Birkaç tayfa bağırarak onu destekledi. Çoğu sustu. Zaleena kimin hangi tarafa baktığını gördü: üç kaptan Roric’e değil, hasarlı tekneye bakıyordu.
+
+“Ölüler pay harcamaz,” dedi Zaleena. “Hesabın kolaylaşır.”
+
+Roric’in yüzü kızardı. “Ben bu limanı sen doğmadan önce de yönetiyordum.”
+
+“O yüzden ne zaman değiştiğini ilk senin görmen gerekirdi.”
+
+Roric cevap vermedi. Yaralıların taşınmasını emredip arkasını döndü. Seferi durdurmamıştı; fakat giderken kalabalık eskisi gibi yol açmadı.
+
+✦
+
+Zaleena gemisine dönerken Sorin yanında yürüdü.
+
+“Kessel’in peşinden başkaları da gider mi?”
+
+“Bu gece üç kaptan tayfasını yeniden sayacak.”
+
+“Filonun küçülmesini istiyorsun.”
+
+“Daha az gemi çıkarsa daha az gemi batar.”
+
+“Roric zayıflarsa sen güçlenirsin.”
+
+Zaleena durdu. Sorin eleştirisini geri çekmedi.
+
+“Evet,” dedi. “İkisi de doğru.”
+
+“Bunu bu kadar rahat söylemen bazen korkutuyor.”
+
+“Rahat değilim.” Zaleena hasarlı balıkçı teknesini gösterdi. “O iki adamın ölmesini istemedim. Roric’in ölmesini de istemiyorum. Ama inadının bizi nereye götürdüğünü görüp hiçbir şey yapmazsam, istememiş olmamın değeri kalmaz.”
+
+Gemiye çıkınca kıyı haritasını açtı. Saldırı noktasını işaretledi ve yanına tarih koydu.
+
+“Kuzey gözcülerine ikinci tekne gönder,” dedi Sorin’e. “Bundan sonra her saldırıda yer, saat, gelgit ve kayıp sayısı yazılacak. Roric söz dinlemiyorsa ona inkâr edemeyeceği kadar kayıt veririz.”

@@ -1,54 +1,48 @@
 # Bölüm 33 — Söylenmeyen Kısım
 *(TOGAN)*
 
-Eski-Kent'e dönüş, gidiş yolundan daha sessiz geçti — Togan ve Perren, ikisi de, taşıdıkları ağırlığın altında, çoğu zaman, konuşmadan yürüdüler.
+Aras'ın bedenini taşımak dönüşü iki gün uzattı. Eski-Kent kapısında Lyra onları görünce koşmadı; bir baş kâtibin ağır adımlarıyla geldi ve sedyeyi kendi elleriyle tuttu.
 
-Lyra, onları, kapıda karşıladı, yüzünde, hem rahatlama hem endişe vardı. "Yaşıyorsunuz. Ve Aras..."
+"Bulmuşsunuz."
 
-"Öldü," dedi Togan, sesi yorgun. "Cesedini getirdik. Günlüğünü de."
+"Geç kaldık," dedi Togan.
 
-Lyra, bu haberi, uzun bir süre, sessizce sindirdi, sonra, başını salladı, gözlerinde yaş. "Biliyorduk, aslında — altı ay, çok uzun bir sessizlik. Ama umut, son ana kadar ölmez."
+Aras kayıt avlusunda Mirasçı usulüyle yıkandı. Günlüğü kurutulmak üzere ayrıldı. Yaşlı Ozan raporu aynı akşam istedi.
 
----
+Togan mağarayı, eşiği ve ışık saçan koruyucuyu anlattı. Ayla'yla ilgili konuşmayı sakladı.
 
-Yaşlı Ozan'a rapor verirken, Togan, kelimelerini, dikkatlice seçti.
+"Varlık sana ne söyledi?" diye sordu Ozan.
 
-"Aras'ı, mağarada bulduk," dedi, sesi ölçülü. "Bir... koruyucu tarafından öldürülmüş. İkinci Sığınak'a çok yaklaşmış."
+"Yerini açıklamamamı istedi. Söz verdim."
 
-"Ne tür bir koruyucu?" diye sordu Ozan, sesi, her zamankinden daha keskin bir merakla.
+Ozan bastonunun ucunu taş zemine dayadı. "Sözünü bozmanı istemeyeceğim."
 
-Togan, bir an, tereddüt etti — Işıyan'ın son sözleri, kulağında yankılanıyordu: *bir daha, bu dağlara dönmeyin.* Bu, bir gizlilik talebiydi, sadece Aras'ın ölümü için değil, kendi varlığı için de.
+"Neden?"
 
-"Işık saçan bir varlık," dedi sonunda, kısmen doğru, kısmen sakınarak. "Konuştu benimle. Ama detaylarını, şimdilik, kendime saklamak istiyorum, Ozan. Bir söz verdim."
+"Çünkü elli iki yıl önce ben de onlardan biriyle karşılaştım. Aynı sözü verdim."
 
-Ozan, uzun bir süre, kör gözleriyle, Togan'ı inceledi — sanki, söylenmeyen kısmı, başka bir duyuyla okuyormuş gibi.
+Togan bir adım yaklaştı. "Bunu benden niye sakladın?"
 
-"Anlıyorum," dedi sonunda, sesi, beklenmedik bir yumuşaklıkla. "Ve seni, bunu açıklamaya zorlamayacağım, genç savaşçı. Çünkü ben de, bir zamanlar, benzer bir söz vermiştim."
+"Benim karşılaşmam seninkini açıklamaz. Kendi korkumu senin cevabın diye vermek istemedim."
 
----
+"Korktun mu?"
 
-Togan'ın gözleri büyüdü. "Sen de mi bir Işıyan'la karşılaştın?"
+"Hâlâ korkuyorum."
 
-Ozan, uzun bir sessizlikten sonra, yavaşça başını salladı. "Gençliğimde, evet. Elli yıldan fazla önce. Ve o gün, bana, bugün sana söylediğim gibi bir şey söylemiş olmalı — çünkü ben de, o günden beri, gördüklerimin çoğunu, kimseyle paylaşmadım. Bazı sırlar, taşıyanın kendi seçimiyle, mühürlü kalır. Bu, zayıflık değil, genç savaşçı. Bazen, en büyük güç, bilmeyi seçtiğin şeyi, ne zaman sakladığını bilmektir."
+İlk kez Ozan'ın sesi yaşından değil, hatırladığı bir şeyden inceldi. Togan öfkesini yuttu. Karşısındaki adam yalnız bilgi bekçisi değildi; yarım yüzyıldır aynı kapıyı zihninde kapalı tutuyordu.
 
-Bu itiraf, Togan'ın içinde, garip bir yakınlık yarattı — ilk kez, yaşlı adamın, sadece bir öğretmen değil, kendi geçmişinin ağırlığını taşıyan bir insan olduğunu hissetti.
+Gece Perren'le bir şişe şarabı paylaştılar. Togan, Işıyan'ın Ayla'ya dokunduğunu ve kendisini iki yankıdan biri saydığını anlattı. Ozan'ın uyarısına rağmen Perren'den saklayamadı. Mağarada bunu birlikte yaşamışlardı.
 
-"Peki annem hakkında ne düşünüyorsun şimdi?" diye sordu Togan, sesi alçak.
+"Baba dedi mi?" diye sordu Perren.
 
-"Düşünüyorum ki," dedi Ozan, yavaşça, "cesur bir kadındı — belki de, kıtanın bilmediği kadar cesur. Ve düşünüyorum ki, sen, onun cesaretini, kendi şeklinde, taşıyorsun."
+"O sözcüğü tanımıyor."
 
----
+"Sen tanıyorsun. Bu yeter mi?"
 
-O gece, Perren'in odasında, iki dost, uzun bir süre, sessizce oturdular — aralarında, yarım bir şişe şarap, ve söylenmesi gerekmeyen bir anlayış.
+Togan içmediği şarabı çevirdi. "Bilmiyorum. Kanımın geçit açabileceğini ya da kapatabileceğini söyledi."
 
-"Ne yapacaksın şimdi?" diye sordu Perren sonunda.
+"Hangisini yapacaksın?"
 
-Togan, uzun bir süre düşündü. "Bilmiyorum, gerçekten. Annemin bir sır bıraktığını biliyorum artık. Ama sır, hâlâ, çoğunlukla kapalı. Belki de, cevapları, burada bulamayacağım, Perren. Belki de, cevaplar, Sed'in kendisinde, ya da hiçbir yerde."
+"Açmadan önce arkasında ne olduğunu öğrenmek isterim."
 
-"Peki ne istiyorsun?"
-
-Togan, pencereden dışarı, Eski-Kent'in karanlık siluetine baktı, uzun bir süre. "İstiyorum ki, bir gün, bu kanın, bir lanet değil, bir seçim olduğunu anlayayım. Işıyan, öyle demişti — bir köprü ya da bir kılıç, taşıyanın seçimine bağlı. Ben, köprü olmak istiyorum, Perren. Kılıç değil."
-
-Perren, bu söze, sessizce, dostça bir gülümsemeyle karşılık verdi. "O zaman, seni, o seçimi yaparken görmek isterim — ve yanında olacağım, hangi yolu seçersen seç."
-
-Togan, çekmecesindeki eski mektuplara, bir an, göz attı — Kaya ve Börü'ye giden mektup, artık yoldaydı; belki, bir gün, bir cevap gelirdi. Ama şimdilik, sadece, bu küçük odada, bir dostun sessiz sadakatiyle, kendini, biraz daha az yalnız hissetti.
+Bu cevap Perren'i güldürdü. Togan da ona katıldı. Köprü ya da kılıç gibi büyük adlar seçmek kolaydı. Asıl zorluk, bir sonraki adımda elini nereye koyacağını bilmekti.

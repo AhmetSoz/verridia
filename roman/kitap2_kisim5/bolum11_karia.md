@@ -1,38 +1,20 @@
-# Bölüm 11 — Adayların Arasında
-*(KARİA)*
+# Bölüm 11 — Eşit Olmayan Sınav
+*(KARIA)*
 
-Meziyet Programı, altı ay sonra, ilk gerçek gerginliğiyle karşılaştı — küçük soylunun oğlu, Osric, Toma'nın, "sıradan bir kaptan" olarak, haksız bir avantaj elde ettiğini, açıkça şikayet etmeye başladı.
+Osric'in dilekçesi Toma'yı suçlamıyordu. Programın deniz ve ticaret görevlerine fazla puan verdiğini, askerî lojistikte geçen yıllarının aynı ölçüde sayılmadığını öne sürüyordu.
 
-Osric, resmi bir dilekçeyle, Karia'nın huzuruna çıktı. "Bu, adil değil, Majesteleri. Ben, yıllarca, askeri eğitim aldım. O, sadece, bir gemi kaptanı."
+Karia ilk tepkisini yuttu. Osric kıskanç olabilirdi; bu, sorusunu geçersiz kılmazdı.
 
-Karia, bu şikayeti, sabırla dinledi. "Osric, bu programın amacı, kimin, hangi geçmişten geldiğini karşılaştırmak değil — kimin, en iyi karakteri, en iyi kararları gösterdiğini görmek."
+Komisyon puan çizelgesini yeniden açtı. Gerçekten de üç görevin ikisi liman gelirleriyle ilgiliydi. Toma'nın deneyimi ona görünmez bir üstünlük sağlıyor, Wren ile Osric bilmedikleri dilde sınanıyordu.
 
----
+"Programı Toma kazansın diye kurmadık," dedi Karia. "Takvimi değiştirin. Her aday bir güçlü, iki yabancı alanda çalışacak. Sonuç kadar öğrenme hızı da ayrı puanlansın."
 
-"Peki, nasıl karar vereceksiniz?" diye sordu Osric, hâlâ huzursuz.
+Toma kararı duyunca itiraz etmedi. Osric'le birlikte iç bölgedeki bir tahıl kafilesinin güvenliğinden sorumlu tutuldu. İlk gün kimin komuta edeceği yüzünden tartıştılar. Osric asker düzenini, Toma taşıyıcıların sözleşmesini biliyordu. İkisi de ötekinin alanını ayrıntı sanıyordu.
 
-"Zamanla," dedi Karia, sakin bir kesinlikle. "Ve senin, bu huzursuzluğun, aslında, iyi bir işaret değil, Osric. Gerçek bir lider, başkalarının başarısından, tehdit hissetmez — ilham alır."
+Üçüncü gün köprü çöktü. Osric alternatif geçidi seçti; Toma tüccarlara gecikme bedelini yeniden yazdırdı. Kafile yalnızca bir gün kaybetti. Dönüş raporunda ikisi de kendi payından çok diğerinin kararını açıkladı.
 
-Bu söz, Osric'i, bir an, düşünceye sevk etti — belki, ilk kez, kendi tutumunu, gerçekten sorguladı.
+Karia onları kutlamadı. Köprünün neden önceden denetlenmediğini sordu. İkisi aynı anda sustu.
 
----
+Komisyon, görev notunu başarılı değil eksik yazdı: kriz yönetilmiş, önleme başarısız olmuştu. Osric dilekçesini geri çekmedi; altına programın değiştirildiğini ve ilk itirazının kayda geçtiğini ekledi.
 
-Toma, bu gerginlikten haberdar olduğunda, kendi tarzıyla, duruma yaklaştı — Osric'i, kendi isteğiyle, bir sohbete davet etti.
-
-"Rekabet etmek istemiyorum seninle," dedi Toma, dürüstçe. "Ben, sadece, öğrenmek istiyorum. Belki, ikimiz, birbirimizden, öğrenebiliriz — senin askeri bilgin, benim denizcilik deneyimim."
-
-Osric, bu teklife, ilk başta temkinli, ama giderek, gerçek bir saygıyla karşılık verdi.
-
----
-
-Birkaç hafta içinde, iki genç adam arasındaki gerginlik, beklenmedik bir dostluğa dönüştü — birlikte çalışıyorlar, birbirlerinin güçlü yanlarından öğreniyorlardı.
-
-Kaelan, bu gelişmeyi, gururla gözlemledi. "Görüyorsun, evladım — bazen, en iyi çözüm, rekabeti bastırmak değil, onu, işbirliğine dönüştürmektir."
-
-"Toma'nın sayesinde, değil benim." Karia'nın sesi içtendi. "O, doğal bir bilgelik taşıyor."
-
----
-
-O akşam, Elowen, bu gelişmeyi duyduğunda, Karia'ya, sıcak bir gülümsemeyle yaklaştı. "Programın, sadece bir vâris bulmadığını, gerçek bir topluluk inşa ettiğini, görüyorum."
-
-"Belki," dedi Karia, düşünceli, "bu, aslında, asıl kazanç. Kim, sonunda, tahtı alırsa alsın — bu gençler, birbirleriyle, gerçek bağlar kurdu. Ve bu, krallığın geleceği için, tahtın kendisinden bile, daha değerli olabilir."
+Toma ile aralarında dostluk doğmadı. Fakat bir sonraki görevde haritayı aynı masada açabildiler. Karia için bu daha inandırıcıydı. Yönetim, insanların birbirini sevmesini değil, anlaşmazken birlikte iş çıkarabilmesini gerektiriyordu.

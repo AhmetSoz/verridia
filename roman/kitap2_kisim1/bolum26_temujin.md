@@ -1,48 +1,42 @@
 # Bölüm 26 — Örs ve Çekiç Arasında
 *(TEMUJİN)*
 
-İşaret, üç hafta sonra geldi — sıradan bir tüccar kervanı görünümünde, ama kervanın başındaki adamın bileğinde, örs damgalı bakır bir bilezik parlıyordu.
+Temürçilerin cevabı üç hafta sonra geldi. Tüccar kervanının başındaki kadın bileğine örs damgalı bakır halka takmıştı. Sube, görüşme yerini ondan öğrendi: sınırdaki terk edilmiş değirmen, ay doğarken.
 
-"Seninle, gizlice, konuşmak istiyorlar," dedi Sube, sesi alçak, çadırın içinde. "Sınırdaki terk edilmiş bir taş değirmende. Üç gün sonra, ay doğarken."
+Temujin değirmene yalnız girdi. Sube ile iki okçu görüş alanının dışında kaldı.
 
-Temujin, bu haberi, uzun bir süre, sessizce tarttı. "Yalnız gideceğim. Sen ve birkaç güvendiğin adam, uzaktan izleyin — ama müdahale etmeyin, ne olursa olsun."
+İçeride yaşlı bir kadın bekliyordu. "Usta Elara. Hekat'ın halef adaylarındanım."
 
----
+"Temujin."
 
-Taş değirmen, harap, rüzgârın uğultusuyla dolu bir yapıydı. Temujin, içeri girdiğinde, tek bir figürü buldu — yaşlı, sert yüzlü bir kadın, Temürçi zırhının basit bir versiyonunu giyiyordu, kolunda, ustalık işaretleri.
+"Han'ın kraterimizi istiyor. Sen ne istiyorsun?"
 
-"Usta Elara," dedi kadın, kendini tanıtarak. "Hekat'ın halefi adayı. Sen, Azgut ordusunun, örsümüze göz diken komutanısın."
+"Ordumun duvarda parçalanmamasını. Sizin de ocakları söndürmemenizi."
 
-"Temujin. Ve göz diken ben değilim — Han'ım, Korgan. Ben, sadece, bu savaşın, hiç kimseye fayda getirmeyeceğini düşünüyorum."
+Temujin teklifini açıkladı. Temürçiler sınırdaki boşaltılabilir bir karakolu sembolik direnişten sonra bırakacaktı. Korgan bunu zafer diye sunacak, karşılığında Azgutlar uzun süreli silah alımına ve ana kraterin tarafsızlığına uyacaktı.
 
-Elara, uzun bir süre, ona baktı, değerlendirir gibi. "İlginç bir tutum, bir Azgut komutanı için. Neden bize yardım etmek istiyorsun?"
+Elara taş masaya iki parmağıyla vurdu. "Han'ın karakolla yetinmezse?"
 
-"Yardım etmek istemiyorum," dedi Temujin, dürüstçe. "Kazanmak istiyorum — ama akıllıca. Krateri, doğrudan bir saldırıyla almaya çalışırsak, binlerce insan ölür, ikisi de kaybeder. Ama eğer, bir anlaşma bulabilirsek..."
+"Öncüyü ben yönetiyorum. Ana orduyu dar geçide sokmadan önce anlaşmayı ilan ederim. Korgan geri adım atarsa zaferini kaybeder. İlerlerse herkes onun sözünü çiğnediğini görür."
 
-"Ne tür bir anlaşma?"
+"Onun adına söz veriyorsun. Yetkin yok."
 
-Temujin, derin bir nefes aldı — bu, çizeceği çizginin, artık geri dönüşü olmayacağı an. "Han'ıma, bir zafer gerekiyor — halkının önünde, gösterebileceği bir zafer. Ama krateri, gerçekten almasına gerek yok. Eğer, sınırdaki küçük bir karakolu, önceden anlaşarak, sembolik bir direnişle bırakırsanız — gerçek kayıp olmadan, sadece görünüşte bir zafer — Han'ım, tatmin olur. Krater, dokunulmamış kalır. Ve karşılığında, biz, gelecekteki bütün siparişlerimizde, size, öncelik ve indirim garantisi veririz."
+"Bu yüzden sizden teslimiyet değil, hesaplı bir risk istiyorum."
 
-Elara, uzun bir süre, sessizce düşündü. "Bu, bir hile, Temujin. Kendi Han'ına karşı."
+Elara'nın bakışı sertleşti. "Tuzaksa örslerimiz senin adını bütün kıtaya hain diye basar."
 
-"Biliyorum." Temujin'in sesi, hiç titremedi. "Ama bazen, en büyük sadakat, bir efendiyi, kendi açgözlülüğünden korumaktır — onun bilgisi olmadan bile."
+"Tuzak değilse kaç kişinin adını mezar taşına basmayacaksınız?"
 
----
+Bu soru değirmende kaldı. Elara cevap vermedi; teklifi Ustalar Konseyi'ne götüreceğini söyledi.
 
-Elara, çok uzun bir süre, sessizce, Temujin'i inceledi — sanki, onun gerçek niyetini, kelimelerin ötesinde okumaya çalışıyormuş gibi.
+Dönüşte Sube yolunu kesti. "Kabul ettiler mi?"
 
-"Ustalar Konseyi'ne götüreceğim bu teklifi," dedi sonunda. "Ama sana bir uyarım var, genç komutan. Eğer bu, bir tuzaksa — eğer, bizi, gerçek bir saldırıya hazırlıksız yakalamak için bir oyunsa — Temürçiler, asla unutmaz, asla affetmez. Ve senin adın, kıtanın her köşesinde, bir hain adı olarak anılır."
+"Dinlediler."
 
-"Anlıyorum riski." Temujin, gözlerini kaçırmadan. "Ve kabul ediyorum. Çünkü inanıyorum ki, bu yol, hepimiz için, savaştan daha iyi."
+"Aynı şey değil."
 
-Elara, yavaşça başını salladı, sonra, dönüp, gecenin karanlığına karıştı — cevabını, henüz vermeden.
+"Bu yüzden bekleyeceğiz. Bu arada geçidin gerçek haritasını bul. Korgan'ın haritasında iki yan yol silinmiş."
 
----
+Temujin çadırında yalnız kaldığında ihaneti düşünüp kendini yargılamadı. Ölçüsü daha basitti: plan başarısız olursa kaç kişi ölecekti, başarılı olursa kimler yaşayacaktı? Sayıları iki ayrı sütuna yazdı.
 
-Kampa döndüğünde, Sube, endişeyle bekliyordu. "Nasıl geçti?"
-
-"Bilmiyorum," dedi Temujin, sesi, ilk kez, gerçek bir yorgunlukla doluydu. "Zar atıldı, Sube. Şimdi, sadece, Temürçiler'in, benim kadar, kan dökmeden bir çözümü tercih edip etmeyeceklerini bekleyebiliriz."
-
-O gece, çadırında, tek başına otururken, Temujin, kendi kendine, ilk kez, gerçek bir korkuyla yüzleşti — kazanma korkusu değil, kaybetme korkusu da değil, ama bir üçüncü korku: kendi halkına, kendi Han'ına karşı, sessizce bir ihanet işlemiş olmanın ağırlığı.
-
-*Bu, doğru bir şey mi yaptım?* diye sordu kendine, karanlığa. Cevap, hemen gelmedi — ama içinde, derin bir yerde, bir kesinlik vardı: doğru ya da yanlış, artık, geri dönüş yoktu.
+İkinci sütun daha uzundu. Şimdilik bununla yetindi.

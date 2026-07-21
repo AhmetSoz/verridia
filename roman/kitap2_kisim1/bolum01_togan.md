@@ -1,74 +1,100 @@
 # Bölüm 1 — Hafızanın Şehri
 *(TOGAN)*
 
-Eski-Kent, Togan'ın hayal ettiğinden çok daha eski, çok daha ürkütücü bir yerdi.
+Eski-Kent uzaktan bir şehir değil, toprağa saplanmış bir iskelet gibi görünüyordu.
 
-İki haftalık yolculuğun sonunda, Perren'le birlikte, bozkırın ortasındaki bu yarı gömülü harabeye ulaştıklarında, Togan, ilk kez, Eskiler'in gerçek büyüklüğünü gördü — kırık cam ve metal kuleler, toprağın altından, devasa bir hayvanın kaburgaları gibi yükseliyordu; sokaklar, anlaşılamayan geometrik sembollerle kaplı kırık taşlarla döşenmişti.
+Cam ve metal kulelerin yarısı çökmüş, geri kalanı kumun içinden eğri kaburgalar hâlinde yükselmişti. Togan giriş yolunda atından indi. Bozkır, ayaklarının altındaki düzgün taşlara basmak istemedi.
 
-Perren'in sesi, hem huşu hem yorgunlukla doluydu. "Buraya, yıllar önce, bir kez, kısa bir ziyaret için gelmiştim. Mirasçılar, yabancılara pek sıcak bakmaz."
+Perren on bir yıl önce gördüğü kemerli kapının yerinde durdu. Kapının üstünde oyulmuş kitap işareti vardı.
 
-"Peki bizi kabul edecekler mi?" Togan'ın sesinde bir endişe vardı.
+“Burayı hatırlıyor musun?” diye sordu Togan.
 
-"Bilgi karşılığında bilgi sunarsak, belki. Onlar, altına değil, cevaplara değer verir."
+“Daha küçük hatırlıyorum.”
 
-Şehrin girişinde, iki genç Mirasçı kâtip onları durdurdu — sade, boyasız cüppeler giyen, dikkatli gözlü gençler.
+“Şehir mi?”
 
-"Kimsiniz, ve ne istiyorsunuz?" Kâtiplerden birinin sesi resmiydi ama düşmanca değildi.
+“Kendimi.”
 
-Perren öne çıktı. "Ben Perren, eski bir Hegemonya bilginiyim. Bu, Togan — bir Sungur savaşçısı. Yaşlı Ozan'la, ya da onun temsil ettiği bilgelikle, konuşmak istiyoruz. Işık Seddi hakkında, ve... bir kanın sırrı hakkında, bilgimiz var, ve bilgiye ihtiyacımız var."
+İki genç kâtip önlerini kesti. Boyasız cüppelerinin kollarında mürekkep lekeleri vardı.
 
-Bu kelimeler — Işık Seddi, bir kanın sırrı — kâtiplerin gözlerinde, anlık bir ilgi uyandırdı.
+“Adınız ve getirdiğiniz bilgi?” diye sordu biri.
 
-"Bekleyin burada." Kâtip, içeri, harabelerin derinliklerine doğru koştu.
+Perren kaşını kaldırdı. “Eskiden önce ne istediğimizi sorardınız.”
 
----
+“İstek çok. Raf az.”
 
-Uzun bir bekleyişten sonra, kâtip geri döndü, yanında, kırk yaşlarında, keskin gözlü bir kadınla — Baş Kâtip Lyra'ydı bu, Togan'ın sonradan öğreneceği gibi.
+“Perren. Aldric arama kolunun yazmanıydım.”
 
-Lyra'nın gözlerinde bir tanıma parladı. "Perren. On bir yıl önce, Aldric'in izinde kaybolan keşif kolundan biri. Seni ölü sanıyorduk."
+Kâtiplerin ikisi de ona yeniden baktı.
 
-"Ölmedim." Perren'in sesi garip bir utançla karışıktı. "Sadece... kaldım. Sed'in yakınında."
+“Yanımdaki Togan,” dedi Perren. “Işık Seddi'ne dokundu.”
 
-Gözlerini, şimdi, Togan'a çevirdi, onu dikkatle inceleyerek. "Ve sen? Bir Sungur, bu kadar uzağa, ne arıyor?"
+Togan araya girdi. “Dokunmadım. Sed bana dokundu.”
 
-Togan, bir an tereddüt etti, sonra, tüm hikâyesini — Melira'yı, yasını, yolculuğunu, ve son olarak, Sed'in önünde yaşadığı o garip rezonansı — kısaca anlattı.
-
-Lyra, bu hikâyeyi, hiçbir ifade göstermeden dinledi, ama Togan, onun gözlerindeki dikkatin, giderek arttığını fark etti.
-
-"Bu," dedi sonunda, sesi düşünceli, "Yaşlı Ozan'ın duyması gereken bir hikâye. Gelin. Ama uyarayım — Ozan, herkesle konuşmaz. Eğer seninle konuşursa, bu, kendi başına, bir işarettir."
+Kâtiplerden biri içeri koştu.
 
 ---
 
-Büyük Kütüphane'nin en derin odasında, Togan, ilk kez, Yaşlı Ozan'ı gördü — inanılmaz derecede yaşlı, derisi kurumuş bir parşömen gibi, gözleri neredeyse kör, ama duruşunda, garip bir ağırlık, bir bilgelik vardı.
+Baş Kâtip Lyra geldiğinde Perren'i birkaç adım öteden tanıdı. Saçlarının bir kısmı ağarmıştı; bakışı on bir yılı tek seferde geçti.
 
-Ozan'ın sesi, bir fısıltı kadar zayıf ama tuhaf bir netlikle taşınıyordu. "Yaklaş, genç savaşçı. Işık Seddi'nin önünde bir şey hissettiğini duydum. Anlat bana, tam olarak, ne hissettin."
+“Öldüğünü kayda geçirdim,” dedi.
 
-Togan, tekrar, deneyimini anlattı — bu sefer, daha detaylı, göğsündeki titreşimi, duvarın ışığıyla kurduğu garip rezonansı.
+Perren başını eğdi. “Yanlış kayıt olmuş.”
 
-Ozan, uzun bir süre, sessiz kaldı, sanki bu bilgiyi, kendi hafızasının derinliklerinde, eski bir kayıtla karşılaştırıyormuş gibi.
+Lyra ona sarılmadı. Önce elmacık kemiğindeki eski izi, sonra parmaklarını inceledi. “Sed'in yanında kaldın.”
 
-"Bana, ailenden bahset. Bildiğin her şeyi."
+“Evet.”
 
-"Bilmiyorum." Togan'ın sesi hüzünlüydü. "Yetimim. Bir Azgut baskınından sonra, bir Sungur obasında bulunmuşum. Ailemin kim olduğunu, hiç kimse bilmiyor."
+“İsteyerek mi?”
 
-Ozan, bu sözlere, garip bir şekilde, hiç şaşırmadan tepki verdi — sanki bu cevabı, zaten bekliyormuş gibi. "Kaç yaşındasın?"
+Perren cevap vermedi.
 
-"Yirmi altı."
+Lyra bu soruyu daha sonra soracağını belli eden bir bakışla Togan'a döndü. Togan yolculuğunu kapıda anlatmadı. Sağ avucundaki izi ve Perren'in taş levhalarından birini gösterdi.
 
-"Ve doğduğun yıl," dedi, sesi artık bir hesaplama yapıyormuş gibi dikkatliydi, "Kırık Yemin Akıntısı'ydı, değil mi?"
+“Yaşlı Ozan görmeli,” dedi Lyra.
 
-Togan'ın kalbi bir an hızlandı. "Evet. Nereden bildiniz?"
+---
 
-Ozan, uzun bir süre cevap vermedi — sadece, kör gözleriyle, sanki Togan'ın içini görüyormuş gibi, ona baktı.
+Büyük Kütüphane, şehrin altında kat kat aşağı iniyordu. Togan her dönüşte havanın biraz daha soğuduğunu hissetti. Son odada yüzlerce küçük çekmece ve tek bir alçak sedir vardı.
 
-"Çünkü, o yıl, kayıtlarımıza göre, bozkırda, açıklanamayan bir olay yaşandı. Bir kadın — bir Azgut savaşçısı — kuzeye, ölü topraklara doğru, tek başına gitti, ve aylar sonra, hamile bir hâlde, geri döndü. Kimse, onun nereye gittiğini, ya da neyle karşılaştığını, tam olarak bilmiyordu."
+Yaşlı Ozan sedirde oturuyordu. Gözleri perdeyle örtülmüş kadar solgundu.
 
-Togan'ın nefesi kesildi — bir yıldır, hatta belki bir ömür boyu, hiç bilmediği bir gerçeğin kıyısına, birden, düşüyormuş gibi hissetti.
+“Yaklaş,” dedi. “Kanını değil, adımlarını dinleyeceğim.”
 
-"O kadın," diye fısıldadı, sesi titrek, "benim... benim annem miydi?"
+Togan karşısına oturdu. Sed'in Kızıl Hafta'da zayıflamasını, ışığın damarlarına girmesini ve beyaz odadaki eli anlattı. Melira'nın sesini kullanan şeyi de saklamadı.
 
-Uzun bir sessizlik oldu — ve bu sessizlik, Togan'a, herhangi bir kelimeden daha fazla şey söylüyordu.
+Ozan bir soru sordu. “Kaç yaşındasın?”
 
-"Bilmiyorum kesin olarak." Ozan'ın sesi yorgun ama dürüsttü. "Ama eğer öyleyse, genç savaşçı — eğer sen, gerçekten, o kadının çocuğuysan — o zaman, senin kanında, Verridia'nın en eski ve en tehlikeli sırlarından biri akıyor olabilir. Ve bu sır, sadece senin hayatını değil, belki de, bütün bu dünyanın kaderini de etkileyebilir."
+“Yirmi altı.”
 
-*(Bölüm sonu — Togan'ın gerçek kökeninin ilk somut ipucu. Devamı bir sonraki Togan bölümünde.)*
+“Bulunduğun oba ne zaman yakıldı?”
+
+“Kırık Yemin'den sonraki yıl.”
+
+Ozan parmaklarını sedirin kenarında gezdirdi. Çekmecelerin yerini ezbere biliyor gibiydi. Lyra'ya üç sayı söyledi. Lyra ince bir kayıt çıkarıp önüne koydu.
+
+“Kırık Yemin yılında bir Azgut kadını kuzeye yürüdü,” dedi Ozan. “Tek başına. Aylar sonra hamile döndüğü görüldü. Ardından izini kaybettik.”
+
+Togan'ın avucundaki eski yara sızladı. “Adı?”
+
+“Bu kayıtta yok.”
+
+“Çocuğu?”
+
+“Yok.”
+
+“O kadın annem miydi?”
+
+Ozan başını kaldırdı. “Bunu bilmiyorum. Yıl, yön ve kanındaki tepki birbiriyle uyuşuyor. Üç benzerlik kanıt değildir.”
+
+Togan dizlerindeki ellerini sıktı. Sed ona bir cevap vermemişti. Eski-Kent de vermiyordu. Fakat ilk kez arayabileceği bir insan vardı.
+
+“Kuzeye giden bütün kadınların kayıtlarını görmek istiyorum.”
+
+Lyra, Ozan'a baktı.
+
+“Önce senin bildiklerini kaydedeceğiz,” dedi yaşlı adam. “Sonra bizim sakladıklarımızı ne kadar taşıyabileceğine karar vereceğiz.”
+
+Togan ayağa kalkmadı. “Bir yıl boyunca kapıya yürüdüm. Birkaç çekmece daha beklerim.”
+
+Ozan'ın ağzı hafifçe kıpırdadı. “Bunu göreceğiz.”

@@ -1,64 +1,102 @@
 # Bölüm 5 — Rüzgârın Kırılışı
 *(TEMUJİN)*
 
-Kaya, dört Rüzgar-Dinleyen'le birlikte, şafak vaktinde küçük bir vadiden geçiyordu — casus çocuğun anlattığı rota, tam olarak doğru çıkmıştı. Temujin, adamlarını vadinin iki yakasındaki kayalıklara yerleştirmiş, sabırla bekliyordu.
+Çırağın verdiği rota doğru çıktı.
 
-"Beş kişi," diye fısıldadı Sube, yanında, gözleri vadiye dikili. "Dördü savaşçı, biri — Kaya, sanırım."
+Şafakta beş atlı dar vadiye girdi. Öndeki kadın çevresindeki dört Rüzgar-Dinleyen’den daha sık yamaçları kontrol ediyor, omzundaki kartal her dönüşte onunla birlikte başını çeviriyordu.
 
-Temujin, aşağıdaki grubu inceledi. Kaya'yı tarif eden casus raporları doğruydu: geniş omuzlu, sessiz hareket eden, kartalı — adı Fırtına olmalıydı — omzunda süzülen bir adam. Onun yanındaki dört Rüzgar-Dinleyen de dikkatliydi, gözleri sürekli etrafı tarıyordu; ama vadinin dar geçidi, gözetleme açısını sınırlıyordu.
+Temujin kayanın arkasından grubu inceledi.
 
-"Şimdi," diye fısıldadı Temujin, elini kaldırarak.
+“Kaya,” dedi Sube.
 
-Oklar, aynı anda, iki yönden yağdı. İlk yaylım, iki Rüzgar-Dinleyen'i anında yere serdi; ama Kaya, tıpkı Temujin'in raporlarda okuduğu gibi, inanılmaz bir refleksle, ilk oku fark eder etmez atından aşağı atlamış, kalkanını kaldırmıştı bile. Fırtına, çığlık atarak havalandı, sahibini korumak için Temujin'in okçularının üzerine dalmaya başladı.
+Casus tarifleri eksik kalmıştı. Kaya’nın geniş omuzlarını, at üstündeki dengesini anlatmışlardı; adamlarının ona bakmadan hız değiştirmesini anlatmamışlardı. Bu tür uyum emirle değil, uzun yıllarla kurulurdu.
 
-"Kartalı durdurun!" diye bağırdı Temujin, ama emri geç kalmıştı — kartal, bir okçunun yüzüne saldırdı, adam acıyla geri sendeledi.
+Temujin iki parmağını kaldırdı. Okçular yalnız kanatlardaki savaşçıları hedefleyecekti. Kaya canlı alınacaktı.
 
-Kaya, kalan iki adamıyla birlikte, kayalıkların arasına sığınmış, savunma pozisyonu almıştı bile. "Pusu!" diye bağırdı, sesi vadide yankılandı. "Geri çekilin, sığınağa!"
+Elini indirdi.
 
-Ama Temujin'in planı, tam da bu tepkiyi hesaba katmıştı. Vadinin çıkışı, çoktan kapatılmıştı — ikinci bir grup, Kaya'nın kaçış rotasını önceden kesmişti.
+İlk yaylım vadinin iki yanından geldi. Bir Rüzgar-Dinleyen atından düştü. İkinci ok ötekinin göğsüne girdi. Kaya eyerden yana kayıp kalkanını kaldırdı.
 
-Temujin, kayalıktan aşağı indi, kılıcını çekerek. Bu, uzaktan yönetilecek bir çatışma değildi artık; yakın dövüşe dönüşmüştü, ve Temujin, kendi elleriyle bu işi bitirmek istiyordu — hem stratejik bir nedenle, hem de içinde büyüyen o tuhaf, tanımlanamamış merakla.
+“Pusu!” diye bağırdı. “Geri!”
 
-Kaya, onu görünce, gözlerinde bir tanıma ışığı parladı. "Genç Kurt," dedi, sesi soluk soluğa ama sakindi. "Azgutlar'ın Sungur topraklarında ne işi var?"
+Omzundaki Fırtına havalandı. Kartal ilk okçunun yüzüne inerken kanadından bir ok sıyırdı; tüyler havada dağıldı. Yine de dönüp ikinci kez saldırdı.
 
-"Gözlerinizi kapatmak," dedi Temujin, kılıcını hazır tutarak. "Geçici olarak. Kalıcı değil, eğer akıllıca davranırsan."
+Kaya kalan iki savaşçıyla kayaların arasına çekildi. Vadinin çıkışına vardıklarında Sube’nin kolunu karşılarında buldular.
 
-Kaya'nın yüzünde acı bir gülümseme belirdi. "Akıllıca davranmak, teslim olmak mı demek şimdi?"
+Temujin adamlarını yamaçtan indirdi. Kaya’nın kaçacak yolu kalmamıştı; buna rağmen kılıcını iki eliyle tuttu.
 
-"Teslim olmak, hayatta kalmak demek." Temujin'in sesi düzdü. "Adamların öldü zaten. Kartalın yaralı. Kaçış yolun kapalı. Bu durumda ölmek, sadece bir gurur meselesi olur — ve ben, gurur uğruna ölen adamları hiç anlamadım."
+“Genç Kurt,” dedi. Onu tanımıştı. “Korgan’ın köpekleri artık gece mi avlanıyor?”
 
-Kaya, bir an, çevresindeki durumu değerlendirdi — iki yaralı adamı, kapalı çıkışı, ve Temujin'in ordusunun sayısal üstünlüğünü. Ama Sungur eğitimi, teslimiyeti kolayca kabul etmezdi.
+“Bugün beşinizi bekledik.”
 
-"Han'ıma ihanet etmektense," dedi, sesi kararlı, "burada ölürüm."
+“İkisini öldürdün.”
 
-"Han'ına ihanet etmeni istemiyorum." Temujin'in sesinde, beklenmedik bir şekilde, bir sabır vardı. "Sadece, bugün ölmeni istemiyorum. Bir esir, bana canlı bir Sungur'dan çok daha fazlasını anlatabilir — ölü bir kahramandan değil."
+“Üçünüzü öldürmeden bitirmek istiyorum.”
 
-Kaya, ona uzun bir süre baktı, sonra, bir karar anının ağırlığıyla, kılıcını hafifçe indirdi — ama tam olarak bırakmadan. "Adamlarımın hayatı karşılığında mı?"
+Kaya yaralı adamlarına baktı. Biri kolunu tutuyor, öteki bacağındaki okun üstüne basamıyordu. Fırtına vadinin üstünde dengesiz bir çember çiziyordu.
 
-"Adamların zaten öldü, Rüzgar-Dinleyen. Yaşayan sadece sen ve şu ikisi." Temujin, kayalıkların arasında sığınan iki yaralı savaşçıyı işaret etti. "Onların hayatı, senin teslimiyetine bağlı, evet."
+“Bizi neden canlı istiyorsun?”
 
-Uzun bir sessizlik oldu. Kaya'nın gözleri, yaralı adamlarına kaydı, sonra Temujin'e döndü. "Onlara zarar vermeyeceğine söz ver."
+“Kartal ağını öğrenmek için.”
 
-"Söz veriyorum." Temujin'in sesi, garip bir şekilde, dürüst çıktı. "Ben katliam yapan biri değilim, Rüzgar-Dinleyen. Sadece, kazanmak istediğim bir savaşım var."
+“Anlatmayacağız.”
 
-Kaya, uzun bir an daha bekledi, sonra kılıcını yere bıraktı — bir yenilginin değil, hesaplı bir hayatta kalışın hareketiyle.
+“O zaman esir olarak değeriniz azalır. Yaşama hakkınız değil.”
 
----
+Kaya’nın ağzı küçümsemeyle büküldü. “Toygun’a da böyle mi söyledin?”
 
-Kaya'yı bağladıklarında, yaralı Fırtına'yı da yanlarına aldılar — kartal, sahibinden ayrılmayı reddederek, acı içinde de olsa peşlerinden geldi. Temujin, bu sadakati izlerken, garip bir şekilde etkilendi; bozkırda, insan ve hayvan arasındaki bu türden bağlar, ona her zaman saygı uyandırırdı.
+Temujin bu ismin ona ulaşma hızını not etti. “Toygun’un seçimi başkaydı.”
 
-"Nereye götürüyorsun beni?" diye sordu Kaya, atının üzerinde, elleri bağlı.
+“Ölülerin seçimleri hep başkadır.”
 
-"Şimdilik, güvenli bir yere." Temujin'in sesi ölçülüydü. "Sana ne olacağı, verdiğin bilgilere ve Korgan'ın kararına bağlı. Ama bir şey söyleyeyim, Rüzgar-Dinleyen — seni öldürmek benim işime yaramaz. Yaşarsan, benim için daha değerlisin."
+Temujin kılıcını çekmedi. Vadiye inen adamları yeterliydi. “Silahını bırakırsan yaralıların tedavi edilecek. Fırtına’ya da dokunulmayacak.”
 
-Kaya, bu sözlere cevap vermedi, ama gözlerindeki hesap, Temujin'in gözünden kaçmadı — bu adam, esir düşse bile, pes etmiş değildi.
+Kartal adını duyunca yeniden çığlık attı.
 
-Sube, yanına geldi, sesi endişeliydi. "Bu kaçırma, Han'ım tarafından beklenmedik olabilir. Bir Rüzgar-Dinleyen komutanını canlı yakalamak, sıradan bir istihbarat operasyonunun ötesinde bir şey."
+“Sözün Korgan’ın çadırına kadar yaşar mı?” diye sordu Kaya.
 
-"Biliyorum." Temujin'in sesi düşünceliydi. "Ama Korgan, sonuçları görünce memnun olacak. Kartal ağı kör oldu, düşmanın en değerli isimlerinden biri elimizde. Bu, benim adımı bir kez daha büyütecek."
+“Benim adamlarımın arasında yaşar. Sizi önce kendi kampıma götürüyorum.”
 
-Ama Temujin'in içinde, bu zaferin altında, garip bir huzursuzluk da vardı — Kaya'nın gözlerindeki o sarsılmaz sadakat, ona bir şeyi hatırlatıyordu; belki de kendi hesaplı, sabırlı hırsının hiçbir zaman tam olarak anlayamayacağı bir şeyi.
+Kaya iki yamaçtaki okçuları, kapanmış çıkışı ve yerde yatan savaşçıları saydı. Ölürse haber ağı başsız kalacak, yanındaki iki kişi de onunla birlikte ölecekti.
 
-Vadiden uzaklaşırlarken, Yeva'nın sözleri kulaklarında yankılandı yeniden: tehlike her yönden gelebilir. Bu zafer, ona güç kazandırmıştı, evet — ama aynı zamanda, bilmediği bir şeyin de kapısını aralamış olabilirdi.
+Kılıcını yere bıraktı.
 
-Sungurlar, en yetenekli komutanlarından birini kaybettiklerini öğrendiğinde, sadece savunmaya çekilmeyeceklerdi. İntikam isteyeceklerdi. Ve Temujin, bu intikamın nereye, kime yönleneceğini henüz bilmiyordu.
+“Önce onların yarasını sarın.”
+
+Temujin Sube’ye işaret verdi. Genç Kurtlar iki yaralıya yaklaştı. Kaya ellerini kendi isteğiyle arkasına götürdü.
+
+“Bağı sıkı vur,” dedi onu bağlayan askere. “Kaçarsam seni öldürür.”
+
+Asker Temujin’e baktı. Temujin başını salladı.
+
+✦
+
+Vadiden ayrılırken iki ölüyü taşlarla örttüler. Yaralı Sungurlar yedek atlara bağlandı. Kaya kendi atında, elleri önde bağlı gidiyordu. Fırtına’nın kanadı kanamayı bırakmıştı; kartal bazen atın terkisine konuyor, bazen alçaktan sürüyü izliyordu.
+
+“Nereye?” diye sordu Kaya.
+
+“Batıdaki geçici kampa.”
+
+“Sonra Korgan’a.”
+
+“Buna Korgan karar vereceğini sanıyor.”
+
+Kaya ilk kez dikkatle ona baktı. Temujin söylediği cümlenin fazlasını açmadı.
+
+Sube atını yanına sürdü. “Han bu kadar büyük bir esir beklemiyordu.”
+
+“Sonucu bekliyordu.”
+
+“Kaya’yı öldürmek isteyebilir.”
+
+Temujin öndeki esire baktı. Kaya yolun taşlarını, nöbet düzenini ve adamların yüzlerini ezberliyordu. Bağlıyken bile bilgi topluyordu.
+
+“Ölü bir Rüzgar-Dinleyen yalnız intikam üretir,” dedi. “Canlı olanı bilgi, pazarlık ve zaman üretir.”
+
+“Korgan bunu kabul etmezse?”
+
+“Ona kabul edeceği hesabı gösteririz.”
+
+Temujin bir haberciyi Büyük Ordugâh’a gönderdi. Mesajında iki gözetleme noktasının uyarıldığını yazmadı. Kaya’nın sağ ele geçirildiğini ve batı kartal ağının komutasız kaldığını yazdı.
+
+Bir zaferin nasıl anlatıldığı, bazen nasıl kazanıldığından daha uzun yaşardı.

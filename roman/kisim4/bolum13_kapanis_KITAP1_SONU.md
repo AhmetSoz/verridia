@@ -1,36 +1,72 @@
-# Bölüm 13 — Sönen Ateş, Yeni Şafak
-*(KAPANIŞ — TOGAN / TEMUJİN / KARİA / ZALEENA — 1. KİTABIN SONU)*
+# Bölüm 13 — Dört Kayıt
+*(KAPANIŞ: TOGAN / TEMUJİN / KARIA / ZALEENA)*
 
-Kızıl Hafta bitti. Tek Göz, gökyüzünde, yavaşça, eski beyazlığına döndü; ve Verridia, bir kez daha, bir sonraki yirmi sekiz yılın sessiz, gergin bekleyişine girdi.
+Kızıl Hafta'nın ardından deniz kıyılara ölü yosun, kırık gemiler ve işlenecek servet bıraktı. Karada ordular yaralılarını saydı. Kaos Mevsimi başladı.
 
-Ama bu Akıntı, geride, öncekilerden farklı bir iz bıraktı — dört insanın hayatında, dört ayrı ucunda kıtanın, bir şeyler, geri dönüşü olmayan bir şekilde değişmişti.
+**Eski-Kent Yolu**
+
+Togan, yol taşındaki oyulmuş kitabı parmaklarıyla temizledi. Altındaki ok güneydoğuyu gösteriyordu. Perren on bir yıldır ilk kez Mirasçı işaretinin önünde duruyordu.
+
+“Kaç gün?” diye sordu Togan.
+
+“Yürüyüşümüze bağlı.”
+
+“Eski bilgin cevabı?”
+
+“On iki.” Perren çuvalını omzuna aldı. “Ayaklarımın cevabı on altı.”
+
+Togan batıdaki bozkır yoluna son kez baktı. Sonra Eski-Kent okunu izledi.
+
+**Sungur Vadisi**
+
+Antlaşmanın bir kopyası Börü'nün, biri Korgan'ın, biri Temujin'in elindeydi. Kaya dördüncü kopyayı istemişti.
+
+“İki Han da sözünü unutursa?” diye sordu Temujin.
+
+“Onlara okurum.”
+
+“Dinlemezlerse?”
+
+Kaya deriyi Fırtına'nın eyer çantasına yerleştirdi. “O zaman daha yüksek sesle okurum.”
+
+Vadiden yükselen ilk ortak ateşin çevresinde Azgutlarla Sungurlar ayrı halkalar kurmuştu. Aralarında bir mızrak boyu boşluk vardı. Temujin o boşluğu zafer saymadı. Yalnız başlangıç saydı.
+
+Korgan karşı ateşten onu izliyordu.
+
+**Metheris**
+
+Theodoric'in tabutu denize indirilirken Karia taç takmadı. Kralın verdiği çizik yüzük sağ elindeydi.
+
+Su tabutu alınca limandaki bütün çanlar bir kez vurdu. Ardından işçiler ambarlara, tayfalar gemilerine döndü. Yas, şehri beslemiyordu; düzen besliyordu.
+
+Karia sarayda ikinci fermanını açtı. Başlığına “Kaos Mevsimi Erzak Hesabı” yazdı. Vorlag'ın gönderdiği ilk itiraz kâğıdı masasında onu bekliyordu.
+
+Mührü kurumadan çalışmaya başladı.
+
+**Yamalı Liman**
+
+Yeni direk batık kalyonun güvertesine dikildi. Hangi bayrağın çekileceği belli olmadığı için tepesinde yalnız boş bir halat sallanıyordu.
+
+Zaleena, yirmi kaptanın önerilerini kayıt altına aldı. Beşi birbirinin aynısıydı. Üçü açıkça Roric'in eski işaretini taklit ediyordu. Draven sonunda boş bir bez getirdi.
+
+“Karar veremedim,” dedi.
+
+“İlk dürüst tasarım bu olabilir.”
+
+Roric uzaktan güldü. Zaleena boş bezi ötekilerin yanına koydu. Bayrağın aceleyle doğmasına izin vermeyecekti.
 
 ---
 
-**Solgun Bozkırlar'ın güneyinde**, Togan, Perren'le birlikte, Eski-Kent'e doğru yürüyordu — arkasında, Işık Seddi, bir soru işareti olarak, sessizce bekliyordu; önünde, kendi kanının, kendi kimliğinin gizemi, çözülmeyi bekleyen bir düğüm gibi duruyordu. Kaya'yı, Börü'yü, Melira'yı hâlâ düşünüyordu her gün — ama artık, bu düşünceler, sadece bir yasın değil, bir amacın da parçasıydı.
+Üç gün sonra Granit geçidindeki bir Mirasçı ulak, Eski-Kent'e gidecek posta katırına dört deri çanta yükledi.
 
-**Büyük Ordugâh'ta**, Temujin, artık, sadece bir "Genç Kurt" değildi — Sungurlar'ı, kanla değil akılla teslim almış bir savaş-lordu, Korgan'ın gölgesinde büyüyen, ama artık, o gölgeden taşmaya başlayan bir isim. Kaya, özgürce, klanına dönmüştü — ama Temujin, onun arkadaşlığını, garip bir şekilde, hâlâ özlüyordu. Ve Yeva'nın kehaneti, hâlâ, tam olarak çözülmemiş bir şekilde, zihninin bir köşesinde bekliyordu.
+Birinde Işık Seddi'nin Kızıl Hafta'da verdiği bilinmeyen tepkiye dair kuzey raporları vardı. İkincisi Azgut-Sungur antlaşmasını taşıyordu. Üçüncüsünde Hegemonya'nın yeni kraliçesinin mührü, dördüncüsünde Yamalı Liman'da yapılan seçimle ilgili tüccar kayıtları bulunuyordu.
 
-**Metheris'te**, Karia, artık, Kraliçe'ydi — Tuzlu Taht'ın yeni sahibi, halkının sevgisini kazanmış, düşmanlarını (en azından şimdilik) susturmuş bir lider. Ama önünde, sonsuz sayıda yeni sınav bekliyordu; ve o, bunu biliyordu, çünkü bir tahtın, hiçbir zaman, gerçekten güvende olmadığını, denizde geçirdiği yıllar ona öğretmişti.
+Ulak çantaların içini bilmiyordu. Yalnız ağırlıklarını deftere yazdı.
 
-**Yamalı Liman'da**, Zaleena, artık, sadece Sessiz Zaleena değildi — Enkaz Kraliçesi, bir bayrağın, bir düzenin, kalıcı bir geleceğin mimarı. Roric, yanında, eski bir düşmandan, yeni bir müttefike dönüşmüştü. Ve deniz, hâlâ, derinliklerinde, çözülmemiş tehditler saklıyordu.
+Posta katırı aynı akşam Eski-Kent yolunda Togan ile Perren'in yanından geçti. Togan hayvana yol vermek için kenara çekildi. Dört mühürlü çanta omzuna değecek kadar yakınından geçti.
 
----
+Yollar henüz birleşmemişti.
 
-Dört insan. Dört taç, dört yük, dört yara. Hiçbiri, hâlâ, birbirinin varlığından, tam anlamıyla haberdar değildi — Togan, Temujin'in adını bilmiyordu; Temujin, Togan'ın Sed'e ulaştığını bilmiyordu; Karia ve Zaleena, birbirlerinin taçlarından habersizdi.
-
-Ama Verridia'nın kaderi, tıpkı Kızıl Akıntı'nın kendisi gibi, hiçbir zaman, bireysel hikâyelerin toplamından ibaret değildi. Görünmez bir dokumacının elinde, dört iplik, yavaş yavaş, birbirine yaklaşıyordu — bir Rüzgar-Dinleyen'in özgürlüğü, bir kanın sırrı, bir tacın ağırlığı, bir bayrağın doğuşu.
-
-Ve kuzeyde, Işık Seddi'nin ardında, hiç kimsenin bilmediği bir diyarda, bir şey — ya da birileri — bu dört ipliğin, ne zaman, nasıl bir araya geleceğini, sabırla, sonsuz bir sabırla, izliyordu.
-
-Beklenti Yılı, sona ermişti. Sakin Yıllar, bir kez daha, başlıyordu — yirmi sekiz yıllık yeni bir döngü, yeni ittifaklar, yeni ihanetler, yeni aşklar ve yeni savaşlarla dolu.
-
-Ama bu sefer, dünya, eskisinden farklıydı. Çünkü bu sefer, dört insan, kendi küçük hikâyelerinin, aslında, çok daha büyük bir hikâyenin parçası olduğunu, yavaş yavaş, öğrenmeye başlamıştı.
-
-Ve bu, sadece başlangıçtı.
+Aralarındaki mesafe artık bir adımdı.
 
 *(BİRİNCİ KİTAP SONU)*
-
----
-
-*Yazarın notu (seri kutusuna): 1. Kitap, 4 Kısım ve 48 bölümden oluşuyor — Togan, Temujin, Karia, Zaleena'nın kökenlerinden, kendi taçlarına/amaçlarına ulaştıkları ana kadar. 2. Kitap'ın açılışında ele alınması gerekenler: (1) Togan-Perren'in Eski-Kent yolculuğu ve Mirasçılar'la ilk temas, (2) Temujin'in Korgan'la büyüyen çatışması ve olası bir Kırıcı Yargı meydan okuması, (3) Karia'nın yeni krallığının ilk dış politika sınavı (muhtemelen Delta ya da bozkırla), (4) Zaleena'nın Yamalı Liman'ı gerçek bir "devlet" hâline getirme projesi ve Delta ittifakının derinleşmesi. Fiziksel POV kesişmeleri için en olgun zemin: Togan'ın Eski-Kent'teki araştırması sırasında Sungur/Azgut savaşının sonuçlarını öğrenmesi (Kaya'yla yeniden bağlantı ihtimali), ve/veya Karia ile Zaleena'nın diplomatik/ticari bir nedenle ilk kez aynı sahnede buluşması.*

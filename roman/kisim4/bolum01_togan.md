@@ -1,44 +1,76 @@
 # Bölüm 1 — İlk Gelgit
-*(TOGAN — Kızıl Hafta, 1. Gün)*
+*(TOGAN: Kızıl Hafta, 1. Gün)*
 
-Togan, o sabah uyandığında, önce neyin değiştiğini tam olarak anlayamadı — sadece, havanın, bir şekilde, daha ağır, daha yüklü hissettirdiğini fark etti.
+Togan uyandığında belindeki ip gerilmişti.
 
-Sonra, gökyüzüne baktı, ve anladı.
+Ayakları sığınağın dışındaydı. Sağ eli hâlâ kaya halkasına bağlıydı. Sol eli, parmak uçları toprağı kazımış hâlde Şafak Kapısı'na uzanıyordu.
 
-Tek Göz, ufukta, hâlâ alçakta asılıydı — ama yüzeyi, ilk kez, gözle görülür bir şekilde, kızıla dönmeye başlamıştı. Bu, uzaktan izlediği o soluk leke değildi artık; bu, ayın kendisiydi, kanla boyanmış gibi.
+Perren ipin üstüne oturmuş, iki ayağını duvara dayamıştı.
 
-"Başladı," dedi Perren, yanında, sesi hem korku hem de yıllardır beklediği bir anın heyecanıyla titriyordu. "İlk Gelgit. Kızıl Hafta başladı, Togan."
+“Ne zamandır yürüyorum?” diye sordu Togan.
 
-Togan, bu sözleri duyduğunda, içinde, garip bir karışım hissetti — bir yıllık yolculuğunun, sonunda, gerçek sınavına ulaştığını bilmenin verdiği bir aciliyet, ve aynı zamanda, bilmediği bir şeyin eşiğinde olmanın verdiği çıplak bir korku.
+“Üç nefes kadar. Bana üç yıl gibi geldi.”
 
-Uzakta, Işık Seddi, her zamankinden farklı görünüyordu — ışığı, sanki nabız gibi, hafifçe titreşiyordu, düzenli aralıklarla parlaklaşıp soluklaşarak.
+Togan dizlerinin üzerine kalktı. Beyaz odanın görüntüsü hâlâ gözlerindeydi. Bu kez iskemle boş değildi. Üzerinde oturanın yüzü ışığın arkasında kalmıştı; yalnızca omuzlarını görmüştü.
 
-"Duvar da hissediyor bunu," dedi Perren, gözleri duvara dikili, sesi bir fısıltıya dönüşmüştü. "Yıllardır izliyorum, ve hiç bu kadar net görmemiştim onu tepki verirken."
+Dışarı çıktıklarında Tek Göz ufukta kızıl asılıydı. Yıldızların hiçbiri görünmüyordu. Sed'in ışığı düzenli aralıklarla güçlenip sönüyor, her parlayışta gri toprak bir anlığına kemik beyazına dönüyordu.
+
+“İlk Gelgit,” dedi Perren.
+
+Dikilitaşın önündeki tas boştu. Su gece içinde taşın kenarına doğru yürümüş, ince bir çizgi hâlinde kuzey yüzüne tırmanmıştı.
+
+Togan parmağını ıslaklığa değdirdi. Su aşağı akmak yerine tırnağı boyunca yukarı çıktı.
+
+“Bunu daha önce gördün mü?”
+
+“Son Akıntı'da burada değildim.” Perren taş levhasına işaret koydu. “Bu kez gördüğümüz her şey ilk.”
 
 ---
 
-Öğleye doğru, ölü topraklarda, garip bir hareketlilik başladı — Togan, uzaktan, denizin, normalde sakin olan kuzey kıyısının, şimdi huzursuzca köpürdüğünü gördü. Sular, olağandışı bir şekilde çekiliyor, sonra tekrar yükseliyordu, sanki dünyanın kendisi nefes alıyormuş gibi.
+Öğle vakti uzaktaki kuzey kıyısının suyu çekildi. Deniz tabanı fersahlarca açığa çıktı. Siyah kayaların arasında soluk yosun damarları parlıyor, bazıları karaya ulaşmaya çalışır gibi kıvrılıyordu.
 
-"Bu normal mi?" diye sordu Togan, endişeyle.
+Burkut, Togan'ın kolundan havalandı. Kıyı yönünde yarım çember çizdi ve hemen geri döndü. Konarken tüylerini kabarttı.
 
-"Kızıl Akıntı'nın kendisi," dedi Perren, sesi bilgiççe ama gergindi. "Gelgitler, bu hafta boyunca, vahşice davranır. Ama burada, Sed'in bu kadar yakınında... hiç kimse bu kadar yakından izlememiştir bunu, Togan. Belki de biz, ilk kez, bunun burada nasıl göründüğünü öğreniyoruz."
+Togan havayı kokladı. Tuzun altında demir ve ıslak toprak kokusu vardı. Bozkırdaki kızıl sellerden önce de buna benzer bir koku gelirdi.
 
-Togan, bu düşünceyle, hem bir merak hem de derin bir tedirginlik hissetti. Kendi klanında, Kızıl Hafta, uzak bir tehdit olarak yaşanırdı — bozkırda, deniz yoktu, sadece kızıl seller ve azgınlaşan yaratıklar. Ama burada, dünyanın en kuzey ucunda, bu hafta, çok daha ilkel, çok daha ham bir şekilde kendini gösteriyordu.
+“Sed bugün zayıfladı mı?”
+
+Perren ışığı ölçmek için yere sapladığı üç bronz çubuğu kontrol etti. Gölgelerin boyunu işaretlemişti. “Hayır. Yalnızca düzensizleşti. Üçüncü güne kadar bekleyeceğiz.”
+
+“Kapının önünde beklemekten başka ne yapacağız?”
+
+“Hayatta kalacağız.”
+
+Söz biter bitmez açık deniz tabanında bir şey kıpırdadı. Dört bacaklı, yosun kaplı bir yaratık çamurdan doğruldu. Işığa doğru iki adım attı; sonra derisi duman çıkararak yeniden çöktü.
+
+Perren yeni bir işaret koydu. Eli titremişti.
 
 ---
 
-Akşam çökerken, Togan, bir kez daha, o tanıdık rüyayı gördü — beyaz oda, boş iskemle. Ama bu sefer, rüya, her zamankinden daha net, daha ısrarcıydı; ve uğultu, ilk kez, neredeyse anlaşılabilir bir ritme sahipti, sanki bir kelimenin, tekrar tekrar, ama hiçbir dilde söylenmemiş bir kelimenin yankısı gibi.
+Gece aynı rüya ikisini de aldı.
 
-Togan, terler içinde uyandığında, Perren'in de, yakınında, huzursuzca kıpırdandığını gördü — münzevi de aynı rüyayı görmüş olmalıydı.
+Togan beyaz odada iskemlenin arkasındaydı. Perren kapının yanında duruyordu. İkisi birbirini görebiliyor ama ses çıkaramıyordu. İskemledeki kişi başını Togan'a çevirdi.
 
-"Her gece daha kötü oluyor," dedi Perren, sesi yorgun. "Kızıl Hafta ilerledikçe, rüya da güçleniyor. Sanki... sanki bir şey, bize daha yakınlaşıyor."
+Göğsünün içinde üç ağır vuruş duydu.
 
-Togan, elini, göğsüne, kalbinin üzerine koydu — garip bir şekilde, orada, derinlerde bir yerde, bir titreşim hissediyordu, tıpkı duvarın ışığının titreşimi gibi. Bu, ona hiç tanıdık olmayan bir histi, ama aynı zamanda, garip bir şekilde, hiç yabancı da değildi — sanki bedeninin bir parçası, bu titreşimi zaten biliyormuş gibi.
+Uyandığında Perren de oturmuştu. Burnundan kan geliyordu.
 
-"İyi misin?" diye sordu Perren, onun yüzündeki ifadeyi fark ederek.
+“Sen de oradaydın,” dedi Togan.
 
-"Bilmiyorum," dedi Togan, sesi belirsiz. "Bir şey hissediyorum. İçimde. Ama ne olduğunu söyleyemem."
+“Kapının yanındaydın.”
 
-Perren, ona uzun bir süre baktı, gözlerinde bir merak, belki de bir şüphe parladı — ama hiçbir şey söylemedi, sadece başını salladı, ve ikisi de, yeniden, duvara, o titreşen ışığa baktılar.
+“Hayır. İskemlenin arkasındaydım.”
 
-Kuzeyde, dünyanın en ucunda, İlk Gelgit'in gecesinde, Togan, ilk kez, kendi bedeninin, bu yaklaşan fırtınayla, bir şekilde, çoktan bir bağı olduğunu sezdi — ama bu sezginin ne anlama geldiğini anlamak için, henüz altı günü daha vardı.
+İkisi sustu. Aynı odayı görmüşlerdi fakat odanın onları koyduğu yer aynı değildi.
+
+Togan avucunu göğsüne bastırdı. Sed parladığında kalbi onunla birlikte vurdu. Işık söndüğünde bir vuruşu atladı.
+
+Perren, Togan'ın bileğini tutup nabzını saydı. Sonra elini çekti.
+
+“Bunu kayda geçirmeyeceğim,” dedi.
+
+“Neden?”
+
+“Çünkü önce ne olduğunu anlamak istiyorum.”
+
+Togan yeniden kapıya baktı. Beklemek artık yalnız sabır gerektirmiyordu. Bedeninin kendisine ait kalıp kalmayacağını da bilmiyordu.

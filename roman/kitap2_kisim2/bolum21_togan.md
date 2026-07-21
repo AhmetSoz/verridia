@@ -1,50 +1,40 @@
 # Bölüm 21 — Yeni Kulaklar
 *(TOGAN)*
 
-Börü, Togan'ı, kendi çadırında, uzun bir kucaklaşmayla karşıladı — yıllarca hükmeden bir Han'ın, artık, eskisi kadar hızlı hareket etmeyen ama hâlâ, gerçek bir sıcaklık taşıyan kucaklaşması.
+Börü, Togan'ı yaralı omzuyla sıkıca kucakladı. Sonra Sed'de ne olduğunu sormadı. Önce Melira'nın yasını, Perren'in dönüşünü ve yolda kimi kaybettiklerini dinledi.
 
-"Seni, bir daha, görmeyi düşünmemiştim, açıkçası," dedi Börü, omzunu, sertçe sıkarak. "Ama işte, buradasın — ve garip bir şekilde, farklı görünüyorsun, Togan. Daha ağır. Daha sakin."
+Togan ancak gece yeni duyusunu Temujin'e anlattı.
 
-Togan'ın sesinde, bütün yolculuğun ağırlığı vardı. "Çok şey öğrendim."
+"Kötü niyeti okuyamam," dedi. "İnsanların aklına da giremiyorum. Sed ve Akıntı'yla değişmiş şeyler çevremde bir uğultu bırakıyor. Kar-Yılan'ın bıçağında böyle bir iz olabilir."
 
----
+Temujin onu mahkûmun tutulduğu ağıla götürdü. Kapıya yaklaştıkça Togan'ın azı dişleri sızladı. İçerideki bıçak çoktan alınmıştı.
 
-Temujin'in durumunu, ayrıntılarıyla öğrendiğinde — Kar-Yılan'ın yakalanması, Korgan'ın devam eden tehdidi — Togan, doğal bir içgüdüyle, yardım etmek istedi.
+"Başka metal var," dedi.
 
-"Sed'de," dedi Togan, Temujin'e, kampın kenarında, sessizce yürürlerken, "kanımı, daha iyi kontrol etmeyi öğrendim. Bunun, tam olarak ne işe yarayacağını bilmiyorum. Ama belki, tehlikeyi, daha erken hissedebilirim — diğerlerinden önce."
+Sube hücreyi aradı. Hasırın altında, taş zemine sürtülerek inceltilmiş bir yatak çivisi buldu. Duvar ipinin yarısı kesilmişti.
 
-Temujin, bu teklife, dikkatle karşılık verdi. "Nasıl bir his bu?"
+Kar-Yılan kaçışa bir gece uzaktı.
 
-Togan, düşünceli bir sesle karşılık verdi. "Bilmiyorum, tam olarak nasıl tarif edeceğimi. Ama Dişsiz Ağız'da, bir yaratıkla karşılaştığımda, zayıf noktasını, sanki, biri bana fısıldıyormuş gibi hissettim. Belki, benzer bir şey, insanlar için de işe yarar — kötü niyeti, bir şekilde, hissetmek."
+"Nasıl bildin?" dedi Sube.
 
----
+Togan çiviyi eline alınca bileğindeki çizgi yandı. "Bu metal Akıntı karışımıyla sertleştirilmiş. Sed'deki ses ona tutunuyor."
 
-O gece, Togan, kampın çevresinde, sessizce yürüdü, gözlerini kapatıp, Sed'de öğrendiği o garip farkındalığı, dikkatle dinleyerek.
+Temujin hemen her silahı ona taratmayı önerdi. Togan reddetti.
 
-İlk başta, hiçbir şey hissetmedi — sadece, rüzgâr, ateşlerin çıtırtısı, uzaktaki hayvanların sesleri.
+"Bir kez kullandım, başım şimdiden ağrıyor. Ayrıca beni kapı önünde koklayan köpek yapmayacaksınız."
 
-Ama sonra, kampın kuzey ucunda, garip bir yoğunluk hissetti — tam olarak korku değil, ama huzursuzluk, gerginlik, bir şeyin, yanlış olduğuna dair, belirsiz bir işaret.
+"Hayat kurtarabilir."
 
-"Orada," dedi Togan, Sube'ye, sesi alçak, kuzey ucunu işaret ederek. "Bir şey var."
+"Her hayatı tek yöntemle kurtaramazsın. Sube arama yapmasaydı his hiçbir işe yaramazdı."
 
----
+Temujin itirazını geri çekti. Kaçış girişimi meclise bildirildi, nöbet düzeni değiştirildi. Togan'ın yeteneği ise yalnız Kaya, Börü, Sube ve Temujin arasında kaldı.
 
-Sube'nin gözcüleri, dikkatle araştırdığında, gerçekten, bir şey buldular — Kar-Yılan'ın, kendi hücresinden, ustaca bir şekilde, kaçmaya çalıştığının izleri; ip, dikkatle aşındırılmış, neredeyse tamamlanmış bir kaçış planı.
+Akşam baş ağrısı arttı. Kaya alnına soğuk bez koyarken çocukluğundaki gibi söyleniyordu.
 
-"Nasıl bildin?" diye sordu Sube, şaşkınlıkla, Togan'a.
+"Eve döneli iki gün oldu, yine kendini yaraladın."
 
-Togan, dürüstçe karşılık verdi. "Bilmiyorum, tam olarak. Sadece... hissettim."
+"Bu kez kılıçla değil."
 
-Temujin, bu olaya, derin bir düşünceyle baktı. "Senin bu 'hissin,' Togan, çok değerli olabilir — sadece bugün için değil, gelecekte de."
+"Büyük gelişme."
 
-"Belki," dedi Togan, yavaşça. "Ama bunu, bir silah olarak değil, bir uyarı sistemi olarak düşünmeyi tercih ederim. Işıyan, bana, bunu, dikkatle kullanmam gerektiğini söylemişti."
-
----
-
-Kar-Yılan, sıkı bir gözetim altına alındıktan sonra, Temujin, Togan'a, gerçek bir minnetle döndü.
-
-"Bu kampta, sadece birkaç haftadır, ama zaten, hayatımı kurtardın, Togan — dolaylı olarak."
-
-Togan'ın gülümsemesi hafifti. "Belki de bu, kaderin bir cilvesidir. Sen, Kaya'yı kurtardın. Şimdi, ben, seni kurtarıyorum — belki de, borç, aslında, iki taraflı bir şeydir."
-
-İki adam, ateşin başına dönerken, Togan, içinde, garip bir huzur hissetti — Sed'in ağırlığı, hâlâ oradaydı, ama şimdi, en azından, bu ağırlığın, bir amaca hizmet ettiğini görebiliyordu.
+Togan güldüğünde ağrı şakağına vurdu. Yeni kulağı işe yarıyordu. Sınırını unuttuğu anda onu sağır bırakabilecek kadar da sertti.

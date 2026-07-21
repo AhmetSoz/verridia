@@ -1,44 +1,32 @@
 # Bölüm 17 — İlk Dönüş
 *(TOGAN)*
 
-Togan, Sed'e, ikinci kez giderken, ilk yolculuğun korkusunu taşımıyordu — bu sefer, bir keşif değil, bir bakım yolculuğuydu, dikkatle planlanmış, kısa tutulmuş.
+Üç aylık çizelgede belirtiler ikinci ay artmış, Sed'e yaklaştıkları yolun son dört gününde azalmıştı. Togan bunu sonuç değil, ilk veri saydı.
 
-Perren, yine, yanındaydı — ama bu kez, sadece ikisi, hızlı ve hafif, iki haftalık bir gidiş-dönüş için hazırlanmışlardı.
+Perren'le duvara vardıklarında beş ad sınamasını yaptılar. Togan hepsini bildi. Baş ağrısı hafifti; sol bileğindeki ışık ise kendiliğinden sönmüştü.
 
-"Nasıl hissediyorsun?" diye sordu Perren, ölü topraklara yaklaşırlarken.
+Kapıyı açıp İşleyiş'e yalnız bir saatliğine girdi. Yaşlı Işıyan onu merkeze çağırdı, fakat Togan reddetti.
 
-"Garip," dedi Togan, dürüstçe. "Sanki, eve dönüyormuşum gibi — ama bu, benim gerçek evim değil."
+"Bağı yeniden ayarlamanı istemiyorum. Yalnız burada bulunmanın etkisini ölçeceğim."
 
----
+Işıyan buna şaşırdı. Togan ilk halkada oturdu, hiçbir yönlendirme kabul etmeden yankıyı dinledi. Sesler önceki gelişindeki kadar saldırgan değildi. Bir saat sonra dışarı çıktı.
 
-Sed'in kapısı, Togan'ın elini, tekrar, soğuk yüzeye koymasıyla, aynı kolaylıkla açıldı — yaşlı Işıyan, sanki, onu bekliyormuş gibi, hemen belirdi.
+Perren adları yeniden sordu. Beşi de yerindeydi. Baş ağrısı kaybolmuştu.
 
-Işıyan'ın sesi, memnun bir tanışıklıkla çıktı. "Döndün. Ozan'ın teorisi, doğru çıktı, görüyorum."
+"İşe yaradı," dedi Perren.
 
-"Doğru muydu, gerçekten?" diye sordu Togan.
+"Bugün. Nedenini bilmiyoruz."
 
-"Deneyelim," dedi Işıyan, elini, Togan'ın göğsüne koyarak. Aynı o tanıdık, yoğun farkındalık, bir kez daha, Togan'ın bedenine yayıldı — ama bu sefer, daha kısa, daha yumuşak bir süreçti.
+Sed'in dışındaki taşta geliş tarihini ve belirtileri kazıdılar. Bir sonraki dönüş için doksan günlük üst sınır belirlediler. Unutma ya da kızıl alev tekrarlanırsa daha erken geleceklerdi. Her ziyarette içeride geçirilen süre aynı tutulacaktı.
 
----
+Togan ayrılmadan Işıyan'a Ayla'nın mezarını sordu. Varlık, onun İşleyiş'ten çıkıp doğduğu topraklara yöneldiğini doğruladı; sonrasını bilmiyordu.
 
-Süreç bittiğinde, Işıyan konuştu. "Dengen, yeniden ayarlandı. Ama fark ettim — kendi disiplinin, kendi kontrolün, önceki zamandan, çok daha güçlü. Sen, kendi başına, öğreniyorsun, genç kan-taşıyıcı."
+Bu bilgi teselli kadar boşluk da bıraktı. Ayla'nın kendisine dönmek istediğini biliyor, nerede öldüğünü yine bilmiyordu.
 
-Bu övgü, Togan'ın içinde, gerçek bir gurur uyandırdı. "Bu, ne sıklıkla, tekrarlanması gerekiyor?"
+Dönüş yolunda Perren çizelgeyi yağlı deriyle sardı.
 
-"Belki, yılda bir, belki iki. Kendi bedenin, sana söyleyecek — yankı, yeniden huzursuzlaşmaya başladığında, bunu, hissedeceksin."
+"Bunu rutin yapabilir miyiz?"
 
----
+"Yolu güvenli sayarsak ölürüz. Rutine çevireceğimiz şey hazırlık."
 
-Ayrılmadan önce, Togan, bir soru daha sordu — merakını, uzun süredir bastırdığı bir soru. "Annemin, tam olarak nerede olduğunu, biliyor musunuz? Mezarı, ya da... kalıntıları?"
-
-Işıyan, uzun bir süre, sessiz kaldı, sonra, yavaşça. "Annen, geri çekildiğinde, İşleyiş'in sınırlarının dışına çıktı — kendi dünyanıza döndü. Onun sonu, bizim bilgimizin ötesinde. Ama bir şey söyleyebilirim: eğer, bir yerde öldüyse, muhtemelen, senin doğduğun topraklara yakın bir yerde oldu — çünkü, son niyeti, sana dönmekti."
-
-Bu bilgi, kesin değildi, ama Togan'a, garip bir teselli verdi — annesinin, son anlarında bile, ona doğru yürüdüğünü bilmek.
-
----
-
-Eski-Kent'e dönüş yolunda, Perren, Togan'ın sessizliğini, dikkatle gözlemledi. "İyi misin?"
-
-"Sanırım," dedi Togan, yavaşça. "Annemin, tam mezarını, belki, hiç bulamayacağım. Ama artık, biliyorum ki, o, beni terk etmedi — sadece, yolu, tamamlayamadı. Ve bu, garip bir şekilde, yeterli bir teselli."
-
-Perren, ona, sessizce, dostça bir gülümsemeyle karşılık verdi — ve iki dost, bozkıra doğru, düzenli, sakin bir tempoda, yol almaya devam ettiler, ilk kez, bu yolculuğun, bir korku değil, bir rutin haline geldiğini hissederek.
+Ölü topraklardan çıkana kadar iki kez yaratık izi gördüler ve rotayı değiştirdiler. İlk bakım yolculuğu korkusuz değildi. Yalnız neyi ölçtüklerini bilerek yapılıyordu.

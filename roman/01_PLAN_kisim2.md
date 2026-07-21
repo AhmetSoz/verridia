@@ -4,7 +4,7 @@
 ## Bu Kısmın Merkezi Gerilimi
 Temujin'in Rüzgar-Dinleyen operasyonu, Togan'ın eski dünyasına ilk gerçek darbeyi vuracak — ve bunu Togan bilmeyecek. Bu dramatik ironi, kısmın omurgası.
 
-## Bölüm Haritası (yazıldıkça işaretlenecek)
+## Bölüm Haritası (TAMAMLANDI — 15 bölüm; edebî redaksiyon 20 Temmuz 2026'da tamamlandı)
 1. **Temujin IV** — "Kartal Avı" — gizli kol batıya ilerliyor, ilk çatışma, Kaya doğrudan tehdit altında. ✅
 2. **Togan V** — Kuzey Sefer Yolu'na çıkış, ilk kez bir Hegemonya kasabasını/karakolunu görme, dış dünyanın ölçeğiyle yüzleşme.
 3. **Karia IV** — Severin'le doğrudan yüzleşme ya da kanıtı Kral'a/Kaelan'a açma kararı.

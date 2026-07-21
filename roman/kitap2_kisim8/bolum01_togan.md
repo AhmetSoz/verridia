@@ -1,42 +1,18 @@
-# Bölüm 1 — Malakor'un Cevabı
+# Bölüm 1 — Yarım Çember Baskını
 *(TOGAN)*
 
-Korgan-Temujin ittifakının haberi, bozkırın dışına yayıldıktan iki hafta sonra, Malakor'un cevabı, sonunda geldi — ama bu kez, bir mektupla değil, çok daha somut bir şekilde.
+Suna ilk alarmı gece yarısından önce verdi. Kuzey çalılığındaki kemik dizisi kırılmış, dere kıyısına iki dar tekne çekilmişti. Nöbetçiler düşmanı görmeden yerleşimin çanını üç kez vurdu.
 
-Sube, gece yarısı, telaşla, Togan'ın çadırına geldi. "Kamp dışında, büyük bir hareketlilik var. Sıradan gözcüler değil — eğitimli, düzenli bir grup."
+On sekiz kişi iki koldan girdi. Ana kapıya saldırmadılar; doğrudan revirle kayıt odasına yöneldiler. Üzerlerinde işaret yoktu. Yalnız bileklerini birleştiren tokalarda yarım çember damgası bulunuyordu.
 
-Togan, kendi sezgisini, hızla dinledi — ve gerçekten, uzaktan, soğuk, hesaplı bir tehdit hissetti, öncekilerden çok daha büyük.
+Togan revirin arkasında Suna'ya yardım ederken metal tadını aldı. Üç saldırganın taşıdığı ağ, Akıntı görmüş ince tellerle örülmüştü. Bunun kime atılacağını sezemezdi; fakat böyle bir aracı daha önce görmemişti.
 
----
+"Telli ağı kesin!" diye bağırdı.
 
-"Kaç kişi?" diye sordu Temujin, hızla giyinirken.
+Ağ Suna'nın omzuna değip kapanınca teller sertleşti. Togan iki eliyle kavradı. Sed'deki deneyi hatırlayarak metalin ritmine karşı bastırdı. Uğultu sekiz saniye kesildi; Perren o aralıkta ağı bıçakla açtı. Togan'ın görüşü karardı, dizleri toprağa vurdu.
 
-"En az yirmi," dedi Sube. "Ve silahlı — sıradan gözlemciler değil."
+Kuru Dere nöbetçileri saldırganları kayıt odasından uzak tuttu. Sungur sınır devriyesi kendi hattından kaçış yolunu kapatınca grup teknelere döndü. İki saldırgan yakalandı, biri ağır olmak üzere dört savunmacı yaralandı. Ölüm olmadı.
 
-Bu, Malakor'un, artık, sabrının tükendiğinin, açık bir işaretiydi — Korgan-Temujin ittifakı, onun için, kabul edilemez bir tehdit haline gelmişti.
+Yakalananların çantasında uyutucu şişeleri, Togan'ın eski bir tasviri ve aktif Malakor hesabının emir öneki bulundu. Hedefin Togan olduğu kuvvetle muhtemeldi; saldırıyı kimin verdiği ise henüz yalnız belge zinciriyle araştırılabilirdi.
 
----
-
-Kampın savunması, hızla, harekete geçti — Temujin'in muhafızları, Togan'ın nöbetçileri, ve hatta, Kaya'nın gönderdiği Sungur takviyesi, birlikte, hazır hale geldi.
-
-"Onlar, doğrudan saldırmayacak," dedi Togan, kendi sezgisiyle, durumu değerlendirerek. "Hissediyorum — asıl hedef, ben. Geri kalanı, sadece, dikkat dağıtmak için."
-
-Temujin, bu değerlendirmeye, ciddiyetle katıldı. "O zaman, seni, merkeze değil, en güvenli noktaya yerleştireceğiz — ve gerçek seni, sahte bir hedefle, koruyacağız."
-
----
-
-Batu, bu plana, hızla bir öneri ekledi. "Ben, senin kıyafetlerini giyip, merkezde durabilirim — karanlıkta, yeterince yakın görünürüz."
-
-Togan, bu fedakarlığa, itiraz etti. "Hayır, Batu, bu, çok tehlikeli—"
-
-"Tartışmaya vaktimiz yok," dedi Temujin, kesin. "Batu, doğru. Sen, gölgede kal, Togan — ve eğer, gerçekten, sana ihtiyaç olursa, o zaman, ortaya çık. Ama önce, onların, kimin peşinde olduğunu, tam olarak anlamalarını istemiyorum."
-
----
-
-Saldırı, gece yarısından hemen sonra geldi — hızlı, sessiz, profesyonel bir saldırı, ama kampın hazırlığı, onları, şaşırttı.
-
-Çatışma, kısa ama yoğundu — Malakor'un adamları, beklenenden güçlü bir direnişle karşılaşınca, hızla, geri çekilmeye başladı.
-
-Togan, gölgeden, bu çatışmayı izlerken, bir an, saldırganlardan birinin, gözlerinin, doğrudan, kendi gizlendiği yöne çevrildiğini fark etti — sanki, o kişi, tam olarak, nerede olduğunu, biliyormuş gibi.
-
-Bu an, geçip gittiğinde, Togan, derin bir ürpertiyle, kendi kendine düşündü: *Malakor, gerçekten, beni, biliyor — sadece, bir isim olarak değil, tam olarak, nerede durduğumu bile.*
+Lyra beş adı sorduğunda Togan Melira'yı söyleyemedi. On dakika sonra hatırladı. O gece kazandıkları sekiz saniyenin bedeli kayda böyle geçti.

@@ -1,44 +1,36 @@
 # Bölüm 10 — Korgan'ın Ültimatomu
 *(TEMUJİN)*
 
-İki hafta, sığınma kampında, tuhaf bir sükûnetle geçti — Temujin ve adamları, kısıtlı ama gerçek bir özgürlükle, Sungur topraklarında, yavaşça, temkinli bir kabul kazanmaya başlamıştı.
+Sığınmanın on beşinci günü Korgan'ın habercisi geldi. Temujin ile Batu on gün içinde teslim edilmezse Azgutlar bunu savaş ilanı sayacaktı.
 
-Ama on beşinci gün, bir haberci, Sungur kampına, Korgan'ın mührüyle geldi — ve mesaj, kısa, tehditkardı.
+Börü habercinin önünde cevap vermedi. "Han'ına meclisin karar vereceğini söyle."
 
-"Han Korgan," dedi haberci, Börü'nün huzurunda, sesi resmi, "sığınma verdiğiniz kaçakları, iade etmenizi talep ediyor. Temujin ve Batu, Azgut Han'ına karşı ihanetle suçlu. Eğer, on gün içinde, teslim edilmezlerse, Azgut orduları, sığınmanızı, bir savaş ilanı olarak görecek."
+Kriz toplantısına Temujin de çağrıldı. İlk sözü kendisi istedi.
 
----
+"Bizi teslim ederseniz savaş ihtimali azalır. Kararınız buysa direnmeyeceğiz."
 
-Börü, bu tehdidi, sakin ama sert bir yüzle dinledi — yıllarca hükmeden bir liderin, kolay sarsılmayan sükûneti.
+Kaya kollarını bağladı. "Korgan'ın sözüne güveniyor musun?"
 
-"Otuz yıl önce," dedi Börü, sesi ağır, "biz, Kırık Yemin'i, kendi gözlerimizle gördük. Ve o günden beri, hiçbir tehditle, kolay kolay sarsılmayız, haberci. Han'ına söyle — cevabımızı, düşünüp, doğru zamanda vereceğiz."
+"Hayır. Yalnız bahanesini azaltmış olursunuz."
 
-Haberci gittiğinde, kamp içinde, hızla, bir kriz meclisi toplandı — Börü, Kaya, Anya, ve, şaşırtıcı bir şekilde, Temujin de, davet edildi.
+Anya ordunun durumunu sordu. Temujin, Kartal Burnu sonrası ikmal kaybını ve Korgan'ın Temürçilerle yeni savaşı göze alamayacağını anlattı. Han tehdit edebilirdi, fakat büyük sefer için en az bir mevsime ihtiyacı vardı.
 
----
+"Blöf," dedi Börü.
 
-Temujin, meclise, dizlerinin üzerinde değil, ayakta, ama alçakgönüllü bir duruşla girdi. "Bu, benim yüzümden. Eğer, beni ve Batu'yu, teslim ederseniz, savaş, önlenir. Bunu, anlıyorum. Ve eğer, karar buysa, itiraz etmeyeceğim."
+"İçinde bıçak olan blöf," dedi Temujin. "Açık ordu gelmezse suikastçı gelir."
 
-Kaya, ona, uzun bir süre baktı, sonra, sert bir sesle karşılık verdi. "Kolay bir teslimiyet mi bu, yoksa gerçek bir fedakarlık mı, Temujin?"
+Meclis iki seçeneği ayrı oyladı. Sürgünler teslim edilmeyecekti. Bununla birlikte Sungurlar Korgan'a savaş ilan etmeyecek, mevcut savaş ortaklığının bozulduğunu da tek taraflı duyurmayacaktı. Cevap, sığınmanın Sungur yasasına ait olduğu ve dış müdahalenin düşmanca sayılacağı biçiminde yazıldı.
 
-"Bilmiyorum," dedi Temujin, dürüstçe. "Belki ikisi de. Ama biliyorum ki, sizin halkınızın, benim yüzümden, yeni bir savaşa girmesini istemiyorum."
+"Sizi himayemize aldığımızı yazmayacağız," dedi Kaya. "Burada yaşayan herkes yasamıza bağlı. Sahibi olduğumuz insan yok."
 
----
+Temujin bu düzeltmeyi aklında tuttu.
 
-Anya, uzun bir süre, sessizce düşündü, sonra, yavaşça konuştu. "Bir şey söyleyeceğim — Korgan'ın, gerçekten savaşmak isteyip istemediğini düşünelim. Kartal Burnu seferinden beri, ordusu, yorgun. Temürçilerle olan anlaşmanız da (Temujin, bunu, meclise, itiraf etmişti, tam bir dürüstlükle) hâlâ, kırılgan bir denge. Korgan, gerçekten, yeni bir savaşı, göze alabilir mi?"
+Börü mührü bastı. "Karar senin için değil. Kapımıza geleni tehdit karşılığında vermediğimiz için."
 
-Börü'nün düşüncesi, yavaşça netleşti. "Belki de bu, bir blöf."
+"Biliyorum."
 
-"Ya da belki değil," dedi Kaya. "Ama eğer blöfse, ve biz, korkuyla teslim edersek, Korgan'ın, bizi, her zaman, bu şekilde tehdit edebileceğini öğretiriz ona."
+"Minnet duyacaksan yasaya duy. Kişiye değil."
 
----
+Haberci dönüş yoluna çıkınca nöbet sayısı iki katına çıkarıldı. Temujin kendi adamlarını nöbete yazdırmak istedi; meclis henüz silah taşımalarına izin vermedi.
 
-Meclis, uzun tartışmalardan sonra, bir karara vardı — Börü, son sözü söyledi, sesi, kesin bir otoriteyle.
-
-"Teslim etmeyeceğiz," dedi Börü. "Ama açık bir savaş da istemiyoruz. Korgan'a, şunu bildireceğiz: Temujin ve Batu, artık, bizim himayemizde — bir Sungur meselesi olarak. Eğer saldırırsa, bunu, sadece iki kaçağa karşı değil, bütün Sungur klanına karşı bir savaş ilanı olarak göreceğiz — ve Temürçiler dahil, kimin yanımızda duracağını, göreceğiz."
-
-Temujin, bu kararı, derin bir şaşkınlık ve minnetle dinledi. "Neden bu kadar riske giriyorsunuz, benim için?"
-
-Börü, ona, uzun bir süre baktı, sonra, yavaşça. "Senin için değil, Genç Kurt. Kendi onurumuz için. Sungurlar, hiçbir zaman, bir Han'ın tehdidiyle, kapımıza sığınan birini, korkuyla teslim etmedi — düşman bile olsa. Bu, bizim kim olduğumuzu tanımlar."
-
-Temujin, bu sözlere, derin bir saygıyla eğildi — ve içinde, ilk kez, bu garip, beklenmedik sığınmanın, belki de, kendi kaderinin, yeni ve daha büyük bir yönünün, sadece başlangıcı olduğunu hissetti.
+İlk kez bir topluluk onu korumayı seçmişti, fakat savunmaya katılma hakkını kazanmış değildi. Bu ayrım ona ağır geldi. Aynı zamanda doğru olduğunu düşündü.

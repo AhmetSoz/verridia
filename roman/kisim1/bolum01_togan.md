@@ -1,126 +1,146 @@
-# Bölüm 1 — Sessiz Antrenman ve Kül Rengi Anılar
+# Bölüm 1 — Sessiz Talim ve Kül Rengi Anılar
 *(TOGAN)*
 
-Kılıç, kuklanın göğsüne üçüncü kez saplandığında, tahta çatladı.
+Kılıç üçüncü kez göğsüne gömülünce kuklanın tahta omurgası çatladı.
 
-Togan bunu duymadı bile. Nefesi kulaklarında gümbürdüyor, kollarındaki yanma gecenin ayazını bastırıyordu. Vurdu, çekti, yine vurdu; kaç kez vurduğunu artık sayamıyordu. Talim alanının toprağı, aylardır hep aynı noktaya inen darbelerle taşlaşmış, ayakları altında sert ve düz bir zemine dönüşmüştü. Tek yumuşak şey, kuklanın parça parça dökülen derisinden savrulan kepekti.
+Togan kılıcı çekti. Nefesi kulaklarında uğulduyor, kollarındaki yanma ayazı unutturuyordu. Bir daha vurdu. Sonra bir daha. Kaçıncı darbede olduğunu, şafağın ne kadar uzakta kaldığını bilmiyordu. Talim alanının toprağı aylardır aynı yerde dönüp duran ayaklarının altında sertleşmişti. Her savuruşta kuklanın keçe gövdesinden biraz daha kepek saçılıyordu.
 
-Aşağıda Kartal-Yurdu hâlâ uyuyordu. Şafağa daha bir saatten fazla vardı; kışlağın üzerine çöken sessizliği ancak uzaktan gelen bir köpek havlaması, ya da geçitlerden süzülen rüzgârın uğultusu bozuyordu. Togan'dan başka uyanık kimse yoktu. Ay o gece de kuzeyde asılıydı, üstündeki soluk kızıl lekeyle her zamankinden biraz daha iri görünüyordu. Kimse bakmıyordu ona.
+Aşağıda Kartal-Yurdu uyuyordu. Geçitlerden inen rüzgâr çadır iplerini titretiyor, uzaklarda bir köpek arada bir havlıyordu. Tek Göz kuzey sırtlarının üzerinde asılıydı. Daha aşağıda, ufka yakın Kızıl Sürü bulutlar geçtikçe belirip kayboluyordu.
 
-Burkut, talim kazıklarının tepesinden, Togan'ı izliyordu. Ama artık bir avın peşindeki avcı gibi değildi bu bakış: ayakları kazığın üstünde durmadan kayıyor, başını bir o yana bir bu yana çeviriyor, bir türlü tek noktada duramıyordu.
+Burkut talim kazıklarından birine tünemişti. Pençeleri tahtayı durmadan eşeliyor, başı rüzgârın taşımadığı bir sesi arar gibi sağa sola dönüyordu.
 
-"Demiri değil, kendini yoruyorsun."
+“Demiri değil, kendini yoruyorsun.”
 
-Togan durmadı. Kaya'nın sesini tanımıştı zaten — kampın gölgelerinden, bir avcı sessizliğiyle çıkagelen, birkaç yaş büyük, bir baş daha geniş omuzlu arkadaşı. Son bir darbeyle kılıcı kuklanın göğsüne sapladı, orada bıraktı, ancak o zaman döndü.
+Togan, Kaya’nın sesini tanıdı. Yine de durmadı. Kuklanın göğsüne son bir darbe indirdi; kılıcı tahtanın içinde bırakıp arkasına döndü.
 
-Kaya, iki tahta kılıçtan birini uzattı. "Etten kemikten birine karşı salla o demiri bir kere. Belki kime vurduğunu hatırlarsın."
+Kaya gölgelerden çıktı. Togan’dan dokuz yaş büyük süt ablası, iki tahta kılıç getirmişti. Birini ona uzattı.
 
-Togan'ın gözleri bir an arkadaşının yüzündeki endişeye takıldı, sonra kayıp gitti. Kuklaya saplı kılıcı çekip attı, tahta olanı kaptı elinden.
+“Bir kez de ete kemiğe karşı salla. Belki kime vurduğunu hatırlarsın.”
 
-Hiç konuşmadılar. Kaya'nın hareketleri her zamanki gibi hafif, sessiz, bir Sungur'a yakışır incelikteydi. Togan ise bir kazık gibi durdu yerinde, bütün bedeni gerilmiş bir yay gibiydi. İlk hamleyi Kaya yaptı, yoklayan, hızlı bir darbeyle. Togan, savuşturmak yerine kılıcını doğrudan Kaya'nınkine çarptı; çıkan sesin sertliği geceyi bir balta gibi yardı.
+Togan demir kılıcı kukladan söküp yere attı, tahta olanı aldı.
 
-"Bu öfke," dedi Kaya, geri çekilirken, "bir Azgut'un işine yarar belki. Bir Rüzgar-Dinleyen'i öldürür."
+Kaya ilk hamleyi beklemedi. Hafifçe sokuldu, Togan’ın sol omzunu yokladı. Togan savuşturmak yerine kılıcını onunkine bindirdi. Tahta şakırtısı boş alanda yankılandı.
 
-Togan duymamış gibi davrandı. Bu bir talim değildi artık, bir yıllık öfkenin, çaresizliğin, biriktirdiği her şeyin dışa vurumuydu. Kaya geri çekiliyor, darbeleri yönlendiriyor, sabırla bir açık bekliyordu. Togan'ın gücü büyüktü, ama pervasızlığı her savuruşta savunmasında yeni bir gedik açıyordu.
+“Bu öfke bir Azgut’un işine yarayabilir.” Kaya çekilip yeni bir açı aldı. “Bir Rüzgar-Dinleyen’i ise öldürür.”
 
-Sabrı sonunda taştı. Bütün gücünü tek bir darbede toplarken göğsü tamamen açıldı; Kaya, tam da bunu bekliyordu. Bir hamle, bir bilek darbesi, bir omuz vuruşu, ve Togan sırtüstü çamura düştü. Kaya'nın kılıç ucu boğazındaydı.
+Togan üstüne yürüdü.
 
-Uzun bir süre kimse konuşmadı. Sadece Togan'ın öfkeli nefesi duyuluyordu, ve uzaktaki rüzgâr.
+Kaya her darbede yarım adım geri çekiliyor, kılıcın gücünü boşa akıtıyordu. Togan onu sıkıştırdığını sandıkça omuzlarını daha çok açtı. Solukları kısaldı. Avuçlarının içi kabzayı kaydıracak kadar terledi. Kaya’nın yüzündeki sükûnet, vurdukça büyüyen bir hakaret gibi geliyordu.
 
-Kaya kılıcı indirdi. Yüzünde zafer yoktu, sadece bir keder vardı. "Bu bir Sungur kılıcı değil, Togan. Onurunu yitirmiş bir gürz. Körce savruluyorsun." Ayağa kalkarken çamurlu yüze baktı. "Kiminle savaşıyorsun sen? Gerçekten?"
+Bütün ağırlığını son darbeye verdi.
 
-Cevap gelmedi. Togan arkadaşının gözlerine bakamadı; utanç ve dinmek bilmeyen öfke arasında sıkışmış kalmıştı. Kaya bunu bir süre bekledi, sonra içini çekip gölgelere karıştı.
+Kaya yana kaydı. Bileğine vurdu, omzunu göğsüne bindirdi. Togan’ın ayağı çamurda dönünce gökyüzü birden önüne açıldı. Sırtüstü yere çarptı. Tahta kılıcın ucu boğazına dayandı.
 
-Togan çamurun içinde tek başına kaldı. Soğuk sırtından içeri işliyordu, ama içindeki yangını söndürmeye yetmiyordu. Kaya haklıydı, biliyordu bunu. Öfkesi onu gün geçtikçe daha az kendi, daha çok başka bir şeye dönüştürüyordu.
+Bir süre yalnız onun soluğu duyuldu.
 
-"Bir hayaletle nasıl savaşılır ki," diye mırıldandı, sesi buhara karışarak.
+Kaya kılıcı çekti, fakat elini uzatmadı. “Bu bir Sungur kılıcı değil. Sapını sen tutuyorsun, vuran öfken.”
 
-✦
+Togan çamurun içinde doğruldu.
 
-Ana ateşin kokusu geldi önce; bizon eti, dağ kekiği, kök sebze, evin kokusu. Sonra yumuşak adımlar. Togan başını kaldırmadan kim olduğunu anladı.
+“Karşında kim var?” diye sordu Kaya. “Ben mi? Korgan mı? Yoksa bir yıldır mezara koyamadığın biri mi?”
 
-"Savaşçı, aç karnına kılıç sallayamaz."
+Togan başını eğdi. Kaya’nın cevabı beklediğini biliyordu. Verebileceği her cevap ya yalandı ya da söylemeye dayanamayacağı kadar doğru.
 
-Anya'nın sesi, yaşla pürüzlenmiş ama hâlâ akan bir dere yatağı gibiydi. Seksenli yaşlarının ağırlığı onu hafifçe eğmişti; yüzündeki her kırışıklık, bir kaybın ya da bir kuraklığın anısını taşıyordu. Elindeki tahta kâseden buhar yükseliyordu.
+Kaya tahta kılıçları topladı. Giderken adımları öfkeliden çok yorgundu.
 
-Togan başını kaldırmadan aldı kâseyi. Sıcaklık donmuş parmaklarına yayıldı, ama yemek boğazında düğümlendi. Anya, yanındaki bir kütüğe sessizce oturdu.
+Ayaz, Togan’ın ıslanan sırtından içeri yürüdü. Ellerini çamura bastırdı. Kaya haklıydı. Son bir yılda güçlenmiş, hızlanmış, kılıçla uyuyup kılıçla uyanmıştı. Buna rağmen her gün kendinden biraz daha eksiliyordu.
 
-"Dün gece rüyamda babanı gördüm," dedi usulca. "Bozkırda at sürüyordu. Sana sesleniyordu: 'Oğlum, gökyüzüne bakmayı unuttu.'" Bir an durdu. "Ne demek istediğini biliyor musun?"
-
-"Sadece bir rüya, Anya Ana."
-
-"Rüyalar, ruhların fısıltısıdır. Bunu en iyi sen bilirsin." Sesi yükselmedi, ama diretti. "Bir Rüzgar-Dinleyen gözlerini toprağa dikerse yolunu kaybeder. Senin gözlerin bir yıldır toprakta, Togan. Melira'nın toprağında."
-
-O isim içinde bir kılıç gibi döndü. Kâseyi tutan parmakları bembeyazlaştı. Başını kaldırdı, gözlerindeki fırtına ilk kez yaşlı kadına döndü. "Sen ne bilirsin benim ne gördüğümü, ne hissettiğimi?"
-
-Anya'nın yüzü kıpırdamadı. Onun öfkesinden korkmuyordu; acısından korkuyordu. "Kocamı, senin hiç tanımadığın baban gibi, aynı baskında kaybettim. İlk oğlumu bir kış salgınında, kollarımda ölürken izledim. Bu klanda içinde bir mezar taşımayan tek kişi yok, evlat." Öne eğildi, bulanık gözleri onu delip geçercesine. "Acı bizi biz yapar. Ama ona bizi canavara çevirtirsek, o ateşte ilk yanan kendimiz oluruz. O zaman Azgutlar'dan farkımız ne kalır?"
-
-Togan'ın söyleyecek bir şeyi kalmamıştı. Kâseyi sessizce bitirdi, geri uzattı, gözlerini kaçırarak uzaklaştı.
+“Bir hayalet neresinden vurulur?” diye fısıldadı.
 
 ✦
 
-"Togan!" Nöbetçinin sesi, Börü'nün çadırından geldi. "Han seni çağırıyor. Meclis toplanıyor."
+Ana ateşin kokusu önce geldi: bizon eti, dağ kekiği, közde kök sebzeler. Ardından baston kullanmayı inatla reddeden birinin ölçülü adımları duyuldu.
 
-Çağrı, bir emirden çok, boğulan bir adama atılan urgana benziyordu. Bir an ormana kaçmayı düşündü; meclisler, stratejiler, Azgutlar, hepsi o kadar uzak geliyordu ki artık. Ama Kaya'nın hayal kırıklığı, Anya'nın kederi, hâlâ tazeydi içinde. Klana olan son bağını koparamadı. Yüzünü kolunun tersiyle sildi, Han'ın çadırına yürüdü.
+“Savaşçı aç karnına kılıç sallamaz.”
 
-✦
+Anya Ana elindeki tahta kâseyi uzattı. Seksen yılı aşmış bedeni eğilmişti ama bakışları hâlâ insana yer açtırıyordu.
 
-İçeride hava, isli meşale ve eriyen bizon yağı kokuyordu. Ortadaki masada Solgun Bozkırlar'ın haritası yayılıydı, üzerinde Azgut hareketlerini gösteren taştan bizon figürleri duruyordu.
+Togan kâseyi aldı. Sıcaklık parmaklarını sızlattı. Anya yanındaki kütüğe oturdu; konuşmak için acele etmedi.
 
-Gök-Göz Börü, masanın başında duruyordu. Yirmi yıla yakın bir hükümranlığın yorgunluğu, gençlik ateşinin yerini almıştı yüzünde çoktan. Togan'ı görünce, bir an, Han'ın değil çocukluk arkadaşının bakışı belirdi gözlerinde, sonra kayboldu.
+“Dün gece babanı gördüm,” dedi sonra. “Bozkırda at sürüyordu. Sana seslendi: ‘Oğlum, gökyüzüne bakmayı unuttu.’”
 
-"Gel," dedi Börü. "Görüşüne ihtiyacımız var."
+Togan et suyundan bir yudum aldı. “Rüyaymış.”
 
-Togan yaklaştı, ama haritayı gerçekten görmüyordu; zihni hâlâ talim alanındaydı.
+“Rüyadır.” Anya ateşe doğru uzattığı ellerini çevirdi. “Bu, boş olduğu anlamına gelmez. Bir Rüzgar-Dinleyen gözünü toprağa dikerse yolunu şaşırır. Sen bir yıldır Melira’nın düştüğü yerden başka yere bakmıyorsun.”
 
-Ozan, yara izli eski savaşçı, kemik işaretleyicisiyle bir noktayı gösterdi. "Korgan, ana gücünü Sarmaşan'ın batı yakasına kaydırmış. Bizon Süvarileri'ni Ağlayan Kaya geçidinde topluyor."
+İsim, midesindeki sıcaklığı kesti. Kâsenin kenarı parmaklarının arasında gıcırdadı.
 
-"Tuzak olabilir," dedi bir başka ihtiyar. "Bizi batıya çekip asıl darbeyi doğudan indirmek isteyebilir."
+“Sen ne gördüğümü nereden bileceksin?”
 
-Börü, Togan'a döndü. "Bu araziyi sen bilirsin. Korgan'ın yerinde olsan ne yapardın?"
+Anya’nın elleri ateşin önünde kaldı. “Kocamı bir baskında kaybettim. İlk oğlum kış hummasında kollarımda öldü. Bu obada içinde mezar taşımayan kimse yok.” Başını çevirip Togan’a baktı. “Acını senden alamam. Ama onu besleyip sana hükmettirmene de susamam. Seni Kor-Ateşler’den ayıran ne kaldı, bunu kendine sor.”
 
-Herkes ona bakıyordu, hâlâ klanın en umut vaat eden savaşçısı sayılıyordu, eski bir gölge gibi. Ama zihninde ne strateji vardı ne Azgutlar. Gözleri taş figürlere bakıyor, gördüğü ise kül ve alevdi.
-
-"Togan?" Börü'nün sesinde, hayal kırıklığını gizleyen bir boğukluk vardı.
-
-İrkildi. "Ne?"
-
-"Han sana bir şey sordu, evlat." Ozan'ın yüzü sertleşti. "Aklın nerede?"
-
-Togan'ın gözleri kısıldı, o tanıdık zehir yeniden kabardı içinde. "Aklım," dedi, alçak ve tehlikeli bir sesle, "bir yıl önce, o ateşin içinde kalan yerde." Masadakilere tek tek baktı. "Siz burada taş oynatırken, onlar dışarıda. Nefes alıyorlar. Yakıyorlar."
-
-"Kor-Ateşler bir haşere sürüsü," dedi Anya, şefkatle ama uyararak. "Azgutlar ise klanımızın kalbine inen bir çığ. Önceliğimizi bilmeliyiz."
-
-"Öncelik mi." Togan'ın gülüşü acıydı, bir yıldır ilk kez gülüyordu, ve bu herkesi ürpertti. "Benimki belli zaten."
-
-Börü ayağa kalktı, sertleşerek; artık bir dost değil, bir Han'dı karşısında duran. "Önceliğin bu klan, Togan. Bu yemin. Babam seni kendi oğlu gibi büyüttü. Mirasına böyle mi saygı gösteriyorsun?"
-
-Bu, en zayıf yerinden vurmuştu onu. Gözlerini kaçırdı. Çadırdaki hava kesilecek kadar ağırlaştı.
-
-Sonunda konuştu, kimseye bakmadan. "Ağlayan Kaya bir tuzak. Korgan, şafakla, nehrin sığ yerinden saldıracak. Geçide gönderdiği birlik sadece bir yem."
-
-Kimseye cevap fırsatı bırakmadan döndü, çıktı. Arkasında hem değerli bir istihbarat bırakıyordu, hem de klanın en iyi savaşçılarından birini kaybetmekte olduklarının acı bilgisini.
+Togan yemeği bitirdi. Kâseyi Anya’nın yanına bıraktı; teşekkür etmeye çalıştıysa da kelime boğazından çıkmadı.
 
 ✦
 
-Dışarıda dağların zirvesi, gerçek bir şafağın kızılıyla boyanmaya başlamıştı bile, kandilin sahte kızıllığından çok daha masum bir renkle. Kararını vermişti. Bu, son meclisiydi. Bu gece, ay tepeye çıktığında, yuvasından uçacaktı.
+“Togan!”
 
-Avucundaki kemik tokayı sıkarken titrediğini fark etti. Yanağındaki ıslaklık, bir yıldır akıtamadığı ilk yaştı. Ama kederin değil, yeniden alevlenen bir nefretin yaşıydı bu.
+Nöbetçi, Börü’nün çadırının önünden sesleniyordu. “Han seni çağırıyor. Meclis toplandı.”
 
-Kılıcını kuşandı, yayını omzuna astı. Çadırın aralığından baktı: kamp uyanmıştı artık. Börü emirler veriyor, Kaya akıncıları topluyor, Anya kadınları güvenli yere taşıyordu. Klanı, ailesi, bir aradaydı, hayatta kalmak için.
+Togan ormana inen patikaya baktı. Birkaç adım sonra çadırlar ağaçların ardında kalırdı. Kimseye görünmeden gitmek için bundan iyi bir saat bulamazdı.
 
-O ise sırtını dönüyordu onlara.
+Kaya’nın az önceki bakışı geldi aklına. Sonra Anya’nın uzattığı sıcak kâse.
 
-"Beni bağışlayın," diye fısıldadı, duyulmayacağını bilerek. "Ama yeminim artık size değil."
+Yüzündeki çamuru koluyla sildi ve Han’ın çadırına yürüdü.
 
-Burkut, sessizce omzuna kondu. Gölgeleri takip ederek atların bulunduğu çitli alana süzüldü.
+İçeride isli meşale ile eriyen bizon yağı kokusu birbirine karışmıştı. Masaya Solgun Bozkırlar’ın haritası serilmiş, Azgut birlikleri taş bizonlarla işaretlenmişti.
 
-Bozkır, kokusunu alır almaz başını kaldırdı; solgun otlar rengindeki, kaslı, sadık at. Togan yaklaşınca başını göğsüne yasladı. "Vakit geldi, dostum," dedi, elini boynunda gezdirerek. "Yolumuz artık farklı."
+Gök-Göz Börü masanın başında duruyordu. Yirmi yıla yaklaşan hükmü, gözlerinin çevresine ince çizgiler kazımıştı. Togan içeri girince yüzü yumuşar gibi oldu; hemen ardından Han’ın ifadesi geri geldi.
 
-Eyeri sessizce kuşandı, dizginleri aldı, kampın en tenha patikasına doğru çekti atı. Son çadırı da geride bıraktıklarında durdu, bir kez arkasına, yanan ateşlere baktı.
+“Gel. Görüşün gerek.”
 
-Sonra yüzünü kuzeye çevirdi.
+Togan masaya yaklaştı.
 
-Tek bir hareketle atına atladı, topuğuyla dürttü. Bozkır, önce temkinli, sonra hızlanan bir tırısla, gecenin son karanlığına daldı.
+Yara izli eski savaşçı Ozan, kemik çubuğuyla nehrin batısını gösterdi. “Korgan ana gücünü Sarmaşan’ın bu yakasına çekti. Bizon Süvarileri Ağlayan Kaya geçidinde toplanıyor.”
 
-Yalnız Kartal yuvasından uçmuştu. Bu kez kanatlarının altında rüzgâr değil, bütün bir bozkır vardı.
+“Bizi batıya çağırıp doğudan vurabilir,” dedi ihtiyarlardan biri.
+
+Börü, Togan’ın önündeki taşları işaret etti. “Korgan’ın yerinde olsan ne yapardın?”
+
+Togan taş bizonlara baktı. Taşların arasından alev yükseliyor, haritanın deri yüzeyi kararıyordu. Bir evin çatısı çöktü. Bir kadın içeride kaldı.
+
+“Togan?”
+
+Başını kaldırdı. “Ne?”
+
+Ozan’ın kemik çubuğu masaya indi. “Han seninle konuşuyor. Aklın nerede?”
+
+“Bir yıl önceki yangında.” Togan’ın çenesi kasıldı. “Siz burada taş dizerken Kor-Ateşler dışarıda. Köy yakıyor, insan öldürüyor.”
+
+Anya da meclisteydi. “Kor-Ateşler dağınık bir yara. Azgut ordusu kapımıza dayanan bıçak. Önce hangisini tutacağımızı seçmek zorundayız.”
+
+“Ben seçtim.”
+
+Börü iki elini masaya dayadı. “Senin ilk görevin bu oba. Bu yemin. Babam seni kendi oğlundan ayırmadı. Ona bıraktığın karşılık bu mu?”
+
+Togan’ın öfkesi bir anda yönünü kaybetti. Masadaki hiç kimseye bakamadı.
+
+Sessizlik uzarken taşların dizilişi zihninde yerine oturdu. Korgan’ın gösterdiği güç fazlasıyla açıktı. Ağlayan Kaya, düşmanın görmesini istediği yerdi.
+
+“Geçit yem,” dedi. “Korgan şafakta nehrin sığlığından gelir. Ana gücü batıya çekmiş gibi gösterip doğu kıyısından vuracak.”
+
+Ozan haritaya eğildi. Börü bir şey söylemek üzereydi; Togan çoktan çadırın kapısına varmıştı.
+
+✦
+
+Şafak dağların dişlerini ortaya çıkarıyordu. Togan kendi çadırına girip kılıcını kuşandı, yayını ve okluğunu aldı. Avucundaki kemik tokayı kemerine geçirirken eli titredi. Parmağının tersiyle yanağını sildi; ıslaklığın ter olmadığını anlayınca daha da öfkelendi.
+
+Çadır aralığından obaya baktı. Börü’nün emirleri ateşten ateşe yayılıyordu. Kaya akıncıları topluyor, Anya çocuklarla yaşlıları iç çembere gönderiyordu. Herkes yaklaşan saldırı için bir yere yetişiyordu.
+
+Togan’ın yeri onların yanında olmalıydı.
+
+Kılıcının kabzasını kavradı. Melira’nın çığlığı, bir yıldır olduğu gibi, kararından önce geldi.
+
+“Bağışlayın beni,” dedi. “Yapamıyorum.”
+
+Burkut omzuna kondu. Togan, çadırların arkasındaki tenha yolu izleyerek atların tutulduğu çite vardı.
+
+Bozkır onu görünce başını kaldırdı. Solgun ot rengindeki at, Togan yaklaşınca burnunu göğsüne dayadı.
+
+“Gidiyoruz, dostum.”
+
+Eyeri bağladı, dizginleri aldı. Nöbet değişiminin kısa kargaşasında çitin arkasından çıktı. Son çadırı geçince bir kez durdu.
+
+Kartal-Yurdu’nun ateşleri sabahın kül rengi aydınlığında sönükleşiyordu. Togan dizginleri çevirdi. Bozkır önce yürüdü, sonra açık araziyi bulunca koşuya geçti.
+
+Arkasında kalan son ateş de tepenin ardına gömülünce Burkut omzundan havalandı. Kuzeye açılan rüzgârı buldu.

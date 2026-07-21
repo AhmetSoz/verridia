@@ -1,52 +1,64 @@
 # Bölüm 10 — Son Kırıntı
-*(TOGAN — Kızıl Hafta, 6. ve 7. Gün)*
+*(TOGAN: Kızıl Hafta, 6. ve 7. Gün)*
 
-Altıncı gün, duvarın ışığı, yavaşça, eski kesinliğine geri döndü — zayıflama penceresi kapanmıştı, ve Togan, o garip rezonansın, artık, bir daha, en azından bu Akıntı'da, tekrarlanmayacağını anladı.
+Altıncı gün Sed yeniden sertleşti. Togan sınırdan beş adım uzakta durduğu hâlde dişleri sızlıyordu. Perren bronz çubukları son kez ölçtü; gölgeler eski yerlerine dönmüştü.
 
-"Bitti mi?" diye sordu Togan, Perren'e, sesi hem bir rahatlama hem bir hayal kırıklığı taşıyordu.
+“Pencere kapandı,” dedi.
 
-"Bu yılki pencere, evet," dedi Perren, gözleri hâlâ duvara dikili. "Ama sen, Togan — sen, bir şey öğrendin. Bir şey ki, on bir yıldır burada olan benim bile öğrenemediğim bir şey."
+Togan kapıya baktı. Melira'nın sesini bir daha duymak istiyor, aynı anda bundan korkuyordu. Bir yıl boyunca ölümün içinden onu çağırdığına inanmıştı. Kapının, yalnızca duymak istediği şeyi kullanmış olabileceğini şimdi anlamıştı.
 
-Togan, bu düşünceyi bir süre sessizce taşıdı. Kapı, açılmamıştı — Melira, geri gelmemişti. Ama içinde, bir şeyin değiştiğini biliyordu; kendi kimliğine dair, eskiden hiç sorgulamadığı bir gerçeğin, artık, sorgulanması gerektiğini.
+“Onu geri getiremezdim,” dedi.
 
-"Ne yapmalıyım şimdi?" diye sordu, sesi kaybolmuş gibiydi.
+Perren ölçüleri taş levhaya geçiriyordu. “Bunu bilmiyoruz.”
 
-Perren, uzun bir süre düşündü, sonra, yavaşça, konuştu. "Bence, cevabı burada bulamayacaksın, Togan. Duvar, sana bir soru sordu, bir cevap vermedi. Cevabı bulmak için, belki de, kendi kanının kaynağına gitmen gerekiyor — kim olduğunu, gerçekten kim olduğunu öğrenmen gerekiyor."
+“Bilmiyoruz.” Togan başını salladı. “Bu yüzden kapıyı açmayacağım.”
 
-"Ama kimse bilmiyor bunu. Ben bir yetimim."
+Bu karar, başarısızlıktan daha ağırdı. Kendi isteğiyle vazgeçiyordu. Melira'yı ikinci kez toprağa bırakmak gibi geldi.
 
-"Belki birileri bilir," dedi Perren, sesi düşünceli. "Mirasçılar. Onlar, kıtadaki her sırrı, bir şekilde, kaydederler. Eğer senin kanında gerçekten farklı bir şey varsa, belki de, Eski-Kent'teki kayıtlarda, bir iz vardır."
+Perren levhayı kapattı. “Sed sana kim olduğunu söylemedi. Yalnız seni tanıdığını gösterdi.”
 
-Bu öneri, Togan'ın içinde, yeni bir yol, yeni bir umut yarattı — ama aynı zamanda, geride bıraktığı her şeye, bir şekilde, geri dönmesi gerektiği anlamına da geliyordu.
+“Kim cevap verir?”
 
----
+“Mirasçılar.”
 
-Yedinci gün, Son Kırıntı, sessizce geçti — Akıntı, yavaşça geri çekiliyor, Tek Göz, yavaşça, eski beyazlığına dönüyordu.
+Perren, Eski-Kent'in arşivlerinde Kuzey seferlerinin yolcu listeleri bulunduğunu anlattı. Yirmi yedi yıl önce yıkılan obaların kayıtları, isimsiz ölüler ve kayıp çocuklar da orada tutulabilirdi. Togan'ın annesine ulaşan bir iz varsa Sed'in önünde değil, o raflardaydı.
 
-Togan, o gün, kararını verdi.
+“Benimle gel,” dedi Togan.
 
-"Geri döneceğim," dedi Perren'e, sesi kesin. "Bozkıra. Ama sonra, Eski-Kent'e gideceğim, Mirasçılar'a. Cevapları orada arayacağım."
+Perren hemen cevap vermedi. Sığınağın taşlarına baktı. Duvara çizdiği günler kapının çevresini doldurmuştu.
 
-Perren, ona uzun bir süre baktı, gözlerinde, hem bir hüzün hem bir umut vardı. "Sen, benim yapamadığımı yapıyorsun, Togan. Sen, geri dönüyorsun."
+“Üç kez ayrılmayı denedim.”
 
-"Sen de gel," dedi Togan, aniden, kendi kendine bile şaşırarak. "Burada, tek başına, bu ölü topraklarda, sonsuza dek kalman gerekmiyor, Perren. Belki, birlikte, cevapları bulabiliriz."
-
-Perren, bu teklife, uzun bir süre, sessizce baktı — on bir yıllık bir yalnızlığın, bir anda, kırılma ihtimaliyle karşı karşıya kalmış bir adamın sessizliği.
-
-"Bilmiyorum," dedi sonunda, sesi titrek. "Bu kadar uzun süre sonra, geri dönmek... korkutucu. Ama..." Durdu, gözleri, bir an, duvardan, Togan'a kaydı. "Ama belki de, senin gibi genç birinin yanında, bu korkuyu aşabilirim."
+“Dördüncüde yalnız olmayacaksın.”
 
 ---
 
-O gece, ikisi de, kamp hazırlıklarını yaparken, Togan, son bir kez, duvara baktı — Şafak Kapısı, sessiz ve kayıtsız, her zamanki gibi duruyordu.
+Yedinci gün Perren eşyalarını tek çuvala sığdırdı. On bir yılda biriktirdiği yüzlerce taş levhadan yalnız yedisini aldı. Geri kalanları yağdanlık bezlere sarıp sığınağın en kuru köşesine dizdi.
 
-"Bir gün," diye fısıldadı Togan, kapıya, "geri geleceğim. Ve o zaman, cevapları bilerek geleceğim. Ve seni, o zaman, gerçekten açacağım."
+“Dönecek misin?” diye sordu Togan.
 
-Bu, bir yemin değildi tam olarak — daha çok, bir söz, kendi kendine verdiği bir söz, geleceğe bırakılmış bir borç gibiydi.
+“Bilmiyorum. Bilmediğimi söylemek bugün kolay geliyor.”
 
-Ertesi sabah, Togan ve Perren, güneye, bozkıra doğru, yola çıktılar — bir yıllık, umutsuz bir yolculuğun, şimdi, yeni ve belki daha da tehlikeli bir yolculuğa dönüştüğü bir andı bu.
+Güneye yürümeye başladılar. Perren ilk fersah taşında durdu. Bu, önceki kaçışlarında ulaşabildiği en uzak noktaydı. Elleri titredi; beyaz oda gözlerinin önüne gelmiş olmalıydı.
 
-Togan, arkasına, son bir kez, Işık Seddi'ne baktı — ve içinde, garip bir kesinlikle, bunun, bu hikâyenin sonu değil, sadece ilk perdenin kapanışı olduğunu hissetti.
+Togan kırmızı ipi ikisinin beline bağladı.
 
-Kaya'yı, Börü'yü, Anya'yı, geride bıraktığı her şeyi düşündü — ve bilmeden, tam da o anda, bozkırda, Kaya'nın, Temujin'in elinden özgürlüğüne kavuştuğunu, Börü'nün, yaralı ama hayatta, klanını, yeni bir düzende, ayakta tuttuğunu.
+“Çekersem düşersin,” dedi Perren.
 
-İki dünya, hâlâ, birbirinden habersizdi. Ama Togan'ın, güneye dönen adımları, belki de, o iki dünyayı, sonunda, bir araya getirecek ilk adımlardı.
+“Ben de seni çekerim.”
+
+Taşı birlikte geçtiler.
+
+Perren arkasına dönmedi. Bir süre sonra titremesi kesildi.
+
+Öğleden sonra Kızıl Sürü solmaya, Tek Göz yeniden beyazlaşmaya başladı. Togan bir yol ayrımında durdu. Batıdaki iz bozkıra, güneydoğudaki Eski-Kent'e gidiyordu.
+
+Kaya'ya, Börü'ye ve Anya'ya dönmek istedi. Ne söyleyeceğini bilmiyordu. Eli yol işaretinin üzerinde kaldı.
+
+“Önce gerçeği,” dedi.
+
+Eski-Kent yoluna saptı.
+
+Melira'nın bilekliğini gömleğinin içinden çıkardı. “Seni unutmuyorum,” dedi. “Ama artık sesini çalan her şeye inanmayacağım.”
+
+Burkut önden uçtu. Perren omzundaki çuvalı düzeltti ve yanına yetişti. Arkalarında Sed hâlâ görünüyordu; önlerinde ilk kez ondan daha büyük bir yol vardı.

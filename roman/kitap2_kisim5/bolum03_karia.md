@@ -1,38 +1,22 @@
 # Bölüm 3 — Meziyet Programı
-*(KARİA)*
+*(KARIA)*
 
-Karia, Metheris'e döndükten sonra, ilk işi, yeni vâris felsefesini, somut bir plana dönüştürmek oldu.
+Vârislik komisyonu ilk toplantısında Karia'nın önüne yirmi üç ad koydu. Karia listeyi geri itti.
 
-"Bir program düşünüyorum," dedi Karia, Konsey'e, resmi bir oturumda. "Krallığın her köşesinden, yetenekli, karakterli gençleri, saraya getirip, eğitmek, gözlemlemek için bir program. Yıllar içinde, aralarından, belki, gerçek bir vâris çıkar — kan bağıyla değil, kanıtlanmış liyakatla."
+"Bu insanların çoğu sarayda hiç görev yapmadı. Onları bir görüşmeyle tahta yaklaştırmak da doğum hakkı kadar kör olur."
 
-Bu öneri, Konsey'de, karışık tepkiler aldı — bazı eski soylular, rahatsız oldu, ama çoğunluk, ilginç bir merakla karşıladı.
+Faelan, adayların önce bir yıllık kamu görevi programına alınmasını önerdi. Her biri üç ayrı alanda çalışacak, verdiği kararların hesabını açık oturumda sunacaktı. Programı bitirmek kimseye vârislik sözü vermeyecek; yalnız değerlendirmeye girme hakkı kazandıracaktı.
 
----
+Konsey adını Meziyet Programı koydu. Soylu ailelerin çocukları başvurabilecek, fakat çiftçi birlikleri, loncalar, sınır garnizonları ve komşu yönetimler de aday önerebilecekti. Faelan'ın ağı bilgi toplayacak, seçim yapmayacaktı. Son kısa listeyi karma komisyon hazırlayacaktı.
 
-Sonrasında, bahçede, Kaelan'ın sesi düşünceliydi. "Radikal bir fikir. Ama, itiraf etmeliyim, senin tarzına, çok uygun."
+İlk dış aday Toma oldu. Yamalı Liman'da iki ticaret krizini kayıpsız çözmüş, kendi kaptanının tartı hilesini konsey önünde bildirmişti. Karia, dosyadaki övgüleri çizip somut kayıtları bıraktı.
 
-"Hegemonya'nın tarihi," dedi Karia, düşünceli, "hep, kan bağıyla ilerledi — ve bu, bazen, iyi liderler, bazen, felaketler getirdi. Ben, sadece, şansı, biraz daha, liyakatin lehine çevirmek istiyorum."
+"Onu vâris adayı diye çağırmayın," dedi. "Bir yıllık yönetim değişimi önerin. Gelirse hukuk, erzak ve liman vergisi birimlerinde çalışır. Dönmek isterse yeri açık kalır."
 
-Faelan, bu plana, pratik bir katkıda bulundu. "Adayları, ben seçebilirim — casus ağım, zaten, krallığın her köşesinde, yetenekli insanları, uzun zamandır takip ediyor."
+Elowen, komisyon üyelerinin akraba ve çıkar bağlarını da açıklamasını istedi. Karia maddeyi ekletti. Kendisinin programdaki adaylarla yapacağı özel görüşmeler bile kayda geçirilecekti.
 
----
+Zaleena'ya giden mektup bu sınırları açıkça yazıyordu. Toma'nın kararını ne Karia ne Zaleena verecekti. Yamalı Liman kabul ederse maaşı iki yönetim birlikte ödeyecek, değerlendirme raporunun bir kopyası Toma'ya teslim edilecekti.
 
-İlk aday listesi, bir ay içinde hazırlandı — çiftçi çocuklarından, küçük soylulara, hatta, bir eski Yamalı Liman kaçakçısına kadar, çeşitli bir grup.
+Karia son cümleyi kendi eliyle ekledi: "Bu davet bir taç vaadi değildir; kişinin ne yapabildiğini sınama fırsatıdır."
 
-Karia, listede, bir isme işaret etti. "Bu isim, tanıdık geliyor."
-
-"Toma. Zaleena'nın genç kaptanlarından biri." Faelan'ın sesi bilgiliydi. "Ticaret heyetinde, birkaç kez, burada bulundu. Zeki, dürüst, ve halkı tarafından, gerçekten sevilen biri."
-
----
-
-Karia, bu ismi, uzun bir süre düşündü, sonra, kararını verdi. "Zaleena'ya yazacağım — Toma'yı, bu programa katılmaya davet edip etmeyeceğimi sormak için. Elbette, kendi seçimi olacak."
-
-Elowen, bu haberi duyduğunda, gülümseyerek katıldı. "İki krallık arasında, bir vâris adayı paylaşmak — bu, ittifakınızı, bir kez daha, derinleştirir."
-
-"Belki de," dedi Karia, "bu, geleceğin, nasıl görünmesi gerektiğinin, bir işareti — krallıkların, birbirinden, sadece ticaret değil, insan da paylaştığı bir gelecek."
-
----
-
-O akşam, Zaleena'nın cevabı geldi — hızlı, ve gerçek bir heyecanla dolu: *Toma, bu fırsatı duyduğunda, gözlerinde, gerçek bir ışık gördüm. Elbette, gitmesine izin veririm — ve belki, bu, ikimizin krallıkları arasında, yeni bir bağın, başlangıcı olur.*
-
-Karia, bu cevabı okurken, kendi kendine düşündü: bir yıl önce, sadece, kendi tahtının güvenliğini düşünürdü. Şimdi, geleceği, iki krallığın, ortak bir mirası olarak, inşa ediyordu.
+Mührü bastığında program daha az görkemli görünüyordu. Bu ona güven verdi.

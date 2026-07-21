@@ -1,50 +1,34 @@
 # Bölüm 30 — Han'ın Daveti
 *(TEMUJİN)*
 
-Elçi, bu kez, farklı bir mesajla geldi — ültimatom değil, dikkatle hazırlanmış, resmi bir davet.
+Korgan tarafsız sınır taşında görüşme istedi. Temujin'in katılması şarttı.
 
-"Han Korgan," dedi elçi, Börü'nün huzurunda, "bir parlamento talep ediyor. Tarafsız bir noktada, sınırda. Temujin'in de, katılmasını istiyor."
+Batu tuzak ihtimalini söyledi. Kaya, görüşmeye Sungur heyetinin başında kendisinin gideceğini bildirdi. Temujin sığınmacı olarak heyete katılacak, tek başına pazarlık yapmayacaktı.
 
-Temujin, bu haberi, uzun bir süre, sessizce tarttı — bu, beklediği son şeydi.
+Togan da gelmek istedi. Yeni duyusunu kullanamayacağını söyledi; yalnız Korgan'ı görmek istiyordu. Kaya on muhafız, Batu ve Togan'la yola çıktı.
 
----
+Korgan karşı tarafta on iki askerle bekliyordu. Yüzü Temujin'in hatırladığından daha yorgundu.
 
-Batu'nun sesi, hemen, endişeyle yükseldi. "Bu, bir tuzak olabilir. Korgan, seni, açık alanda, savunmasız yakalamak istiyor olabilir."
+"Kartal Burnu'nda beni aldattın," dedi. "Yine de binlerce asker yaşadı. İkisini de inkâr etmiyorum."
 
-"Olabilir," dedi Temujin, yavaşça. "Ama eğer, gitmezsem, korkak görünürüm — ve eğer, korkak görünürsem, inşa etmeye çalıştığım her şey, zarar görür. Meşruiyet, cesaret gerektirir."
+Temujin eğildi. "Ben de emrinizi çiğnediğimi inkâr etmiyorum."
 
-Kaya, bu tartışmaya, dikkatli bir öneriyle katıldı. "Gitmelisin — ama yalnız değil. Sungur muhafızlarından bir grup, seninle gelecek. Ve ben de, geleceğim."
+Korgan teklifini açıkladı. Sürgün kalıcı olacak, Azgut ordusu Sungur sınırına yürümeyecekti. Temujin ise Korgan'a bağlı boylarda örgütlenmeyecek ve kendisini Han adayı ilan etmeyecekti.
 
----
+Kaya araya girdi. "Sungur–Azgut ateşkesi iki kişi üzerinden yazılmaz. Sınır, ticaret ve esir değişimi ayrı maddeler olacak."
 
-"Sen mi?" diye sordu Temujin, şaşkınlıkla.
+Korgan ona baktı. "Sığınmacın bozkırı karıştırmayacak."
 
-Kaya'nın netliği kesindi. "Ben. Çünkü, sen, artık, sadece bir Azgut kaçağı değilsin — sen, Sungurlar'ın himayesindesin. Ve bu, benim de, orada olmam gerektiği anlamına gelir. Korgan, seni tehdit ederse, bütün klanımı tehdit etmiş olur."
+"Bizim toprağımızda yaşayan biri yasamıza uyar. Onun zihnine hükmetmeyiz."
 
-Togan, bu tartışmayı, sessizce dinlemişti, şimdi, öne çıktı. "Ben de geliyorum."
+Temujin ağının ayrıntılarını açıklamadı. Teklif, küçük boylarla konuşma hakkından vazgeçmesini istiyordu. Kabul ederse savaş ertelenecek, fakat kurmak istediği alternatif doğmadan kapanacaktı.
 
-"Bu, senin savaşın değil, Togan," dedi Temujin, dikkatle.
+"Üç gün istiyorum," dedi.
 
-"Belki değil," dedi Togan, kararlı. "Ama sen, benim dostumsun artık. Ve Sed'den beri, bazı şeyleri, hissedebiliyorum — eğer bir tuzak varsa, belki, onu, önceden sezebilirim."
+Korgan kabul etti. Ayrılırken Togan sessizce Temujin'in yanına geldi.
 
----
+"Yorgun görünüyor," dedi.
 
-Parlamento günü geldiğinde, küçük bir grup — Temujin, Kaya, Togan, Batu, ve on Sungur muhafızı — sınırdaki tarafsız noktaya, dikkatle, silahlı ama saldırgan olmayan bir tavırla yaklaştı.
+"Yorgun adamlar daha az tehlikeli değildir. Bazen kaybedecek zamanları azdır."
 
-Korgan, kendi muhafızlarıyla, karşı taraftan geldi — yüzünde, her zamanki soğuk hesap, ama bu kez, altında, Temujin'in, ilk kez fark ettiği bir şey de vardı: yorgunluk.
-
-Korgan, at üzerinde, sesi, resmi ama tuhaf bir şekilde, daha az düşmancaydı. "Genç Kurt. Uzun zaman oldu."
-
-"Han'ım." Temujin, eğildi — saygı, ama artık, korku değil.
-
----
-
-"Doğrudan konuşayım," dedi Korgan, dikkatle, çevresindeki herkesin duyabileceği bir sesle. "Kar-Yılan'ın mesajını aldım. Ve düşündüm — uzun süre düşündüm. Sen, beni, aptal yerine koydun, Temujin, Kartal Burnu'nda. Ve bu, beni öfkelendirdi. Ama aynı zamanda... binlerce adamımı, kansız kurtardın. Bunu da, inkâr edemem."
-
-Temujin, bu itirafı, dikkatle dinledi, hiçbir şey söylemeden.
-
-"Sana bir teklif sunuyorum," dedi Korgan, sesi, ağır bir kararlılıkla. "Sürgünün kalıcı kalsın — bozkıra dönmeyeceksin, benim ordumda yerin olmayacak. Ama açık bir savaş da olmayacak. Sungurlar'la, bir ateşkes imzalayacağız — resmi, kalıcı. Sen, orada kal, istediğin hayatı yaşa. Ama bozkırın geri kalanına, karışmayacaksın."
-
-Temujin, bu teklifi, uzun bir süre düşündü — bu, savaş değildi, ama aynı zamanda, kendi büyük hayalini de, açıkça, reddediyordu.
-
-Temujin'in sesi, ölçülü ama kesindi. "Düşüneceğim. Ve cevabımı, üç gün içinde vereceğim."
+Dönüş yolunda Kaya teklifin Sungurlar için iyi yanlarını ve tuzaklarını ayrı ayrı yazdırdı. Kararı Temujin verecekti; ateşkesin klanla ilgili maddelerini ise meclis.

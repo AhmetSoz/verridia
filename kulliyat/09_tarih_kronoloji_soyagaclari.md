@@ -53,7 +53,7 @@ Hegemonya'nın ilk yıllarının alev saçlı kaptanı; donanmanın her tuzağı
 
 **G.Ö. 55 — KIZIL HUMMA AKINTISI (8.).*** Hasat zengin, bedeli korkunç: tarihin en büyük Humma salgını. Damgalılar bir "sınıf" hâline bu salgında geldi; Kor-Ateşler'in ilk tohumları (yakarak "temizleyen" çeteler) bu kaosta görüldü. Delta, salgının ilacını satarak bugünkü servet temelini attı — "Delta zenginliği, Hegemonya'nın kanıdır" sözü bu dönemden.
 
-**G.Ö. 27 — KIRIK YEMİN AKINTISI (9. — son Akıntı).** Sungurlar'ın bilge hanı **Alpagu Han**, tüm klanların ortak hasadı için Hegemonya'yla barış ve klanlar arası saldırmazlık yemini örgütledi. Yemin günü, Sarmaşan kıyısındaki kadim taş çemberde, Azgut hanı **Bozan Han** (Korgan'ın babası) pusu kurdu: Alpagu Han ve muhafızları katledildi. Genç **Gök-Göz Börü**, babasının yanı başında tanık oldu. Bozkır birliği doğmadan öldü; Sungur-Azgut kan davası başladı; Azgutlar hasadın çoğunu alıp güçlendi. *(Aynı Akıntı'da, doğuda: Paslı Finn, Fısıldayan Gemi'ye açıldı ve aklıyla tayfasının yarısını orada bıraktı. Aynı Akıntı'nın kaosunda, bozkırda: bir Azgut kadını, kimsenin bilmediği bir kuzey yolculuğundan tek başına ve hamile döndü — bkz. Yazar Katmanı.)*
+**G.Ö. 27 — KIRIK YEMİN AKINTISI (9. — son Akıntı).** Sungurlar'ın bilge hanı **Alpagu Han**, tüm klanların ortak hasadı için Hegemonya'yla barış ve klanlar arası saldırmazlık yemini örgütledi. Yemin günü, Sarmaşan kıyısındaki kadim taş çemberde, Azgut hanı **Bozan Han** (Korgan'ın selefi) pusu kurdu: Alpagu Han ve muhafızları katledildi. Genç **Gök-Göz Börü**, babasının yanı başında tanık oldu. Bozkır birliği doğmadan öldü; Sungur-Azgut kan davası başladı; Azgutlar hasadın çoğunu alıp güçlendi. *(Aynı Akıntı'da, doğuda: Paslı Finn, Fısıldayan Gemi'ye açıldı ve aklıyla tayfasının yarısını orada bıraktı. Aynı Akıntı'nın kaosunda, bozkırda: bir Azgut kadını, kimsenin bilmediği bir kuzey yolculuğundan tek başına ve hamile döndü — bkz. Yazar Katmanı.)*
 
 **G.Ö. 27–bugün — Bilenme Çağı.** Börü'nün yas seçimiyle hanlığı; Korgan'ın Kırıcı Yargı'yla Azgut tahtını alışı (G.Ö. ~24)*; Theodoric III'ün tahta çıkışı (G.Ö. ~30)* ve oğlunun Kuzey Sefer Yolu'nda kayboluşu (G.Ö. ~12)*; Kül-Peygamberi'nin ortaya çıkışı (G.Ö. ~6)*; Roric'in Enkaz Kralı unvanını düelloyla alışı (G.Ö. ~9)*. Ve şimdi: **Beklenti Yılı'nın eşiği.** (Güncel durum: Bölüm X.)
 
@@ -84,7 +84,7 @@ Kartal-Göz Tuman (Börü'nün dedesi; Bölünme'den beri sayılan 6. han)
    └─ Gök-Göz Börü (şu anki han, ~35 yaş; cinayete 8 yaşında tanık oldu; bekâr — İhtiyarlar'ın baş ağrısı)
       *(Not: Eski Külliyat'taki "yirmili yaşlarının başında" ifadesi, 27 yıl önceki cinayete tanıklıkla çelişiyordu; bu belgeyle ~35 olarak düzeltildi.)*
 ```
-- Yan bağlar: Anya, Alpagu'nun ve Tuman'ın danışmanı; Kaya, Börü'nün süt kardeşi* (annesi, Börü'yü emzirdi — "süt kardeşliği" bozkırda kan sayılır; ikilinin sarsılmazlığının kültürel temeli).
+- Yan bağlar: Anya, Alpagu'nun ve Tuman'ın danışmanı; Kaya (~35), Börü'nün ve Togan'ın süt kardeşi* (annesi ikisini de emzirdi — "süt kardeşliği" bozkırda kan sayılır). Kaya, Togan'dan dokuz yaş büyük olduğu için ilişkileri süt abla–kardeş biçimindedir.
 
 ### 3.3 Azgut Han Çizgisi
 ```
