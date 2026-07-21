@@ -9,6 +9,8 @@ import html
 import re
 from pathlib import Path
 
+from PIL import Image as PILImage
+from PIL import ImageEnhance
 from pypdf import PdfReader
 from reportlab.lib import colors
 from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT
@@ -42,6 +44,7 @@ BOOKS = {
         "digital_output": OUTPUT_DIR / "VERRIDIA_KITAP1_KIZIL_HAFTA_DIJITAL_EDISYON.pdf",
         "cover": ROOT / "site" / "assets" / "img" / "kartal-yurdu.jpg",
         "accent": "#d4a24e",
+        "cover_anchor": 0.30,
         "number": "KİTAP I",
         "subtitle": "Kızıl Hafta",
         "header": "KİTAP I · KIZIL HAFTA",
@@ -52,6 +55,7 @@ BOOKS = {
         "digital_output": OUTPUT_DIR / "VERRIDIA_KITAP2_DORT_YOL_AYRI_MUHURLER_DIJITAL_EDISYON.pdf",
         "cover": ROOT / "site" / "assets" / "img" / "eski-kent.jpg",
         "accent": "#7fa5c4",
+        "cover_anchor": 0.50,
         "number": "KİTAP II",
         "subtitle": "Dört Yol, Ayrı Mühürler",
         "header": "KİTAP II · DÖRT YOL, AYRI MÜHÜRLER",
@@ -62,6 +66,7 @@ BOOKS = {
         "digital_output": OUTPUT_DIR / "VERRIDIA_KITAP3_TAM_SECIM_DIJITAL_EDISYON.pdf",
         "cover": ROOT / "site" / "assets" / "img" / "yildiz-orsu.jpg",
         "accent": "#b56576",
+        "cover_anchor": 0.50,
         "number": "KİTAP III",
         "subtitle": "Tam Seçim",
         "header": "KİTAP III · TAM SEÇİM",
@@ -312,15 +317,27 @@ def draw_page(canvas, doc):
     canvas.restoreState()
 
 
-def draw_cover_image(canvas, path: Path, width: float, height: float) -> None:
-    image = ImageReader(str(path))
-    image_width, image_height = image.getSize()
-    scale = max(width / image_width, height / image_height)
-    draw_width = image_width * scale
-    draw_height = image_height * scale
-    x = (width - draw_width) / 2
-    y = (height - draw_height) / 2
-    canvas.drawImage(image, x, y, width=draw_width, height=draw_height, mask="auto")
+def prepared_cover_image(path: Path, width: float, height: float, anchor: float = 0.5) -> ImageReader:
+    """Yatay site gorselini A5 kapaga kirpar ve metin icin sinematik bicimde koyultur."""
+    image = PILImage.open(path).convert("RGB")
+    target_ratio = width / height
+    source_ratio = image.width / image.height
+    if source_ratio > target_ratio:
+        crop_width = round(image.height * target_ratio)
+        left = round(image.width * anchor - crop_width / 2)
+        left = max(0, min(left, image.width - crop_width))
+        image = image.crop((left, 0, left + crop_width, image.height))
+    else:
+        crop_height = round(image.width / target_ratio)
+        top = max(0, (image.height - crop_height) // 2)
+        image = image.crop((0, top, image.width, top + crop_height))
+
+    image = ImageEnhance.Contrast(image).enhance(1.08)
+    image = ImageEnhance.Color(image).enhance(0.82)
+    image = ImageEnhance.Brightness(image).enhance(0.48)
+    night = PILImage.new("RGB", image.size, (5, 8, 13))
+    image = PILImage.blend(image, night, 0.18)
+    return ImageReader(image)
 
 
 def draw_digital_cover(canvas, doc):
@@ -330,11 +347,8 @@ def draw_digital_cover(canvas, doc):
     canvas.setAuthor("Verridia")
     canvas.setFillColor(colors.HexColor("#0a0d13"))
     canvas.rect(0, 0, width, height, stroke=0, fill=1)
-    draw_cover_image(canvas, doc.book["cover"], width, height)
-    canvas.setFillAlpha(0.62)
-    canvas.setFillColor(colors.HexColor("#05070b"))
-    canvas.rect(0, 0, width, height, stroke=0, fill=1)
-    canvas.setFillAlpha(1)
+    image = prepared_cover_image(doc.book["cover"], width, height, anchor=doc.book["cover_anchor"])
+    canvas.drawImage(image, 0, 0, width=width, height=height, mask="auto")
 
     accent = colors.HexColor(doc.book["accent"])
     canvas.setStrokeColor(accent)
@@ -393,12 +407,6 @@ def draw_digital_part(canvas, doc):
     canvas.saveState()
     canvas.setFillColor(colors.HexColor("#0d1017"))
     canvas.rect(0, 0, width, height, stroke=0, fill=1)
-    canvas.setFillAlpha(0.12)
-    draw_cover_image(canvas, ROOT / "site" / "assets" / "img" / "ana-harita.jpg", width, height)
-    canvas.setFillAlpha(0.88)
-    canvas.setFillColor(colors.HexColor("#0d1017"))
-    canvas.rect(0, 0, width, height, stroke=0, fill=1)
-    canvas.setFillAlpha(1)
     canvas.setStrokeColor(colors.HexColor("#c9a45c"))
     canvas.setLineWidth(0.55)
     canvas.rect(10 * mm, 10 * mm, width - 20 * mm, height - 20 * mm, stroke=1, fill=0)
