@@ -85,7 +85,7 @@ Işıyan taşlaşmış bedene döndü. "Eşiği geçti. Sığınağın koruması
 
 "Üzerinde dışarıdan alınmış öz vardı. Kendi kanına ait değildi. Eşik onu saldırı gibi okudu."
 
-Aras'ın günlüğünde, yola çıkmadan önce kullandığı güçlendirici şifreden söz ediliyordu. Lyra bunun sıradan bir uyarıcı olduğunu sanmıştı. Togan şişeyi bulmamıştı; yine de Işıyanın açıklaması kayda uyuyordu.
+Aras'ın günlüğünde, yola çıkmadan önce kullandığı güçlendirici iksirden söz ediliyordu. Lyra bunun sıradan bir uyarıcı olduğunu sanmıştı. Togan şişeyi bulmamıştı; yine de Işıyanın açıklaması kayda uyuyordu.
 
 "Bunu ona söyledin mi?"
 

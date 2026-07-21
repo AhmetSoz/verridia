@@ -35,7 +35,7 @@ Soru Karia'yı durdurdu. Elowen'in adaylığı aklından geçmemişti; yine de k
 
 Karia bunun kendisine kolaylık vermediğini anladı. Elowen ne tahttan vazgeçiyor ne talep ediyordu. Yalnız kişisel ilişkinin gizli bir eleme kuralına dönüşmesini reddediyordu.
 
-Elowen hemen onay vermedi. "O hâlde kişiyi değil, ölçüyü önce belirle."
+Elowen ona kolay bir çıkış bırakmadı. "O hâlde kişiyi değil, ölçüyü önce belirle."
 
 "Ölçüyü kim belirleyecek? Ben seçersem yine benim tercihim."
 

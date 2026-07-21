@@ -177,7 +177,7 @@ Kâtip, raf etiketlerinin üstüne ortak bir ad yazıp yazmayacağını sordu.
 
 "Hayır," dedi Lyra. "Bağlantı defterine birbirlerine nereden ulaştıklarını yaz. Adlarını değiştirme."
 
-Açık kalan işleri son sayfaya geçirdi: Malakor makamının kayıp görevlisi, bulunamayan Bozan emri, Togan'ın durdurulan deneyi, üçüncü Delta kasası ve onu izleyen iki kilit. Sonra teslim saatlerini kayda ekledi.
+Açık kalan işleri son sayfaya geçirdi: Malakor makamının kayıp görevlisi, bulunamayan Bozan emri, Togan'ın durdurulan deneyi ve açılmayan üç Delta kasası. Sonra teslim saatlerini kayda ekledi.
 
 Dört yol birleşmemişti. Aralarında, süresi ve bedeli yazılı geçitler açılmıştı. Her topluluk kendi mührünü taşıyor, ötekinin kaydını sınayabiliyor ve gerektiğinde geri çekilebiliyordu.
 

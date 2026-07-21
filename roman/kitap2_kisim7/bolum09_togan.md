@@ -105,7 +105,7 @@ Korgan kendi şartlarını masaya koydu. Temujin, Azgut askerlerini Delta'ya vey
 
 Temujin ikinci cümleyi okudu. "Aynı yasak Azgutlar için de Kuru Dere'de geçerli olacak."
 
-"Sen benim askerimdın," dedi Korgan.
+"Sen benim askerimdin," dedi Korgan.
 
 "Artık ayrı antlaşmanın tarafıyım."
 

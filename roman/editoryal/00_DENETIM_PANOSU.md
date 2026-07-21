@@ -1,7 +1,7 @@
 # VERRIDIA — EDİTORYAL DENETİM PANOSU
 
 **Yetki tarihi:** 21 Temmuz 2026  
-**Kaynak kapsamı:** 3 kitap · 17 kısım · 358 dijital bölüm · 178.222 kelime  
+**Kaynak kapsamı:** 3 kitap · 17 kısım · 358 dijital bölüm · 178.250 kelime
 **Amaç:** Türkçe ana metnin yapısal, kanonik, psikolojik ve dilsel kilit durumunu tek yerde izlemek.
 
 ## Durum anahtarı
@@ -24,7 +24,7 @@
 | G6 | Üçüncü Kitap yapısal edit | TEMİZ | 123 bölüm; Kaya/Karakçı/Sable/Malakor/Hasat sonuç zinciri doğrulandı |
 | G7 | 15 bağımsız tarama | TEMİZ | `05_TARAMA_KAYDI.md` |
 | G8 | Satır ve kopya editörlüğü | TEMİZ | `check:nesir` 358/358; dört POV ses profili kilitli |
-| G9 | Baskı ana dosyaları ve temiz yayın okuması | TEMİZ | 15 + 50 + 31 fasıl; kaynak–baskı birebir eşleşme testi temiz |
+| G9 | Baskı ana dosyaları ve temiz yayın okuması | TEMİZ | 15 + 50 + 31 fasıl baştan sona okundu; `06_SOGUK_OKUMA_KAYDI.md`; kaynak–baskı birebir eşleşme testi temiz |
 | G10 | Türkçe ana metin kilidi | TEMİZ | 358 bölüm; `npm test` tam geçti; 21 Temmuz 2026 |
 
 ## Bu turda bulunan önemli sorunlar
@@ -40,7 +40,13 @@
 | P1 | Kitap 3 Kısım 3'te Karia hattı altı ay, Zaleena hattı üç ay ilerlemiş görünüyordu | Meziyet ara denetimi üçüncü aya çekildi; iki etkin kurul ve dokuz hazırlık dosyası yapıldı | DÜZELTİLDİ |
 | P2 | Sarıkavak ve Neris isim/yer sicilinde yoktu | Harita ve isim siciline eklendi | DÜZELTİLDİ |
 | P1 | Neris bir sahnede Amara'nın elçisi olarak tanıtılmıştı | Yamalı Liman'ın dış denetim arşivcisi kimliği sahnede ve sicilde düzeltildi | DÜZELTİLDİ |
-| P2 | Site kelime sayacı redaksiyon sonrası eski değerdeydi | 178.222 kaynak kelime / sitede 178 bin olarak yeniden üretildi | DÜZELTİLDİ |
+| P2 | Site kelime sayacı redaksiyon sonrası eski değerdeydi | 178.250 kaynak kelime / sitede 178 bin olarak yeniden üretildi | DÜZELTİLDİ |
+| P1 | İkinci Kitapta Severin, Burkut ve sürgün grubunun sayısı kendi sonraki sahneleriyle çelişiyordu | Yaşam durumları ve 31 kişilik grup bütün ilgili bölümlerde eşitlendi | DÜZELTİLDİ |
+| P1 | Neris, Delta iç kurulu denetimi oylamadan önce göreve başlamış görünüyordu | Kurulun tarihli onayı yolculuktan önce metne alındı | DÜZELTİLDİ |
+| P1 | Üçüncü Kitap açılışı, ayrı sözleşmeleri gerekçesiz biçimde tek bir Dört Bayrak İttifakı gibi sunuyordu | Halkın kullandığı şemsiye ad ile ayrı hukuki protokoller açıkça bağlandı | DÜZELTİLDİ |
+| P1 | Perren aynı zaman aralığında Kartal-Yurdu ve Kor-Ateşler'de görünüyordu | İlk deney tanıklığı Mirasçı temsilcisine verildi; Perren'in sonraki gelişi sahnelendi | DÜZELTİLDİ |
+| P1 | Yamalı Liman'ın nihai nüfus hesabı verilen ara sayılardan çıkmıyordu | 4.106 − 17 çift kayıt = 4.089 hesabı kaynakta ve lojistik kaydında eşitlendi | DÜZELTİLDİ |
+| P2 | Soğuk okumada bir yinelenen paragraf ile çeşitli yazım/anlatım pürüzleri bulundu | Kaynakta temizlendi; tam döküm `06_SOGUK_OKUMA_KAYDI.md` içinde | DÜZELTİLDİ |
 
 ## Kasıtlı açıklar
 

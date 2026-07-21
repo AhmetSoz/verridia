@@ -1,7 +1,7 @@
 # Bölüm 13 — Sable'ın Kararı
 *(TOGAN)*
 
-Kayıtların Kor-Ateşler'e ulaşması üç hafta sürdü.
+Kayıtların Kor-Ateşler'e ulaşması üç hafta sürdü. Perren de aynı kervanla geldi. Kartal-Yurdu'ndaki harita derslerini seçilen iki eğitmene devretmiş, bu yolculuğa kendi kararıyla katıldığını giriş kaydına yazdırmıştı.
 
 İlk sandıkta Delta defterinden çözülen on isim vardı. İkinci sandık, Sed'e gidip dönen altı kişinin ifadelerini taşıyordu. Üçüncüsünde boşluklar bulunuyordu: kimliği açılmamış otuz yedi numara, sonucu yazılmamış deneyler, mühürden sonra sayfaları kesilmiş üç defter.
 
@@ -72,4 +72,3 @@ Sable onu durdurdu. "Bir şart daha."
 "Aynı arabada gitmeyeceğiz. Bizi bir yere bağlamaya çalışan olursa tek düğümle ikimizi birden alamayacak."
 
 Togan ilk yol kuralını kayıt sayfasına yazdı. Sable kendi adının altına işaret koydu. Sed'e giden kafile, onun kararıyla iki ayrı hatta bölünecekti.
-

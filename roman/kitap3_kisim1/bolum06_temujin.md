@@ -25,7 +25,7 @@ Batu, yalan söyleyenlerin tutulmasını önerdi. Temujin reddetti. Bir hanın h
 
 Bunun yerine "Söylenti Nöbetçileri" adı verilen açık bir kayıt ağı kuruldu. Adı Yeşim koydu, yetkisini ise boylar sınırladı. Nöbetçiler kimseyi susturmayacak, yalnız duydukları iddiayı kaynağı ve tarihiyle yazacaktı. İttifakın cevabı ayrı sütunda duracak; "doğrulandı", "yanlış" ve "bilinmiyor" işaretleri birbirine karıştırılmayacaktı. Her boy kendi kaydını tutacak, merkez yalnız kopyaları karşılaştıracaktı.
 
-Yeşim ilk gön gönüllü oldu. "Temürçi bağlantılarım bu konuda değerli olabilir. Biz her zaman bilgiye yaklaşırız."
+Yeşim ilk gönüllü oldu. "Temürçi bağlantılarım bu konuda değerli olabilir. Biz her zaman bilgiye yaklaşırız."
 
 "O zaman ilk kuralı sen yaz," dedi Temujin.
 

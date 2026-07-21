@@ -13,7 +13,7 @@ Sarris gülümsedi. "Lord Severin'in Azgutlara sattığı silahları düşüneli
 
 Karia bardağına dokunmadı. O satışı Faelan'la birlikte aylarca gizli tutmuştu. Sarris bilginin etkisini görmek için susuyordu; ona bu zevki vermedi.
 
-"Severin öldü."
+"Severin'in dosyası zaten elimde."
 
 "Sırları ölmedi. Bazılarında sizin imzanız da olabilir."
 

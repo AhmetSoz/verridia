@@ -3,7 +3,7 @@
 
 Yamalı Liman'da bir belgeyi meydanda okumak, onu açıklamak sayılmazdı. Denizcilerin çoğu küçük yazıyı uzaktan seçemez, seçenler de kurul diline güvenmezdi. Zaleena bu yüzden ittifak metninin yanına ilk altı ayın gerçek hesabını astı: hangi gemi korunmuş, hangi ambar kullanılmış, Yamalı Liman ne vermiş ve karşılığında ne almıştı.
 
-"Hiçbir gizli madde yok," dedi kalabalığa. "Hiçbir gizli vergi, hiçbir zorunlu asker toplama. Sadece karşılıklı savunma ve serbest ticaret. İşte belgenin kendisi. Herkes okuyabilir."
+"Hiçbir gizli madde yok," dedi kalabalığa. "Gizli vergi de zorunlu asker toplama da yok. Savunma çağrısı her yönetimin kendi kararına bağlı. Ticaret hesabı açık. İşte belgeler; herkes okuyabilir."
 
 Ön sıradaki ağ tamircisi elini kaldırdı. "Okumayan ne yapacak?"
 

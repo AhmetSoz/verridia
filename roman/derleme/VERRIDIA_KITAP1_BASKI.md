@@ -3056,8 +3056,6 @@ Kimse el kaldırmadı.
 
 Ardından üç kaptan daha çekildi. Sonuncusu gece yarısı demir halatını kesip kaçtı. O geminin altı tayfası kıyıda kalmıştı; kaptan ailelerine haber vermeden ayrılmıştı. Zaleena gemiyi firari kaydına geçirdi, kıyıda kalan tayfanın ücretini kaptanın liman payından kestirdi.
 
-Kaptanlar Konseyi’nde on üç bıçak haritanın çevresine konmuştu. Kessel gemisini üç gün dış koyda tuttuktan sonra geri dönmüş, sefere katılmayacağını rıhtımın ortasında ilan etmişti. Ardından üç kaptan daha çekilmiş, sonuncusu gece yarısı demir halatını kesip kaçmıştı.
-
 Roric’in amiral gemisi liman ağzını geçerken toplarını ateşledi. Gürültü Jilet Resifleri’nde birkaç kez yankılandı.
 
 “Sürprizleri de böylece yola çıktı,” dedi Zaleena.

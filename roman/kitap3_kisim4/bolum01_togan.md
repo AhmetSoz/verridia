@@ -5,7 +5,7 @@
 
 Bir insanın başı kadardı. Kızıl Akıntı kıyısından yıllar önce getirilmiş, Kor-Ateşler'in ocağında üç gün ısıtıldığı hâlde renk değiştirmemişti. Yüzündeki yarım çember, kurumla doldurulunca daha belirgin görünüyordu.
 
-Sable taşın çevresine kömürle iki çizgi çekti. İç çizgiye yalnız kendisiyle Togan girecekti. Torg dış çizgide kalacak, Mirasçı temsilcisi kapının eşiğinden kayıt tutacaktı. Perren de onun yanında duruyordu. Elinde boş bir defter vardı.
+Sable taşın çevresine kömürle iki çizgi çekti. İç çizgiye yalnız kendisiyle Togan girecekti. Torg dış çizgide kalacak, Mirasçı temsilcisi kapının eşiğinden kayıt tutacaktı. Temsilcinin elinde boş bir defter vardı.
 
 "Söylediklerimi tekrar et," dedi Sable.
 
@@ -59,7 +59,7 @@ Kadının avucundaki eski yara açılmıştı. Kan, yeşil damarların arasında
 
 "Kayda geç," dedi. "Ben durdurdum. O bıraktı. Gecikmesi iki kalp atımı."
 
-Perren eşiğin dışında yazdı. "Taş?"
+Mirasçı temsilcisi eşiğin dışında yazdı. "Taş?"
 
 Herkes yere baktı.
 
@@ -67,13 +67,13 @@ Yarım çember sönmüştü. Taşın çevresindeki kırağı ise içeriye değil
 
 ---
 
-Togan ayağa kalkınca midesi bulandı. Duvara yaslanıp kusmadan bekledi. Perren yanına gelmedi; dokunmanın iyi gelip gelmeyeceğini sordu.
+Togan ayağa kalkınca midesi bulandı. Duvara yaslanıp kusmadan bekledi. Mirasçı temsilcisi yanına gelmedi; dokunmanın iyi gelip gelmeyeceğini sordu.
 
 Togan hayır anlamında elini kaldırdı.
 
 Bir süre sonra Kaya'nın yüzünü yeniden düşündü. Kaşının üstündeki küçük izi, saçını bağladığı deri şeridi, talimde kılıcını tutuşunu bulabildi. Sesine ulaşamadı. Kaya'nın ona kaç kez "ayağa kalk" dediğini biliyordu. O iki kelimeyi hangi tonla söylediği kaybolmuştu.
 
-Perren boş sayfanın üstünde bekledi. Togan eksilmeyi saklarsa Sable'ın kararını çalacağını anladı.
+Mirasçı temsilcisi boş sayfanın üstünde bekledi. Togan eksilmeyi saklarsa Sable'ın kararını çalacağını anladı.
 
 "Bir anı daha gitti," dedi. "Belki geçicidir. Şimdilik sesini duyamıyorum."
 
@@ -86,4 +86,3 @@ Sable ona dönmeden konuştu. "Zaten bitti. Yenisi için bugün söz vermedim."
 Mirasçı temsilcisi kaydın altına saati ve tanıkları yazdı. Kâğıdı önce Togan'a uzatmadı. Sable okudu, iki sözcüğü düzelttirdi ve sayfanın altına kendi işaretini koydu. Ancak ondan sonra Togan imzaladı.
 
 Ölü taş, ikisinin arasında çatlamıştı. Çatlak çok inceydi. Yine de yarım çemberi tam ortasından ayırıyordu.
-

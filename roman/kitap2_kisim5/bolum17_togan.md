@@ -11,7 +11,7 @@ Kuru Dere kurulu Togan'ın yokluğunda nöbet değişikliğini onayladı. Temuji
 
 Lyra beş adı sordu: Kaya, Börü, Melira, Burkut, Perren. Togan hepsini söyledi. Tarih, ağrının şiddeti ve bir önceki Sed ziyaretinden geçen gün sayısı deftere işlendi.
 
-Bu kez adların yanında ortak anı soruları da vardı. Kaya'nın çocukken ona verdiği ilk bıçağın sapı, Börü'nün yaralı dizi, Melira'nın avlu duvarı, Burkut'un mezar yönü ve Perren'le ilk karşılaştıkları han. Togan bıçağın sapını kemik diye hatırladı. Lyra'nın eski kaydında boynuz yazıyordu.
+Bu kez adların yanında ortak anı soruları da vardı. Kaya'nın çocukken ona verdiği ilk bıçağın sapı, Börü'nün yaralı dizi, Melira'nın avlu duvarı, Burkut'un sol pençesindeki eski kesik ve Perren'le ilk karşılaştıkları han. Togan bıçağın sapını kemik diye hatırladı. Lyra'nın eski kaydında boynuz yazıyordu.
 
 Kaya, bıçağın boynuz saplı olduğunu doğruladı. Togan yanlışın Akıntı'dan mı, çocukluk anısının doğal aşınmasından mı geldiğini bilmiyordu. Kayıt bu yüzden *uyuşmazlık* dedi; *kayıp* demedi.
 

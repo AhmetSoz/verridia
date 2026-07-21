@@ -11,7 +11,7 @@
 | Birinci Kitap — *Kızıl Hafta* | 4 | 53 | 50.123 | Türkçe kaynak kilitli; 15 fasıllık baskı katmanı doğrulandı |
 | İkinci Kitap — *Dört Yol, Ayrı Mühürler* | 8 | 182 | 79.066 | Türkçe kaynak kilitli; 50 fasıllık baskı katmanı doğrulandı |
 | Üçüncü Kitap — *Tam Seçim* | 5 | 123 | 49.033 | Türkçe kaynak kilitli; 31 fasıllık baskı katmanı doğrulandı |
-| **Toplam** | **17** | **358** | **178.222** | Üç kitabın kaynak, baskı, site, kanon, nesir ve editoryal testleri temiz |
+| **Toplam** | **17** | **358** | **178.250** | Üç kitabın kaynak, baskı, site, kanon, nesir ve editoryal testleri temiz |
 
 ## Türkçe kaynak kilidi — 21 Temmuz 2026
 

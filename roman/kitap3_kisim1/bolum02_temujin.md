@@ -39,7 +39,7 @@ Sarnai bu kez ona daha uzun baktı. "Bunu da yazın," dedi kâtibine. "Bilmedikl
 
 Temujin belgeleri hemen açmadı. Önce Sarnai'den kaygıları tek tek söylemesini istedi. Zorunlu askerlik, vergi, otlakların ortak yönetime geçmesi ve Azgut Hanı'nın tek savaş buyruğu verebilmesi... Dört iddianın dördü de metinde açıkça yasaklanmıştı.
 
-"Bunun kanıtını size getirdik," dedi Temujin. "İttifakın gerçek şartları yazılı. Hiçbir gizli madde yok, Sarnai. Sadece karşılıklı savunma ve serbest ticaret."
+"Bunun kanıtını size getirdik," dedi Temujin. "İttifakın şartları birbirine bağlı açık sözleşmelerde yazılı. Gizli madde yok, Sarnai. Savunma çağrısı her topluluğun kendi kararına bağlı; tek savaş buyruğu yok. Ticaret hesabı da burada."
 
 Sarnai mühürlere uzanmadı. "Kâğıt sizin, mühür sizin."
 

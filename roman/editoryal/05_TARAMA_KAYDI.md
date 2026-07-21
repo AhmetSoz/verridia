@@ -14,7 +14,7 @@ Durum anahtarı:
 | 6 | Karakter amacı ve psikoloji | Dört ana POV'un başlangıç–yanlış inanç–geri dönülmez karar zinciri; karakter matrisi | Temujin tek komutayı, Karia denetimsiz yetkiyi, Zaleena limanı insanlara tercih etmeyi, Togan cevapları reddetti | KAPANDI |
 | 7 | Güç ve kozmoloji | Togan + yalan/kötülük/niyet/uzak mühür araması; kör deneyler ve bedel sahneleri | Yetinin Akıntı'yla değişmiş yakın madde dışına taşması engellendi; finalde işlevi söndü | KAPANDI |
 | 8 | Siyaset ve kurumlar | Dört Bayrak, mühür, ordu, federasyon, oy birliği ve olağanüstü yetki aramaları | Şemsiye ad ile hukuki yapı ayrıldı; propaganda taslağındaki `Dört Bayrak ordusu` Temujin tarafından metin içinde reddediliyor | KAPANDI |
-| 9 | Ekonomi ve lojistik | Nüfus, gemi, erzak, süre, vuruş ve tahliye sayıları çaprazlandı | 186 Sarıkavaklı, 1.800 dış koy tahliyesi, 4.112→4.089 sayımı ve 32 nefeslik vuruş tutarlı | KAPANDI |
+| 9 | Ekonomi ve lojistik | Nüfus, gemi, erzak, süre, vuruş ve tahliye sayıları çaprazlandı | 186 Sarıkavaklı, 1.800 dış koy tahliyesi, 4.106→4.089 sayımı ve 32 nefeslik vuruş tutarlı | KAPANDI |
 | 10 | Vaat–ipucu–karşılık | `04_VAAT_KARSILIK_BEDEL.md`; ana ve yan vaatlerin son durumları | Üçleme vaatleri kapandı; kozmik ve sonraki-seri açıkların sahipleri/sınırları yazıldı | KAPANDI |
 | 11 | Kayıp ve sonuç | Ölüm/yara sonrası görünürlük tablosu; ölümden sonra etkin fiil taraması | Finn, Kaya, Karakçı, Boran; Suna, Sable, Kessel ve Togan kayıpları geri alınmıyor | KAPANDI |
 | 12 | Yapı ve tempo | 358 dijital bölüm; 15/50/31 fasıllık üç baskı katmanı | Üretim notu olan `devam edecek` kapanışları kaldırıldı; 336 ve 641 kelimelik iki cılız K2 faslı yeniden dengelendi | KAPANDI |
@@ -31,4 +31,8 @@ Durum anahtarı:
 
 ## Yayın kapısı sonucu
 
-Üç baskı derlemesi üretildi ve kaynaklarla birebir eşleşti. Fasıl uzunlukları Birinci Kitapta 2.040–4.639, İkinci Kitapta 710–2.574, Üçüncü Kitapta 905–2.639 kelime aralığındadır. On beş taramanın tamamı kapandı.
+Üç baskı derlemesi üretildi ve kaynaklarla birebir eşleşti. Fasıl uzunlukları Birinci Kitapta 2.040–4.639, İkinci Kitapta 710–2.582, Üçüncü Kitapta 905–2.639 kelime aralığındadır. On beş taramanın tamamı kapandı.
+
+## Tam metin soğuk okuma doğrulaması
+
+Mekanik ve matris tabanlı taramaların ardından üç baskı dosyasındaki 15 + 50 + 31 fasıl kesintisiz okundu. İkinci turda bulunan süreklilik, yetki, konum, nüfus aritmetiği ve kopya sorunları kaynakta kapatıldı. Kitap bazındaki bulgu ve karar dökümü `06_SOGUK_OKUMA_KAYDI.md` dosyasındadır.

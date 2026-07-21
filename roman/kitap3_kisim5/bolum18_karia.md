@@ -27,7 +27,7 @@ Corvus donanma kesintisine karşı çıktı. Yosun çekilince kıyıların zayı
 
 Hallis, saray mücevherlerinin satışını önerdi. Karia kabul etti. Buna karşılık halktan yeni acil vergi alınmamasını şart koştu. Yedi Lord'dan ikisi kendi ayrıcalıklarının kesilmesine karşı oy verdi. Karar çoğunlukla geçti.
 
-Hallis denetim masası geçici olmaktan çıkarıldı. Kraliyet harcamalarını üç ayda bir yayımlayacaktı. Karia'nın adını taşıyan ödemeler de istisna sayılmadı.
+Hallis'in denetim masası geçici olmaktan çıkarıldı. Kraliyet harcamalarını üç ayda bir yayımlayacaktı. Karia'nın adını taşıyan ödemeler de istisna sayılmadı.
 
 Faelan'ın istihbarat bütçesi ilk incelemeye girdi. Muhbir adları kapalı kaldı. Toplam ödemeler ve yetki veren makam açıklandı. Karia Malakor'u kapattıktan sonra kendi gizli elini eski karanlıkta tutmadı.
 

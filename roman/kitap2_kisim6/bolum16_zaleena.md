@@ -29,7 +29,7 @@ Konsey iki yedek aday belirledi. Neris hastalanırsa görev uzamayacak, yedekler
 
 Amara dört şartı da kabul etti. Kessel bunun güven göstergesi olup olmadığını sordu.
 
-Son metinde altı şartın hepsini kabul etmişti. Buna karşılık Delta iç kurulunun güvenlik eklerini bütünüyle açmayacağını, yalnız ödeme zinciriyle ilgili bölümlerin inceleneceğini yazmıştı. Zaleena bu sınırlamayı istemedi, fakat görev sorusuyla uyumlu buldu. İnsan ve haber kaynaklarının adları ilk denetimde kapalı kalacaktı.
+Son metinde altı şartın hepsini kabul etmişti. Bütçe sorumlusunun olumlu görüşü de eklenince Delta iç kurulu ortak denetimi onayladı. Buna karşılık kurul, güvenlik eklerini bütünüyle açmayacağını, yalnız ödeme zinciriyle ilgili bölümlerin inceleneceğini yazmıştı. Zaleena bu sınırlamayı istemedi, fakat görev sorusuyla uyumlu buldu. İnsan ve haber kaynaklarının adları ilk denetimde kapalı kalacaktı.
 
 "Bize yalnız görmek istediğini gösteriyor olabilir," dedi Kessel.
 

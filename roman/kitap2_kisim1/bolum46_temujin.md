@@ -177,7 +177,7 @@ Hepsi gitmedi. Şafak hazırlığında üç genç savaşçı ailelerinin çadır
 
 Yirmi yedi kişi kaldı. Orkhon ile Sube bu sayıya dahil değildi. Batu, kırık dudağıyla ilk kez güldü. "Destan anlatıcısı otuzu bırakırdı."
 
-"Defter yirmi dokuz yazacak," dedi Sube. "İkinizi sayınca."
+"Defter otuz bir yazacak," dedi Sube. "Orkhon'la beni ve ikinizi sayınca."
 
 Temujin, sayının küçülmesine rağmen daha gerçek olduğunu düşündü.
 
@@ -203,7 +203,7 @@ Batu cevabı hemen kabul etmedi. "Yine yalan söyledin. Kartal Burnu'nda."
 
 "O zaman fark ne?"
 
-Temujin, arkalarında küçülen çadırları değil önlerindeki yirmi dokuz kişiyi saydı. "Benim yalanım da bugün hüküm gördü. Seni öldürerek onu temizleyemezdim."
+Temujin, arkalarında küçülen çadırları değil önlerindeki otuz kişiyi saydı. "Benim yalanım da bugün hüküm gördü. Seni öldürerek onu temizleyemezdim."
 
 Batu bir süre sustu. "Bu cevapla yaşayabilir misin?"
 

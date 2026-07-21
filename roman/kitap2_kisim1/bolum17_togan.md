@@ -1,7 +1,7 @@
 # Bölüm 17 — Kâtibin Şüphesi
 *(TOGAN)*
 
-Mühür Odası'ndan sonra Togan aynı sayfayı üç kez okuyup hiçbirini hatırlayamadı. Lyra kitabı elinden alıp kapattı.
+Mühür Odası'ndan sonra Togan aynı sayfayı üç kez okudu, fakat tek satırını bile hatırlayamadı. Lyra kitabı elinden alıp kapattı.
 
 "Ozan sana ne gösterdi?"
 

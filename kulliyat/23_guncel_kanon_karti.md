@@ -16,7 +16,7 @@ Anlatım ve Türkçe üslup kararlarında `roman/TURKCE_NESIR_ANAYASASI.md` esas
 | Birinci Kitap | 4 | 53 | Tamamlandı |
 | İkinci Kitap | 8 | 182 | Tamamlandı |
 | Üçüncü Kitap | 5 | 123 | Tamamlandı |
-| **Toplam** | **17** | **358** | 178.222 kelime; sitede yaklaşık 178 bin |
+| **Toplam** | **17** | **358** | 178.250 kelime; sitede yaklaşık 178 bin |
 
 ## 2. Değiştirilemez Kimlik ve İlişki Kararları
 
@@ -153,5 +153,5 @@ Anlatım ve Türkçe üslup kararlarında `roman/TURKCE_NESIR_ANAYASASI.md` esas
 - **21 Temmuz 2026:** "İkinci Anahtar" 24. bölüme ulaştı. Gümüş ağ kırıldı, Sable'ın sağ gözünde kalıcı görme kaybı oluştu; Levent Saral mevcut Fısıltı Ustası olarak teşhir edildi ve otomatik halefiyet düzeni kanıtlandı; bin sekiz yüz kişi geçirildikten sonra Tuz Boynu kesildi, dış koy ile Zaleena'nın servetinin çoğu feda edildi. Güncel toplam 334 bölüm ve 166.859 kelimedir.
 - **21 Temmuz 2026:** "İkinci Anahtar" 28. bölümle tamamlandı. Sed'in dış halkasında bağı tamamlama ve geri çevirme yolları görüldü; dört ayrı kuvvet ilk gerçek saha sınavında merkezî komuta olmadan çalıştı; Malakor'un kendini yenileme yetkisi geçici olarak askıya alındı; Kızıl Akıntı dış körfeze ulaştı ve hasat eşiğinin son vuruşu başladı. Güncel toplam 338 bölüm ve 168.852 kelimedir.
 - **21 Temmuz 2026:** Üçüncü Kitap ve ilk Verridia üçlemesi “Tam Seçim”in 20. bölümüyle tamamlandı. Togan bilinen Sed bağını kesti; Sable ters akışı ayrı ve özgür onayla tamamladı; Aldric, Ayla, soy ve alınanlara giden bilinen yol kapandı. Malakor makamı, bütçesi ve halefiyeti tasfiye edildi. Boran öldü; eski Yamalı Liman yok oldu; Kessel deniz görevine dönemeyecek; Derin-Yosun çekildi ve kıtlık düzeni başladı. Üç kitabın güncel toplamı 17 kısım, 358 bölüm ve 178.895 kelimedir.
-- **21 Temmuz 2026:** Üçüncü Kitap'ın ilk üç kısmındaki 75 bölüm tam nesir redaksiyonundan geçirildi; Karia ve Zaleena POV profilleri kanon belgelerinde düzeltilip otomatik teste bağlandı. Neris'in Yamalı Liman dış denetim arşivcisi kimliği, Kaya'nın ölüm zinciri, Karakçı cinayetindeki belirsizlik, Togan'ın sınırlı madde tepkisi ve Dört Bayrak'ın ayrı karar zincirleri yeniden kilitlendi. Güncel toplam 358 bölüm ve 178.222 kelimedir.
+- **21 Temmuz 2026:** Üçüncü Kitap'ın ilk üç kısmındaki 75 bölüm tam nesir redaksiyonundan geçirildi; Karia ve Zaleena POV profilleri kanon belgelerinde düzeltilip otomatik teste bağlandı. Neris'in Yamalı Liman dış denetim arşivcisi kimliği, Kaya'nın ölüm zinciri, Karakçı cinayetindeki belirsizlik, Togan'ın sınırlı madde tepkisi ve Dört Bayrak'ın ayrı karar zincirleri yeniden kilitlendi. Üç baskı dosyasının 96 faslı soğuk okumayla doğrulandı; güncel toplam 358 bölüm ve 178.250 kelimedir.
 - **21 Temmuz 2026:** Türkçe kaynak kilidi tamamlandı. Birinci Kitap 15, İkinci Kitap 50, Üçüncü Kitap 31 basılı fasıl olarak otomatik derlendi; on beş profesyonel tarama kapandı. Kanon, editoryal, nesir, baskı ve site kontrollerinin tamamı geçti.

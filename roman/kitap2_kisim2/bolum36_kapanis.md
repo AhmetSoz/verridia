@@ -15,7 +15,7 @@ Direğin tepesine kurt izli küçük bayrak çekildi. Sungur bayrağı doğu sı
 
 Kurt izli bez yeni değildi. Sürgün kampındaki un çuvalından kesilmiş, Sube'nin kızı tarafından boyanmıştı. Siyah boya kurumadan çekildiği için kurtun arka ayağı aşağı doğru akmıştı. Kimse düzeltmedi.
 
-Bayrak çekilince otuz dört yerleşenin adı okundu. Otuz bir sürgüne bir demirci, bir ebe ve Dorin'in yanında gelen iki kardeş eklenmişti. Silah taşıyanlar ayrıca kaydedildi; sayı yirmi sekizdi. Yüz ellilik sınır ilk günden ulaşılması gereken hedef değildi.
+Bayrak çekilince otuz beş yerleşenin adı okundu. Otuz bir sürgüne bir demirci, bir ebe ve Dorin'in yanında gelen iki kardeş eklenmişti. Silah taşıyanlar ayrıca kaydedildi; sayı yirmi sekizdi. Yüz ellilik sınır ilk günden ulaşılması gereken hedef değildi.
 
 "Böylesi daha doğru," dedi Togan.
 
@@ -93,7 +93,7 @@ Altıncı taşı Togan kendisi ekledi. Üzerine hiçbir ad yazmadı.
 
 Perren taşı kaldırmadı. Beş ad sınaması sabit kalacak, altıncı taş gün içinde fark edilen küçük boşlukların kaydı olacaktı. O gece taş boş kaldı.
 
-Yakındaki yeni kampta Temujin ilk nüfus defterini açmıştı. Otuz dört ad vardı: sürgünlerle birlikte onlara katılan dört zanaatkâr. Son satırın altında boş yer bıraktı.
+Yakındaki yeni kampta Temujin ilk nüfus defterini açmıştı. Otuz beş ad vardı: sürgünlerle birlikte onlara katılan dört zanaatkâr. Son satırın altında boş yer bıraktı.
 
 Defter yalnız yeni gelenleri saymıyordu. Ayrılmak isteyenler için de bir sütun vardı. Genç Kurtlara katılmak geri dönülmez bağlılık değildi. İlk gün iki kişi, ailelerini getiremezlerse bir ay sonra ayrılabileceklerini yazdırdı.
 

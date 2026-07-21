@@ -19,7 +19,7 @@ Daha fazla sınav görevlisi gerekiyordu. Saray kâtiplerinden hızlıca yapıla
 
 Wren itiraz etti. "Minnettarlık tarafsızlık değil. Bizi kendilerine borçlu görürlerse kraliçenin istediği adayı geçirmeye çalışabilirler."
 
-Bunun üzerine beş mezun sınav görevlisi seçildi, ama hiçbiri kendi bölgesinden gelen kâğıdı okuyamayacaktı. Aday adları kapatılacak, her kâğıda yalnız iki bağımsız numara bulunacaktı. Uyuşmayan puanlar üçüncü bir okuyucuya gidecek; sonuçların örneklemi Hallis'in denetimine açılacaktı.
+Bunun üzerine beş mezun sınav görevlisi seçildi, ama hiçbiri kendi bölgesinden gelen kâğıdı okuyamayacaktı. Aday adları kapatılacak, her kâğıdı iki bağımsız görevli puanlayacaktı. Uyuşmayan puanlar üçüncü bir okuyucuya gidecek; sonuçların örneklemi Hallis'in denetimine açılacaktı.
 
 Genç görevlilerden biri yemin töreninde Karia'ya yaklaştı. "Ben bir zamanlar hiç umudum olmadığını sanıyordum. Şimdi başkalarının umudunu korumakla görevliyim. Bu hafife alınacak bir sorumluluk değil."
 

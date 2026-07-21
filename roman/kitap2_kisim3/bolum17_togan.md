@@ -11,7 +11,7 @@ Yolun on birinci günü Togan, kayanın içinden gelen ince uğultuyu duydu. Per
 
 Perren'le duvara vardıklarında beş ad sınamasını yaptılar. Togan hepsini bildi. Baş ağrısı hafifti; sol bileğindeki ışık ise kendiliğinden sönmüştü.
 
-Perren bu kez yalnız adları sormadı. Kaya'nın yaşını, Börü'nün hangi elini kullanmadığını, Melira'nın öğrettiği ilk düğümü, Burkut'un mezarının yönünü ve kendi tanıştıkları hanın adını da sordu. Togan dört soruyu hemen cevapladı. Hanın adı için on iki nefes bekledi.
+Perren bu kez yalnız adları sormadı. Kaya'nın yaşını, Börü'nün hangi elini kullanmadığını, Melira'nın öğrettiği ilk düğümü, Burkut'un yaralanan pençesini ve kendi tanıştıkları hanın adını da sordu. Togan dört soruyu hemen cevapladı. Hanın adı için on iki nefes bekledi.
 
 "Gölgedeki Çan," dedi sonunda.
 

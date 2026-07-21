@@ -25,7 +25,7 @@ Bu dosya yalnız anlatıda karar veya nedensellik taşıyan süreleri kilitler. 
 | Sable–Togan yol düzeni | İki ayrı hat, yarım saat aralık; üçüncü gün heyelan birleşmesi | Kitap 3 K4 B17 | Gümüş ağ pususunun lojistik zemini önceden kuruluyor |
 | Deniz taşı vuruşu | Aktif fazda 32 nefeste bir | Kitap 3 K3 B24; K4 B4/B8 | Kurtarma/deneme pencereleri tutarlı |
 | Dış koy tahliyesi | 1.800 kişinin tamamı kayıtlı | Kitap 3 K4 B24/B28 | Tuz Boynu kaybıyla aynı sayı korunuyor |
-| Eski Yamalı Liman nihai sayımı | İlk 4.112; 17 çift kayıt; 6 kayıp bulununca 4.089 | Kitap 3 K5 B4 | Final toplamı aritmetik olarak açıklanıyor |
+| Eski Yamalı Liman nihai sayımı | İlk liste 4.106; 17 çift kayıt çıkarılınca 4.089; listedeki 6 kayıp bulunuyor | Kitap 3 K5 B4 | Final toplamı aritmetik olarak açıklanıyor |
 | Final sonrası epilog | Sed kapanışından aylar sonra | Kitap 3 K5 B20 | Yaralar ve siyasi sonuçlar için zaman bırakıyor |
 
 ## Coğrafi ve ikmal kilitleri

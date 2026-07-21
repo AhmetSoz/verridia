@@ -83,4 +83,4 @@ Aşağıdaki yapılar mutlak yasak değildir; görüldüklerinde yazarın ikinci
 - İlk dört POV pilotu tamamlandı: Togan, Temujin, Karia ve Zaleena için ayrı ritim kuruldu.
 - Birinci Kitap'ın dört kısmındaki 53 bölümün tamamı 20 Temmuz 2026'da bu standarda geçirildi.
 - Otomatik nesir denetimi 53 bölüm için POV başlığını, asgari bölüm hacmini, uzun tire/virgül yoğunluğunu ve kesin uyarı kalıplarını kontrol eder.
-- Birinci Kitap'ın 53, İkinci Kitap'ın 182 ve Üçüncü Kitap'ın 123 bölümü bu standarda göre nihai satır ve geçiş redaksiyonundan geçirildi. Türkçe kaynak, 21 Temmuz 2026 tarihinde 358 bölüm ve 178.222 kelimeyle kilitlendi.
+- Birinci Kitap'ın 53, İkinci Kitap'ın 182 ve Üçüncü Kitap'ın 123 bölümü bu standarda göre nihai satır ve geçiş redaksiyonundan geçirildi. Türkçe kaynak, 21 Temmuz 2026 tarihinde 358 bölüm ve 178.250 kelimeyle kilitlendi.

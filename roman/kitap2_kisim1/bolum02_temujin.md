@@ -3,7 +3,7 @@
 
 Kızıl Hafta'dan sonraki iki ayda Temujin'in birliğine yüz kırk üç kişi başvurdu. Hepsini almadı.
 
-Korgan sayıyı sorunca iki yüz dedi. Büyük görünen bir birlik Han'ı ürkütürdü; eksik görünen kayıt ise casuslarını meşgul ederdi. Gerçek sayı yüz on dokuzdu.
+Korgan sayıyı sorunca yüz dedi. Büyük görünen bir birlik Han'ı ürkütürdü; eksik görünen kayıt ise casuslarını meşgul ederdi. Gerçek sayı yüz on dokuzdu.
 
 Orkhon listeyi ateşe tuttu. “Kendi adamlarını Han'ından saklıyorsun.”
 

@@ -1,7 +1,7 @@
 # Bölüm 50 — Yeni Yol
 *(TEMUJİN)*
 
-Sürgünler üç gün sonra dar bir vadide durdu. Otuz savaşçı, Batu, Orkhon ve Sube ateşin çevresinde toplandı. Korgan'ın ulakları arkalarında olabilirdi; uzun süre kalamazlardı.
+Sürgünler üç gün sonra dar bir vadide durdu. Otuz bir kişi ateşin çevresinde toplandı. Korgan'ın ulakları arkalarında olabilirdi; uzun süre kalamazlardı.
 
 Batu haritanın boş yerlerine baktı. "Bozkırda Korgan'ın erişmediği toprak kalmadı."
 

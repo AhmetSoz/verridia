@@ -31,4 +31,4 @@ Kayda şu sonuç geçti: Togan, yakındaki Akıntı'yla değiştirilmiş metale 
 
 Togan bu cümleyi kendi eliyle kopyaladı. Kaya'nın ölümünü engelleyecek bir formül bulmamıştı. Yalnızca bir daha sınıra geldiğinde, daha çok acının daha çok gerçek demek olmadığını biliyordu.
 
-Deney tutanağı Eski-Kent, Kuru Dere ve Hallis denetim masası için üç kopya çıkarılarak kapatıldı.
+Deney tutanağı Eski-Kent, Kuru Dere ve Hallis'in denetim masası için üç kopya çıkarılarak kapatıldı.

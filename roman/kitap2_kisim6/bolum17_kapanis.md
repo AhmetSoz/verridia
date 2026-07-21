@@ -21,7 +21,7 @@ Karia'nın Severin arşivindeki ödeme önekleri Kaan'ın tutanağına eklenmiş
 
 Bilgeler Meclisi, Severin dosyasının açılmasına üç şart ekledi: yalnız ilgili ödeme sayfaları görülecek, yaşayan kişilerin ilgisiz adları kapatılacak ve Kaan'ın çıkaracağı sonuç Hegemonya desteği gibi sunulmayacaktı. Osric buna karşı oy verdi; daha geniş erişimin soruşturmayı hızlandıracağını düşünüyordu. İtirazı paketin içinde kaldı.
 
-Malakor cetvellerine ilişkin ortak denetim talebi Delta iç kurulunun gündemine girmişti. Henüz oy kullanılmamıştı. Karia takvimdeki tarihi bekliyor, Amara'nın kabul sözünü kurul kararı yerine koymuyordu.
+Malakor cetvellerine ilişkin ortak denetim Delta iç kurulunca onaylanmıştı. Karar, tarih ve oy dökümüyle gelmiş; Amara'nın kabul sözü ilk kez kurul yetkisine bağlanmıştı.
 
 Zaleena'nın seçtiği Neris Delta kıyısına vardı. İlk raporunda Malakor bütçesinin tek kasa değil, beş ayrı ticaret hesabı üzerinden yürüdüğünü yazdı. Hesaplardan biri üç eski ulak gemisinin kapalı depo ücretlerini ödüyordu. Amara raporu durdurmamıştı; henüz bütün defterleri de açmamıştı.
 
