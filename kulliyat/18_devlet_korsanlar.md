@@ -25,7 +25,7 @@
 **Enkaz Kralı → Kaptanlar → Mürettebat → Liman Halkı.** Statü: gemi + şöhret + pay.
 - **Pay senedi** düzeni (➜ Böl. IV): korsan ekonomisinin omurgası; senet, kanla değil *imzayla* kutsaldır — okuma yazma bilmeyen tayfa bile pay çizgisini okur.
 - Kadın kaptanlar olağandır (Zaleena, Sirena mirası); güvertede tek ölçü iş bilmektir.
-- Batıl inanç kültürü, tabular, Enkaz Kutsaması (➜ Böl. VII). "Dokunulmazlar": gemi ustaları (Finn) ve — az bilinen ikinci dokunulmaz — **su taşıyıcıları** (tatlı su tekneleri; onlara dokunan, limanın tamamını susuz bırakır — pratik kutsallık).
+- Batıl inanç kültürü, tabular, Enkaz Kutsaması (➜ Böl. VII). "Dokunulmazlar": gemi ustaları (Finn, ölümüne kadar bunun en tanınan örneğiydi) ve — az bilinen ikinci dokunulmaz — **su taşıyıcıları** (tatlı su tekneleri; onlara dokunan, limanın tamamını susuz bırakır — pratik kutsallık).
 
 ## 5. İç Karışıklıklar
 - **Roric düzeni:** Geçiş belgeleri + korku + karizma. Yaşlanıyor; "büyük plan" (Metheris) hem mirası hem kumarı: başarırsa efsane, batarsa taht boş.

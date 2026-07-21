@@ -1,32 +1,32 @@
 # Bölüm 14 — Beklenmedik Elçi
 *(TEMUJİN)*
 
-Delta'dan gelen elçi, Temujin'in karargâhına, hiç beklenmedik bir şekilde, silahsız ve tek başına ulaştı — ne bir tuzak kokusu, ne bir tehdit havası, sadece, yorgun bir adamın, uzun bir yoldan sonraki hâli.
+Coren Vex karargâha tek başına girmedi. Kuru Dere'nin güney nöbetçileri onu sınır taşında durdurmuş, silahını mühürlü bir torbaya koymuş ve Temujin'e haber göndermişti. Coren görüşmeyi reddedilirse Delta'ya dönme hakkını şart koştu.
 
-"Adım Coren Vex," dedi adam, kendini tanıtırken. "Amara'nın kuzeni. Buraya, Malakor'un bilgisi olmadan geldim."
+Temujin onu iki açık tanık önünde dinledi. Batu içerideydi; Kuru Dere'nin seçtiği kâtip konuşmayı kaydediyordu.
 
-Temujin, bu iddiaya, hemen inanmadı — ama Batu'nun da, kendi tedbirini almasına izin vererek, adamı, dinlemeye karar verdi.
+"Amara Vex'in kuzeniyim," dedi Coren. "Onun emriyle gelmedim. Malakor'un bilgisi de yok."
 
----
+"O zaman iki tarafa da ihanet etmiş olabilirsin. Ya da ikisi adına çalışıyor olabilirsin."
 
-"Ferrin'in başarısızlığından sonra," dedi Coren, "Malakor'un konseydeki itibarı, ciddi bir darbe aldı. Bazılarımız, onun yöntemlerinin, artık, Delta'yı, gereksiz risklere soktuğunu düşünüyoruz."
+"İkisini de kanıtlayamam. Doğrulayabileceğiniz şeyler getirebilirim."
 
-"Neden bana bunu anlatıyorsun?" diye sordu Temujin, temkinli.
+Coren, Ferrin'in Sungur hamlesinden sonra Malakor'un Delta konseyinde iki bütçe oylamasını kaybettiğini söyledi. Bazı üyeler, gizli operasyonların ticaret yollarını korumak yerine çatışma ürettiğini düşünüyordu. Büyük Döngü Komisyonu'nun raporları Delta'ya da ulaşmıştı; ortak kıyı tehdidi bu itirazı büyütüyordu.
 
-"Çünkü," dedi Coren, "eğer Büyük Döngü teorisi doğruysa, hepimiz, aynı tehdide karşı savunmasızız — Delta da, Hegemonya da, Sungurlar da. Malakor'un oyunları, bu ortak tehdide karşı, bizi zayıflatıyor. Bazılarımız, bunun, artık, saçma olduğunu düşünüyor."
+Batu, Amara'nın durumunu sordu.
 
----
+"Bilmiyor," dedi Coren. "Şimdilik bilmesini istemiyorum."
 
-Batu, bu açıklamaya, şüpheci bir soru sordu. "Ve Amara, bunu biliyor mu?"
+Temujin bu koşulu kabul etmedi. Karakçı'dan sonra gizli temasın rahatlığını bir daha kullanmayacaktı. Coren'in ifadesi dört tarafa açık kayıtla gidecek; Delta'nın tanınan elçisi Sarris'e de Coren'in yeri ve sağlığı bildirilecekti. Askerî ayrıntılar, Coren ayrılana kadar sınırlı tutulabilirdi. Temasın kendisi saklanmayacaktı.
 
-"Amara," dedi Coren, "bilmiyor. Henüz. Ben, kendi inisiyatifimle geldim. Ama eğer, İttifak, bana, doğru bir işaret verirse, belki, Amara'ya, Malakor'un yöntemlerini sorgulamasını önerebilirim."
+"Bunu yaparsan Amara öğrenebilir," dedi Coren.
 
-Temujin, bu teklifi, uzun süre düşündü — çünkü bu, tam olarak, umulmadık bir fırsattı, ama aynı zamanda, tam olarak, bir tuzağın da nasıl kurulacağıydı.
+"Evet. Devam etmek istemiyorsan şimdi dönersin. Söylediklerini de kaynak korumasıyla kapatırız."
 
----
+Coren karar vermek için bir saat istedi. Bu sürede gözetim altında kaldı, sorgulanmadı. Geri döndüğünde temasın bildirilmesini kabul etti; ifadesinin tam metninin Amara'ya hemen verilmemesini talep etti. Temujin, konseylerin bu talebi ayrı değerlendireceğini söyledi.
 
-"Sana, hemen bir cevap vermeyeceğim," dedi Temujin, sonunda. "Ama seni, burada, güvenli bir şekilde ağırlayacağım, ve bu teklifi, dört toprağın konseyine ileteceğim. Çünkü bu, sadece benim kararım olamaz."
+Coren ilk doğrulama için Ferrin'in görevden alınmasına ait hesap kodunu ve üç tarih verdi. Karşılığında sığınma, para ya da siyasi söz istemedi. Yalnız doğrulama süresince güvenli barınma ve isterse ayrılma hakkı istedi.
 
-Coren, bu cevaba, saygıyla karşılık verdi. "Bekleyebilirim. Zaten, geri dönmek için de, acelem yok — Malakor, benim burada olduğumu öğrenirse, geri dönüşüm, hiç kolay olmayabilir."
+Temujin bunları yazılı güvenceye bağladı. Coren misafir değildi, tutsak da değildi. Koruma altındaki gönüllü tanıktı.
 
-O gece, Temujin, bu gelişmeyi, hem umutla hem şüpheyle, dört toprağın konseyine iletti — çünkü, eğer doğruysa, bu, Malakor'un ilk gerçek yenilgisi olabilirdi. Ve eğer bir tuzaksa, en tehlikeli hamlesi.
+Gece dört tarafa aynı metin yollandı. Temujin mektubun sonuna umut ya da tuzak yazmadı. Coren'in iddiaları, doğrulama yolları ve temasın sınırları yeterliydi.

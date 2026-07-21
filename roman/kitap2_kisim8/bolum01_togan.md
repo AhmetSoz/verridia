@@ -111,4 +111,12 @@ Lyra üçüncü satırı boş bıraktı ve saati yazdı.
 
 On dakika sonra Togan'ın eli kemerindeki kemik tokaya değdi. Melira'nın yüzü birden geri geldi; yangından önceki hâliyle, saçlarını bağlarken ona kızdığı bir sabahla birlikte. Hatırlamanın rahatlığı birkaç nefes sürdü. Ardından, onu kaybetmekten daha korkunç bir şey bulunduğunu anladı: kaybettiğini bile bilmemek.
 
+Lyra isimlerden sonra ortak anılara geçti. İlk kartal yuvasını sordu. Togan dere kıyısındaki çarpık söğüdü, sol yanı ve Kaya'nın onu kemerinden çektiğini söyledi. Bunları hatırlamıyordu. Önceki sınama kaydını okuduğunu hatırlıyordu.
+
+Gözlerini kapatınca ağacı göremedi. Kaya'nın eli yoktu. Kahkahası yoktu. Çamurun soğuğu yoktu. O günün başına ait bilgiler yerindeydi; günün kendisi gitmişti.
+
+“Kayıttan biliyorum,” dedi.
+
+Lyra üçüncü satırın altına ikinci bir işaret koydu: *ortak anı bağı yok*. Yanına, geri dönüp dönmediğinin her sınamada yeniden denetleneceğini yazdı.
+
 O gece kazandıkları sekiz saniyenin bedeli kayda böyle geçti.

@@ -1,30 +1,30 @@
 # Bölüm 4 — Sakin Deniz
 *(ZALEENA)*
 
-Karia'nın "meziyet meclisleri" haberi, Zaleena'ya ulaştığında, kendi limanında da, benzer bir dönüşümün, aslında, çoktan başladığını fark etmesini sağladı — Kaptanlar Konseyi, artık, sadece bir danışma organı değil, gerçek bir yönetim gücü hâline gelmişti.
+Kaptanlar Konseyi, dış kıyıdaki tahliyenin ambar hesabını Zaleena'dan habersiz değiştirdi. İç mahallede kalan ailelere eşit pay vermek yerine, ağını ve teknesini kullanamayan hanelere ek pay ayırmışlardı.
 
-"Belki," dedi Zaleena, Draven'e, bu gözlemi paylaşırken, "biz, bu yolu, farkında olmadan, yıllardır yürüyoruz. Roric'in bayrağı, hiçbir zaman, tek bir kişinin hükmü olmadı — hep, birçok sesin, bir araya gelmesiydi."
+Zaleena kararı doğru buldu. Yöntemi değil.
 
-Draven, bu değerlendirmeye, katıldı. "Ve belki, bu yüzden, Yamalı Liman, hiç, Kaya'nın ya da Karakçı'nın yaşadığı türden bir kırılma yaşamadı. Çünkü bizde, zaten, tek bir merkez yoktu ki kırılsın."
+"Benden izin istemeniz gerekmiyordu," dedi Mira'ya. "Ama hesabı etkilenenlere açmanız gerekiyordu. Dağıtık yönetim, kapalı kapının sayısını artırmak değildir."
 
----
+Mira ertesi gün tutanakları yayımlamayı kabul etti. Draven, Yamalı Liman'ın tek merkezli olmadığı için kırılmadığını söyleyince Zaleena ona Roric'in dönüşündeki bölünmeyi, Delta baskısını ve kendi taç oylamasını hatırlattı.
 
-Bu düşünce, Zaleena'ya, garip bir huzur verdi — ama bu huzur, uzun sürmedi, çünkü o gece, Sevda'dan, beklenmedik bir haber geldi: deniz dibindeki taşın ışıltısı, üç gündür, tamamen durmuştu.
+"Kırıldık," dedi. "Yalnız kırıkları saklamak için tek bir sarayımız yoktu."
 
-"Durdu mu?" diye sordu Zaleena, bu haberi, hem umutla hem şüpheyle karşılayarak.
+Deniz taşına ait gece raporu konuşmayı kesti. Haftalardır neredeyse aralıksız süren yeşil ışık üç gece önce sönmüştü. Gözlemciler ilk geceyi rahatlama sanmış, ikinci gece ölçüm araçlarını yeniden denemişti. Üçüncü gece Sevda acil kayıt istemişti.
 
-"Durdu," dedi Sevda. "Ama bu, iyi bir işaret değil, Zaleena. Bir fırtınadan önceki sessizlik gibi. Bir şey, nefesini tutuyor."
+"Bunun fırtına öncesi sessizlik olduğunu söyleyemem," dedi Sevda. "Eski anlatılarda susmanın ardından ne geldiği aynı değil. Bazen ışık geri dönmüş, bazen kıyı çökmüş."
 
----
+Zaleena, onun bilmediği yerde bilmediğini söylemesini önemsedi. Kâhinlerin kesin konuşması, kaptanların sis içinde kıyı varmış gibi dümen kırmasına benziyordu.
 
-Bu belirsiz uyarı, Zaleena'yı, yeniden, tam bir tetikte durmaya yöneltti — kıyı tahliyesi tamamlanmıştı, ama şimdi, gerçek bir şeyin, yakında olabileceği hissi, herkesi geriyordu.
+Güvenlik çemberi aşılmadı. Dalgıç gönderilmedi. Roric, önceden yerleştirilmiş üç ölçüm halatını kıyıdan çektirdi. En dış halat olağan sıcaklıktaydı; ortadaki iki derece, taşa en yakın olan ise beş derece soğumuştu. Tuz oranında ölçülebilir değişim yoktu. Akıntı batıya değil, iki saatte bir kısa sürelerle dibe yöneliyordu.
 
-Roric, dalgıçlardan, son bir gözlem istedi — çok uzaktan, çok dikkatli, taşın son durumunu kontrol etmek için. Rapor, üç gün sonra geldi: taş, hâlâ oradaydı, hâlâ sağlamdı, ama etrafındaki su, alışılmadık bir şekilde, soğumuştu.
+Kessel teknenin güvertesinde sayıları okudu. "Işığın durmasıyla soğuma aynı şeyden kaynaklanıyor mu?"
 
----
+"Bilmiyoruz. Yalnız aynı tarihte başladıklarını biliyoruz."
 
-"Soğuma ne anlama geliyor?" diye sordu Kessel, bu bilgiyi duyunca.
+Zaleena dört toprağa acil bildirim gönderdi. Mesaj üç sütunluydu: ölçülenler, tanık anlatıları ve olası açıklamalar. Sevda'nın eski döngü örnekleri ikinci sütunda kaldı. Mühürlerin birbirini etkilediği düşüncesi ise üçüncüye yazıldı.
 
-"Bilmiyorum," dedi Zaleena, dürüstçe. "Ama biliyorum ki, dört toprağın konseyine, bunu hemen bildirmeliyiz. Çünkü sessizlik, bazen, en yüksek çığlıktan daha tehlikeli."
+Kıyıda yeni bir yasak ilan etmedi; mevcut bir millik çemberi korudu. Bunun yerine dış mahalledeki gece kayıkları iki katına çıkarıldı, işaret fenerleri denendi ve tahliye listeleri yeniden okundu. Üç gün sonra hiçbir şey olmayabilirdi. Böyle bir sonuç hazırlığı gereksiz kılmazdı.
 
-O gece, mesajı gönderirken, Zaleena, kendi kendine, garip bir kesinlikle düşündü: belki, bekleyiş dönemi, sona eriyordu. Ve bir sonraki adımın, hazırlıklı olsalar da olmasalar da, artık, çok uzakta olmadığını hissediyordu.
+Gece yarısında su hâlâ karanlıktı. Zaleena bu karanlığa niyet yüklemedi. Işığın yokluğu tek başına iyi haber değildi; şimdilik yalnız yeni bir veriydi.

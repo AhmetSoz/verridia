@@ -93,9 +93,9 @@ Akşam baş ağrısı arttı. Kaya alnına soğuk bez koyarken çocukluğundaki 
 
 Kaya beş adı sordu. Togan hepsini cevapladı. Ardından çocukken yaptıkları ilk kartal yuvasının yerini sordu. Togan dereyi ve ağacı hatırladı, ağacın hangi yanında olduklarını çıkaramadı.
 
-"Soldaydı," dedi Kaya.
+"Soldaydı," dedi Kaya. "Seni kemerinden çekmiştim. Sonra ikimiz de çamura düşmüştük."
 
-Togan doğrulamaya çalışmadı. Hatırlamadığı yere yeni bir anı koymak istemiyordu. Perren gelince boşluğu kayda geçirdiler.
+Togan ağacın gövdesini görebiliyor, derenin soğuk sesini duyabiliyordu. Kaya'nın elini ve kahkahasını bulamadı. Doğrulamaya çalışmadı; hatırlamadığı yere yeni bir anı koymak istemiyordu. Perren gelince boşluğu kayda geçirdiler.
 
 Togan güldüğünde ağrı şakağına vurdu. Yeni kulağı işe yarıyordu. Sınırını unuttuğu anda onu sağır bırakabilecek kadar da sertti.
 

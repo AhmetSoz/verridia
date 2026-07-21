@@ -1,34 +1,46 @@
 # Bölüm 10 — Üç İsim
 *(TEMUJİN)*
 
-Batu, istenen listeyi, bir hafta sonra getirdi — kâğıda değil, ezbere, çünkü böyle bir listeyi yazıya dökmek, kimin elinde biteceği belli olmayan bir risk taşıyordu.
+Kaan'ın cevabında üç isim vardı. İlki Temujin'in zaten tanıdığı Sube'ydi. Azgut olan Sube, Genç Kurtların eski haber ağını kurmuş ve yıllarca Kaya'yla ortak güvenlik işlerinde çalışmıştı. Sungur Meclisi'nde oy hakkı yoktu; buna karşılık bazı Sungurlar onun getirdiği haberi dinlerdi.
 
-"Üç isim," dedi Batu, sesi gergindi. "Orkhon'un kız kardeşi Sube — evet, o Sube, büyücü olan. İkincisi, yaşlı bir çoban, adı Temir. Üçüncüsü, genç bir savaşçı, Karakçı — Kaya'nın eski öğrencilerinden biri."
+Öteki iki isim meclisin içindendi. Temir yaşlı bir çoban ve kuzey otlaklarının temsilcisiydi. Karakçı ise Kaya'nın eski öğrencilerinden genç bir savaşçıydı. İkisi de Ferrin'in teklifine açık oturumda karşı çıkmıştı.
 
-Temujin, bu isimleri, tek tek zihnine kazıdı. "Neden bunlar?"
+"Sube aracı olacak," dedi Temujin.
 
-"Üçü de, Ferrin'in teklifine karşı, açıkça konuştu. Sube, 'Delta'nın armağanı zehirlidir' dedi, herkesin önünde. Karakçı, daha da ileri gitti — Ferrin'e, 'seni tanıyorum, hangi tarafta olduğunu biliyorum' dedi."
+Batu, "Onu da tehlikeye atıyorsun," diye karşılık verdi. "Sungur değil. Gizlice meclis üyeleriyle görüşürken bulunursa Azgut müdahalesinin kanıtı sayılır."
 
----
+"Ona emir vermeyeceğim."
 
-Temujin, bu üç ismi, uzun süre düşündü — her biri, kendi çapında, cesurdu; ve cesaret, Temujin'in en çok saygı duyduğu şeydi.
+"Senden gelen bir rica, onun için emir kadar ağır olabilir."
 
-"Onlarla temas kurmalıyım," dedi Temujin, sonunda. "Ama doğrudan değil. Eğer ben, açıkça, Sungur meclisine karışırsam, bu, Anya'nın elini güçlendirir — 'bakın, Azgut'un kuklaları' der."
+✦
 
-Batu, bu ihtiyatı anladı. "Dolaylı bir yol mu?"
+Temujin Sube'yi çağırdı ve bütün riski anlattı. Görev gizliydi; yakalanırsa Temujin onu resmen inkâr etmeyecekti. Temir ile Karakçı'ya para, silah veya makam önerilmeyecek; yalnız Ferrin'in geçiş bilgisi talebinin askerî sonucunu bildiren belge ulaştırılacaktı. İkisi cevap vermek zorunda değildi.
 
-"Kaan aracılığıyla. O, zaten, Korgan'ın adamı olarak, Sungur topraklarında serbestçe dolaşabiliyor. Kimse ona şüpheyle bakmıyor."
+"Reddedersen bu konu kapanacak," dedi Temujin.
 
----
+Sube ona uzun süre baktı. "Kaya yaşarken bunu açıkça onunla konuşurdun."
 
-Mesaj, Kaan'a, o gece gönderildi: *Karakçı, Sube ve Temir'le temas kur. Onlara, açık bir destek teklif etme — henüz. Sadece, yalnız olmadıklarını bilsinler. Ve bana, Ferrin'in gerçek amacını, elinden geldiğince öğren.*
+"Evet."
 
-Temujin, bu mesajı gönderirken, kendi kendine bir şey itiraf etti — bunun, tam olarak, günler önce kovamadığı o düşünce olduğunu. Kaya'nın ölümünü bir silaha çevirmiyordu belki, ama bir klanın içine, sessizce, kendi ağını örüyordu. Ve bu ağ, iyi niyetle örülse bile, birilerinin, bir gün, onun içinde yakalanabileceği anlamına geliyordu.
+"Şimdi Anya'yla konuşman gerekir."
 
----
+"Ferrin'in teklifi oylamaya gelmeden önce herkes sonucu bilsin istiyorum."
 
-"Bunu yaparken," dedi Batu, o gece, ateşin başında, "üç isme de bir sorumluluk yüklüyorsun. Eğer Ferrin, ya da Anya'nın sert kanadı, bu temaslardan haberdar olursa—"
+"Bunu kendine koruma diye anlatıyorsun."
 
-"Biliyorum ne olacağını." Temujin'in sesi, ilk kez, gerçekten yorgun çıktı. "Ama alternatif, Sungurları, tamamen Delta'ya kaptırmak. Ve o zaman, kaybedecekleri, üç insan değil, bütün bir halk olur."
+"Evet."
 
-Batu, bu hesaba, karşı çıkmadı — ama katılmadı da. Sadece, sessizce, ateşin sönmesini izledi, ve Temujin, onun sessizliğinde, kendi vicdanının yansımasını gördü.
+Sube kabul etti. Bunu Temujin'i haklı bulduğu için değil, ticaret yollarının askerî haritaya dönüşmesini engellemek istediği için yaptığını tutanağa yazdı. Kopya mühürlendi; görev bitince Anya'ya açılması şartı kondu.
+
+✦
+
+Mesaj kısaydı: *Ferrin'in istediği haftalık geçiş listesi, sivil kervanla birlikte devriye ve erzak hareketini de gösterebilir. Bu değerlendirme Genç Kurt kaydına aittir. Herhangi bir oy ya da karşılık istenmemektedir.*
+
+Temujin altına kendi adını yazdı. Gizli mesajı adsız bırakmak, riski yalnız taşıyanlara yüklerdi.
+
+Sube ayrıldıktan sonra Batu, "Bunun sonradan açılacak olması şimdi gizli olduğu gerçeğini değiştirmiyor," dedi.
+
+"Biliyorum."
+
+Temujin artık "üç kişiyi bütün bir halk için riske atıyorum" diyemezdi. Sube, Temir ve Karakçı ayrı ayrı karar verecekti. Yine de onları tehlikeli kararın eşiğine getiren kişi kendisiydi.

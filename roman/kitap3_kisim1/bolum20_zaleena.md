@@ -1,32 +1,38 @@
 # Bölüm 20 — Ev Sahibinin Sorumluluğu
 *(ZALEENA)*
 
-Diğerleri, kendi topraklarına döndükten sonra, Zaleena, Yamalı Liman'da, ev sahibi olarak, ekstra bir yük hissetti — deniz tabanındaki taşı, en yakından, kendi halkı gözlemleyecekti.
+Konsey gemileri ayrıldıktan sonra deniz tabanındaki bulgu Yamalı Liman'a kaldı. Ortak karar, gözcülüğün günlük tehlikesini paylaştırmıyordu. Dibe inecek olanlar yine Zaleena'nın insanlarıydı.
 
-"Dalgıçlarımız," dedi Roric, yeni görev planını sunarken, "artık, düzenli olarak, o bölgeyi kontrol edecek. Ama hiçbiri, taşa yaklaşmayacak — sadece, uzaktan izleyecekler."
+Roric yeni gözlem planını getirdi. Dalgıçlar taşa her gün yaklaşmayacaktı. Kıyıdaki iki işaret direğinden konumu izlenecek, haftada bir kez ağırlıklı ölçüm ipi indirilecekti. Yalnız dip yapısının değiştiği görülürse iki dalgıç inecekti.
 
-Zaleena, bu temkinli yaklaşıma, onay verdi. "Doğru karar. Elara'nın 'mühür' teorisi doğruysa, ona dokunmak, en büyük hata olabilir."
+"Hiçbir ip nesneye değmeyecek," dedi Roric. "Akıntı sertleşirse ölçüm yarıda bırakılacak."
 
----
+Zaleena planı onayladı. Elara'nın incelemesi nesnenin bir mühür olduğunu kanıtlamamıştı. Temkin için kanıtlanmış bir felaket gerekmiyordu.
 
-Draven, kendi eski şüpheci deneyimini, bu göreve de kattı — dalgıçların, düzenli olarak, herhangi bir değişikliği, hemen bildirmesi için, sıkı bir protokol oluşturdu.
+✦
 
-"Bu protokolü," dedi Draven, "sıradan bir devriyeymiş gibi, ele almayacağız. Her rapor, doğrudan, sana ulaşacak."
+Draven rapor zincirini hazırladı. Her dalış kaydı Zaleena'ya, Roric'e ve konsey arşivine ayrı kopyalarla gidecekti. Bir raporun acil sayılması için ikinci tanık gerekmiyordu; ancak acil işareti, gözlemi doğrulanmış yapmayacaktı.
 
-Zaleena, bu titizliğe, minnetle karşılık verdi. "Senin gibi, şüpheci birinin, artık, bizim için, en güvenilir gözcü olması — hayat, garip bir şey, Draven."
+"Bu protokolü sıradan bir devriyeymiş gibi ele almayacağız," dedi Draven.
 
----
+"Sıradan devriyeleri de bundan sonra daha iyi kaydedelim. Felaket beklerken günlük kazaları unutmayalım."
 
-Mira, Genç Denizciler Meclisi'nde, bu yeni sorumluluğu, gençlere, açıkladı. "Bu, sadece, bir görev değil — bu, dünyanın, belki, en eski gizemlerinden birine, tanıklık etmek."
+Draven ilk haftanın listesine yıpranmış dalış iplerinin değiştirilmesini ekledi.
 
-Bir genç denizci, meraklı bir soru sordu: "Ya, taş, gerçekten uyanırsa?"
+✦
 
-Mira, bu soruya, dürüst bir cevap verdi. "O zaman, hazırlıklı olduğumuz için, minnettar olacağız. Ve eğer, hazırlıksız yakalanırsak... bu yüzden, şimdi, hazırlanıyoruz."
+Mira, Genç Denizciler Meclisi'ne yalnız gerekli bilgiyi verdi. Kesin konumu açıklamadı; buna karşılık kurulun neden ek ambar payı ayırdığını ve dalış görevinin hangi koşulda duracağını anlattı.
 
----
+Bir genç denizci, "Ya taş gerçekten uyanırsa?" diye sordu.
 
-O akşam, Kessel'le, limanın sessiz bir köşesinde otururken, Zaleena, kendi kendine, bütün bu sorumluluğun ağırlığını, bir kez daha, değerlendirdi.
+"Taşların uyuduğunu bilmiyoruz," dedi Mira. "Değişim görürsek dört gözlem noktası boşaltılacak. Şu anda bildiğimiz cevap bu."
 
-"Bir zamanlar," dedi Zaleena, "sadece, kendi gemimi ve mürettebatımı düşünürdüm. Şimdi, bütün bir dünyanın, belki, en büyük gizemine, kapı aralığında duruyorum."
+Zaleena arka sıradan onu dinledi. Bilinmeyen karşısında sakin kalmak, korkusuz görünmek değildi. Korkunun doldurmak istediği boşluğa sahte bilgi koymamaktı.
 
-Kessel, elini, onun eline koydu. "Ve bunu, yalnız yapmıyorsun. Hiçbirimiz, artık, yalnız değiliz."
+✦
+
+Akşam Kessel'le limanın sessiz kısmında oturdu. "Bir zamanlar sadece kendi gemimi ve mürettebatımı düşünürdüm. Şimdi bütün bir dünyanın belki en eski gizemine kapı aralığında duruyorum."
+
+Kessel elini onun eline koydu. "Ve bunu yalnız yapmıyorsun. Hiçbirimiz artık yalnız değiliz."
+
+Zaleena elini çekmedi. Yine de ertesi sabah dalgıçların adlarını mühürleyecek, ipleri kendi eliyle denetleyecek kişi oydu. Paylaşılan sorumluluk, yakındaki insanın yükünü görünmez kılmamalıydı.

@@ -23,6 +23,14 @@ Togan bezi omzun altından geçirdi. Yarık kapanmaya başlamıştı, fakat okun
 
 "Bu kez."
 
+"İlk yuva?"
+
+"Dere kıyısındaki çarpık söğüt. Sol yanı. Kaya beni kemerimden çekmiş. İkimiz de çamura düşmüşüz."
+
+Suna son kelimenin zamanını duydu. "Hatırlamıyorsun."
+
+"Kaydı hatırlıyorum."
+
 Suna düğümü sınamak için kolunu kaldırdı. Yüzü gerildi, kol hemen indi.
 
 "Beni kurtardığın için özür diler gibi davranma."
@@ -31,7 +39,7 @@ Suna düğümü sınamak için kolunu kaldırdı. Yüzü gerildi, kol hemen indi
 
 "Kendinden diliyorsun. Daha yorucu."
 
-Togan cevap vermedi. Baskın gecesinden beri aynı hesabı kuruyordu. On sekiz saldırgan, sekiz saniye, iki esir, sıfır ölü. Sonra Melira'nın adı yok olmuştu. Sonuç iyi diye bedeli ucuz sayarsa bir sonraki müdahaleyi daha kolay yapacaktı. Bedeli düşünmekten başka hiçbir şey yapmazsa da başkalarını kendi korkusuna mahkûm edecekti.
+Togan cevap vermedi. Baskın gecesinden beri aynı hesabı kuruyordu. On sekiz saldırgan, sekiz saniye, iki esir, sıfır ölü. Melira'nın adı geri gelmişti. İlk kartal yuvasının günü gelmemişti. Sonuç iyi diye bedeli ucuz sayarsa bir sonraki müdahaleyi daha kolay yapacaktı. Bedeli düşünmekten başka hiçbir şey yapmazsa da başkalarını kendi korkusuna mahkûm edecekti.
 
 Kapıda Lyra göründü. Elindeki kâğıdı masaya koydu.
 
@@ -89,6 +97,8 @@ Togan kömür kalemini ona uzattı. "Ne gördüğünü yaz. Ne sandığını ayr
 
 Dördüncü gün Suna derse katıldı. Askısı hâlâ boynundaydı. Baskın gecesini anlatırken saldırgan sayısını on iki tahmin ettiğini, fakat kemik alarmındaki ikinci titreşimi doğru okuduğunu söyledi. Togan iki sonucu yan yana yazdı. Biri ötekini silmedi.
 
+Altıncı haftaya girildiğinde Suna'nın sol elindeki başparmak ile işaret parmağı hâlâ kapanmıyordu. Lyra iğne, sıcak taş ve ip germe sınamalarını yineledi. Kan dolaşımı dönmüş, kavrama dönmemişti. Suna bir daha yayı güvenle tutamayacaktı. Lyra kayda *kalıcı işlev kaybı* yazarken Suna sözcüğü değiştirmesini istemedi. Ertesi ders yayı bir öğrencisine verdi, kendi eline çizelgeyi aldı.
+
 Altıncı haftanın sonunda nöbetçiler üç aday seçti. Kaya son kararı Togan'ın vermesini istedi.
 
 "Sözleşme öyle demiyor," dedi Togan.
@@ -99,6 +109,6 @@ Altıncı haftanın sonunda nöbetçiler üç aday seçti. Kaya son kararı Toga
 
 "Sekiz saniye," dedi Suna. "Bir kararın süresini değil, arkasında bıraktığı işi sayacağız."
 
-O akşam Lyra beş adı yeniden sordu. Togan hepsini söyledi. Malakor'un saha yetkisi hâlâ askıdaydı; üç kasa açılmamış, çağrılan görevli ifadeye gelmemişti. Bunların hiçbiri çözülmemişti.
+O akşam Lyra beş adı yeniden sordu. Togan hepsini söyledi. İlk kartal yuvasını da sordu. Togan kayıttaki yeri ve olayı eksiksiz tekrarladı; o günün içinden tek bir görüntü getiremedi. Malakor'un saha yetkisi hâlâ askıdaydı; üç kasa açılmamış, çağrılan görevli ifadeye gelmemişti. Bunların hiçbiri çözülmemişti.
 
 Yine de Sungur nöbet çizelgesinde Togan'ın adı artık tek başına durmuyordu. Altına on iki isim yazılmıştı. Nefes aralığı, tehlikenin bittiği yer değildi. Aynı yükü daha çok omzun taşımaya başladığı yerdi.

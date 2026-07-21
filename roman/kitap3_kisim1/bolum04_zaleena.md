@@ -1,36 +1,46 @@
 # Bölüm 4 — Açıklık Günü
 *(ZALEENA)*
 
-Karia'nın önerisi, "Açıklık Günü," Yamalı Liman'da da, hayata geçirildi — Zaleena, kendi halkına, İttifakın bütün şartlarını, meydanda, açıkça, okudu.
+Yamalı Liman'da bir belgeyi meydanda okumak, onu açıklamak sayılmazdı. Denizcilerin çoğu küçük yazıyı uzaktan seçemez, seçenler de kurul diline güvenmezdi. Zaleena bu yüzden ittifak metninin yanına ilk altı ayın gerçek hesabını astı: hangi gemi korunmuş, hangi ambar kullanılmış, Yamalı Liman ne vermiş ve karşılığında ne almıştı.
 
-"Hiçbir gizli madde yok," dedi Zaleena, toplanan kalabalığa. "Hiçbir gizli vergi, hiçbir zorunlu asker toplama. Sadece, karşılıklı savunma, ve serbest ticaret. İşte, belgenin kendisi — herkes, okuyabilir."
+"Hiçbir gizli madde yok," dedi kalabalığa. "Hiçbir gizli vergi, hiçbir zorunlu asker toplama. Sadece karşılıklı savunma ve serbest ticaret. İşte belgenin kendisi. Herkes okuyabilir."
 
-Halk, bu açıklığı, gerçek bir güvenle karşıladı — birkaç şüpheci soru geldi, ama Zaleena, her birine, sabırla, dürüstçe cevap verdi.
+Ön sıradaki ağ tamircisi elini kaldırdı. "Okumayan ne yapacak?"
 
----
+Zaleena meydanın iki yanına kurulan masaları gösterdi. Her masada bir kâtip ve kuruldan olmayan iki gönüllü vardı. Metin yüksek sesle okunacak, sorular soranın adı yazılmadan kayda geçecekti.
 
-Draven, bu günün organizasyonunda, önemli bir rol üstlendi — kendi eski şüpheci tabiatını, kullanarak, halkın, en zor sorularını, önceden tahmin etti.
+Sorular öğleye kadar bitmedi. İttifak gemileri limanın onarım sırasında öne geçecek miydi? Ortak savunmaya katılmayan tayfa ticaret hakkını kaybedecek miydi? Bir başka bayrak savaşa girerse Yamalı Liman ayrı kalabilecek miydi?
 
-"İnsanlar, en çok, gizli anlaşmalardan korkar," dedi Draven, hazırlık toplantısında. "Çünkü, ben de, öyleydim, bir zamanlar. Tam şeffaflık, en iyi cevap."
+Zaleena her cevabın ardından ilgili maddeyi okuttu. İki soruya hemen yanıt veremedi; onları ertesi günün açık listesine aldı.
 
-Zaleena, bu tavsiyeye, minnetle karşılık verdi. "Senin deneyimin, bugün, çok değerli, Draven."
+✦
 
----
+Draven hazırlık boyunca en zor soruları önceden toplamıştı. Bir zamanlar aynı şüpheleri taşıması, halkın nerede sustuğunu anlamasına yarıyordu.
 
-Mira, Genç Denizciler Meclisi'nde, bu krizi, genç nesle, açıkladı. "Bu, bize, gösteriyor ki, güven, bir kere kazanılıp, sonsuza kadar sürmez. Sürekli, yeniden kazanılması gerekir."
+"İnsanlar en çok gizli anlaşmalardan korkar," dedi. "Çünkü ben de öyleydim bir zamanlar. Tam şeffaflık en iyi cevap."
 
-Roric, bu düşünceye, kendi deneyiminden, bir katkı sundu. "Otuz yıl, bu limanı yönettim — ve öğrendiğim en büyük ders, tam olarak, bu. Güven, bir defalık bir kazanç değil, günlük bir alışkanlıktır."
+"Tam şeffaflık diye bir şey yok," dedi Zaleena. "Bugün açtığımız hesabı yarın yeniden açmazsak bu da törene dönüşür."
 
----
+Draven kısa bir gülüşle başını eğdi. "O hâlde bunu her gün yapacak kadar inatçı birine ihtiyacımız var."
 
-O gün, Serel, Mirasçı arşivlerine, bu "Açıklık Günü"nü, kaydetti. "Dört ayrı toprak, aynı gün, aynı dürüstlükle, halklarına seslendi. Bu, kendi başına, önemli bir tarihi an."
+✦
 
-"Belki," dedi Zaleena, düşünceli, "Malakor, bize, farkında olmadan, iyi bir şey öğretti — güvenimizi, sürekli, yeniden kanıtlamamız gerektiğini."
+Mira, Genç Denizciler Meclisi'nde krizi genç tayfalara anlattı. "Bu bize gösteriyor ki güven bir kere kazanılıp sonsuza kadar sürmez. Sürekli yeniden kazanılması gerekir."
 
----
+Roric tek koluyla hesap levhasını düzeltti. "Otuz yıl bu limanı yönettim ve öğrendiğim en büyük ders tam olarak bu. Güven bir defalık bir kazanç değil, günlük bir alışkanlıktır."
 
-O akşam, Kessel'le, günün yorgunluğunu, sessizce paylaşırken, Zaleena, Karia'dan gelen son mesajı okudu: *Karaçul, ikna oldu — Temujin ve Togan'ın, açık, dürüst yaklaşımı, işe yaradı. Malakor'un bu hamlesi, başarısız oldu. Ama biliyorum ki, başka hamleler gelecek.*
+Serel, Açıklık Günü'nü Mirasçı arşivine kaydederken övgü cümlesi yazmadı. Dört toprağın aynı gün hangi belgeleri açtığını ve hangilerini açmadığını listeledi.
 
-"Hazır mısın?" diye sordu Kessel, bu mesajı okuduktan sonra.
+"Belki," dedi Zaleena, "Malakor bize farkında olmadan iyi bir şey öğretti. Güvenimizi sürekli yeniden kanıtlamamız gerektiğini."
 
-"Her zaman," dedi Zaleena, kararlı bir gülümsemeyle. "Çünkü, artık, biliyorum — yalnız değilim, hiçbir zaman olmayacağım."
+Serel kalemini bıraktı. "Bunu ondan öğrendiğimizi yazmayacağım. Liman halkı bu dersi ondan önce de biliyordu."
+
+✦
+
+Akşam Kessel, boşalan meydandaki son levhaları depoya taşıdı. Karia'nın haberi o sırada ulaştı: Karaçul belgeleri incelemeyi kabul etmiş, fakat kararını bağımsız doğrulamadan sonraya bırakmıştı.
+
+"Hazır mısın?" diye sordu Kessel.
+
+"Her zaman," dedi Zaleena. "Çünkü artık biliyorum. Yalnız değilim, hiçbir zaman olmayacağım."
+
+Sözü söylerken bile bunun bir güvence olmadığını biliyordu. Dört bayrak yardım demekti; aynı zamanda dört ayrı hesap, dört ayrı korku ve her gün yeniden kurulması gereken dört ayrı rıza demekti.

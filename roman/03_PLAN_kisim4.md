@@ -18,7 +18,7 @@ Dört POV, artık aynı yedi günün içinde, farklı cephelerde yaşıyor. Bu, 
 5. **Togan** — bolum05 — **KRİTİK SAHNE: 3-4. Gün, Sed %5 zayıflıyor, Togan'ın kanı duvarla rezonansa giriyor (kısmi ifşa — tam açıklama YOK).** Perren, Mirasçı şifresinin "bir kan meselesi" olabileceğini öneriyor. ✅
 6. **Temujin** — bolum06 — Korgan sivilleri kalkan yapmak istiyor; Temujin alternatif sunup reddediyor — ilk açık vicdan/itaatsizlik anı. ✅
 7. **Karia** — bolum07 — Canavar Günü (5. Gün): Karia bizzat bir Yosun-Devi'ni öldürüyor (çekirdek taktiği); Kral'ın "huzur" konuşması (veda sinyali). ✅
-8. **Zaleena** — bolum08 — Canavar Günü (5. Gün): Deniz-Titreten tehdidi, Zaleena balıkçıları kurtarıyor, halkın gerçek sevgisini kazanıyor. ✅
+8. **Zaleena** — bolum08 — Canavar Günü (5. Gün): Deniz-Titreten tehdidi, Zaleena beş balıkçıyı kurtarıyor; kurtarma gemisinin dümencisi Finn aldığı yarayla ölüyor. Zaferin kayıp defterine yazılan bedeli, Zaleena'nın halk nezdindeki meşruiyetini romantikleştirmeden güçlendiriyor. ✅
 
 ## TAMAMLANDI — 13 bölüm, 1. KİTAP KAPANDI
 9. **Temujin** — bolum09 — Vadinin Sonu: Sungurlar'ı kansız teslim alıyor, Kaya'yı serbest bırakıyor, Korgan'ın hayalini kendi yöntemiyle gerçekleştiriyor. ✅

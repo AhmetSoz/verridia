@@ -1,34 +1,40 @@
 # Bölüm 6 — Korgan'ın Ziyareti
 *(TEMUJİN)*
 
-Korgan, kendisi geldi bu sefer — Kaan aracılığıyla değil, kendi atının üzerinde, küçük bir muhafız grubuyla, Genç Kurtlar'ın karargâhına.
+Korgan görüşmeye kırk atlıyla geldi. Adamlarını karargâhın dışında bıraktı, otağa Kaan'la girdi. Bu sayı tehdit sayılacak kadar büyük, savaş başlatmaya yetmeyecek kadar küçüktü.
 
-"Bunu, bir mektupla halledemezdik," dedi Korgan, çadıra girerken, sesi ağır ama düşmanca değildi. "Yüz yüze konuşmamız gerek, Temujin. Kendi topraklarımda, bir yangın büyüyor, ve senin felsefen, o yangına, odun taşıyor."
+Temujin ona konuk minderi göstermedi. İkisi haritanın iki yanına oturdu.
 
-Temujin, bu doğrudanlığa, saygıyla karşılık verdi. "Otur. Dinliyorum."
+"Beş boy başvurdu," dedi Korgan. "Sen kurul öneriyorsun. Benim toprağımda, benim yetkimi başkalarına tartıştırıyorsun."
 
----
+"Son kararın sende kalmasını isteyen bendim. Gerekçenin yalnız sende kalmasına karşı çıktım."
 
-Korgan, kendi meselesini, açıkça anlattı: üç Azgut boyu, Sungurların kazandığı özerkliği örnek göstererek, kendi özerkliklerini talep ediyordu. Bazıları, haklı gerekçelerle — eski haksızlıklar, göz ardı edilmiş gelenekler. Bazıları, sadece, fırsatçılıkla.
+Korgan dosyaları masaya bıraktı. İki boyun su ve otlak mahkemesi talebi eski anlaşmalarla destekleniyordu. Vergi muafiyeti isteyen boy, son üç savaşta ortak erzak payını eksik vermişti. Savaş çağrısını tümden reddetmek isteyen iki boy ise sınır savunmasından yararlanıyor, karşılık önermiyordu.
 
-"Eğer hepsine evet dersem," dedi Korgan, "Azgutlar, on parçaya bölünür. Eğer hepsine hayır dersem, seninle aynı ikiyüzlülüğü yaparım — 'özerklik iyi ama sadece Sungurlar için' derim."
+"Hepsi özerklik diyor," dedi Korgan.
 
----
+"Aynı kelime aynı talep değildir."
 
-Temujin, bu ikilemi, uzun süre düşündü — çünkü kendi felsefesinin, şimdi, bir başkasının sorunu hâline geldiğini görmek, garip bir sorumluluk hissi veriyordu.
+Temujin kurulun oy vermeyeceğini açıkladı. Korgan kabul ya da ret kararını kendisi verecek; kurul veriyi doğrulayacak, komşu boyların maliyetini dinleyecek ve gerekçeyi açık kayda çevirecekti. Başvuranlar da karara itiraz süresi kazanacaktı.
 
-"Belki," dedi Temujin, sonunda, "cevap, hepsine aynı şeyi vermek değil. Belki, her boyun, kendi gerekçesini, ayrı ayrı değerlendirmek. Haklı bir talep varsa, kabul et. Sadece fırsatçılık varsa, reddet — ama nedenini açıkça söyle."
+Korgan, Kuru Dere'den gelecek gözlemciyi istemedi. Genç Kurt yerleşiminin Azgut iç işlerinde taraf olduğunu söyledi.
 
-Korgan, başını iki yana salladı. "Bu, çok fazla zaman alır."
+"Oy hakkı yok," dedi Temujin. "Yalnız aynı sözün sonradan değiştirilmediğine tanıklık edecek. İstersen Temürçilerden ikinci bir kâtip seç."
 
-"Adalet, her zaman, kolay yoldan daha fazla zaman alır," dedi Temujin. "Ama Sungurlarla yaptığım hatayı hatırlıyor musun? Hızlı, hesaplı bir yaklaşım seçtim, ve bir genç öldü. Bu sefer, yavaş ama dürüst olmayı öneriyorum."
+Kaan, iki kopyalı tutanak ve halka açık karar özeti önerdi. Korgan bunu kabul etti; ham kayıtların askerî ayrıntılar içermesi hâlinde kapalı kalma hakkını saklı tuttu.
 
----
+"Bozan olsaydı dilekçeyi getirenleri kırbaçlatırdı," dedi Korgan. Selefinin adını övgüyle değil, geçmiş bir yöntemi tarif eder gibi kullandı. "Bir haftada sessizlik sağlardı."
 
-Korgan, bu tavsiyeye, hemen ikna olmadı — ama reddetmedi de. Uzun süre, ateşin karşısında, sessizce düşündü.
+"Sonra herkes yalnız kırbaçtan kaçmayı öğrenirdi."
 
-"Bozan," dedi sonunda, selefinin adını anarak, "hızlı kararlar alırdı. Bazıları iyiydi, bazıları, onu öldürttü. Belki, senin önerin, doğru. Ama uygulaması, benim için de, senin için olduğundan daha zor olacak — çünkü ben, senin gibi, yeni bir düzen kurmuyorum. Ben, eskisini, yeniden inşa ediyorum, çatlaklarıyla birlikte."
+Korgan, Temujin'in Karakçı'nın ölümünden ders çıkardığını söylemesine izin vermedi. "O cinayetin sebebini bilmiyorsun. Her kararını ölülerin adına aklamaya kalkma."
 
-Temujin, bu farkı, kabul etti. "O zaman, yalnız yapma. Ben, deneyimimi paylaşırım — hatalarımı da, doğrularımı da. İkimiz, bu konuda, birlikte öğrenebiliriz."
+Söz yerini buldu. Temujin savunmaya geçmedi. "Haklısın. Bu düzeni onun ölümü doğru kıldığı için önermiyorum. Gizli yolun bedelini gördüğüm için açık öneriyorum."
 
-Korgan, bu teklife, ilk kez, gerçek bir gülümsemeyle karşılık verdi — iki eski düşmanın, şimdi, aynı sorunu, birlikte çözmeye çalıştığı bir an.
+Üç gün sürecek ilk inceleme için tarih belirlendi. Korgan ayrılırken gülümsemedi, elini de uzatmadı. Kapıda durup beş başvurudan ikisinin kabul edilebileceğini, üçünün mevcut hâliyle reddedileceğini söyledi.
+
+"Kurul fikrimi değiştirmeyebilir," dedi.
+
+"Değiştirmek zorunda değil. Kararının sınanmasına izin vermen yeter."
+
+Korgan atına bindiğinde mesele çözülmemişti. İlk kez, ayrışma tehdidi zorla susturulmadan ölçülebilir bir sürece girmişti.

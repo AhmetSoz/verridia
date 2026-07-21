@@ -82,5 +82,3 @@ Denge kazanılmış bir ödül değildi. Her üç yerde de aynı biçimde çalı
 Kuru Dere'de ikinci yılın ilk toplantısı yapılırken, Metheris'te sahte bir belge imha edilmeden saklanıyor, Yamalı Liman'da iki çuval tuz için itiraz süresi işliyordu. Hiçbiri destanlara girecek kadar parlak değildi. Üçü de bir sonraki krizde kimin tek başına karar veremeyeceğini belirliyordu.
 
 Togan'ın doksan günü yeniden saymaya başlamıştı. Delta'nın altmış günlük geçici yetkisi azalıyordu. Genç Kurtların meclis tarihi yaklaşıyordu. Kurdukları denge, takvimler ilerlediği için kendi kendine yaşamayacaktı.
-
-*(7. Kısım Sonu: 8. Kısım'da devam edecek)*

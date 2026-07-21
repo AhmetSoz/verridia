@@ -58,5 +58,3 @@ Sed'in içinde sıra sıra ışıklar aynı anda Togan'a döndü.
 Yaşlı Işıyan durdu.
 
 "Şimdi," dedi, "neden açabildiğini öğreneceksin."
-
-*(5. Kısım Sonu: 6. Kısım'da devam edecek)*

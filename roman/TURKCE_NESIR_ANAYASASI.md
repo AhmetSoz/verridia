@@ -34,19 +34,19 @@
 - İnsanları küçümseyen dâhi değildir; yanılma payını ölçen, sabrı silah sayan bir stratejisttir.
 - İmgeleri ateş, sürü, av, borç ve denge çevresinde toplanır.
 
-### Karia — iş, sorumluluk, deniz disiplini
+### Karia — kurum, kanıt, saklanan niyet
 
-- Soyut siyaset önce erzak, gemi, ücret, işçi ve zaman kaybı olarak karşısına çıkar.
-- Gözlemleri açık, yetişkin ve pratiktir. Gösterişli cümlelerden çok kesin isim ve fiiller taşır.
-- Şefkati sözden önce iş yaptırır; iktidar arzusundan çok yük alma alışkanlığı görünür.
-- İmgeleri gemi, akıntı, pas, yük ve hava değişiminden gelir.
+- Bir odada söylenenden çok kimin hangi yetkiyle konuştuğunu, hangi kaydın eksik bırakıldığını ve kararın kime hesap vereceğini görür.
+- Cümleleri sakin, ekonomik ve kuşkuludur. Duygu çoğu zaman bir belgeyi açma, yetkiyi sınırlama ya da sorumluluğu üstlenme biçiminde görünür.
+- Her ilişkiyi yalnız pazarlık saymaz; fakat iyi niyetin denetim yerine geçmesine izin vermez.
+- İmgeleri taş, mühür, kapı, terazi, arşiv ve daralan siyasal alan çevresinde gelişir.
 
-### Zaleena — sessizlik, fiyat, saklanan niyet
+### Zaleena — iş, sorumluluk, deniz disiplini
 
-- Bir odada söylenenden çok saklananı; bir limanda bayraktan çok rotayı görür.
-- Cümleleri sakin, ekonomik ve hafifçe kuşkuludur. Duygu kendini ele vermeden önce davranışı değiştirir.
-- Her ilişkiyi yalnız alışveriş saymaz; fakat her yakınlığın bir bedeli olabileceğini unutmaz.
-- İmgeleri sis, bıçak, kaçak yol, derin su ve hesap çevresinde gelişir.
+- Soyut siyaset önce erzak, gemi, ücret, işçi, rota ve zaman kaybı olarak karşısına çıkar.
+- Gözlemleri açık, yetişkin ve pratiktir. Gösterişli cümlelerden çok kesin isim, ölçü ve fiil taşır.
+- Şefkati sözden önce iş yaptırır; iktidar arzusundan çok insanları ve işi ayakta tutma alışkanlığı görünür.
+- İmgeleri gemi, akıntı, pas, yük, sis ve hava değişiminden gelir.
 
 ## 4. Diyalog
 
@@ -83,4 +83,4 @@ Aşağıdaki yapılar mutlak yasak değildir; görüldüklerinde yazarın ikinci
 - İlk dört POV pilotu tamamlandı: Togan, Temujin, Karia ve Zaleena için ayrı ritim kuruldu.
 - Birinci Kitap'ın dört kısmındaki 53 bölümün tamamı 20 Temmuz 2026'da bu standarda geçirildi.
 - Otomatik nesir denetimi 53 bölüm için POV başlığını, asgari bölüm hacmini, uzun tire/virgül yoğunluğunu ve kesin uyarı kalıplarını kontrol eder.
-- Sonraki redaksiyon İkinci Kitap'ın 1. Kısmı'ndan sürdürülecek; her kısım sonunda geçiş ve zaman zinciri ayrıca denetlenecek.
+- Birinci Kitap'ın 53, İkinci Kitap'ın 182 ve Üçüncü Kitap'ın 123 bölümü bu standarda göre nihai satır ve geçiş redaksiyonundan geçirildi. Türkçe kaynak, 21 Temmuz 2026 tarihinde 358 bölüm ve 178.222 kelimeyle kilitlendi.

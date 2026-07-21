@@ -1,34 +1,38 @@
 # Bölüm 16 — Denizin Kendi Taşı
 *(ZALEENA)*
 
-Karia'nın gönderdiği günlük kopyası, Zaleena'ya ulaştığında, onu, kendi kâhinlerine, bir kez daha, danışmaya yöneltti — bu sefer, "sessiz taşlar" ifadesini, doğrudan sorarak.
+Karia'nın gönderdiği kopyada *sessiz taşlar* sözü iki kez geçiyordu. Zaleena bunu Sevda'ya okuduğunda yaşlı kadının eli su şişesinin üstünde durdu.
 
-Sevda, bu ifadeyi duyunca, beklenmedik bir tepki verdi — yüzü, aniden, solgunlaştı.
+"Bunu nereden duydun?"
 
-"Bunu, nereden duydun?" diye sordu Sevda, sesi, hafifçe titreyerek.
+Zaleena günlüğün kaynağını ve güvenilmez yanlarını da anlattı. Sevda sayfaları uzun süre inceledi.
 
----
+"Büyükannem bana çocukken bir hikâye anlatmıştı. Deniz dibinde sessiz taşların olduğunu ve bunların asla uyandırılmaması gerektiğini söylerdi. Çocuk masalı sandım yıllarca."
 
-Zaleena, günlüğü, Sevda'ya gösterdi — ve yaşlı kâhin, sayfaları, uzun uzun inceledi.
+"Artık sanmıyor musun?"
 
-"Büyükannem," dedi Sevda, sonunda, "bana, çocukken, bir hikaye anlatmıştı — deniz dibinde, 'sessiz taşlar'ın olduğunu, ve bunların, asla, uyandırılmaması gerektiğini. Bir çocuk masalı sandım, yıllarca."
+"Artık aynı sözün başka bir yerde yazıldığını biliyorum. Bu, masalı gerçek yapmaz."
 
-"Ama artık, sanmıyorsun," diye ekledi Zaleena, dikkatle.
+Zaleena, Sevda'nın korkusunu küçümsemediği kadar onu kanıta da çevirmedi.
 
-Sevda, başını, yavaşça salladı. "Hayır. Artık, sanmıyorum."
+✦
 
----
+Kıyıya yakın sığ sularda inceleme yapılmasına karar verildi. Roric en deneyimli altı dalgıcı seçti. Hiçbiri tek başına inmeyecek, dipteki hiçbir nesneye dokunmayacak ve işaret görürse yerini iki kıyı noktasıyla tarif edecekti.
 
-Bu itiraf, Zaleena'yı, kendi donanmasına, yeni bir emir vermeye yöneltti — dalgıçlar, kıyıya yakın sığ sularda, herhangi bir anormal taş ya da yapı olup olmadığını, araştıracaktı.
+"Bir şey bulursanız dokunmayın. Sadece bildirin," dedi Roric.
 
-Roric, bu görevi, kendi en güvenilir dalgıçlarına verdi. "Dikkatli olun," dedi Roric, onları gönderirken. "Bir şey bulursanız, dokunmayın — sadece, bildirin."
+İlk iki gün taştan başka bir şey bulamadılar. Üçüncü gün dalgıçlardan Eren, eski kuzey mendireğinin açığında yosunla kaplı düz bir yüzey gördü. Dibe çakılı değil, daha büyük bir yapının kırılmış parçası gibiydi. Yosunun altında birbirine kapanan üç oyuk seçiliyordu.
 
----
+Eren nesneye dokunmadı. Yüzeye çıktıktan sonra şeklini belleğinden çizdi. İkinci dalgıcın çizimi ayrı odada alındı. İki çizim birbirine benziyor, fakat orta oyuğun yönünde ayrılıyordu.
 
-Üç gün sonra, dalgıçlardan biri, bir şey buldu — deniz tabanında, yosunlarla kaplı, ama Togan'ın bulduğu taşla, çarpıcı bir benzerlik taşıyan, eski bir yapı kalıntısı.
+"Karadaki işaretle aynı olabilir," dedi Zaleena. "Henüz aynı diyemeyiz."
 
-"Aynı işaretler," dedi Zaleena, raporu okurken, Kessel'e. "Karada ve denizde — aynı şey, her yerde."
+Kessel derinlik hesabına baktı. "Bölgesel bir tuhaflıktan daha büyük olma ihtimali arttı."
 
-Kessel, bu habere, ciddi bir endişeyle karşılık verdi. "O zaman, bu, sadece, bir bölgesel tuhaflık değil. Bu, bütün dünyayı, ilgilendiren bir şey."
+✦
 
-O gece, Zaleena, dört toprağın konseyine, acil bir mesaj gönderdi: *Sessiz taşlar, hem karada hem denizde bulundu. Sevda'nın büyükannesinin uyarısı, artık, bir efsane değil. Toplanmalıyız — hepimiz, bir arada.*
+Konseye acil mesaj gönderildi. Mesajda Sevda'nın aile anlatısı, iki dalgıcın çizimi ve eski mendireğin inşa tarihi ayrı eklerdi. Nesnenin taşınabilir olup olmadığı, Akıntı-Yaratıklarıyla ilişkisi ve karadaki örnekle aynı maddeden yapılıp yapılmadığı bilinmiyordu.
+
+Zaleena ikinci dalışı yasakladı. Önce karadaki taşı inceleyenlerden güvenli ölçüm usulü gelecekti.
+
+Gece deniz tabanındaki üç oyuğu düşündü. Aynı işaretin karada ve denizde bulunması, dünyaya yayılmış tek bir düzenin kanıtı değildi. Fakat artık birbirinden habersiz iki tanık, iki ayrı yerde aynı soruyu sormuştu. Konseyin toplanması için bu kadarı yeterliydi.

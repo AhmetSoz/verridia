@@ -24,9 +24,9 @@ const KITAPLAR = [
   },
   {
     ad: "Kitap 3",
-    beklenenKisim: 3,
-    beklenenBolum: 71,
-    dizinler: ["kitap3_kisim1", "kitap3_kisim2", "kitap3_kisim3"],
+    beklenenKisim: 5,
+    beklenenBolum: 123,
+    dizinler: ["kitap3_kisim1", "kitap3_kisim2", "kitap3_kisim3", "kitap3_kisim4", "kitap3_kisim5"],
   },
 ];
 
@@ -74,7 +74,7 @@ for (const kitap of KITAPLAR) {
   sonuclar.push({ kitap: kitap.ad, kisim: kitap.dizinler.length, bolum: dosyalar.length, kelime });
 }
 
-if (toplamBolum !== 306) hatalar.push(`Toplam bölüm ${toplamBolum}, kilitli kanon 306`);
+if (toplamBolum !== 358) hatalar.push(`Toplam bölüm ${toplamBolum}, kilitli kanon 358`);
 
 const index = oku("kulliyat/00_INDEX.md");
 const karakter = oku("kulliyat/21_karakter_kutugu.md");
@@ -88,16 +88,18 @@ const siteReadme = oku("site/README.md");
 
 const zorunluIfadeler = [
   [index, "2. KİTAP TAMAMLANDI (8 Kısım, 182 bölüm)", "Ana indeks Kitap 2 sayısı"],
-  [index, "3. KİTAP DEVAM EDİYOR (3 Kısım, 71 bölüm yazıldı)", "Ana indeks Kitap 3 sayısı"],
+  [index, "3. KİTAP TAMAMLANDI (5 Kısım, 123 bölüm)", "Ana indeks Kitap 3 sayısı"],
   [karakter, "8 Kısım, 182 bölüm tamamlandı", "Karakter Kütüğü Kitap 2 sayısı"],
   [seri, "8 Kısım, 182 bölüm", "Seri Kutusu Kitap 2 sayısı"],
   [kart, "Kaya kadındır, yaklaşık 35 yaşındadır", "Kaya kimlik kilidi"],
   [kart, "Bozan Han, Korgan'ın babası değil selefidir", "Bozan ilişki kilidi"],
   [nesir, "Dört POV'un Ses Profili", "Türkçe nesir standardı"],
+  [nesir, "Karia — kurum, kanıt, saklanan niyet", "Karia POV ses kilidi"],
+  [nesir, "Zaleena — iş, sorumluluk, deniz disiplini", "Zaleena POV ses kilidi"],
   [ilkKisimPlani, "Zaleena'nın ilk bölümü, Karia'nın ilk bölümündeki Metheris sabahından 17 gün sonra geçer", "Faelan yolculuk zaman kilidi"],
   [ilkKisimPlani, "Börü ~35 yaşında ve yirmi yıla yaklaşan bir süredir Han'dır", "Börü hüküm süresi kilidi"],
   [zaleenaIlkBolum, "ZALEENA — ON YEDİ GÜN SONRA", "Zaleena bölüm zaman işareti"],
-  [siteReadme, "3 kitap / 15 kısım / 306 bölüm", "Site README sayısı"],
+  [siteReadme, "3 kitap / 17 kısım / 358 bölüm", "Site README sayısı"],
 ];
 
 for (const [metin, ifade, ad] of zorunluIfadeler) {

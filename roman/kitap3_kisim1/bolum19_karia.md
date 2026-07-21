@@ -1,30 +1,36 @@
 # Bölüm 19 — Haritalama Kararı
 *(KARIA)*
 
-Ortak toplantıdan sonra, Karia, kendi delegasyonuyla, Yamalı Liman'da, birkaç gün daha kaldı — pratik detayları, dört toprak arasında, netleştirmek için.
+Konseyden sonra Karia, pratik ayrıntılar için Yamalı Liman'da iki gün daha kaldı. Haritalama usulü kurulmadan ekipleri yola çıkarmak istemiyordu. Dört ayrı ölçü sistemiyle toplanan bilgi, aynı yanlışı dört kez tekrarlayabilirdi.
 
-"Haritalama, standart bir yöntemle yapılmalı," dedi Karia, kendi arşivcisiyle, Serel'in bir temsilcisiyle birlikte toplantı yaparken. "Yoksa, dört farklı sistemde toplanan bilgiyi, birleştiremeyiz."
+Mirasçıları temsilen gelen Mirel ortak bir sembol dizisi önerdi. Bulgunun türü, onu kimin gördüğü, doğrulayan ikinci tanığın bulunup bulunmadığı ve nesneye temas edilip edilmediği ayrı işaretlerle gösterilecekti.
 
-Serel'in temsilcisi, bu öneriye, hızla katıldı. "Mirasçılar, ortak bir sembol sistemi önerebilir — biz, zaten, farklı bölgelerin kayıtlarını, karşılaştırma konusunda, deneyimliyiz."
+"Haritalama standart bir yöntemle yapılmalı," dedi Karia. "Yoksa dört farklı sistemde toplanan bilgiyi karşılaştıramayız."
 
----
+Zaleena'nın arşivcisi Neris, ortak yöntemin ortak mülkiyet anlamına gelmemesini istedi. Bir limanın balıkçı kaydı Hegemonya sarayının malı olmayacaktı.
 
-Bu pratik iş birliği, Karia'yı, beklenmedik bir şekilde, memnun etti — İttifak, artık, sadece, kriz anlarında değil, günlük, sıkıcı ama gerekli işlerde de, birlikte çalışıyordu.
+Karia bu sınırı metne ekledi. Her bölge asıl kaydını koruyacak, konseye yalnız karşılaştırmaya yetecek kopyayı verecekti.
 
-"Bu," dedi Elowen, akşam, ikisi yalnızken, "belki, en önemli kısım. Büyük konuşmalar, kolay. Ama birlikte, sıradan bir haritalama sistemi kurmak — bu, gerçek bir birlikteliğin işareti."
+✦
 
-Karia, bu gözleme, sıcak bir gülümsemeyle karşılık verdi. "Haklısın. Ve bunu, sana borçluyum — bana, güç göstergelerinden çok, bu tür küçük şeylerin, önemini öğrettin."
+Ekipler için üç bulgu sınıfı belirlendi. Benzer şekil tek başına en düşük sınıftı. Benzer madde ve Togan'ın bilinen tepkisi ikinci sınıfa girecekti. Üçüncü sınıf için en az iki bağımsız ölçüm gerekiyordu. Hiçbir sınıf, nesnenin tehlikeli ya da bilinçli olduğunu kendi başına kanıtlamıyordu.
 
----
+Elowen, "Büyük konuşmalar kolay," dedi akşam. "Birlikte sıradan bir haritalama sistemi kurmak daha zor."
 
-Zaleena'yla, ayrılmadan önce, kısa ama samimi bir konuşma yaptılar — iki kraliçe, artık, sadece müttefik değil, birbirine, gerçek bir saygı besliyordu.
+"Sıradan değil," dedi Karia. "Sıkıcı. Bu yüzden kalıcı olma ihtimali daha yüksek."
 
-"Eğer, bu taşlar," dedi Zaleena, "gerçekten, büyük bir tehdidin işaretiyse, bunu, birlikte karşılamamız, iyi bir şans."
+İkisi de gülmedi. Masada hâlâ ekiplerin erzak, ulaşım ve güvenlik hesapları duruyordu.
 
-Karia, başını salladı. "Katılıyorum. Yalnız başımıza, çok daha zayıf olurduk."
+✦
 
----
+Karia ayrılmadan önce Zaleena ile dış rıhtımda buluştu.
 
-Dönüş yolunda, Karia, kendi gemisinin güvertesinde, Elowen'le, sessizce, planlarını gözden geçirdi — haritalama ekiplerinin, ne zaman, nereye gönderileceği, hangi kaynakların, ayrılacağı.
+"Eğer bu taşlar gerçekten büyük bir tehdidin işaretiyse, bunu birlikte karşılamamız iyi bir şans," dedi Zaleena.
 
-"Bir ay içinde," dedi Karia, son notunu kaydederken, "ilk sonuçları, göreceğiz. Ve o zaman, belki, gerçekten neyle karşı karşıya olduğumuzu, anlayacağız."
+"Katılıyorum. Ama birlikte olmamız doğru olduğumuz anlamına gelmeyecek. Birbirimizin hatasını durdurabilmeliyiz."
+
+"O hâlde ilk hatayı kim yaparsa ötekine borçlu olsun."
+
+Karia bu çeşit bir dostluğu, verilen sözlerden daha güvenilir buldu.
+
+Dönüş yolunda ilk ayın bütçesini yarıya indirdi. Ekip sayısı azalacak, fakat her ekipte yerel bir rehber bulunacaktı. Otuz gün sonra yalnız kaç taş bulduklarına değil, kaç yanlış ihbarı elediklerine de bakılacaktı.

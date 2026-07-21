@@ -1,30 +1,28 @@
 # Bölüm 12 — Daralan Pencere
 *(ZALEENA)*
 
-Karia'nın acil mesajı — döngünün hızlanabileceği ihtimali — Zaleena'ya ulaştığında, o, hemen, kendi kıyısındaki hazırlıkları, bir kez daha gözden geçirdi.
+Döngünün hızlandığı kanıtlanmamıştı. Zaleena yine de tahliye düzeninin kusurlarını görmek için kesin tarihi beklemedi. Bir hafta önceden duyurulan gündüz tatbikatı, dış mahalledeki iki yüz on üç haneyi kapsadı.
 
-"Eğer daha az zamanımız varsa," dedi Zaleena, Roric'e, "tahliye planımızı, sadece bir önlem olarak değil, aktif bir tatbikat olarak yeniden düzenlemeliyiz."
+İlk işaretle kuzey yolu açıldı. On yedinci dakikada balık arabalarından biri dar geçitte devrildi; arkasındaki kırk hane durdu. Güney kayıkları sığ suya aynı anda indiği için birbirinin yolunu kapattı. İç mahalledeki sayım listesinde otuz bir kişi eksik göründü; yirmi altısı yanlış toplanma yerine gitmiş, beşi evinden hiç çıkmamıştı.
 
-Roric, bu öneriye, hemen katıldı. "Otuz yıl önce, benzer bir tatbikat yapmıştık — büyük bir fırtına beklerken. İşe yaramıştı. Şimdi de yarar."
+Tatbikat kırk dokuz dakika sürdü. Plandaki süre otuz iki dakikaydı.
 
----
+Kessel, "İnsanlara hazır olduğumuzu söylemiştik," dedi.
 
-Bu tatbikat, bir hafta içinde, bütün kıyı boyunca uygulandı — halk, gerçek bir tehlike anındaymış gibi, belirlenen güvenli bölgelere taşındı, sonra, her şey normale döndü. Küçük aksaklıklar oldu, ama genel olarak, sistem işledi.
+"Hazır olduğumuzu sandığımızı söyledik. Yarın gerçek süreyi açıklayacağız."
 
-"İyi gitti," dedi Kessel, tatbikat sonrası değerlendirmede. "Ama bir şey eksik — eğer taş, gerçekten uyanırsa, sadece tahliye yetmeyebilir. Bir de, karşılık verecek bir şeye ihtiyacımız olabilir."
+İkinci tatbikat için arabalar iki yola bölündü. Kayık inişlerine hane numarası verildi; işitme güçlüğü olanlar için fener yerine kapı işareti eklendi. Evinden çıkmayan beş kişiden üçü tahliyeyi reddettiğini, ikisi ise işareti duymadığını söyledi. Reddedenlere zor kullanılmadı; tehlike anında yardımın hangi sınıra kadar ulaşabileceği açıkça anlatıldı.
 
-Zaleena, bu gözleme, ciddiyetle karşılık verdi. "Karşılık vermek mi? Elara'nın mühür teorisi doğruysa, ona dokunmak bile tehlikeli."
+Kessel yalnız kaçış planı kurduklarını söylediğinde Zaleena "karşılık vermek" sözünü açmasını istedi.
 
----
+"Taşa saldırmayı kastetmiyorum. Yarık iskeleyi keserse yaralıyı nasıl alacağız? Su çekilirse hangi tekne çalışacak? Gözlem kazıkları kırılırsa karanlıkta sınırı ne belirleyecek?"
 
-"Belki dokunmak değil," dedi Kessel, "ama en azından, bir tepki planımız olmalı. Şu an, elimizde, sadece kaçma planı var. Ya kaçamazsak?"
+Bunlar müdahale değil, olay sürerken hareket edebilme sorularıydı. Roric sığ su teknelerini, yedek işaret şamandıralarını ve kıyıdan çekilebilen kurtarma halatlarını ayrı planlara böldü.
 
-Bu soru, Zaleena'yı, yeni bir çalışmaya yöneltti — Büyük Döngü Komisyonu'na, sadece gözlem değil, olası bir "müdahale" senaryosu üzerinde de çalışmalarını isteyen bir mesaj gönderdi.
+Komisyona gönderilen talep de değiştirildi. Zaleena bilinmeyen taşa karşı silah istemedi; farklı arıza biçimleri için kurtarma ve gözlem seçenekleri istedi.
 
-Serel'in cevabı, birkaç gün sonra geldi, temkinli ama açık: *Şu anki bilgimizle, hiçbir müdahale önerisi güvenli değil. Ama araştırmaya devam ediyoruz. Belki, Togan'ın kanı gibi, başka bir "anahtar" daha bulunabilir — farklı bir yaklaşım sunan bir şey.*
+Serel'in cevabında kesin bir çözüm yoktu. Eklediği hasarlı bir Mirasçı hekim kaydı daha ilginçti. Yaklaşık kırk yıl önce Gelgit-Çeliğiyle dönüşmeye başlayan üç kişinin işlemi tamamlanmadan yaşadığı, bedenlerindeki akışın sıradan maruziyetin ters yönünde ilerlediği yazıyordu. Kayıtta yer adı olarak Kor-Ateşler geçiyor, kişiler adlandırılmıyordu.
 
----
+Metin bu insanları anahtar diye tanımlamıyordu. Togan'ın tepkisine karşıt bir bedensel düzen bulunabileceğine dair ilk izdi. Komisyon doğrulama için Kor-Ateşler'le açık temas kurulmasını önerdi; hiç kimsenin incelenmeye zorlanamayacağını ayrıca belirtti.
 
-O gece, Zaleena, Kessel'le, limanın sessiz bir köşesinde otururken, kendi kendine, garip bir kararlılıkla düşündü: belki, bu döngü, kaçınılmazdı. Ama kaçınılmaz olması, hazırlıksız karşılanması gerektiği anlamına gelmiyordu.
-
-"Ne olursa olsun," dedi Zaleena, Kessel'e, "bu sefer, hazır olacağız. Kaya'nın ödediği bedeli, boşa çıkarmayacağız — onun ölümünden öğrendiğimiz her şeyi, şimdi kullanacağız."
+Zaleena ikinci tatbikatı üç gün sonraya koydu. Kaya'nın ölümünü hazırlık buyruğuna çevirmedi. Planların gerekçesi yaşayan insanların güvenliğiydi; bir ölüyü her kararda yeniden kullanmak değildi.

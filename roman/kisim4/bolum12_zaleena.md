@@ -145,6 +145,8 @@ Kıyı işçileri ile balıkçılardan da tasarım alınacağını Zaleena ekled
 
 İlk saatte kırık gemi, kanca ve dalga şekilleri çoğaldı. Kurtarılan yaşlı balıkçı, ortasında beş küçük nokta bulunan bir ağ çizdi. Zaleena bunun ne olduğunu sormadı. Beş noktanın kimi temsil ettiğini biliyordu.
 
+Finn'in iki çırağı masaya bir bayrak getirmedi. Ustalarının yarım kalan sığ su teknesinin küçük modelini bıraktılar. Dümenindeki çatlağı onarmamışlardı. Zaleena modeli tasarımların arasına koymadı; limanın ilk ortak kurtarma kaydının yanına kaldırttı. Finn bir simgeye dönüştürülmeden de hatırlanabilirdi.
+
 Sorin kırık bir gemi çizdi. Kessel, birbirine geçen iki kanca önerdi. Draven hiçbir şey getirmedi; Roric otuz yıldır kullandığı yıpranmış siyah bayrağı masaya bıraktı.
 
 “Bunu kopyalamayacağız,” dedi Zaleena. “Ama atmayacağız da.”

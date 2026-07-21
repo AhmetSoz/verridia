@@ -1,32 +1,38 @@
 # Bölüm 10 — Dört Toprağın Konseyi
 *(TEMUJİN)*
 
-Togan'ın belirsiz uyarısı, Zaleena'nın somut gözlemleriyle birleşince, Temujin, artık, bunu, görmezden gelinemeyecek bir mesele olarak görmeye başladı.
+Zaleena'nın dokuz gözlemi somuttu. Sungur raporları birbiriyle çelişiyor, Togan'ın denemesi ise hiçbir sonuç vermiyordu. Temujin tam da bu yüzden tarafları toplamak istedi. Bilmediklerini birleştirmek, bildiklerini birleştirmek kadar önemliydi.
 
-"Dört Bayrak'ı, resmi olarak, toplamalıyız," dedi Temujin, Batu'yla, gece geç saatte konuşurken. "Bu, tek bir toprağın çözebileceği bir sorun değil."
+"Dört Bayrak'ı resmî olarak toplamalıyız," dedi Batu'ya. "Bu tek bir toprağın çözebileceği bir sorun değil."
 
-Batu, bu öneriye, hemen katıldı. "İttifakın, kurulduktan sonraki, ilk gerçek sınavı, belki de, bu olacak — dış bir düşmana karşı değil, doğanın kendisine karşı."
+Batu hemen kabul etti. "İttifakın ilk gerçek sınavı doğanın kendisine karşı olacak."
 
----
+"Doğaya karşı savaş ilan etmiyoruz. Önce ne olduğunu anlamaya çalışıyoruz."
 
-Bir hafta içinde, Korgan, Karia ve Zaleena'nın temsilcileri, Genç Kurtlar topraklarında, tarafsız bir noktada, bir araya geldi — İttifakın kurulmasından sonraki ilk büyük ortak konsey.
+✦
 
-"Herkes," dedi Temujin, konseyi açarken, "kendi topraklarındaki gözlemleri, paylaşsın. Ayrı ayrı, belki, hiçbirimiz, tam resmi göremeyiz."
+Toplantı için Kuru Dere'nin kuzeyindeki eski kervan alanı seçildi. Burası Azgut, Sungur ya da Genç Kurt toprağı sayılmıyordu. Korgan Kaan'ı, Karia Elowen'i gönderdi. Zaleena kendi geldi. Temürçi ve Sungur gözlemciler ayrı masalara oturdu; hiçbir sancak ötekinden yükseğe asılmadı.
 
-Korgan'ın temsilcisi, yaşlı bir general, ilk raporu sundu. "Azgut topraklarında, henüz, doğrudan bir işaret yok. Ama hayvanlar, huzursuz."
+"Herkes kendi toprağındaki gözlemleri paylaşsın," dedi Temujin. "Ayrı ayrı tam resmi göremeyebiliriz."
 
----
+Kaan, Azgut sürülerinin son on günde iki kez otlak değiştirdiğini bildirdi. Bunun kuraklıktan kaynaklanma ihtimalini de raporuna eklemişti.
 
-Karia'nın temsilcisi Elowen, kendi gözlemini paylaştı. "Hegemonya sınırlarında da, benzer bir huzursuzluk var — çiftçiler, hayvanların, alışılmadık davranışlar sergilediğini bildiriyor."
+Elowen, Hegemonya'nın üç sınır çiftliğinde hayvan huzursuzluğu kaydedildiğini söyledi. Aynı bölgedeki on bir çiftlikte olağandışı davranış yoktu.
 
-Zaleena, kendi raporunu, en ayrıntılı şekilde sundu — Akıntı-Yaratıklarının sayısı, sadece artmakla kalmamış, davranışları da değişmişti.
+Zaleena sayı, saat ve su örneği getirmişti. "Bu kesin bir kanıt değil. Dört toprakta aynı anda benzer bir huzursuzluk görülmesi de tek başına tesadüfü dışlamaz. Ama ölçümleri aynı usulle sürdürürsek bir hafta sonra bugünkünden daha az cahil oluruz."
 
-"Bu, kesin bir kanıt değil," dedi Zaleena, "ama dört toprakta, aynı anda, benzer bir huzursuzluk görülüyorsa, bu, tesadüf olamaz."
+✦
 
----
+Ortak hazırlık önerisi oy birliğiyle geçmedi. Kaan, Azgut depolarının yabancı denetçilere açılmasına itiraz etti. Sungur temsilcisi, merkezden gelecek tahliye emrini kabul etmeyeceğini söyledi. Zaleena da ortak donanma fikrini daha konuşulmadan reddetti.
 
-Temujin, bütün bu raporları dinledikten sonra, kararını açıkladı. "O zaman, ortak bir hazırlık planı yapmalıyız — her toprak, kendi bölgesinde, hazırlıklı olsun, ama bilgiyi, sürekli, paylaşalım."
+Temujin öneriyi daralttı. Konsey emir vermeyecek, ortak veriyi koruyacaktı. Her taraf kendi gözlemcisini ve hazırlık kararını seçecekti. Bir toprağın kaydı ötekinin mührü altında birleştirilmeyecekti. Acil yardım çağrıları hangi kaynağın ne istediğini açıkça yazacaktı.
 
-Bu öneri, oy birliğiyle kabul edildi — "Dört Toprağın Konseyi," artık, İttifakın, resmi bir kurumu haline geldi, sadece askeri değil, doğal tehditlere karşı da, ortak bir cephe oluşturarak.
+Bu metin dört ayrı mühür ve iki ek protokolle kabul edildi. Adı "Dört Toprağın Konseyi" oldu. Kalıcı bir başkanı, ortak ordusu ya da tek kasası yoktu.
 
-O gece, Temujin, Togan'a döndü. "Belki, haklısın — bir şey, değişiyor. Ve bu sefer, hazırlıksız yakalanmayacağız."
+Toplantıdan sonra Temujin, Togan'ı kervan taşlarının yanında buldu.
+
+"Belki haklısın," dedi. "Bir şey değişiyor. Ve bu sefer hazırlıksız yakalanmayacağız."
+
+Togan bileğini ovuşturdu. "Haklı olduğumu bilmiyoruz."
+
+Temujin konseye dönen ulaklara baktı. "Bu kez hazırlığımızın ilk maddesi de o olsun."

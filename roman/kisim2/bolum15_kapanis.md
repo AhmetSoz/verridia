@@ -194,5 +194,3 @@ Togan, gördüğü ışığa koşmak yerine suyu iki güne böldü. Temujin, yen
 Dördünün önünde de bir eşik vardı. Hiçbiri geçildiğinde neye dönüşeceğini bilmiyordu. O gece alınan kararlar, kehanetten daha küçük görünüyordu: bir tarih, iki imza, kesilen bir pay, geri çevrilen iki gemi.
 
 Sabah olduğunda hepsi kayıtlarda duruyordu.
-
-*(2. Kısım Sonu; 3. Kısım'da devam edecek)*

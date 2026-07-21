@@ -118,5 +118,3 @@ Karar oybirliğiyle çıkmadı. Batu ticaretin başlamasını istiyordu. Yine de
 Gün ağardığında direk bu kez eğri değildi. Bayrak küçük, ambar boş, sözleşme tartışmalıydı. Kuru Dere yine de üç eski gücün gölgesi altında kaybolmamıştı.
 
 İlk sabahını kendi hatasını açıkça yazarak karşılıyordu.
-
-*(6. Kısım Sonu: 7. Kısım'da devam edecek)*

@@ -1,36 +1,36 @@
 # Bölüm 8 — Denizin Fısıltısı
 *(ZALEENA)*
 
-Açıklık Günü'nden bir hafta sonra, Yamalı Liman'ın gözcü kuleleri, alışılmadık bir manzarayı bildirdi — açık denizde, normalden çok daha fazla, Akıntı-Yaratığı sürüsü görülüyordu.
+Kuzey gözcüsü ilk sürüyü şafaktan hemen önce gördü. Akıntı-Yaratıkları normalde derinde ilerler, yüzeye çıktıklarında yalnız sırt çizgileri seçilirdi. Bu kez su, ufuktan mendireğe kadar siyah tümseklerle doluydu.
 
-"Bu kadar erken?" diye sordu Zaleena, kendi deniz haritalarını, hızla inceleyerek. "Kızıl Akıntı'nın döngüsüne, daha, yıllar var."
+Zaleena kuleye vardığında sürü batıya dönüyordu. Yaratıklar avlanmıyor, bir şeyden uzaklaşıyormuş gibi birbirlerini yararak ilerliyordu.
 
-Roric, bu tuhaflığa, endişeyle karşılık verdi. "Erken sürüler, bazen, bir uyarı işaretidir — döngü, beklenenden, daha erken gelebilir."
+"Bu kadar erken?" dedi haritaları açarken. "Kızıl Akıntı'nın döngüsüne daha yıllar var."
 
----
+Roric, eski seyir defterini tek eliyle masaya indirdi. "Erken sürüler bazen bir uyarı işaretidir. Döngü beklenenden daha erken gelebilir."
 
-Zaleena, hemen, kendi eski hocalarına, deneyimli balıkçılara, danıştı — hepsi, benzer bir tedirginlikle, aynı gözlemi doğruladı.
+Defterde buna benzeyen iki kayıt vardı. Birinde Akıntı yedi ay sonra gelmiş, ötekinde hiç gelmemişti. İki satırdan kehanet çıkarmak kolaydı; hazırlık çıkarmak daha zordu.
 
-"Ben," dedi yaşlı balıkçılardan biri, Halim, "kırk yıldır, bu suları izliyorum. Böylesi bir sürü, bu mevsimde, hiç görmedim."
+✦
 
-Bu haber, Zaleena'yı, derin bir düşünceye sürükledi — eğer Kızıl Akıntı, gerçekten erken geliyorsa, bütün İttifakın, hazırlıksız yakalanma riski vardı.
+Zaleena o gün on iki balıkçının ifadesini ayrı ayrı aldı. Birbirlerinin sözünü duymamaları için bekleme yerlerini ayırdı. Dokuzu normalden kalabalık sürü görmüştü; üçü sis yüzünden sayı veremiyordu.
 
----
+"Ben kırk yıldır bu suları izliyorum," dedi Halim. "Böylesi bir sürüyü bu mevsimde hiç görmedim."
 
-Kessel, bu endişeyi paylaşınca, harekete geçti. "Diğer üç Bayrak'a, hemen haber vermeliyiz — bu, sadece bizim sorunumuz değil, hepimizin."
+Yaşlı balıkçının ağında av yoktu. İplere, derinlerden kopmuş soluk yosun parçaları dolanmıştı. Zaleena birini su dolu kaba koydurdu; yosun bir saat içinde kızıla çaldı.
 
-"Haklısın," dedi Zaleena, kararlı. "Ve eğer, döngü, gerçekten erken geliyorsa, hazırlık için, çok az zamanımız olabilir."
+Kessel, "Diğer üç Bayrak'a hemen haber vermeliyiz. Bu sadece bizim sorunumuz değil, hepimizin," dedi.
 
----
+"Haber vereceğiz. Gördüğümüzü ve bilmediğimizi ayrı yazacağız."
 
-O gece, Zaleena, kendi kâhinlerine — eski, deniz bilgisiyle dolu, yaşlı kadınlara — danıştı; onlar, yıldızları ve akıntı desenlerini, inceledi.
+✦
 
-"Kesin bir şey söyleyemeyiz," dedi kâhinlerden biri, Sevda, dikkatle. "Ama işaretler, iyi değil. Hazırlıklı olmak, en akıllıca yol."
+Gece Sevda ile iki yaşlı seyirci, yıldızları ve kıyı akıntılarını inceledi. Aynı ölçümü üç kez tekrarladılar. Gelgit yüksekliği mevsim hesabından iki parmak fazlaydı; rüzgâr ise bunu açıklayacak yönden esmiyordu.
 
-Zaleena, bu belirsizliğe rağmen, kararını verdi. "O zaman, hazırlanacağız — şimdiden, geç kalmadan."
+"Kesin bir şey söyleyemeyiz," dedi Sevda. "Ama işaretler iyi değil. Hazırlıklı olmak en akıllıca yol."
 
----
+Zaleena limanı kapatmadı. Böyle bir emir balıkçıları korurken iki hafta içinde erzakı tüketebilirdi. Bunun yerine kuzey av sahasını üç günlüğüne yasakladı, her dönen gemiye gözlem levhası verdi ve iki hafif tekneyi yalnız su örneği almakla görevlendirdi.
 
-O gece geç saatte, Serel'e, Mirasçı arşivlerinden, geçmiş Kızıl Akıntı döngüleri hakkında, elindeki bütün bilgiyi isteyen bir mesaj gönderdi.
+Serel'e giden mesajda geçmiş Kızıl Akıntı döngülerinin bütün kayıtları istendi. Mesajın ilk cümlesini Zaleena iki kez değiştirdi. Sonunda şöyle yazdı: *Erken döngü doğrulanmadı. Olağandışı deniz hareketi on iki bağımsız gözlemden dokuzunda kayıtlıdır.*
 
-Mira, bu hazırlık telaşını, gözlemleyerek, kendi kendine düşündü: belki, Malakor'un oyunları, sadece, insan yapımı tehditlerin en küçüğüydü — asıl sınav, denizin derinliklerinden geliyordu.
+Deniz bazen insanlardan önce konuşurdu. Zaleena'nın görevi ona anlam yakıştırmak değil, söylediği şeyi yanlış duymamaktı.

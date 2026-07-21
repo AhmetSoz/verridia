@@ -89,7 +89,7 @@ Togan et suyundan bir yudum aldı. “Rüyaymış.”
 
 Anya’nın elleri ateşin önünde kaldı. “Kocamı bir baskında kaybettim. İlk oğlum kış hummasında kollarımda öldü. Bu obada içinde mezar taşımayan kimse yok.” Başını çevirip Togan’a baktı. “Acını senden alamam. Ama onu besleyip sana hükmettirmene de susamam. Seni Kor-Ateşler’den ayıran ne kaldı, bunu kendine sor.”
 
-Ana ateşin öbür yanında iki çocuk, yanmış bir odun parçasını at yerine kullanarak sessizce oynuyordu. Küçük olanın kürkü omzundan kayınca büyüğü hiç düşünmeden çekip düzeltti. Togan bir zamanlar aynı ateşin çevresinde Kaya’nın peşinden koştuğunu hatırladı. Anya ikisini de kulaklarından yakalayıp çadıra göndermiş, Kaya ertesi sabah suçu bütünüyle üstlenmişti.
+Ana ateşin öbür yanında iki çocuk, yanmış bir odun parçasını at yerine kullanarak sessizce oynuyordu. Küçük olanın kürkü omzundan kayınca büyüğü hiç düşünmeden çekip düzeltti. Togan bir zamanlar aynı ateşin çevresinde Kaya’nın peşinden koştuğunu hatırladı. Anya ikisini de kulaklarından yakalayıp çadıra göndermiş, Kaya ertesi sabah suçu bütünüyle üstlenmişti. İlk kartal yuvalarını dere kıyısındaki çarpık söğüdün sol yanına bağladıkları gün de Kaya onu kemerinden yakalamıştı. Togan dalın altında baş aşağı sallanırken Kaya gülmekten düğümü çözememiş, sonunda ikisi birden çamura düşmüştü. Togan o kahkahayı yıllar sonra bile ötekilerden ayırabilirdi.
 
 O yıllarda oba, insanın arkasında duran bir dağ sanılırdı. Şimdi dağın kendisinden bir parça koparıp götürmek üzere olduğunu biliyordu.
 

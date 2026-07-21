@@ -1,32 +1,36 @@
 # Bölüm 15 — Kraliyet Kütüphanesinin Tozu
 *(KARIA)*
 
-Temujin'in mesajı — taş, mühür, "uyanma" kelimesi — Karia'ya ulaştığında, ilk tepkisi, kendi kraliyet kütüphanesinin, en derin, en eski raflarını, yeniden açtırmak oldu.
+Temujin'in mesajında "mühür" ve "uyanma" kelimeleri yoktu. Karia yine de saray kütüphanesinin coğrafya kayıtlarını açtırdı. Üç oyuklu işaretin çizimi, arşivcilere efsanelerden daha iyi bir başlangıç veriyordu.
 
-"Yıllardır," dedi baş arşivci, tozlu kutuları, çıkarırken, "bu bölüme, kimse dokunmadı. III. Theodoric zamanından beri."
+Baş arşivci bodrumdaki kutuları çıkarırken öksürdü. "Bu bölüme III. Theodoric'in hükmünün ilk yıllarından beri kimse dokunmadı."
 
-Karia, bu kutuların içindekini, kendi elleriyle, sabırla incelemeye başladı — ve saatler sonra, ilginç bir şey buldu: eski bir kraliyet coğrafyacısının, unutulmuş bir günlüğü.
+Karia bunun nedenini kutuları açınca anladı. Haritaların çoğu eski vergi yollarına, maden aramalarına ve başarısız sınır seferlerine aitti. Bir memurun yıllarca sakladığı her kâğıt, değerli bir sır taşımıyordu.
 
----
+Öğleden sonra Elowen, eski bir kraliyet coğrafyacısının günlüğünde iki ifade buldu: *yeraltı işaretleri* ve *sessiz taşlar*. İfadeler farklı yıllarda, birbirinden yüzlerce mil uzaktaki iki gezi için kullanılmıştı.
 
-Günlükte, "yeraltı işaretleri" ve "sessiz taşlar" hakkında, belirsiz ama tekrarlayan referanslar vardı — coğrafyacı, bunları, sadece, "eski dünyanın kalıntıları" olarak tanımlamış, daha fazla açıklama yapmamıştı.
+"Tam olarak aradığımız cevap değil," dedi Elowen. "Ama bu tür şeylerin daha önce fark edildiğini gösterebilir."
 
-"Bu," dedi Elowen, günlüğü, Karia'yla birlikte okurken, "tam olarak, aradığımız cevap değil. Ama en azından, bu tür şeylerin, daha önce de, fark edildiğini gösteriyor."
+Karia günlüğün kenarındaki küçük notu okudu. Coğrafyacı, sessiz taşlardan birini hiç görmemiş; yerel bir rehberden duymuştu.
 
-Karia, bu düşünceye, hemen katıldı. "Yani, biz, ilk değiliz. Birileri, geçmişte de, bunu görmüş — ve sonra, unutulmuş."
+"Birinin sözünü gördüğü şey gibi kaydetmiş," dedi Karia. "Bu ikisini ayıralım."
 
----
+✦
 
-Bu keşif, Karia'yı, endişe verici bir soruya yöneltti: eğer bu işaretler, tekrar eden bir olguysa, neden, hiçbir kayıt, tam olarak, ne olduklarını açıklamıyordu?
+Günlüğün son sayfaları koparılmıştı. Elowen bunun kasıtlı bir silme olabileceğini söyledi; baş arşivci ise cildin su hasarı gördüğünü, aynı kutudaki üç defterin daha sayfa kaybettiğini gösterdi.
 
-"Belki," dedi Elowen, "birileri, kasıtlı olarak, bu bilgiyi, sildi. Ya da, gizledi."
+"Belki birileri bilgiyi sildi," dedi Elowen. "Ya da gizledi."
 
-Bu ihtimal, Karia'nın içini, yeni bir soğuklukla doldurdu. "Delta mı? Yoksa, çok daha eski, çok daha derin bir şey mi?"
+"Belki de nem yedi. Delta'nın adını her eksik sayfaya yazmayacağız."
 
----
+Yine de Karia, eksik sayfaların ne zaman kaybolduğunu anlamak için eski cilt onarım hesaplarını istetti. Şüpheyi reddetmedi; onu kanıta dönüşmeden büyütmedi.
 
-O akşam, Karia, bu günlüğün bir kopyasını, hem Temujin'e hem de Zaleena'ya gönderdi — belki, birleştirilmiş parçalar, tek başına hiçbirinin göremediği bir resmi, ortaya çıkarabilirdi.
+✦
 
-Elowen, bu mesajı hazırlarken, Karia'ya baktı. "Korkuyor musun?"
+Temujin ile Zaleena'ya günlüğün tamamı değil, ilgili sayfaların iki bağımsız kopyası ve kaynak notu gönderildi. Yer adlarından biri bugün kullanılmıyordu; eski harita üzerindeki olası konumu ayrı bir renkle işaretlendi.
 
-Karia, bu soruya, dürüst bir cevap verdi. "Evet. Ama korku, hareketsiz kalmak için bir sebep değil — sadece, dikkatli olmak için bir sebep."
+Elowen paketi mühürlerken, "Korkuyor musun?" diye sordu.
+
+"Evet. Ama korku hareketsiz kalmak için sebep değil. Dikkatli olmak için sebep."
+
+Karia sonra paketin başlığını değiştirdi. *Sessiz Taşlar Kaydı* yerine *Aynı ifadeyi kullanan iki doğrulanmamış coğrafya notu* yazdı. Daha uzun başlık daha az korkutucuydu. Aynı zamanda daha doğruydu.

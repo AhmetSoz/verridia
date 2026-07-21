@@ -1,32 +1,26 @@
 # Bölüm 11 — Meziyet Meclisinin İlk Sınavı
 *(KARIA)*
 
-Boşaltılan köyün meziyet meclisi, ilk gerçek kararını, üç hafta sonra almak zorunda kaldı — balıkçı teknelerinin, yeni güvenlik hattının neresinde durabileceğine dair bir anlaşmazlık, köy içinde, iki gruba bölünmüştü.
+Sarıkavak kurulunun ilk anlaşmazlığı, balıkçı teknelerinin nereye bağlanacağı üzerine çıktı. Kıyı yarığının çevresindeki bir millik yasak değiştirilemezdi. Fakat güvenli sınırın dışında kalan iki koydan hangisinin kullanılacağına saray karışmamıştı.
 
-Karia, bu anlaşmazlığa, müdahale etmek istemedi — bu, tam olarak, meclisin, kendi başına çözmesi gereken türden bir meseleydi.
+Kuzey koyu kış rüzgârından korunuyordu; yolu batı tarlalarından geçiyor, ekim alanını daraltıyordu. Güney koyu toprağı koruyor, sert havada tekneleri açıkta bırakıyordu.
 
-"Zor olacak," dedi Elowen, bu bekleyişi izlerken. "Karışmamak, bazen, karışmaktan daha zor."
+Kurul ilk gün dört oyla kuzey koyunu seçti. Kayıp ailelerinin temsilcisi, çiftçilerin masrafı hesaplanmadığı için karara itiraz etti. Pilot metni ona tek başına durdurma yetkisi vermiyordu; buna karşılık maliyet dökümü tamamlanana kadar yedi günlük askı hakkı tanıyordu.
 
----
+Karia'dan müdahale istendiğinde cevap vermedi. Hallis'i de kararın içeriğinden uzak tuttu. Saray yalnız güvenlik sınırının korunup korunmadığını ve usulün işletilip işletilmediğini denetledi.
 
-Meclis, üç gün tartıştı — Karia, sadece, uzaktan, raporlarla takip etti. Sonunda, bir uzlaşmaya vardılar: güvenlik hattı, mevsime göre değişecek, kış aylarında daha geniş, yaz aylarında daha dar olacaktı.
+Yedi gün içinde iki koy için işgücü, ağ kaybı, tarla daralması ve fırtına riski çıkarıldı. Kurul yeni bir çözüm buldu. Kışın kuzey koyu kullanılacak, tekneler için tarlaların kenarından sökülebilir tahta yol kurulacaktı. Yazın güney koyuna dönülecek; yolun masrafı balıkçı payıyla ortak ambardan bölüşülecekti.
 
-"Bu," dedi köyün muhtarı, kararı Karia'ya bildirirken, "sizin vereceğiniz bir karardan farklı olabilirdi. Ama bizim kararımız. Ve bunun için, ona, daha çok sahip çıkıyoruz."
+Karar beşe karşı iki oyla geçti. İki karşı oy tutanağa gerekçeleriyle yazıldı. Bir çiftçi hanesi pay hesabına ayrıca itiraz etti.
 
-Karia, bu sözlere, derin bir tatminle karşılık verdi — çünkü, tam olarak, umduğu şey buydu.
+Elowen, "Başarı sayacak mısın?" diye sordu.
 
----
+"Bunu başarı saymak için erken. Bir karar verdiler. Kararın kışı geçirip geçirmediğini görmedik."
 
-Bu başarı, Karia'yı, meziyet meclisi modelini, birkaç bölge daha genişletmeye teşvik etti — ama bu sefer, dikkatli bir sınırla: her meclis, sadece, kendi yerel meselelerinde karar alabilecekti; büyük stratejik kararlar, hâlâ, merkezi krallıkta kalacaktı.
+Başka üç bölge aynı modeli istedi. Karia hemen yaygınlaştırmadı. Sarıkavak kurulunun altı aylık denetimi tamamlanana kadar yalnız iki bölgede hazırlık yapılmasına izin verdi; oralarda da önce halk oylaması şartı koydu.
 
-"Bu denge," dedi Karia, Elowen'e, yeni politikayı açıklarken, "belki, mükemmel değil. Ama Temujin'in Sungurlarla yaşadığı deneyim, bana, tam bir özerkliğin de, tam bir merkeziyetin de, kendi riskleri olduğunu öğretti. Belki, doğru cevap, ikisi arasında, sürekli ayarlanan bir denge."
+O akşam komisyondan gelen ek, daha acil görünüyordu. Hasarlı üç kayıt arasındaki olay aralıkları sırasıyla yaklaşık otuz, yirmi sekiz ve yirmi altı yıl okunabiliyordu. Fakat ilk tarihin hangi takvime göre yazıldığı belli değildi; ikinci kayıtta iki sayfa eksikti. Döngünün hızlandığı ihtimali reddedilemiyor, doğrulanamıyordu.
 
----
+Karia bu ihtimali konseye "erken uyarı" derecesiyle iletti. Tahliye ya da sefer emri vermedi. Bunun yerine farklı takvimleri eşleştirecek iki bağımsız tarihçi ve kıyı tortularını inceleyecek bir ekip istedi.
 
-O akşam, Büyük Döngü Komisyonu'ndan yeni bir rapor geldi — bu sefer, endişe verici bir bulgu: coğrafyacının notlarında, "büyük döngü"nün, her tekrarında, biraz daha kısa aralıklarla geldiğine dair, belirsiz ama tutarlı bir işaret vardı.
-
-"Yani," dedi Karia, bu bilgiyi okuyunca, Elowen'e, "döngü, hızlanıyor olabilir."
-
-Elowen, bu habere, ciddi bir sessizlikle karşılık verdi. Sonra: "O zaman, hazırlığımızı da hızlandırmalıyız. Çünkü zaman, artık, sandığımızdan daha az olabilir."
-
-Karia, bu uyarıyı, hemen, dört toprağın konseyine iletti — ve o gece, ilk kez, sadece bir gözlemci değil, bir zamanlayıcı gibi hissetti kendini, giderek daralan bir pencereye karşı, yarışan bir zamanlayıcı.
+Belirsizlik zaman kaybettirebilirdi. Kesinlik taklidi ise bütün kaynakları yanlış tarihe yığabilirdi. Karia ikisinin arasındaki farkı karar kaydının ilk satırına yazdırdı.

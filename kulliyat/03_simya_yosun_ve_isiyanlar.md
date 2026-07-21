@@ -44,7 +44,7 @@ Bilinen hiçbir biyoloji kuralına uymaz; ne bitkidir ne hayvan — **biyolojik 
 ### 1. Işıyanlar
 Verridia'nın en büyük ve en az anlaşılan tehdidi. Işık Seddi'nin ardındaki diyardan gelen, **ışık saçan, soğuk ve duygusuz varlıklar.** İnsanları bir çiftçinin tarlasını gördüğü gibi görürler: kaynak.
 
-- **Hasat:** Her Kızıl Hafta'da, Seddin zayıfladığı 3.–4. günlerde, gemileriyle sızar ve insan toplarlar. Götürülenlerden geri dönen olmamıştır. Kıyı halklarının "denizin aldıkları" diye ağıt yaktığı kayıpların bir kısmı boğulma değil, Hasat'tır — ama bunu bilen bir avuç insan vardır: Mirasçılar'ın en iç halkası, Fısıldayan Gemi'den sağ dönen Finn ve artık Togan'ın yol arkadaşları.
+- **Hasat:** Her Kızıl Hafta'da, Seddin zayıfladığı 3.–4. günlerde, gemileriyle sızar ve insan toplarlar. Götürülenlerden geri dönen olmamıştır. Kıyı halklarının "denizin aldıkları" diye ağıt yaktığı kayıpların bir kısmı boğulma değil, Hasat'tır — ama bunu bilen bir avuç insan vardır: Mirasçılar'ın en iç halkası, artık Togan'ın yol arkadaşları ve ölmeden önce gerçeği yalnız kısmen kavrayan Fısıldayan Gemi sağ kalanı Finn.
 - **Görünüş:** İnsan biçimli ama yanlış — fazla uzun, fazla simetrik, tenlerinin altından süzülen soğuk bir iç ışık. Yüzlerinde ifade yoktur; seslerini duyan azdır, duyanlar "aynı anda birkaç yerden konuşuyor gibiydi" der.
 - **Işık Seddi ile ilişkileri:** Sed, onları dışarıda tutmuyor — **bizi içeride tutuyor** da değil; Sed, Lyra'nın inşa ettiği bir sığınak duvarıdır ve Işıyanlar onu tamamen aşamamakta, yalnızca Akıntı'nın zayıflattığı pencerede sızabilmektedir. Sed olmasaydı Hasat bir hafta değil, sürekli olurdu. *(Hegemonya'nın "kapıyı açma" takıntısının gerçek anlamı: kendi kıyametinin kilidini söküyor.)*
 

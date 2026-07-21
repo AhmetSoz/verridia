@@ -1,40 +1,34 @@
 # Bölüm 27 — Soğuk Hesap
 *(KARIA)*
 
-Haber, Karia'ya, bir yas mektubuyla değil, bir istihbarat raporuyla ulaştı — ve Karia, kendi tepkisinden, sonradan utanacaktı.
+Haber Karia'ya bir yas mektubuyla değil, yedi tanık ifadesinin özetiyle ulaştı. İlk düşüncesi Kaya olmadı.
 
-Temujin'in gönderdiği satırları okurken, ilk hissettiği şey keder değildi. İlk hissettiği şey hesaptı. *Sungurların hatunu öldü. Bu, Genç Kurtlar'ın Sungurlar üzerindeki tutuşunu zayıflatır. Zayıf bir Genç Kurtlar, İttifak'ın doğu kanadını zayıflatır. Doğu kanadı zayıflarsa, Delta o boşluğa akar.* Bir kraliçenin zihni, bir ölümü, önce bir haritadaki delik olarak görmüştü.
+Sungur hatunu yoktu. Sungur meclisi bölünebilir, Temujin'in doğu hattı zayıflayabilir ve Delta bu boşluğu kullanabilirdi. Karia'nın zihni, bir insanın yok oluşunu daha acısı kendisine ulaşmadan haritadaki bir açığa çevirmişti.
 
-Kâğıdı bıraktığında elleri titriyordu — kederden değil, kendi soğukluğundan.
+Kâğıdı masaya bıraktı. İlk düşüncesini inkâr etmek kolay, ondan sonra vereceği kararı denetlemek daha zordu.
 
----
+"Kaya'yla iki kez tanıştım," dedi o akşam Elowen'e. "İkisinde de bana kraliçe gibi değil, insan gibi davrandı. Ölüm haberinde ise önce bir insanı değil, siyasi sorunu gördüm."
 
-"Kaya'yla iki kez tanıştım," dedi Karia, o akşam, Elowen'e. "İkisinde de bana, kraliçe gibi değil, insan gibi davrandı. Ve ben, ölüm haberini okuduğumda, aklıma gelen ilk şey harita oldu, Elowen. Sınırlar. Nüfuz. Bir insanın öldüğünü değil, bir taşın tahtadan kalktığını düşündüm."
+Elowen onu bağışlamadı, suçlamadı da. "İlk düşünceni seçmedin. İkincisiyle ne yapacağını seçeceksin."
 
-Elowen bir süre cevap vermedi. Sonra, alışılmadık bir sertlikle konuştu. "Ve şimdi bunun için kendinden nefret ediyorsun. İyi. Bu nefret, seni hâlâ insan yapan şey. Nefret edecek bir şeyin kalmadığı gün — asıl o zaman korkarım senden."
+✦
 
----
+Rapordaki bir cümle Karia'yı yeniden hesaba itti: ışık Togan'ın kanayan eline yönelmiş, Kaya akışı çevirince onu almıştı.
 
-Ama rapor, sadece bir ölüm değildi. Raporun içinde, Karia'yı buz kesen bir cümle vardı: *O şey, özellikle Togan'ın kanını istedi. Kaya, kendini Togan'la o şeyin arasına attığı için öldü.*
+Togan'ın yanında bulunan herkes risk altında olabilir miydi? Onu insanlardan uzak tutmak koruma mı, sürgün mü olurdu? Bir kişinin bedeni ortak tehlike taşıyorsa karar hakkı kimdeydi?
 
-Karia bu cümleyi üç kez okudu. Ve zihni, o kendisinin bile istemediği yöne, yine kaydı: *Togan, yanında durduğu herkes için bir tehlike. O şey onu istiyorsa, ona yaklaşan herkes ölebilir. Bir kraliçe olarak, böyle bir kişiyi müttefik olarak tutmak akıllıca mı — yoksa onu herkesten uzağa, güvenli bir yere, tek başına mı göndermeli?*
+Karia bu soruların hiçbirini emre çevirmedi. Elowen, Hallis ve bir şifacıdan oluşan dar bir inceleme masası kurdu. Masanın ilk maddesi Togan'ın zorla tutulamayacağıydı. İkincisi, yeni bir temasın onun açık onayı olmadan denenemeyeceğiydi. Karia'nın korkusu, Togan'ı bir araca çevirmemeliydi.
 
-Düşünceyi tamamlamadan durdurdu. Ama tamamen silemedi. Ve bir daha, orada, aklının bir köşesinde, sabırla bekleyeceğini biliyordu.
+Yine de onu uzağa gönderme düşüncesi kaybolmadı. Karia bunu kendi notuna yazdı. Sonradan daha soylu bir gerekçe uyduramaması için.
 
----
+✦
 
-"Halka ne söyleyeceğiz?" diye sordu Elowen — bu sefer pratik soru, kederin değil, yönetimin sorusu.
+"Halka ne söyleyeceğiz?" diye sordu Elowen.
 
-Karia uzun süre pencerenin önünde durdu, dışarı bakmadan, sadece camın soğukluğunu alnında hissederek.
+Kör Düzlük'in kesin yeri açıklanırsa meraklılar ve yağmacılar oraya akabilirdi. Kaya'nın adı saklanırsa da ölümü devletin ihtiyacına göre silinmiş olurdu.
 
-"Açıklık Günü'nde," dedi sonunda, "dürüstlüğün en iyi yol olduğunu söylemiştim. Ama şimdi, ilk kez, yalan söylemek istiyorum, Elowen. İnsanlara, İttifak'ın bir müttefik kaybettiğini söylersem — ve bunu bir deniz canavarının değil, adı bile olmayan bir şeyin yaptığını söylersem — panik, Malakor'un bütün söylentilerinden daha hızlı yayılır."
+Karia açıklamayı kendisi yazdı: *Sungurların hatunu Kaya, Dört Toprağın Konseyi'nin sınırlı keşif görevinde yok olmuştur. Bedeni geri getirilememiştir. Görev kaydı taraflara ve Sungur Meclisi'ne açıktır. Alanın kesin yeri, yeni can kaybını önlemek için geçici olarak kapalı tutulacaktır.*
 
-"Yani yalan mı söyleyeceğiz?"
+Yalan söylemedi. Bildiklerinin hepsini de yayımlamadı. İki kararın arasındaki farkı, bitiş tarihi ve denetim hakkı koruyacaktı. Yer bilgisi otuz gün sonra yeniden oylanacaktı.
 
-"Hayır." Karia camdan döndü. "Ama her doğruyu, her gün söylemeyeceğiz. Ve bu ikisi arasındaki farkın, ne kadar ince olduğunu, bugün öğrendim. Bir kraliçe olmanın, beni ne hâle getirdiğini de."
-
----
-
-O gece Karia uyuyamadı. Tavana baktı, ve tanımadığı bir kadını düşündü — Kaya'yı, kendini bir çocuğun önüne atan bozkırlı kadını. Kaya ölürken hesap yapmamıştı. Harita düşünmemişti. Sadece elini uzatmıştı, son kez.
-
-*Ben o kadın olabilir miydim?* diye sordu Karia kendine. Ve dürüst cevabı — gecenin karanlığında, kimsenin duymadığı yerde verdiği cevap — hoşuna gitmedi.
+Gece Karia, Kaya'nın bakır kazığı iki eliyle tuttuğunu anlatan satırı tekrar okudu. Kendisine, *Ben yapabilir miydim?* diye sormadı. Bu soru Kaya'nın son anını Karia'nın vicdanı için kullanırdı. Onun yerine ertesi gün hangi insanı haritada bir boşluğa çevirmemesi gerektiğini düşündü.

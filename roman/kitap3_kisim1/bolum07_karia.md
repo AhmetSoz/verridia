@@ -1,32 +1,38 @@
 # Bölüm 7 — Meziyet Sınavı
 *(KARIA)*
 
-Açıklık Günü'nün başarısı, Karia'ya, beklenmedik bir fırsat da getirdi — meziyet programına, şimdiye kadarki en yüksek başvuru sayısı, ulaşmıştı.
+Açıklık Günü'nden sonra meziyet programına üç yüz on yedi başvuru geldi. Geçen yıl bu sayı seksen dokuzdu.
 
-"Üç yüzden fazla aday," dedi Elowen, listeleri, Karia'ya sunarken. "Çoğu, sıradan aileden — bazıları, hiç okuma yazma bilmiyordu, bir yıl önce."
+Elowen listeleri Karia'nın masasına bıraktı. "Çoğu sıradan aileden. Bazıları bir yıl önce okuma yazma bilmiyordu."
 
-Karia, bu sayıya, gerçek bir gururla karşılık verdi. "Bu, tam olarak, umduğum şeydi — meritokrasi, sadece, bir kaç seçilmiş için değil, herkes için."
+Karia ilk sayfadaki meslekleri okudu: değirmenci çırağı, dul dokumacı, iki eski asker, dokuz liman işçisi. Gururu, listenin altındaki daha küçük cetveli görene kadar sürdü. Mevcut düzen en fazla yüz yirmi adayı sınayabiliyordu.
 
----
+"Bu tam olarak umduğum şeydi," dedi Karia. "Meritokrasi sadece birkaç seçilmiş için değil, herkes için."
 
-Ama bu büyüme, yeni bir sorunu da beraberinde getirdi — sınav süreci, artık, eski kapasiteyle, yönetilemiyordu.
+"Kabul edemediğimiz iki yüz kişi için bu cümlenin değeri az olacak."
 
-"Daha fazla sınav görevlisine ihtiyacımız var," dedi Elowen, "ama her yeni görevli, aynı zamanda, yeni bir yolsuzluk riski demek."
+✦
 
-Karia, bu ikilemi, düşündü. "O zaman, görevlileri, kendi meziyet mezunlarımızdan seçelim — onlar, sistemin, ne kadar değerli olduğunu, kendi hayatlarında, gördüler."
+Daha fazla sınav görevlisi gerekiyordu. Saray kâtiplerinden hızlıca yapılacak atama kapasiteyi çözerdi, fakat soylu hanelerin kendi adaylarını kayırması için yeni kapılar açardı.
 
----
+"Görevlileri kendi meziyet mezunlarımızdan seçelim," dedi Karia. "Sistemin değerini kendi hayatlarında gördüler."
 
-Bu fikir, uygulamaya kondu — ilk meziyet mezunlarından beşi, yeni sınav görevlisi olarak, atandı; her biri, kendi geçmişinden, ders çıkarmıştı.
+Wren itiraz etti. "Minnettarlık tarafsızlık değil. Bizi kendilerine borçlu görürlerse kraliçenin istediği adayı geçirmeye çalışabilirler."
 
-"Ben, bir zamanlar," dedi genç görevlilerden biri, Karia'ya, kendini tanıtırken, "hiçbir umudum yoktu. Şimdi, başkalarının umudunu, korumakla görevliyim. Bu, hafife alınacak bir sorumluluk değil."
+Bunun üzerine beş mezun sınav görevlisi seçildi, ama hiçbiri kendi bölgesinden gelen kâğıdı okuyamayacaktı. Aday adları kapatılacak, her kâğıda yalnız iki bağımsız numara bulunacaktı. Uyuşmayan puanlar üçüncü bir okuyucuya gidecek; sonuçların örneklemi Hallis'in denetimine açılacaktı.
 
-Karia, bu sözlere, derinden etkilendi. "İşte bu — tam olarak bu — yeni Hegemonya'nın, ne olması gerektiği."
+Genç görevlilerden biri yemin töreninde Karia'ya yaklaştı. "Ben bir zamanlar hiç umudum olmadığını sanıyordum. Şimdi başkalarının umudunu korumakla görevliyim. Bu hafife alınacak bir sorumluluk değil."
 
----
+"Umutlarını değil, sınavı koruyacaksın," dedi Karia. "Umut onların."
 
-O akşam, Elowen'le, sarayın bahçesinde, yürürken, Karia, kendi düşüncelerini paylaştı. "Annem, bana, hep, tahtın, kanla korunması gerektiğini öğretti. Ama şimdi, görüyorum ki, gerçek güç, insanlara, fırsat vermekten geliyor."
+Adam önce şaşırdı, sonra başını eğdi.
 
-Elowen, bu düşünceye, sessiz bir onayla karşılık verdi. "Ve bu fırsat, giderek, daha fazla insana ulaşıyor. Üç yüz aday, bir başlangıç, Karia — sadece bir başlangıç."
+✦
 
-Karia, bu sözlere, kararlı bir gülümsemeyle karşılık verdi — Malakor'un dolaylı saldırısı başarısız olmuştu, ama Hegemonya'nın gerçek dönüşümü, hâlâ, en başındaydı.
+Üç yüz on yedi adayın hepsine aynı gün yer bulunamadı. Sarayın tören salonu ve iki lonca binası sınav için açıldı; uzak köylerden gelenlere ikinci tarih verildi. Yol parası olmayan kırk üç aday için eski şölen bütçesinden pay ayrıldı.
+
+O akşam Karia, Elowen'le saray bahçesinde yürürken annesini andı. "Annem bana hep tahtın kanla korunması gerektiğini öğretti. Ama şimdi görüyorum ki gerçek güç insanlara fırsat vermekten geliyor."
+
+"Fırsatı verdiğine kimin karar verdiği de önemli," dedi Elowen. "Üç yüz aday başlangıç. Üç yüz yeni denetçi de olabilir."
+
+Karia boş tören salonunun pencerelerine baktı. Program ilk kez kendi mezunlarıyla büyüyordu. Bu, kurumlaştığının işaretiydi. Aynı zamanda kusurlarını da kendi eliyle çoğaltabileceği anlamına geliyordu.

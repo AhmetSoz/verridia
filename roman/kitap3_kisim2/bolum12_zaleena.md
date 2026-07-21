@@ -1,34 +1,30 @@
 # Bölüm 12 — Yalnız Değil
 *(ZALEENA)*
 
-Karia'nın mektubu, Zaleena'ya ulaştığında, tam olarak beklemediği bir şey yaptı — ağlattı, kısa ama gerçek bir ağlama, günlerdir biriken gerilimin, sonunda bir çıkış bulması gibi.
+Karia'nın mektubu Zaleena'yı rahatlatmadı. Dört insan kayıptı; yüz seksen altı kişi gerçek neden söylenmeden yerinden edilmişti. Bir kraliçenin bunu itiraf etmesi önemliydi, fakat itiraf kararın bedelini ödemiyordu.
 
-Kessel, bu hâli görünce, yanına oturdu, hiçbir şey sormadan. Bazen, en iyi soru, hiç sormamaktı.
+Zaleena zaman çizelgelerini karşılaştırdı. Sarıkavak'taki ilk kayıp gecesi deniz taşı hiç parlamamıştı. Dördüncü kayıp gecesinde iki kısa parlayış vardı; bu, önceki haftanın ortalamasından farklı değildi. Eş zamanlılık zinciri kurulamadı.
 
-"Karia da yalan söylüyormuş," dedi Zaleena, sonunda, gözlerini silerek. "Kendi halkına. Ben de, ona, kendi zayıflığımı anlattım — sürekli, Kartal-Yurdu'na bakıp, hiçbir şey yapamamanın verdiği çaresizliği."
+Karia'ya bu sonucu ve gerçeği açıklamak için tarih belirlemesi gerektiğini yazdı. Mektubu bitirdiğinde Kessel yanına oturdu.
 
-"Ve şimdi?"
+"Onu anlıyor musun?" diye sordu.
 
-"Şimdi, daha az yalnızım. Bu, tuhaf bir teselli — iki kraliçe, iki ayrı günahı, birbirine itiraf ediyor, ve bu, günahları küçültmüyor, ama taşınabilir kılıyor."
+"Neden korktuğunu anlıyorum. Bu, yaptığını doğru bulduğum anlamına gelmiyor."
 
----
+✦
 
-Bu paylaşım, Zaleena'yı, kendi kararsızlığına dair, yeni bir netliğe ulaştırdı. O gün, Kaan'a, doğrudan bir mesaj gönderdi — Temujin'e değil, çünkü onun yükünü artırmak istemiyordu, ama Kaan'a, kendi tarafından, ne yapabileceğini sormak için.
+Ferrin dosyası için Kaan'dan açık yardım talebi geldi. Zaleena eski kaçakçılık bağlarını harekete geçirmeden önce sınır koydu: bilgi satın almak için tehdit ve suç affı verilmeyecek, canlı kişilerin adları ikinci kaynak olmadan paylaşılmayacaktı.
 
-*Ferrin'in Delta bağlantılarını biliyorum. Yamalı Liman'ın istihbarat ağı, belki, senin bilmediğin bir şeyi biliyor. Yardım edebilirim — istersen.*
+Üç gün içinde üç ayrı parça geldi. Sazlık Taht'taki bir ambar defteri Ferrin'in iki yıl önce "kış hediyesi" adıyla bakır dağıttığını gösteriyordu. Delta'dan çıkan bir gemi kaydı aynı yükü Fısıltı Ustalığı'nın eski ödeme önekiyle bağlıyordu. Üçüncü kaynak, Ferrin'in benzer bir tekliften sonra yol çizelgesi istediğini anlatan emekli bir kâtipti.
 
-Kaan'ın cevabı, hızlı ve minnettar geldi: *Her yardım, şu anda, değerli. Ferrin'in geçmişini araştırıyoruz, ama Delta tarafında gözümüz yok. Senin ağın, bunu değiştirebilir.*
+Tek tek hiçbiri yeterli değildi. Birlikte, Ferrin'in Malakor ağı için daha önce aynı yöntemi kullandığını güçlü biçimde gösteriyordu. Mevcut Sungur teklifini doğrudan kimin emrettiği ise hâlâ bilinmiyordu.
 
----
+✦
 
-Zaleena, kendi eski korsan bağlantılarını harekete geçirdi — Sazlık Taht'ın su yollarında, hâlâ, birkaç eski dostu vardı, insanlar, ona, Roric'in otuz yıllık itibarı yüzünden borçlu olanlar.
+Zaleena dosyayı Kaan'a, Temujin'e ve Anya'nın açık meclis kâtibine aynı anda gönderdi. Bilgiyi yalnız Temujin'in kullanacağı gizli bir silaha çevirmedi. Tanık adı kapalı, belge kaynakları açıktı.
 
-Üç gün içinde, ilk bilgi geldi: Ferrin, gerçekten bir tüccardı — ama aynı zamanda, Malakor'un doğrudan emrinde çalışan, küçük ama güvenilir bir ajandı, iki yıldır, benzer "hediye" operasyonlarını, kıtanın farklı köşelerinde yürütmüştü.
+"Anya bunu dış müdahale sayabilir," dedi Kessel.
 
-"Bu, yeni bir taktik değil," dedi Zaleena, Kessel'e, bu bilgiyi paylaşırken. "Bu, Malakor'un, yıllardır kullandığı bir yöntem. Ve şimdi, sırayı, Sungurlara getirdi."
+"Sayabilir. Ona ne karar vereceğini yazmadım. Ferrin'in teklifini değerlendireceği bilgiyi verdim. Temujin'e ayrıcalık tanısaydım asıl o zaman müdahale ederdim."
 
----
-
-O gece, bu bilgiyi Kaan'a gönderirken, Zaleena, kendi kendine bir şey fark etti — artık, sadece bekleyen biri değildi. Sessiz kalmak ile yardım etmek arasında, üçüncü bir yol bulmuştu: müdahale etmeden, ama yalnız da bırakmadan, katkı sunmak.
-
-"Belki," dedi Zaleena, Kessel'e, "İttifak'ın gerçek gücü, tam olarak bu. Herkesin kendi savaşını vermesi, ama hiç kimsenin, o savaşı, tek başına vermemesi."
+Yalnız olmamak, herkesin aynı safta durması demek değildi. Bazen aynı belgeyi birbirine güvenmeyen tarafların önüne aynı anda koymak demekti.

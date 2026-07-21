@@ -1,34 +1,38 @@
 # Bölüm 6 — Fısıltının İlk Adımı
 *(TEMUJİN)*
 
-Kaan'ın mesajı, on iki gün sonra geldi — Korgan'ın topraklarından, ama içeriği Sungurlarla ilgiliydi: *Bir Delta tüccarı, üç gündür, Anya'nın klanının otağlarında dolaşıyor. Adı Ferrin. Yanında hediyeler var — tuz, bakır, iyi silah. Kimseden bir şey istemiyormuş gibi davranıyor.*
+Kaan'ın mesajı on iki gün sonra geldi. Ferrin adında bir Delta tüccarı Sungur obalarında tuz, bakır ve silah dağıtıyordu. Hediyeler doğrudan Anya'ya gitmemiş, her biri farklı bir meclis üyesinin yakınına verilmişti.
 
-Temujin, bu haberi okurken, midesinde tanıdık bir soğukluk hissetti. Malakor, hiçbir zaman kapıyı kırarak girmezdi. Önce hediye getirirdi.
+Batu, "Kaya'yı gömeli bir ay olmadı," dedi.
 
----
+"Bu yüzden gelmiş olabilir. Bunu kanıtlamadan Malakor'un adamı diyemeyiz."
 
-Batu, bu gelişmeye, sert bir tepki verdi. "Şimdi mi? Kaya'yı gömeli bir aydan az oldu."
+Temujin Kaan'a Ferrin'in tutuklanmamasını yazdı. Açık ticaret kayıtları, geçiş izinleri ve verdiği hediyeler izlenecekti. Özel çadırlara girilmeyecek, mektuplar ele geçirilmeyecekti. Bu sınırlar tüccarı koruduğu kadar elde edilecek bilginin güvenilirliğini de koruyordu.
 
-"Tam da bu yüzden," dedi Temujin. "Bir klan, en kırılgan olduğu anda, en değerli hediyedir. Malakor bunu biliyor — belki bizden önce biliyor."
+✦
 
-Temujin, Kaan'a hemen bir cevap yazdı: *Ferrin'i izle, ama dokunma. Ne teklif ettiğini öğrenmemiz gerek — önce anlayalım, sonra hareket edelim.*
+Üç gün sonra Ferrin'in teklifi Anya'nın meclisine ulaştı. Delta, Sungurların bağımsız meclisini tanıyacak ve ilk kış için vergi almadan tuz sağlayacaktı. Karşılığında ticaret yollarının haftalık geçiş bilgilerini istiyordu.
 
----
+Batu teklifi okuyunca, "Masum görünüyor," dedi.
 
-Cevap üç gün sonra geldi, ve Temujin'in korktuğundan daha kötüydü: Ferrin, Anya'ya doğrudan bir teklif sunmuştu — Delta'nın "koruması" altında, tam bağımsız bir Sungur meclisi. Azgut'a hiçbir vergi yok, hiçbir asker borcu yok. Karşılığında, sadece, Sungur topraklarından geçen ticaret yollarının bilgisini paylaşmak.
+"Geçiş bilgisi yalnız tüccarı göstermez. Devriyeyi, erzak kervanını ve hangi geçidin boş kaldığını da gösterir."
 
-"Masum görünüyor," dedi Batu, teklifi okuduktan sonra.
+Anya kabul etmemişti. Reddetmemişti de. Teklifi açık mecliste tartışmaya koymuştu. Bu, Ferrin'in gizli bir anlaşma elde edemediği anlamına geliyordu. Temujin'in korkusunu ortadan kaldırmıyordu.
 
-"Öyle görünmesi gerekiyor." Temujin, haritayı önüne çekti — Sungur topraklarından geçen yollar, Genç Kurtlar'ın bütün lojistiğinin belkemiğiydi. "Bu bilgiyle, Malakor, bizim her hareketimizi önceden görür. Bir savaş olmadan, bir savaşı kazanır."
+✦
 
----
+Temujin çekmecesindeki mesajı çıkardı. Kaan'dan meclis üyelerinin farklı taleplerini gizlice öğrenmesini istiyordu. Ferrin'in teklifi, bu hamleyi koruma gibi göstermek için kusursuz gerekçe vermişti.
 
-Anya, teklifi henüz kabul etmemişti — ama reddetmemişti de. Kaan'ın son raporu, bunu açıkça yazıyordu: *Anya, meclisiyle tartışıyor. Bazıları, "sonunda birileri bize saygı gösteriyor" diyor. Bazıları şüpheci. Ama hiç kimse, senin adını, artık, güvenle anmıyor.*
+"Açık oturumun tutanağını bekleyelim," dedi Batu. "Kim ne düşünüyorsa orada söyleyecek."
 
-Temujin, bu son cümleyi, uzun süre düşündü. Bir zamanlar, Kaya'nın adı, kendi adıyla birlikte anılırdı — güven bir arada gelirdi. Şimdi, o bağ kopmuştu, ve geriye, sadece hesap kalmıştı.
+"Orada söyledikleriyle yalnızken kabul edecekleri aynı olmayabilir."
 
-O gece, aklının o rafından, günler önce bıraktığı düşünceyi yeniden aldı: Anya'nın meclisini bölme fikrini. Ferrin'in teklifi, aslında, ona bir fırsat da sunuyordu — eğer meclis içindeki şüphecileri bulup güçlendirirse, Anya'nın Delta'yla anlaşması engellenebilirdi. Ama bunun bedeli, kendi halkına karşı gizli bir operasyon yürütmekti.
+"Bu yüzden mi dinlemek istiyorsun, yoksa kullanmak için mi?"
 
-"Batu," dedi Temujin, kararını henüz vermeden, "bana, meclisteki en şüpheci üç ismi getir. Henüz ne yapacağımı bilmiyorum. Ama bilmem gerek, kim, hangi tarafta."
+Temujin cevap vermedi. Mesajı yaktırabilirdi. Onun yerine sonuna bir sınır ekledi: hiçbir para, tehdit ya da sahte vaat kullanılmayacaktı. Sonra mühürledi.
 
-Batu, bu isteği, sessizce onayladı — ama gözlerinde, ilk kez, komutanından duyduğu bir şeyden rahatsızlık vardı.
+Batu mesajı almadı. "Kime göndereceksin?"
+
+"Kaan kendi kanalını seçecek. Ben isim bilmeyeceğim."
+
+Bu da başka bir kolaylıktı. İsimleri bilmemek, yaptığı işin sorumluluğunu azaltmıyordu. Temujin mesajı ulak kutusuna kendi eliyle koydu.

@@ -1,32 +1,26 @@
 # Bölüm 7 — İki Mühür
 *(KARIA)*
 
-Togan'ın mesajı — Sessiz Taşlar ve Sed'in, birbirini fark etmiş olabileceği ihtimali — Karia'ya ulaştığında, kraliyet arşivcilerini, bir kez daha, en derin raflara gönderdi.
+Togan'ın mesajı kesin bir keşif bildirmiyordu. Deniz taşının sönmesi, kuzeye dönük tepkinin azalması ve Sessiz Taşlar'dan yeni olay gelmemesi aynı tarihlere yakındı. Üçünün tek nedenle açıklanabileceği yalnızca bir varsayımdı.
 
-"Eğer iki mühür birbirine bağlıysa," dedi baş arşivci, "bu, coğrafyacının günlüğünde bahsettiği 'eski dünya kalıntıları' ifadesini, yeni bir ışıkta gösteriyor. Belki, bunlar, ayrı ayrı şeyler değil — tek bir sistemin, farklı parçaları."
+Karia arşivcilere bu ayrımı başlığa yazdırdı. Sarıkavak'ta yaptığı hata, güvenlik kazanmak için bilinmeyeni uygun bir hikâyeyle doldurmaktı. Bu kez uygun hikâye daha büyük ve daha çekiciydi.
 
-Karia, bu ihtimali, derin bir endişeyle karşıladı. "Yani, biri zayıflarsa, diğeri de mi etkilenir?"
+Eski bir coğrafyacının günlüğünde *büyük dönüş* diye çevrilebilecek iki kelime bulundu. Metnin önceki ve sonraki sayfaları su almıştı. Kızıl Akıntı'dan, Sed'den ya da mühürlerden açıkça söz etmiyordu. Baş arşivci bunun bir mevsim adı da olabileceğini belirtti.
 
----
+Elowen, "Bir başlık arıyorsak kullanabiliriz," dedi. "Açıklama arıyorsak elimizde yetmez."
 
-"Bilmiyoruz," dedi arşivci, dürüstçe. "ama coğrafyacının notlarında, bir şey daha var — okumadığım, çünkü, çok muğlak bulmuştum. Şimdi, tekrar okuyorum."
+Karia dört toprağa ortak bir çalışma grubu önerdi. Adı geçici olarak Büyük Döngü Komisyonu olacaktı; isim, döngünün varlığını doğrulamıyordu. Her toprak bir arşivci, bir saha gözlemcisi ve bir itirazcı gönderecekti. Kâhin anlatıları tanık kayıtlarından, ölçümler de yorumlardan ayrı tutulacaktı.
 
-Notlar, arşivciye göre, "büyük döngü" adında bir kavramdan bahsediyordu — dünyanın, belirli aralıklarla, kendi mühürlerini "test ettiği" bir süreç. Kızıl Akıntı'nın kendisi, belki, bu testin, sadece görünür bir belirtisiydi.
+Komisyonun emir verme, tahliye başlatma ya da asker isteme yetkisi olmayacaktı. Dört yönetim aynı veriyi görecek, kararlarını kendi halklarına karşı ayrı ayrı gerekçelendirecekti. Hiçbir belge tek merkezde tutulmayacak; kopyalar Eski-Kent, Metheris, Yamalı Liman ve Kuru Dere'ye dağılacaktı.
 
-"Yani," dedi Karia, bu bilgiyi özetleyerek, "Kızıl Akıntı, Sessiz Taşlar, ve belki Sed'in kendisi — hepsi, tek bir, çok daha büyük bir olgunun, parçaları olabilir."
+Zaleena öneriyi aynı gün kabul etti. Temujin, Sungur Meclisi'nin ayrıca temsil edilmesini istedi. Anya bir Azgut temsilcisinin Sungur adına konuşamayacağını bildirince dördüncü toprağın heyeti iki ayrı oy değil, iki ayrı kayıt sesi taşıyacak biçimde genişletildi. Temürçiler de teknik gözlemci talep etti.
 
----
+Karia ilk toplantıya hükümdarların katılmamasını önerdi. Kendi varlığı arşivcilerin ihtimalleri siyasi beklentiye göre sıralamasına yol açabilirdi.
 
-Bu düşünce, Karia'yı, dört toprağın konseyine, yeni bir öneri sunmaya yöneltti: artık, her tehdide, ayrı ayrı değil, ortak bir çerçeveden bakmaları gerektiği.
+Corvus, "Ya zaman gerçekten daralıyorsa?" diye sordu.
 
-"Bir 'Büyük Döngü Komisyonu' kuralım," dedi Karia, konseye önerisini sunarken. "Her toprağın en iyi düşünürleri, arşivcileri, kâhinleri — hepsi, birlikte, bu bilgiyi toplayıp, tek bir resim oluşturmaya çalışsın."
+"O zaman hızlı bir yanlış cevap, yavaş bir doğru kayıttan daha pahalı olur. Acil güvenlik önlemleri zaten yerinde. Komisyon bize yeni karar için dayanak sağlayacak."
 
-Bu öneri, oy birliğiyle olmasa da, geniş bir destekle kabul edildi — Zaleena hemen katıldı, Temujin, Sungur meselesiyle meşgul olduğu için, temsilci gönderdi.
+Günün sonunda üç hipotez vardı. Olaylar tek bir sistemin parçası olabilirdi; aynı çevresel değişime ayrı tepkiler veriyor olabilirdi; tarihler yalnızca çakışmış olabilirdi. Üçü de açık kaldı.
 
----
-
-O akşam, Karia, Elowen'e, kendi endişesini paylaştı. "Eğer bu, gerçekten, bir 'büyük döngü'yse, belki, biz, sadece, bir tekrarın içindeyiz — daha önce de olmuş, bir daha da olacak bir şeyin."
-
-Elowen, bu düşünceye, sakin ama kararlı bir cevap verdi. "Belki. Ama daha önce, hiç kimse, dört toprağın birlikte, bu kadar açık, bu kadar hazırlıklı olduğu bir döngüyle karşılaşmadı. Belki, bu sefer, fark yaratan, bizim hazırlığımız olacak."
-
-Karia, bu umuda, sıkıca tutundu — çünkü, şu anda, elinde, başka hiçbir şey yoktu.
+Karia çalışma dosyasının kapağına *Büyük Döngü* yazdırdı. Hemen altına daha küçük harflerle şunu ekletti: *Çalışma adı. Kanıtlanmış olgu değildir.*

@@ -1,58 +1,78 @@
 # Bölüm 28 — Ardında Bıraktıkların
-*(DÖRT POV — KISIM KAPANIŞI)*
+*(KAPANIŞ)*
 
 **TOGAN**
 
-Sungurlar, cesetsiz gömerdi kayıplarını — bozkırın en eski geleneği, savaşta bedeni geri getirilemeyenler için. Kaya için bir taş dizdiler, boş bir mezarın üstüne, ve Togan taşın başında durdu, ama kalabalığın en önünde değil. En arkasında.
+Sungurlar bedeni geri getirilemeyenler için boş mezar yapardı. Kaya'nın taşının altında ne giysi, ne silah ne de bir tutam saç vardı. Fırtına mezar boyunca çarpık söğüdün en yüksek dalında durdu.
 
-Çünkü öndeki yerler, yas tutanlarındı. Togan, yas tutan değildi. Togan, sebep olandı.
+Togan kalabalığın arkasındaydı. Öndeki yeri hak etmediğini düşünüyordu. Bu düşünceyi kimse ona söylememişti; yine de başkasının hükmünden daha ağır taşıyordu.
 
-Anya, Eskiler Meclisi'nin başı, cenaze boyunca ona tek kelime etmedi. Ama bakışı etti. Ve o bakışta suçlama yoktu — bu daha kötüydü. O bakışta bir soru vardı: *Sen yaşadın. Bizim hatunumuz gitti, sen yaşadın. Buna değecek misin?* Togan bu soruya bir cevap veremedi. Sadece, bir gün, cevabı hak etmeyi umabileceğini biliyordu.
+Anya cenaze boyunca onunla konuşmadı. Togan kadının bakışına bir soru yerleştirmek istedi: *Sen yaşadın. Buna değecek misin?* Anya'nın gerçekte ne düşündüğünü bilmiyordu. Suçluluk, başkalarını kendi diliyle konuşturuyordu.
 
-O gece Burkut yine uçmadı. Kartal, Togan'ın çadırının direğinde tünedi, ve Togan onun sıcaklığını dinleyerek, ilk kez, kanının ağırlığını gerçekten hissetti. O şey onu istiyordu. Ve ona yaklaşan herkes, bu bedeli ödeyebilirdi.
+Gece ilk kartal yuvasını hatırlamaya çalıştı. Çarpık söğüt, sol dal, kemer ve çamur... Bunları kayıttan biliyordu. Kaya'nın kahkahası yoktu. Artık o günü kendi sesiyle anlatabilecek kişi de yoktu.
 
----
+Togan eksik anıyı zorlamadı. İlk kez boşluğun iyileşmesini beklemeden onunla oturdu.
+
+✦
 
 **TEMUJİN**
 
-Anya, üç gün sonra Temujin'in çadırına geldi — davetsiz, yaşlı, ve öfkeli değil, ki bu Temujin'i öfkeden daha çok tedirgin etti.
+Anya üç gün sonra Temujin'in çadırına geldi. Davet beklemedi.
 
-"Kaya seni sevdi," dedi Anya. "Ben sevmedim. Ben, klanımın gururunu, senin sancağının altına soktuğu için ona kızdım — ölene kadar kızdım. Şimdi o yok, ve geriye ben kaldım. Ve ben, senin köprün değilim, Temujin. Ben, seni sorgulayan sesim."
+"Kaya sana güvendi," dedi. "Bu, benim de güveneceğim anlamına gelmez. Ben senin köprün değilim. Bundan sonra Sungurlar adına söylediğin her sözün karşısında beni bulacaksın."
 
-Temujin bir şey vaat etmedi. Vaatlerin, bu kadına bir şey ifade etmeyeceğini biliyordu. Sadece şunu söyledi: "O zaman sorgula. Ama İttifak'ın dışında değil, içinde sorgula. Kaya bir köprü kurdu. Sen onu yıkarsan, onun ölümünü iki kez öldürmüş olursun."
+Temujin masadaki yedi ifadenin asıllarını ona uzattı. "Hepsi senin kâtiplerin önünde yeniden açılabilir."
 
-Anya gitti, ne evet ne hayır diyerek. Ve Temujin, Batu'ya döndü. "Kaya'yı gömdük. Ama onunla birlikte, Sungurları tutan tek düğümü de gömdük. Bu Kısım bitmedi, Batu. Sadece daha zor bir şeye dönüştü."
+"Kayıt istemiyorum sadece. Ayrı meclis istiyorum. Kaya'nın mührü artık senin anlaşmalarını taşımayacak."
 
----
+"Taşımamalı."
+
+Anya bu kadar kolay bir kabul beklememişti. "Bunun bedeli olacak."
+
+"Olacak. Kaya'nın ölümüne karşılık sana itaat satmayacağım. Ne istediğini meclisinle yaz."
+
+Anya ne teşekkür etti ne de yumuşadı. Belgeleri aldı ve çıktı. Temujin, Kaya'nın kurduğu düzeni korumanın onun yerine konuşmak olmadığını biliyordu. Belki de korumanın ilk şartı, düzenin onunla birlikte değişmesine izin vermekti.
+
+✦
 
 **KARIA**
 
-Karia, Hegemonya'da, Kaya için bir tören yapmadı — çünkü halkı Kaya'yı tanımıyordu, ve tanımadığı biri için yas, sahtelik olurdu. Bunun yerine, meziyet mezunlarının o hafta yaptığı yemin törenine gitti, ve orada, alışılmadık bir şey yaptı.
+Karia Hegemonya'da bir yas töreni düzenlemedi. Kaya'yı tanımayan halka saray eliyle keder buyurmak istemedi. Bunun yerine Hallis'e Kör Düzlük seferinin bütün harcamasını, emir zincirini ve durdurma kurallarını denetleme yetkisi verdi.
 
-"Bugün," dedi genç mezunlara, "size bir şey itiraf edeceğim. Bu hafta, uzak bir müttefik öldü. Ve ben, onun ölümünü öğrendiğimde, önce bir insanı değil, bir siyasi sorunu gördüm. Size bunu, sizi korkutmak için değil, uyarmak için söylüyorum: güç, insanı, insanlıktan uzaklaştırır. Her gün. Fark ettirmeden. Sizin göreviniz — asıl göreviniz — bunu fark etmek olacak."
+İlk oturum halka açıktı. Karia kendi kararlarını savunmak için kraliçe kürsüsüne değil, öteki tanıkların kullandığı masaya oturdu.
 
-Salon sessizdi. Elowen, arkada, Karia'ya baktı, ve ilk kez, bir kraliçenin en güçlü anının, zaafını itiraf ettiği an olabileceğini düşündü.
+"Keşif emrini desteklediniz mi?" diye sordu Hallis.
 
----
+"Evet."
+
+"Durdurma kurallarını yeterli buldunuz mu?"
+
+"O gün buldum. Şimdi bir insanın ölmesini, kurallar hiç uygulanmamış gibi anlatmak kolay olurdu. Uygulandılar ve yetmediler. Neden yetmediklerini araştırmalıyız."
+
+Bu cevap Karia'yı temize çıkarmadı. Oturumun amacı da bu değildi.
+
+✦
 
 **ZALEENA**
 
-Deniz dibindeki taş, artık her gece parlıyordu — ve Zaleena, Kaya'nın ölüm haberini aldıktan sonra, o parıltıya bir daha eskisi gibi bakamadı.
+Kaya'nın haberi geldikten sonra Zaleena deniz taşına yapılan bütün dalışları durdurdu. Kıyıdan ölçüm sürdü; nesnenin çevresindeki yarım millik su gece seyrine kapatıldı.
 
-Önce, bu bir bilmeceydi. Bir merak. Şimdi, o parıltının bir bedeli olduğunu biliyordu, ve bedelin adı Kaya'ydı. Belki bir sonraki, kendi halkından biri olacaktı. Belki Roric. Belki Mira. Belki Kessel.
+"İzlemeyi bırakmıyoruz," dedi Roric'e. "Ama bilmediğimiz bir şey için kimseyi dibe göndermeyeceğim."
 
-"Dalgıçları geri çekiyorum," dedi Zaleena, Kessel'e, iskelenin ucunda. "O taşa kimse yaklaşmayacak. İzlemeyi bırakmıyoruz — ama artık kimseyi o şeye yem etmeyeceğim. Bir müttefikin ölmesi yetti. Kendi halkımdan kimseyi vermeyeceğim."
+Kessel, "Ne zamana kadar?" diye sordu.
 
-Kessel onaylamadı, itiraz da etmedi. Sadece elini Zaleena'nın omzuna koydu, ve ikisi, karanlıkta, o soğuk yeşil nabzın açılıp kapanmasını izledi — bir kalp gibi, sabırla atan, onları bekleyen bir kalp gibi.
+"Yeni bir güvenlik usulü kurulana ve dalgıçlar bunu ayrı ayrı kabul edene kadar."
 
----
+O gece yeşil ışık yine belirdi. Roric'in tuttuğu aralık çizelgesinde tek bir değişim vardı: Kör Düzlük'teki kayda göre Kaya'nın yok olduğu saatte, deniz taşı iki olağan parlayış arasında bir kez kesintisiz yanmıştı.
 
-**ORTAK KAPANIŞ**
+Zaleena bu eş zamanlılığı bağın kanıtı saymadı. Fakat kaydın üstünü de örtmedi.
 
-Dört ayrı topraktan dört lider, o gece aynı gerçekle uyudu: İttifak, ilk gerçek bedelini ödemişti, ve ödediği şey bir kale ya da bir ordu değil, bir insandı. Kaya gitmişti. Ve gidişi, hiçbir zafer nutkuyla örtülemezdi.
+✦
 
-Malakor hâlâ bir yerlerde bekliyordu, ve şimdi, İttifak'ın bir yarası olduğunu biliyordu — yaralar, onun en sevdiği şeydi. Sungurlar, artık kırılgan bir düğümle bağlıydı. Togan, kanının bir lanet olabileceğini öğrenmişti. Ve merkezdeki o açlık, o eski, adsız açlık, uykusunda kımıldamış, bir kez esnemiş, ve tadını aldığı şeyi — bir insanın sıcaklığını — unutmamıştı.
+Dört toprak o gece aynı yası tutmadı. Sungurlar hatunlarını, Temujin dostunu, Togan süt ablasını kaybetmişti. Karia kendi kararındaki payı denetime açıyor, Zaleena denizin dibindeki ışığa artık başka bir mesafeden bakıyordu.
 
-Dört Bayrak hâlâ dalgalanıyordu. Ama artık, altlarında duran zeminin, göründüğü kadar sağlam olmadığını biliyorlardı.
+Kaya'nın ölümü dört ayrı hikâyeye bölünmüştü. Hiçbiri tek başına onu bütünüyle anlatmıyordu.
 
-*(BİRİNCİ KISIM SONU — İKİNCİ KISIM'DA DEVAM EDECEK)*
+Kör Düzlük mühürlendi. Deniz taşı parlamayı sürdürdü. Togan'ın avucundaki kesik kapandı; bileğindeki işaret ise geceleri sıcak kaldı.
+
+Birinci Kısım bittiğinde Dört Bayrak hâlâ vardı. Onları taşıyan rızaların ve insanların ölümsüz olmadığı artık kayıtlıydı.

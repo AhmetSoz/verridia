@@ -1,32 +1,34 @@
 # Bölüm 3 — Emsal
 *(KARIA)*
 
-Temujin'in mesajı, Sungur özerkliğinin, Azgut boyları arasında yeni talepler doğurduğunu anlatırken, Karia, kendi topraklarında da, benzer bir mırıltının başladığını fark etti — küçük ölçekte, ama gerçek.
+Sungur anlaşmasının kopyası Metheris'e ulaştığı hafta, yedi küçük soylu Karia'ya ortak dilekçe sundu. Meziyet Programı'nın yalnız başkent görevlilerini seçmesini eşitsizlik sayıyor, bölgelerde kurulacak meclislere kendi adaylarını atamak istiyorlardı.
 
-"Bazı küçük soylular," dedi Corvus, raporunu sunarken, "meziyet programının, sadece bireyler için değil, bütün bölgeler için de uygulanmasını istiyor. 'Neden başkentin kuralları, bize de aynen uygulanıyor' diye soruyorlar."
+Corvus, dilekçenin son sayfasını çevirdi. "Merkezin yetkisini istiyorlar. Meziyet kelimesini kullanmaları, adaylarını meziyetli yapmıyor."
 
-Karia, bu talebi, ilk anda, bir tehdit gibi hissetti — ama sonra, Temujin'in mesajındaki felsefeyi hatırladı.
+Karia aynı kuşkuyu taşıyordu. Yine de talebi yalnız iktidar açlığı diye kapatırsa programı başkentin ayrıcalığına çevirecekti.
 
----
+Elowen iki soru yazdı: Bölge halkı böyle bir meclis istiyor muydu? İstiyorsa üyeleri soylular mı, saray mı, yoksa halk mı seçecekti?
 
-"Belki," dedi Karia, Elowen'e, bu konuyu tartışırlarken, "bu bir tehdit değil, bir fırsat. Eğer meziyet sistemi gerçekten adilse, neden sadece başkentte olsun? Neden her bölge, kendi meziyet meclisini kurmasın?"
+"İlk denemeyi Sarıkavak'ta yapabiliriz," dedi Karia.
 
-Elowen, bu fikre, hevesli bir merakla yaklaştı. "Bu, büyük bir değişiklik olur. Kontrolü, merkezden, bölgelere dağıtmak."
+Bu cümle ağzından çıkar çıkmaz yanlış tarafını gördü. Yalan söylediği köye bir kurum götürüp bunu telafi saymak istiyordu. Sarıkavak halkını kendi bağışlanma hikâyesinde kullanamazdı.
 
-"Biliyorum. Ve bu, riskli. Ama Temujin'in yaptığı şey de riskliydi — ve sonuçta, daha güçlü bir ittifaka yol açtı, zorla tutulan bir imparatorluk yerine."
+"Hayır," dedi. "Önce onlara soracağız. Reddederlerse başka bölge seçeriz."
 
----
+Sarıkavak'ın yüz seksen altı sakini hâlâ üç yerleşime dağılmıştı. Hallis'in görevlileri hanelere aynı metni ulaştırdı: Batı tarlaları, ortak ambar payı ve geçici yerleşim masrafları için yerel bir karar kurulu öneriliyordu. Kurulun yetkisi bir yıl sürecek, kıyı yarığının güvenlik sınırını kaldıramayacak ve kararları açık denetlenecekti. Halk önce kurulun kurulup kurulmayacağına, sonra seçim yöntemine oy verecekti.
 
-Bu düşünce, Karia'yı, kendi krallığının yapısını, yeniden tasarlamaya yöneltti — hızlı değil, dikkatli bir pilot programla, birkaç bölgede, meziyet meclislerinin, yerel olarak kurulmasına izin vererek.
+İlk oylamada yüz on iki kişi kabul, kırk üç kişi ret oyu verdi. Geri kalanı çekimser kaldı ya da ulaşılamadı. Ret oylarının gerekçeleri de kayda geçti. Bazıları kraliçenin yeni bir adla aynı deneyi yaptığını düşünüyordu; bazıları eve dönmeden meclis konuşmak istemiyordu.
 
-"İlk bölge, hangisi olacak?" diye sordu Elowen.
+Karia sonuçtan coşku çıkarmadı. Üçte bire yakın insan ikna olmamıştı.
 
-"Boşaltılan köy," dedi Karia, kararlı. "Orası, zaten, benim yalanımı yaşadı. Şimdi, ilk gerçek özerkliği de, orası deneyimlesin. Belki, bu, bir tür telafi olur."
+İkinci oylamayla yedi üyelik düzen kuruldu. İki üye kura ile hanelerden, ikisi açık seçimle, ikisi kör puanlanan yeterlik başvurularından gelecekti. Son koltuk, kayıp dört kişinin ailelerinin ortak seçimine bırakıldı. Soylular aday gösterebilir, doğrudan koltuk atayamazdı.
 
----
+İlk başvuruların adları kapatıldı. Okuma yazma bilmeyenler sözlü sınava aynı sorularla girdi; cevapları iki bağımsız kâtip kaydetti. Hallis yalnız süreci denetledi, puan vermedi.
 
-Halkın tepkisi, beklenmedik bir coşkuyla geldi — köylüler, kendi meclislerini kurma fikrine, sadece bir hak olarak değil, bir onur olarak yaklaştı.
+Elowen, "Bu model başkente benzemez," dedi.
 
-"Bize güveniyorsunuz," dedi köyün yaşlı muhtarı, Karia'yla yaptığı görüşmede. "Bu, bize, hastalıktan daha çok, iyileşme hissi veriyor."
+"Benzememeli. Aynı kural, farklı hayatlara aynı sonucu dayatıyorsa adil değildir."
 
-Karia, bu sözlere, derinden etkilendi. O akşam, kendi günlüğüne, kısa bir not düştü: *Belki, gerçek bir kraliçe olmak, her şeyi kontrol etmek değil, ne zaman bırakılacağını bilmektir. Temujin, bunu, benden önce öğrendi. Ama öğrenmek, hiçbir zaman, geç değildir.*
+Kurulun ilk yetkisi, tarlaların sulama sırasını belirlemekti. Küçük görünüyordu. Oysa Sarıkavaklıların hangi hanenin önce toprağa döneceğine kraliçe yerine kendilerinin karar vermesi, dilekçedeki bütün büyük sözlerden daha somuttu.
+
+Karia günlüğüne zafer yazmadı. Pilotun iptal şartlarını, ilk denetim tarihini ve ret oylarının üç ana gerekçesini yazdı. Bir kurum, onu kuran kişinin iyi niyetiyle değil; itiraz edenin elinde ne kaldığıyla ölçülmeliydi.

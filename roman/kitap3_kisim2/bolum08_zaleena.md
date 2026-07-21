@@ -1,34 +1,28 @@
 # Bölüm 8 — Uzaktan İzlemek
 *(ZALEENA)*
 
-Kaan'dan gelen ikinci mesaj, Zaleena'ya, Kartal-Yurdu'ndaki gerginliğin, artık bir eşiğe yaklaştığını gösteriyordu — Ferrin'in teklifi, hâlâ masadaydı, ve Temujin'in sessizliği, bazı Sungurlara, bir cevapsızlık gibi görünüyordu.
+Kaan'ın ikinci mesajında Ferrin'in teklifiyle Sungur Meclisi'nin açık oturum tarihi vardı. Temujin'in kendi gizli temasından söz edilmiyordu. Zaleena o kararı ancak daha sonra öğrenecekti.
 
-"Neden müdahale etmiyorsun?" diye sordu Kessel, o akşam. "Sen de İttifak'ın parçasısın. Bu senin de sorunun."
+Kessel, "Neden müdahale etmiyorsun? Sen de İttifakın parçasısın," dedi.
 
-Zaleena, uzun süre, bu soruyu düşündü. "Çünkü bir kraliçe başka bir toprağın iç işine karışırsa, bu, o toprağın kendi liderine güvenmediği anlamına gelir. Ve eğer Temujin'e güvenmiyorsam, o zaman bütün İttifak, temelinden çürük demektir."
+"Sungur Meclisi'nin neye karar vereceğini ben söyleyemem. Ferrin'in limanlarımdan ne taşıdığını ise denetleyebilirim."
 
----
+Zaleena, Delta'dan gelen son altı aylık yükleri tarattı. Ferrin adı iki kez geçiyordu. İlkinde kumaş, ikincisinde tarım aleti beyan edilmişti. İkinci geminin ağırlığı kayıttaki yükten fazlaydı. Bu fark silah kaçakçılığını kanıtlamıyor, yeni incelemeyi hak ediyordu.
 
-Ama sessiz kalmak, kolay değildi. Zaleena, kendi limanının güvenliğini sağlarken bile, aklının bir köşesi, sürekli, doğuya kayıyordu — Kartal-Yurdu'na, Anya'nın meclisine, ve Temujin'in, gitgide daha az yazdığı mesajlara.
+✦
 
-Draven, bu dikkatsizliği fark etti. "Aklın burada değil."
+Deniz taşı aynı hafta yeniden düzensiz parlamaya başladı. Bazı geceler art arda üç kez yanıyor, bazı geceler hiç görünmüyordu. Draven, Zaleena'nın bir kıyı çizelgesine bir Ferrin dosyasına baktığını fark etti.
 
-"Haklısın." Zaleena, elindeki raporu bıraktı. "İki ayrı yangını aynı anda izlemek, insanı yoruyor, Draven. Biri denizin dibinde, biri bozkırın ortasında. Ve ikisini de söndüremiyorum — sadece izleyebiliyorum."
+"Aklın iki yerde," dedi.
 
----
+"Bu yüzden ikisini de tek başıma tutmayacağım."
 
-O gece, deniz dibindeki ışıltı, yeni bir değişim gösterdi — artık düzenli değildi, ara sıra, beklenmedik anlarda, ani bir parlama yapıyordu, sanki, bir şey, sabırsızlanıyordu.
+Taş gözlemini Roric, Delta yük taramasını Draven, tahliye ambarını Mira yönetecekti. Zaleena nihai kararı elinde tuttu, fakat her raporun ilk okuyucusu olmaktan çıktı. Yorgunluğu bir liderlik nişanı gibi taşımak, limanı daha güvenli yapmıyordu.
 
-Sevda, bu değişimi, endişeyle yorumladı. "Bekleme süresi, uzadıkça, sabırsızlaşıyor gibi. Ya da belki, sadece, bize alışıyor."
+✦
 
-"Alışmak ne demek?" diye sordu Zaleena.
+Sevda ışıktaki düzensizlik için yeni bir anlam önermedi. "Sabırsızlanıyor diyebilirim. Bu, taşı insan gibi düşünmek olur. Bildiğim yalnız aralıkların değiştiği."
 
-"Bir çocuk," dedi Sevda, "önce ağlar, kimse gelmezse. Sonra susar — ama unutmaz. Bekler, daha sabırlı bir şekilde, ama daha da kararlı." Bu benzetme, Zaleena'nın içini, yeni bir soğuklukla doldurdu.
+Roric gemilerden örnek verdi. "Dalga çürük tahtayı seçmez. Ama su oradan girer. Ferrin de bir çatlak arıyor olabilir. Taşın aynı şeyi yaptığını bilmiyoruz."
 
----
-
-Roric, o hafta, Zaleena'ya, eski bir gözlem sundu — otuz yıllık deniz bilgisinin, bazen, kâhinlerden daha değerli olduğu bir gözlem.
-
-"Kızıl Akıntı, her zaman, en zayıf noktadan başlar," dedi Roric. "Bir gemi de öyledir — çürük bir tahta varsa, dalga oradan girer. Belki bu da öyle. Belki taş, bizim değil, en kırılgan olanın peşinde."
-
-Zaleena, bu sözü, uzun süre düşündü — ve aklına, istemeden, Kartal-Yurdu'ndaki çatlak geldi. En kırılgan olan neresiydi? Deniz dibindeki taş mı, yoksa bir klanın parçalanan güveni mi? Belki, ikisi de, aynı zayıflığın farklı yüzleriydi — ve belki, ikisi de, aynı anda çökmeye hazırdı.
+Zaleena iki krizi tek bir gizli iradeye bağlamadı. Biri kayıtlı bir tüccarın siyasi teklifi, öteki anlamı bilinmeyen bir deniz yapısıydı. Ortak yanları yalnız şuydu: ikisi de belirsizlikten yararlanıyordu. Bu, taşı suçlamak için değil, kendi kayıtlarını sağlamlaştırmak için yeterliydi.

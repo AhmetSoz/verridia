@@ -1,44 +1,54 @@
 # Bölüm 22 — Annenin Otağı
 *(TEMUJİN)*
 
-Karakçı'nın annesinin otağı, Kartal-Yurdu'nun en kenarındaydı — küçük, sade, önünde, oğlunun eski silahlarının asılı olduğu bir direk.
+Tomiris yedinci günden sonra Temujin'i çağırdı. Görüşme şartlarını kendi yazmıştı: Temujin bir refakatçiyle gelebilir, fakat otağa tek başına girecekti. Silahı kapıda kalacak, konuşma kaydedilmeyecekti. Tomiris sonradan isterse kendi sözlerini yazılı verecekti.
 
-Temujin, atından indi, ve kapıya yürürken, kendi kendine, hiçbir savunma cümlesi hazırlamamaya karar verdi. Bugün, kelimelerle kendini korumayacaktı.
+Batu dış ateşte bekledi. Temujin içeri girdiğinde Karakçı'nın silahları duvarda değildi. Tomiris onları göstermek istememişti.
 
-Kadın, adı Tomiris, onu, içeri, tek kelime etmeden aldı.
+"Otur," dedi.
 
----
+Temujin ateşin karşısına oturdu.
 
-"Otur," dedi Tomiris, ateşin karşısına işaret ederek. Temujin oturdu. Kadın, uzun süre, ona baktı — öfkeyle değil, bir şey arıyormuş gibi, belki bir açıklama, belki bir yalan işareti.
+"Oğlum sana kendi eliyle mektup yazdı mı?"
 
-"Oğlum," dedi sonunda, "sana bir mektup göndermiş miydi? Kendi ağzından?"
+"Hayır. Sube benim imzaladığım belgeyi götürdü. Karakçı sözlü cevap verdi. Onunla hiç yüz yüze konuşmadım."
 
-"Hayır. Kaan aracılığıyla iletişim kurduk. Onunla hiç yüz yüze konuşmadım."
+"O zaman onu bir isim olarak kullandın."
 
-Tomiris, bu cevaba, yavaşça başını salladı — sanki, bunu zaten biliyordu, ama Temujin'in ağzından duymak istemişti.
+"Evet."
 
----
+✦
 
-"O zaman," dedi kadın, "onu bir isim olarak kullandın. Bir yüz olarak değil."
+Tomiris Temujin'den olayın tümünü anlatmasını istemedi. Bunun yerine tek tek kararları sordu. Neden Anya'ya açıkça gitmemişti? Neden Sube'yi seçmişti? Karakçı'nın riskini kim değerlendirmişti? Temujin her soruya bildiği kadarıyla cevap verdi.
 
-Temujin, bu suçlamaya, karşı çıkmadı. "Doğru. Ve bu, affedilecek bir hata değil. Sadece, itiraf edebileceğim bir gerçek."
+"Onu kimin öldürdüğünü biliyor musun?"
 
-"İtiraf yetmiyor." Tomiris'in sesi, ilk kez, titredi. "Oğlumu geri getirmiyor."
+"Hayır."
 
-"Biliyorum." Temujin, ellerini dizlerine koydu, hareketsiz. "Hiçbir şey onu geri getirmez. Ben, sadece, bir daha, hiçbir anneyi, bu otağda, bu şekilde oturtmayacağıma söz verebilirim."
+"Sen öldürdün mü?"
 
----
+Temujin acele etmedi. "Bıçağı kimin tuttuğunu bilmiyorum. Gizli temas kararını ben verdim ve onu görünmeyen bir riske soktum. Kendi payım bu. Daha fazlasını söylersem katilin payını da üstlenip gerçeği bozarım. Daha azını söylersem kendimi korurum."
 
-Tomiris, uzun süre, sessiz kaldı — ateşin çıtırtısı, otağın içindeki tek ses.
+Tomiris ilk kez gözlerini ondan ayırdı.
 
-"Onun ölümünden sonra," dedi kadın, sonunda, "Anya'nın meclisi, ona bir kahraman payesi verdi. 'Sungur özgürlüğü için öldü' dediler. Ama ben, bunu istemiyordum. Ben, onun, sadece, yaşamasını istiyordum."
+"İtiraf oğlumu geri getirmiyor."
 
-"Biliyorum," dedi Temujin, alçak sesle. "Kahramanlık, geride kalanlara teselli verir. Ama anneye, hiçbir şey vermez."
+"Getirmiyor."
 
----
+"Bana bir daha hiçbir annenin böyle oturmayacağına da söz verme. Tutamayacağın sözü benim otağımda söyleme."
 
-Bu söz, Tomiris'in yüzünde, ilk kez, gerçek bir şeye — belki anlaşılmaya — yol açtı. Kadın, ateşe baktı, uzun süre, sonra, beklenmedik bir şey söyledi.
+Temujin başını eğdi.
 
-"Sungurlar, artık, özerk. Bunu duydum. Oğlumun ölümü, bu özerkliğe yol açtıysa..." Sesi kesildi, sonra devam etti. "Bu, onu geri getirmez. Ama en azından, boşuna olmadığını düşünmemi sağlıyor. Belki bu, sana verebileceğim tek şey — seni affetmiyorum, Temujin. Ama seni, bir daha, düşman olarak görmeyeceğim."
+✦
 
-Temujin, bu sözlere, başını eğdi — ne bir teşekkür ne bir savunma, sadece, kabul edilmiş bir yükün sessizliği. Otağdan çıkarken, arkasında, Karakçı'nın annesini, hâlâ ateşin başında, ama artık biraz daha az yalnız bırakarak.
+Anya'nın meclisi Karakçı'yı "Sungur özgürlüğünün şehidi" ilan etmek istemişti. Tomiris reddetmişti.
+
+"Oğlum meclis metni olmak için doğmadı," dedi. "Yaşamak istedi. Onun ölümünden özerklik çıktı diye bana boşuna ölmedi deme. Özerklik doğruysa, o ölmeden önce de doğruydu."
+
+"Evet."
+
+Tomiris ona bağışlama vermedi. "Seni düşman ilan etmeyeceğim. Seni affetmiyorum da. Bundan sonra Sungur toprağına geldiğinde meclis bilecek. Ben seni yeniden çağırırsam gelirsin. Çağırmazsam gelmezsin."
+
+"Kabul ediyorum."
+
+Temujin otağdan çıktığında Tomiris daha az yalnız değildi. Böyle bir sonucu kendi varlığına mal etmek kibir olurdu. Geride yalnızca sorularına cevap vermiş ve sınırını kabul etmişti.

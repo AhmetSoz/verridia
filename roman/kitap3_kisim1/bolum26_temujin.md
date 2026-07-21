@@ -1,44 +1,46 @@
 # Bölüm 26 — Eksik Dönen Kervan
 *(TEMUJİN)*
 
-Temujin, dönüş kervanını, tepenin üzerinden, saymayı öğrenmişti — bir komutanın yıllar içinde edindiği bir alışkanlık. Gidenler kaç kişiyse, dönenler de o kadar olmalıydı. Bu sefer bir eksikti.
+Temujin dönen kervanı tepede saydı. Sekiz kişi gitmişti. Yedi kişi dönüyordu.
 
-Bir eksiği görmek, haberi almaktan önce geldi. Atların yorgun adımlarını, Sube'nin öne eğik omuzlarını, ve Togan'ın — en önde değil, ortada, sanki bir yük gibi taşınan Togan'ı — gördüğünde, Temujin çoktan biliyordu. Sadece kimin eksik olduğunu bilmiyordu. Ve tepeden inerken, tek bir isim için dua etti: *Kaya olmasın.*
+Eksik olanı haberi almadan önce gördü. Togan en önde değil, iki atın arasında geliyordu. Burkut eyerin üstünde sessizdi. Kaya'nın Fırtına'sı ise kervanın üstünde dönüp duruyor, konacak omuz bulamıyordu.
 
-Kaya'ydı.
+Togan attan indiğinde doğrudan Temujin'e yürüdü.
 
----
+"Onu geride bıraktım," dedi. "Kurtarmaya dönmedim."
 
-Togan attan indi, ama Temujin'e doğru yürümedi. Onun önünde, birkaç adım ötede durdu, ve konuşmak için ağzını açtı, sonra kapadı. İkinci denemesinde sesi çıktı, ama parçalıydı.
+Sungur şifacısı araya girmek istedi. Temujin eliyle durdurdu; Togan'ın sözünü tamamlamasına izin verdi.
 
-"Onu geride bıraktım," dedi Togan. "Çukurun kenarında. Kurtarabilirdim — belki — ama Sube beni tuttu, ve Kaya bana yaşamamı söyledi, ve ben... ben döndüm. Onu orada bıraktım, Temujin."
+"Kaya beni çıkardı. Sonra o şey onu aldı. Cesedi yok. Ben döndüm."
 
-Temujin uzun bir süre bir şey söylemedi. Sonra, kendi sesinin ne kadar düz çıktığına şaşırdı — çünkü içeride hiçbir şey düz değildi. "Nasıl öldü?"
+Temujin, "Nasıl öldü?" diye sormadı. Bu sorunun içinde bir kesinlik vardı; ellerinde ise yedi tanığın aynı yok oluşa dair kaydı bulunuyordu.
 
-Togan başını iki yana salladı. "Bilmiyorum. Ölmedi bile, belki. O şey onu... aldı. Bir çığlık olmadı. Bir ceset olmadı. Sadece — yoktu."
+"Bana sırasıyla anlatacaksın," dedi. "Sonra öteki altı kişiyi senden ayrı dinleyeceğiz."
 
-Bir ceset olmadı. Temujin bu üç kelimeyi, ilerideki uzun geceler boyunca, tekrar tekrar duyacaktı.
+Togan bu usulü soğukluk sanmadı. Başını eğdi.
 
----
+✦
 
-Batu, geceleri, Temujin'i çadırın arkasında buldu; komutanının yalnız kalmak için gittiği tek yerde.
+Yedi ifade gece yarısından önce alındı. Hepsi ekibin ilk durdurma şartına uyduğunu, çukura inmediğini ve dönüş sırasında Togan'ın iradesini kaybettiğini söylüyordu. Kaya emniyet ipini bırakmamış, bakır kazıkla akışı Togan'dan çevirmişti. Son anın ayrıntılarında farklar vardı; yok oluşta yoktu.
 
-"Yeva'nın ölümünde ağlamadın," dedi Batu. Bir suçlama değildi. Bir gözlemdi, otuz yıllık bir dostun gözlemi. "Baban öldüğünde de ağlamadın. Şimdi de ağlamıyorsun."
+Temujin, Kaya'nın ölümünü bir kahramanlık hikâyesine dönüştürmedi. Tanıkların gördüğünü aynen yazdı. Togan'ın "onu bıraktım" cümlesini de kayda koydu; yanına, o anda yön ve zaman sorusuna cevap veremediğini ekledi.
 
-"Hayır." Temujin ellerine bakıyordu. "Çünkü ağlamak bir borçtur, Batu. Ve ben Kaya'ya, ağlamaktan çok daha büyük bir borç ödemeyi tercih ederim."
+✦
 
-"Ne borcu?"
+Batu onu gece çadırın arkasında buldu. "Ağlamadın," dedi.
 
-Temujin başını kaldırdı, ve Batu, komutanının gözlerinde, yıllardır görmediği bir şey gördü — soğukluğun altında, gerçek bir şey. "Kaya bana bir sürgün olarak değil, bir insan olarak baktı. Elini uzattı, oysa uzatması için hiçbir sebebi yoktu. Bugün öğrendiğim şey şu: bize elini uzatan insanlar sonsuz değil. Ve ben, kalanları koruyacak kadar acımasız olmayı, artık bir zayıflık saymıyorum."
+Temujin cevap vermedi. Kaya'nın ilk kez karşısına bağlı getirildiği günü, serbest bıraktığında arkasına bakmadan yürüyüşünü ve daha sonra ona eşit biri gibi soru sormasını hatırladı.
 
----
+"Onu geri getirecek bir karar veremiyorum," dedi sonunda. Sesi son kelimede çatladı. "Bütün bildiğim bu."
 
-Ama karargâhın içinde, keder için zaman yoktu — ve Temujin bunu, herkesten önce anladı.
+Batu yanında durdu. Ne omzuna dokundu ne de teselli söyledi.
 
-Kaya, sadece bir dost değildi. Kaya, Sungurların hatunuydu; Temujin'in kansız fethettiği klanı, gururunu kırmadan Azgut sancağı altına getiren köprüydü. Şimdi o köprü yoktu. Ve tepenin öbür yakasında, Sungurların Eskiler Meclisi, gün doğmadan toplanmıştı bile.
+✦
 
-"Anya soru soracak," dedi Batu, alçak sesle. "Kaya'yı, senin uğruna savaşan bir seferde kaybettik. Bazıları bunu böyle anlatacak."
+Gün doğmadan Sungur Eskiler Meclisi toplandı. Kaya yalnız Temujin'in dostu değil, Sungurların hatunuydu. Onun tuttuğu siyasi denge, bedeni kadar bir anda yok olmamıştı; ama artık kimse o dengeyi onun rızasıyla konuştuğunu söyleyemezdi.
 
-Temujin ayağa kalktı. Kederi, henüz doğmuş, adı bile konmamış bir siyasi krize dönüşmüştü, ve bunu yönetmek zorundaydı — bu gece, yorgun ve boş, kederin tam ortasında. Belki de gerçek liderlik buydu: yas tutmaya bile fırsat bulamadan, yasın enkazını yönetmek.
+"Anya soru soracak," dedi Batu. "Bazıları Kaya'nın senin kurduğun düzen uğruna öldüğünü söyleyecek."
 
-"O zaman doğruyu anlatacağım," dedi Temujin. "Kaya benim uğruma ölmedi. Togan'ın uğruna öldü. Ve Togan, hepimizin geleceği için o çukurun kenarındaydı." Çadırın kapısına yürüdü, durdu. "Ama Anya'nın bunu kabul edip etmeyeceğini bilmiyorum. Ve ilk kez, Batu, bir şeyi hesaplayamıyorum."
+"Kaya'nın ne uğruna öldüğünü ben adlandırmayacağım. Bütün kaydı Anya'ya vereceğim. Kararımızı, durdurma şartlarını ve nerede yetmediğini de."
+
+Temujin çadıra döndü. Masada Kaya'nın mührüyle onayladığı eski anlaşmalar vardı. Artık o mührü gelecekteki hiçbir karar için kullanamazdı. Yasın ilk siyasi kuralı buydu: ölenin rızasını miras gibi sahiplenmemek.

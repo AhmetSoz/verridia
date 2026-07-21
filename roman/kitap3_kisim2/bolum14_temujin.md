@@ -1,46 +1,44 @@
 # Bölüm 14 — Sessiz Bir İsim
 *(TEMUJİN)*
 
-Kaan'ın mesajı, şafaktan önce geldi, ve Temujin, onu okurken, ilk üç kelimeden sonra, geri kalanını okumaya gerek duymadı — çünkü ilk üç kelime, her şeyi söylüyordu: *Karakçı öldü. Gel.*
+Kaan'ın mesajı şafaktan önce geldi. İlk cümle kısaydı: *Karakçı öldürüldü.*
 
-Yine de okudu, çünkü durmak, bir şeyi değiştirmezdi.
+Genç savaşçı otağının arkasında, boğazı kesilmiş hâlde bulunmuştu. Üstündeki notta *Yabancıların kulağı Sungur toprağında yaşayamaz* yazıyordu. İmza, tanık ve kullanılan bıçağı belirleyecek işaret yoktu.
 
-*Dün gece bulundu, otağının arkasında. Boğazı kesilmiş, tertipli, sanki bir tören gibi. Üstünde bir not vardı: "Yabancıların kulağı, Sungur toprağında yaşayamaz." İmza yok. Ama herkes biliyor kimin işi bu.*
+Sube iki gün önce Karakçı'ya Temujin'in imzalı belgesini vermişti. Temir belgeyi almış, cevap vermemişti. Karakçı ise Ferrin'in yol listesine karşı oy kullanacağını söylemişti. Bu sözün ölümüne yol açıp açmadığı bilinmiyordu. Gizli temasın onu hedef hâline getirmiş olma ihtimali artık inkâr edilemezdi.
 
----
+✦
 
-Temujin, o gün, ata bindi, ve Batu'yla birlikte, gece yarısı Kartal-Yurdu'na vardı. Anya, onu, kapıda karşıladı — ilk kez, hiçbir meclisle, hiçbir gövde gösterisiyle değil, tek başına.
+Temujin Batu'yla birlikte Sungur kampına gitti. Anya onu ana ateşin dışında karşıladı.
 
-"Gelme cesaretini gösterdin," dedi Anya. "Bunu takdir ediyorum. Ama seni burada istemiyorum, Temujin."
+"Karakçı'yı görmek istiyorum," dedi Temujin.
 
-"Karakçı'yı görmek istiyorum."
+"Ailesi istemiyor. Buna hakkın yok."
 
-Anya, uzun süre, ona baktı. Sonra, hiçbir şey söylemeden, yürüdü, ve Temujin'i, gencin bedeninin bulunduğu yere götürdü.
+Temujin ısrar etmedi. Anya onu meclis çadırına götürdü. Masada notun kopyası ve üç tanık ifadesi vardı.
 
----
+"Ferrin'in yaptığını mı düşünüyorsun?" diye sordu Anya.
 
-Karakçı, hâlâ, oradaydı — cenaze hazırlığı, yerel gelenek gereği, üç gün sürecekti. Temujin, onu, ilk kez, canlı görmediği hâliyle gördü: genç, güçlü bir bedenin, artık, hiçbir gücü kalmamış hâli.
+"Bilmiyorum. Onun ağı olabilir. Senin meclisinden biri de olabilir. Başka biri de."
 
-"Onu tanımıyordun bile," dedi Anya, arkasında durarak. "Ama bir haber gönderdin, ve o, sana cevap verdi — çünkü Kaya'nın öğrencisiydi, ve Kaya'ya olan sadakati, sana da yansıdı. Sen, onun bu sadakatini kullandın."
+"Ama Karakçı'ya gizli mesajı sen gönderdin."
 
-Temujin, bu suçlamaya, karşı çıkmadı. Çünkü karşı çıkamazdı — doğruydu.
+"Evet."
 
----
+"Beni bölmek için."
 
-"Ferrin'in işi bu," dedi Temujin, sesi düz, ama içi düz değildi. "Ya da onun adamlarının."
+"Ferrin'in teklifini durdurmak için. Seni açık müzakere yerine kendi meclisinin içinden zayıflatmayı da düşündüm. Mesaj o düşünceden doğdu."
 
-"Belki." Anya, gencin yüzüne baktı, uzun uzun. "Ya da belki, kendi meclisimden biri, Karakçı'nın seninle konuştuğunu öğrendi, ve bunu, bir ihanet olarak gördü. Belki, Ferrin'in eli hiç değmedi buna — belki, sadece, senin ektiğin tohum, kendi toprağımızda büyüdü."
+Anya'nın yüzü değişmedi. "Bunu Karakçı'nın annesine de söyleyeceksin. Bugün değil. Seni görmek istediği zaman."
 
-Bu ihtimal, Temujin'i, Ferrin'in suçundan daha derin bir yere götürdü. Çünkü eğer doğruysa, bu ölüm, bir düşmanın eseri değildi. Kendi kararının eseriydi.
+✦
 
----
+Sube ile Temir'in adları açık kayda alındı. İkisine de koruma dayatılmadı. Temir kendi ailesinin yanında kalmayı seçti; iki Sungur tanık gece nöbetini paylaştı. Sube Kuru Dere'ye döndü ve teslim ettiği her mesajı Anya'nın kâtiplerine açtı.
 
-"Ona bir koruma vermeliydim," dedi Temujin, Batu'ya, o gece, kampın dışında. "Sadece bir mesaj gönderdim. Bir isim verdim, bir hedef yarattım, ve sonra, onu, kendi kaderine bıraktım."
+Temujin aynı gece iki metin yazdı. İlki olay kaydıydı: gizli temas emrini kendisinin verdiğini, katilin bilinmediğini ve temas ile cinayet arasındaki doğrudan bağın kanıtlanmadığını belirtti. İkincisi emirdi: Sungur siyasi kararlarına ilişkin bütün temaslar, katılan kişinin açık rızası ve kendi meclisinin bilgisi olmadan durdurulacaktı.
 
-Batu, bu itirafa, sert bir cevap vermedi — ama yumuşak da davranmadı. "Sana, günler önce, bunun bedelini sordum. Şimdi cevabı biliyorsun."
+Batu, "Bu Karakçı'yı geri getirmiyor," dedi.
 
-"Biliyorum." Temujin, ellerini yumruk yaptı, sonra açtı. "Ve bu bedeli, bir daha, hiç kimseye ödetmeyeceğim — bir plan uğruna, bir insanı, korumasız bırakmayacağım. Bunu öğrenmek için, bir gencin ölmesi gerekti. Bu, affedilecek bir ders değil, Batu. Sadece, taşınacak bir ders."
+"Getirmiyor. Beni de temize çıkarmıyor."
 
-O gece, Temujin, Anya'nın meclisine, ilk kez, hiçbir hesap yapmadan, sade bir mesaj gönderdi: *Karakçı'nın ölümünden sorumluyum — doğrudan olmasa da, dolaylı olarak. Bunu inkâr etmeyeceğim. Ve bundan sonra, Sungur topraklarına dair hiçbir gizli plan yapmayacağım. Ne istediğinizi, açıkça söyleyin — ben de, açıkça cevap vereceğim.*
-
-Anya'dan cevap gelmedi, o gece. Ama Temujin, ilk kez, bir cevap beklemeden uyudu — çünkü artık, biliyordu ki, bazı borçlar, karşılık beklemeden ödenirdi.
+Temujin daha büyük bir halkı korumak için üç kişiyi riske attığını söyleyemezdi. Bir halk, tek tek insanların üstüne kurulup sonra onların hesabını silemezdi.

@@ -1,38 +1,44 @@
 # Bölüm 5 — Karaçul'un Kararı
 *(TOGAN)*
 
-Sarnai, İttifakın belgelerini, üç gün boyunca, kendi meclisiyle, inceledi — ve sonunda, Togan ve Temujin'i, tekrar, huzuruna çağırdı.
+Sarnai, ittifak belgelerini üç gün boyunca kendi meclisiyle inceledi. Gönderdiği iki ulak dönene kadar Togan ile Temujin'i ana ateşe çağırmadı. Togan beklerken Karaçul çocuklarının atlara yaklaşmaya başladığını, fakat yetişkinlerin hâlâ konuşmadan önce birbirine baktığını gördü.
 
-"Belgeler," dedi Sarnai, "gerçek görünüyor. Ve itiraf etmeliyim — bu kadar açık, bu kadar dürüst bir yaklaşım, beklemiyordum."
+Üçüncü akşam Sarnai, mühürlü nüshaları masaya yan yana koydu.
 
-Temujin, bu değerlendirmeye, saygıyla karşılık verdi. "Şüphen, haksız değildi, Sarnai. Bozkırda, güven, nadiren, karşılıksız verilir."
+"Belgeler gerçek görünüyor. Ve itiraf etmeliyim, bu kadar açık, bu kadar dürüst bir yaklaşım beklemiyordum."
 
----
+Temujin başını eğdi. "Şüphen haksız değildi, Sarnai. Bozkırda güven nadiren karşılıksız verilir."
 
-"Katılmak istiyoruz," dedi Sarnai, kararını açıklayarak. "Küçük bir boy olarak, İttifakın, bize sağladığı güvenlik, değerli. Ve şimdi, biliyorum ki, bu, gerçek bir tuzak değil."
+"Katılmak istiyoruz," dedi Sarnai. "Küçük bir boy olarak İttifakın bize sağladığı güvenlik değerli. Ve şimdi biliyorum ki bu gerçek bir tuzak değil."
 
-Togan, bu karara, derin bir memnuniyetle karşılık verdi. "Bu, Malakor'un, bir kez daha, başarısız olduğu anlamına geliyor."
+Meclisteki iki temsilci kararı onaylamadı. Biri imza atmadan çıktı; diğeri, altı ay sonra yeniden oylama şartı koydu. Sarnai bu itirazları gizlemedi.
 
----
+Togan, "Bu, Malakor'un bir kez daha başarısız olduğu anlamına geliyor," dedi.
 
-Ama Sarnai, ayrılmadan önce, dikkatli bir uyarı da paylaştı. "Bu tüccar, hâlâ, bölgede olabilir. Ve eğer, biz, ikna olduysak, belki, başka bir boya, gidecektir."
+Sarnai hemen karşılık verdi. "Bizim kararımız senin düşmanına karşı kazandığın zafer değil. Karaçul'un kararı."
 
-Bu uyarı, Temujin'i, yeni bir stratejiye yöneltti. "O zaman, önden gitmeliyiz. Bütün küçük boylara, aynı anda, açıklığı götürmeliyiz — Malakor'un, bir adım önünde olmalıyız."
+Togan'ın yüzü ısındı. "Haklısın."
 
----
+✦
 
-Kaya, bu planı, desteğe dönüştürdü. "Sungurlar, bu görevde, size, yardımcı olabilir — bölgeyi, sizden daha iyi biliyoruz."
+Sarnai, ayrılmalarından önce tüccarın hâlâ bölgede olabileceğini söyledi. Adamın atında kuzey boylarından birinin keçesi vardı, ama ödediği bakır Delta'da basılmıştı.
 
-Bir hafta içinde, küçük heyetler, bölgenin, bütün küçük boylarına, dağıldı — her biri, İttifakın gerçek şartlarını, sabırla, anlatarak.
+"Biz ikna olduysak başka bir boya gider," dedi Sarnai. "Orada başka bir korku bulur."
 
----
+Temujin bütün küçük boylara aynı anda belge ulaştırmayı önerdi. Kaya, Sungur yol bilgisi ve ulak ağıyla yardım edebileceklerini söyledi. Ancak heyetler çağrı değil, inceleme hakkı götürecekti. Katılmayan boyun ticareti ya da korunması cezalandırılmayacaktı.
 
-Togan, bu süreçte, kendi sezgisini, sürekli, kullandı — her yeni boyda, gizli bir kışkırtıcının, izlerini arayarak.
+Bir hafta içinde altı heyet yola çıktı. Her birinde ittifak temsilcisinin yanında, kendi boyunun seçtiği bir gözlemci bulunuyordu.
 
-Üçüncü boyda, sonunda, bir iz buldu — aynı tüccarın, orada da, bulunduğuna dair, taze bir işaret.
+✦
 
-"Buradaydı," dedi Togan, Temujin'e, kendi keşfini paylaşarak. "Ama bizden, önce ayrılmış — belki, panik içinde."
+Togan üçüncü kampta aynı tüccarın izine ulaştı. Bu kez sezgisinden önce bir ahır çocuğunun sözü geldi. Adam iki gece kalmış, Karaçul'da sorduğu soruları burada da sormuştu. Ocak kenarında bıraktığı bakır para, Sarnai'nin verdiği parayla aynı dar kalıptandı.
 
-Temujin, bu habere, temkinli bir tatminle karşılık verdi. "Belki, artık, biz, onun bir adım önündeyiz — sonunda."
+Togan parayı avucunda tuttu. Soğuk metalde Akıntı izi yoktu. Malakor'a uzanan görünmez bir bağ da hissetmedi.
 
-O akşam, Togan, kendi kendine düşündü: Malakor'un oyunu, belki, bu sefer, kaybediyordu — ama bu, sadece, bir savaşın, tek bir muharebesiydi, bütün savaşın kendisi değil.
+"Buradaydı," dedi Temujin'e. "Ama bizden önce ayrılmış."
+
+"Panik içinde mi?"
+
+"Bilmiyorum. Belki işini bitirdiğini sanıyordu."
+
+O gece Togan, tüccarın izini bulmuş olmanın bir zafer sayılıp sayılmayacağını düşündü. Adam yakalanmamış, onu kimin gönderdiği kanıtlanmamıştı. Yalnız kullandığı yol daralmıştı. Bazen kazanmak denilen şey, düşmanı durdurmaktan çok ona daha az karanlık bırakmaktı.

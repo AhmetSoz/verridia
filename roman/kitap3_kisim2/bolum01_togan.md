@@ -1,42 +1,58 @@
 # Bölüm 1 — Kendi Sürgünü
 *(TOGAN)*
 
-Togan, gideceğini önce Burkut'a söyledi.
+Togan gideceğini önce Burkut'a söyledi. Kartalla konuşmak karşılık beklemiyordu; bu yüzden kolaydı.
 
-Kartal, çadır direğinde, cenazeden beri uçmayan kartal, onu dinlermiş gibi başını yana eğdi. Ve Togan, bir hayvana içini dökmenin ne kadar kolay, bir insana bakmanın ne kadar zor olduğunu düşündü. Çünkü Burkut yargılamıyordu. İnsanlar yargılardı — haklı olarak.
+"O şey kanıma yöneldi. Burada kalırsam yeniden yönelmeyeceğini bilmiyorum."
 
-"Ben buradayken," dedi Togan, sesini alçak tutarak, "buradaki herkes tehlikede. O şey beni istiyor. Ve bana yaklaşan herkes, Kaya'nın ödediğini ödeyebilir." Elini kartalın sıcak tüylerine değdirdi. "Gitmem gerek. Beni istiyorsa, beni uzakta bulsun. Burada değil."
+Kaya'nın boş mezarı çadırdan görünmüyordu. Togan yine de her sabah yerini biliyordu. Eski-Kent'e gidip Mirasçı kayıtlarını araştırmaya karar vermişti. Bunu bir görev gibi anlatabilirdi. Gerçeğin tamamı değildi. Kamptan, Anya'nın sessizliğinden ve kendi avucundaki kapanan kesikten de uzaklaşmak istiyordu.
 
----
+✦
 
-Temujin, haberi aldığında bir süre konuşmadı. Sonra ayağa kalktı, çadırın öbür ucuna yürüdü, döndü.
+Temujin haberi aldığında kapıyı kapattı. "Kaçıyorsun."
 
-"Kaçıyorsun," dedi.
+"Evet."
 
-"Evet." Togan bunu inkâr etmedi. İnkâr etseydi, Temujin anlardı. "Ama kimden kaçtığım önemli. Senden, Batu'dan, Anya'nın halkından kaçıyorum — sizi korumak için. O çukurda öğrendim, Temujin: ben durduğum yerde, ölüm benimle duruyor."
+"Eski-Kent'e cevap aramaya gittiğini söyleyebilirdin."
 
-"Bunu kendine bir kahramanlık gibi anlatıyorsun." Temujin'in sesi sertti, ama altında başka bir şey vardı. "Oysa bu da bir kolaylık. Gidersen, Kaya'nın mezarına her gün bakmak zorunda kalmazsın. Anya'nın gözlerine bakmak zorunda kalmazsın."
+"O da doğru."
 
-Togan bir an sustu, çünkü bu doğruydu, ve doğru olduğu için canını yaktı. "Belki. Belki ikisi de doğru. Bir insan, aynı anda hem korkak hem haklı olamaz mı?"
+"Kendini herkesten uzak tutmanın onları koruduğunu söylüyorsun. Bu kararı onlar adına sen verdin."
 
----
+Togan bu cümleye karşı hazırlıklı değildi. "Yanımda kalmalarını istemek daha mı iyi? Kaya'ya ne olduğunu gördün."
 
-Temujin cevap vermedi. Bunun yerine, masanın üstündeki haritayı — Sessiz Taşlar'ın daire desenini gösteren haritayı — parmağıyla ortadan böldü.
+"Görmedim. Kaydını okudum. Sen de bu farkı benden iyi biliyorsun."
 
-"Sana bir şey söyleyeceğim, ve bir daha söylemeyeceğim," dedi Temujin. "Kaya öldüğünde, ben ağlamadım. Çünkü ağlamak için durursam, düşeceğimi biliyordum. Sen şimdi gidiyorsun, ve ben seni durduramam, durdurmaya çalışmayacağım da. Ama şunu bil: sen gidince, burada seni savunacak tek ses de gitmiş olacak. Anya, Kaya'nın senin uğruna öldüğünü söyleyecek. Ve haklı olacak. Ben de onu yalanlayamayacağım."
+Togan masanın kenarına baktı. "Bir insan aynı anda hem korkak hem haklı olamaz mı?"
 
-"Biliyorum," dedi Togan.
+"Olabilir. Ama hangisi olduğuna tek başına karar veremez."
 
-"O zaman git. Ama arkanda ne bıraktığını da bil." Temujin haritadan başını kaldırdı. "Kaya bir köprüydü. Sen bir başka köprüydün — Togan'la Sungurlar arasında değil, bu ittifakın vicdanıyla arasında. İkiniz de gidiyorsunuz. Ve geriye ben kalıyorum: köprüsü olmayan bir adam, iki yakayı zorla bir arada tutmaya çalışan."
+✦
 
----
+Temujin onu durdurmadı. Bunun yerine rotayı, ulak noktalarını ve geri dönüş tarihini yazdırdı. Togan her on günde bir haber gönderecek, yetisini tek başına sınamayacak ve gittiği yerde kendi hareketini sınırlayacak bir tanık seçecekti.
 
-Perren, kamp kapısında, iki atla bekliyordu. Yaşlı adam, on bir yıllık münzeviliğini Togan için bırakmıştı bir kez; şimdi, hiçbir soru sormadan, ikinci kez arkasından geliyordu.
+"Kaya'nın ölümünü senin aleyhine kullananlar olacak," dedi Temujin. "Anya'nın ne söyleyeceğini bilmiyorum. Onun ağzından suçlama uydurmayacağım."
 
-"Nereye gittiğimizi bilmiyorum," dedi Togan, ata binerken.
+"Ben uyduruyorum zaten."
 
-"Ben de bilmiyorum." Perren dizginleri topladı. "Ama sen tek başına gidersen, o şey seni bulduğunda yanında kimse olmaz. Ben de olmayabilirim, işe yaramayabilirim. Ama 'kimse yok' ile 'ben varım' arasında bir fark vardır, oğlum. Kaya bunu sana canıyla öğretti. Ben de sana bedavaya hatırlatıyorum."
+Temujin haritayı kapattı. "Bunu da yanında götür. Belki Eski-Kent'te senden başka bir ses duyarsın."
 
-Togan, bu sözün ağırlığını hissetti — çünkü Perren de, yanında yürüyerek, aynı tehlikeyi üstleniyordu. Bir gün, belki, onun mezarının başında da durabilirdi. Bunu düşünmemeye çalıştı, ve başaramadı.
+✦
 
-Kampın arkasında, Kaya'nın boş mezarı, sabah ışığında bir gölge gibiydi. Togan ona bakmadı. Bakamadı. Atını batıya sürdü, ve arkasında bıraktığı her şey — dost, suç, sıcaklık — omuzlarında bir yük gibi, onunla birlikte geldi.
+Perren kamp kapısında iki atla bekliyordu. Togan onu görünce durdu.
+
+"Benimle gelmeni istemedim."
+
+"Biliyorum."
+
+"Tehlikeyi de biliyorsun."
+
+"Kayıtları okudum. Yine de geliyorum. Seni koruyabileceğimi sanmıyorum. Ama gördüğümü yazabilir, sen kendin olmaktan çıkarsan durdurma işaretini verebilirim."
+
+Togan, "Ya seni de alırsa?" diye sordu.
+
+"O ihtimal benim kararımı geçersiz yapmıyor. Her konakta yeniden sorarsın. Ben de yeniden cevap veririm."
+
+Bu, Togan'ın istediği teselli değildi. Daha değerliydi.
+
+Gün çıkarken yola koyuldular. Togan mezara bakmadan geçmedi. Atını durdurdu, Kaya'nın taşını uzaktan selamladı ve sonra batıya döndü. Suç, dostluk ve korku kampta kalmadı. Yolculuğa onunla birlikte çıktı.

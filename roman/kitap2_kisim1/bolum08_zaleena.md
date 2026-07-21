@@ -35,9 +35,9 @@ Zaleena sözünü kesti. "Metheris'e vardığında gördüğünü doğru anlat. 
 
 Adam başını eğdi.
 
-O gece Paslı Finn'in atölyesine uğradı. Usta, dar gövdeli yeni teknenin omurgasını tamamlamıştı. Hem hızlı hem sığ sularda sessiz ilerleyecek biçimde tasarlanmıştı.
+O gece Paslı Finn'in atölyesine uğradı. İki çırağı, ustalarının yarım bıraktığı çizime göre dar gövdeli yeni teknenin omurgasını tamamlamıştı. Tekne hem hızlı hem sığ sularda sessiz ilerleyecekti. Omurganın iki yanında farklı derinlikte keser izleri kalmıştı; Finn tek başına çalıştığında çizgi boyunca böyle bir ayrım bırakmazdı.
 
-"Yeni dostlarına mı satacaksın?" diye sordu Finn.
+"Yeni dostlarına mı satacaksın?" diye sordu büyük çırak.
 
 "Dost demedim."
 

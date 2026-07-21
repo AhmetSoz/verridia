@@ -1,30 +1,26 @@
 # Bölüm 13 — Kuru Vadi
 *(TOGAN)*
 
-Kaya, kendi büyücülerinden birinin bildirdiği garip bir işareti araştırmak için, Togan'dan, kendisiyle birlikte gelmesini istedi — bölgenin kuzeyinde, küçük bir vadide, hayvanlar, tuhaf bir şekilde, tamamen kayboluyordu.
+Kuzeydeki küçük vadide üç haftadır hayvan görülmüyordu. Haberi getiren Rüzgâr-Dinleyen bunu bir alamet diye anlatmamıştı. Yalnız iki tavşan kapanının boş kaldığını, tilki izlerinin vadi ağzında geri döndüğünü ve kuşların kuru otlara konmadığını yazmıştı.
 
-Vadiye vardıklarında, Togan, ilk bakışta, hiçbir şey fark etmedi — sıradan bir bozkır manzarası, kuru otlar, birkaç yalnız ağaç.
+Kaya, Togan'ı yanına aldı. Vadiye girdiklerinde ilk bakışta olağandışı bir şey yoktu. Kuru otlar rüzgârla aynı yöne yatıyor, iki yalnız ağaç mevsimine uygun biçimde yaprak döküyordu. Sessizliği ancak durduklarında fark ettiler. Böcek sesi bile yoktu.
 
-Ama sezgisini yoğunlaştırdığında, orada, bir şey vardı — hafif, ama kesin bir *boşluk* hissi, sanki, vadinin bir köşesinde, dünyanın dokusu, incelmişti.
+Togan'ın sol bileği vadinin doğu yamacında sızladı. Bu, düşmanı ya da tehlikeyi haber veren bir duygu değildi. Akıntı'yla değişmiş metal yakınındayken duyduğu soğuk baskıya benziyordu.
 
----
+"Burada," dedi. "Ne olduğunu bilmiyorum. Ama toprağın altında değiştirilmiş bir şey olabilir."
 
-"Burada," dedi Togan, Kaya'ya, hissettiği noktayı işaret ederek. "Tam olarak açıklayamıyorum. Ama burası... yanlış."
+✦
 
-Kaya, kendi büyücü deneyimiyle, aynı noktayı, inceledi — ve orada, toprağın altında, gömülü, eski, aşınmış bir taş buldular; üzerinde, hiçbirinin tanıyamadığı, silik bir işaret.
+Kaya kazmadan önce yamacın üç yanına işaret koydu. Toprağı katman katman kaldırdılar; her katın derinliğini deri şeride yazdılar. Bir karış aşağıda, kenarları aşınmış koyu bir taş belirdi. Yüzeyinde yazıya benzemeyen, birbirine kapanan üç oyuk vardı.
 
-"Bu," dedi Kaya, taşı, temizlerken, "eski bir şey. Sungur efsanelerinde bile, bundan bahsedilmiyor."
+Togan taşa çıplak elle dokunmadı. Yaklaştığında bileğindeki sızı dirseğine yürüdü; ağzına metal tadı geldi.
 
----
+"Eski bir şey," dedi Kaya. "Ama yaşını bilmeden 'Sungur efsanelerinden de eski' demeyeceğim."
 
-Togan, bu taşa dokunduğunda, kısa ama yoğun bir ürperti hissetti — sanki, uzak bir yerden, çok zayıf bir yankı, kendisine ulaşmıştı.
+Taşın çevresinde ölü hayvan, yanık ya da zehirli bitki bulamadılar. Toprak örneğini iki ayrı kaba koydular. Kaya işaretin balmumu kalıbını aldı. Ancak yerini bütünüyle açık bırakmak istemediğinden taşı keçe ve kurşunlu örtüye sardı; taşımadan önce vadinin girişine iki nöbetçi koydu.
 
-"Bir şey, bu taşla, bağlantılı," dedi Togan, elini geri çekerek. "Ve her ne ise, uyanıyor — ya da, uyanmaya, çok yakın."
+✦
 
-Kaya, bu söze, ciddi bir endişeyle karşılık verdi. "O zaman, bunu, sadece, Temujin'e değil, dört toprağın konseyine de, hemen bildirmeliyiz."
+Dönüş yolunda Togan birkaç kez arkasına baktı. Vadi onu izlemiyor, taş kulağına seslenmiyordu. Huzursuzluğu kendi zihninden geliyordu. Bu ayrımı korumazsa, taşı incelemeden ona bir irade vermiş olacaktı.
 
----
-
-Taşı, sarıp, kendileriyle birlikte kampa götürdüler — ama Togan, geri dönüş yolunda, sürekli, o vadiye dair bir huzursuzluk hissetti, sanki, orada bıraktıkları bir şey, hâlâ, onu izliyordu.
-
-O gece, kendi çadırında, Togan, kendi kendine düşündü: belki, bu taş, Kızıl Akıntı'yla ilgili değildi. Belki, çok daha eski, çok daha derin bir şeyin, sadece, küçük bir parçasıydı — ve eğer öyleyse, önlerindeki sınav, hiç kimsenin tahmin ettiğinden, çok daha büyük olabilirdi.
+Gece, bileğindeki sızı geçene kadar uyuyamadı. Taş Kızıl Akıntı'yla ilgili olmayabilirdi. Hayvanların kayboluşu da onun yüzünden olmayabilirdi. Ellerinde yalnız yan yana duran iki bilinmeyen vardı. Togan onları tek bir hikâyeye çevirme isteğinden, taşın kendisinden daha çok korktu.

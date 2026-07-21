@@ -6,7 +6,11 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 
-const DENETLENEN_KISIMLAR = [
+const YALNIZ_YENI = process.argv.includes("--yalniz-yeni");
+const DIZIN_ARG = process.argv.find((arg) => arg.startsWith("--dizin="));
+const TEK_DIZIN = DIZIN_ARG?.slice("--dizin=".length).replace(/\\/g, "/");
+
+const TUM_DENETLENEN_KISIMLAR = [
   {
     dizin: "roman/kisim1",
     asgariKelime: 450,
@@ -28,13 +32,32 @@ const DENETLENEN_KISIMLAR = [
   { dizin: "roman/kitap2_kisim6", asgariKelime: 180, ozelAltSinirlar: {} },
   { dizin: "roman/kitap2_kisim7", asgariKelime: 180, ozelAltSinirlar: {} },
   { dizin: "roman/kitap2_kisim8", asgariKelime: 180, ozelAltSinirlar: {} },
+  { dizin: "roman/kitap3_kisim1", asgariKelime: 180, ozelAltSinirlar: {} },
+  { dizin: "roman/kitap3_kisim2", asgariKelime: 180, ozelAltSinirlar: {} },
+  { dizin: "roman/kitap3_kisim3", asgariKelime: 180, ozelAltSinirlar: {} },
+  { dizin: "roman/kitap3_kisim4", asgariKelime: 450, ozelAltSinirlar: {} },
+  { dizin: "roman/kitap3_kisim5", asgariKelime: 450, ozelAltSinirlar: {} },
 ];
+
+const ILK_FILTRE = YALNIZ_YENI
+  ? TUM_DENETLENEN_KISIMLAR.filter(({ dizin }) => /kitap3_kisim[45]$/u.test(dizin))
+  : TUM_DENETLENEN_KISIMLAR;
+
+const DENETLENEN_KISIMLAR = TEK_DIZIN
+  ? ILK_FILTRE.filter(({ dizin }) => dizin === TEK_DIZIN)
+  : ILK_FILTRE;
+
+if (TEK_DIZIN && DENETLENEN_KISIMLAR.length === 0) {
+  console.error(`Denetlenecek dizin bulunamadı: ${TEK_DIZIN}`);
+  process.exit(1);
+}
 
 const POV_ADLARI = [
   ["_togan.md", "TOGAN"],
   ["_temujin.md", "TEMUJİN"],
   ["_karia.md", "KARIA"],
   ["_zaleena.md", "ZALEENA"],
+  ["_kisim_kapanisi.md", "KAPANIŞ"],
   ["_kapanis.md", "KAPANIŞ"],
   ["_dortyol.md", "TOGAN / TEMUJİN / KARİA / ZALEENA"],
   ["_kitap2_finali.md", "KAPANIŞ"],

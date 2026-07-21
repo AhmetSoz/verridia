@@ -1,36 +1,34 @@
 # Bölüm 21 — Ufuktaki Işık
 *(TOGAN)*
 
-Otuzuncu günde, ufukta, ilk kez, bir şey belirdi — uzak, altınımsı bir parıltı, gökyüzünün alt kenarını, ince bir çizgi gibi aydınlatan bir ışık.
+On birinci gün şafakta son sırta çıktılar. Geri dönüş tarihleri gelmişti; kuzeye atacakları her adım, imzaladıkları sınırı bozardı.
 
-"Işte orada," dedi Perren, sesi hem hayranlık hem tedirginlikle karışık. "Işık Seddi."
+Sırtın ötesinde ufuk düz bir çizgiyle aydınlıktı. Güneş doğudan yükseliyor, altın ışık ise kuzeyde duruyordu. Uzaklığı kestirilemiyordu; çizgiye uzun bakıldığında yaklaşıyor, göz kırpınca yeniden ufka çekiliyordu.
 
-Togan, bu görüntüye, uzun süre baktı — ama bu bakış, korkudan çok, bir tanıma anıydı, sanki, hayatı boyunca duyduğu bir hikâyenin, sonunda, gerçek olduğunu görmek gibi.
+Perren dizlerinin üstüne çökmedi, dua etmedi. Yalnızca, "Işık Seddi," dedi.
 
----
+Togan'ın bileğindeki işaret yandı. Kör Düzlük'teki çekime benzemiyordu. Kanı onu ileri sürüklemiyor, bedenine yalnız yön veriyordu. Bunun iyi niyet, sabır ya da bekleyiş olduğunu söyleyemezdi.
 
-Sezgisi, bu mesafede bile, artık, çok net bir şey söylüyordu: ileride, Sessiz Taşlar'ın merkezindeki o açlıktan çok daha büyük, çok daha eski bir şey vardı. Ama bu sefer, bir tehdit hissi değildi. Daha çok, devasa bir kapının, kapalı ama nöbet tutan varlığıydı.
+"Orada," dedi. "Sed'in yönünü ayırabiliyorum. Daha fazlasını değil."
 
-"Farklı," dedi Togan, Perren'e, kendi hissettiğini anlatmaya çalışarak. "Sessiz Taşlar, aç bir şey gibi hissettiriyordu. Bu... bekleyen bir şey gibi. Sabırlı."
+✦
 
-"Bekleyen ne için?" diye sordu Perren.
+Perren eski seferin döndüğü boğazı gösterdi. Oraya ulaşmak en az sekiz gün daha sürecekti. Ellerindeki mühürlü su dönüşe ancak yetiyordu.
 
-"Bilmiyorum. Ama bir şey için bekliyor. Kırk yıldır, belki, bin yıldır."
+"Sed kaçmıyor," dedi Perren. "Biz bugün devam edersek kendi sözümüzden kaçmış oluruz."
 
----
+Togan kuzeydeki çizgiye baktı. Cevabın birkaç günlük yol ötesinde olduğunu bilmek, cehaletten daha zor taşınıyordu.
 
-O gece, aynı rüya, üçüncü kez geldi — beyaz oda, boş iskemle. Ama bu sefer, Togan, iskemleye oturmadı; sadece, uzaktan, ona baktı, ve rüyada bile, kendi seçimini yapabildiğini fark etti.
+"Dönüyoruz," dedi.
 
-Uyandığında, bu küçük zaferi, Perren'e anlattı. "Oturmadım. İlk kez, o odada, kendi kararımı verebildim."
+Kararını söylerken ışık sönmedi. Onu cezalandıran bir ses gelmedi. Sed, Togan'ın dramatik seçimine ihtiyaç duymadan ufukta kaldı.
 
-Perren, bu habere, dikkatli bir umutla karşılık verdi. "Belki, yaklaştıkça, direnç de güçleniyor. Ya da belki, sen, güçleniyorsun."
+✦
 
----
+Dönüşün ilk gecesi beyaz oda yeniden geldi. Bu kez iskemlenin üstünde Togan'ın çocukken giydiği deri kolluk vardı. Uyanınca kolluğun gerçekte hangi renk olduğunu hatırlayamadı. Rüyanın ona ait bir anıyı kullanıp kullanmadığını bilmiyordu.
 
-Beş gün sonra, erzakları azalmaya başladığında, Togan, zor bir karar vermek zorunda kaldı: devam etmek mi, yoksa geri dönüp, daha iyi hazırlanarak tekrar gelmek mi.
+İkinci gece oda üçüncü kez açıldı. İskemle bu kez yakındaydı. Togan oturmadı. Kapı sandığı açıklığa da yürümedi. Rüyanın içinde ellerini göğsünde birleştirip kendi adını söyledi.
 
-"Sed, kaçmıyor," dedi Perren, bu kararı tartışırlarken. "Bin yıldır oradaysa, birkaç ay daha bekler. Ama biz, hazırlıksız gidersek, belki bir daha hiç dönemeyiz."
+Uyandığında Perren uyuyordu. Togan zafer kazandığını düşünmedi. Yalnızca bu kez karar verdiği anı hatırlıyordu. Kâğıtlarının arasına şunu yazdı: *Rüyada itaat etmedim. Bunun benim iradem mi, rüyanın izin verdiği bir hareket mi olduğu bilinmiyor.*
 
-Togan, bu mantığa, isteksizce de olsa, katıldı. "Geri dönelim. Ama bu sefer, ne gördüğümüzü bilerek dönüyoruz — bir efsane değil, gerçek bir şey bekliyor bizi orada."
-
-İki adam, o sabah, güneye döndüler — ufuktaki altın çizgiyi, arkalarında, ama artık, unutulmaz bir şekilde, hafızalarında taşıyarak.
+Eski-Kent'e döndüklerinde daha büyük bir sefer istemeyeceklerdi. Önce rotayı, rüya kayıtlarını ve Togan'ın yön tepkisini açacaklardı. Sonra Togan Kartal-Yurdu'na gidip Kaya'nın mezarını yeniden ziyaret edecekti. Sed'e dönme kararını bir mezardan kaçarken vermek istemiyordu.

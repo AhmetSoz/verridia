@@ -131,6 +131,8 @@ Zaleena bu sözü ondan duymayı beklemiyordu. Deftere aynen yazdı.
 
 Roric uzaktan güldü. Zaleena boş bezi ötekilerin yanına koydu. Bayrağın aceleyle doğmasına izin vermeyecekti.
 
+Kayıt masasının kapalı rafında Finn'in eğri dümenli tekne modeli duruyordu. Beş balıkçının adı kurtarılanlar listesine, Finn'in adı ölüler listesine yazılmıştı. Aynı seferin iki hesabından biri ötekini silemezdi.
+
 Neris o akşam Delta'ya gidecek raporu getirdi. Yedi günlük anlaşmanın hangi saatte biteceği, kullanılan tatlı su miktarı ve saklanan eklerin açığa çıktığı da yazılıydı. Zaleena raporu değiştirmedi. Altına kendi notunu ekledi: kalıcı görüşme olacaksa ölümcül gözlem bilgisi eksiksiz paylaşılacaktı.
 
 Mektup Jilet Resifleri'ne giden ilk güvenli tekneye verildi. Yamalı Liman yalnız bir bayrak değil, dışarıya hangi şartlarla konuşacağını da hazırlıyordu.

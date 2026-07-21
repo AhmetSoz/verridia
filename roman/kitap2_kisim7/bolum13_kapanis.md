@@ -86,5 +86,3 @@ Yine de Bozan'ın ölümü artık av kazası diye kapatılamıyor, Kuru Dere'nin
 Büyük Uzlaşma adı kalacaksa büyüklüğünü el sıkışmadan kazanmayacaktı. İlk günün sonunda geriye daha küçük şeyler kaldı: sınıfı tartışılan bir kopya, açılan kirli bir arşiv, geri çevrilen boya sandığı ve tarihi değiştirilmemiş bir sağlık sınaması.
 
 Doksan günün geri kalanı bunların gerçekten işleyip işlemediğini gösterecekti.
-
-*(7. Kısım Sonu; 8. Kısım'da devam edecek)*

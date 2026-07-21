@@ -21,8 +21,7 @@
         { "title": "Yemin-Bozan ve İki Taht", "start": 37, "end": 40 },
         { "title": "Sed Yolu ve İlk Çatlak", "start": 41, "end": 44 },
         { "title": "Ateşin Etrafında", "start": 45, "end": 48 },
-        { "title": "Eşikler ve Yeni Yol", "start": 49, "end": 52 },
-        { "title": "Üç Ufuk, Bir Eşik", "start": 53, "end": 53 }
+        { "title": "Üç Ufuk, Bir Eşik", "start": 49, "end": 53 }
       ]
     },
     {
@@ -61,7 +60,8 @@
         { "title": "Kael'in Emaneti", "start": 1, "end": 4 },
         { "title": "Yaşlı Okçunun Sözü", "start": 5, "end": 8 },
         { "title": "Dört Yolun Kesiştiği Yer", "start": 9, "end": 9 },
-        { "title": "Geriye Kalan İşler", "start": 10, "end": 14 }
+        { "title": "Delilin Sınırı", "start": 10, "end": 12 },
+        { "title": "Dönüş Yükü", "start": 13, "end": 14 }
       ]
     },
     {
@@ -85,8 +85,7 @@
         { "title": "Dışarıdaki Çetele", "start": 1, "end": 4 },
         { "title": "Dönen İz", "start": 5, "end": 8 },
         { "title": "Unvanın Yaşı", "start": 9, "end": 12 },
-        { "title": "Beklenti Yılı", "start": 13, "end": 16 },
-        { "title": "Açılan Dosyalar", "start": 17, "end": 17 }
+        { "title": "Beklenti Yılı ve Açılan Dosyalar", "start": 13, "end": 17 }
       ]
     },
     {
@@ -106,7 +105,8 @@
       "directory": "kitap2_kisim8",
       "fasillar": [
         { "title": "Yarım Çember Baskını", "start": 1, "end": 4 },
-        { "title": "Dört Bozkır Mührü", "start": 5, "end": 8 },
+        { "title": "Dört Bozkır Mührü", "start": 5, "end": 6 },
+        { "title": "Ayrı Protokoller", "start": 7, "end": 8 },
         { "title": "Dört Yol, Ayrı Mühürler", "start": 9, "end": 9 }
       ]
     }

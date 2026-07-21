@@ -1,30 +1,34 @@
 # Bölüm 14 — Bilinmeyenin Ağırlığı
 *(TEMUJİN)*
 
-Kaya ve Togan'ın getirdiği taş, Temujin'in karargâhına ulaştığında, ilk tepkisi, temkinli bir şüphecilikti — ama Togan'ın anlattığı ürperti, onu, ciddiyete yöneltti.
+Kaya ile Togan taşı Kuru Dere'ye getirdiğinde Temujin önce vadinin kaydını okudu. Hayvan izleri, kazı derinliği ve Togan'ın bedensel tepkisi ayrı başlıklardaydı. "Uyanma" ya da "mühür" kelimesi hiçbir yerde geçmiyordu.
 
-"Bunu, kimseye göstermeden önce," dedi Temujin, taşı, incelerken, "Elara'ya danışmalıyız. Belki, Temürçi bilgisi, bu işareti tanıyabilir."
+"Bunu kimseye göstermeden önce Elara'ya danışmalıyız," dedi. "Temürçi döküm bilgisi malzemeyi tanıyabilir."
 
-Kaya, bu öneriye, katıldı. "Ve belki, Mirasçılar da — Serel, eski dillere, herkesten daha aşina."
+Kaya, Mirasçılara yalnız balmumu kalıbın gönderilmesini istedi. Asıl taş, havalandırılan boş bir depoda iki nöbetçi ve açık ziyaret çizelgesiyle tutuldu.
 
----
+✦
 
-Elara, taşın bir kopyasını inceledikten sonra, kendi ustalarının bile bilmediği bir tepki verdi. "Bu işaret," dedi Elara, "bize öğretilen hiçbir alfabeye benzemiyor. Ama bir şey hissediyorum — sanki, bu, bir yazı değil, bir *mühür*."
+Elara iki usta ve bir yazı bilginiyle geldi. Taştan parça koparmadılar. Önce ağırlığını, suya verdiği rengi ve ince bir bakır iğneye etkisini ölçtüler. İğnenin ucu taşa değmeden hafifçe yön değiştirdi.
 
-"Mühür mü?" diye sordu Batu, endişeyle. "Neyi mühürlüyor?"
+"İşaret bize öğretilen hiçbir alfabeye benzemiyor," dedi Elara. "Yazı olmayabilir. Üç oyuk birbirinin kuvvetini dağıtacak biçimde kapanıyor. Bir kilitleme düzeni de olabilir, süsleme de."
 
-Elara, bu soruya, dürüst bir cevap veremedi. "Bilmiyorum. Ama eğer, bir mühürse, ve eğer, Togan'ın hissettiği gibi, uyanıyorsa... bu, iyiye işaret değil."
+Batu, "Neyi kilitliyor?" diye sordu.
 
----
+"Mühür olduğunu söylemedim."
 
-Bu belirsiz ama tedirgin edici bilgi, Temujin'i, yeni bir karara yöneltti. "Dört toprağın konseyine, bunu, hemen bildirmeliyiz. Ve belki, Serel'in, benzer taşlar ya da işaretler hakkında, arşivlerde bir şey bulup bulamayacağını, sormalıyız."
+Temujin bu cevabı tutanağa aynı biçimde geçirdi.
 
-Kaan, bu toplantıya, sessizce katılmıştı — ama şimdi, bir gözlem paylaştı. "Korgan'ın topraklarında, benzer bir vadi olduğunu duymuştum, bir zamanlar — eski bir hikaye, unutulmuş bir yer."
+✦
 
----
+Konseye giden haberde taşın çizimi, ölçüleri ve deney sonuçları vardı. Togan'ın tepkisi "Akıntı'yla değiştirilmiş maddeye verdiği bilinen tepkiyle benzer" diye yazıldı; aynı olduğu iddia edilmedi.
 
-Temujin, bu bilgiye, hemen ilgi gösterdi. "Nerede? Kim biliyor bunu?"
+Kaan toplantının sonunda eski bir Azgut anlatısını hatırladı. Korgan'ın kuzey otlaklarında hayvanların girmediği bir çukurdan söz ediliyordu. Hikâyeyi son kez çocukken duymuştu.
 
-"Sadece, en yaşlı çobanlar," dedi Kaan. "Ve hikaye, yıllardır, anlatılmıyor bile. Ama araştırabilirim."
+"Nerede? Kim biliyor?" diye sordu Temujin.
 
-O gece, Temujin, kendi çadırında, taşın kopyasını, bir kez daha inceledi — ve ilk kez, bu belirsiz tehdidin, sadece bir doğa olayı olmadığından, tam olarak emin oldu. Bir şey, oradaydı — ve şimdi, uyanıyordu.
+"En yaşlı çobanlar yerini hatırlayabilir. Hikâye taştan söz etmiyor. Yalnız sessizlikten."
+
+Kaan araştırmayı üstlendi. Yanına Azgut arşivinden bir kâtip ve Kuru Dere'den bir gözlemci alacaktı.
+
+O gece Temujin taşın kopyasına yeniden baktı. Bir doğa olayıyla kasıtlı yapı arasındaki ayrım henüz kurulmamıştı. Bilinmeyene bir düşman yüzü vermek, ordu toplamayı kolaylaştırırdı. Temujin kolay olanı seçmedi.

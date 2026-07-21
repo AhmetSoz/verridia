@@ -4,12 +4,14 @@
   "main": "index.js",
   "scripts": {
     "build:kitap": "node site/build_kitap.js",
-    "build:baski": "node scripts/kitap2_baski.js",
+    "build:baski": "node scripts/baski.js",
     "check:kanon": "node scripts/kanon_kontrol.js",
+    "check:editoryal": "node scripts/editoryal_kontrol.js",
     "check:nesir": "node scripts/nesir_kontrol.js",
-    "check:baski": "node scripts/kitap2_baski.js --check",
+    "check:nesir:yeni": "node scripts/nesir_kontrol.js --yalniz-yeni",
+    "check:baski": "node scripts/baski.js --check",
     "check:kitap": "node site/build_kitap.js --check",
-    "test": "npm run check:kanon && npm run check:nesir && npm run check:baski && npm run check:kitap && node --check site/assets/js/ana.js && node --check site/assets/js/okuyucu.js"
+    "test": "npm run check:kanon && npm run check:editoryal && npm run check:nesir && npm run check:baski && npm run check:kitap && node --check site/assets/js/ana.js && node --check site/assets/js/okuyucu.js"
   },
   "repository": {
     "type": "git",

@@ -1,36 +1,32 @@
 # Bölüm 13 — İkinci Anahtar
 *(TOGAN)*
 
-Serel'in mesajı, Togan'a, beklenmedik bir isim getirdi: Kızıl Akıntı sırasında dönüşen, ama Praetorian olmayan, nadir bir grup insan — "yarı-dönüşmüşler," diye adlandırdığı, hem tam insan hem tam Praetorian olmayan bir avuç kişi.
+Serel'in gönderdiği hekim kaydı üç adsız hastadan söz ediyordu. Gelgit-Çeliğiyle başlayan dönüşü tamamlanmadan durmuş bedenlerde akışın ters yönde ilerlediği yazılmıştı. Tek yer adı Kor-Ateşler'in elindeki Küller kasabasıydı.
 
-*Bu insanlar,* diye yazmıştı Serel, *senin kanın gibi, mühürlere karşı bir hassasiyete sahip olabilir. Ama seninkinden farklı bir yönde — belki, çekmek yerine, itebilirler.*
+Komisyon dosyaya *karşıt tepki ihtimali* başlığını koydu. *İkinci anahtar* sözü Serel'in kenar notunda soru işaretiyle duruyordu.
 
-Togan, bu bilgiyi, hem umutla hem tedirginlikle okudu. "Eğer bu doğruysa, belki, bir gün, bu insanlardan biri, gerçekten, bir mühürü güçlendirebilir — benim zayıflattığım gibi."
+Togan bu ihtimali ilk okuduğunda rahatladı. Kendisinden başka birinin bulunması, yükün bölüneceği anlamına gelebilirdi. Ardından düşüncenin bencil yanını gördü: Henüz adını bile bilmediği bir insanı kendi görevine ortak yazıyordu.
 
----
+"Onları bulursak ne isteyeceğiz?" diye sordu Perren.
 
-Perren, bu ihtimale, temkinli bir soru sordu. "Böyle biri var mı? Yaşayan?"
+"Önce kaydın doğru olup olmadığını. Sonra dinlemeyi kabul edip etmediklerini."
 
-"Serel, bir isim buldu," dedi Togan. "Kor-Ateşler arasında. Adı, tam bilinmiyor — sadece, 'Kızıl El' Torg'un koruduğu bir grup içinde, böyle biri olduğu söyleniyor."
+"Kan mı? Deney mi? Sed yolculuğu mu?"
 
-Bu haber, Togan'ı, yeni bir yolculuğa yöneltti — ama bu sefer, yalnız değil, aynı zamanda, Büyük Döngü Komisyonu'nun resmi bir temsilcisiyle birlikte.
+"Hiçbiri kendiliğinden gelmiyor. Her biri ayrı bir istek olur. Hayır demeleri dosyayı kapatır."
 
----
+Kor-Ateşler dışarıdan gelen heyetleri kabul etmiyordu. Togan komisyon sancağıyla gitmek yerine Kızıl El Torg'a açık bir mektup yazdı. Kendi yarasının nereden geldiğini, neden başvurduğunu ve yanında silahlı birlik getirmeyeceğini anlattı. Torg cevap vermezse sınırı geçmeyecekti.
 
-"Kor-Ateşler, dışarıdan gelenlere güvenmez," dedi Perren, bu yolculuğu planlarlarken. "Özellikle, resmi bir komisyon adına gelen birine."
+Altı gün sonra yanmış kırmızı balmumuyla mühürlenmiş tek satır geldi: *Küller'in batı taşında bekle. İçeri çağrılmadan ilerleme.*
 
-Togan, omuz silkti. "Biliyorum. Ama belki, benim kanım, bir açı sağlar. Onlar da, kendi çapında, 'farklı' olanlar. Belki, bu, ortak bir zemin olur."
+Perren yolculuğa katılmadı. "Senin tanığın olmakla hayatımın geri kalanını senin yoluna bağlamak aynı şey değil," dedi. Kartal-Yurdu'nda genç izcilere harita dersi vermeyi seçmişti.
 
-Bu düşünce, Togan'a, garip bir umut verdi — belki, kendi farklılığı, sadece bir yük değil, bazen, bir köprü de olabilirdi, tıpkı Kaya'nın, bir zamanlar, onunla Temujin arasında olduğu gibi.
+Togan onun kararını terk edilmek saymadı.
 
----
+Anya'ya veda ederken komisyon raporlarının Sungur Meclisi'ne tam kopya ulaşacağını teyit etti. Anya, Kaya'yla geçmişteki yakınlığını Togan'a borç veya akrabalık olarak devretmedi.
 
-Yola çıkmadan önce, Togan, Anya'ya, kısa bir veda ziyareti yaptı — artık, düşman değil, ama henüz, tam bir dost da olmayan bir ilişkinin, garip ama gerçek bir sıcaklığıyla.
+"Onu özlüyorum," dedi. "Bu, sana güvenmek zorunda olduğum anlamına gelmez. Ama son iki raporunda bilmediğini saklamadın. Şimdilik buna güveniyorum."
 
-"Dönünce," dedi Anya, "bize, ne bulduğunu anlat. Sungurlar, artık, bu döngüden, kendi paylarına düşeni, bilmek istiyor."
+Togan için bu söz, bağışlanmadan daha ağır ve daha kullanışlıydı.
 
-"Anlatacağım," dedi Togan. Sonra, bir an durakladı. "Anya, bir şey sorabilir miyim? Kaya, seni, gerçekten, kız kardeşi gibi görürdü, değil mi?"
-
-Anya'nın yüzü, bu soruya, ilk kez, tam anlamıyla yumuşadı. "Görürdü. Ve ben de, onu, öyle görürdüm. Bu yüzden, sana kızgınlığım, hiç bitmedi — ama şimdi, biliyorum ki, o kızgınlık, seni değil, onun yokluğunu hedef alıyordu."
-
-Togan, bu itirafla, atına bindi, ve güneye, Kor-Ateşler'in topraklarına doğru yola çıktı — kendi kanının, belki, ilk kez, sadece bir tehlike değil, gerçek bir umut taşıdığını hissederek.
+Güneye giderken kendini umut taşıyan bir anahtar gibi düşünmedi. Çantasında bir hekim kaydının kopyası, Torg'un tek satırlık izni ve her görüşmede yeniden soracağı üç soru vardı: Kimin bedeni? Kimin kararı? Hangi anda durabilir?

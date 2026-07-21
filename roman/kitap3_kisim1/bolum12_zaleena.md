@@ -1,36 +1,40 @@
 # Bölüm 12 — Yaşlı Kadının Uyarısı
 *(ZALEENA)*
 
-Sevda, kâhinlerin en yaşlısı, üç gece boyunca, yıldızları ve akıntı desenlerini izledikten sonra, sonunda, Zaleena'yı, kendi kulübesine çağırdı.
+Sevda üç gece boyunca yıldızları değil, limanın farklı yerlerine bıraktığı on iki ağı izledi. Dördüncü sabah Zaleena'yı kulübesine çağırdı. Masada eski haritaların yanında yosun, kabuk ve küçük şişelerde deniz suyu vardı.
 
-"Bir şey buldum," dedi Sevda, masasındaki eski haritaları, işaret ederek. "Ama bu, seni, mutlu etmeyecek."
+"Bir şey buldum," dedi Sevda. "Ama bu seni mutlu etmeyecek."
 
-Zaleena, sabırla bekledi, Sevda'nın devam etmesini.
+Yüzeye yakın yaratıkların tamamı aynı yönde ilerlemiyordu. Kuzeydekiler batıya, açıktakiler kıyıya dönüyordu. Liman ağzındaki küçük türler ise derine inmeye çalışıyordu.
 
----
+"Sadece sayıları artmıyor," dedi Sevda. "Davranışları da değişiyor. Sanki bir şeyden kaçıyorlar ya da bir şeye doğru çekiliyorlar. Hangisi olduğunu kesin olarak söyleyemem."
 
-"Akıntı-Yaratıkları," dedi Sevda, "sadece, sayıca artmıyor. Davranışları da, değişiyor — sanki, bir şeyden kaçıyorlar, ya da, bir şeye doğru çekiliyorlar. Hangisi olduğunu, kesin olarak, söyleyemem."
+"Kaçıyorlar mı, yoksa çekiliyorlar mı? Bu çok farklı iki ihtimal."
 
-"Kaçıyorlar mı, yoksa çekiliyorlar mı — bu, çok farklı iki ihtimal," dedi Zaleena, endişeyle.
+"Biliyorum. Bu yüzden sana cevap değil, kayıt veriyorum."
 
-Sevda, haritayı, yavaşça katladı. "Biliyorum. Ve işte bu yüzden, sana, kesin bir cevap veremiyorum. Sadece, hazırlıklı olmanı söyleyebilirim."
+Sevda, on sekiz yıl önce bir balık göçünü erken Akıntı sanıp yanıldığını da çizelgeye eklemişti. Zaleena bu satırın üstünü çizmedi.
 
----
+✦
 
-Bu belirsiz ama ciddi uyarı, Zaleena'yı, kendi donanmasını, alışılmadık bir şekilde, yeniden düzenlemeye yöneltti — sadece savunma için değil, hem gözlem hem de olası bir tahliye için.
+Donanmanın yeniden düzenlenmesi savunmadan önce gözlem ve tahliyeye göre yapıldı. İki hızlı gemi açık suyu izleyecek, ağır gövdeler liman ağzında kalacaktı. Sığ tekneler iç mahallelerin iskelelerine dağıtıldı.
 
-Kessel, bu planı duyunca, hemen destek verdi. "Eğer, gerçekten bir şey geliyorsa, halkımızın güvenliği, her şeyden önce gelir."
+Kessel, "Eğer gerçekten bir şey geliyorsa halkımızın güvenliği her şeyden önce gelir," dedi.
 
-Zaleena, başını salladı. "Aynen. Ve eğer, hiçbir şey olmazsa, elimizde, sadece, iyi bir hazırlık planı kalır — kaybedecek bir şeyimiz yok."
+"Halkı korumak için geçimini durdurursak iki hafta sonra başka bir felaket çıkar."
 
----
+Zaleena kuzey av yasağını uzatmadı. Bunun yerine gemiler ikili çıkacak, her biri dört saatlik rotayı aşmayacak ve kırmızı su görüldüğü anda avı bırakacaktı. Kayıp kazancın bir bölümü ortak ambardan karşılanacaktı. Ambarın bunu ancak on iki gün taşıyabileceği açıkça ilan edildi.
 
-O hafta, Zaleena, dört toprağın konseyine, Sevda'nın bulgularını, iletti — belirsizliğin kendisini de, açıkça paylaşarak.
+✦
 
-Draven, bu haberi alınca, kendi eski şüpheci tabiatıyla, bir soru sordu. "Sevda, daha önce, hiç, yanılmış mıydı?"
+Sevda'nın bulguları konseye gönderilirken "kehanet" diye işaretlenmedi. Ölçüm, yorum ve eski anlatı üç ayrı bölümde yazıldı.
 
-Zaleena, kısaca duraksadı. "Nadiren. Ve asla, bu kadar ciddi bir konuda."
+Draven raporu okuduktan sonra sordu: "Sevda daha önce hiç yanılmış mıydı?"
 
----
+"Evet," dedi Zaleena. "Kendi el yazısıyla hangi yıl yanıldığı da raporda."
 
-O gece, Kessel'le, sessizce otururken, Zaleena, kendi kendine düşündü: belki, bu, sadece, bir yanlış alarmdı. Ama otuz yıllık bir kâhinin, bu kadar temkinli konuşması, kendi başına, bir uyarıydı — ve Yamalı Liman, artık, bu uyarıyı, ciddiye almaya, hazırdı.
+Draven bu cevabı beklemiyordu. "O hâlde neden dinliyoruz?"
+
+"Yanılmaz olduğu için değil. Neye baktığını ve nerede yanılabileceğini söylediği için."
+
+Gece Kessel'le rıhtımda otururken deniz sakin görünüyordu. Sakinlik, kayıtları geçersiz kılmıyordu. Zaleena da korkusunu doğrulamıyordu. Önlerinde yalnız on iki günlük ambar payı, iki gözcü gemi ve her sabah yeniden verilecek bir karar vardı.

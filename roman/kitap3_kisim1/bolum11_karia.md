@@ -1,33 +1,34 @@
 # Bölüm 11 — Arşivlerin Sessizliği
-
 *(KARIA)*
 
-Dört Toprağın Konseyi'nden döndükten sonra, Karia, kendi arşivcilerini, Hegemonya'nın en eski kayıtlarını, geçmiş Kızıl Akıntı döngüleri hakkında, taramaya görevlendirdi.
+Dört Toprağın Konseyi'nden dönen Elowen, ilk iş olarak saray arşivinin deniz kayıtlarını açtırdı. Karia üç gün sonra mahzende onu bulduğunda masalar, tuzdan kenarları kabarmış defterlerle doluydu.
 
-Sonuç, beklediğinden, çok daha az tatmin ediciydi. "Kayıtlarımız," dedi baş arşivci, üzgün bir ifadeyle, "yeterince eski değil. En eski kaydımız, sadece, üç döngü öncesine gidiyor — ve o bile, eksik."
+Baş arşivci, "En eski kaydımız sadece üç döngü öncesine gidiyor," dedi. "O da eksik."
 
-Karia, bu boşluğa, hayal kırıklığıyla karşılık verdi. "Bu, tam olarak, ihtiyacımız olmayan haber."
+Eksik sayfaların bir bölümü eski saray yangınında kaybolmuştu. Bir bölümü ise hiç yazılmamıştı. Kraliyet kayıtları Kızıl Akıntı'nın saray ve donanmaya ne yaptığını anlatıyor, köylerdeki ölümleri ancak vergi düşüşü olarak sayıyordu.
 
----
+"Tam olarak ihtiyacımız olmayan haber," dedi Karia.
 
-Elowen, bu sorunu duyunca, beklenmedik bir çözüm önerdi. "Mirasçılar'ın arşivleri, bizimkinden, çok daha eski. Serel, belki, bize yardımcı olabilir."
+"Belki de ihtiyacımız olan uyarı," dedi Elowen. "Arşivin sessizliği de kimin konuşamadığını gösterir."
 
-Karia, bu fikre, hemen sarıldı. "O zaman, resmi bir talep gönderelim — bu, sadece, bizim değil, dört toprağın da, ihtiyacı."
+✦
 
----
+Mirasçı arşivlerine resmî talep gönderildi. Serel'in cevabı altı döngüye uzanıyordu, fakat kesinlik getirmedi. Bir döngü "sessiz", bir başkası "yıkıcı" diye anılmıştı. Aynı yılı anlatan iki belgede ölüm sayıları birbirinin üç katıydı.
 
-Serel'den, birkaç gün içinde, cevap geldi — ama beklenen kadar aydınlatıcı değildi. *Elimizdeki en eski kayıtlar, altı döngü öncesine gidiyor, ama hepsi, parça parça, çelişkili. Bir döngü, "sessiz" geçmiş; bir başkası, "yıkıcı." Örüntü, net değil.*
+Serel farkları saklamamış, her kaydın kaynağını ayrı yazmıştı. "Sessiz" denen yıl saray yıllığından, "yıkıcı" denen yıl ise kıyı mezarlığının taş sayımından geliyordu.
 
-"Yani," dedi Elowen, bu mesajı okuduktan sonra, "geçmiş, bize, kesin bir cevap veremez."
+"Geçmiş bize kesin bir cevap veremez," dedi Elowen.
 
-Karia, bu belirsizliğe, derin bir düşünceyle karşılık verdi. "O zaman, geçmişe değil, şimdiki zamana odaklanmalıyız. Her toprak, kendi gözlemlerini, takip etsin."
+"Bize hangi cevaba güvenmememiz gerektiğini veriyor. Bu da az değil."
 
----
+✦
 
-O akşam, Karia, kendi danışma meclisini toplayarak, Hegemonya'nın kıyı bölgelerinde, ek gözcü noktaları kurulmasını emretti — deniz canavarlarına karşı değil, ama, herhangi bir anormal işarete karşı, tetikte olmak için.
+Karia kıyı bölgelerinde on iki ek gözcü noktası kurulmasını istedi. Hallis maliyeti masaya koyunca sayı sekize indi. Kule yapılmayacak, mevcut fener ve gümrük noktaları kullanılacaktı. Her kayıt aynı beş bilgiyi taşıyacaktı: saat, gelgit yüksekliği, rüzgâr, hayvan davranışı ve gözlemcinin adı.
 
-"Belki," dedi Karia, Elowen'e, meclis dağıldıktan sonra, "bu, hiçbir şeye yol açmayacak. Belki, bu, sadece, mevsimsel bir tuhaflık."
+Köy şifacılarına ayrı bir çizelge gönderildi. Belirti görülmeyen günler de kayda geçecekti. Yalnız olağandışı olanı yazmak, her haftayı felaket haberi gibi gösterebilirdi.
 
-"Ve belki de değil," dedi Elowen, sakin ama ciddi. "Ama hazırlıklı olmak, hiçbir zaman, bir hata değildir."
+"Belki bu hiçbir şeye yol açmayacak," dedi Karia. "Belki sadece mevsimsel bir tuhaflık."
 
-Karia, bu sözlere, sessizce başını salladı — Hegemonya, bir kez daha, bilinmeyen bir şeye karşı, hazırlanıyordu.
+"Ve belki değil," dedi Elowen. "Ama hazırlıklı olmak hiçbir zaman bir hata değildir."
+
+Karia buna hemen katılmadı. Hazırlık yanlış yapılırsa pahalı, korkutucu ve kolayca kalıcılaşan bir yetki olabilirdi. Emrin altına bir bitiş tarihi koydu: otuz gün sonra veriler yeniden değerlendirilecek, uzatma için meclis oyu gerekecekti.

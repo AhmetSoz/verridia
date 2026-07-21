@@ -1,30 +1,26 @@
 # Bölüm 15 — Tuzak mı, Fırsat mı
 *(KARIA)*
 
-Temujin'in mesajı, Coren Vex'in teklifini anlatırken, Karia'yı, derin bir şüpheyle doldurdu — Delta'ya, hiçbir zaman, tam olarak güvenmemişti, ve bu güvensizlik, yıllar içinde, hep haklı çıkmıştı.
+Coren Vex'in verdiği üç tarih tek başına bir şey kanıtlamıyordu. Karia doğrulama görevlerini birbirinden habersiz üç kanala böldü. Faelan hesap kodunu eski ticaret kayıtlarında arayacak, Sarris'e yalnız tarihler sorulacak, Yamalı Liman ise Ferrin'in kullandığı gemilerin hareketini inceleyecekti.
 
-"Bu, çok kolay geliyor," dedi Karia, dört toprağın acil toplantısında. "Malakor, hep, en akıllı oyunları oynadı. Belki, bu da, onlardan biri — bize, sahte bir umut vererek, gerçek zayıflığımızı bulmaya çalışıyor."
+Coren'e hangi kanalın ne aradığı söylenmedi. Yanlış bilgi yerleştirdiyse üçünde birden aynı sonucu üretmesi zorlaşacaktı.
 
-Zaleena, bu şüpheye, katıldı, ama farklı bir açıdan. "Ya da belki, gerçekten, Delta'nın içinde bir çatlak var. Malakor'un yöntemleri, Kaya'nın ve Karakçı'nın ölümüne yol açtı — belki, bazı Deltalılar, bunun, artık, kabul edilemez olduğunu düşünüyor."
+İlk doğrulama Faelan'dan geldi. Hesap kodu, Delta'nın kapalı güvenlik ödemelerinde kullanılıyordu. Ferrin'e bağlı son ödeme Coren'in verdiği tarihte kesilmiş, sonraki iki ödeme başka bir koda aktarılmıştı.
 
----
+Sarris, Ferrin'in "kıyı dışı göreve" alındığını doğruladı. Bunun emeklilik, ev hapsi ya da başka bir gizli görev anlamına gelip gelmediğini söylemedi. Yamalı Liman kayıtlarında Ferrin'in iki gemisinden biri tarihten sonra satılmış, öteki kuzey kanalında görünmez olmuştu.
 
-Temujin, bu tartışmaya, kendi görüşünü ekledi. "İkisi de mümkün. Ve bunu, kesin olarak bilemeyiz — sadece, dikkatli bir şekilde test edebiliriz."
+Üç kaynak Coren'in tarihini destekliyordu. Ferrin'in öldüğünü, cezalandırıldığını ya da Malakor'un gücünü yitirdiğini kanıtlamıyordu.
 
-"Nasıl?" diye sordu Karia.
+Konsey görüşmesinde Karia bu sınırı baştan söyledi. "Kaynağın ilk bilgisi doğru. Kaynağın niyetini bilmiyoruz."
 
-"Coren'e, küçük, doğrulanabilir bir bilgi isteyelim. Eğer verdiği bilgi doğruysa, güvenilirliğini, adım adım artırırız. Eğer yanlışsa, ya da hiç vermezse, tuzak olduğunu anlarız."
+Zaleena, ikinci doğrulamanın Coren'in hayatını gereksiz yere büyütmemesi gerektiğini belirtti. Temujin de karşılık verilmeden sürekli bilgi istemenin sorguya dönüşeceğini söyledi.
 
----
+Coren'den geçmişte kalmış, sivillere zarar vermeyecek bir Delta devriye değişikliği istendi. Ayrıca hangi bilginin Amara'ya açılmasına razı olduğu soruldu. Coren temasın varlığını inkâr etmeyeceğini, fakat verdiği hesap kodunun şimdilik kapalı kalmasını istedi.
 
-Bu plan, oy birliğiyle kabul edildi — Coren'e, Ferrin'in gerçek kaderi hakkında bir soru soruldu, çünkü bu, dört topraktan hiçbirinin bilmediği, ama Delta'nın kesinlikle bildiği bir bilgiydi.
+Karia bu isteği süreli kabul etti. Kod otuz gün kapalı tutulacak; insan hayatına dönük yakın tehlike çıkarsa süre beklenmeden açılacaktı. Kararı dört mühür ayrı ayrı onayladı.
 
-Coren'in cevabı, üç gün sonra geldi: *Ferrin, başarısızlığından sonra, Malakor tarafından, sessizce, "emekliye" ayrıldı — bu, Delta'nın dilinde, bir daha, hiç görülmeyeceği anlamına gelir. Bu bilgiyi, doğrulayabilirsiniz — Sarris'in muhafızlarından biri, bu konuda konuşabilir.*
+Elowen, "Güveniyor musun?" diye sordu toplantıdan sonra.
 
----
+"Bir bilgisine güveniyorum. Bir insanın tamamına değil."
 
-Bu bilgi, hızlıca doğrulandı — tıpatıp doğruydu. Ferrin, ortadan kaybolmuştu, ve Delta'nın kendi çevrelerinde, bu, açık bir sırdı.
-
-"O zaman," dedi Karia, bu doğrulamadan sonra, "belki, gerçekten, bir fırsat var." Ama sesi, hâlâ, temkinliydi. "Yine de, ona, hemen tam güvenmeyelim. Adım adım ilerleyelim — her adımda, yeni bir doğrulama isteyerek."
-
-Bu ihtiyatlı yaklaşım, herkes tarafından kabul edildi — ve Karia, o gece, ilk kez, aylardır, gerçek bir umudun, temkinli de olsa, mümkün olabileceğini hissetti.
+Karia için bu soğukluk değildi. Vorlag'la yaşadıkları, güveni tek bir duyguya çevirdiğinde hem dostu hem düşmanı yanlış okuyabileceğini öğretmişti. Coren bir fırsat olabilirdi. Aynı anda korkan, çıkar gözeten ve doğru söyleyen biri de olabilirdi.

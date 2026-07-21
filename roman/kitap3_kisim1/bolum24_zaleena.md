@@ -1,34 +1,40 @@
 # Bölüm 24 — Işıldayan Derinlik
 *(ZALEENA)*
 
-Dalgıcın raporu, Zaleena'ya ulaştığında, o, hemen, kendi gözleriyle görmek için, küçük bir tekneyle, taşın bulunduğu noktaya gitti.
+İlk ışığı kıyı gözcüsü fark etti. Rapor doğrudan acil işaretiyle geldi; doğrulanmış sayılmadı. Zaleena ikinci gece Roric ve iki ayrı gözcüyle küçük bir tekneye bindi.
 
-Su, o kadar berrak değildi, ama yine de, derinlerde, hafif, yeşilimsi bir ışıltı, açıkça görülebiliyordu — düzenli, neredeyse, bir nabız gibi, yanıp sönen bir ışık.
+Su bulanıktı. Ay battıktan sonra, derinde soluk yeşil bir ışık belirdi. Düzensiz aralıklarla sönüp yeniden yandı. Roric her parlayışta su saatine işaret koydu. İlk aralık otuz iki, ikincisi yirmi dokuz, üçüncüsü otuz dört damlaydı. Nabız kadar düzenli değildi.
 
-"Ne zamandır böyle?" diye sordu Zaleena, yanındaki dalgıca.
+"Ne zamandır böyle?" diye sordu Zaleena.
 
-"İki gün önce başladı," dedi dalgıç, endişeyle. "Ve her geçen saat, biraz daha, güçleniyor gibi."
+"İki gece önce ilk kez görüldü," dedi gözcü. "Güçlendiğini söyleyemem. Dün sis vardı."
 
----
+Bu ayrım rapora yazıldı.
 
-Bu haber, Zaleena'yı, hemen, dört toprağın konseyine, acil bir mesaj göndermeye yöneltti — ama bu sefer, mesajın içeriği, sadece bir gözlem değil, açık bir uyarıydı: *Işıltı, artıyor. Togan'ın ekibi, merkeze ulaşmadan, bir şey olabilir.*
+✦
 
-Kessel, bu gelişmeyi duyunca, hemen, donanmanın hazır durumda tutulmasını emretti. "Eğer, bu, bir uyanışsa, hazırlıksız yakalanmayacağız."
+Konseye giden acil mesajda ışığın rengi, aralıkları ve görüş koşulları yer aldı. Zaleena, *Togan'ın ekibi merkeze ulaşmadan bir şey olabilir* diye yazmadı. Bunun yerine iki olayın eş zamanlı olduğunu, aralarındaki bağın bilinmediğini belirtti.
 
----
+Kessel donanmayı savaş düzenine geçirmek istedi. Zaleena yalnız iki kurtarma gemisini hazır tuttu; toplar doldurulmadı. Limanda açıkça görülecek bir savaş hazırlığı, taştan önce paniği uyandırabilirdi.
 
-Sevda, ışıltıyı, kendi gözleriyle görmek istedi — ve teknede, suyun üzerinden, uzun uzun izledikten sonra, huzursuz bir yorum yaptı.
+✦
 
-"Büyükannemin masalında," dedi Sevda, dikkatle, "taşlar, 'uyandıklarında,' önce, ışıldarmış — sonra, 'çağırmaya' başlarlarmış."
+Sevda ışığı kendi gözleriyle gördü. Tekneye döndüklerinde ellerini ısıtması uzun sürdü.
 
-"Çağırmak mı?" diye sordu Zaleena, tedirginlikle. "Neyi çağırıyorlar?"
+"Büyükannemin masalında taşlar uyandıklarında önce ışıldarmış. Sonra çağırmaya başlarlarmış."
 
-Sevda, bu soruya, dürüst bir cevap veremedi. "Masal, orada, bitiyor. Büyükannem, ötesini, hiç anlatmadı — ya da, belki, bilmiyordu."
+"Neyi çağırıyorlar?"
 
----
+"Masal orada bitiyor. Ötesini hiç anlatmadı. Belki bilmiyordu."
 
-O gece, Zaleena, kendi limanının en yüksek kulesinde, Kessel'le birlikte, uzaktan, deniz yüzeyindeki hafif ışıltıyı izledi — artık, çıplak gözle bile, fark edilir hale gelmişti.
+Zaleena masalı tutanağın yorum bölümüne koydu. Işığın yanına yazmadı.
 
-"Togan'a, ulaşabilir miyiz?" diye sordu Kessel.
+✦
 
-"Mesaj gönderdim," dedi Zaleena, sesi gergin. "Ama merkeze ne kadar yaklaştıklarını bilmiyorum. Tek yapabileceğimiz, beklemek — ve umut etmek, ki, zamanında ulaşsın."
+Gece ilerledikçe parlayış çıplak gözle kıyıdan seçilir oldu. Bunun nedeni ışığın güçlenmesi de, suyun durulması da olabilirdi. Sabah ölçümüne kadar karar verilemezdi.
+
+"Togan'a ulaşabilir miyiz?" diye sordu Kessel.
+
+"Mesaj ikinci ulak noktasına gidiyor. Ulaşmazsa diye dış kampın geri dönüş işaretini de değiştirdik."
+
+Zaleena kulede beklemedi. Aşağı inip kuzey iskelesindeki tahliye kayıklarını saydı. Işığın anlamı yoktu; kapasite hesabı vardı. Bilinmeyen bir tehdide karşı yapabileceği ilk iş, ona bir isim vermek değil, insanların çıkabileceği yolu açık tutmaktı.

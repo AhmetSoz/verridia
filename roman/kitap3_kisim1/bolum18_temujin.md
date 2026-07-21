@@ -1,32 +1,32 @@
 # Bölüm 18 — Yamalı Liman'da
 *(TEMUJİN)*
 
-Yamalı Liman'a vardıklarında, Temujin, kendi karargâhından çok farklı bir dünyaya adım attığını hissetti — tahta iskeleler, tuz kokusu, ve her yerde, gemilerin gıcırtısı.
+Yamalı Liman'ın zemini bile hareket ediyordu. İskele tahtaları dalgayla esniyor, bağlı gemiler halatlarını sırayla geriyordu. Temujin her adımda bozkırın sabit toprağını aradığını fark etti.
 
-Zaleena, onları, limanın en büyük binasında, kendi eliyle karşıladı. "Hoş geldiniz. Korkarım, gündemimiz, hoş bir ziyaret için değil."
+Zaleena onları konsey binasının kapısında karşıladı. "Hoş geldiniz. Korkarım gündemimiz hoş bir ziyaret için değil."
 
-Temujin, bu karşılamaya, saygıyla karşılık verdi. "Biliyorum. Ve bunun için, buradayız."
+"Biliyorum. Bunun için buradayız."
 
----
+Karia ve Elowen öğleye doğru geldi. Kraliyet gemisi dış iskelede kaldı; Yamalı Liman kılavuzu izin vermeden tek bir asker karaya çıkmadı. Korgan ise Kaan'ı tam yetkili temsilci olarak göndermişti.
 
-Karia ve Elowen, kısa süre sonra, kendi gemileriyle geldi — Hegemonya'nın kraliyet bayrağı, Yamalı Liman'ın alışılmadık iskelesinde, garip ama saygın bir manzara oluşturdu.
+"Toprakları onsuz güvende değil," dedi Kaan. "Ayrıca dört tarafın aynı masada olması, tek tek liderlerin bulunmasından daha önemli."
 
-Korgan, kendisi gelemediği için, Kaan'ı, tam yetkili temsilcisi olarak gönderdi — genç danışman, bu görevin ağırlığını, açıkça hissediyordu.
+✦
 
-"Korgan, çok isterdi burada olmayı," dedi Kaan, Temujin'e, alçak sesle. "Ama toprakları, onsuz, tam güvende değil — özellikle şimdi."
+Zaleena toplantıyı iki dalgıcın ayrı çizimleriyle açtı. Ardından kara taşının balmumu kalıbı ve Karia'nın arşiv notları masaya geldi.
 
----
+"İki bölgede benzer işaretler bulduk," dedi. "Aynı oldukları ve Akıntı-Yaratıklarının davranışıyla ilişkili oldukları henüz kanıtlanmadı."
 
-Herkes toplandığında, Zaleena, toplantıyı, doğrudan konuya girerek açtı. "Dört toprakta da, aynı işaretleri bulduk — sessiz taşlar, karada ve denizde. Ve bunların, sadece, bir doğa olayı olmadığına, artık, eminiz."
+Togan, taşa yaklaştığında yaşadığı bedensel tepkiyi anlattı. Yol üzerindeki Gelgit-Çeliği kancasını da ekledi. Bu karşılaştırma, yeteneğinin taşın amacını açıklamadığını gösteriyordu.
 
-Togan, kendi bulgusunu, elindeki taslakla, paylaştı — dokunduğunda hissettiği yankıyı, olabildiğince açık anlatmaya çalışarak.
+Sevda büyükannesinin anlatısını aktardı. Sözünü "uyandırmayın" diye bitirdi, sonra bunun bir aile masalı olduğunu ve tarihinin bilinmediğini kendisi ekledi.
 
-Sevda, kendi tarafında, büyükannesinin masalını, bir kez daha, herkese anlattı — bu sefer, bir çocuk hikayesi değil, ciddi bir uyarı olarak.
+✦
 
----
+Toplantının en uzun tartışması taşların haritalanması üzerineydi. Kaan yerlerinin açık edilmesinin yağmacıları çekebileceğini söyledi. Karia, yerlerin tümden saklanmasının bilgiyi birkaç kişinin silahına çevireceğini savundu. Zaleena dalgıçların adlarının yayımlanmasına karşı çıktı.
 
-Toplantı, saatler sürdü — herkes, kendi gözlemini, kendi endişesini, paylaştı. Sonunda, ortak bir karara vardılar: her toprak, kendi bölgesindeki taşları, haritalayacak, ama hiçbiri, tek başına, bir taşa dokunmayacak ya da onu hareket ettirmeyecekti.
+Son metinde iki harita kararlaştırıldı. Açık harita yaklaşık bölgeleri ve güvenlik uyarılarını gösterecekti. Mühürlü haritada kesin yerler bulunacak, kopyalar dört ayrı arşivde tutulacaktı. Hiçbir yeni taş tek taraflı kararla yerinden oynatılmayacak; Kuru Dere'ye taşınmış ilk örnek için de ortak güvenlik incelemesi yapılacaktı.
 
-"Bu," dedi Karia, toplantıyı kapatırken, "İttifakımızın, gerçek anlamda, ilk büyük ortak sınavı olabilir. Ve bunu, birlikte karşılayacağız."
+Karia kapanışta büyük bir söz söylemedi. Her temsilci tutanağı kendi mührüyle onayladı; itirazlar metinden silinmedi.
 
-Temujin, bu sözlere, kararlı bir başla karşılık verdi — dört Bayrak, artık, sadece siyasi ya da askeri değil, bilinmeyen bir gizemin karşısında da, birlikte duruyordu.
+Temujin gece iskelede dururken denizin bitmeyen hareketini dinledi. Dört taraf bilinmeyenin karşısında aynı safta durmuş değildi. Aynı sorunun çevresinde, kendi ayakları üzerinde durmayı kabul etmişlerdi.

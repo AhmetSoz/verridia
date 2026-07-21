@@ -1,32 +1,36 @@
 # Bölüm 23 — Uzaktan Beklemek
 *(KARIA)*
 
-Togan'ın ekibi, merkezi bölgeye doğru yola çıktığında, Karia, kendi payına düşen bekleyişi, Hegemonya'dan, sadece raporlar aracılığıyla yaşadı — bu, ona, garip bir çaresizlik hissi verdi.
+Togan'ın ekibi yola çıktığında Karia Hegemonya'daydı. Aralarında günler süren yol, onun verebileceği her emri geç kalmış bir cümleye çeviriyordu.
 
-"Elimizden gelen her şeyi yaptık," dedi Elowen, Karia'nın huzursuzluğunu fark ederek. "Şimdi, sadece, bekleyebiliriz."
+"Elimizden gelen her şeyi yaptık," dedi Elowen. "Şimdi sadece bekleyebiliriz."
 
-Karia, bu gerçeği, isteksizce kabul etti. "Bekletmek, benim, en iyi olduğum şey değil."
+"Beklemek benim en iyi olduğum şey değil."
 
----
+Yine de Karia kendisine iş icat etmedi. Keşif ekibinin karar zincirini uzaktan değiştirmek, onların gördüğü tehlikeye saraydan hüküm vermek olurdu. Yapabileceği şey dış kamptaki destek hattını denetlemekti.
 
-Bu bekleyiş süresince, Karia, kendi enerjisini, meziyet programına, daha da yoğun bir şekilde yönlendirdi — sanki, en azından, kontrol edebildiği bir şeye odaklanmak, ona, huzur veriyordu.
+İlk ulak noktasında iki at, ikinci noktada şifacı ve kuru erzak tutuldu. Haber gelmezse kurtarma ekibinin kaçıncı gün yola çıkacağı yazıldı. Karia bu süreyi iki kez kısaltmak istedi, iki kez vazgeçti. Erken gönderilen bir kurtarma birliği keşif ekibini daha derine sürükleyebilirdi.
 
-Yeni mezunlardan biri, Karia'ya, bu yoğun ilgiyi fark ederek, dikkatli bir soru sordu. "Majesteleri, bir şey mi endişelendiriyor?"
+✦
 
-Karia, bu soruya, kısmi bir dürüstlükle karşılık verdi. "Uzak bir arkadaşım, tehlikeli bir göreve gitti. Ve ben, burada, sadece, bekleyebiliyorum."
+Meziyet programının ilk sınav günü aynı haftaya denk geldi. Karia tören salonuna gitti, fakat kâğıtların başında gereğinden uzun kalmadı. Varlığı adayların ve yeni görevlilerin davranışını değiştiriyordu.
 
----
+Genç mezunlardan biri, "Majesteleri, bir şey mi endişelendiriyor?" diye sordu.
 
-Elowen, bu itirafı duyunca, Karia'yı, sarayın sessiz bir köşesine çekti. "Togan, güçlü. Ve yalnız değil — Kaya, yanında. Ona güvenmelisin."
+"Uzak bir arkadaşım tehlikeli bir göreve gitti. Ben de burada bekliyorum."
 
-"Güveniyorum," dedi Karia. "Ama güven, endişeyi, tamamen ortadan kaldırmıyor."
+"Onun için yapabileceğiniz bir şey yok mu?"
 
-Elowen, bu dürüst itirafa, sessiz bir anlayışla karşılık verdi — bazen, en iyi destek, çözüm sunmak değil, sadece, yanında durmaktı.
+"Bazı şeyleri yaptım. Daha fazlasını yapmak şu anda ona yardım etmeyebilir."
 
----
+Bu cevap, Karia'nın kendisine de verilmişti.
 
-Üçüncü günün sonunda, beklenmedik bir mesaj geldi — Togan'ın ekibinden değil, ama Zaleena'dan: kıyıdaki dalgıçlardan biri, deniz tabanındaki taşın, hafifçe, ama fark edilir şekilde, ışıldamaya başladığını bildirmişti.
+✦
 
-Karia, bu haberi okuduğunda, içindeki huzursuzluk, yeni bir boyuta ulaştı. "Işıldıyor mu? Bu, ne anlama geliyor?"
+Üçüncü günün sonunda Zaleena'dan bir mesaj geldi. Deniz tabanındaki nesne, iki ayrı gece gözleminde yeşile çalan soluk bir ışık vermişti. Parlaklığın arttığı henüz doğrulanmamıştı.
 
-Elowen, bu soruya, sessizce, cevap veremedi — çünkü, hiçbiri, artık, gerçekten neyle karşı karşıya olduklarını, tam olarak bilmiyordu.
+"Işıldıyor," dedi Karia. "Bunun ne anlama geldiğini bilmiyoruz."
+
+Elowen cevap vermedi. Karia da ondan bir anlam üretmesini istemedi.
+
+Mesajın bir kopyası Kör Düzlük yolundaki ikinci ulak noktasına gönderildi. Togan'ın ekibine ulaşıp ulaşmayacağı belirsizdi. Karia kurtarma süresini yine kısaltmadı. Ardından kararını ve gerekçesini kayda geçirdi; bekleyişin de bir karar olduğunu sonradan inkâr edememeliydi.

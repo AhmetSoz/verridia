@@ -50,5 +50,3 @@ Yıl bittiğinde açık kalan işler kapananlardan fazlaydı. Togan'ın bir sonr
 Dört defterin son satırı aynı değildi. Kuru Dere'de *yeniden sınanacak*, haberleşme kaydında *görüşülecek*, Metheris'te *ölçülecek*, Yamalı Liman'da *yeniden oylanacak* yazıyordu.
 
 Yeni yılın ilk sabahında bu fiiller yeni sayfaların başına geçirildi. Eski yıldan miras kalan en değerli şey cevaplar değil, kimin ne zaman yeniden hesap vereceğinin unutulmamasıydı.
-
-*(9. Kısım Sonu; 10. Kısım'da devam edecek)*

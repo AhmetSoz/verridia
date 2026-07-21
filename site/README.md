@@ -8,7 +8,7 @@
 - **index.html** — sinematik ana sayfa: bulutların aralandığı hero, scroll animasyonları,
   interaktif kıta haritası (8 mekân pini), mekân kartları (tıklayınca geçiş videosu → mekân görseli),
   Dört Yol karakter kartları, kitap CTA.
-- **kitap.html** — kitap okuyucu: 3 kitap / 15 kısım / 306 bölüm.
+- **kitap.html** — kitap okuyucu: 3 kitap / 17 kısım / 358 bölüm.
   - Sol ağaç menü (kitap → kısım → bölüm), ☰ ile açılıp kapanır
   - A− / A+ yazı boyutu, ☀/☾ gece–sepya tema
   - ← → klavye ile bölüm geçişi, üstte okuma ilerleme çubuğu

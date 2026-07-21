@@ -36,5 +36,3 @@ Mektuplar aynı kervanda da gitmedi. Arşiv talebi Delta yoluna, komisyon çağr
 Kuru Dere'ye kalan beşinci belge ise ziyaret gideriydi. İki çuval un, bir kırık tabak, otuz dört atlık yem ve bent mührünün yenilenme masrafı yazılıydı. Temujin toplamı görünce kaşlarını çattı. Kaya, iki kraliçe ağırlamanın çit onarmaktan pahalı olduğunu söyledi.
 
 Dört yol bir kez kesişmişti. Arkalarında kalan iz, ateş başında söylenen sözler değil, başkalarının da denetleyebileceği bu küçük düzenlemelerdi.
-
-*(8. Kısım Sonu; 9. Kısım'da devam edecek)*

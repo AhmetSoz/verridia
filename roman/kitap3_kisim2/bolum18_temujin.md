@@ -1,34 +1,34 @@
 # Bölüm 18 — Anya'nın Cevabı
 *(TEMUJİN)*
 
-Anya'nın cevabı, altı gün sessizlikten sonra geldi — ve Temujin, mesajı elinde tutarken, ilk kez, bir cevabı okumaktan gerçekten korktuğunu fark etti.
+Anya'nın cevabı altı gün sonra geldi. Mektup kişisel bir bağışlama ya da suçlama değil, Sungur Meclisi'nin sekiz maddelik teklifiydi.
 
-*İtirafını aldım. Meclisim, onu tartıştı. Bazıları, seni, hâlâ, hain olarak görüyor — Karakçı'yı, kendi çıkarların için kullanıp sonra ona sahip çıkmayan biri olarak. Bazıları, itirafının, en azından, yalandan iyi olduğunu söylüyor. Ben, ikisi arasında bir yerdeyim.*
+Sungurlar kendi askerî, adli ve ticari kararlarını verecekti. Ortak savunma çağrısına kendi bayrakları altında katılacaklardı. Genç Kurtlar, Azgutlar ya da başka bir taraf Sungur toprağından izinsiz asker geçiremeyecekti. İttifaktan çekilme altmış gün önce açık bildirim gerektirecek, bu sürede sivil ticaret kesilmeyecekti.
 
-Temujin, bu satırları, iki kez okudu.
+Batu metni bitirdi. "Bundan sonra Sungur birliğine emir veremezsin."
 
----
+"Zaten vermemeliydim."
 
-*Sana bir teklif sunuyorum,* diye devam ediyordu mektup, *ama koşullu. Sungur toprakları, kendi iç meselelerinde tam özerklik kazanacak — asker, adalet, ticaret, hepsi bizim kararımız olacak. Karşılığında, İttifak'a bağlılığımız devam edecek, ama Azgut'un değil, kendi bayrağımızın altında. Sen, artık, bizim efendimiz değil, müttefikimiz olacaksın — gerçek anlamda.*
+"Kaya döneminde ortak seferler daha hızlıydı."
 
-Batu, bu teklifi okuyunca, ilk tepkisini gizlemedi. "Bu, Kaya'nın, sana verdiği her şeyi geri istemek gibi bir şey. Sungurları, bir daha, tam olarak kontrol edemeyeceksin."
+"Kaya'nın kişisel güveni kalıcı devlet yetkisi değildi. Onunla birlikte devralınmamalı."
 
-"Kontrol etmek istememeliyim zaten," dedi Temujin, mektubu, dikkatle masaya koyarak. "Kaya, bana, bir köprü kurdu, çünkü bana güvendi. Ben, o güveni, bir araç gibi kullandım, ve bir insan öldü. Anya'nın istediği, sadece adalet — benim, artık, sahip olmadığım bir güveni, zorla tutmaya çalışmamam."
+✦
 
----
+Temujin teklifi pazarlıksız kabul etmedi; kendi lehine yeni yetki istemedi, belirsiz maddeleri açıklattı. Sınır su kuyularının ortak kullanımı, karma ailelerin hukuk seçimi ve acil takipte sıcak izin usulü iki tarafın kâtiplerince yazıldı. Sungur tutukluların Azgut mahkemesine, Azgut tutukluların Sungur mahkemesine tanıksız verilemeyeceği eklendi.
 
-O gün, Temujin, teklifi, hiç pazarlık yapmadan kabul etti — Batu'nun itirazlarına rağmen, kendi danışmanlarının çoğunun tavsiyesine rağmen.
+Temel yetki ayrımına dokunmadı.
 
-"Bu, seni zayıflatır," dedi Batu, son bir kez.
+"Bu seni zayıflatır," dedi Batu.
 
-"Belki." Temujin, kabul mektubunu mühürlerken, sesi sakindi, ama içindeki karar, sakinlikten daha derindi. "Ama Kaya'yı, kendi hırsım için harcadım. Bir daha, hiçbir klanı, kendi gücüm için araç yapmayacağım — bunun bedeli ne olursa olsun."
+"Beni sınırlar. Aynı şey değil."
 
----
+Karakçı'nın ölümünü Anya'ya bir taviz ödemesi gibi kullanmadı. Metin, cinayet olmasa da gerekliydi. Cinayet yalnız bu gerekliliği daha fazla insanın canından önce görmelerini sağlamıştı.
 
-Anya'nın son mesajı, kısaydı, ama Temujin'in beklemediği bir şey içeriyordu: *Karakçı'nın annesi, senin itirafını okudu. Seni görmek istiyor — öfkeyle değil, sadece, bir açıklama için. Gelmek, cesaret ister. Gelmezsen de, anlarım.*
+✦
 
-Temujin, bu daveti, ertesi sabah kabul etti. Batu'ya, tek başına gideceğini söyledi — çünkü bazı hesapların, koruma olmadan, sadece kendi başına verilmesi gerekiyordu.
+Anya'nın kişisel eki tek cümleydi: *Karakçı'nın annesi Tomiris, yasın yedinci gününden sonra seni dinlemeyi seçebilir; şimdi gelme.*
 
-"Ya seni öldürürse?" diye sordu Batu, son bir endişeyle.
+Temujin bu sınıra uydu. Tek başına gidip ölümü göze almayı bir kefaret gibi sunmadı. Böyle bir hareket Tomiris'i onun ahlâk hikâyesinin son aracına çevirirdi.
 
-"O zaman," dedi Temujin, atına binerken, "bu, ödeyeceğim en adil bedel olur."
+Anlaşma taslağını mühürledi, görüşme talebini beklemeye başladı. Tomiris onu çağırırsa bir refakatçiyle gidecek, refakatçi görüşme alanının dışında kalacaktı. Hesap vermek, kendini savunmasız bırakmak değil; karşısındaki insanın koyduğu şartlara uymaktı.

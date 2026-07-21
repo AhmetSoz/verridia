@@ -1,32 +1,28 @@
 # Bölüm 8 — Büyük Döngü Komisyonu
 *(ZALEENA)*
 
-Karia'nın önerisi, Zaleena'ya ulaştığında, hemen, en iyi adayı belirledi: Sevda, kâhinlerin en yaşlısı, dört toprağın ortak komisyonunda, Yamalı Liman'ı temsil edecekti.
+Yamalı Liman'ın saha temsilcisini dalgıçlar seçti. İlk turda Sevda ile Roric'in adları eşit çıktı. Roric, ölçümleri limanda yönetmesi gerektiğini söyleyip çekildi. Sevda görevi kabul etmeden önce anlatılarının kehanet diye emir sayılmayacağını yazılı şart koydu.
 
-"Bu, benim için, büyük bir sorumluluk," dedi Sevda, göreve atandığında. "Büyükannemin masalları, artık, bir çocuk hikayesi değil, ciddi bir araştırmanın parçası olacak."
+"Büyükannemin anlattığı her şey doğru çıkmayacak," dedi. "Yanlış hatırladığım yer de olabilir. Bana soru sorun; sözümü yasa yapmayın."
 
-Zaleena, bu değişime, hem gurur hem endişeyle karşılık verdi. "Umarım, masallar, bize, gerçek cevaplar verir."
+Zaleena onun şartını komisyon metnine ekletti.
 
----
+İlk toplantı Eski-Kent'te yapıldı. Serel eski döngü kayıtlarını, Mirel kan ve madde deneylerini, Hegemonya arşivcisi hasarlı coğrafyacı günlüğünü getirdi. Sungur ve Azgut kayıtçıları kuzeydeki hayvan davranışlarını ayrı çizelgelerle sundu. Toplantıda hükümdar yoktu.
 
-Komisyonun ilk toplantısı, Eski-Kent'te, Büyük Kütüphane'de yapıldı — Serel, Mirel, Sevda, ve Hegemonya'dan gelen bir arşivci, hep birlikte, dağınık bilgileri, tek bir masaya yaydı.
+Üç gün sonra gelen ilk rapor, tek bir sistem sonucuna varmıyordu. Yalnız dört yerde benzer üç değişken belirlemişti: hayvanların yön değiştirmesi, sıcaklık düşüşü ve belirli aralıklarla görülen ışık. Bu değişkenlerin hepsi her yerde bulunmuyordu. Tarihler de tam örtüşmüyordu.
 
-Zaleena, bu toplantıya, bizzat katılmadı — ama düzenli raporlar aldı, ve her raporda, resmin, giderek daha büyük, daha karmaşık hâle geldiğini gördü.
+Serel raporun sonuna eski metinlerde mühür kelimesinin iki anlam taşıdığını eklemişti. Biri kapatılan sınır, öteki doğrulama işaretiydi. Hangi anlamın kullanıldığı bilinmiyordu.
 
-"Büyük Döngü," diye yazmıştı Serel, ilk raporunda, "sadece bir doğa olayı değil gibi görünüyor. Sanki, dünyanın kendisi, belirli aralıklarla, bir şeyi 'kontrol ediyor' — mühürlerin hâlâ sağlam olup olmadığını."
+Kessel metni iki kez okudu. "Bir şey kapalıysa neyin kapalı olduğunu sorarız. Ama belki bunlar kapı değildir."
 
----
+"O yüzden şimdilik taş diyoruz," dedi Zaleena. "İşlevini adından çıkarmayacağız."
 
-Bu ifade, Zaleena'yı, yeni bir soruya yöneltti — eğer dünya, bir şeyi kontrol ediyorsa, bu, kimin, ya da neyin, iradesiydi?
+Deniz taşı yirmi birinci gecede yeniden ışık verdi. Parıltı üç kalp atımı kadar sürdü. Kıyıdaki üç gözlemci süreyi birbirinden bağımsız yazdı; ikisi üç, biri dört atım saymıştı. Yeşil çizgi suyun altında yarım çember oluşturmuş, ardından sönmüştü.
 
-"Belki," dedi Kessel, bu soruyu tartışırlarken, "sorunun kendisi, yanlış. Belki, 'kim kontrol ediyor' diye sormak yerine, 'ne olmasını engellemeye çalışıyor' diye sormalıyız."
+Aynı anda soğukluk ölçen halat bir derece yükseldi. Akıntının dibe yönelme süresi ise değişmedi. Bu, ışık ve sıcaklığın bağlantılı olabileceğini düşündürüyor; kanıtlamıyordu.
 
-Zaleena, bu yeniden çerçevelemeye, derin bir ilgiyle karşılık verdi. "Haklısın. Bir mühür, bir şeyi tutmak için vardır. Ve eğer bütün bu sistem bir mühürse, o zaman, asıl soru, ne tutuluyor — kimin tuttuğu değil."
+Sevda limana dönmedi. Eski-Kent'te kalıp anlatılardaki "uyuyan su" sözünün geçtiği yedi farklı metni karşılaştırmayı seçti. Yerine geçici saha tanığı olarak dalgıçların ikinci turda seçtiği kıdemli bir dalgıç görevlendirildi.
 
----
+Zaleena, komisyon raporunun halka açık özetini yayımladı. Taşın yeniden parladığını saklamadı; bunun saldırı, çağrı ya da iyileşme anlamına geldiğini de söylemedi. Tahliye alanı ve gece kayıkları aynı kaldı.
 
-O gece, deniz dibindeki taş, üç haftalık sessizlikten sonra, ilk kez, tekrar, hafifçe parladı — tek bir kısa parıltı, sonra yine karanlık.
-
-Sevda, bu değişimi, hemen bildirdi. "Sadece bir an. Ama gerçekti."
-
-Zaleena, bu habere, hem rahatlama hem tedirginlikle karşılık verdi. "Belki, bu, iyi bir işaret — hâlâ oradayız, hâlâ izleniyoruz demek. Ya da belki, sadece, beklediğimiz şeyin, yaklaştığının bir işareti." Kessel'e döndü. "Hangisi olursa olsun, artık, yalnız değiliz bu bekleyişte. Dört toprak, birlikte bakıyor — ve bu, bir yıl önce, hayal bile edemeyeceğimiz bir güç."
+Yamalı Liman artık tek başına gözlem yapmıyordu. Bunun sağladığı şey güven değildi. Aynı yanlışı dört ayrı yerde tekrarlama ihtimalini azaltan, karşılaştırılabilir bir kayıt düzeniydi.

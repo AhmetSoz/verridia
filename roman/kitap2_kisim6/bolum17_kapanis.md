@@ -42,5 +42,3 @@ Bu ayrılık onları yavaşlatıyordu. Togan hakkında gelen mektup Bozan soruş
 Ayın son günü dört takvimde yeni tarihler açıldı: Malakor kaynakları için otuz gün, Toruk oturumu için on iki gün, Delta kurul oyu için dokuz gün, kriz protokolünün ikinci tatbikatı için altı hafta.
 
 Gölgenin ardında tek bir ışık yakmamışlardı. Birbirinden uzak küçük lambalar koymuşlardı; biri sönerse ötekiler hangi karanlığın geri döndüğünü gösterecekti.
-
-*(10. Kısım Sonu; 11. Kısım'da devam edecek)*

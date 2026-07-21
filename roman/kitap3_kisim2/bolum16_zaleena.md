@@ -1,30 +1,26 @@
 # Bölüm 16 — Denizin Cevabı
 *(ZALEENA)*
 
-Karakçı'nın ölüm haberini Kaan'dan aldıktan sonra, Zaleena, kendi payına düşen sorumluluğu, hiç kaçınmadan üstlendi — çünkü Ferrin'in kimliğini ortaya çıkaran istihbaratı, o sağlamıştı, ve bu bilgi, dolaylı olarak, Temujin'in kararına zemin hazırlamıştı.
+Karakçı'nın ölümünden sonra Zaleena Ferrin dosyasını yeniden açtı. Belgeleri Anya, Kaan ve Temujin'e aynı anda vermişti. Karakçı ise ondan önce gizli temasa girmişti. Dosyanın katile ulaştığını gösteren bir iz yoktu.
 
-"Suçlu hissediyorum," dedi Zaleena, Kessel'e, bu düşünceyi ilk kez yüksek sesle söyleyerek.
+"Yine de bilgi zincirindeki payımı görmek istiyorum," dedi Kessel'e.
 
-"Sen, Ferrin'in kim olduğunu ortaya çıkardın. Bu bilgi, iyi bir şeydi." Kessel, onun elini tuttu. "Kaan'a nasıl kullanacağını söylemedin. Karar, Temujin'indi."
+"Bak. Ama zincirde olmayan halkayı suçlulukla ekleme."
 
-"Biliyorum. Ama bilgi, bazen, bir bıçak gibidir — kimin elinde olduğu önemli değil, keskinliği aynı kalır."
+Zaleena teslim saatlerini, kopyaları alanları ve tanık adına erişimi inceledi. Karakçı'nın adı Ferrin dosyasında geçmiyordu. Bu sonuç onu rahatlatmadı; yalnızca sorumluluğun doğru yerde aranmasını sağladı.
 
----
+✦
 
-Bu düşünce, Zaleena'yı, kendi kararlarını, yeniden gözden geçirmeye yöneltti. Deniz dibindeki taş, hâlâ, düzensiz aralıklarla parlıyordu — ve Zaleena, artık, bu ışıltıyı, sadece bir tehdit olarak değil, kendi sorumluluğunun bir aynası olarak da görüyordu.
+Deniz taşı hâlâ düzensiz aralıklarla parıldıyordu. Otuz günlük kırmama kararının sonuna dokuz gün kalmıştı. Zaleena beklemeyi sürdürdü, fakat güvenlik çemberinde yaşayanların durumu değişti. Av yasağı uzamış, ortak ambar payı ilk hesabı aşmıştı.
 
-"Belki," dedi Zaleena, Sevda'ya, o hafta yaptıkları toplantıda, "bütün bu bekleyiş, yanlış bir strateji. Belki, taşı izlemek yetmiyor. Belki, ona, gerçekten, nasıl yaklaşacağımızı öğrenmemiz gerek — Togan'ın öğrendiği gibi."
+Roric'in listesinde kıyı çemberine en yakın on dokuz hane vardı. Zaleena onları sessizce taşımayı reddetti. Sessiz tahliye, emri kolaylaştırır; insanları kendi risk kararlarından mahrum bırakırdı.
 
-Sevda, bu fikre, temkinli bir ilgiyle karşılık verdi. "Togan'ın kanı, bir anahtar. Bizim kanımız değil. Belki, biz, aynı yolu deneyemeyiz."
+Haneler açık toplantıya çağrıldı. Zaleena gözlenen gerçeği anlattı: deniz tabanında yapay olabilecek bir yüzey, düzensiz yeşil ışık ve bağı kanıtlanmamış kara olayları vardı. Sevda'nın aile masalını karar gerekçesi yapmadı. Kesin konumu, meraklı dalışları önlemek için açıklamadı.
 
----
+✦
 
-"O zaman başka bir yol bulmalıyız," dedi Zaleena. "Çünkü sonsuza kadar bekleyemeyiz. Kaya öldü. Karakçı öldü. Bir gün, bu bekleyiş de, birinin ölümüyle bitecek — belki benim halkımdan biri olacak o kişi."
+On dokuz hanenin on biri geçici taşınmayı kabul etti. Beşi balık ağlarını korumak için gündüz kalıp gece iç mahallede uyumayı seçti. Üçü ayrılmayı reddetti. Bu üç haneye zor kullanılmadı; gece kayığı, işaret feneri ve her akşam yenilenen çıkış hakkı verildi.
 
-Bu söz, kendi ağzından çıktığında, Zaleena, ilk kez, gerçek bir aciliyet hissetti. Roric'e, o gün, yeni bir görev verdi: kıyı boyunca, taşın yakınında yaşayan herkesi, kademeli olarak, daha güvenli bölgelere taşımak — resmi bir tahliye değil, ama sessiz, dikkatli bir uzaklaştırma.
+Zaleena Karia'ya sonuçları gönderdi. *Kademeli gerçek, gerçeğin yarısını söylemek değil,* diye yazdı. *Bildiklerimizi, bilmediklerimizi ve neden bazı ayrıntıları sınırladığımızı ayrı açıklamak. Halkın kararı bizim tercihimizle aynı çıkmayabilir.*
 
----
-
-O gece, Zaleena, Karia'ya, kısa bir mesaj yazdı: *Senin "kademeli gerçek" fikrini, ben de uygulayacağım. Halkıma, tam olarak neyle karşı karşıya olduğumuzu söylemeyeceğim — henüz. Ama onları, sessizce, güvenli bölgelere taşıyacağım. Belki, bu, ikimizin de öğrendiği tek ders: bazen, gerçeği söylemeden de, insanları koruyabilirsin.*
-
-Kessel, bu kararı duyunca, ona sarıldı — ne bir onay ne bir itiraz, sadece bir ortaklık işareti. Ve Zaleena, onun kollarında, ilk kez, günlerdir taşıdığı yükün, biraz hafiflediğini hissetti.
+Kessel o gece tahliye listesini sessizce Zaleena'nın önüne koydu. On bir kabul, beş koşul ve üç ret vardı. Zaleena'nın yükü hafiflemedi. Artık yalnız kendi kararından oluşmuyordu; yönetmek dediği şey de tam olarak buydu.

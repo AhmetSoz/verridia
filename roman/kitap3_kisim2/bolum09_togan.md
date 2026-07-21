@@ -1,32 +1,34 @@
 # Bölüm 9 — Uyarı Sistemi
 *(TOGAN)*
 
-Mirel, Togan'ın "uyarı sistemi" fikrini duyunca, kütüphanenin en derin rafından, beklenmedik bir belge çıkardı — otuz yıl önce kaybolan araştırmacının kendi el yazısıyla tuttuğu notlar, tam ortasında yarım kalmış.
+Mirel deneyi bir arşiv belgesinden çıkarmadı. Ellerinde böyle bir yöntem yoktu. Togan'ın daha önce Gelgit-Çeliği kancaya verdiği tepkiyi ölçülebilir bir başlangıca çevirdiler.
 
-"Bunu, sana göstermek istemedim," dedi Mirel, sayfaları dikkatle Togan'a uzatırken. "Çünkü bu adam, tam senin bulmaya çalıştığın şeyi bulmuştu — ve sonra kayboldu. Ama belki, onun yarım bıraktığı yerden, sen devam edebilirsin."
+Kütüphanenin iç avlusuna sekiz kapalı kutu kondu. Birinde küçük bir Gelgit-Çeliği parçası, yedisinde aynı ağırlıkta sıradan demir vardı. Kutuları Mirel değil, deneye katılmayan iki demirci yerleştirdi. Togan hangi kutuda ne olduğunu bilmiyordu.
 
-Notlar, bir yöntemi tarif ediyordu: kanın çekim gücünü, kontrollü, küçük dozlarda kullanarak, mührün durumunu "yoklamak" — tam bir temas değil, uzaktan bir dokunuş, bir parmak ucuyla suya değmek gibi.
+Perren durdurma işaretini taşıdı. Bir şifacı Togan'ın nabzını, kâtip cevap verme süresini kaydetti. Togan'ın görevi bir kutuyu "bulmak" değil, hangi mesafede bedensel tepki başladığını söylemekti.
 
----
+✦
 
-"Bu tehlikeli," dedi Perren, notları okuduktan sonra. "Adam bunu denedi, ve kayboldu."
+İlk denemede on iki adımda bileği sızladı. Kutuyu doğru seçti, fakat deney burada bitmedi. Kutular yeniden karıştırıldı. İkinci turda yanlış kutuyu gösterdi. Üçüncü turda sekiz adımda doğru yönü ayırdı; aynı anda şakak ağrısı başladı.
 
-"Ya da denedi ve başardı," dedi Togan, "ve şimdi, bulduğu şeyle, başka bir yerde yaşıyor. Bilmiyoruz."
+Perren işareti kaldırdı.
 
-Perren, bu iyimserliğe, inanmadığını belli eden bir sessizlikle karşılık verdi. Ama Togan'ı durdurmaya da çalışmadı — çünkü biliyordu ki, bazı yolları, insan ancak kendi ayaklarıyla öğrenir.
+"Bir tur daha," dedi Togan.
 
----
+"Hayır. İlk sınırımız ağrıydı."
 
-O gece, Togan, kütüphanenin avlusunda, notlardaki yöntemi, ilk kez, gerçekten küçük bir ölçekte denedi — sezgisini, tam açmadan, sadece bir çentik kadar aralayarak.
+Togan itiraz etmek istedi. Mirel ona kendi imzaladığı deney kâğıdını gösterdi. Durdurma hakkını yalnız sonuç hoşuna gittiğinde kabul etmek, hak değildi.
 
-Sonuç, beklediğinden farklıydı. Uzaktaki merkez, hâlâ oradaydı, hâlâ uyanıktı — ama bu sefer, Togan'ın kendisi, ona doğru çekilmedi. Sadece, uzaktan, zayıf bir nabız gibi hissetti onu, kontrol edilebilir bir mesafede.
+✦
 
-"İşe yarıyor," dedi Togan, gözlerini açarak, alnında ince bir ter tabakasıyla. "Tam temas değil. Ama bir şey öğreniyorum — mesafeyi, ilk kez, kendim ayarlayabiliyorum."
+İki gün sonra deney farklı kutularla tekrarlandı. Togan altı turun dördünde doğru yönü buldu, birinde yanıldı, birinde hiçbir tepki bildirmedi. Sonuç rastlantıdan daha iyi olabilirdi; kesin bir uyarı sistemi sayılamazdı. Menzil de avlunun ötesine uzanmıyordu.
 
----
+"Kör Düzlük'i buradan hissedemiyorum," dedi Togan. "Denizi de."
 
-Perren, bu gelişmeye, temkinli bir umutla karşılık verdi. "Bu, seni, bir uyarı sistemine dönüştürüyor, dediğin gibi. Ama unutma — bir uyarı sistemi, hâlâ, tehlikenin yakınında durmak zorunda."
+"Bu başarısızlık değil," dedi Mirel. "Yetinin nerede çalışmadığını biliyoruz."
 
-"Biliyorum." Togan, notları, dikkatle katladı. "Ama artık, en azından, ne zaman çok yaklaştığımı, kendim anlayabiliyorum. Kaya'nın günü gibi bir şey, bir daha, beni hazırlıksız yakalamayacak."
+Kayda şu sonuç geçti: Togan, yakındaki Akıntı'yla değiştirilmiş metale bazen uzaktan tepki veriyordu. Tepki amaç, tehlike veya bilinç göstermiyordu. Ağrı başladığında doğruluk artmıyor, yalnızca bedel büyüyordu.
 
-O gece, Eski-Kent'ten ayrılmadan önce, Togan, Serel'e bir mesaj bıraktı — Mirasçı arşivlerine, kendi bulgularının bir kopyasını, gelecekteki birinin, belki bir gün, kendisinden daha iyi anlaması için.
+Togan bu cümleyi kendi eliyle kopyaladı. Kaya'nın ölümünü engelleyecek bir formül bulmamıştı. Yalnızca bir daha sınıra geldiğinde, daha çok acının daha çok gerçek demek olmadığını biliyordu.
+
+Deney tutanağı Eski-Kent, Kuru Dere ve Hallis denetim masası için üç kopya çıkarılarak kapatıldı.

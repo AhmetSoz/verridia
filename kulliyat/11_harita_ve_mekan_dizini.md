@@ -74,6 +74,7 @@
 - **Metheris** — Hegemonya · başkent · ~80.000; katmanlı kaya şehri; Tuzlu Taht. ➜ Böl. XII
 - **Mühürlü Vadi** — kuzey ucu · bilinmez · Sed'in ardındaki diyar; dört halkın dört teorisi. ➜ Böl. II, III
 - **Sarmaşan Nehri / Kanyonu** — bozkır→Delta · nehir · Kıtanın ana su damarı; Kızıl Hafta'da zehirli kızıl sel. ➜ Böl. II
+- **Sarıkavak** — Hegemonya kıyısı · balıkçı köyü · 186 kişi; kıyı yarığı çevresindeki yeşil ışık sırasında dört kişi kayboldu. Köy sahte "humma" gerekçesiyle boşaltıldı; gerçek açıklanınca batı tarlaları yeniden açıldı, yarığa yakın evler kapalı kaldı. ➜ Kitap 3, Kısım 2
 - **Sazlık Taht** — Delta · saray bölgesi · Yaşayan ağaç-saraylar; Konsey coğrafyasının merkezi (~30.000 çevresiyle). ➜ Böl. XIII
 - **Savlak Su Yolları** — Delta · gizli kanal ağı · Bin yıllık ezber; rehbersiz girilmez. ➜ Böl. XIII
 - **Taş Çember** — bozkır (Sarmaşan kıyısı) · kadim alan · Kırık Yemin'in yaşandığı yemin alanı; artık lanetli sayılır, boş durur. ➜ Böl. IX

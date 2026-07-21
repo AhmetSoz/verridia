@@ -1,28 +1,31 @@
 # Bölüm 15 — Karakçı'nın Yankısı
 *(KARIA)*
 
-Haber, Hegemonya'ya, Zaleena'nın kısa bir mesajıyla ulaştı: *Bir genç Sungur öldürüldü. Temujin'in bir kararının sonucu. Adı Karakçı'ydı.*
+Karakçı'nın ölüm haberi Hegemonya'ya olay kaydıyla ulaştı. Zaleena'nın ekinde Ferrin dosyası, Temujin'in ekinde ise gizli temas emri vardı. Katil bilinmiyordu.
 
-Karia, bu satırları okurken, kendi krizinin yanına, bir üçüncüyü daha ekledi — artık, sadece kendi yalanını ve Zaleena'nın bekleyişini değil, Temujin'in ağır vicdanını da taşıyordu, uzaktan da olsa.
+Karia kendi yalanıyla Temujin'in kararını aynı cümleye koymak istedi. Elowen buna izin vermedi.
 
-"Bu, hepimizin, aynı hataya, farklı biçimlerde düştüğünü gösteriyor," dedi Karia, Elowen'e. "Ben, halkımı korumak için yalan söylüyorum. Temujin, halkını korumak için, bir genci, bilmeden, ölüme gönderdi. İkimiz de, iyi bir sebeple, kötü bir şey yaptık."
+"İkiniz de koruma gerekçesi kullandınız," dedi. "Sonuçları, insanları ve sorumluluk zinciri aynı değil. Benzerlik seni Temujin'in suçuna ortak etmez; onun kararı da seninkini hafifletmez."
 
----
+Karia, Sarıkavak'ta kaybolan dördüncü balıkçıyı düşündü. Yalanın yasağı inanılmaz kıldığı kayıtlıydı. Bu, kesin bir ölüm nedeni değildi. Kararın zararsız olduğunu söylemesine de izin vermiyordu.
 
-Elowen, bu benzetmeye, dikkatli bir düzeltme getirdi. "Aynı değil, Karia. Senin yalanın, henüz, kimseyi öldürmedi. Temujin'inki öldürdü. Bu fark, küçük değil."
+✦
 
-"Henüz öldürmedi," dedi Karia, bu ayrımı kabul ederek. "Ama bir gün öldürebilir. Belki, benim kayıp balıkçılarımdan biri, gerçeği bilseydi, farklı bir karar alırdı — kayalıktan uzak dururdu, ya da ailesini erken uyarırdı. Benim sessizliğim de, bir gün, bir Karakçı yaratabilir."
+Karia Dört Toprağın Konseyi'ne ortak propaganda metni önermedi. Her toprağın kendi halkına aynı cümleleri söylemesi, bilgi farklarını gizlerdi. Bunun yerine asgari açıklama ilkeleri sundu:
 
----
+1. Gözlenen olay ile yorum ayrı anlatılacaktı.
+2. Güvenlik yasağının gerçek nedeni saklanmayacaktı.
+3. Kesin konum ve tanık adı gibi bilgiler ancak somut zarar riskiyle sınırlanabilecekti.
+4. Her sınırın bitiş tarihi ve itiraz yolu olacaktı.
 
-Bu düşünce, Karia'yı, kendi kararına, yeniden dönmeye zorladı. O gün, dört toprağın konseyine, resmi bir teklif sundu: Sessiz Taşlar hakkında, artık, sadece liderler arasında değil, her toprağın kendi halkına, kademeli, kontrollü bir açıklama yapılması.
+Temujin'in temsilcisi ilkeleri kabul etti, fakat Sungur Meclisi'nin ayrı onayı gerektiğini ekledi. Zaleena kendi limanındaki tahliye planının bu ölçülere göre yeniden yazılacağını bildirdi. Kaan, Azgut kayıtlarının Korgan'ın kararı olmadan açılamayacağını söyledi. Oybirliği çıkmadı; ilkeler üç ayrı onayla yürürlüğe girdi.
 
-"Tam gerçeği, bir günde söylemeyeceğiz," dedi Karia, teklifini sunarken. "ama yalanı da sürdürmeyeceğiz. Önce, 'bilinmeyen bir tehlike var' diyeceğiz. Sonra, hazırlık ilerledikçe, biraz daha fazlasını. İnsanları, gerçeğe, yavaş yavaş alıştıracağız — bir defada boğmadan."
+✦
 
----
+Karia Sarıkavak için yedi gün sonra tam açıklama yapma kararını korudu. Aileler önce ayrı ayrı bilgilendirilecek, sonra köy halkına ortak toplantı yapılacaktı. Yanında Corvus değil, Hallis ve bağımsız bir köy yazıcısı bulunacaktı.
 
-Zaleena ve Temujin'in temsilcileri, bu teklife, temkinli bir onay verdi. Karia, bu küçük zaferi, büyük bir rahatlamayla karşıladı — çünkü, en azından, kendi köyünde işlediği hatayı, bir daha tekrarlamayacaktı.
+"Karakçı'nın ölümü kararını değiştirdi mi?" diye sordu Elowen.
 
-O akşam, Elowen'le, sarayın merdivenlerinde otururken, Karia, kendi kendine bir söz verdi. "Karakçı'yı hiç tanımadım. Ama onun ölümü, benim kararımı değiştirdi. Belki, bu, anlamsız bir ölüm değildi sonuçta — belki, bir başkasının hayatını kurtaracak bir ders oldu."
+"Kendi kararımın sonucunu görmekten kaçmamı zorlaştırdı. Ama Karakçı benim dersim olmak için ölmedi."
 
-Elowen, bu söze, hem katıldı hem itiraz etti. "Bu doğru olabilir. Ama bunu, kendini rahatlatmak için bir bahane yapma, Karia. Karakçı, ders olsun diye ölmedi. Sadece öldü. Ders, bizim ondan çıkardığımız şey — onun ölümünün amacı değil."
+Bu ayrım, ölümü anlamlı kılmıyordu. Karia'nın onu kendi ahlâk hikâyesine katmasını engelliyordu.

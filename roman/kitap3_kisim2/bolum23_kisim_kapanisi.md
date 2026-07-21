@@ -1,56 +1,60 @@
 # Bölüm 23 — Kırılan ve Kaynayan
-*(DÖRT POV — KISIM KAPANIŞI)*
+*(KAPANIŞ)*
 
 **TEMUJİN**
 
-Anya'nın resmi mührü, bir hafta sonra geldi — Sungur özerkliğini, kalıcı ve yazılı hâle getiren bir anlaşma. Temujin, belgeyi imzalarken, Batu'ya döndü.
+Sungur özerklik anlaşması bir hafta sonra iki ayrı mecliste aynı gün okundu. Anya kendi mührünü, Temujin kendi mührünü bastı. Belgeler üst üste konmadı; iki asıl nüsha yan yana tutuldu.
 
-"Kaya, bunu görseydi," dedi Temujin, "ne derdi, sence?"
+Batu, "Ortak sefer toplamak daha yavaş olacak," dedi.
 
-Batu, uzun süre düşündü. "Muhtemelen, sana kızardı — bu kadar geç anladığın için. Ama sonra, gülümserdi. Çünkü sonunda, doğru şeyi yaptın."
+"Olacak."
 
-Temujin, mührü bastı, ve ilk kez, günlerdir taşıdığı ağırlığın, tamamen gitmediğini ama artık taşınabilir olduğunu hissetti.
+"Bazıları bunu senin yenilgin sayacak."
 
----
+"Sayabilirler."
+
+Temujin anlaşmayı Kaya'nın isteği diye sunmadı. Karakçı'nın ölümüyle satın alınmış bir kazanç da saymadı. İki insanın yokluğu metnin gerekçesi değil, bu sınırları daha önce kuramamış olmalarının bedeliydi.
+
+✦
 
 **TOGAN**
 
-Güneye dönüş yolunda, Togan, kendi kendine, bir söz verdi — bir gün, hazırlıklı, geri döneceğine dair. Ama şimdilik, ilk kez, aylardır, bir yere ait olma isteği duydu.
+Eski-Kent'e dönüşte Perren ile Togan'ın erzağı iki gün kalmıştı. Geri dönüş tarihine uymaları onları kurtarmış, Sed hakkında tek bir cevap vermemişti.
 
-"Kartal-Yurdu'na dönelim," dedi Togan, Perren'e. "Kaya'nın mezarını ziyaret etmedim hiç. Zaman geldi."
+Mirel iki rüya çizimini ve Togan'ın yön tepkisini ayrı dosyaladı. Işık Seddi'nin taşlarla bağı kanıtlanmamıştı.
 
-Perren, başını salladı. "Zaman, her zaman gelir, oğlum. Önemli olan, onu tanıman."
+"Kartal-Yurdu'na dönelim," dedi Togan, Perren'e. "Cenazeden sonra Kaya'nın mezarına bir daha gitmedim. Sed'e dönüp dönmeyeceğime orada karar vermeyeceğim. Ama kaçtığım yere geri döneceğim."
 
----
+Perren kendi yolunu seçmek için bir gün istedi. Ertesi sabah onunla gelmeyi kabul etti.
+
+✦
 
 **KARIA**
 
-Boşaltılan köy, Karia'nın emriyle, yavaş yavaş, yeniden iskân edilmeye başladı — bu sefer, gerçek bir bilgiyle, gerçek bir seçimle: kalmak isteyenler kalacak, gitmek isteyenler, hiçbir suçlama olmadan, gidecekti.
+Sarıkavak'ın batı tarlaları üç bağımsız incelemeden sonra yeniden açıldı. Kayalığa yakın evler kapalı kaldı. Hanelere üç seçenek verildi: güvenli bölüme dönmek, yeni yerleşimde kalmak ya da inceleme bitene kadar beklemek.
 
-"Bu," dedi Elowen, yeni politikayı izlerken, "belki, senin Kraliçelik döneminin en önemli dersi. Güç, insanları kandırmakla değil, onlara gerçek seçenek sunmakla ölçülür."
+Seçimler eşit dağılmadı. Balıkçıların çoğu dönmek istedi, dördüncü kaybın ailesi kıyıya bir daha yerleşmeyeceğini bildirdi. Karia kimseyi cesur ya da korkak diye kaydetmedi.
 
-Karia, bu söze, sessizce gülümsedi — yorgun, ama gerçek bir gülümseme.
+Hallis'in humma dosyası kapalı olmaktan çıkarıldı. Yedi uzatma oyununun tamamı, Karia'nın mührü ve Elowen'in itirazlarıyla birlikte arşive girdi.
 
----
+✦
 
 **ZALEENA**
 
-Kıyı tahliyesi tamamlandığında, Zaleena, boşalan evlere, son bir kez baktı — artık, hiçbir yalanın gölgesi olmayan, sadece, dikkatli bir hazırlığın izleri.
+Kuzey kıyı çemberindeki gece tahliyesi tamamlandı. Evler yıkılmadı, mallar sahipsiz ilan edilmedi. Gündüz girişler iki kayıkla ve açık dönüş saatiyle sürdü.
 
-Zaleena, elindeki son raporu Kessel'e uzattı. "Hazırız. Ne zaman gelirse gelsin."
+Zaleena son listeyi Kessel'e verdi. "Bu eşiğe hazırız. Sonrakine değil."
 
-Kessel, elini onun eline koydu. "Ve eğer gelmezse?"
+"Sonraki eşik ne?"
 
-"O zaman," dedi Zaleena, "bu hazırlık, boşa gitmiş bir tedbir olur. Ve ben, bundan, hiç şikayet etmem."
+"Işığın kıyı çizgisini geçmesi ya da suda yeni bir değişim. O zaman kuzey iskelesini kapatırız."
 
----
+Hazırlık tamamlanmış bir zafer değil, sırası yazılmış kararlar dizisiydi.
 
-**ORTAK KAPANIŞ**
+✦
 
-Dört toprakta, dört lider, aynı ayın sonunda, kendi hesaplarını çıkardı: bir ölüm, bir itiraf, bir özerklik, iki yalanın sonu. İttifak, bu Kısımda, ilk kez, kendi içinden çatlamıştı — ve çatlarken, kırılmak yerine, yeniden şekillenmişti.
+Kısım bittiğinde bir katil hâlâ bilinmiyor, Ferrin'in son emrini kimin verdiği kanıtlanmıyordu. Sungurlar kendi mühürleriyle müttefik kalmış, Temujin gizli temasını açık kayda çevirmişti. Karia yalanını itiraf etmiş, Zaleena tahliyeyi rıza gibi göstermeden tamamlamıştı.
 
-Malakor, Ferrin'in başarısızlığından sonra, sessizdi — ama bu sessizlik, hiçbirinin, ona güvenmesine yol açmadı.
+Kuzeyde Işık Seddi ufukta kalıyordu. Yamalı Liman'ın altındaki yeşil ışık ise artık geceleri sönmüyordu.
 
-Ve kuzeyde, ölü toprakların ötesinde, ufuktaki o altın çizgi, sabırla, beklemeye devam ediyordu — Togan'ın bir gün, hazırlıklı, geri döneceği günü.
-
-*(İKİNCİ KISIM SONU — ÜÇÜNCÜ KISIM'DA DEVAM EDECEK)*
+Hiçbiri kapanış değildi. Yalnızca bir sonraki kararın nerede başlayacağını gösteriyordu.

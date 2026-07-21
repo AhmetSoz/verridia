@@ -1,34 +1,38 @@
 # Bölüm 2 — Müttefik Olmanın Zorluğu
 *(TEMUJİN)*
 
-Özerklik anlaşması, Temujin'in umduğundan daha karmaşık bir gerçekliğe dönüştü — çünkü artık, Sungurlara, emir veremiyordu; sadece, teklif sunabiliyordu, ve teklifler, her zaman kabul edilmiyordu.
+Sungur özerklik metni üç gün içinde ilk anlaşmazlığını doğurdu. Kuzey geçidinde Azgut ve Sungur devriyeleri aynı izleri takip etmiş, iki komutan da ötekine rapor vermeyi reddetmişti. Bir saldırı yaşanmamıştı; fakat haber iki ayrı yoldan, yarım gün arayla merkeze ulaşmıştı.
 
-"Sınır devriyeleri konusunda anlaşamıyoruz," dedi Batu, o sabah, son toplantıyı özetlerken. "Anya, kendi askerlerini, kendi komuta zincirinde istiyor. Bizim sistemimize entegre olmayı reddediyor."
+Batu haritada gecikmeyi işaretledi. "Düşman olsaydı boşluktan geçerdi."
 
-Temujin, bu haberi, hayal kırıklığıyla değil, garip bir kabullenmeyle karşıladı. "Bu, tam olarak, istediğim şeydi, Batu. Gerçek özerklik. Sadece, uygulamada, bu kadar zor olacağını hesaba katmamıştım."
+Anya'nın cevabı hazırdı: Sungur savaşçıları Azgut subayının emrine girmeyecek, acil durumda kendi komutanlarına dönecekti. Ortak nöbet günleri öneriyor, tek komuta zincirini reddediyordu.
 
----
+Temujin ilk öfkesini tutanağa yazdırdı. Anlaşmayı imzalarken özerkliğin yalnız iyi niyet cümlelerinden oluşmayacağını biliyordu. Yine de ilk gecikmede eski yetkisini özlemişti.
 
-Bu yeni denge, Genç Kurtlar'ın askeri yapısını, yeniden düşünmeye zorladı. Bir zamanlar, tek bir komuta altında birleşen güçler, şimdi, ayrı ayrı müzakere edilmesi gereken, ayrı iradeler hâline gelmişti.
+"İki komuta kalacak," dedi. "Ama aynı işaretleri kullanacağız. Haber ulağı iki merkeze birden gidecek. Bir taraf geri çekilme emri verirse öteki, sebebini bilmeden peşinden sürüklenmeyecek."
 
-"Belki," dedi Elara, bu toplantıya, kendi görüşünü sunarak, "gerçek bir ittifak, tam bir kontrolden daha zayıf görünür. Ama kriz anında, gönüllü bir müttefik, zorla tutulan bir vassaldan, her zaman daha güvenilirdir."
+Batu, düşman geldiğinde tartışmaya vakit kalmayacağını söyledi.
 
-Temujin, bu gözleme, katıldı — ama pratik zorluk, hâlâ, ortadaydı. Bir savaş çıkarsa, Sungurların, gerçekten yardıma geleceğinden, artık, hiçbir garantisi yoktu.
+"O zaman kuralları düşman gelmeden sınarız. Yedi gün sonra haber tatbikatı yapılsın. Hangi zincir gecikirse kayda geçsin."
 
----
+Bu çözüm güvence vermiyordu. Gecikmeyi ölçülebilir hâle getiriyordu.
 
-Kaan'dan, o hafta, beklenmedik bir haber geldi — Korgan'ın topraklarında, benzer bir talep, yükselmeye başlamıştı. Bazı Azgut boyları, Sungurların kazandığı özerkliği duyunca, kendi özerkliklerini de istemeye başlamıştı.
+Öğleden sonra Kaan'ın mühürlü haberi geldi. Korgan'ın yönetimindeki beş Azgut boyu, Sungur metnini emsal göstererek farklı yetkiler istemişti. İkisi kendi su ve otlak mahkemesini; biri vergi muafiyetini; öteki ikisi savaş çağrısını reddetme hakkını talep ediyordu. Aynı kelimeyi kullanıyorlardı, fakat istedikleri şeyler aynı değildi.
 
-"Bu, bir emsal oluşturdu," dedi Kaan, mesajında. "Korgan, endişeli. Eğer herkes özerklik isterse, İttifak, bir bütün olarak değil, gevşek bir konfederasyon olarak parçalanabilir."
+Korgan, Kaan'ın aktardığına göre, bir talebi kabul etmenin geri kalanını durdurulamaz kılacağını düşünüyordu.
 
-Temujin, bu haberi, uzun süre düşündü. Belki, adaleti sağlarken, farkında olmadan, yeni bir kırılganlık yaratmıştı.
+"Haksız mı?" diye sordu Batu.
 
----
+"Korkusunda değil. Sonucunda olabilir."
 
-"Bunu nasıl yöneteceğiz?" diye sordu Batu, bu gelişmeyi tartışırlarken.
+Temujin beş başvurunun ayrı kayda alınmasını istedi. Her boy; nüfusunu, ortak savunmaya katkısını, istediği yetkinin komşulara maliyetini ve kararın nasıl denetleneceğini açıklayacaktı. Sungur anlaşması otomatik hak sağlamayacak, Azgut adı da otomatik ret gerekçesi olmayacaktı.
 
-"Belki," dedi Temujin, yavaşça, "yönetmemeliyiz. Belki, bırakmalıyız — her boy, kendi özerkliğini, kendi hak ettiği ölçüde kazansın. Zorla tutulan bir birlik, gerçek bir birlik değil zaten. Eğer İttifak, sadece, zorla bir arada tutulduğu için ayaktaysa, o zaman, ayakta kalmayı hak etmiyor demektir."
+Batu kâğıtları gözden geçirdi. "İkisine evet, üçüne hayır dersen parçalanma bitmeyecek."
 
-Batu, bu felsefeye, temkinli bir saygıyla karşılık verdi. "Cesur bir düşünce. Ama riskli."
+"Beşine birden evet dersem adalet olmaz. Beşine birden hayır dersem de yalnız korkumu yönetmiş olurum."
 
-"Biliyorum." Temujin, haritaya, uzun süre baktı — bölünmüş klanların, ayrı renklerle işaretlendiği haritaya. "Ama Kaya'nın öğrettiği bir şey varsa, o da şu: gerçek bağlılık, korkuyla değil, seçimle kurulur. Ve seçim, bazen, ayrılma özgürlüğünü de içerir."
+Korgan'a gönderdiği cevap kısa değildi. Onu ortak incelemeye çağırdı; kurulda Korgan'ın seçtiği iki kişi, başvuran boyların seçtiği iki kişi ve Kuru Dere'den oy hakkı olmayan bir kayıt gözlemcisi bulunacaktı. Gerekçeler başvuru sahiplerine açık verilecekti.
+
+Temujin metni Kaya'nın adına dayandırmadı. Ölü bir kadını her doğru kararın mührü yapmak, onun itiraz etme hakkını elinden almak olurdu.
+
+Akşam, iki komutalı ilk devriye çizelgesi geldi. Daha karmaşıktı. Daha yavaştı. Ayrıca ilk kez, Sungurların orada kalmayı her gün yeniden seçmesini gerektiriyordu.

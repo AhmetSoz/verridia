@@ -1,42 +1,34 @@
 # Bölüm 4 — Bedelin Hesabı
 *(ZALEENA)*
 
-Dalgıçları geri çektiğinden beri, Zaleena, her sabah, aynı raporu okuyordu: ışıltı, bir gece öncekinden biraz daha güçlü, biraz daha düzenli. Artık bir nabız gibi değil, bir soluk alışverişi gibiydi — yavaş, sabırlı, uyanmakta olan bir şeyin soluğu.
+Dalışlar durduktan sonra ışık kıyıdan izlendi. İlk üç gece aralıklar düzensizdi. Kaya'nın yok oluşuyla eş zamanlı uzun parlayıştan sonra ölçüm değişti: ışık iki gece boyunca daha kısa aralıklarla yandı, üçüncü gece yeniden sustu.
 
-Kessel, o sabah, raporu okurken, Zaleena'nın yüzündeki değişimi fark etti. "Ne var?"
+Kessel çizelgeyi okudu. "Düzenli değil."
 
-"Sevda'yı çağırt," dedi Zaleena. "Yanılıyor olmasını istiyorum. Ama yanılmadığını biliyorum."
+"Hayır. Bu da onu daha az tehlikeli yapmıyor."
 
----
+Zaleena, Sevda'yı tek başına çağırmadı. Roric, Draven ve Mira da toplantıdaydı. Bir aile masalının liman kararına dönüşmesi gerekiyorsa, o dönüşüm kapalı odada iki kişi arasında olmayacaktı.
 
-Sevda geldiğinde, ışıltının frekansını uzun uzun dinledi — kelimenin tam anlamıyla dinledi, kulağını suya yakın tuttu, gözlerini kapadı.
+Sevda daha önce anlatmadığı bir ayrıntıyı açıkladı. "Büyükannem taşların önce yakınındakini çağırdığını söylerdi. Cevap gelmezse çağrı büyürmüş. Bunu söylemedim. Hatırladığımdan emin değildim. Şimdi de bunun doğru olduğundan emin değilim."
 
-"Büyükannemin masalında bir şey daha vardı," dedi Sevda, sonunda. "Söylemedim çünkü emin değildim. Şimdi eminim: taşlar uyanınca, ilk önce yakınlarındakini çağırırlar. Sonra, çağrıya kimse cevap vermezse, sesi büyütürler."
+"Işık fikrini doğruluyor mu?" diye sordu Draven.
 
-"Büyütürler ne kadar?"
+"Hayır. Yalnız bana masalı yeniden hatırlatıyor."
 
-"Bilmiyorum. Ama bildiğim bir şey var — bu böyle sürerse, bir gün, taş, sadece dalgıçları değil, bütün limanı çağıracak."
+✦
 
----
+Taşı yok etme önerisi de masaya geldi. Elara'nın incelemesi onun mühür olduğunu kanıtlamamıştı; bu yüzden "kırarsak içindekini salarız" demek de doğru değildi. Buna karşılık malzemesi ve kırılınca ne yapacağı bilinmeyen bir yapıyı parçalamak geri alınamazdı.
 
-Zaleena bu haberi Kessel'le, o gece, iskelenin en ücra köşesinde paylaştı — ne bir danışma meclisi kurdu ne de resmi bir toplantı yaptı. Bazı kararlar, yalnız iki kişiyle alınır.
+Konsey kırmama kararı verdi. Karar otuz günlüktü. Bu sürede uzaktan su örneği alınacak, ışık çizelgesi sürecek ve tahliye kayıkları iki vardiyada hazır tutulacaktı.
 
-"Taşı yok edebilir miyiz?" diye sordu Kessel.
+Beklemek pasiflik değildi. Yine de bedeli vardı: yarım millik av sahası kapalı kaldı, otuz iki aile ortak ambardan pay almaya başladı.
 
-"Elara'nın teorisi doğruysa, bu bir mühür. Mühürü kırmak, içindekini serbest bırakmak demek." Zaleena, suyun karanlığına baktı — ama bu sefer boş bir alışkanlıkla değil, gerçek bir hesapla. "Hayır. Yok edemeyiz. Sadece bekleyebiliriz, ve hazırlanabiliriz."
+✦
 
-Kessel uzun süre sessiz kaldı. Sonra: "Ya beklemek yetmezse?"
+Ertesi sabah Batu'dan mühürlü bir mesaj geldi. Anya ayrı Sungur Meclisi için yazılı yetki talep etmişti. Temujin cevap taslağı hazırlıyor, meclis içindeki farklı sesleri de araştırıyordu.
 
-Zaleena bu soruya cevap vermedi. Çünkü cevabı biliyordu, ve cevap hoşuna gitmiyordu: bir gün, biri, o taşa yaklaşmak zorunda kalacaktı, ve o kişi muhtemelen kendi halkından biri olacaktı.
+"Malakor bunu duyarsa Sungur çatlağını kullanmayı deneyebilir," dedi Zaleena. "İnsanlar arasındaki bir sınırı değiştirmek, deniz dibindeki taşı değiştirmekten kolay."
 
----
+Kessel, Temujin'e ne yazacağını sordu.
 
-Ertesi sabah, Kartal-Yurdu'ndan bir mesaj geldi — Temujin'in eliyle değil, Batu'nun eliyle, kısa ve gergin: *Kaya'nın ölümü, Sungurları ikiye böldü. Anya kendi meclisini istiyor. Temujin bir cevap arıyor, henüz bulamadı. Bunu, dört toprağın bilmesi gerektiğini düşündüm.*
-
-Zaleena, mesajı iki kez okudu. Yamalı Liman'ın kendi tehdidi vardı — deniz dibinde uyanan bir açlık. Ama şimdi anlıyordu ki, İttifak'ın doğu kanadı da kendi çöküşünün eşiğindeydi, ve iki kriz, aynı anda, farklı topraklarda, aynı kırılganlığı sınıyordu.
-
-"Malakor bunu duyarsa," dedi Zaleena, Kessel'e, mesajı katlarken, "Sungur çatlağına gidecek. Deniz dibindeki şeye değil. Çünkü bir insanı satın almak, bir canavarı satın almaktan kolaydır."
-
-Kessel başını salladı. "Temujin'e ne yazacaksın?"
-
-Zaleena, uzun bir süre düşündü. "Hiçbir şey yazmayacağım — henüz. Kendi krizini kendi çözmesi gerek. Ama gözümü, Kartal-Yurdu'ndan ayırmayacağım. Çünkü orada kaybedilecek bir şey varsa, bu, hepimizin kaybı olur."
+Zaleena hemen öğüt göndermedi. Batu'ya yalnız mesajın alındığını ve limanın açık ticaret kayıtlarında olağandışı Delta hareketi aranacağını bildirdi. Sungurların kararını onların yerine vermeyecekti. Fakat bir dış müdahale varsa onu görmezden gelmek de tarafsızlık değildi.

@@ -1,40 +1,46 @@
 # Bölüm 1 — Sessizliğin Ardından
 *(TOGAN)*
 
-Dört Bayrak İttifakı'nın kuruluşundan sonraki aylar, Togan'a, yıllardır tanımadığı bir şey verdi — gerçek, sürekli bir huzur. Ama bu huzur, tam da bu yüzden, onu, garip bir şekilde, tetikte tuttu.
+Dört Bayrak İttifakı kurulalı beri kervanlar iki kez mevsim değiştirmiş, sınır ateşlerinden tek bir savaş haberi gelmemişti. Togan huzurun nasıl bir şey olduğunu hatırlaması gerektiğini düşünüyordu. Oysa her sakin sabah, omuzlarındaki kasları biraz daha geriyordu.
 
-"Çok sessiz," dedi Togan, bir sabah, Temujin'e, kendi sezgisini, dinleyerek. "Malakor'dan, aylardır, hiçbir işaret yok."
+Temujin onu kampın dışında, atların suya indirildiği patikada buldu. Togan eyer kayışını gereğinden uzun zamandır aynı delikte tutuyordu.
 
-Temujin, bu gözleme, ciddiyetle katıldı. "Belki, kısıtlanmış durumda. Ya da belki, sadece, farklı bir yol arıyor."
+"Çok sessiz," dedi. "Malakor'dan aylardır hiçbir işaret yok."
 
----
+Temujin, suyun bulandığı yere baktı. "Belki, kısıtlanmış durumda. Ya da belki, sadece, farklı bir yol arıyor."
 
-Bu şüphe, doğrulanması, uzun sürmedi — Yeşim, bir hafta sonra, endişe verici bir haberle geldi.
+Bu, Togan'ı rahatlatacak bir ihtimal değildi. Malakor'un sustuğu her gün onu görünmez kılıyor, fakat daha az tehlikeli yapmıyordu.
 
-"Karaçul boyu," dedi Yeşim, "yeniden, huzursuzlanıyor. Duyduğuma göre, birileri, onlara, İttifakın, aslında, Azgutlar'ı, gizlice, diğerlerine köle yaptığı yönünde, söylentiler yayıyor."
+✦
 
-Temujin, bu haberi, değerlendirdi. "Bu, tanıdık bir taktik. Malakor'un tarzı."
+Yeşim bir hafta sonra geldi. Atının teri soğumadan Temujin'in çadırına girdi. Uzun yolun tozu yüzünü örtüyor, çenesi hâlâ sıkı duruyordu.
 
----
+"Karaçul boyu," dedi, "yeniden huzursuzlanıyor. Duyduğuma göre birileri onlara İttifakın aslında Azgutlar'ı gizlice diğerlerine köle yaptığı yönünde söylentiler yayıyor."
 
-Togan, kendi sezgisini, bu söylentinin kaynağına, yöneltti. "Hissediyorum — bu, sadece, sıradan bir dedikodu değil. Birileri, bunu, bilinçli olarak, besliyor."
+Söylentinin tek bir biçimi yoktu. Bir obada yeni vergi diye anlatılıyor, ötekinde gençlerin zorla askere alınacağı söyleniyordu. Haberler birbirini tutmuyordu; korktukları şey ise aynıydı.
 
-Kaya, bu tehdidi, ciddiyetle karşıladı. "Eğer, Malakor, doğrudan hareket edemiyorsa, belki, bizi, kendi içimizden, bölmeye çalışıyor."
+Temujin, Yeşim'den duyduğu her cümlenin kimden geldiğini ayrı ayrı yazdırmasını istedi. "Bu, tanıdık bir taktik. Malakor'un tarzı."
 
-Bu strateji, Togan'ı, derin bir endişeyle doldurdu. "Dört Bayrak, güçlü — ama, eğer, içeriden çürütülürse, hiçbir dış saldırıya gerek kalmaz."
+"Tarz kanıt değil," dedi Togan.
 
----
+Kaya başını ona çevirdi. Togan'ın bu ayrımı kendi isteğiyle yapmasına şaşırmıştı.
 
-Temujin, bu tehdide, bir karşı strateji geliştirdi. "Karaçul'a, doğrudan gitmeliyiz — açıklık, en iyi silahımız. Söylentileri, gölgede bırakmak yerine, ışığa çıkaralım."
+Togan gözlerini kapatıp haberin kendisinde bıraktığı izi dinledi. Korku kalabalıktı; içinden tek bir yabancı irade ayırmak mümkün değildi. Yalnız, aynı sözlerin farklı yollardan aynı yaraya bastığını seziyordu.
 
-Togan'ın kararlılığı kesindi. "Ben de geliyorum. Belki, kendi sezgim, bu söylentinin, gerçek kaynağını bulmama, yardımcı olur."
+"Birileri besliyor olabilir," dedi. "Ama kim olduğunu söyleyemem."
 
----
+"Doğrudan vuramıyorsa bizi içeriden ayırmayı deneyebilir," dedi Kaya. "Ya da Malakor'un adını duymuş sıradan bir fırsatçıdır."
 
-O akşam, küçük bir heyet — Temujin, Togan, Kaya, ve birkaç muhafız — Karaçul boyuna doğru, yola çıkmaya hazırlandı.
+Temujin masadaki ittifak belgesini kapattı. "Karaçul'a, doğrudan gitmeliyiz. Açıklık, en iyi silahımız. Söylentileri, gölgede bırakmak yerine, ışığa çıkaralım."
+
+Togan hemen cevap verdi. "Ben de geliyorum. Belki, kendi sezgim, bu söylentinin, gerçek kaynağını bulmama, yardımcı olur."
+
+"Belki," dedi Temujin. "Bulamazsa da bunu açıkça söyleriz."
+
+O akşam Temujin, Togan, Kaya ve dört muhafız yola hazırlandı. Yanlarına silah kadar kâğıt aldılar: ittifakın açık maddeleri, ilk harcama dökümleri ve her boyun ayrılma hakkını gösteren mühürlü nüshalar.
 
 "Bu, İttifakın, ilk gerçek sınavı olabilir," dedi Temujin, atına binerken.
 
-"Belki," dedi Togan, ufka bakarak, "ama bu sefer, yalnız değiliz. Ve bu, fark yaratır."
+"Belki," dedi Togan. "Ama bu sefer, yalnız değiliz. Ve bu, fark yaratır."
 
-Kervan, gece boyunca, sessizce, Karaçul'a doğru ilerlerken, Togan, kendi kendine düşündü: Malakor'un gölgesi, belki, hiçbir zaman, tamamen kaybolmayacaktı — ama en azından, artık, ona karşı durmak için, hiçbiri, tek başına değildi.
+Gece ilerlerken Karaçul ateşleri ufukta tek tek belirdi. Togan, Malakor'un gölgesinin her korkunun arkasına yerleştirilebileceğini düşündü. Bir düşmana her şeyi yakıştırmak, ona gerçekte sahip olmadığı bir kudret vermenin başka yoluydu.

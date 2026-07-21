@@ -1,30 +1,38 @@
 # Bölüm 17 — Yola Çıkış
 *(TOGAN)*
 
-Zaleena'nın acil çağrısı, üç gün içinde, dört toprağın da liderlerini, ortak bir noktada — bu sefer, tarafsız bir bölge yerine, doğrudan Yamalı Liman'da — bir araya getirme kararına dönüştü.
+Zaleena'nın çağrısından üç gün sonra Dört Toprağın Konseyi'nin Yamalı Liman'da toplanması kararlaştırıldı. Tarafsız alan ilk toplantı için doğru yerdi; deniz tabanındaki bulgu için ise tanıkların ve kıyının yanına gitmek gerekiyordu.
 
-"Sen de gelmelisin," dedi Temujin, Togan'a, yola çıkmadan önce. "Senin sezgin, belki, orada, taşın anlamını çözmemize yardımcı olur."
+"Sen de gelmelisin," dedi Temujin. "Taşa verdiğin tepkiyi senden başkası anlatamaz."
 
-Togan, bu göreve, hem heyecan hem de tedirginlikle karşılık verdi. "Denize, hiç bu kadar yakın gitmemiştim."
+Togan, "Denize hiç bu kadar yaklaşmadım," dedi.
 
----
+Heyecanını gizleyemediği için Kaya güldü. Sonra çantasına, ilk taşın çizimleriyle birlikte Togan'ın baş ağrısı ve bilek sızısı kayıtlarını da koydu.
 
-Yolculuk boyunca, Togan, yanında taşıdığı taş parçasının kopyasını — Elara'nın, çizdiği bir taslak — sürekli inceledi, sanki, bakarak, gizemi çözebilecekmiş gibi.
+✦
 
-Kaya, bu takıntıyı fark etti. "Onu, çok fazla düşünme. Cevaplar, bazen, beklenmedik anlarda gelir."
+Yolun üçüncü günü küçük bir kervan kasabasında durdular. Togan kuyunun yanından geçerken bileğinde vadidekine benzeyen kısa bir baskı duydu. Hemen durdu; duygunun yönünü bulmaya çalışmadı.
 
-"Belki," dedi Togan, "ama bu sefer, beklemeye, çok zamanımız yokmuş gibi hissediyorum."
+"Burada da mı?" diye sordu Kaya.
 
----
+"Benzer bir tepki. Aynı şey olduğunu bilmiyorum."
 
-Yolun üçüncü gününde, küçük bir kervan kasabasından geçerlerken, Togan, tekrar, o tanıdık "boşluk" hissini, uzaktan, hafifçe algıladı — vadidekinden daha zayıf, ama kesinlikle, aynı türden.
+Kasabanın ustalarına Akıntı işli metal kullanıp kullanmadıkları soruldu. Demirci, iki yıl önce Yamalı Liman'dan alınmış bir Gelgit-Çeliği kancası gösterdi. Togan yaklaşınca bileğindeki sızı aynı biçimde arttı.
 
-"Burada da mı?" diye sordu Kaya, Togan'ın durakladığını görünce.
+Kaya kancayı taş kaydından ayrı yazdı. "Yol boyunca her sızıyı yeni taş sanabilirdik."
 
-Togan, başını salladı, endişeyle. "Zayıf. Ama var. Belki, bu, tek bir vadiyle sınırlı değil — belki, bütün bölgeye, dağılmış durumda."
+Togan, kervan evlerinin arasına baktı. "Ben de sanıyordum."
 
----
+Yanlış iz, yeteneğinin sınırını göstermişti. Uzaktan sezdiği şey kötülük, uyanış ya da taş değildi; Akıntı'yla değiştirilmiş maddeydi. Aynı tepkiyi veren iki nesne, aynı amaca hizmet etmek zorunda değildi.
 
-Bu keşif, onları, yolculuklarının geri kalanında, sürekli tetikte tuttu — her geçtikleri yerde, Togan, sezgisini, hafifçe açık tutarak, benzer izler arıyordu.
+✦
 
-Yamalı Liman'a yaklaştıklarında, deniz kokusu, Togan'a, tamamen yabancı geldi — ama bu yabancılığın altında, aynı zamanda, bir çeşit aciliyet de vardı, çünkü artık, biliyordu ki, bu toplantı, sıradan bir konsey değil, belki de, hepsinin, birlikte karşılaşacağı, en büyük bilinmezin, ilk adımıydı.
+Yolun geri kalanında Togan bileğindeki izi açık tutmadı. Her durakta toprağı dinlemek yerine yolculuğun kaydını okudu. Bir cevap bulmaktan çok, yanlış bir cevabı konseye taşımaktan korkuyordu.
+
+Yamalı Liman'a yaklaştıklarında havanın tadı değişti. Tuz, çürümüş yosun ve katran kokusu bozkırın kuru rüzgârını bastırdı. Ufuktaki su ona ilk bakışta gökyüzünün yere düşmüş hâli gibi göründü.
+
+Kaya, "Beklediğin gibi mi?" diye sordu.
+
+"Hayır."
+
+Bu kez cevabının eksik kalması onu rahatsız etmedi.

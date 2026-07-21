@@ -2,13 +2,13 @@
 *("Kırılan Düğüm"in kapanışından hemen sonra başlıyor. Karanlık Dönüş Mandası yürürlükte.)*
 
 ## Karakterlerin Konumu (Kısım başı)
-- **Togan** (~27): Kartal-Yurdu'na dönüyor, Kaya'nın mezarını ilk kez ziyaret edecek. Kanını kontrollü kullanmayı öğrendi.
+- **Togan** (~27): Kartal-Yurdu'na dönüyor; Kaya'nın cenazesinden sonra mezara ilk kez yeniden gidecek. Yetisi yalnız yakın mesafedeki, tanıklı ve sınırlı deneylerde ölçülebiliyor; uzaktan mühür ya da kötülük sezemiyor.
 - **Temujin** (~25): Sungur özerkliği resmen kuruldu. Anya artık müttefik, vassal değil.
-- **Karia** (~46): "Kademeli gerçek" ilkesi kurumsallaştı, kendi yalanını kapattı.
+- **Karia** (~46): Sarıkavak yalanını bütün karar zinciriyle denetime açtı; köyün güvenli kısmına dönüş seçenekleri halkta.
 - **Zaleena** (~36): Kıyı tahliyesi tamamlandı, deniz taşı hâlâ aktif tehdit.
 
 ## Açık Uçlar (Kısım 2'den devralınan)
-1. Sube ve Temir'in (Karakçı'nın ölümünden etkilenen diğer iki temas) durumu işlenmedi.
+1. Sube (Azgut aracı) ve Temir (Sungur temsilci) açık tanık statüsünde; Karakçı'dan sonra bu rolün kişisel ve siyasi bedeli sürecek.
 2. Malakor/Ferrin sessiz ama kapanmadı — bir sonraki hamlesi bilinmiyor.
 3. Işık Seddi'ne tam varış hâlâ büyük bir rezerv — acele edilmeyecek.
 4. Togan'ın "tam seçim" günü hâlâ beklemede.
@@ -16,42 +16,54 @@
 6. Karanlık Varlık hâlâ isimlendirilmedi — en büyük, en geç rezerv.
 
 ## Bu Kısmın Olası Merkezi Gerilimi
-Togan'ın Kaya'nın mezarını ziyareti, duygusal bir kapanış/yeniden başlangıç noktası olabilir. Olası yönler: Malakor'un yeni, daha sinsi bir hamlesi (Ferrin'in başarısızlığından ders çıkarmış olabilir); deniz taşının krizi tetiklemesi; ya da dört toprağın, artık daha sağlam bir temelde, yeni bir ortak proje geliştirmesi (haritalama sonuçlarının olgunlaşması gibi).
+Togan'ın Kaya'nın mezarına dönüşü onu bağışlatmayacak; bildiğiyle varsaydığını ayırma kararını kişisel zemine oturtacak. Aynı anda deniz taşındaki değişim ortak araştırmayı, Malakor ağı ise karşıt kan örneklerine dönük zorlayıcı düzenek tehdidini doğuracak. Dört taraf bilgi paylaşacak, fakat tek komuta ya da tek hakikat merkezi kurmayacak.
 
 ## Bölüm Haritası
-1. **Togan** — bolum01 — Kaya'nın mezarını ilk ziyaret; Anya'yla kısmi yakınlaşma ("onu, kendi çocuğu gibi görürdü"); Sube'nin hayatta kalma suçluluğuyla yüzleşmesine yardım ediyor. ✅
-2. **Temujin** — bolum02 — Özerkliğin pratik zorlukları (Anya kendi komuta zincirini istiyor); Kaan'dan haber: Korgan'ın Azgut boyları da özerklik istemeye başladı — "emsal" sorunu; Temujin, zorla tutulan birliğin gerçek birlik olmadığı felsefesini benimsiyor. ✅
-3. **Karia** — bolum03 — Küçük soylular da meziyet sisteminin bölgesel uygulanmasını istiyor; Karia bunu tehdit değil fırsat olarak görüp boşaltılan köyde ilk yerel meziyet meclisi pilot programını başlatıyor. ✅
-4. **Zaleena** — bolum04 — Yamalı Liman'ın zaten dağıtık/çok-sesli yapısı sayesinde hiç kırılma yaşamadığı fark ediliyor; **deniz taşının ışıltısı 3 gündür duruyor** — Sevda: "fırtınadan önceki sessizlik"; su alışılmadık soğuyor; dört toprağın konseyine acil bildirim. ✅ **[YENİ GERİLİM: TAŞ SESSİZLEŞTİ]**
+1. **Togan** — bolum01 — Kaya'nın cenazesinden sonra mezara ilk dönüş; ölümü tek sebebe indirgememe sözü. Sube'nin suçluluğu yanlış bir sefer geçmişine değil, Karakçı'ya belgeyi taşıma kararına bağlanıyor; Sube bağışlanma değil açık tanıklık seçiyor. ✅
+2. **Temujin** — bolum02 — Sungur ve Azgut komutaları ayrı kalırken ortak işaret ve tatbikat düzeni kuruluyor. Beş Azgut boyunun birbirinden farklı talepleri tek "emsal" hükmüne sıkıştırılmıyor; açık inceleme ölçütleri hazırlanıyor. ✅
+3. **Karia** — bolum03 — Sarıkavak yerel kurulu kraliçenin telafi gösterisine dönüşmeden önce halk oylamasına sunuluyor. Kabul, ret ve çekimserler kayda giriyor; üyelik kura, açık seçim, kör yeterlik ve kayıp aileleri temsilini birleştiriyor. ✅
+4. **Zaleena** — bolum04 — Yamalı Liman'ın dağıtık yapısının geçmiş kırılmaları ortadan kaldırmadığı kabul ediliyor. Deniz taşı üç gece sönüyor; ışık yokluğu, su sıcaklığı ve akıntı ayrı ölçülüyor. "Fırtına öncesi" yalnız yorum düzeyinde kalıyor. ✅ **[YENİ GERİLİM: TAŞ SESSİZLEŞTİ]**
 
-5. **Togan** — bolum05 — Sessiz Taşlar da sessizleşti; Togan'ın uzaktan yoklaması: merkez artık ona değil, kuzeye/Sed'e "bakıyor" — **iki mühür birbirini fark etmiş olabilir.** ✅
-6. **Temujin** — bolum06 — Korgan bizzat geliyor; Azgut boylarında özerklik "emsali" büyüyor; Temujin'in önerisi: her talebi ayrı ayrı, dürüstçe değerlendirmek; iki eski düşman, aynı sorunu birlikte çözmeye karar veriyor. ✅ *(1 gramer hatası düzeltildi: "babasının adını anarak" → "selefinin adını anarak" — Bozan Han/Korgan baba-oğul DEĞİL kuralı korundu; 1 dedi-X trim: 5→4)*
-7. **Karia** — bolum07 — İki mühürün tek bir "Büyük Döngü" sisteminin parçaları olabileceği teorisi; dört toprağın ortak "Büyük Döngü Komisyonu" kuruluyor. ✅
-8. **Zaleena** — bolum08 — Sevda, Yamalı Liman'ı komisyonda temsil ediyor; Serel'in raporu: sistem, "ne tutulduğu" sorusuna odaklanıyor (kim değil); deniz taşı 3 haftalık sessizlikten sonra kısa bir kez daha parlıyor. ✅
+5. **Togan** — bolum05 — Togan uzaktan yoklama yapmıyor. Yakın mesafe kör deneyi ve yön perdesi testinde yanıldığı sonuçlar da kayda giriyor. Deniz taşı, Sessiz Taşlar ve Sed arasındaki bağ üç rakip açıklamadan yalnız biri olarak kalıyor. ✅
+6. **Temujin** — bolum06 — Korgan bizzat geliyor. Beş başvuru için veri doğrulayan fakat Korgan yerine hüküm vermeyen kurul; iki kopyalı tutanak, itiraz süresi ve dış kayıt gözlemcisiyle kuruluyor. Bozan yalnız Korgan'ın selefi olarak anılıyor. ✅
+7. **Karia** — bolum07 — "Büyük Döngü" kanıtlanmış olgu değil, hasarlı bir metinden alınan çalışma adı. Komisyon gözlem, tanıklık ve yorumu ayırıyor; emir, tahliye ve asker isteme yetkisi taşımıyor; kayıtlar dört merkeze dağıtılıyor. ✅
+8. **Zaleena** — bolum08 — Sevda görevi kendi koşullarıyla kabul ediyor. Komisyon mühür işlevini adından çıkarmıyor; taşın yirmi birinci gecedeki kısa parıltısı bağımsız tanık ve sıcaklık ölçümüyle kayda giriyor. ✅
 
-9. **Togan** — bolum09 — Komisyonun daveti; Togan, kendi kan deneyimini komisyona anlatıyor; Sed'in Sessiz Taşlar'dan farklı davrandığını açıklıyor ("bana gelmedi, sadece izledi"); Serel'le uzaktan, güvenli gözlem yöntemi kuruluyor. ✅
-10. **Temujin** — bolum10 — "Her talebi ayrı değerlendir" ilkesi ilk sınavını geçiyor (5 Azgut boyu, 2 kabul 3 red, gerekçeli); yavaş ama tutarlı adalet, hızlı keyfi karardan daha güvenilir bulunuyor; Büyük Döngü raporları yeni bir endişe getiriyor. ✅
-11. **Karia** — bolum11 — Meziyet meclisi ilk gerçek anlaşmazlığını kendi başına çözüyor (mevsimsel güvenlik hattı uzlaşması); model birkaç bölgeye daha yayılıyor; **⚠️ Büyük Döngü'nün HIZLANDIĞINA dair belirsiz ama tutarlı işaret** — Karia kendini "daralan bir pencereye karşı yarışan zamanlayıcı" gibi hissediyor. ✅
-12. **Zaleena** — bolum12 — Tahliye planı aktif tatbikata dönüştürülüyor (başarılı); Kessel'in gözlemi: kaçma planı var ama "karşılık verme" planı yok; Serel'den olası ikinci bir "anahtar" ihtimali; Zaleena, Kaya'nın bedelini boşa çıkarmama kararlılığı. ✅
+9. **Togan** — bolum09 — Komisyon Togan'ın kanını değil, kayıtlarını istiyor. Togan yorumlarını olgulardan ayırıyor; uzaktan mühür sezme yöntemi yerine standart belirti günlüğü, kör kontrol ve istediği an durma hakkı kuruluyor. ✅
+10. **Temujin** — bolum10 — Beş Azgut talebinden ikisi koşullu kabul, üçü gerekçeli ret alıyor. Reddedilenlerin hepsi sistemi alkışlamıyor; itiraz ve temsil çekme sonuçları kalıyor. Ortak tehlike tek komuta bahanesi yapılmadan ulak ağı tasarlanıyor. ✅
+11. **Karia** — bolum11 — Sarıkavak kurulu değişmez güvenlik sınırının dışındaki iki koy için maliyet dökümü ve askı hakkıyla mevsimsel çözüm kuruyor. Model hemen zafer ilan edilmiyor. Döngü aralıklarının kısaldığı ihtimali takvim ve eksik sayfa sorunları nedeniyle yalnız erken uyarı sayılıyor. ✅
+12. **Zaleena** — bolum12 — İlk tahliye tatbikatı hedef süreyi on yedi dakika aşıyor; sayım, dar geçit ve kayık inişi kusurları açık kayda giriyor. "Karşılık" saldırı değil kurtarma kapasitesi olarak tanımlanıyor. Kor-Ateşler'deki karşıt akış kaydı ilk ipucu oluyor; insanları anahtar ilan etmiyor. ✅
 
-13. **Togan** — bolum13 — Serel'in bulduğu "yarı-dönüşmüşler" ipucu — Togan'ınkinin tersi yönde çalışabilecek ikinci bir "anahtar" ihtimali; Kor-Ateşler'e (Kızıl El Torg) doğru yola çıkıyor; Anya'yla vedada gerçek bir yakınlaşma. ✅
-14. **Temujin** — bolum14 — Coren Vex (Amara'nın kuzeni), Malakor'un bilgisi olmadan geliyor: Ferrin'in başarısızlığı Malakor'un itibarını sarstı, bazı Deltalılar yöntemlerini sorguluyor; Temujin temkinli — dört toprağa danışmadan karar vermiyor. ✅
-15. **Karia** — bolum15 — Coren'in güvenilirliğini test etme planı: doğrulanabilir küçük bilgi isteniyor (Ferrin'in "emekliye ayrılması") — doğrulanıyor; adım adım güven inşası kararı. ✅
-16. **Zaleena** — bolum16 — İkinci doğrulama (Delta devriye rotaları) da doğru çıkıyor; İttifak, karşılığında küçük bir jest sunuyor (devriye azaltma); **Delta'yla ilk gerçek iş birliği başlıyor** — "belki beşinci bir müttefik." ✅
+13. **Togan** — bolum13 — Hasarlı hekim kaydındaki "karşıt tepki" insanı otomatik olarak ikinci anahtar yapmıyor. Togan, adını bilmediği kişiyi kendi görevine ortak yazdığını fark ediyor; Torg'un sınır izni ve üç rıza sorusuyla Küller'e gidiyor. Perren ayrı hayatını seçip Kartal-Yurdu'nda kalıyor. ✅
+14. **Temujin** — bolum14 — Coren Vex sınırda durdurulup açık tanıkla dinleniyor. Temujin, Karakçı'dan sonra temasın varlığını gizlemeyi reddediyor; Coren'e bilgi vermeden ayrılma ve koruma altında gönüllü tanık olma seçenekleri tanıyor. ✅
+15. **Karia** — bolum15 — Coren'in Ferrin hesabına ilişkin tarihleri üç bağımsız kanal destekliyor; bunun Ferrin'in ölümü ya da Malakor'un yenilgisi anlamına gelmediği kayda giriyor. Güven insanın tamamına değil, doğrulanan tek bilgiye veriliyor. ✅
+16. **Zaleena** — bolum16 — Coren'in geçmiş devriye rotaları bağımsız seyir kayıtlarıyla doğrulanıyor. Karşılık olarak kalıcı devriye azaltma değil, Kamış Sığlığı'nda sivilleri koruyan süreli ve denetlenebilir kanal ayrımı deneniyor. Delta henüz müttefik ilan edilmiyor. ✅
 
-17. **Togan** — bolum17 — Kor-Ateşler'e varış; "Kızıl El" Torg'un güvensizliği; Togan kendi yarasını paylaşarak güven kazanıyor; **Yeşil-Göz Sable** (yarı-dönüşmüş, olası ikinci anahtar) ismi öğreniliyor ama henüz tanışılmadı — Torg, Sable'ın kendi rızası olmadan zorlanmayacağını şart koşuyor. ✅
-18. **Temujin** — bolum18 — Coren'in bilgisi: Malakor'un Delta konseyindeki gücü gerçekten sarsılıyor; Temujin agresif değil sabırlı bir strateji seçiyor (Coren'i tehlikeye atmamak için). ✅
-19. **Karia** — bolum19 — Meziyet meclisleri muhalefet topluyor (Lord Cedric Hallis); Karia, Vorlag dersini uygulayıp Hallis'i dinliyor; Hallis'in "dışarıdan denetim" önerisini kabul edip alenen teşekkür ediyor — eleştiriyi katkıya çeviriyor. ✅
-20. **Zaleena** — bolum20 — Deniz taşı üç aylık sessizlikten sonra tek ama en güçlü parıltısını veriyor; Serel'in arşiv kaydı: bu, geçmiş döngülerde "aktif faza" giriş işareti; dört toprak arasında "Ortak Uyarı Ağı" (işaret ateşleri) kuruluyor. ✅ **[DÖNGÜ AKTİF FAZA GİRİYOR OLABİLİR]**
+17. **Togan** — bolum17 — Togan ve Mirasçı temsilcisi Torg'un koşullarıyla Küller'e giriyor. Togan yarasını benzerlik üzerinden güven bileti yapmıyor; kayıt zincirini ve acele tehlikesini açıklıyor. Torg Sable'ın adını iki gün sonra veriyor, görüşme kararını ona bırakıyor. ✅
+18. **Temujin** — bolum18 — Coren'in iki bütçe oylaması hakkındaki bilgisi kısmen doğrulanıyor; Malakor'un gizli kapasitesinin azaldığı kanıtlanmıyor. Coren'den sürekli sır istemek yerine açık kurumsal temas ile onun gönüllü bilgi hattı ayrılıyor; bilgi vermeyi bıraksa da koruma sürüyor. ✅
+19. **Karia** — bolum19 — Üçüncü ay ara denetiminde Sarıkavak dışında iki etkin kurul ve dokuz hazırlık dosyası var. İki kurulun kendi yetiştirdiği adayları kayırdığı görülüyor; rotasyon, çıkar çatışması ve bölgeler arası denetim sınırlı denemeyle kabul ediliyor. Muhalefetin tümü dosta dönüştürülmüyor. ✅
+20. **Zaleena** — bolum20 — En güçlü tek parıltı aktif faz ihtimalini yükseltiyor; fiziksel eşik görülmeden doğrulanmış sayılmıyor. Ortak Uyarı Ağı tek merkezden emir vermiyor, iki aşamalı tanık doğrulaması kullanıyor. Doğu iskelesinde kurtarma hazırlıkları ve on iki dakikalık tahliye tatbikatı tamamlanıyor. ✅ **[DÖNGÜ AKTİF FAZA GİRİYOR OLABİLİR]**
 
-## SIRADAKİ ÖNCELİK (20 bölüm tamamlandı)
-- **⚠️ En acil gerilim: Büyük Döngü "aktif faza" girmiş olabilir** — bir sonraki somut olay/kriz beklenmeli.
-- Yeşil-Göz Sable ile tanışma henüz gerçekleşmedi — Togan'ın bir sonraki adımı.
-- Coren Vex / Delta iş birliği sürüyor, Amara'nın haberi hâlâ yok.
-- Malakor'un Delta içindeki itibar kaybına tepkisi — açık, potansiyel tehlikeli bir hamle bekleniyor.
-- Karia'nın "dışarıdan denetim" ilkesi, meziyet sisteminin uzun vadeli sağlığı için önemli bir emniyet supabı oldu.
-- Sube ve Temir'in durumu hâlâ tam işlenmedi.
-- Bu Kısım, 20 bölümde, bir sonraki büyük olayla (döngünün aktif fazı) doğal bir kapanışa yaklaşıyor olabilir.
+21. **Togan** — bolum21 — Yeşil-Göz Sable'la ilk yüzleşme. Sable, bedenindeki ters akışı tarif ediyor fakat incelenmeyi ve hemen yola çıkarılmayı reddediyor. Togan, ondan cevap değil izin istiyor. Sable yalnızca kendi belirlediği yerde, durdurma işareti ve tanık şartıyla küçük bir karşılıklı yoklamayı kabul ediyor. ✅
+22. **Temujin** — bolum22 — Coren'in üçüncü bilgisi, Malakor'un eski mühür haritalarıyla iki farklı kan örneğini aynı düzenekte tutacak gümüş ağlar topladığını gösteriyor. Temujin bilgiyi saklamıyor; dört taraf, hiç kimsenin kanı ya da bedeni üzerinde zorla deneme yapılamayacağını yazılı emir hâline getiriyor. Sube ile Temir, Karakçı'nın ölümünden sonra gizli temas değil açık tanıklık görevi üstleniyor. ✅
+23. **Karia** — bolum23 — Amara, Coren'in temasını öğreniyor. Onu tutuklamak yerine sınırlı bir Delta kayıt odasını dört toprağın denetimine açıyor; içeride Ferrin'in ağından daha eski bir mühür ve "karşıt örnek" satın alma zinciri bulunuyor. Karia, şüpheyi kanıt yerine koymayı reddediyor ve kayıtların bağımsız kopyalarını çıkarıyor. ✅
+24. **Zaleena** — bolum24 — Aktif fazın ilk geri alınamaz olayı yaşanıyor: deniz, dış iskelelerin altından çekiliyor; gözlem kazıkları geometrik bir yarık boyunca kırılıyor. Ortak Uyarı Ağı can kaybını önlüyor, ancak doğu gözlem iskelesi ve iki tekne yitiriliyor, dört dalgıç yaralanıyor. Dipteki taş artık aralıklı değil, düzenli vuruşlarla çalışıyor. ✅ **[KISIM SONU: AKTİF FAZ DOĞRULANDI]**
+
+## ✅ KISIM 3 TAMAMLANDI (24 bölüm, "Büyük Döngü")
+
+- Büyük Döngü'nün aktif fazı, Yamalı Liman'daki kalıcı maddi kayıpla doğrulandı.
+- Sable yardım etmeye zorlanmadı; ilk sınırlı denemeyi kendi koşullarıyla kabul etti.
+- Malakor'un yeni hedefi varsayım düzeyinden kanıt zincirine taşındı: mühür haritaları, gümüş tutma ağları ve karşıt kan örnekleri.
+- Amara, Coren'i cezalandırmak yerine kayıt açarak Delta içi tercihini yaptı; buna rağmen güveni sınırsız değildir.
+- Sube ile Temir, Karakçı'dan sonra gizli araç olmaktan çıkarılıp açık tanık konumuna geçirildi.
+
+## SIRADAKİ: KİTAP 3, 4. KISIM — "İkinci Anahtar"
+
+- Togan ile Sable'ın kontrollü yoklaması ve bunun bedeni etkileyen sonucu.
+- Malakor'un insanları koruma bahanesiyle iki anahtarı ele geçirme teşebbüsü.
+- Dört tarafın aynı hedefe giderken tek komuta altında erimemesi.
+- Yamalı Liman dış rıhtımlarının tahliyesi ve Finn'in çıraklarının sığ su tekneleri.
+- Işık Seddi yolculuğunun Sable'ın özgür kararıyla başlaması.
 
 ## Not
 Kalite kuralları + Karanlık Dönüş Mandası her bölümde geçerli. Her bölüm sonrası: dedi-X ≤4, klişe kapanış grep (Zaleena için "suya/denize baktı" Kısım başına 1 kez sınırı dahil), zarf tiki kontrol, isim sicili kontrol (YENİ: sıradan Türkçe kelimeleri isim yapmaktan kaçın — "Oyun" hatası iki kez yaşandı), Kaya ASLA canlı sahnede, Karakçı ASLA canlı sahnede.

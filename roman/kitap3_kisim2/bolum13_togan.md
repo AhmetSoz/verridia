@@ -1,36 +1,36 @@
 # Bölüm 13 — Kuzeye Doğru
 *(TOGAN)*
 
-Eski-Kent'ten ayrıldıktan sonra, Togan ve Perren, iki hafta, amaçsızca değil, ama net bir hedef de olmadan yol aldılar — ta ki, bir akşam, Perren, eski bir anıyı paylaşana kadar.
+Eski-Kent'teki üçüncü haftada Mirel, Prens Aldric'in kayıp seferine ait bir yol haritasını getirdi. Haritanın kuzey kenarında birbirine kapanan üç oyuk yoktu; buna karşılık sefer kâtibi son iki konak arasına *hayvanlar ilerlemeyi reddetti* yazmıştı.
 
-"Kaya, bir keresinde," dedi Perren, ateşin başında, "bana, Sed hakkında bir şey söylemişti. Genç bir Sungur büyücüsüyken, kuzeye, bir keşif seferine katılmış. Ölü topraklara kadar gitmiş."
+Perren satırı görünce sustu. O seferden dönen tek kişi oydu.
 
-Togan, bu ismi duyunca, doğruldu. "Ne görmüş?"
+"Atlar durdu," dedi sonunda. "Onları bırakıp yaya gittik. İki gün sonra Işık Seddi'ni gördük. Altın bir çizgi gibi değildi yakından. Gözün mesafeyi kabul etmediği bir duvar gibiydi."
 
-"Tam anlatmadı. Ama dedi ki, 'Sed'in önünde, insan aklının kabul edemeyeceği bir şey var — bir kapı, ama kimsenin geçemediği bir kapı.' O zaman, bunu, bir hikâye sandım."
+"Bunu neden daha önce anlatmadın?"
 
----
+"Anlattım. On bir yıl önce. Kimse Aldric olmadan dönen adama inanmak istemedi. Sonra ben de kendi anlattığım şeyden şüphe ettim."
 
-Bu anı, Togan'ın içinde, yeni bir olasılık uyandırdı. Eğer Sessiz Taşlar, dünyanın altında, dağınık bir mühürse, ve eğer Sed, dünyanın kuzey ucunda, çok daha büyük bir mühürse — belki, ikisi, aynı sorunun, farklı ölçekleriydi.
+Perren'in belleği taşlarla Sed arasında bağ kurmuyordu. Yalnız aynı hayvan davranışını gösteriyordu. Mirel bu benzerliği teoriler listesine ekledi; kanıtlar listesine değil.
 
-"Kuzeye gitmeyi düşünüyorum," dedi Togan, bu düşünceyi Perren'le paylaşırken.
+✦
 
-Perren, bu fikre, hemen itiraz etmedi — ama temkinini de gizlemedi. "Ölü topraklar, boşuna ölü topraklar denmiyor, oğlum. Otuz beş günlük yol, hiçbir korumasız insanın tek başına yapamayacağı bir yolculuk."
+Togan kuzeye gitmeyi o akşam önerdi. Sed'e varmak için bilinen yol otuz beş gündü. Kış yaklaşıyor, Perren'in eski rotasındaki iki su kaynağının hâlâ var olup olmadığı bilinmiyordu.
 
-"Yalnız gitmeyeceğim," dedi Togan. "Seninle geleceğim, eğer sen de istersen."
+"Bu bir keşif değil," dedi Perren. "İki kişiyle Sed'e giden yol tamamlanmaz."
 
----
+"O hâlde ön inceleme. İkinci erzak noktasına kadar gider, rotayı doğrular ve döneriz."
 
-Perren, uzun süre, ateşe baktı — Togan'ın onayını bekleyen bir sessizlikle değil, kendi kararını tartan bir sessizlikle.
+Perren hemen kabul etmedi. Haritayı, kendi yaşını ve geçen sefer kaybettiği insanları düşündü. Ertesi sabah kararını verdi.
 
-"On bir yıl," dedi sonunda, "hiçbir şeye karışmadan yaşadım. Sonra sen geldin, ve o on bir yıl, bir anda, anlamsız hâle geldi — çünkü seninle yürümek, yalnız oturmaktan daha çok şey ifade ediyordu. Şimdi, kuzeye gitmek de öyle. Yalnız kalmayı biliyorum, oğlum. Ama seçebiliyorsam, seninle olmayı seçerim."
+"Geliyorum. Aldric'i aradığım yolu senin kanının cevabına çevirmek istemiyorum. Geri dönme noktasını ben de imzalayacağım."
 
-Togan, bu sözlere, derin bir minnetle karşılık verdi — ama aynı zamanda, tanıdık bir korkuyla da. Kaya da, bir zamanlar, aynı seçimi yapmıştı. Ve bu seçim, onu, bir daha geri gelmemek üzere almıştı.
+✦
 
----
+Mirel otuz beş günlük yiyecekle yola çıkmalarına izin vermedi. Yirmi günlük erzakla on gün kuzeye gidecek, on birinci gün ne görürlerse görsünler döneceklerdi. İki Mirasçı ulak, ilk beş günlük yolu onlarla gidip ara depo kuracaktı.
 
-"Eğer bir gün," dedi Togan, ateşin sönmeye başladığı saatte, "benimle olmak, sana pahalıya patlarsa — istediğin an, geri dönebilirsin. Bunu bilmeni istiyorum."
+Togan, Perren'e her konakta yeniden sordu: "Devam etmek istiyor musun?"
 
-Perren, başını iki yana salladı, ama sertçe değil, sabırla. "Kaya, bunu bilmiyor muydu sanıyorsun? Biliyordu, oğlum. Ve yine de kaldı. Çünkü bazı insanlar için, güvenli bir hayat, en büyük ödül değildir. Anlamlı bir hayat, öyledir."
+"Bugün istiyorum," dedi Perren. "Yarını yarın sor."
 
-O gece, iki adam, ateşi söndürüp, kuzeye dönük bir rota çizdiler — Işık Seddi'ne, otuz beş günlük yola, ve orada bekleyen, henüz kimsenin tam olarak anlamadığı gerçeğe doğru.
+Kuzeye döndüklerinde Togan bir kapının onu beklediğini düşünmedi. Ellerinde eski bir tanıklık, sınırlı erzak ve geri dönüş tarihi vardı. Bu, kaderden daha az etkileyici ve hayatta kalmak için daha kullanışlıydı.

@@ -128,5 +128,3 @@ Gece yarısında Karanlık Ay bitti. Mirasçı kayıtlarında yirmi yedinci yıl
 Beklenti Yılı başlamıştı.
 
 Togan kuzeye yürümeye, Temujin batıya saldırmaya, Karia kanıt toplamaya, Zaleena kıyıyı savunmaya hazırlanıyordu. Aynı tarih, dört ayrı kararla başladı.
-
-*(1. Kısım Sonu; 2. Kısım’da devam edecek)*

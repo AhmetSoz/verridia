@@ -1,30 +1,30 @@
-# Bölüm 18 — İlk Meyveler
+# Bölüm 18 — İlk Sonuçlar
 *(TEMUJİN)*
 
-Coren'le kurulan kırılgan güven, bir ay içinde, ilk somut meyvesini verdi — Delta'nın, Sazlık Taht'taki bazı toplantılarına dair, dolaylı ama değerli bir bilgi, Temujin'e ulaştı.
+Coren'in üçüncü raporu Delta konseyindeki iki bütçe oylamasını anlatıyordu. Malakor'un istediği kapalı ödeneklerin biri yarıya indirilmiş, öteki denetime gönderilmişti. Sarris ilk kez iki oylamada da gerekçe kaydı istemişti.
 
-*Malakor,* diye yazmıştı Coren, *hâlâ, konseyde bir yer tutuyor, ama eskisi kadar güçlü değil. Sarris, şimdi, onun tavsiyelerini, sorgulamadan kabul etmiyor. Bu, küçük bir değişiklik gibi görünebilir, ama Delta'da, büyük bir değişikliğin başlangıcı.*
+Temujin raporu zafer haberi diye dağıtmadı. Coren toplantıda bulunmuştu; başka tanık yoktu. Verdiği tarihler, Delta'dan çıkan para ve mal hareketleriyle karşılaştırılacaktı.
 
-Batu, bu haberi, temkinli bir iyimserlikle karşıladı. "Belki, gerçekten, kazanıyoruz — kılıçla değil, sabırla."
+Kaan ilk bütçenin ardından üç gümüş tüccarına yapılan ödemenin gerçekten azaldığını buldu. Zaleena'nın kayıtları ikinci tarihten sonra Delta devriyelerinin yakıt alımında düşüş göstermiyordu. Para başka hesaba taşınmış olabilirdi. Malakor'un gücünün sarsıldığı ihtimali kuvvetlenmiş, gizli kapasitesinin azaldığı kanıtlanmamıştı.
 
----
+Batu masadaki özeti kapattı. "Bir çatlak varsa büyütelim mi?"
 
-Bu gelişme, Temujin'i, kendi stratejisini, yeniden düşünmeye yöneltti. Bir zamanlar, Malakor, yenilmez bir gölge gibi görünürdü — her yerde, her zaman, bir adım önde. Şimdi, ilk kez, o gölgenin de, kendi zayıflıkları olduğu görülüyordu.
+"Nasıl?"
 
-"Bunu nasıl kullanmalıyız?" diye sordu Batu.
+"Malakor'un kaybettiğini Delta'da duyururuz. Karşı çıkanları cesaretlendiririz."
 
-"Kullanmamalıyız," dedi Temujin, düşünceli. "En azından, henüz. Eğer, Malakor'un zayıflığını, agresif bir şekilde kullanırsak, Delta'yı, savunmaya iter — ve savunmaya geçen bir düşman, en tehlikeli düşmandır. Bunun yerine, sabırla, bu çatlağın, kendi kendine büyümesine izin vermeliyiz."
+Temujin bunun Coren'i bilgi kaynağı olarak ele verebileceğini söyledi. Ayrıca Delta'daki itirazı dış güçlerin işi gibi göstererek Malakor'un çevresini yeniden birleştirebilirdi.
 
----
+Dört tarafın toplantısında Karia'nın temsilcisi beklemenin de karar olduğunu hatırlattı. Malakor hazırlık yapıyorsa sessiz kalmak ona zaman kazandıracaktı. Zaleena'nın kaptanı ise Coren'in her yeni raporda daha büyük risk almasına karşı çıktı.
 
-Bu yaklaşım, dört toprağın konseyinde, tartışmaya yol açtı — bazıları, daha agresif bir strateji istiyordu, Malakor'u, doğrudan hedef alarak.
+Temujin iki ayrı yol önerdi. Açık hatta, Kamış Sığlığı düzeni ve Büyük Döngü verileri üzerinden Delta kurumlarıyla temas sürdürülecekti. Kapalı hatta Coren'den yeni sır istenmeyecek; yalnız kendisinin güvenli bulduğu bilgiyi getirmesi beklenecekti. Gelen her kayıt bağımsız doğrulanacaktı.
 
-"Bu, riskli bir sabır," dedi Karia'nın temsilcisi, konseyde. "Malakor, hâlâ, tehlikeli. Neden ona zaman tanıyalım?"
+Coren'e güvenli bir çıkış seçeneği de sunuldu. İsterse Kuru Dere'de kalabilir, Hegemonya'ya geçebilir veya Sarris'in güvencesiyle Delta'ya dönebilirdi. Bilgi vermeyi bırakması koruma statüsünü sona erdirmeyecekti.
 
-Temujin, bu itiraza, sakin bir cevap verdi. "Çünkü, acele bir hamle, Coren'i de tehlikeye atar. Ve eğer Coren'i kaybedersek, Delta içindeki tek gerçek müttefikimizi kaybederiz."
+"Böyle yaparsak kaynağı kullanmıyoruz," dedi Batu.
 
----
+"İnsan kullanmıyoruz. Bilgiyi sınarız."
 
-Bu mantık, sonunda, konseyi ikna etti — sabırlı, gözlemci bir yaklaşım, resmi strateji olarak benimsendi.
+Coren şimdilik Kuru Dere'de kalmayı seçti. Amara'yla doğrudan temas istemedi; Sarris'e sağ olduğunu bildiren ikinci mektuba izin verdi.
 
-O akşam, Temujin, kendi çadırında, Kaya'nın eski öğüdünü, bir kez daha hatırladı — sabrın, bazen, en keskin kılıçtan daha etkili olduğunu. Ve ilk kez, aylardır, gerçek bir zaferin, sadece mümkün değil, yaklaşmakta olduğunu hissetti — yavaş, sessiz, ama gerçek bir zafer.
+Malakor'un yenilgisi yaklaşmıyordu. Yalnız ilk kez, onun makamıyla Delta'nın çıkarlarının aynı şey olmadığına dair ölçülebilir işaretler vardı. Temujin bu farkı büyütmek için Coren'i tüketmemeye karar verdi.

@@ -1,34 +1,46 @@
 # Bölüm 1 — Taş ve İsim
 *(TOGAN)*
 
-Kartal-Yurdu'na varış, Togan'ın beklediğinden farklıydı — ne bir suçlama, ne bir kutlama. Sungurlar, onu, sıradan bir yolcu gibi karşıladı, ne fazla sıcak ne fazla soğuk. Belki, bu, en dürüst karşılamaydı.
+Kartal-Yurdu'nda Togan için karşılama ateşi yakılmadı. Ulaklar dönüş gününü bildirmişti; yine de Sungurlar işlerini bırakıp yol kenarına dizilmedi. Birkaç kişi selam verdi, bazıları yüzünü çevirdi. Kaya'nın ölümünden sonra onun adını hangi duyguyla anacaklarına birlikte karar vermemişlerdi.
 
-Mezara, tek başına gitti — Perren'e, bunu, kendi başına yapması gerektiğini söylemişti, ve Perren, hiç itiraz etmeden kabul etmişti.
+Togan bunu cezalandırma saymadı. Kendisine ortak bir hüküm borçlu değillerdi.
 
----
+Perren, girişte atların yularını aldı. Mezara gelip gelmeyeceğini sormadı.
 
-Taş, tam olarak, hatırladığı gibiydi: sade, üzerinde sadece bir isim, bir doğum ve ölüm yılı. Kaya'nın gerçek bedeni orada değildi — ama taş, ona, bir yer, bir odak noktası veriyordu, yasının, dağılmadan, bir yere konabileceği bir nokta.
+"Dönmezsem gün batımında beni ara," dedi Togan.
 
-Togan, uzun süre, hiçbir şey söylemeden, taşın önünde durdu. Sonra, sonunda, konuştu — sesi, kendi kulağına, garip geldi, çünkü aylardır, kimseyle, bu kadar açık konuşmamıştı.
+"Dönersen de bu gece konuşmak zorunda değilsin."
 
-"Seni kurtaramadım," dedi Togan. "Ve bunun için, kendimi asla tam olarak affetmeyeceğim. Ama sana bir söz veriyorum — kanımı, artık, bir tehlike gibi taşımıyorum. Bir araç gibi taşıyorum. Seni öldüren şeyi, bir gün, anlayacağım. Ve o gün, senin adına da, bir cevap bulacağım."
+Kaya'nın taşı kışlağın kuzeyindeki yamaçtaydı. Altında beden yoktu. Yedi tanığın anlattığı son an, taşın arkasına küçük işaretlerle kazınmış; görülenlerle yorumlananlar birbirinden ayrılmıştı. Bakır kazık, yön değiştiren akış, kaybolan beden. En alta yalnız Kaya'nın son iki sözü yazılmıştı.
 
----
+Togan taşı temizlemeye kalkmadı. Üzerindeki kuru çamur, cenazeden beri buraya kimlerin geldiğini gösteriyordu. Yanına çöktü ve getirdiği iki kâğıdı çıkardı. Birine bildiklerini, ötekine bilmediklerini yazmıştı.
 
-Anya, uzaktan, bu sahneyi izliyordu — müdahale etmeden, ama uzaklaşmadan da. Togan, sonunda döndüğünde, ikisi, kısa bir süre, göz göze geldi.
+"Seni kurtaramadım," dedi. "Ama seni neyin öldürdüğünü bildiğimi de söylemeyeceğim. Benim kanım akışı çekti. Sen onu çevirdin. Bundan sonrası hâlâ boş."
 
-"Onu, gerçekten severdi," dedi Anya, yaklaşırken. "Seni, kendi çocuğu gibi görürdü. Bunu, sana, hiç söylemedim — çünkü öfkeliydim. Ama artık, öfkemin, seni suçlamaktan çok, onu özlemekle ilgili olduğunu biliyorum."
+İkinci kâğıdı taşın dibine koymadı; yağmurda yok olacak bir itiraf bırakmak kolaydı. Katlayıp cebine geri soktu.
 
-Togan, bu itirafa, derin bir minnetle karşılık verdi. "Teşekkür ederim. Bunu duymak... bana, taşıdığım yükü, biraz hafifletiyor."
+"Bu boşluğu cevapla dolduracağım diye başka birini oraya sürüklemeyeceğim. Şimdilik verebildiğim söz bu."
 
----
+Anya dönüş yolunun kenarında bekliyordu. Onu gizlice izlememiş, yaklaşmadan önce görünür bir yerde durmuştu.
 
-"Sube," dedi Anya, konuyu değiştirerek, "seni görmek istiyor. Karakçı'nın ölümünden beri, kendini suçluyor — hayatta kaldığı için."
+"Kaya seni severdi," dedi. "Bunu, yaptığın her şeyi bağışlayan bir vasiyet sanma. O da sana kızardı. Ama seni ailesinden saydığı doğru."
 
-Bu haber, Togan'ı, yeni bir sorumluluğa yöneltti. Sube'yi bulduğunda, genç büyücü, kendi çadırında, yalnız oturuyordu, gözleri kızarmış.
+Togan'ın boğazı daraldı. Teşekkür etmek sözü küçültecekti; başını eğdi.
 
-"Neden ben değil de o?" diye sordu Sube, Togan'ı görünce. "İkimiz de aynı riski aldık. Ama o öldü, ben yaşıyorum."
+Anya, Sube'nin Kuru Dere'den geldiğini söyledi. Karakçı'ya taşıdığı belgeyi açık kayda vermişti. Yine de onunla görüşmek istiyordu.
 
-Togan, bu soruya, kolay bir cevap vermedi — çünkü kolay bir cevap yoktu. "Bilmiyorum, Sube. Ama biliyorum ki, yaşadığın için kendini suçlarsan, onun ölümü, iki kayıp olur — onun hayatı, ve senin geri kalanın. Kaya bana, bir keresinde, aynı şeyi öğretti. Yaşamak, bazen, en zor borç."
+Sube, Anya'nın otağında bekledi. Gözleri uykusuzluktan şişmişti; üzerinde büyücü cüppesi değil, Genç Kurtların aşınmış yol ceketi vardı.
 
-Sube, bu sözlere, hiçbir şey söylemedi — ama gözyaşları, ilk kez, o gün, bir suçluluktan çok, gerçek bir yasa dönüştü.
+"Belgeyi ben götürdüm," dedi. "Karakçı aldı. İki gün sonra öldü. Herkes katili bilmediğimizi söylüyor. Bu, yolu benim açmadığım anlamına gelmiyor."
+
+Togan ona avutucu bir cevap vermedi. Kendi suçunu tek cümleye sığdırıp kaçtığı günleri anlattı. Kaya'nın ölüm zincirinde kendi payını inkâr etmemiş, fakat zincirin tamamını kendisi ilan ederek başkalarının kararlarını ve bilinmeyen failin eylemini de yutmuştu.
+
+"Benim payımı benden alma," dedi Sube.
+
+"Almayacağım. Sen de Karakçı'nın seçimini ve katilin payını kendine yazma."
+
+Sube, belgeyi götürmeyi kendi isteğiyle kabul ettiğini; Temujin'in riski anlattığını; Karakçı'nın cevap vermek zorunda olmadığını kayda geçirmişti. Bunların hiçbiri ölümü geri almıyordu. Hiçbiri onu tek başına ölümün sahibi de yapmıyordu.
+
+"Açık tanıklığa devam edeceğim," dedi sonunda. "Bağışlanmak için değil. Bir daha gizli yol kurulursa ilk itiraz eden ben olayım diye."
+
+Togan mezarda kurduğu cümleyi düşündü. Bilmediği boşluğu kesinlikle doldurmamak, yasın en gösterişli biçimi değildi. Belki en dürüst olanıydı.

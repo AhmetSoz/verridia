@@ -39,7 +39,7 @@
 - [00_PLAN_kisim1.md](../roman/00_PLAN_kisim1.md) — 1. Kısım "Kül ve Kan Yemini" (14 bölüm) — Togan'ın ayrılışı, Temujin'in hırsı, Karia'nın sarayı, Zaleena'nın limanı.
 - [01_PLAN_kisim2.md](../roman/01_PLAN_kisim2.md) — 2. Kısım "Kanatların Düşüşü" (15 bölüm) — Kaya esir alınıyor, Roric'in seferi hezimetle bitiyor, Severin kontrol altına alınıyor.
 - [02_PLAN_kisim3.md](../roman/02_PLAN_kisim3.md) — 3. Kısım "Gölgelerin Ordusu" (11 bölüm) — Karia Gelgit Vârisi ilan ediliyor, Zaleena Enkaz Kraliçesi seçiliyor, Kartal-Yurdu düşüyor (Börü yaralı), Togan Sed'e ulaşıp Perren'le tanışıyor.
-- [03_PLAN_kisim4.md](../roman/03_PLAN_kisim4.md) — 4. Kısım "Kızıl Hafta" (13 bölüm) — **1. KİTABIN DORUK NOKTASI VE KAPANIŞI.** Togan'ın kanı Sed'le rezonansa giriyor (kısmi ifşa), Temujin Sungurlar'ı kansız teslim alıp Kaya'yı özgür bırakıyor, Karia taç giyip Kraliçe oluyor (Kral'ın huzurlu ölümü), Zaleena Enkaz Kraliçesi olarak tam meşruiyet kazanıyor.
+- [03_PLAN_kisim4.md](../roman/03_PLAN_kisim4.md) — 4. Kısım "Kızıl Hafta" (13 bölüm) — **1. KİTABIN DORUK NOKTASI VE KAPANIŞI.** Togan'ın kanı Sed'le rezonansa giriyor (kısmi ifşa), Temujin Sungurlar'ı kansız teslim alıp Kaya'yı özgür bırakıyor, Karia taç giyip Kraliçe oluyor (Kral'ın huzurlu ölümü); Zaleena'nın beş balıkçıyı kurtardığı Deniz-Titreten seferinde Finn ölüyor ve bu bedel onun Enkaz Kraliçesi olarak meşruiyetine eşlik ediyor.
 - `kisim1/` → `kisim4/` klasörleri — toplam 53 bölümün tam metni.
 
 **2. KİTAP TAMAMLANDI (8 Kısım, 182 bölüm) — “Dört Yol, Ayrı Mühürler” ile kapandı**
@@ -52,12 +52,14 @@
 - [10_PLAN_KITAP2_kisim11.md](../roman/10_PLAN_KITAP2_kisim11.md) — 11. Kısım "Büyük Uzlaşma" (`kitap2_kisim7/`, 13 bölüm) — Toruk güvenli geçişle ifade veriyor; Korgan ile Temujin ani dostluk yerine doksan günlük `Tuz Düzlüğü Mutabakatı`nı imzalıyor.
 - [11_PLAN_KITAP2_kisim12.md](../roman/11_PLAN_KITAP2_kisim12.md) — 12. Kısım (`kitap2_kisim8/`, 9 bölüm) — Kuru Dere baskını püskürtülüyor, Malakor makamının saha yetkisi kısmen askıya alınıyor; dört özerk bozkır tarafı ayrı mühürlerle sözleşme kuruyor, Hegemonya ve Yamalı Liman ayrı protokollerle bağlanıyor — **İKİNCİ KİTAP FİNALİ.**
 
-**3. KİTAP DEVAM EDİYOR (3 Kısım, 71 bölüm yazıldı)**
+**3. KİTAP TAMAMLANDI (5 Kısım, 123 bölüm)**
 - [12_PLAN_KITAP3_kisim1.md](../roman/12_PLAN_KITAP3_kisim1.md) — 1. Kısım "Sessiz Taşlar" (`kitap3_kisim1/`, 28 bölüm) — İttifakın ilk dış sınavı, Sessiz Taşlar gizemi ve Kaya'nın ölümüyle gelen kalıcı kırılma.
 - [13_PLAN_KITAP3_kisim2.md](../roman/13_PLAN_KITAP3_kisim2.md) — 2. Kısım "Kırılan Düğüm" (`kitap3_kisim2/`, 23 bölüm) — Sungur özerkliği, Temujin'in gri kararının Karakçı'nın ölümüyle sonuçlanması ve Togan'ın Işık Seddi yolculuğu.
-- [14_PLAN_KITAP3_kisim3.md](../roman/14_PLAN_KITAP3_kisim3.md) — 3. Kısım "Büyük Döngü" (`kitap3_kisim3/`, 20 bölüm yazıldı) — iki mührün aynı sistemin parçaları olabileceği ortaya çıkıyor; döngü aktif faza giriyor.
+- [14_PLAN_KITAP3_kisim3.md](../roman/14_PLAN_KITAP3_kisim3.md) — 3. Kısım "Büyük Döngü" (`kitap3_kisim3/`, 24 bölüm) — Sable kendi şartlarıyla ilk denemeyi kabul ediyor; Malakor'un karşıt kan ve gümüş ağ hazırlığı kanıtlanıyor; deniz taşının aktif fazı doğu iskelesini yıkıyor.
+- [15_PLAN_KITAP3_kisim4.md](../roman/15_PLAN_KITAP3_kisim4.md) — 4. Kısım "İkinci Anahtar" (`kitap3_kisim4/`, 28 bölüm) — Gümüş ağ kırıldı fakat Sable sağ gözünü kaybetti; Malakor'un halefiyet düzeni askıya alındı; dış koy feda edildi ve son vuruşla hasat eşiği başladı. **KISIM TAMAMLANDI.**
+- [16_PLAN_KITAP3_kisim5.md](../roman/16_PLAN_KITAP3_kisim5.md) — 5. Kısım "Tam Seçim" (`kitap3_kisim5/`, 20 bölüm) — Sed'in bilinen yolu Togan ile Sable'ın ayrı rızalarıyla kapandı; Malakor makamı tasfiye edildi; Derin-Yosun çekildi, Yamalı Liman yeni kıyıya taşındı ve üçleme çarpık söğütte yeni yuvayla kapandı. **ÜÇÜNCÜ KİTAP FİNALİ.**
 
-**Güncel açık uçlar:** Togan'ın "tam seçim" günü; Yeşil-Göz Sable ile karşılaşma; Büyük Döngü'nün aktif fazdaki ilk somut krizi; Coren Vex üzerinden başlayan Delta iş birliğinin sonucu; Malakor'un güç kaybına vereceği karşılık; Karanlık Varlık'ın kimliği ve amacı.
+**Üçleme sonunda bilinçli rezervler:** Karanlık Varlık'ın kimliği ve bütün amacı; Hasat'ta alınanların kesin akıbeti; kapatmaya verilecek gelecekteki Işıyan karşılığı; Verridia'nın başka kıtaları ve daha eski döngüleri. Bunlar unutulmuş açık değil, sonraki seri için sahipli kanon rezervleridir.
 
 ### Harita & Site klasörü (`../harita_ve_site/`)
 - [01_harita_spec_olculu.md](../harita_ve_site/01_harita_spec_olculu.md) — Koordinat sistemi, tüm yerleşimlerin (x,y) ve % konumları, bölge çokgenleri, mesafe doğrulama. Görsel üretimi ve site hotspot'larının tek referansı.

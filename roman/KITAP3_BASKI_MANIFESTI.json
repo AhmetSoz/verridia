@@ -1,0 +1,74 @@
+{
+  "book": 3,
+  "title": "Tam Seçim",
+  "expectedChapterCount": 123,
+  "expectedFasilCount": 31,
+  "parts": [
+    {
+      "id": 1,
+      "title": "Sessiz Taşlar",
+      "directory": "kitap3_kisim1",
+      "fasillar": [
+        { "title": "Sessizlikten Sonra", "start": 1, "end": 4 },
+        { "title": "Şüphe ve Açıklık", "start": 5, "end": 8 },
+        { "title": "Dört Toprağın Uyarısı", "start": 9, "end": 12 },
+        { "title": "Taşların Haritası", "start": 13, "end": 16 },
+        { "title": "Yola Çıkan Dört Taraf", "start": 17, "end": 20 },
+        { "title": "Merkeze Giden Çizgiler", "start": 21, "end": 24 },
+        { "title": "Ardında Bıraktıkların", "start": 25, "end": 28 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kırılan Düğüm",
+      "directory": "kitap3_kisim2",
+      "fasillar": [
+        { "title": "Yas ve İlk Yalan", "start": 1, "end": 4 },
+        { "title": "Kitaplar ve Kıyı", "start": 5, "end": 8 },
+        { "title": "Uyarı ve Ortak Yük", "start": 9, "end": 12 },
+        { "title": "Sessiz Bir İsim", "start": 13, "end": 16 },
+        { "title": "Ölü Topraklardan Tahliyeye", "start": 17, "end": 20 },
+        { "title": "Kırılan ve Kaynayan", "start": 21, "end": 23 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Büyük Döngü",
+      "directory": "kitap3_kisim3",
+      "fasillar": [
+        { "title": "Taş, Emsal, Deniz", "start": 1, "end": 4 },
+        { "title": "Ortak Sessizlik", "start": 5, "end": 8 },
+        { "title": "Daralan Pencere", "start": 9, "end": 12 },
+        { "title": "İkinci Anahtarın İzi", "start": 13, "end": 16 },
+        { "title": "Kor-Ateşler ve Miras", "start": 17, "end": 20 },
+        { "title": "Kendi Şartları, Açılan Kayıt", "start": 21, "end": 24 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "İkinci Anahtar",
+      "directory": "kitap3_kisim4",
+      "fasillar": [
+        { "title": "Dört İmza", "start": 1, "end": 4 },
+        { "title": "Ters Akış ve Sığ Su", "start": 5, "end": 8 },
+        { "title": "Yolun Fiyatı", "start": 9, "end": 12 },
+        { "title": "Rıza, Oy ve Omurga", "start": 13, "end": 16 },
+        { "title": "Yanlış Ateş, Dış Rıhtım", "start": 17, "end": 20 },
+        { "title": "Gümüş Ağ ve Kesilen Boyun", "start": 21, "end": 24 },
+        { "title": "Sed'in Dili, İlk Kızıl Su", "start": 25, "end": 28 }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tam Seçim",
+      "directory": "kitap3_kisim5",
+      "fasillar": [
+        { "title": "İki Yol, Dört Cephe", "start": 1, "end": 4 },
+        { "title": "Çatlak ve Yanlış Emir", "start": 5, "end": 8 },
+        { "title": "Gölge ve Limanın Ölümü", "start": 9, "end": 12 },
+        { "title": "Tam Seçim", "start": 13, "end": 16 },
+        { "title": "Mührü Olmayan Zafer", "start": 17, "end": 20 }
+      ]
+    }
+  ]
+}

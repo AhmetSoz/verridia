@@ -107,7 +107,7 @@ Vex Ailesi* (asit/silah) — başı: Bey Doran Vex* (~60, hasta). İki oğlu aç
 
 ### 3.5 Diğer çekirdekler
 - **Temürçi:** Usta Hekat (~60) — halef adayları: Kalfa Elara (yenilikçi) vs Usta Darga* (gelenekçi kanadın adayı). "Şaheser" yarışı, fiilen veraset yarışıdır.
-- **Korsan:** Roric (~55, Enkaz Kralı) — vâris kavramı yok; Zaleena (~35) beklemede. Finn (~60+).
+- **Korsan:** Roric (~55, Enkaz Kralı) — vâris kavramı yok; Zaleena (~35) beklemede. Finn (~60+, Kitap 1 Kızıl Hafta'da öldü).
 - **Granit:** Thorgar (100+), fiilî halef yarışı Yrsa (savunmacı-açılımcı) ile kurulun kapanmacı yaşlıları arasında.
 - **Mirasçı:** Yaşlı Ozan (yaş bilinmez) → doğal halef Baş Kâtip Lyra.
 - **Togan (~26):** Resmî kayıt: "Azgut baskınında yetim kalan, Alpagu Han'ın himayesinde büyüyen bulunmuş çocuk." Gerçeği aşağıda.

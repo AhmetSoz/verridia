@@ -1,32 +1,34 @@
 # Bölüm 11 — Ortak Yükün Ağırlığı
 *(KARIA)*
 
-Zaleena'dan gelen mesaj, Karia'ya, kendi yalanının, tek başına taşıdığı bir yük olmadığını hatırlattı — Sungur krizi, Delta'nın gölgesi, ve şimdi, boşaltılan bir köyün sessizliği, hepsi, aynı büyük terazinin farklı kefelerindeydi.
+Zaleena'nın güvenli kanaldan gönderdiği mesaj, Ferrin'in Yamalı Liman kayıtlarında iki kez göründüğünü bildiriyordu. Mesajın sonunda tek bir kişisel cümle vardı: *İki ayrı krizi izliyorum ve bazen ikisini de yarım gördüğümden korkuyorum.*
 
-*Temujin sessiz kalıyor,* diye yazmıştı Zaleena. *Ben de sessiz kalıyorum, çünkü müdahale etmenin daha kötü olacağını düşünüyorum. Ama bu sessizlik, beni yiyip bitiriyor.*
+Karia cevap vermeden önce Elowen'e Sarıkavak yalanını Zaleena'ya açıp açmaması gerektiğini sordu.
 
-Karia, bu satırları okurken, kendi sessizliğini de düşündü — boşaltılan köyün halkına söylemediği gerçeği.
+"Bunu ona yükünü paylaşmak için mi, kararını onaylatmak için mi anlatacaksın?"
 
----
+Karia hemen cevap veremedi.
 
-"Zaleena'ya ne yazacaksın?" diye sordu Elowen.
+"Onay istemiyorum."
 
-"Bilmiyorum. Ona, 'ben de yalan söylüyorum, bu yüzden anlıyorum' mu diyeceğim? Bu, teselli mi, itiraf mı olur?"
+"O hâlde ona ne bildiğini, ne yaptığını ve bundan sonra ne yapacağını yaz. Vicdan azabını taşımasını isteme."
 
-Elowen, bu soruya, doğrudan bir cevap vermedi. Bunun yerine, kendi gözlemini paylaştı. "Belki, ikiniz de, aynı hatayı, farklı biçimlerde yapıyorsunuz — yükü, paylaşmak yerine, tek başınıza taşımaya çalışıyorsunuz. Sanki, paylaşmak, zayıflık gibi."
+✦
 
----
+Karia mektubunda dört kaybı, yeşil ışığı, humma yalanını ve köyün boşaltılmasını anlattı. Hallis'in gerçek kaydı tuttuğunu, fakat halkın ve ailelerin tamamının bilmediğini de ekledi.
 
-Bu söz, Karia'yı, alışılmadık bir karara yöneltti. O gün, Zaleena'ya, uzun, dürüst bir mektup yazdı — sadece durumu değil, kendi vicdan azabını da anlatan bir mektup.
+*Senden bağışlanma istemiyorum,* diye yazdı. *Deniz taşındaki değişimin Sarıkavak'la aynı zamana denk gelip gelmediğini bilmek istiyorum. Ayrıca bu bilgiyi konseye kapalı kayıtla açacağım. Kendi halkıma söylemediğim gerçeği müttefik kararlarından da saklarsam onları yanlış veriye dayanarak riske atarım.*
 
-*Ben de bir yalan söylüyorum, Zaleena. Halkıma, gerçek tehdidi anlatmadım. Ve her gün, bu yalanın, ne zaman patlayacağını merak ediyorum. Belki, ikimiz de, yanlış yapıyoruz. Ama en azından, artık, yalnız yanlış yapmıyoruz.*
+Zaleena'nın cevabı üç gün sonra geldi.
 
-Zaleena'nın cevabı, üç gün sonra geldi — kısa, ama Karia'nın beklediğinden daha sıcak: *Teşekkür ederim. Bunu söylemek, sandığından daha zor olmalı. Ve şimdi, en azından, ikimiz de biliyoruz ki, diğer taraf, yargılamıyor — sadece anlıyor.*
+*Zaman çizelgelerini karşılaştıracağım. Fakat önce şunu soruyorum: kayıpların aileleri ne biliyor ve köylülerin gerçeği hangi tarihte duyacak? Bir bitiş tarihi yoksa bu tedbir değil, kalıcı bir devlet sırrıdır.*
 
----
+Karia mektubu Elowen'e uzattı. Zaleena onu yargılamadığını da, anladığını da yazmamıştı. Daha yararlı bir şey yapmış, kararın açık ucunu göstermişti.
 
-O akşam, Karia, kendi meclisini topladı — köyün gerçek durumu hakkında değil, ama farklı bir konuda: Hegemonya'nın, artık, Sessiz Taşlar hakkında, dört toprakla, tam bir bilgi paylaşımı içinde olması gerektiği hakkında.
+✦
 
-"Kendi halkıma söyleyemediğim gerçeği," dedi Karia, meclise, "en azından müttefiklerimden saklamayacağım. Bu, belki, küçük bir fark. Ama bir kraliçe, bazen, sadece küçük farklarla, kendine tahammül edebiliyor."
+Karia aynı gün kapalı konseye bütün Sarıkavak dosyasını verdi. Kaynaklar ayrı işaretlendi; taş bağının doğrulanmadığı başlığa yazıldı. Hegemonya, ortak gözlem kararını eksik bilgiyle yönlendirmeyecekti.
 
-Elowen, bu kararı, sessiz bir gururla izledi — çünkü biliyordu ki, Karia'nın vicdanı, hâlâ, tam olarak sessizleşmemişti. Ve bu, iyi bir işaretti.
+Halka açılma tarihi için yedi günlük hazırlık süresi koydu. Bu sürede barınma, erzak ve kıyı güvenliği planı tamamlanacaktı. Hallis sürenin uzatılmasına tek başına izin veremeyecek, tam meclis oyu gerekecekti.
+
+Karia ortak yükün hafiflediğini hissetmedi. Yük paylaşılınca yalnızca daha çok insan onun biçimini görebiliyordu. Belki hesap vermenin başlangıcı buydu.

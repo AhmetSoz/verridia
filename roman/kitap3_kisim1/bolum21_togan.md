@@ -1,30 +1,30 @@
 # Bölüm 21 — İlk Harita
 *(TOGAN)*
 
-Üç hafta sonra, dört topraktan gelen ilk haritalama raporları, Genç Kurtlar karargâhında, bir araya getirildi — Togan, kendi bölgesindeki bulguları, bizzat, işaretlemişti.
+Üç hafta sonra dört topraktan yüz on iki ihbar geldi. Bunların seksen biri sıradan kaya, eski mezar işareti ya da Akıntı işli alet olarak elendi. Yirmi dördü doğrulanmayı bekliyordu. Yalnız yedi bulgu ikinci sınıfa ulaştı.
 
-Sonuç, beklediklerinden, çok daha rahatsız ediciydi: taşlar, rastgele dağılmamıştı. Haritada, birleştirildiğinde, belli belirsiz, büyük bir daire biçiminde, bir örüntü oluşuyordu.
+Togan sayının azlığına sevindi. Haritada yedi yanlış kesinliktense yedi dikkatli nokta vardı.
 
-"Bu," dedi Kaya, haritayı, dikkatle inceleyerek, "tesadüf olamaz. Birileri — ya da bir şey — bunları, kasıtlı olarak, bu şekilde yerleştirmiş."
+Kaya noktaların yanına her taştaki oyukların yönünü çizdi. Taşlar kusursuz bir daire oluşturmuyordu. İkisi halka dışında kalıyor, birinin konumu iki günlük yol payıyla ancak biliniyordu. Buna rağmen oyukların beşi aynı geniş bölgeye bakıyordu.
 
----
+"Tesadüf olamaz," dedi Kaya.
 
-Togan, kendi sezgisini, bir kez daha, haritanın üzerine, yoğunlaştırdı — ve dairenin merkezinde, henüz haritalanmamış bir bölge olduğunu fark etti.
+Mirel hemen itiraz etti. "Olabilir. Yedi noktayla istediğimiz kadar çember çizebiliriz."
 
-"Orada," dedi Togan, haritanın boş bir noktasını işaret ederek. "Merkezde, hiçbir şey işaretlenmemiş. Ama hissediyorum ki, en güçlü şey, tam olarak orada."
+Kaya kalemi bıraktı. "O zaman ne diyebiliriz?"
 
-Kaya, bu bölgeyi, dikkatle inceledi. "Bu, kimsenin toprağı değil — haritalarımıza göre, terk edilmiş, eski bir bölge."
+"Yönlerin kesiştiği yerin araştırılmaya değer olduğunu. Daha fazlasını değil."
 
----
+✦
 
-Bu keşif, Togan'ı, derin bir endişeye sürükledi. Eğer merkez, en güçlü noktaysa, ve eğer bu, kasıtlı bir düzenlemeyse, o zaman, sessiz taşlar, tesadüfi bir doğa olayı değil, çok daha eski, çok daha amaçlı bir şeyin, parçasıydı.
+Kesişim, eski haritalarda sahipsiz görünen geniş bir araziye düşüyordu. Gerçekte sahipsiz değildi; üç göç yolu onu çevreliyor, fakat hiçbiri içinden geçmiyordu. Yerel anlatılar bölgeye "Kör Düzlük" diyordu. Neden bu adı aldığı kaydedilmemişti.
 
-"Bunu, hemen, dört toprağın konseyine bildirmeliyiz," dedi Togan, Temujin'e dönerek.
+Togan elini haritanın üzerinde tuttu. Bileğinde hiçbir şey hissetmedi.
 
-Temujin, haritayı, bir kez daha inceledikten sonra, ciddi bir ifadeyle başını salladı. "Ve belki, birinin, o merkeze, dikkatle, gitmesi gerekecek."
+"Merkezde en güçlü taş var diyemem," dedi. "Haritadan madde sezilmiyor."
 
----
+Temujin boş bölgeyi işaretledi. "Ama beş yön oraya bakıyor ve elimizde o bölgeden tek bir gözlem yok. Önce bunun nedenini bulmalıyız."
 
-O gece, Togan, kendi çadırında, bu olasılığı düşünürken, tuhaf bir kesinlikle fark etti: eğer, biri, o merkeze gitmesi gerekiyorsa, bu, muhtemelen, kendisi olacaktı — sezgisi, bu tür şeyleri, herkesten daha net hissediyordu.
+Kaya eski göç yollarını araştırmayı, Togan ise yaklaşma sırasında bedensel tepkisini kaydedecek bağımsız bir şifacı bulunmasını önerdi. Taşı bulmak kadar, hiçbir şey bulamama ihtimalini de doğrulamaları gerekiyordu.
 
-Korkuyor muydu? Evet. Ama bu korkunun altında, aynı zamanda, tuhaf bir kararlılık da vardı — çünkü artık, biliyordu ki, bu gizemin cevabı, sadece meraktan değil, hepsinin geleceğinden, ayrılamazdı.
+Gece Togan haritadaki boşluğu düşündü. Oraya gitmesi gerekeceğini biliyordu; bunu kanının çağrısı değil, masaya koyabileceği benzersiz ve sınırlı bir gözlem yetisi söylüyordu. Korkusu da bu kez bilinmeyen bir kaderden değil, vereceği kararın gerçekten kendisine ait olmasından geliyordu.

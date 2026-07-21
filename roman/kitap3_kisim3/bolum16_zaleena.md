@@ -1,32 +1,26 @@
 # Bölüm 16 — Adım Adım Güven
 *(ZALEENA)*
 
-Coren'in ikinci mesajı, doğrulama sürecinin bir parçası olarak, Zaleena'ya ulaştı — bu sefer, Delta'nın, kendi kıyı devriyelerinin, hangi rotaları izlediğine dair, ayrıntılı bir bilgi.
+Coren ikinci doğrulama için tamamlanmış üç devriyenin rotasını verdi. Tarihler iki hafta öncesine aitti; bilgi güncel bir gemiyi pusuya düşürmeye yetmiyordu. Rotaların birinde Delta tekneleri, tartışmalı Kamış Sığlığı'na gece yarısından sonra giriyor ve fenerlerini iki kez kapatıyordu.
 
-"Bu bilgi," dedi Draven, raporu incelerken, "gerçek olamayacak kadar değerli. Ya çok büyük bir güven işareti, ya da çok tehlikeli bir tuzak."
+Yamalı Liman'ın kıyı gözcüleri aynı gecelere ait ışık kayıtlarını çıkardı. İki tarih tam uyuştu. Üçüncü gecede sis yüzünden yalnız tek fener görülmüştü. Delta'dan bağımsız iki tuz teknesinin seyir defteri de sığlıktaki geçiş saatlerini destekledi.
 
-Zaleena, bu ihtiyata, katıldı. "Doğrulayalım, her zamanki gibi. Ama bu sefer, kendi gemilerimizden birini, uzaktan, bu rotaları gözlemlemesi için gönderelim."
+Draven, "Geçmişi doğru anlatması yarını doğru anlatacağı anlamına gelmez," dedi.
 
----
+"Hayır. Ama rastgele bilgi vermediğini gösterir."
 
-Üç gün süren gizli bir gözlemden sonra, rapor geldi: bilgi, doğruydu, rotalar, tam olarak, Coren'in söylediği gibiydi.
+Coren, bir sonraki adım olarak aynı sığlıkta iki tarafın devriyelerinin çarpışmasını önleyecek sınırlı bir düzen önerdi. Delta tekneleri üç gece boyunca doğu kanalını, Yamalı Liman batı kanalını kullanacaktı. Saatler ve işaretler önceden kayda girecek; iki taraf da ötekinin kıyısına yaklaşmayacaktı.
 
-Bu doğrulama, Zaleena'yı, garip bir ikilemde bıraktı — bir yandan, bu, gerçek bir iş birliğinin başlangıcı olabilirdi; öte yandan, bu kadar değerli bir bilgiyi, bu kadar kolay vermek, hâlâ, kuşku uyandırıyordu.
+Bu, askerî devriyeyi azaltmak değildi. İki devriye arasındaki yanlış çatışma riskini düşüren geçici bir ayrımdı.
 
-"Belki," dedi Kessel, bu ikilemi tartışırlarken, "Coren, gerçekten, büyük bir risk alıyor. Bu bilgiyi verdiği anlaşılırsa, kendi hayatı tehlikede."
+Zaleena karşılık vermeden önce balıkçıların geçişini sordu. Batı kanalı iki köyün sabah rotasıydı. Düzen geceyle sınırlanıp şafaktan iki saat önce bitecek biçimde değiştirildi. Her iki taraftan birer silahsız kurtarma teknesi sığlığın dışında bekleyecekti.
 
----
+Coren öneriyi kabul etti. Üç gece boyunca işaretler doğru zamanda yakıldı. İkinci gece Delta teknesi batıya yarım mil saptı; Yamalı Liman devriyesi saldırı saymak yerine kayıtlı uyarı fenerini yaktı. Tekne kendi kanalına döndü. Ertesi gün Delta açıklamasında dümen arızası bildirildi. Sebep doğrulanamadı, sapma saklanmadı.
 
-Bu düşünce, Zaleena'yı, Coren'e karşı, ilk kez, gerçek bir empatiyle yaklaşmaya yöneltti. "Eğer o, bizim için risk alıyorsa, biz de, ona, karşılık olarak bir şey sunmalıyız — sadece test etmekle kalmamalıyız."
+Kessel düzenin uzatılıp uzatılmayacağını sordu.
 
-Dört toprağın konseyi, bu öneriye, temkinli bir onay verdi — Coren'e, karşılığında, küçük ama gerçek bir jest: Yamalı Liman'ın, Delta sularında, belirli bir bölgede, devriye faaliyetini azaltacağı sözü.
+"Üç gecelik sonuç üç aylık güven vermez," dedi Zaleena. "Bir üç gece daha deneriz. Sonra yeniden karar veririz."
 
----
+Coren'in aldığı karşılık, gizli bir askerî harita değildi. Kendi önerisinin değiştirilmiş ve denetlenebilir biçimde uygulanmasıydı. Ayrıca tanık statüsünün dört tarafça tanınması, onu tek bir hükümdarın lütfuna bağlı olmaktan çıkardı.
 
-O gece, bu kararın, ne kadar büyük bir adım olduğunu, Zaleena, ancak, Kessel'le konuşurken tam olarak kavradı.
-
-"Bir yıl önce," dedi Zaleena, "Delta'ya, hiçbir şekilde güvenmezdik. Şimdi, onlarla, küçük de olsa, bir anlaşma yapıyoruz."
-
-"Malakor'un başarısızlığı," dedi Kessel, "belki, bize, ummadığımız bir kapı açtı."
-
-Zaleena, bu düşünceye, sessizce başını salladı — çünkü, ilk kez, aylardır, İttifak'ın, sadece savunmada değil, ilerleyişte de olduğunu hissediyordu. Belki, Büyük Döngü yaklaşıyordu, ama en azından, artık, onu, sadece dört değil, belki, beşinci bir müttefikle karşılayabilirlerdi.
+Delta beşinci müttefik olmamıştı. Malakor da yenilmemişti. Kamış Sığlığı'nda altı gece boyunca iki taraf birbirini yanlışlıkla öldürmemeyi başardı. Zaleena bu küçük sonucu büyütmedi; küçümsemedi de.

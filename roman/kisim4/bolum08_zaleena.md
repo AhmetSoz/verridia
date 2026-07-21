@@ -61,6 +61,8 @@ Balıkçı teknesine gidiş ve dönüş normal kürekle kırk nefesti. Rüzgâr 
 
 Deniz Hayaleti'ni hazırlattı. Güverteye yalnız on iki kişi aldı. Herkes belinden gemiye bağlandı. İki bordaya uzun kancalar, kıça bütün yelkenler hazırlandı.
 
+Dümeni Finn'e verdi. Yaşlı usta, önceki saldırıda kendi deneme teknesini iki kez sığ sudan çıkarmıştı; limanda kırık bir yekeyi ondan hızlı okuyacak kimse yoktu. Kıyıdaki kurtarma kollarını iki çırağına devretti. Zaleena, Finn'in adını görev çizelgesine kendi eliyle yazdı. Onu gemiye almak gerekliydi. Gerekli olması, tehlikeyi küçültmüyordu.
+
 Tayfadan üçü daha önce felç dalgasına maruz kalmıştı. Zaleena onları çıkardı; ikinci darbenin ne yapacağı bilinmiyordu. Yerlerine gönüllü çağırmadı. Kürek sırasından en hızlı altı kişiyi ve halat işinde en az hata yapan dört tayfayı kayıt üzerinden seçti.
 
 “Gitmek istemeyen şimdi söylesin,” dedi.
@@ -115,13 +117,13 @@ Deniz Hayaleti döndü. İlk felç Zaleena'nın parmaklarından başladı. Sağ 
 
 Dalga kıç taraftaki iki tayfayı yere serdi. Direktekiler yelkeni bırakmadı. Rüzgâr onları menzilden çıkardı.
 
-Yaratığın üçüncü ışığı arkalarında yandı. Dalga bu kez geminin dümenini titretip demir bağlantılardan birini çatlattı. Dümen sağa kilitlendi. Sorin iki kürekçiyi kıça gönderdi; uzun kürekleri suya çapraz sokarak geminin burnunu limana çevirdiler.
+Yaratığın üçüncü ışığı arkalarında yandı. Dalga bu kez geminin dümenini titretip demir bağlantılardan birini çatlattı. Yeke bütün ağırlığıyla sola savrulup Finn'i kıç küpeşteye sıkıştırdı. Yaşlı ustanın ağzından hava çıktı; sesi çıkmadı. Dümen sağa kilitlendi. Sorin iki kürekçiyi kıça gönderdi; uzun kürekleri suya çapraz sokarak geminin burnunu limana çevirdiler. Finn güverteden kaldırıldığında gözleri açıktı, fakat Zaleena'nın sorusuna cevap veremedi.
 
 Kıyıdaki mavnaların ardında yüzlerce kişi bekliyordu. Draven çıkış yolunu açık tutmak için taş mavnalardan birini erkenden batırmış, ötekileri zincirle geri çekmişti. Deniz Hayaleti dar aralıktan geçerken bordası taşa sürttü. İçeri girdiği anda son mavna da arkasında batırıldı.
 
 ---
 
-Zaleena limana döndüğünde yürüyemiyordu. Tayfalar onu bir kapı tahtasının üzerinde kıyıya taşıdı. Kurtardıkları beş balıkçıdan dördü gözlerini açmıştı; beşincisi nefes alıyor fakat konuşamıyordu.
+Zaleena limana döndüğünde yürüyemiyordu. Tayfalar onu bir kapı tahtasının üzerinde kıyıya taşıdı. Finn, sökülmüş bir yelkenin içinde, ondan hemen önce revire götürüldü. Kurtardıkları beş balıkçıdan dördü gözlerini açmıştı; beşincisi nefes alıyor fakat konuşamıyordu.
 
 Gönüllü olarak gemiye binen Draven tayfasının sağ kolu da çalışmıyordu. İki kürekçinin kulaklarından kan gelmişti. Zaleena şifacılara önce onları götürmelerini söyledi. Kendisini taşıyanlar emri duymazdan gelince kapı tahtasından inmeye çalıştı; bacakları tutmadı ve taşlara düştü.
 
@@ -134,6 +136,12 @@ Kalabalık alkışlamadı. İnsanlar, denizin bir hükümdarı bile ne hâle get
 Kurtarılan balıkçılardan yaşlı olanı, konuşur konuşmaz dışarıda bıraktıkları teknenin kime ait olduğunu sordu. Zaleena teknenin kaybedildiğini söyledi. Adam ağlamaya başladı. Beş canı kurtulmuştu; yine de ailesinin bütün geçimi denizde kalmıştı.
 
 Zaleena ona minnet beklemedi. Ortak savunma kasasından yeni tekne sözü de vermedi. Önce hasar kurulunun kaç teknenin kaybolduğunu ve elde ne kaldığını sayması gerekiyordu. Yalnız adamın adını, teknenin adını ve yanında çalışan dört kişinin payını kayda aldırdı.
+
+Gün batarken Sorin revirden döndü. Elinde Finn'in reçine kararmış keskisi vardı.
+
+“Öldü,” dedi.
+
+Finn kendine gelmemişti. Bir son söz bırakmamış, kimi suçlayacağını ya da teknesine ne yapılacağını söylememişti. Zaleena görev çizelgesini istedi. Finn'in adının karşısında kendi el yazısı duruyordu: *dümenci*. Sözcüğün üstünü çizmedi. Yanına ölüm saatini yazdı.
 
 Roric gece kamaradan çıkıp Zaleena'nın yanına geldi. Bir kolunu duvara dayayarak yürüyordu.
 
@@ -169,7 +177,7 @@ Zaleena gözlerini kapattı. Kessel kayıt tutabiliyor, Draven savunmayı yönet
 
 Roric cevap vermedi. Masanın üstündeki kayıp defterine baktı. Sonra ilk kez, kalem istemeden kendi adını sağ kalanların altına yazdı.
 
-Altına kurtarma gemisindeki on iki adı, beş balıkçıyı ve kıyıda felç geçiren iki gözcüyü ekledi. Ardından boş bir satır bıraktı.
+Altına kurtarma gemisinden sağ dönenlerin adlarını, beş balıkçıyı ve kıyıda felç geçiren iki gözcüyü ekledi. Finn'in adını, kurtardığı insanların altına tek başına yazdı. Ardından boş bir satır bıraktı.
 
 “Bu ne için?” diye sordu Zaleena.
 

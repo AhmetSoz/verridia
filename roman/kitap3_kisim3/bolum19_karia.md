@@ -1,34 +1,28 @@
 # Bölüm 19 — Meziyet ve Miras
 *(KARIA)*
 
-Meziyet meclisleri, artık, on iki bölgede faaliyet gösteriyordu — ve Karia, bu genişlemenin, beklenmedik bir sonucunu, o ay, ilk kez, gözlemledi: bazı eski soylu aileler, kendi ayrıcalıklarını kaybetmekten, açıkça rahatsızdı.
+Sarıkavak pilotunun üçüncü ay ara denetimine kadar iki bölgede daha yerel meziyet kurulu çalışmaya başladı; dokuz bölge hazırlık dosyası açtı. Aynı model kopyalanmadı. Maden kasabası iş güvenliğini, tarım bölgesi su paylaşımını öne aldı. Üç etkin kurulda halk oylaması, süreli yetki ve açık itiraz yolu ortaktı.
 
-"Lord Hallis," dedi Corvus, bir raporu sunarken, "meziyet meclislerinin, 'sıradan insanlara, hak etmedikleri bir güç verdiğini' söylüyor. Sessizce, kendi çevresinde, destek topluyor."
+Hallis'in denetçileri ara incelemede bir sorun buldu. İki kurul, ilk üyelerinin yetiştirdiği adaylara diğerlerinden yüksek puan vermişti. Usulsüz ödeme yoktu. Buna rağmen yeni bir çevre kendi devamlılığını üretmeye başlamıştı.
 
-Karia, bu haberi, ciddiyetle karşıladı — çünkü, biliyordu ki, her reform, kendi muhalefetini yaratırdı.
+Eski soylu aileler raporu programı kaldırmak için kullandı. Ortak bildirilerinde sıradan insanların hazırlıksız yetki aldığını yazdılar. Hallis ise kendi adını bu bildiriye koymadı.
 
----
+Karia onu açık oturuma çağırdı. "Raporun reformun düşmanlarına yaradı."
 
-"Ona ne yapmalıyım?" diye sordu Karia, Elowen'e. "Susturmalı mıyım, yoksa dinlemeli miyim?"
+"Raporun görevi size yaramak değildi," dedi Hallis. "Sorunu bulmaktı."
 
-"Dinle," dedi Elowen, hiç tereddüt etmeden. "Vorlag'ı hatırla. Onu susturmaya çalışsaydın, düşman kalırdı. Onu dinleyip, kısmen tatmin ettiğinde, müttefik oldu."
+Karia cevabı beğenmediğini yüzünden saklamadı; yine de sözün doğruluğunu kabul etti. Hallis üç önlem önerdi: Kurul üyesi kendi öğrencisine puan veremeyecek, iki dönem üst üste görev yapılamayacak ve dış denetçilerin yarısı başka bölgelerin halk kurullarınca seçilecekti.
 
-Bu tavsiye, Karia'yı, Hallis'i, doğrudan bir görüşmeye davet etmeye yöneltti — tehdit olarak değil, bir diyalog olarak.
+Corvus son öneriye karşı çıktı. Bir bölgenin başka bölgeyi denetlemesinin yeni ittifaklar doğuracağını söyledi.
 
----
+"Doğurabilir," dedi Hallis. "Sarayın bütün denetçileri seçmesi de saraya bağlı bir sınıf doğurur. Risksiz düzen önermiyorum. Tek elde birikmeyen risk öneriyorum."
 
-Görüşme, Karia'nın beklediğinden daha yapıcı geçti. Hallis, gerçek endişesini, açıkça paylaştı: "Meziyet sistemi iyi bir fikir, Majesteleri. Ama eğer, sadece, yeni bir seçkinler sınıfı yaratıyorsa — eski soylular yerine, yeni 'meziyetliler' — bu, sadece, isim değiştirmiş bir eşitsizlik olur."
+Karia ilk iki önlemi hemen, üçüncüyü ise üç bölgede deneme şartıyla kabul etti. Hallis'in önerisini kayda adıyla geçirdi. Onu müttefik ilan etmedi, geçmiş itirazlarını silmedi.
 
-Karia, bu eleştiriyi, ciddiye aldı. "Haklı bir endişe. Peki, çözümün ne olduğunu düşünüyorsun?"
+Eski ailelerin bildirisine de yasak koymadı. Buna karşılık her imzacıdan hangi kurul kararının hangi hakka zarar verdiğini somutlaştırmasını istedi. Altı aile cevap veremedi. İkisi vergi itirazı, biri su mahkemesindeki gerçek bir usul hatası sundu. Bu dosya yeniden görülecekti.
 
----
+Elowen, "Muhalefeti katkıya çevirdin," dediğinde Karia başını salladı.
 
-"Meziyet meclislerine," dedi Hallis, "düzenli, dışarıdan denetim getirin. Kendi kendini yeniden üreten bir seçkinler sınıfına dönüşmesinler diye."
+"Hayır. Hallis katkı sundu. Ötekilerden bazıları hâlâ muhalif. Hepsini bana yararlı oldukları ölçüde tanımlarsam onları dinlemiş olmam."
 
-Bu öneri, Karia'yı, gerçekten etkiledi — çünkü, bu, tam olarak, düşünmediği bir kör noktaydı.
-
-"Bunu, uygulayacağım," dedi Karia. "Ve senin bu öneriyi verdiğini, açıkça belirteceğim — hem meclislerde hem halka."
-
-Hallis, bu teklife, şaşkınlıkla karşılık verdi — bir eleştirinin, bir tehdit olarak değil, bir katkı olarak kabul edilmesi, ona, yabancı bir deneyimdi.
-
-O akşam, Karia, Elowen'e, bu görüşmeyi anlatırken, kendi kendine, garip bir gerçeği fark etti: en güçlü muhalifler, bazen, en iyi danışmanlara dönüşebiliyordu — eğer, onlara, gerçekten kulak verilirse.
+Meziyet sistemi o gün temizlenmedi. Kendi seçkinlerini üretmeye başlayabileceği resmen kabul edildi. Karia reformun kusurunu açıklamanın onu zayıflatmadığını umuyordu; bunu ancak sonraki seçimler gösterecekti.

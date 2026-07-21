@@ -1,30 +1,24 @@
 # Bölüm 20 — Beklenen Cevap
 *(ZALEENA)*
 
-Togan'dan gelen mesaj, Kor-Ateşler'deki gelişmeyi anlatırken, Zaleena, kendi kıyısında, çok daha somut bir gelişmeyle karşı karşıya kaldı — deniz dibindeki taş, üç aylık düzensiz sessizlikten sonra, bir gece, aniden, çok güçlü bir şekilde parladı, sonra, tekrar söndü.
+Deniz taşı, üç aylık düzensiz sessizliğin ardından gece yarısında tek kez parladı. Işık daha önceki ölçümlerin hepsinden güçlüydü; dış rıhtımdaki gözcüler suyun altında yarım millik yeşil çizgi gördü. Üç gözlem kabındaki su aynı anda titreşti.
 
-"Bir kere," dedi Sevda, bu olayı, sabah, Zaleena'ya anlatırken. "Ama en güçlü parıltı, şimdiye kadar gördüğümüz."
+Zaleena raporu şafakta aldı. Sevda ışığı görmemişti; Eski-Kent'teydi. Kıyıdaki beş tanığın kayıtları birbirinden ayrı tutuldu. Dördü ışığın tek vuruş olduğunu, biri iki kısa vuruş gördüğünü yazmıştı.
 
-Zaleena, bu habere, hemen, dört toprağın konseyine acil bir bildirim gönderdi.
+Komisyon arşivde iki benzer kayıt buldu. Birinde büyük parıltıdan on gün sonra kıyı çökmüş, ötekinde yalnız balık göçü değişmişti. Üçüncü bir metindeki *etkin dönem* sözü aynı olaya ait olabilirdi; tarih eşleşmiyordu.
 
----
+Serel, aktif fazın başladığını ilan etmedi. Olasılığı yükseltti ve kıyıda fiziksel değişim eşiği belirlenmesini istedi: ölçülebilir su çekilmesi, geometrik zemin kırığı veya düzenli vuruş. Bu üçünden biri görülürse sınıflandırma değişecekti.
 
-Serel'in cevabı, aynı gün, geldi — ve Zaleena'nın korktuğu şeyi doğruladı: Eski-Kent'teki Büyük Kütüphane'nin en derin arşivlerinde bulunan bir kayıt, benzer bir "tek büyük parıltı"nın, geçmiş döngülerde, genellikle, döngünün "aktif faza" girdiğinin işareti olduğunu gösteriyordu.
+Roric hazırlıkların en zayıf yerini haber yolunda buldu. Yamalı Liman'daki ateş Metheris'e dört, Kuru Dere'ye dokuz, Kartal-Yurdu'na on iki günde ulaşıyordu. Temujin'in önerdiği ulak durakları tamamlanmıştı; ani kıyı olayı için yine yavaştı.
 
-"Aktif faz ne demek?" diye sordu Kessel, bu bilgiyi okuduktan sonra.
+Ortak Uyarı Ağı bu yüzden tek bir merkezden kurulmadı. Kıyıda olay türlerine göre duman ve gece ateşi kodları belirlendi. Üç siyah duman; dip taşı, akıntı değişimi ve geri çekilme anlamına gelecekti. İç istasyonlar gördükleri işareti aktaracak, fakat kendi tanık işaretini eklemeden tahliye emri vermeyecekti. Böylece tek bir sahte ateş dört toprağı harekete geçiremeyecekti.
 
-"Kesin bilmiyoruz," dedi Zaleena, dürüstçe. "Ama tahminimce, bu, artık, sadece bir gözlem dönemi olmadığımız anlamına geliyor. Bir şey, yakında, gerçekten olacak."
+Uzak bölgeler için kuşlar ve atlılar kullanılacaktı. İlk mesaj yalnız "olay gözlendi" diyecek; ikinci mesaj yer, zaman ve bağımsız tanık sayısını taşıyacaktı. Askerî emirler ağdan gönderilemeyecekti.
 
----
+Yamalı Liman'daki tatbikatta ilk ateşten dış duvarın boşalmasına on dört dakika geçti. İkinci denemede süre on iki dakikaya düştü. İki mahallede çanlar birbirine karıştı; bir işçi yanlışlıkla yağ depolarına yöneldi. Bunlar başarı raporundan çıkarılmadı.
 
-Bu haber, Zaleena'yı, kendi hazırlıklarını, son bir kez, gözden geçirmeye yöneltti — tahliye rotaları, iletişim ağları, acil durum protokolleri, hepsi, bir kez daha kontrol edildi.
+Kessel, "Hazır mıyız?" diye sordu.
 
-Roric, bu son hazırlık turunda, beklenmedik bir teklif sundu. "Belki, bu sefer, sadece kendi halkımızı değil, dört toprağın hepsini, ortak bir uyarı sistemine bağlamalıyız. Bir toprak, bir tehlike hissettiğinde, hepsi, aynı anda haberdar olsun."
+"Neye hazır olduğumuzu biliyoruz," dedi Zaleena. "Tahliyeye ve kurtarmaya. Taşın ne yapacağına değil."
 
----
-
-Bu fikir, hızlıca, dört toprağın konseyine iletildi, ve hevesle kabul edildi — "Ortak Uyarı Ağı" adında, basit ama etkili bir sistem, günler içinde kuruldu: her toprakta, bir işaret ateşi, ya da bir mesajcı kuşu, herhangi bir anormal olayda, anında, diğer üç toprağa, haber verecekti.
-
-O gece, Zaleena, işaret ateşinin ilk yakılışına, iskeledeki halkın arasında, sıradan biri gibi karıştı — sadece bir tatbikat, ama sembolik olarak, çok daha büyük bir şey: dört toprağın, artık, gerçekten, tek bir nefes gibi hareket ettiğini.
-
-Kessel, yanına geldiğinde, elini sıktı. "Hazırız," dedi Zaleena. "Ne olursa olsun, bu sefer, hazırız."
+Doğu gözlem iskelesinde gece nöbeti iki katına çıkarıldı. Kurtarma halatları rıhtım halkalarına önceden sarıldı, ölçüm levhaları hafifletildi. Zaleena aktif fazın başladığını yazmadı. Eşiklerden biri görülürse bu cümleyi değiştirmek için kimsenin iznini beklemeyecekti.

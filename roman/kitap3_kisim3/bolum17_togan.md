@@ -1,34 +1,42 @@
 # Bölüm 17 — Kor-Ateşler
 *(TOGAN)*
 
-Kor-Ateşler'in topraklarına varış, Togan'ın beklediğinden daha zor oldu — sınırda, muhafızlar, onu ve komisyon temsilcisini, silahlarını bırakmaya zorladı, ve gözleri bağlı, uzun bir yürüyüşten sonra, ancak, "Kızıl El" Torg'un huzuruna çıkarıldılar.
+Togan, Küller'in batı taşına öğle vakti ulaştı. Komisyonun gönderdiği Mirasçı temsilcisi iki at geride durdu; yanında deney aracı yoktu. Çantasında hekim kaydının aslına uygun kopyaları ve tanık usulü vardı.
 
-Torg, yaşlı, yara izleriyle kaplı bir adamdı — gözleri, Togan'ı, tanıdık bir şüphecilikle inceledi.
+Kor-Ateş nöbetçileri önce Torg'un mührünü inceledi. Togan kılıcını ve bıçağını kendi eliyle yere bıraktı. Gözlerinin bağlanmasını istemezse geri dönebileceği söylendi. Kabul etti. Mirasçı temsilcisi sınır taşında kaldı; içeri alınacağına Torg karar verecekti.
 
-"Bir Sungur," dedi Torg, "ve bir Mirasçı. Bize ne satmaya geldiniz?"
+Küller'e giden yol sandığından uzun sürdü. Ayaklarının altındaki zemin iki kez taştan küle döndü. Bağ çözüldüğünde, yanmış evlerin arasına yeni kerpiç duvarlar örüldüğünü gördü. Burası yalnız tarikat üssü değil, dışarı atılmış insanların yaşadığı bir kasabaydı.
 
----
+Kızıl El Torg, eski demirhanede bekliyordu. Sol elinin üç parmağı kızıl lekelerle kaplıydı; lakabının boya mı, kan mı, dönüşüm mü anlattığı belli değildi.
 
-Togan, başını iki yana salladı. "Satmaya değil. Bir şey öğrenmeye. Aranızda, farklı bir kan taşıyan biri olduğunu duyduk — Kızıl Akıntı'da dönüşen, ama tam dönüşmeyen biri."
+"Kaydımızı nereden buldunuz?" diye sordu.
 
-Torg'un yüzü, bu soruya, sertleşti. "O ismi, kolay vermeyiz. Bizim halkımız, yıllarca, 'farklı' olduğu için avlandı. Şimdi, sen, gelip, o farklılığı, bir araştırma konusu yapmak istiyorsun."
+Togan hekim belgesinin zincirini anlattı. Hangi arşivden çıktığını, kimin kopyaladığını ve metnin hangi satırlarının okunamadığını söyledi. Üç hastanın yaşayıp yaşamadığını bilmediklerini ekledi.
 
-Togan, bu tepkiye, hazırlıklıydı — çünkü, kendisi de, aynı korkuyu, yıllarca yaşamıştı.
+"Yaşıyorlarsa bedenleri hakkında konuşmak istiyoruz demek daha dürüst," dedi Torg.
 
----
+"Evet. Konuşmayı reddederlerse gideriz."
 
-"Ben de farklıyım," dedi Togan, kolunu sıvayarak, kendi kanının izlerini gösterircesine. "Kanım, Praetorianlara karşı bir silah, ama aynı zamanda, beni öldürebilecek bir mühürün anahtarı. Bir dostumu, bu yüzden kaybettim. Sizi avlamaya gelmedim, Torg. Sizinle, aynı korkuyu paylaşan biri olarak geldim."
+Torg, Togan'ın kolundaki izi görmek istemedi. Onun yerine Kaya'nın ölümünü neden mektuba yazdığını sordu.
 
-Bu itiraf, Torg'un tavrını, tam olarak değiştirmedi — ama bir çatlak açtı. "Bu dostun, nasıl öldü?"
+"Bana güvenilsin diye yazdıysam bu onu kullanmak olur," dedi Togan. "Neden acele ettiğimi ve acelemin neden tehlikeli olduğunu bil diye yazdım."
 
-Togan, Kaya'nın hikâyesini, kısaca, ama dürüstçe anlattı. Torg, bu hikâyeyi, sessizce dinledi.
+"Aradığın insanı görünce acelen geçecek mi?"
 
----
+"Bilmiyorum. Geçmezse onu yönetmek benim işim."
 
-"Bizde," dedi Torg, sonunda, "böyle biri var. Adı Yeşil-Göz Sable. Ama o, kendi isteğiyle, uzun zamandır, hiç kimseyle konuşmuyor — kendi gücünden korkuyor, bir zamanlar, kontrolsüzce kullanıp, kendi köyünden birini yaraladığı için."
+Torg iki gün boyunca cevap vermedi. Togan'a kasabanın doğu ucunda bir oda verildi. Mirasçı temsilcisi ilk gece sınırda kaldı; ertesi gün Torg'un izniyle kasabaya girdi, fakat Togan'ın görüşmelerine katılmadı. İkisi de serbestçe ayrılabileceklerini yazılı aldı.
 
-Bu haber, Togan'ı, hem umutlandırdı hem endişelendirdi. "Onunla konuşabilir miyim?"
+İkinci akşam Torg hekim kaydındaki iki kişinin yıllar önce öldüğünü söyledi. Üçüncü kayıt yaşayan birine uyuyor olabilirdi. Adı Sable'dı. Kızıl Akıntı'da dönüşümü yarıda kalmış, daha sonra kontrolsüz bir ters akışta Mahir'in sağ elini yaralamıştı. Olayın geri kalanı Sable'ın izni olmadan anlatılmayacaktı.
 
-"Sorabilirim," dedi Torg. "Ama karar, onun. Ve eğer hayır derse, ben de, sana, zorla getirmem onu. Bizim halkımız, yeterince zorlandı, dışarıdakiler tarafından."
+"Onunla konuşabilir miyim?" diye sordu Togan.
 
-Togan, bu şarta, saygıyla razı oldu — çünkü, biliyordu ki, bazı kapılar, ancak, zorlanmadan açıldığında, gerçekten açılırdı.
+"Bunu ona soracağım. Senin cevabın yok."
+
+Togan başını eğdi.
+
+Torg kapıya yürürken durdu. "Hayır derse komisyon Küller'e başka birini yollar mı?"
+
+"Ben döndüğümde hayır cevabının dosyayı kapattığını yazacağım. Başka biri gelirse sizin izniniz olmadan sınırı geçemez."
+
+Torg bunun yeterli olduğuna dair işaret vermedi. Ertesi sabaha kadar Togan'ı bekletti.

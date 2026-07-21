@@ -1,68 +1,78 @@
 # Bölüm 25 — Merkez
 *(TOGAN)*
 
-Çukurun kenarına vardıklarında, Burkut, Togan'ın omzundan havalandı — ama yükselmedi. Kartal, üç kanat çırpışında geri döndü, Togan'ın koluna kondu ve orada kaldı, pençeleri deriyi acıtacak kadar sıkı. Hayvan, on yıldır ilk kez, uçmayı reddediyordu.
+Kör Düzlük'in son otlarında yük atları durdu. Kamçı kullanılmadı. İzciler hayvanları farklı yönlerden iki kez yürütmeyi denedi; üçü de aynı görünmez çizgide geri çekildi.
 
-Aşağıda, terk edilmiş bölgenin ortasında, toprak kendi içine çökmüştü. Geniş, huni biçimli bir çukurun dibinde, yarı gömülü bir yapı vardı — taş değil de kemik gibi soluk, üzerinde taşıdıkları taslağın işaretleriyle kaplı, ama burada işaretler daha büyük, daha derin, ve — Togan yemin edebilirdi — çok hafif kımıldıyorlardı, suyun altındaki bir şey gibi.
+Bu, yazılı durdurma şartlarından biriydi.
 
-"Hiçbir hikâyede yok bu," dedi Kaya. Ömrü boyunca bozkırın taşını, efsanesini öğrenmiş Sungur büyücüsü, ilk kez sesinde bir çatlakla konuşuyordu. "Ne büyükannemin ne de onun büyükannesinin masalında."
+Ekip içeri girmedi. Dış sınıra üç işaret kazığı diktiler, hayvanları geride bırakıp yükleri boşalttılar. Kaya, güneydeki yüksek sırttan yalnız gözlem yapılmasına karar verdi. Mirasçı kâtip durdurma saatini ve nedenini kayda geçirdi.
 
----
+Sırta vardıklarında Burkut Togan'ın kolundan havalandı. Üç kanat çırpışı sonra geri döndü; pençeleri deri kolluğu acıtacak kadar sıktı. Aşağıda toprak geniş bir huni biçiminde kendi içine çökmüştü. Çukurun dibinde kemik kadar soluk, yarı gömülü bir yüzey vardı. Haritadaki yedi taşın oyukları burada daha büyük ve daha derindi.
 
-İki genç büyücü, Sube ve bir başkası, kendi tarama araçlarını çıkardı — bakır çubuklar, iplikle bağlı kemik parçaları, rüzgârı ve toprağın altındaki suyu dinleyen aletler. Çubuklar, çukurun kenarına tutulunca, kımıldamayı bıraktı. Sanki dünyanın o köşesinde ne rüzgâr ne su, hiçbir şey kalmamıştı.
+Togan'ın bileğindeki sızı tek bir anda omzuna kadar yürüdü. Ağzına kan tadı geldi.
 
-Sube çubuğunu iki yana salladı; alet, elinde bir tahta parçası gibi cansızdı. "Ölü. Buranın altı tamamen ölü."
+"Geri," dedi Kaya.
 
-Togan sezgisini uzattı — ve geri çekti, elini ateşe değdirmiş gibi. Aşağıdaki şey ölü değildi. Uyuyordu. Ve uykusu, yaklaşan bir fırtınanın önündeki o ağır, bastıran sessizlik gibiydi.
+Kimse itiraz etmedi.
 
-"Geri durun," dedi Togan. Sesi, kendi kulağına yabancı geldi. "Hepiniz. Buradan aşağı kimse inmiyor."
+✦
 
----
+Haritacı uzaklığı ölçerken iki izci dış sınıra döndü. Kâtip, gördüklerini iki ayrı çizime böldü. Togan'ın nabzı ve konuşma düzeni Sungur şifacısı tarafından kaydedildi. Togan hangi gün olduğunu, nerede bulunduğunu ve ilk durdurma işaretini doğru söyledi. Zaman kaybı yoktu.
 
-Ama bir şey onu çekiyordu.
+Kaya gözlemi bitirdi. "Geldiğimiz yoldan çıkıyoruz. İkinci kararı konsey verir."
 
-Bunu itiraf edemedi, o an değil. Yapıya doğru bir adım attı, sonra bir adım daha; ayakları kendi kararını vermiş gibiydi. Çukurun eğimli toprağı ayakkabılarının altında kaydı. Kaya arkasından bir şey söyledi — adını, sanıyordu — ama sesler artık uzaktan geliyordu, kalın bir camın ardından.
+Ekip sırttan inerken çukurun dibindeki oyuklar yeşile çaldı. Işık birden parlamadı; taşın içine dolan su gibi yavaşça yükseldi.
 
-Kafasının içindeki uğultu büyüdü. İçinde kelimeler yoktu, ama bir *niyet* vardı; ilgi gibi bir şey, soğuk ve dipsiz, bir dağın bir karıncaya duyabileceği türden bir ilgi. Togan'ın kanı — saf olmayan, karışık kanı — damarlarında ısındı, sonra yandı, sanki içindeki bir şey aşağıdaki şeye cevap vermeye çalışıyordu. *Buradayım,* diyordu kanı, onun izni olmadan. *Ben de buradayım.*
+Togan durdu.
 
-Elini yapının soluk yüzeyine değdirmek üzereyken, bir el bileğini kavradı ve geri savurdu.
+Kaya onun adını söyledi. Togan duydu, ama dönemedi. Kafasındaki uğultuda kelime yoktu. Yine de içindeki şeyin ne istediğini anlamak için dile ihtiyaç duymadı. Bileğindeki işaret ısındı; damarlarındaki her vuruş, aşağıdaki düzenin aradığı cevaba dönüştü.
 
----
+Bir adım attı. Sonra bir tane daha.
 
-Kaya araya girmişti. Togan'la yapının arasına, iki nefeslik o boşluğa.
+Emniyet ipi gerildi. Kaya iki eliyle ipi tuttu. Azgut gözlemci arkadaki kazığa asıldı, fakat toprak ayaklarının altından akmaya başladı. Togan çukurun eğiminde dizlerine düştü. Sol eli keskin bir taşa sürtündü; avucunda ince bir kesik açıldı.
 
-"Sana bakıyor," dedi Kaya, Togan'ı arkasına iterek. "Seni istiyor, oğlum. Senin kanını." Gözleri çukurun dibinde sabitti, ama eli hâlâ Togan'ın koluna kenetliydi, onu geriye doğru sürüklüyordu. "Sen benim gözümün önünde büyüdün. Buraya kadar seni ben getirdim. Buradan da seni ben çıkaracağım."
+Işık o anda yön değiştirdi.
 
-O an, işaretler parladı.
+Oyuklardan çıkan üç soluk çizgi Togan'ın kanayan elinde birleşti. İp artık onu yalnız yokuşa değil, çukurun dibine karşı tutuyordu.
 
-Ses değildi — havada bir ses yoktu — ama herkes onu duydu, kemiklerinin içinde. Yapının üzerindeki oyuklardan soluk, yeşilimsi bir ışık taştı, ve ışıkla birlikte bir şey yükseldi çukurdan: parmakları olmayan bir el gibi, iradenin kendisinden yapılmış bir el gibi. Doğrudan Togan'a uzandı.
+"İpi kesin!" diye bağırdı biri.
 
-Kaya onu itti.
+Kaya kesmedi. İpi bırakırsa Togan'ın iki nefeste aşağıya sürükleneceğini gördü. Kemerindeki bakır dinleme kazığını çıkardı, Togan'ın önündeki çatlağa iki eliyle sapladı.
 
-Togan sırtüstü çukurun eğimine düştü, ve düşerken gördü: ışık, ona ulaşamayınca, önündeki ilk sıcak şeye kapandı. Kaya'ya.
+Kazık çukuru bir çan gibi titretti.
 
----
+Togan'ın eline uzanan ışık bakıra geçti. Bir an için ip gevşedi. Arkadaki üç kişi Togan'ı sırtın düzlüğüne çekti.
+
+Kaya ise kazığı bırakamadı.
+
+✦
+
+Bakırın çevresindeki toprak karardı. Kaya'nın kolları gerildi; saçı ve giysisi rüzgârın tersine, çukura doğru çekildi. Togan kendini tutan ellerden kurtulmaya çalıştı.
 
 "Kaya!"
 
-Togan dizlerinin üzerinde geri sürünmeye çalıştı, ama Sube onu arkadan yakaladı, iki koluyla göğsüne sardı, geriye çekti. "İnersen ikiniz de gidersiniz!" diye bağırıyordu genç büyücü, sesi paramparça. "İkiniz de!"
+Kaya başını çevirdi. Yüzünde korku vardı. Togan bunu gördü ve sonradan kimsenin onu korkusuz bir heykele çevirmesine izin vermedi.
 
-Kaya artık kımıldamıyordu. Ayakta duruyordu, ama yerçekimi ona başka türlü işliyordu; saçları, giysisi, çukura doğru çekiliyordu, sanki aşağıda bir uçurum açılmış ve yalnızca Kaya ona düşüyordu. Yüzü Togan'a dönüktü. Ve Kaya'nın yüzünde korku yoktu.
+"Geri!" dedi Kaya.
 
-"Götürün onu," dedi Kaya. Sesi sakindi. Bir emirdi, hayatının verdiği son emir, ve o emri veren ses hiç titremedi. "Götürün — ve bir daha buraya, o çocukla, asla gelmeyin."
+Işık bileklerine ulaştı. Sungur şifacısı ona doğru atıldı; haritacı kadını belinden yakalayıp durdurdu.
 
-"Kaya, hayır—"
+Kaya, Togan'a bir kez daha baktı. "Togan. Yaşa."
 
-"Togan." Kaya bir kez daha adını söyledi, ve bu sefer bir vedaydı. "Yaşa. Bunu bana borçlusun. Yaşa."
+Bakır kazık çatladı.
 
-Sonra ışık kapandı, ve Kaya yoktu.
+Kaya'nın bedeni düşmedi. Yeşil ışık onu bir an içinde çukurun dibine doğru çekti; bedeni mesafeyi geçmeden, gözün seçemeyeceği kadar ince çizgilere ayrıldı. İp boşaldı. Giysisinden, silahından ve bakır kazıktan geriye hiçbir şey kalmadı.
 
----
+Bir an oradaydı. Sonra yoktu.
 
-Ne bir çığlık oldu, ne bir düşüş. Bir an oradaydı, sonra çukurun dibindeki soluk yüzey bir kez daha karardı, işaretler yavaşça sönümlendi, ve terk edilmiş bölgeye o eski, ölü sessizlik geri döndü. Sanki hiçbir şey olmamıştı. Sanki kırk yıldır bozkırı bilen kadın hiç var olmamıştı.
+✦
 
-Sube, Togan'ı geri sürüklerken, Togan direnmeyi bıraktı. Direnmedi çünkü aklının bir köşesi, buz gibi ve nefret ettiği bir köşesi, Kaya'nın haklı olduğunu biliyordu: eğer aşağı inerse, Kaya'nın ölümü boşa giderdi. Yaşamak zorundaydı. Bu, verilebilecek en kolay ve en dayanılmaz söz.
+Togan çukura dönmek istedi. Kendisini tutan üç kişinin adını sonradan hatırlamadı. Sungur şifacısı aynı soruyu iki kez sordu: "Hangi gündeyiz?"
 
-Çukurun kenarına vardıklarında Burkut hâlâ oradaydı, kolunda, kımıldamadan. Togan ayağa kalktı, bir kez daha aşağıya baktı — dibi göremedi, sadece kendi nefesini duydu — ve sonra arkasını döndü.
+Togan ilkinde cevap veremedi.
 
-O gün öğrendiği şey, hiçbir haritaya işlenemezdi: aşağıdaki şey, bir tehdit değildi. Bir açlıktı. Ve şimdi, onun adını biliyordu.
+Bu, ikinci durdurma şartıydı. Ekip tartışmadı. Togan'ı emniyet ipine yeniden bağladılar, gözlem kayıtlarını aldılar ve Kör Düzlük'ten çekildiler. Ceset arama kararı vermediler; aranacak bir beden görülmemişti. Işık yeniden söndüğünde bile geri dönmediler.
+
+Burkut, dış işaret kazıklarını geçince uçtu. Bir kez çember çizdi, sonra ekibin önüne kondu.
+
+Togan yol boyunca avucundaki kesiği kapattı. Aşağıdaki şeyin bir adı yoktu. Ona bildiği tek kelimeyi verdi: açlık. Bu bir keşif değil, yorumdu. Fakat Kaya'nın yokluğu gerçekti.

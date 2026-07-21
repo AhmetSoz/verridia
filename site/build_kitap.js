@@ -27,13 +27,13 @@ const YAPI = [
     kitap: 'İkinci Kitap',
     kisimlar: [
       { dir: 'roman/kitap2_kisim1', ad: 'Hafızanın Bedeli' },
-      { dir: 'roman/kitap2_kisim2', ad: 'İsimsiz' },
+      { dir: 'roman/kitap2_kisim2', ad: 'Kâhyaların Diyarı' },
       { dir: 'roman/kitap2_kisim3', ad: 'Kazanılan Denge' },
       { dir: 'roman/kitap2_kisim4', ad: 'Bağlı Ufuklar' },
       { dir: 'roman/kitap2_kisim5', ad: 'Aynı Rüzgârın Dört Yönü' },
       { dir: 'roman/kitap2_kisim6', ad: 'Gölgenin Ardındaki Işık' },
       { dir: 'roman/kitap2_kisim7', ad: 'Büyük Uzlaşma' },
-      { dir: 'roman/kitap2_kisim8', ad: 'Dört Bayrak, Bir Gökyüzü' },
+      { dir: 'roman/kitap2_kisim8', ad: 'Dört Yol, Ayrı Mühürler' },
     ],
   },
   {
@@ -42,6 +42,8 @@ const YAPI = [
       { dir: 'roman/kitap3_kisim1', ad: 'Sessiz Taşlar' },
       { dir: 'roman/kitap3_kisim2', ad: 'Kırılan Düğüm' },
       { dir: 'roman/kitap3_kisim3', ad: 'Büyük Döngü' },
+      { dir: 'roman/kitap3_kisim4', ad: 'İkinci Anahtar' },
+      { dir: 'roman/kitap3_kisim5', ad: 'Tam Seçim' },
     ],
   },
 ];

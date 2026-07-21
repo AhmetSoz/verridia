@@ -1,0 +1,51 @@
+{
+  "book": 1,
+  "title": "Kızıl Hafta",
+  "expectedChapterCount": 53,
+  "expectedFasilCount": 15,
+  "parts": [
+    {
+      "id": 1,
+      "title": "Kül ve Kan Yemini",
+      "directory": "kisim1",
+      "fasillar": [
+        { "title": "Dört Ufukta Kül", "start": 1, "end": 4 },
+        { "title": "Fısıltılar ve Tahtlar", "start": 5, "end": 8 },
+        { "title": "Damga, Kemik, Kalkan", "start": 9, "end": 11 },
+        { "title": "Dört Eşik", "start": 12, "end": 14 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kanatların Düşüşü",
+      "directory": "kisim2",
+      "fasillar": [
+        { "title": "Düşen Kanatlar", "start": 1, "end": 4 },
+        { "title": "Kırılan Rüzgâr", "start": 5, "end": 8 },
+        { "title": "Esirler ve Boş Taht", "start": 9, "end": 12 },
+        { "title": "Ölü Toprakların Eşiği", "start": 13, "end": 15 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Gölgelerin Ordusu",
+      "directory": "kisim3",
+      "fasillar": [
+        { "title": "Enkaz ve Yedi Lord", "start": 1, "end": 4 },
+        { "title": "Kapının Gölgesi", "start": 5, "end": 7 },
+        { "title": "Kızıl Haftanın Eşiği", "start": 8, "end": 11 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Kızıl Hafta",
+      "directory": "kisim4",
+      "fasillar": [
+        { "title": "İlk Gelgit", "start": 1, "end": 4 },
+        { "title": "Kırılan Dünya", "start": 5, "end": 8 },
+        { "title": "Vadinin Sonu", "start": 9, "end": 11 },
+        { "title": "Dört Kayıt", "start": 12, "end": 13 }
+      ]
+    }
+  ]
+}

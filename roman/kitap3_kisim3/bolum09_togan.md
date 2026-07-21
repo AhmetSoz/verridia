@@ -1,32 +1,30 @@
 # Bölüm 9 — Komisyonun Daveti
 *(TOGAN)*
 
-Büyük Döngü Komisyonu'ndan gelen davet, Togan'ı, hem gururlandırdı hem tedirgin etti — kimse, ondan, kendi kanını, bir araştırma nesnesi gibi sunmasını istememişti daha önce, ama şimdi, resmi bir çağrı, tam olarak bunu öneriyordu.
+Büyük Döngü Komisyonu'nun mektubu Togan'ın kanını istemiyordu. Serel, Sessiz Taşlar ve Sed yolculuklarına ait gözlemlerini anlatmasını; isterse yazılı kayıtla yetinmesini rica etmişti. Her türlü bedensel deneyi ayrıca reddedebileceği ilk paragrafta yazıyordu.
 
-*Senin deneyimin,* diye yazmıştı Serel, davet mektubunda, *hem Sessiz Taşlar'la hem de şimdi anladığımız kadarıyla Sed'le, doğrudan bağlantılı. Eğer razı olursan, komisyona, kendi gözlemlerini anlatman, paha biçilmez olur.*
+Togan yine de mektubu Perren'e gösterdi. "Sence gitmeli miyim?"
 
-Perren, bu daveti okuduktan sonra, temkinli bir soru sordu: "Bunu, güvenli buluyor musun?"
+"Benim fikrim senin rızan değil. Neden gitmek istediğini sor."
 
----
+Togan iki cevap buldu. Kayıtların başkasını aynı hatadan korumasını istiyordu. Bir de, anlattığı her şeyin kendisini haklı çıkaracağından korkuyordu.
 
-"Bilmiyorum," dedi Togan, dürüstçe. "Ama Kaya öldükten sonra, kendime bir söz verdim — bu bilgiyi, bir gün, birine faydalı kılacağım. Belki, bu, o sözü tutmanın ilk yolu."
+Eski-Kent'e gitmeyi kabul etti; Perren bu kez yanında gelmedi. Kendi işini seçmek için Kartal-Yurdu'nda kaldı. Ayrı gitmeleri aralarındaki bağın zayıfladığı anlamına gelmiyordu.
 
-Eski-Kent'e, bu sefer, farklı bir amaçla gitti — bir kaçış değil, bir katkı için. Büyük Kütüphane'nin toplantı salonunda, komisyonun bütün üyeleri, onu, dikkatle dinledi.
+Komisyon salonunda hükümdar yoktu. Togan önce yedi tanık ifadesini, sonra kendi notlarını verdi. Kaya'nın ölümü hakkında yalnız doğrulanmış zinciri anlattı. Sed yolunda gördüğü altın çizgiyi, ortak rüyayı ve önceden belirlenen dönüş gününü ayrı başlıklarda sundu.
 
-"Kanım," dedi Togan, kendi deneyimini anlatırken, "hem bir anahtar hem bir alarm. Yaklaştıkça, mühür zayıflıyor. Ama kontrollü kullanırsam, bu zayıflamayı, ölçebiliyorum da."
+"Kanım bir anahtar mı, bilmiyorum," dedi. "Değişmiş bazı maddelere yakında tepki veriyor. Sessiz Taşlar'da akışın bana yöneldiğini tanıklar gördü. Bu iki olgu aynı mekanizmayı kanıtlamıyor."
 
----
+Mirel, Sed'in ona nasıl davrandığını sordu.
 
-Mirel, bu açıklamaya, yeni bir soru ekledi. "Peki ya Sed? Orada da aynı etkiyi hissettin mi?"
+"Duvarın hareket ettiğini görmedim. Göğsümde kuzeye dönük baskı hissettim. Onu duvarın beni izlediği diye yorumladım. Şimdi bu yorumu olgudan ayırıyorum."
 
-"Daha güçlü," dedi Togan. "Ama farklı bir şekilde. Sessiz Taşlar, bana doğru geliyordu. Sed... Sed, sanki, beni fark etti, ama bana gelmedi. Sadece, izliyor gibiydi."
+Serel, geçmiş kayıtlarındaki "seçilmiş kan" sözlerini hatırlattı. Togan bu ifadelerin aile, tören, kimya ya da sonradan kurulmuş efsane anlamına gelebileceğini söyledi. Kendi soyunu metinlerin eksik yerini doldurmak için kullanmayacaktı.
 
-Bu ayrım, komisyonda, uzun bir tartışmaya yol açtı — bazıları, bunun, Sed'in daha güçlü, daha kontrollü bir mühür olduğunu düşünüyordu; bazıları, tam tersine, Sed'in, henüz, harekete geçmeye karar vermediğini.
+Toplantı sonunda düzenli gözlem yöntemi kuruldu. Bu yöntem uzaktan mühür aramak değildi. Togan haftada iki kez aynı saatte nabız, yön baskısı, rüya ve yakınındaki bilinen Gelgit-Çeliği örneğine tepkisini yazacaktı. Kayıt günü değiştirilmiş kutularla ayda bir kör kontrol yapılacak, sağlık sınırını şifacı belirleyecekti. Togan istediği gün gerekçe göstermeden durabilecekti.
 
----
+"Veriyi paylaşman yükü hafifletiyor mu?" diye sordu Serel.
 
-Toplantının sonunda, Serel, Togan'a, özel bir teklif sundu. "Eğer istersen, seninle, düzenli olarak, kendi gözlemlerini paylaşabileceğin bir yöntem kurabiliriz — uzaktan, güvenli bir mesafeden. Böylece, sen, tekrar tehlikeye girmeden, biz, veriyi toplayabiliriz."
+Togan düşündü. "Hayır. Ama yükün biçimini dürüstleştiriyor."
 
-Togan, bu teklife, minnetle karşılık verdi. "Bunu isterim. Çünkü tek başıma taşıdığım bu bilgi, bir yük gibiydi. Paylaşınca, daha hafif hissediyorum."
-
-O gece, Eski-Kent'ten ayrılırken, Togan, ilk kez, kendi kanının, sadece bir tehlike ya da bir suç değil, gerçekten, ortak bir amaca hizmet edebilecek bir şey olduğunu hissetti.
+Kartal-Yurdu'na dönerken komisyonun mührünü taşımıyordu; gözlem defterinin bir kopyası çantasındaydı. İlk sayfasında, deneylerin onu bir araç ya da mülk hâline getirmediği yazıyordu.
