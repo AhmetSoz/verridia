@@ -48,7 +48,11 @@ script = ExtResource("4_hu")
 [node name="HurtboxSekil" type="CollisionShape2D" parent="Hurtbox"]
 shape = SubResource("hurtbox_sekil")
 
+[node name="Slash" type="Polygon2D" parent="."]
+visible = false
+position = Vector2(18, -24)
+color = Color(0.95, 0.98, 1, 0.9)
+polygon = PackedVector2Array(3, -18, 16, -9, 21, 0, 16, 9, 3, 18, 8, 9, 12, 0, 8, -9)
+
 [node name="Camera2D" type="Camera2D" parent="."]
 position = Vector2(0, -40)
-position_smoothing_enabled = true
-position_smoothing_speed = 6.0

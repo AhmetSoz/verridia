@@ -53,6 +53,7 @@ var _dokunulmaz: bool = false
 @onready var hitbox: Hitbox = $Hitbox
 @onready var hurtbox: Hurtbox = $Hurtbox
 @onready var gorsel: Sprite2D = $Gorsel
+@onready var slash: Polygon2D = $Slash
 
 func _ready() -> void:
 	add_to_group("oyuncu")
@@ -333,48 +334,58 @@ func _animasyon(delta: float) -> void:
 	_anim_zaman += delta
 	var yerde := is_on_floor()
 	var offset_y := 0.0
+	var offset_x := 0.0
 	var egim := 0.0
 	_hedef_squash = Vector2.ONE
+	slash.visible = false
 
 	match durum:
 		Durum.KOSU:
-			# Koşu: hızlı yukarı-aşağı zıpırdama + öne hafif eğim
-			var hiz_orani: float = clampf(absf(velocity.x) / kosu_hizi, 0.0, 1.0)
-			offset_y = -absf(sin(_anim_zaman * 22.0)) * 3.0 * hiz_orani
-			egim = deg_to_rad(6.0) * yon * hiz_orani
-			_hedef_squash = Vector2(1.0 + 0.05 * hiz_orani, 1.0 - 0.05 * hiz_orani)
+			# Belirgin koşu: çift zıplama + adım sallanması + öne eğim
+			var hiz_orani: float = clampf(absf(velocity.x) / kosu_hizi, 0.3, 1.0)
+			var faz := _anim_zaman * 16.0
+			offset_y = -absf(sin(faz)) * 5.0 * hiz_orani          # zemine değip zıplama
+			offset_x = cos(faz) * 1.5 * yon                        # adım salınımı
+			egim = deg_to_rad(9.0) * yon                           # koşarken öne yatık
+			# Ayak yere değince hafif ezil
+			_hedef_squash = Vector2(1.0 + 0.06 * absf(cos(faz)), 1.0 - 0.06 * absf(cos(faz)))
 		Durum.BOS:
-			# Bekleme: yumuşak nefes alıp verme
-			offset_y = sin(_anim_zaman * 3.0) * 1.0
-			_hedef_squash = Vector2(1.0, 1.0 + 0.02 * sin(_anim_zaman * 3.0))
+			offset_y = sin(_anim_zaman * 3.0)                      # nefes
+			_hedef_squash = Vector2(1.0, 1.0 + 0.03 * sin(_anim_zaman * 3.0))
 		Durum.ZIPLA:
-			_hedef_squash = Vector2(0.85, 1.18)      # yukarı uzama
+			_hedef_squash = Vector2(0.82, 1.2)                     # yukarı uzama
+			egim = deg_to_rad(4.0) * yon
 		Durum.DUSUS:
-			_hedef_squash = Vector2(0.92, 1.10)
+			_hedef_squash = Vector2(0.9, 1.12)
 		Durum.HAFIF_SALDIRI, Durum.AGIR_SALDIRI:
-			# Saldırıda öne atılma (aktif evrede en çok)
-			var g: float = 1.0 if _saldiri_evre == 1 else 0.4
-			offset_y = 0.0
-			gorsel.position.x = 5.0 * yon * g
-			_hedef_squash = Vector2(1.0 + 0.12 * g, 1.0 - 0.06 * g)
+			# Aktif evrede öne atıl + kılıç parlaması göster
+			var aktif := _saldiri_evre == 1
+			var g: float = 1.0 if aktif else 0.35
+			offset_x = 7.0 * yon * g
+			_hedef_squash = Vector2(1.0 + 0.15 * g, 1.0 - 0.08 * g)
+			if aktif:
+				slash.visible = true
+				slash.scale.x = float(yon)
+				# Yay gibi süpürme: üstten alta hızlı dön + solma
+				var t: float = clampf(_durum_sayac / 0.12, 0.0, 1.0)
+				slash.rotation = deg_to_rad(lerpf(-55.0, 55.0, t)) * yon
+				slash.modulate.a = 1.0 - t
 		Durum.KACINMA:
-			egim = deg_to_rad(18.0) * yon           # kaçınmada öne yatış
-			_hedef_squash = Vector2(1.15, 0.9)
+			egim = deg_to_rad(20.0) * yon                          # öne yatış
+			_hedef_squash = Vector2(1.18, 0.86)
 		Durum.HASAR:
-			gorsel.position.x = sin(_anim_zaman * 60.0) * 2.0  # titreme
+			offset_x = sin(_anim_zaman * 70.0) * 2.0               # sarsıntı
 		_:
 			pass
 
-	# İniş ezilmesi: havadan yere değme anında squash
+	# İniş ezilmesi
 	if yerde and not _onceki_yerde:
-		_squash = Vector2(1.25, 0.72)
+		_squash = Vector2(1.3, 0.7)
 	_onceki_yerde = yerde
 
-	# Yumuşak geçiş
-	_squash = _squash.lerp(_hedef_squash, 1.0 - exp(-18.0 * delta))
+	_squash = _squash.lerp(_hedef_squash, 1.0 - exp(-20.0 * delta))
 	var flip := -1.0 if yon < 0 else 1.0
 	gorsel.scale = Vector2(_squash.x * flip, _squash.y)
 	gorsel.rotation = egim
-	if durum not in [Durum.HAFIF_SALDIRI, Durum.AGIR_SALDIRI, Durum.HASAR]:
-		gorsel.position.x = move_toward(gorsel.position.x, 0.0, 40.0 * delta)
-	gorsel.position.y = GORSEL_TABAN_Y + offset_y
+	# Tam piksele yuvarla (jitter'ı önler)
+	gorsel.position = Vector2(round(offset_x), round(GORSEL_TABAN_Y + offset_y))
