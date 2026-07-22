@@ -1,0 +1,101 @@
+[gd_scene load_steps=5 format=3]
+
+[ext_resource type="Script" path="res://scripts/tests/test_odasi.gd" id="1_to"]
+[ext_resource type="PackedScene" path="res://scenes/characters/togan.tscn" id="2_tg"]
+[ext_resource type="PackedScene" path="res://scenes/enemies/dummy.tscn" id="3_dm"]
+
+[sub_resource type="RectangleShape2D" id="zemin_sekil"]
+size = Vector2(1200, 40)
+
+[node name="TestOdasi" type="Node2D"]
+script = ExtResource("1_to")
+
+[node name="Zemin" type="StaticBody2D" parent="."]
+position = Vector2(320, 340)
+
+[node name="ZeminSekil" type="CollisionShape2D" parent="Zemin"]
+shape = SubResource("zemin_sekil")
+
+[node name="ZeminGorsel" type="ColorRect" parent="Zemin"]
+offset_left = -600.0
+offset_top = -20.0
+offset_right = 600.0
+offset_bottom = 20.0
+color = Color(0.24, 0.26, 0.3, 1)
+
+[node name="Platform1" type="StaticBody2D" parent="."]
+position = Vector2(180, 250)
+
+[node name="P1Sekil" type="CollisionShape2D" parent="Platform1"]
+shape = SubResource("zemin_sekil")
+scale = Vector2(0.1, 0.4)
+
+[node name="P1Gorsel" type="ColorRect" parent="Platform1"]
+offset_left = -60.0
+offset_top = -8.0
+offset_right = 60.0
+offset_bottom = 8.0
+color = Color(0.3, 0.33, 0.38, 1)
+
+[node name="Platform2" type="StaticBody2D" parent="."]
+position = Vector2(460, 200)
+
+[node name="P2Sekil" type="CollisionShape2D" parent="Platform2"]
+shape = SubResource("zemin_sekil")
+scale = Vector2(0.1, 0.4)
+
+[node name="P2Gorsel" type="ColorRect" parent="Platform2"]
+offset_left = -60.0
+offset_top = -8.0
+offset_right = 60.0
+offset_bottom = 8.0
+color = Color(0.3, 0.33, 0.38, 1)
+
+[node name="SolDuvar" type="StaticBody2D" parent="."]
+position = Vector2(-270, 180)
+rotation = 1.5708
+
+[node name="SDSekil" type="CollisionShape2D" parent="SolDuvar"]
+shape = SubResource("zemin_sekil")
+scale = Vector2(0.5, 1.0)
+
+[node name="SagDuvar" type="StaticBody2D" parent="."]
+position = Vector2(910, 180)
+rotation = 1.5708
+
+[node name="SGSekil" type="CollisionShape2D" parent="SagDuvar"]
+shape = SubResource("zemin_sekil")
+scale = Vector2(0.5, 1.0)
+
+[node name="Togan" parent="." instance=ExtResource("2_tg")]
+position = Vector2(60, 318)
+
+[node name="Dummy" parent="." instance=ExtResource("3_dm")]
+position = Vector2(420, 318)
+
+[node name="HUD" type="CanvasLayer" parent="."]
+
+[node name="Bilgi" type="VBoxContainer" parent="HUD"]
+offset_left = 8.0
+offset_top = 6.0
+offset_right = 200.0
+offset_bottom = 80.0
+
+[node name="Can" type="Label" parent="HUD/Bilgi"]
+layout_mode = 2
+text = "CAN"
+
+[node name="Denge" type="Label" parent="HUD/Bilgi"]
+layout_mode = 2
+text = "DENGE"
+
+[node name="Irade" type="Label" parent="HUD/Bilgi"]
+layout_mode = 2
+text = "İRADE"
+
+[node name="Ipucu" type="Label" parent="HUD"]
+offset_left = 8.0
+offset_top = 336.0
+offset_right = 632.0
+offset_bottom = 356.0
+text = "A/D hareket · Space zıpla · J hafif · K ağır · L parry · Shift kaçınma"

@@ -1,0 +1,9 @@
+# key,text
+ui_can,HEALTH
+ui_denge,POISE
+ui_irade,RESOLVE
+ui_devam,Continue
+ui_yeni_oyun,New Game
+ui_ayarlar,Settings
+ui_cikis,Quit
+ipucu_hareket,A/D move · Space jump · J light · K heavy · L parry · Shift dodge
