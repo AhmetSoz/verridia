@@ -6,7 +6,7 @@ extends CharacterBody2D
 ## büyük darbede 40–90ms hit-stop. Karakter komuta HEMEN tepki verir;
 ## ağırlık animasyondan gelir, girdi gecikmesinden değil.
 
-enum Durum { BOS, KOSU, ZIPLA, DUSUS, KACINMA, HAFIF_SALDIRI, AGIR_SALDIRI, PARRY, HASAR, SENDELEME, OLU }
+enum Durum { BOS, KOSU, ZIPLA, DUSUS, KACINMA, HAFIF_SALDIRI, AGIR_SALDIRI, PARRY, HASAR, SENDELEME, TUTUNMA, CEKME, OLU }
 
 # --- Hareket ayarları (ilk prototipte ayarlanacak başlangıç noktaları) ---
 @export_group("Hareket")
@@ -37,6 +37,11 @@ enum Durum { BOS, KOSU, ZIPLA, DUSUS, KACINMA, HAFIF_SALDIRI, AGIR_SALDIRI, PARR
 @export var agir_hasar: float = 24.0
 @export var agir_denge_hasari: float = 22.0
 
+@export_group("Kenar Tutunma")
+@export var cekme_suresi: float = 0.28      # kendini yukarı çekme süresi
+@export var el_yuksekligi: float = -26.0    # elin duvara değdiği yükseklik
+@export var bas_yuksekligi: float = -46.0   # başın üstü (boş olmalı = kenar var)
+
 var durum: Durum = Durum.BOS
 var yon: int = 1  # 1 sağ, -1 sol
 
@@ -48,11 +53,16 @@ var _durum_sayac: float = 0.0
 var _kombo_adim: int = 0                # 0..2 (üç vuruşluk hafif kombo)
 var _parry_aktif: bool = false
 var _dokunulmaz: bool = false
+var _tutun_bekleme: float = 0.0         # bırakınca hemen tekrar tutunmayı engeller
+var _cekme_bas: Vector2 = Vector2.ZERO
+var _cekme_hedef: Vector2 = Vector2.ZERO
 
 @onready var stats: CombatStats = $CombatStats
 @onready var hitbox: Hitbox = $Hitbox
 @onready var hurtbox: Hurtbox = $Hurtbox
 @onready var gorsel: AnimatedSprite2D = $Gorsel
+var _el_ray: RayCast2D
+var _bas_ray: RayCast2D
 
 func _ready() -> void:
 	add_to_group("oyuncu")
@@ -60,6 +70,15 @@ func _ready() -> void:
 	hurtbox.vuruldu.connect(_vuruldu)
 	stats.denge_kirildi.connect(func(): _duruma_gec(Durum.SENDELEME))
 	stats.oldu.connect(_ol)
+	# Kenar tutunma ışınları (dünya = katman 1)
+	_el_ray = RayCast2D.new()
+	_el_ray.position = Vector2(0, el_yuksekligi)
+	_el_ray.collision_mask = 1
+	add_child(_el_ray)
+	_bas_ray = RayCast2D.new()
+	_bas_ray.position = Vector2(0, bas_yuksekligi)
+	_bas_ray.collision_mask = 1
+	add_child(_bas_ray)
 
 func _physics_process(delta: float) -> void:
 	_sayaclar(delta)
@@ -80,6 +99,10 @@ func _physics_process(delta: float) -> void:
 			_parry_guncelle(delta)
 		Durum.HASAR, Durum.SENDELEME:
 			_toparlanma_guncelle(delta)
+		Durum.TUTUNMA:
+			_tutunma_guncelle(delta)
+		Durum.CEKME:
+			_cekme_guncelle(delta)
 		Durum.OLU:
 			velocity.x = move_toward(velocity.x, 0.0, surtunme * delta)
 
@@ -109,6 +132,8 @@ func _sayaclar(delta: float) -> void:
 	_girdi_tampon_sayac -= delta
 	if _girdi_tampon_sayac <= 0.0:
 		_girdi_tamponu_eylem = ""
+	if _tutun_bekleme > 0.0:
+		_tutun_bekleme -= delta
 
 func _girdi_tamponla(eylem: String) -> void:
 	_girdi_tamponu_eylem = eylem
@@ -122,7 +147,9 @@ func _tamponu_tuket() -> String:
 # ---------- Hareket ----------
 
 func _yercekimi_uygula(delta: float) -> void:
-	if not is_on_floor() and durum != Durum.KACINMA:
+	if durum == Durum.KACINMA or durum == Durum.TUTUNMA or durum == Durum.CEKME:
+		return  # bu durumlarda yerçekimi yok
+	if not is_on_floor():
 		velocity.y = minf(velocity.y + yercekimi * delta, dusme_azami)
 
 func _girdi_ekseni() -> float:
@@ -155,6 +182,10 @@ func _hava_hareketi(delta: float) -> void:
 		velocity.y *= 0.55
 	if velocity.y >= 0.0:
 		durum = Durum.DUSUS
+	# Kenara tutunma: düşerken, duvara doğru bastırırken bir kenar yakala
+	if durum == Durum.DUSUS and velocity.y > 0.0 and _tutun_bekleme <= 0.0 and _kenar_var():
+		_tutun()
+		return
 	if is_on_floor():
 		_duruma_gec(Durum.BOS)
 
@@ -163,6 +194,52 @@ func _zipla() -> void:
 	_zipla_tampon_sayac = 0.0
 	_coyote_sayac = 0.0
 	_duruma_gec(Durum.ZIPLA)
+
+# ---------- Kenar tutunma ----------
+
+func _kenar_var() -> bool:
+	# Duvara doğru bastırmıyorsa tutunma
+	var eksen := _girdi_ekseni()
+	if absf(eksen) < 0.3 or signf(eksen) != float(yon):
+		return false
+	_el_ray.target_position = Vector2(16.0 * yon, 0.0)
+	_bas_ray.target_position = Vector2(16.0 * yon, 0.0)
+	_el_ray.force_raycast_update()
+	_bas_ray.force_raycast_update()
+	# El hizasında duvar VAR, başın üstünde duvar YOK → tutulacak bir kenar var
+	return _el_ray.is_colliding() and not _bas_ray.is_colliding()
+
+func _tutun() -> void:
+	_duruma_gec(Durum.TUTUNMA)
+	velocity = Vector2.ZERO
+	Fx.toz(global_position + Vector2(10.0 * yon, -20.0), 0.5)
+
+func _tutunma_guncelle(_delta: float) -> void:
+	velocity = Vector2.ZERO
+	if Input.is_action_just_pressed("zipla"):
+		_cekme_basla()
+	elif Input.is_action_just_pressed("egil"):
+		# Bırak: kısa süre tekrar tutunma kilidi
+		_tutun_bekleme = 0.35
+		velocity.y = 60.0
+		_duruma_gec(Durum.DUSUS)
+
+func _cekme_basla() -> void:
+	_duruma_gec(Durum.CEKME)
+	_cekme_bas = global_position
+	# Kenarın üstüne: ileri + yukarı
+	_cekme_hedef = global_position + Vector2(18.0 * yon, -46.0)
+
+func _cekme_guncelle(_delta: float) -> void:
+	var t: float = clampf(_durum_sayac / cekme_suresi, 0.0, 1.0)
+	# Yumuşak (önce yukarı, sonra ileri hissi)
+	var egri: float = 1.0 - pow(1.0 - t, 2.0)
+	global_position = _cekme_bas.lerp(_cekme_hedef, egri)
+	if t >= 1.0:
+		velocity = Vector2.ZERO
+		_tutun_bekleme = 0.15
+		Fx.toz(global_position, 0.6)
+		_duruma_gec(Durum.BOS)
 
 # ---------- Eylemler ----------
 
@@ -327,6 +404,10 @@ func _durum_gorseli() -> void:
 			ton = Color(1.6, 1.5, 1.0) if _parry_aktif else Color(0.85, 0.85, 0.8)
 		Durum.HASAR, Durum.SENDELEME:
 			ton = Color(1.5, 0.55, 0.55)            # kırmızı flaş
+		Durum.TUTUNMA:
+			anim = "dusus"                          # geçici; "tutunma" karesi gelince değişir
+		Durum.CEKME:
+			anim = "zipla"                          # geçici; "cekme" karesi gelince değişir
 		Durum.OLU:
 			ton = Color(0.45, 0.45, 0.5)
 	gorsel.modulate = ton
