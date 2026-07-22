@@ -185,6 +185,7 @@ func _kacinma_basla() -> void:
 	var k_yon: float = eksen if absf(eksen) > 0.01 else float(yon)
 	velocity.x = signf(k_yon) * kacinma_hizi
 	velocity.y = 0.0
+	Fx.toz(global_position, 0.8)
 
 func _kacinma_guncelle(delta: float) -> void:
 	_dokunulmaz = _durum_sayac >= kacinma_dokunulmazlik_bas and _durum_sayac <= kacinma_dokunulmazlik_son
@@ -271,6 +272,7 @@ func _vuruldu(hb: Hitbox) -> void:
 	if _parry_aktif:
 		# BAŞARILI PARRY: hasar yok, İrade dolar, hit-stop, saldıran sendeler
 		stats.irade_kazan(parry_irade_kazanci)
+		Fx.parry(global_position + Vector2(12 * yon, -24))
 		_hit_stop(0.07)
 		if hb.sahip and hb.sahip.has_method("parrylendi"):
 			hb.sahip.parrylendi()
@@ -279,6 +281,8 @@ func _vuruldu(hb: Hitbox) -> void:
 	stats.denge_hasari(hb.denge_hasari)
 	var kaynak_x: float = hb.global_position.x if hb.sahip == null else hb.sahip.global_position.x
 	velocity.x = signf(global_position.x - kaynak_x) * hb.geri_itme
+	Fx.carp(global_position + Vector2(0, -24), signf(global_position.x - kaynak_x))
+	Fx.sars(4.0, 0.2)
 	if durum != Durum.SENDELEME:
 		_duruma_gec(Durum.HASAR)
 
@@ -336,9 +340,11 @@ var _onceki_yerde: bool = true
 
 func _animasyon(delta: float) -> void:
 	var yerde := is_on_floor()
-	# İniş ezilmesi (karelerin üstüne küçük dokunuş)
+	# İniş ezilmesi (karelerin üstüne küçük dokunuş) + toz + hafif sarsıntı
 	if yerde and not _onceki_yerde:
 		_squash = Vector2(1.28, 0.72)
+		Fx.toz(global_position, 1.0)
+		Fx.sars(2.0, 0.1)
 	_onceki_yerde = yerde
 	_squash = _squash.lerp(Vector2.ONE, 1.0 - exp(-20.0 * delta))
 	gorsel.scale = _squash

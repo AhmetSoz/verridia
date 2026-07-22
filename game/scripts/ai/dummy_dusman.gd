@@ -94,8 +94,10 @@ func _vuruldu(hb: Hitbox) -> void:
 		return
 	stats.hasar_al(hb.hasar)
 	stats.denge_hasari(hb.denge_hasari)
-	velocity.x = signf(global_position.x - hb.sahip.global_position.x) * hb.geri_itme * 0.6
+	var d := signf(global_position.x - hb.sahip.global_position.x)
+	velocity.x = d * hb.geri_itme * 0.6
 	_vurus_flasi = 0.08  # kısa beyaz flaş
+	Fx.carp(global_position + Vector2(6 * -d, -18), d)
 
 func parrylendi() -> void:
 	## Oyuncu bu düşmanın saldırısını parryledi → uzun sendeleme (karşı saldırı fırsatı)
@@ -106,6 +108,9 @@ func _ol() -> void:
 	_gec(Durum.OLU)
 	hitbox.kapat()
 	hurtbox.set_deferred("monitoring", false)
+	Fx.olum(global_position + Vector2(0, -18), Color(0.58, 0.30, 0.22))
+	gorsel.visible = false
+	get_tree().create_timer(0.4).timeout.connect(queue_free)
 
 func _gec(yeni: Durum) -> void:
 	durum = yeni

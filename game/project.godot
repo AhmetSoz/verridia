@@ -27,6 +27,7 @@ SaveManager="*res://autoload/save_manager.gd"
 SceneFlow="*res://autoload/scene_flow.gd"
 AudioManager="*res://autoload/audio_manager.gd"
 Loc="*res://autoload/localization_manager.gd"
+Fx="*res://autoload/fx.gd"
 
 [display]
 

@@ -1,12 +1,20 @@
-[gd_scene load_steps=7 format=3]
+[gd_scene load_steps=9 format=3]
 
 [ext_resource type="Script" path="res://scripts/tests/test_odasi.gd" id="1_to"]
 [ext_resource type="PackedScene" path="res://scenes/characters/togan.tscn" id="2_tg"]
 [ext_resource type="PackedScene" path="res://scenes/enemies/dummy.tscn" id="3_dm"]
 [ext_resource type="Texture2D" uid="uid://d4c08673qt2d1" path="res://asset/arkaplanlar/golgeortu_arka.png" id="4_bg"]
+[ext_resource type="PackedScene" path="res://scenes/ui/hud.tscn" id="5_hud"]
+[ext_resource type="Shader" path="res://shaders/vinyet.gdshader" id="6_vin"]
 
 [sub_resource type="RectangleShape2D" id="zemin_sekil"]
 size = Vector2(1200, 40)
+
+[sub_resource type="ShaderMaterial" id="vin_mat"]
+shader = ExtResource("6_vin")
+shader_parameter/guc = 0.5
+shader_parameter/ic = 0.32
+shader_parameter/dis = 0.9
 
 [node name="TestOdasi" type="Node2D"]
 script = ExtResource("1_to")
@@ -21,6 +29,22 @@ anchor_bottom = 1.0
 texture = ExtResource("4_bg")
 expand_mode = 1
 stretch_mode = 6
+
+[node name="Sis" type="CPUParticles2D" parent="."]
+position = Vector2(320, 200)
+amount = 46
+lifetime = 7.0
+preprocess = 4.0
+emission_shape = 3
+emission_rect_extents = Vector2(460, 190)
+direction = Vector2(1, 0)
+spread = 180.0
+gravity = Vector2(0, -3)
+initial_velocity_min = 6.0
+initial_velocity_max = 20.0
+scale_amount_min = 1.0
+scale_amount_max = 2.5
+color = Color(0.72, 0.78, 0.86, 0.14)
 
 [node name="Zemin" type="StaticBody2D" parent="."]
 position = Vector2(320, 340)
@@ -85,29 +109,26 @@ position = Vector2(60, 318)
 [node name="Dummy" parent="." instance=ExtResource("3_dm")]
 position = Vector2(420, 318)
 
-[node name="HUD" type="CanvasLayer" parent="."]
+[node name="Vinyet" type="CanvasLayer" parent="."]
+layer = 5
 
-[node name="Bilgi" type="VBoxContainer" parent="HUD"]
+[node name="Perde" type="ColorRect" parent="Vinyet"]
+material = SubResource("vin_mat")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+color = Color(1, 1, 1, 1)
+
+[node name="HUD" parent="." instance=ExtResource("5_hud")]
+
+[node name="Ipucu" type="CanvasLayer" parent="."]
+
+[node name="Etiket" type="Label" parent="Ipucu"]
 offset_left = 8.0
-offset_top = 6.0
-offset_right = 200.0
-offset_bottom = 80.0
-
-[node name="Can" type="Label" parent="HUD/Bilgi"]
-layout_mode = 2
-text = "CAN"
-
-[node name="Denge" type="Label" parent="HUD/Bilgi"]
-layout_mode = 2
-text = "DENGE"
-
-[node name="Irade" type="Label" parent="HUD/Bilgi"]
-layout_mode = 2
-text = "İRADE"
-
-[node name="Ipucu" type="Label" parent="HUD"]
-offset_left = 8.0
-offset_top = 336.0
+offset_top = 338.0
 offset_right = 632.0
 offset_bottom = 356.0
+theme_override_font_sizes/font_size = 8
+theme_override_colors/font_color = Color(0.7, 0.7, 0.66, 0.7)
 text = "A/D hareket · Space zıpla · J hafif · K ağır · L parry · Shift kaçınma"
