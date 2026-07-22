@@ -14,7 +14,9 @@
   Dünya ile Dört Yol bilgileri haritayı terk etmeden açılan yan panellerdedir.
   Masaüstünde atlas, Verridia'nın mühürleri ve keşif araçlarıyla hazırlanmış fiziksel bir savaş masasının
   üzerinde durur; başlangıç bilgilendirmesi haritayı kaplayan bir arayüz kutusu yerine masaya iliştirilmiş
-  küçük bir emir kâğıdı olarak gösterilir. Mobilde okunabilir alanı korumak için harita tam ekran kalır.
+  küçük bir emir kâğıdı olarak gösterilir. İmleç bir bölgeye yaklaştığında kâğıdın kayıt yeri, mührü ve
+  kısa saha notu değişir; harita işareti yalnız o anda belirginleşir. Dünya ve Dört Yol, deri sırtlı fiziksel
+  arşiv dosyaları gibi açılır. Mobilde okunabilir alanı korumak için harita tam ekran kalır.
 - **kitap.html** — kitap okuyucu: 3 kitap / 17 kısım / 358 bölüm.
   - Sol ağaç menü (kitap → kısım → bölüm), ☰ ile açılıp kapanır
   - A− / A+ yazı boyutu, ☀/☾ gece–sepya tema

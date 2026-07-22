@@ -40,6 +40,9 @@
   var levhaHalk = secici("#levha-halk");
   var levhaAd = secici("#levha-ad");
   var levhaMetin = secici("#levha-metin");
+  var levhaMuhur = secici("#levha-muhur");
+  var levhaKonum = secici("#levha-konum");
+  var secimLevhasi = secici("#secim-levhasi");
   var levhaEylem = secici("#levha-eylem");
   var secimiKaldir = secici("#secimi-kaldir");
   var haritaDurum = secici("#harita-durum");
@@ -318,50 +321,62 @@
   var MEKANLAR = [
     {
       id: "metheris", ad: "Metheris", halk: "Hegemonya", x: 11.3, y: 60.5,
+      konum: "Batı Kıyısı", muhur: "✦", renk: "#8f6d36",
       kisa: "Hegemonya'nın taş başkenti — fiyortların üzerinde soğuk ihtişam.",
       metin: "Aethelian Hegemonyası'nın başkenti. Batı kıyısının fiyortları üzerinde taş, tören ve soğuk ihtişam. Sarayın koridorlarında unvanlar fısıltıyla el değiştirir; Kraliçe Karia, kanla korunan bu tahtı liyakatle yeniden kurmaya yemin etti. Kuzey Sefer Yolu buradan başlar — Işık Seddi'ne otuz beş günlük yol."
     },
     {
       id: "derin-yuva", ad: "Derin-Yuva", halk: "Granitler", x: 39.7, y: 66.5,
+      konum: "Ak-Siper Dağları", muhur: "▲", renk: "#6f716b",
       kisa: "Granit Klanları'nın dağın kalbine oyduğu başkent.",
       metin: "Ak-Siper Dağları'nın içine, kaya damarlarını izleyerek oyulmuş taş koridorlar şehri. Geceleri vadilerde Dağ'ın Nefesi uğuldar. Granitler, Valerius Geçidi'nin anahtarını ellerinde tutar — kıtanın iki yarısı ancak onların izniyle birbirine bağlanır."
     },
     {
       id: "kartal-yurdu", ad: "Kartal-Yurdu", halk: "Sungurlar", x: 46.2, y: 57,
+      konum: "Batı Bozkırı", muhur: "◆", renk: "#81552c",
       kisa: "Sungurların dağ kışlağı — kartalların ve eski yeminlerin yurdu.",
       metin: "Sungur klanının yurdu: kartal tüneklerinin, Rüzgâr-Dinleyenler'in ve kadim yeminlerin toprağı. Togan bu avlularda kılıç salladı, Burkut'u burada eğitti — ve buradan ayrılırken arkasında hem bir mezar hem bir sır bıraktı."
     },
     {
       id: "yildiz-orsu", ad: "Yıldız-Örsü", halk: "Temürçiler", x: 51.1, y: 49.5,
+      konum: "Merkez Krateri", muhur: "✶", renk: "#9a5129",
       kisa: "Gökten düşen yıldızın krateri; Temürçi ustalarının ocağı.",
       metin: "Fersahlarca genişlikte dairesel bir krater — gökten düşen yıldızın açtığı yara. Merkezinde Büyük Örs durur: Temürçi ustaları yıldız-demirini burada döver. Tek girişini Örs Muhafızları tutar; kıvılcımlar, söylenceye göre, hiç sönmemiştir."
     },
     {
       id: "eski-kent", ad: "Eski-Kent", halk: "Mirasçılar", x: 65.1, y: 36,
+      konum: "Kuzeydoğu", muhur: "⌘", renk: "#5e6865",
       kisa: "Eskiler'in yıkıntıları üzerine kurulu Mirasçı başkenti.",
       metin: "Eskiler'in yıkık şehrinin üzerine taş taş kurulmuş Mirasçı başkenti. Kalbinde, yosun katkılı reçineyle mühürlenmiş Büyük Kütüphane — dünyanın hafızası. Kapıları gün batımında kendiliğinden kapanır; bazı raflar hâlâ kimsenin okuyamadığı dillerde fısıldar."
     },
     {
       id: "buyuk-ordugah", ad: "Büyük Ordugâh", halk: "Azgutlar", x: 68.7, y: 53.5,
+      konum: "Solgun Bozkırlar", muhur: "┼", renk: "#7b4b2c",
       kisa: "Azgut ordularının kalbi — bozkırın en büyük çadır-şehri.",
       metin: "Bozkırın en büyük çadır-şehri: on binlerce otağ, tuğlar ve at kokusu. Han otağının önünde ordular yemin eder. Temujin'in adı bu topraklarda önce sürgünle, sonra zaferle anıldı — Dört Bayrak İttifakı'nın doğu direği burada durur."
     },
     {
       id: "sazlik-taht", ad: "Sazlık Taht", halk: "Delta", x: 93.5, y: 79.5,
+      konum: "Rivan Deltası", muhur: "≈", renk: "#4f6b58",
       kisa: "Delta'nın yaşayan ağaç-sarayı — fısıltının başkenti.",
       metin: "Rivan Deltası'nın kalbinde, yaşayan ağaçlardan örülmüş saray. Savlak su yolları arasında beyler fısıltıyla iş görür; hiçbir söz karşılıksız, hiçbir iyilik hesapsız değildir. Her fısıltının ucu eninde sonunda Fısıltı Ustası Malakor'a çıkar."
     },
     {
       id: "yamali-liman", ad: "Yamalı Liman", halk: "Korsanlar", x: 93.4, y: 62,
+      konum: "Yetim Kıyıları", muhur: "⚓", renk: "#3e6370",
       kisa: "Korsan başkenti — yüz enkazdan yamanmış şehir.",
       metin: "Yetim Kıyıları'nın başkenti: yüz batık gemiden yamanmış iskeleler, direkler ve çatılar. Enkaz Kraliçesi Zaleena burada hüküm sürer — Kaptanlar Konseyi'nin sesi, otuz yıllık bir bayrak hayalinin sahibi. Şimdi denizin dibinde sabırla atan yeşil bir ışığın bekçisi."
     }
   ];
 
   function levhayiVarsayilanaDondur() {
+    secimLevhasi.classList.remove("bolge-hazir");
+    secimLevhasi.style.removeProperty("--levha-vurgu");
     levhaSira.textContent = "08 BÖLGE";
     levhaHalk.textContent = "VERRIDIA ATLASI";
     levhaAd.textContent = "Bir bölge seç";
+    levhaMuhur.textContent = "◇";
+    levhaKonum.textContent = "KUZEY MÜHÜRLÜ";
     levhaMetin.textContent = dokunmatik
       ? "Gitmek istediğin bölgeye dokun; ardından yukarı kaydır. Aşağı kaydırdığında aynı yoldan haritaya dönersin."
       : "İmleci gitmek istediğin bölgeye yaklaştır. Tekerleği ileri ittiğinde harita seni bulutların arasından o toprağa götürecek.";
@@ -369,17 +384,21 @@
   }
 
   function levhayiDoldur(m, sira, gecici) {
+    secimLevhasi.classList.add("bolge-hazir");
+    secimLevhasi.style.setProperty("--levha-vurgu", m.renk);
     levhaSira.textContent = "BÖLGE " + iki(sira);
     levhaHalk.textContent = m.halk;
     levhaAd.textContent = m.ad;
+    levhaMuhur.textContent = m.muhur;
+    levhaKonum.textContent = m.konum.toLocaleUpperCase("tr-TR");
     levhaMetin.textContent = gecici
       ? m.kisa
       : m.kisa + (dokunmatik
         ? " Yukarı kaydırdıkça yol ilerler; aşağı kaydırdığında haritaya dönersin."
         : " Tekerleği ileri ittikçe yol ilerler; geri çektiğinde haritaya dönersin.");
     levhaEylem.textContent = gecici
-      ? (dokunmatik ? "Dokun · ardından yukarı kaydır" : "Tekerleği ileri it · yolculuk kendiliğinden başlar")
-      : (dokunmatik ? "Yukarı kaydırarak ilerle · aşağı kaydırarak dön" : "İleri iterek ilerle · geri çekerek dön");
+      ? (dokunmatik ? "Dokun · yukarı kaydır" : "Tekerleği ileri it · yola çık")
+      : (dokunmatik ? "Yukarı kaydır · aşağı dön" : "İleri it · geri çek");
   }
 
   function enYakinHedef(x, y, sinirsiz) {
@@ -409,7 +428,7 @@
       return;
     }
     levhayiDoldur(kayit.m, kayit.sira, true);
-    haritaDurum.textContent = kayit.m.ad + (dokunmatik ? " · Yukarı kaydırarak yaklaş" : " · Tekerleği ileri iterek yaklaş");
+    haritaDurum.textContent = kayit.m.ad + (dokunmatik ? " · Yukarı kaydır" : " · İleri iterek yaklaş");
     medyayiOnYukle(kayit.m);
   }
 
@@ -772,13 +791,18 @@
   };
   var panelOrtu = secici("#panel-ortu");
   var sayacCalisti = false;
+  var panelAcici = null;
 
-  function panelAc(ad) {
+  function panelAc(ad, acici) {
     if (!paneller[ad]) return;
+    panelAcici = acici || null;
     Object.keys(paneller).forEach(function (anahtar) {
       var acik = anahtar === ad;
       paneller[anahtar].classList.toggle("acik", acik);
       paneller[anahtar].setAttribute("aria-hidden", acik ? "false" : "true");
+    });
+    hepsi("[data-panel]").forEach(function (btn) {
+      btn.setAttribute("aria-expanded", btn.dataset.panel === ad ? "true" : "false");
     });
     govde.classList.add("panel-acik");
     panelOrtu.tabIndex = 0;
@@ -788,27 +812,34 @@
       hepsi("#panel-dunya .deger[data-hedef]").forEach(sayacCalistir);
     }
     var kapat = secici(".panel-kapat", paneller[ad]);
-    if (kapat) kapat.focus({ preventScroll: true });
+    if (kapat) {
+      window.setTimeout(function () {
+        if (paneller[ad].classList.contains("acik")) kapat.focus({ preventScroll: true });
+      }, 40);
+    }
   }
 
-  function panelleriKapat() {
+  function panelleriKapat(odagiDondur) {
     Object.keys(paneller).forEach(function (anahtar) {
       paneller[anahtar].classList.remove("acik");
       paneller[anahtar].setAttribute("aria-hidden", "true");
     });
+    hepsi("[data-panel]").forEach(function (btn) { btn.setAttribute("aria-expanded", "false"); });
     govde.classList.remove("panel-acik");
     panelOrtu.tabIndex = -1;
+    if (odagiDondur !== false && panelAcici) panelAcici.focus({ preventScroll: true });
+    panelAcici = null;
   }
 
   hepsi("[data-panel]").forEach(function (btn) {
     btn.addEventListener("click", function () {
       var ad = btn.dataset.panel;
-      if (paneller[ad].classList.contains("acik")) panelleriKapat();
-      else panelAc(ad);
+      if (paneller[ad].classList.contains("acik")) panelleriKapat(true);
+      else panelAc(ad, btn);
     });
   });
-  hepsi(".panel-kapat").forEach(function (btn) { btn.addEventListener("click", panelleriKapat); });
-  panelOrtu.addEventListener("click", panelleriKapat);
+  hepsi(".panel-kapat").forEach(function (btn) { btn.addEventListener("click", function () { panelleriKapat(true); }); });
+  panelOrtu.addEventListener("click", function () { panelleriKapat(true); });
 
   function sayacCalistir(el) {
     var son = parseFloat(el.dataset.hedef);
@@ -826,6 +857,22 @@
   }
 
   document.addEventListener("keydown", function (e) {
+    if (e.key === "Tab" && govde.classList.contains("panel-acik")) {
+      var aktifPanel = secici(".panel.acik");
+      var odaklanabilirler = aktifPanel ? hepsi("button, a[href], [tabindex]:not([tabindex='-1'])", aktifPanel) : [];
+      if (odaklanabilirler.length) {
+        var ilk = odaklanabilirler[0];
+        var son = odaklanabilirler[odaklanabilirler.length - 1];
+        if (e.shiftKey && document.activeElement === ilk) {
+          e.preventDefault();
+          son.focus();
+        } else if (!e.shiftKey && document.activeElement === son) {
+          e.preventDefault();
+          ilk.focus();
+        }
+      }
+      return;
+    }
     if (e.key !== "Escape") return;
     if (govde.classList.contains("panel-acik")) panelleriKapat();
     else if (DURUM.etkin) haritayaDon();
@@ -854,7 +901,19 @@
     var hy = -100;
     var nx = -100;
     var ny = -100;
-    document.addEventListener("mousemove", function (e) { nx = e.clientX; ny = e.clientY; });
+    var masaHareketKaresi = 0;
+    document.addEventListener("mousemove", function (e) {
+      nx = e.clientX;
+      ny = e.clientY;
+      if (azaltHareket || masaHareketKaresi) return;
+      masaHareketKaresi = window.requestAnimationFrame(function () {
+        masaHareketKaresi = 0;
+        var masaX = ((nx / Math.max(1, window.innerWidth)) - .5) * -7;
+        var masaY = ((ny / Math.max(1, window.innerHeight)) - .5) * -5;
+        sabitSahne.style.setProperty("--masa-x", masaX.toFixed(2) + "px");
+        sabitSahne.style.setProperty("--masa-y", masaY.toFixed(2) + "px");
+      });
+    });
     (function imlecDongu() {
       hx += (nx - hx) * .17;
       hy += (ny - hy) * .17;

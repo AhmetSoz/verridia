@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <meta name="theme-color" content="#090b0f">
+  <meta name="theme-color" content="#120d09">
   <title>VERRIDIA — Kendi Kendine Kilitlenmiş Dünya</title>
   <meta name="description" content="Verridia'nın kıtalarını, halklarını ve sekiz büyük bölgesini sinematik bir atlas deneyimiyle keşfet.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/stil.css?v=9">
+  <link rel="stylesheet" href="assets/css/stil.css?v=10">
 </head>
 <body class="kesif-modu">
   <a class="atla-baglanti" href="#site-nav">Haritayı atla</a>
@@ -34,8 +34,8 @@
       <span>KUZEY MÜHÜRLÜ</span>
     </div>
     <nav aria-label="Ana menü">
-      <button class="sekme" type="button" data-panel="dunya">Dünya</button>
-      <button class="sekme" type="button" data-panel="dortyol">Dört Yol</button>
+      <button class="sekme" type="button" data-panel="dunya" aria-controls="panel-dunya" aria-expanded="false">Dünya</button>
+      <button class="sekme" type="button" data-panel="dortyol" aria-controls="panel-dortyol" aria-expanded="false">Dört Yol</button>
       <a class="sekme masaustu-baglanti" href="kitap.html#indir">PDF</a>
       <a class="oku-btn" href="kitap.html">Kitabı Oku <span aria-hidden="true">↗</span></a>
     </nav>
@@ -71,12 +71,17 @@
         </div>
 
         <aside class="secim-levhasi" id="secim-levhasi" aria-live="polite">
+          <span class="levha-muhur" id="levha-muhur" aria-hidden="true">◇</span>
           <div class="levha-ust">
             <span id="levha-sira">08 BÖLGE</span>
             <span id="levha-halk">VERRIDIA ATLASI</span>
           </div>
           <h2 id="levha-ad">Bir bölge seç</h2>
           <p id="levha-metin">İmleci gitmek istediğin bölgeye yaklaştır. Tekerleği ileri ittiğinde harita seni bulutların arasından o toprağa götürecek.</p>
+          <div class="levha-kayit">
+            <span>Kayıt yeri</span>
+            <strong id="levha-konum">KUZEY MÜHÜRLÜ</strong>
+          </div>
           <div class="levha-akis" aria-live="polite">
             <i aria-hidden="true">↓</i>
             <span id="levha-eylem">İmleci yaklaştır · tekerleği ileri it</span>
@@ -132,11 +137,11 @@
     </section>
   </main>
 
-  <aside class="panel" id="panel-dunya" aria-hidden="true">
+  <aside class="panel" id="panel-dunya" role="dialog" aria-modal="true" aria-labelledby="panel-dunya-baslik" aria-hidden="true">
     <button class="panel-kapat" type="button" aria-label="Dünya panelini kapat">Kapat <span>✕</span></button>
     <div class="panel-kod">ARŞİV / DÜNYA</div>
     <div class="etiket">Külliyat</div>
-    <h2>Bir kıta, bir mühür ve yaklaşan bir döngü.</h2>
+    <h2 id="panel-dunya-baslik">Bir kıta, bir mühür ve yaklaşan bir döngü.</h2>
     <p class="aciklama">
       Verridia'nın kuzeyi, yerden göğe yükselen altınımsı bir ışık perdesiyle — Işık Seddi'yle — kapalıdır.
       Batıda Hegemonya'nın taş sarayları, kıtanın kalbinde bozkırın atlı klanları, güneydoğuda Delta'nın
@@ -151,11 +156,11 @@
     </div>
   </aside>
 
-  <aside class="panel" id="panel-dortyol" aria-hidden="true">
+  <aside class="panel" id="panel-dortyol" role="dialog" aria-modal="true" aria-labelledby="panel-dortyol-baslik" aria-hidden="true">
     <button class="panel-kapat" type="button" aria-label="Dört Yol panelini kapat">Kapat <span>✕</span></button>
     <div class="panel-kod">ARŞİV / DÖRT YOL</div>
     <div class="etiket">Dört hayat, tek gökyüzü</div>
-    <h2>Dünyanın dört ayrı ucundan yükselen dört ses.</h2>
+    <h2 id="panel-dortyol-baslik">Dünyanın dört ayrı ucundan yükselen dört ses.</h2>
     <p class="aciklama">Roman, dört ayrı gözden anlatılır — dört ayrı toprağın ve kaderin dönüşümlü sesiyle.</p>
     <div class="karakter-listesi">
       <article class="karakter" style="--renk: var(--togan)">
@@ -181,6 +186,6 @@
   <noscript>Bu atlası kullanmak için JavaScript'i etkinleştir. Kitabı doğrudan <a href="kitap.html">buradan okuyabilirsin.</a></noscript>
 
   <script src="assets/vendor/gsap.min.js"></script>
-  <script src="assets/js/ana.js?v=9"></script>
+  <script src="assets/js/ana.js?v=10"></script>
 </body>
 </html>
