@@ -1,368 +1,713 @@
-/* VERRIDIA — tam ekran harita deneyimi */
+/* VERRIDIA — sinematik atlas ve scroll yolculuğu */
 (function () {
   "use strict";
 
-  /* ================= Yükleme perdesi (sayaçlı) ================= */
-  var perde = document.getElementById("perde");
-  var perdeSayac = document.getElementById("perde-sayac");
-  var perdeCizgi = perde ? perde.querySelector(".cizgi") : null;
+  var G = window.gsap || null;
+  var azaltHareket = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var dokunmatik = window.matchMedia("(pointer: coarse)").matches;
+  var ORAN = 1536 / 1024;
+  var Z_MAX = dokunmatik ? 2.25 : 2.7;
+
+  function secici(q, kok) { return (kok || document).querySelector(q); }
+  function hepsi(q, kok) { return Array.prototype.slice.call((kok || document).querySelectorAll(q)); }
+  function sinirla(n, a, b) { return Math.max(a, Math.min(b, n)); }
+  function karistir(a, b, t) { return a + (b - a) * t; }
+  function yumusak(a, b, n) {
+    var t = sinirla((n - a) / (b - a || 1), 0, 1);
+    return t * t * (3 - 2 * t);
+  }
+  function iki(n) { return String(n).padStart(2, "0"); }
+
+  var govde = document.body;
+  var perde = secici("#perde");
+  var perdeSayac = secici("#perde-sayac");
+  var perdeCizgi = perde ? secici(".cizgi", perde) : null;
+  var sahne = secici("#sahne");
+  var dunya = secici("#dunya");
+  var haritaImg = secici("#harita-img");
+  var pinKatmani = secici("#pin-katmani");
+  var yolculuk = secici("#yolculuk");
+  var sabitSahne = secici("#sabit-sahne");
+  var video = secici("#gecis-video");
+  var poster = secici("#bolge-poster");
+  var videoYukleniyor = secici("#video-yukleniyor");
+  var detayBolumu = secici("#bolge-detay");
+  var detayGorsel = secici("#detay-gorsel");
+  var baslikOrtu = secici("#baslik-ortu");
+  var h1 = secici("#baslik-h1");
+
+  var levhaSira = secici("#levha-sira");
+  var levhaHalk = secici("#levha-halk");
+  var levhaAd = secici("#levha-ad");
+  var levhaMetin = secici("#levha-metin");
+  var yolculukBaslat = secici("#yolculuk-baslat");
+  var secimiKaldir = secici("#secimi-kaldir");
+  var haritaDurum = secici("#harita-durum");
+
+  var ilerlemeSayi = secici("#ilerleme-sayi");
+  var ilerlemeAdim = secici("#ilerleme-adim");
+  var bolgeBaslik = secici("#bolge-baslik");
+  var bolgeBaslikSira = secici("#bolge-baslik-sira");
+  var bolgeBaslikHalk = secici("#bolge-baslik-halk");
+  var bolgeBaslikAd = secici("#bolge-baslik-ad");
+  var bolgeBaslikKisa = secici("#bolge-baslik-kisa");
+
+  var detaySira = secici("#detay-sira");
+  var detayHalk = secici("#detay-halk");
+  var detayAd = secici("#detay-ad");
+  var detayMetin = secici("#detay-metin");
+
+  var DURUM = {
+    etkin: null,
+    ilerleme: 0,
+    videoHazir: false,
+    videoSure: 8,
+    hedefZaman: 0,
+    donusIstendi: false,
+    sonPin: null
+  };
+
+  /* ================= Yükleme ================= */
   var sayacDeger = 0;
-  var sayacHedef = 0;
-  var yuklendi = false;
+  var sayacHedef = 86;
+  var haritaHazir = false;
 
   function sayacAdim() {
     if (sayacDeger < sayacHedef) {
-      sayacDeger = Math.min(sayacDeger + Math.ceil((sayacHedef - sayacDeger) / 7) , sayacHedef);
+      sayacDeger = Math.min(sayacHedef, sayacDeger + Math.max(1, Math.ceil((sayacHedef - sayacDeger) / 8)));
       if (perdeSayac) perdeSayac.textContent = sayacDeger;
       if (perdeCizgi) perdeCizgi.style.setProperty("--w", sayacDeger + "%");
     }
-    if (sayacDeger >= 100 && yuklendi) {
-      setTimeout(function () { perde.classList.add("gitti"); }, 350);
+    if (sayacDeger >= 100 && haritaHazir) {
+      window.setTimeout(function () { if (perde) perde.classList.add("gitti"); }, 260);
       return;
     }
-    requestAnimationFrame(sayacAdim);
+    window.requestAnimationFrame(sayacAdim);
   }
-  // Harita yüklenene kadar 88'e kadar akıcı say, yüklenince 100'e tamamla
-  sayacHedef = 88;
-  requestAnimationFrame(sayacAdim);
 
-  /* ================= Sahne: pan / zoom motoru (GSAP süzülme fiziği) ================= */
-  var sahne = document.getElementById("sahne");
-  var dunya = document.getElementById("dunya");
-  var haritaImg = document.getElementById("harita-img");
-  var ORAN = 1536 / 1024; // harita en-boy oranı (3:2)
-  var G = window.gsap || null;
+  function haritaYuklendi() {
+    haritaHazir = true;
+    sayacHedef = 100;
+  }
 
-  var W = 0, H = 0;                        // taban boyut (z=1, harita tam sığar)
-  var hedef = { x: 0, y: 0, z: 1 };        // istenen durum
-  var gercek = { x: 0, y: 0, z: 1 };       // ekrana çizilen durum (hedefe süzülür)
-  var Z_MAX = 2.5;                         // pikselleşme sınırı (harita 3072px)
+  if (haritaImg.complete) haritaYuklendi();
+  else {
+    haritaImg.addEventListener("load", haritaYuklendi, { once: true });
+    haritaImg.addEventListener("error", haritaYuklendi, { once: true });
+  }
+  window.requestAnimationFrame(sayacAdim);
+
+  /* ================= Açılış tipografisi ================= */
+  if (h1) {
+    var baslikYazi = h1.textContent;
+    h1.textContent = "";
+    for (var hi = 0; hi < baslikYazi.length; hi++) {
+      var harf = document.createElement("span");
+      harf.className = "harf";
+      harf.style.setProperty("--i", hi);
+      harf.textContent = baslikYazi.charAt(hi);
+      h1.appendChild(harf);
+    }
+  }
+
+  var ortuKapandi = false;
+  function ortuyuKapat() {
+    if (ortuKapandi || !baslikOrtu) return;
+    ortuKapandi = true;
+    baslikOrtu.classList.add("gitti");
+  }
+  window.setTimeout(ortuyuKapat, azaltHareket ? 900 : 6200);
+
+  /* ================= Harita pan / zoom motoru ================= */
+  var W = 0;
+  var H = 0;
+  var hedef = { x: 0, y: 0, z: 1 };
+  var gercek = { x: 0, y: 0, z: 1 };
   var pinler = [];
+  var tutma = null;
+  var hizX = 0;
+  var hizY = 0;
+  var sonT = 0;
+  var sonX = 0;
+  var sonY = 0;
 
-  function tabanHesapla() {
-    var vw = window.innerWidth, vh = window.innerHeight;
-    // CONTAIN: harita açılışta TAMAMEN görünür (kırpılmaz)
-    W = Math.min(vw, vh * ORAN);
+  function mobilKaplama() {
+    return window.innerWidth / Math.max(1, window.innerHeight) < .82;
+  }
+
+  function tabanHesapla(ilk) {
+    var vw = window.innerWidth;
+    var vh = window.innerHeight;
+    var kapla = mobilKaplama();
+    W = kapla ? Math.max(vw, vh * ORAN) : Math.min(vw, vh * ORAN);
     H = W / ORAN;
     dunya.style.width = W + "px";
     dunya.style.height = H + "px";
-    kilitle();
-  }
-  function kilitle() {
-    var vw = window.innerWidth, vh = window.innerHeight;
-    hedef.z = Math.min(Z_MAX, Math.max(1, hedef.z));
-    var w = W * hedef.z, h = H * hedef.z;
-    // Ekrandan küçükse ortala, büyükse kenarlardan taşmasın
-    if (w <= vw) hedef.x = (vw - w) / 2;
-    else hedef.x = Math.min(0, Math.max(vw - w, hedef.x));
-    if (h <= vh) hedef.y = (vh - h) / 2;
-    else hedef.y = Math.min(0, Math.max(vh - h, hedef.y));
-  }
-  // Süzülme döngüsü: gercek, hedefe her karede yaklaşır (yağ gibi akma hissi)
-  function aktar() {
-    var k = tutma ? 0.35 : 0.11; // sürüklerken sıkı, bırakınca yumuşak
-    gercek.x += (hedef.x - gercek.x) * k;
-    gercek.y += (hedef.y - gercek.y) * k;
-    gercek.z += (hedef.z - gercek.z) * (k * 0.9);
-    dunya.style.transform = "translate3d(" + gercek.x + "px," + gercek.y + "px,0) scale(" + gercek.z + ")";
-    var pz = 1 / gercek.z;
-    for (var i = 0; i < pinler.length; i++) pinler[i].style.setProperty("--pz", pz);
-  }
-  if (G) { G.ticker.add(aktar); G.ticker.lagSmoothing(500, 33); }
-  else { (function dongu() { aktar(); requestAnimationFrame(dongu); })(); }
-
-  function yakinlas(hedefZ, mx, my) {
-    var yeniZ = Math.min(Z_MAX, Math.max(1, hedefZ));
-    if (mx === undefined) { mx = window.innerWidth / 2; my = window.innerHeight / 2; }
-    hedef.x = mx - (mx - hedef.x) * (yeniZ / hedef.z);
-    hedef.y = my - (my - hedef.y) * (yeniZ / hedef.z);
-    hedef.z = yeniZ;
-    kilitle();
+    if (ilk || !DURUM.etkin) haritayiOrtala(ilk);
+    else kilitle();
   }
 
-  // Tekerlek: yumuşak zoom
-  sahne.addEventListener("wheel", function (e) {
-    e.preventDefault();
-    yakinlas(hedef.z * Math.exp(-e.deltaY * 0.0016), e.clientX, e.clientY);
-    ortuGizle();
-  }, { passive: false });
-
-  // Sürükleme + bırakınca ATALET (kayarak durma)
-  var tutma = null;
-  var hizX = 0, hizY = 0, sonT = 0, sonX = 0, sonY = 0;
-  sahne.addEventListener("pointerdown", function (e) {
-    if (e.target.closest(".pin")) return;
-    if (G) G.killTweensOf(hedef);
-    tutma = { px: e.clientX, py: e.clientY, bx: hedef.x, by: hedef.y, tasindi: false };
-    hizX = 0; hizY = 0; sonT = performance.now(); sonX = e.clientX; sonY = e.clientY;
-    sahne.classList.add("tutuluyor");
-    sahne.setPointerCapture(e.pointerId);
-  });
-  sahne.addEventListener("pointermove", function (e) {
-    if (!tutma) return;
-    var dx = e.clientX - tutma.px, dy = e.clientY - tutma.py;
-    if (Math.abs(dx) + Math.abs(dy) > 4) tutma.tasindi = true;
-    hedef.x = tutma.bx + dx; hedef.y = tutma.by + dy;
-    kilitle();
-    // hız ölçümü (atalet için)
-    var t = performance.now(), dt = t - sonT;
-    if (dt > 12) {
-      hizX = (e.clientX - sonX) / dt * 16;
-      hizY = (e.clientY - sonY) / dt * 16;
-      sonT = t; sonX = e.clientX; sonY = e.clientY;
-    }
-    if (tutma.tasindi) ortuGizle();
-  });
-  function tutmaBirak() {
-    if (tutma && tutma.tasindi && G && (Math.abs(hizX) > 2 || Math.abs(hizY) > 2)) {
-      // Atalet: bırakınca kayarak yavaşla
-      G.to(hedef, {
-        x: hedef.x + hizX * 16,
-        y: hedef.y + hizY * 16,
-        duration: 1.1,
-        ease: "power3.out",
-        onUpdate: kilitle
-      });
-    }
-    tutma = null; sahne.classList.remove("tutuluyor");
-  }
-  sahne.addEventListener("pointerup", tutmaBirak);
-  sahne.addEventListener("pointercancel", tutmaBirak);
-
-  // Zoom butonları
-  document.getElementById("zoom-arti").addEventListener("click", function () { yakinlas(hedef.z * 1.45); ortuGizle(); });
-  document.getElementById("zoom-eksi").addEventListener("click", function () { yakinlas(hedef.z / 1.45); });
-  document.getElementById("zoom-sifirla").addEventListener("click", function () {
+  function haritayiOrtala(ani) {
     if (G) G.killTweensOf(hedef);
     hedef.z = 1;
     hedef.x = (window.innerWidth - W) / 2;
     hedef.y = (window.innerHeight - H) / 2;
     kilitle();
-  });
-
-  window.addEventListener("resize", tabanHesapla);
-
-  // Harita görseli yüklenince perdeyi kaldır
-  function haritaHazir() {
-    yuklendi = true; sayacHedef = 100;
-  }
-  if (haritaImg.complete) haritaHazir();
-  else { haritaImg.addEventListener("load", haritaHazir); haritaImg.addEventListener("error", haritaHazir); }
-  tabanHesapla();
-  // Başlangıçta ortala (hem hedef hem gercek — zıplama olmasın)
-  hedef.x = gercek.x = (window.innerWidth - W) / 2;
-  hedef.y = gercek.y = (window.innerHeight - H) / 2;
-  kilitle(); gercek.x = hedef.x; gercek.y = hedef.y;
-
-  /* ================= Başlık örtüsü ================= */
-  var ortu = document.getElementById("baslik-ortu");
-  var ortuGitti = false;
-  function ortuGizle() {
-    if (ortuGitti || !ortu) return;
-    ortuGitti = true;
-    ortu.classList.add("gitti");
-  }
-  // 7 sn sonra kendiliğinden de kaybolur
-  setTimeout(ortuGizle, 7000);
-  // Başlık harflerini böl
-  var h1 = document.getElementById("baslik-h1");
-  if (h1) {
-    var yazi = h1.textContent; h1.textContent = "";
-    for (var i = 0; i < yazi.length; i++) {
-      var s = document.createElement("span");
-      s.className = "harf"; s.style.setProperty("--i", i);
-      s.textContent = yazi[i];
-      h1.appendChild(s);
+    if (ani) {
+      gercek.x = hedef.x;
+      gercek.y = hedef.y;
+      gercek.z = hedef.z;
     }
   }
 
-  /* ================= Mekânlar — koordinatlar canlı ekrandan ölçüldü (% cinsinden) ================= */
+  function kilitle() {
+    var vw = window.innerWidth;
+    var vh = window.innerHeight;
+    hedef.z = sinirla(hedef.z, 1, Z_MAX);
+    var w = W * hedef.z;
+    var h = H * hedef.z;
+    hedef.x = w <= vw ? (vw - w) / 2 : sinirla(hedef.x, vw - w, 0);
+    hedef.y = h <= vh ? (vh - h) / 2 : sinirla(hedef.y, vh - h, 0);
+  }
+
+  function aktar() {
+    var k = tutma ? .34 : .105;
+    gercek.x += (hedef.x - gercek.x) * k;
+    gercek.y += (hedef.y - gercek.y) * k;
+    gercek.z += (hedef.z - gercek.z) * (k * .9);
+    dunya.style.transform = "translate3d(" + gercek.x + "px," + gercek.y + "px,0) scale(" + gercek.z + ")";
+    var ters = 1 / gercek.z;
+    for (var i = 0; i < pinler.length; i++) pinler[i].style.setProperty("--pz", ters);
+  }
+
+  if (G) {
+    G.ticker.add(aktar);
+    G.ticker.lagSmoothing(500, 33);
+  } else {
+    (function dongu() { aktar(); window.requestAnimationFrame(dongu); })();
+  }
+
+  function yakinlas(yeniZ, mx, my) {
+    if (DURUM.etkin) return;
+    var z = sinirla(yeniZ, 1, Z_MAX);
+    if (mx === undefined) {
+      mx = window.innerWidth / 2;
+      my = window.innerHeight / 2;
+    }
+    hedef.x = mx - (mx - hedef.x) * (z / hedef.z);
+    hedef.y = my - (my - hedef.y) * (z / hedef.z);
+    hedef.z = z;
+    kilitle();
+  }
+
+  sahne.addEventListener("wheel", function (e) {
+    if (DURUM.etkin) return;
+    e.preventDefault();
+    ortuyuKapat();
+    yakinlas(hedef.z * Math.exp(-e.deltaY * .00155), e.clientX, e.clientY);
+  }, { passive: false });
+
+  sahne.addEventListener("pointerdown", function (e) {
+    if (DURUM.etkin || e.target.closest(".pin")) return;
+    if (G) G.killTweensOf(hedef);
+    tutma = { px: e.clientX, py: e.clientY, bx: hedef.x, by: hedef.y, tasindi: false };
+    hizX = 0;
+    hizY = 0;
+    sonT = performance.now();
+    sonX = e.clientX;
+    sonY = e.clientY;
+    sahne.classList.add("tutuluyor");
+    sahne.setPointerCapture(e.pointerId);
+  });
+
+  sahne.addEventListener("pointermove", function (e) {
+    if (!tutma || DURUM.etkin) return;
+    var dx = e.clientX - tutma.px;
+    var dy = e.clientY - tutma.py;
+    if (Math.abs(dx) + Math.abs(dy) > 4) tutma.tasindi = true;
+    hedef.x = tutma.bx + dx;
+    hedef.y = tutma.by + dy;
+    kilitle();
+    var t = performance.now();
+    var dt = t - sonT;
+    if (dt > 12) {
+      hizX = (e.clientX - sonX) / dt * 16;
+      hizY = (e.clientY - sonY) / dt * 16;
+      sonT = t;
+      sonX = e.clientX;
+      sonY = e.clientY;
+    }
+    if (tutma.tasindi) ortuyuKapat();
+  });
+
+  function tutmayiBirak() {
+    if (tutma && tutma.tasindi && G && (Math.abs(hizX) > 2 || Math.abs(hizY) > 2)) {
+      G.to(hedef, {
+        x: hedef.x + hizX * 15,
+        y: hedef.y + hizY * 15,
+        duration: 1.05,
+        ease: "power3.out",
+        onUpdate: kilitle
+      });
+    }
+    tutma = null;
+    sahne.classList.remove("tutuluyor");
+  }
+  sahne.addEventListener("pointerup", tutmayiBirak);
+  sahne.addEventListener("pointercancel", tutmayiBirak);
+
+  secici("#zoom-arti").addEventListener("click", function () { yakinlas(hedef.z * 1.42); ortuyuKapat(); });
+  secici("#zoom-eksi").addEventListener("click", function () { yakinlas(hedef.z / 1.42); });
+  secici("#zoom-sifirla").addEventListener("click", function () { if (!DURUM.etkin) haritayiOrtala(false); });
+
+  tabanHesapla(true);
+
+  /* ================= Bölgeler ================= */
   var MEKANLAR = [
-    { id: "metheris",      ad: "Metheris",      halk: "Hegemonya",  x: 11.3, y: 60.5,
+    {
+      id: "metheris", ad: "Metheris", halk: "Hegemonya", x: 11.3, y: 60.5,
       kisa: "Hegemonya'nın taş başkenti — fiyortların üzerinde soğuk ihtişam.",
-      metin: "Aethelian Hegemonyası'nın başkenti. Batı kıyısının fiyortları üzerinde taş, tören ve soğuk ihtişam. Sarayın koridorlarında unvanlar fısıltıyla el değiştirir; Kraliçe Karia, kanla korunan bu tahtı liyakatle yeniden kurmaya yemin etti. Kuzey Sefer Yolu buradan başlar — Işık Seddi'ne otuz beş günlük yol." },
-    { id: "derin-yuva",    ad: "Derin-Yuva",    halk: "Granitler",  x: 39.7, y: 66.5,
+      metin: "Aethelian Hegemonyası'nın başkenti. Batı kıyısının fiyortları üzerinde taş, tören ve soğuk ihtişam. Sarayın koridorlarında unvanlar fısıltıyla el değiştirir; Kraliçe Karia, kanla korunan bu tahtı liyakatle yeniden kurmaya yemin etti. Kuzey Sefer Yolu buradan başlar — Işık Seddi'ne otuz beş günlük yol."
+    },
+    {
+      id: "derin-yuva", ad: "Derin-Yuva", halk: "Granitler", x: 39.7, y: 66.5,
       kisa: "Granit Klanları'nın dağın kalbine oyduğu başkent.",
-      metin: "Ak-Siper Dağları'nın içine, kaya damarlarını izleyerek oyulmuş taş koridorlar şehri. Geceleri vadilerde 'Dağ'ın Nefesi' uğuldar. Granitler, Valerius Geçidi'nin anahtarını ellerinde tutar — kıtanın iki yarısı, ancak onların izniyle birbirine bağlanır." },
-    { id: "kartal-yurdu",  ad: "Kartal-Yurdu",  halk: "Sungurlar",  x: 46.2, y: 57,
+      metin: "Ak-Siper Dağları'nın içine, kaya damarlarını izleyerek oyulmuş taş koridorlar şehri. Geceleri vadilerde Dağ'ın Nefesi uğuldar. Granitler, Valerius Geçidi'nin anahtarını ellerinde tutar — kıtanın iki yarısı ancak onların izniyle birbirine bağlanır."
+    },
+    {
+      id: "kartal-yurdu", ad: "Kartal-Yurdu", halk: "Sungurlar", x: 46.2, y: 57,
       kisa: "Sungurların dağ kışlağı — kartalların ve eski yeminlerin yurdu.",
-      metin: "Sungur klanının yurdu: kartal tüneklerinin, Rüzgar-Dinleyenler'in ve kadim yeminlerin toprağı. Togan bu avlularda kılıç salladı, Burkut'u burada eğitti — ve buradan ayrılırken, arkasında hem bir mezar hem bir sır bıraktı." },
-    { id: "yildiz-orsu",   ad: "Yıldız-Örsü",   halk: "Temürçiler", x: 51.1, y: 49.5,
+      metin: "Sungur klanının yurdu: kartal tüneklerinin, Rüzgâr-Dinleyenler'in ve kadim yeminlerin toprağı. Togan bu avlularda kılıç salladı, Burkut'u burada eğitti — ve buradan ayrılırken arkasında hem bir mezar hem bir sır bıraktı."
+    },
+    {
+      id: "yildiz-orsu", ad: "Yıldız-Örsü", halk: "Temürçiler", x: 51.1, y: 49.5,
       kisa: "Gökten düşen yıldızın krateri; Temürçi ustalarının ocağı.",
-      metin: "Fersahlarca genişlikte dairesel bir krater — gökten düşen yıldızın açtığı yara. Merkezinde Büyük Örs durur: Temürçi ustaları, yıldız-demirini burada döver. Tek girişini Örs Muhafızları tutar; ve kıvılcımlar, söylenceye göre, hiç sönmemiştir." },
-    { id: "eski-kent",     ad: "Eski-Kent",     halk: "Mirasçılar", x: 65.1, y: 36,
+      metin: "Fersahlarca genişlikte dairesel bir krater — gökten düşen yıldızın açtığı yara. Merkezinde Büyük Örs durur: Temürçi ustaları yıldız-demirini burada döver. Tek girişini Örs Muhafızları tutar; kıvılcımlar, söylenceye göre, hiç sönmemiştir."
+    },
+    {
+      id: "eski-kent", ad: "Eski-Kent", halk: "Mirasçılar", x: 65.1, y: 36,
       kisa: "Eskiler'in yıkıntıları üzerine kurulu Mirasçı başkenti.",
-      metin: "Eskiler'in yıkık şehrinin üzerine taş taş kurulmuş Mirasçı başkenti. Kalbinde, yosun katkılı reçineyle mühürlenmiş Büyük Kütüphane — dünyanın hafızası. Kapıları gün batımında kendiliğinden kapanır; ve bazı raflar, hâlâ, kimsenin okuyamadığı dillerde fısıldar." },
-    { id: "buyuk-ordugah", ad: "Büyük Ordugâh", halk: "Azgutlar",   x: 68.7, y: 53.5,
+      metin: "Eskiler'in yıkık şehrinin üzerine taş taş kurulmuş Mirasçı başkenti. Kalbinde, yosun katkılı reçineyle mühürlenmiş Büyük Kütüphane — dünyanın hafızası. Kapıları gün batımında kendiliğinden kapanır; bazı raflar hâlâ kimsenin okuyamadığı dillerde fısıldar."
+    },
+    {
+      id: "buyuk-ordugah", ad: "Büyük Ordugâh", halk: "Azgutlar", x: 68.7, y: 53.5,
       kisa: "Azgut ordularının kalbi — bozkırın en büyük çadır-şehri.",
-      metin: "Bozkırın en büyük çadır-şehri: on binlerce otağ, tuğlar ve at kokusu. Han otağının önünde ordular yemin eder. Temujin'in adı bu topraklarda önce sürgünle, sonra zaferle anıldı — Dört Bayrak İttifakı'nın doğu direği burada durur." },
-    { id: "sazlik-taht",   ad: "Sazlık Taht",   halk: "Delta",      x: 93.5, y: 79.5,
+      metin: "Bozkırın en büyük çadır-şehri: on binlerce otağ, tuğlar ve at kokusu. Han otağının önünde ordular yemin eder. Temujin'in adı bu topraklarda önce sürgünle, sonra zaferle anıldı — Dört Bayrak İttifakı'nın doğu direği burada durur."
+    },
+    {
+      id: "sazlik-taht", ad: "Sazlık Taht", halk: "Delta", x: 93.5, y: 79.5,
       kisa: "Delta'nın yaşayan ağaç-sarayı — fısıltının başkenti.",
-      metin: "Rivan Deltası'nın kalbinde, yaşayan ağaçlardan örülmüş saray. Savlak su yolları arasında beyler fısıltıyla iş görür; hiçbir söz karşılıksız, hiçbir iyilik hesapsız değildir. Ve her fısıltının ucu, eninde sonunda, Fısıltı Ustası Malakor'a çıkar." },
-    { id: "yamali-liman",  ad: "Yamalı Liman",  halk: "Korsanlar",  x: 93.4, y: 62,
+      metin: "Rivan Deltası'nın kalbinde, yaşayan ağaçlardan örülmüş saray. Savlak su yolları arasında beyler fısıltıyla iş görür; hiçbir söz karşılıksız, hiçbir iyilik hesapsız değildir. Her fısıltının ucu eninde sonunda Fısıltı Ustası Malakor'a çıkar."
+    },
+    {
+      id: "yamali-liman", ad: "Yamalı Liman", halk: "Korsanlar", x: 93.4, y: 62,
       kisa: "Korsan başkenti — yüz enkazdan yamanmış şehir.",
-      metin: "Yetim Kıyıları'nın başkenti: yüz batık gemiden yamanmış iskeleler, direkler, çatılar. Enkaz Kraliçesi Zaleena burada hüküm sürer — Kaptanlar Konseyi'nin sesi, otuz yıllık bir bayrak hayalinin sahibi. Ve şimdi, denizin dibinde sabırla atan yeşil bir ışığın bekçisi." }
+      metin: "Yetim Kıyıları'nın başkenti: yüz batık gemiden yamanmış iskeleler, direkler ve çatılar. Enkaz Kraliçesi Zaleena burada hüküm sürer — Kaptanlar Konseyi'nin sesi, otuz yıllık bir bayrak hayalinin sahibi. Şimdi denizin dibinde sabırla atan yeşil bir ışığın bekçisi."
+    }
   ];
 
-  var modal = document.getElementById("mekan-modal");
-  var mVideo = document.getElementById("modal-video");
-  var mImg = document.getElementById("modal-img");
-  var mAd = document.getElementById("modal-ad");
-  var mHalk = document.getElementById("modal-halk");
-  var mMetin = document.getElementById("modal-metin");
-
-  /* Hover bilgi kartı — tıklamadan, üzerine gelince açılır */
-  var hoverKart = document.getElementById("hover-kart");
-  var hkImg = document.getElementById("hk-img");
-  var hkHalk = document.getElementById("hk-halk");
-  var hkAd = document.getElementById("hk-ad");
-  var hkMetin = document.getElementById("hk-metin");
-  function hoverGoster(m, pin) {
-    hkImg.src = "assets/img/" + m.id + ".jpg";
-    hkHalk.textContent = m.halk;
-    hkAd.textContent = m.ad;
-    hkMetin.textContent = m.kisa;
-    var r = pin.getBoundingClientRect();
-    var vw = window.innerWidth, vh = window.innerHeight;
-    var KW = 310, KH = 300;
-    var lx = r.left + 26; if (lx + KW > vw - 12) lx = r.left - KW - 26;
-    var ly = r.top - KH / 2; ly = Math.max(70, Math.min(vh - KH - 12, ly));
-    hoverKart.style.left = lx + "px";
-    hoverKart.style.top = ly + "px";
-    hoverKart.classList.add("goster");
+  function levhayiVarsayilanaDondur() {
+    levhaSira.textContent = "08 BÖLGE";
+    levhaHalk.textContent = "VERRIDIA ATLASI";
+    levhaAd.textContent = "Bir bölge seç";
+    levhaMetin.textContent = "Haritadaki işaretlerden birine dokun. Seçtiğin yol, seni bulutların arasından o toprağa indirecek.";
   }
-  function hoverGizle() { hoverKart.classList.remove("goster"); }
 
-  MEKANLAR.forEach(function (m) {
+  function levhayiDoldur(m, sira, gecici) {
+    levhaSira.textContent = "BÖLGE " + iki(sira);
+    levhaHalk.textContent = m.halk;
+    levhaAd.textContent = m.ad;
+    levhaMetin.textContent = gecici ? m.kisa : m.kisa + " Kaydırdıkça yol ilerler; yukarı kaydırdığında haritaya dönersin.";
+  }
+
+  MEKANLAR.forEach(function (m, index) {
     var pin = document.createElement("button");
+    var etiket = document.createElement("span");
+    pin.type = "button";
     pin.className = "pin";
     pin.style.left = m.x + "%";
     pin.style.top = m.y + "%";
-    pin.setAttribute("aria-label", m.ad);
-    pin.addEventListener("click", function () { hoverGizle(); mekanAc(m); });
-    pin.addEventListener("mouseenter", function () { hoverGoster(m, pin); });
-    pin.addEventListener("mouseleave", hoverGizle);
-    dunya.appendChild(pin);
+    pin.setAttribute("aria-label", m.ad + " bölgesini seç");
+    pin.setAttribute("aria-pressed", "false");
+    pin.dataset.mekan = m.id;
+    etiket.className = "pin-numara";
+    etiket.textContent = iki(index + 1) + " · " + m.ad;
+    pin.appendChild(etiket);
+
+    pin.addEventListener("mouseenter", function () {
+      if (!DURUM.etkin) levhayiDoldur(m, index + 1, true);
+    });
+    pin.addEventListener("mouseleave", function () {
+      if (!DURUM.etkin) levhayiVarsayilanaDondur();
+    });
+    pin.addEventListener("focus", function () {
+      if (!DURUM.etkin) levhayiDoldur(m, index + 1, true);
+    });
+    pin.addEventListener("blur", function () {
+      if (!DURUM.etkin) levhayiVarsayilanaDondur();
+    });
+    pin.addEventListener("click", function () {
+      mekanSec(m, index + 1, pin);
+    });
+    pinKatmani.appendChild(pin);
     pinler.push(pin);
   });
-  // Pinler bulutlar dağılırken süzülerek belirsin
-  if (G) G.from(pinler, { scale: 0, opacity: 0, duration: .7, ease: "back.out(2.2)", stagger: .09, delay: 4.2 });
-  // Sürükleme başlarken kart kapansın
-  sahne.addEventListener("pointerdown", hoverGizle);
 
-  function mekanAc(m) {
-    ortuGizle();
-    mAd.textContent = m.ad;
-    mHalk.textContent = m.halk;
-    mMetin.textContent = m.metin;
-    mImg.src = "assets/img/" + m.id + ".jpg";
-    mImg.classList.remove("goster");
-    mVideo.src = "assets/video/" + m.id + ".mp4";
-    modal.classList.add("acik");
-    document.body.classList.add("modal-acik");
-    mVideo.currentTime = 0;
-    var oynat = mVideo.play();
-    if (oynat && oynat.catch) oynat.catch(function () { mImg.classList.add("goster"); });
+  /* ================= Scroll ile video sarma ================= */
+  function videoZamanla(zaman) {
+    DURUM.hedefZaman = sinirla(zaman, 0, Math.max(.01, DURUM.videoSure - .02));
+    if (!DURUM.videoHazir) return;
+    if (Math.abs(video.currentTime - DURUM.hedefZaman) > .018) {
+      try { video.currentTime = DURUM.hedefZaman; } catch (hata) { /* medya henüz sarılamıyor */ }
+    }
   }
-  mVideo.addEventListener("ended", function () { mImg.classList.add("goster"); });
-  mVideo.addEventListener("error", function () { mImg.classList.add("goster"); });
-  function mekanKapat() {
-    modal.classList.remove("acik");
-    document.body.classList.remove("modal-acik");
-    mVideo.pause();
-    mVideo.removeAttribute("src");
-    mVideo.load();
+
+  function haritaKamerasiniIlerlet(p) {
+    if (!DURUM.etkin) return;
+    var q = yumusak(0, .15, p);
+    var z = 1 + q * .34;
+    hedef.z = z;
+    hedef.x = window.innerWidth / 2 - W * (DURUM.etkin.x / 100) * z;
+    hedef.y = window.innerHeight / 2 - H * (DURUM.etkin.y / 100) * z;
+    kilitle();
   }
-  document.getElementById("modal-kapat").addEventListener("click", mekanKapat);
-  modal.addEventListener("click", function (e) { if (e.target === modal) mekanKapat(); });
+
+  function ilerlemeyiUygula(p) {
+    if (!DURUM.etkin) return;
+    p = sinirla(p, 0, 1);
+    DURUM.ilerleme = p;
+    document.documentElement.style.setProperty("--ilerleme", p.toFixed(4));
+
+    var erken = p > .035;
+    govde.classList.toggle("gecis-ilerledi", erken);
+    govde.classList.toggle("gecis-sonunda", p > .94);
+    govde.classList.toggle("sahne-bitti", p > .998);
+    haritaKamerasiniIlerlet(p);
+
+    var haritaOpak;
+    var videoOpak;
+    var posterOpak;
+    var baslikP;
+
+    if (azaltHareket) {
+      haritaOpak = 1 - yumusak(.02, .38, p);
+      videoOpak = 0;
+      posterOpak = yumusak(.06, .52, p);
+      baslikP = yumusak(.3, .64, p);
+    } else {
+      haritaOpak = 1 - yumusak(.045, .155, p);
+      videoOpak = yumusak(.055, .145, p) * (1 - yumusak(.83, .965, p));
+      posterOpak = yumusak(.82, .965, p);
+      baslikP = yumusak(.61, .82, p);
+    }
+
+    sahne.style.opacity = haritaOpak.toFixed(3);
+    video.style.opacity = videoOpak.toFixed(3);
+    video.style.transform = "scale(" + karistir(1.026, 1, p).toFixed(4) + ")";
+    poster.style.opacity = posterOpak.toFixed(3);
+    poster.style.transform = "scale(" + karistir(1.035, 1, posterOpak).toFixed(4) + ")";
+    bolgeBaslik.style.opacity = baslikP.toFixed(3);
+    bolgeBaslik.style.transform = "translateY(" + ((1 - baslikP) * 35).toFixed(2) + "px)";
+
+    if (!azaltHareket) {
+      var videoP = yumusak(.045, .9, p);
+      videoZamanla(videoP * DURUM.videoSure);
+    }
+
+    if (!DURUM.videoHazir && !azaltHareket && p > .045 && p < .84) videoYukleniyor.classList.add("goster");
+    else videoYukleniyor.classList.remove("goster");
+
+    var yuzde = Math.round(p * 100);
+    ilerlemeSayi.textContent = iki(yuzde);
+    if (p < .1) ilerlemeAdim.textContent = "HARİTA";
+    else if (p < .56) ilerlemeAdim.textContent = "BULUT GEÇİDİ";
+    else if (p < .9) ilerlemeAdim.textContent = "YAKLAŞMA";
+    else ilerlemeAdim.textContent = "VARIŞ";
+
+    if (DURUM.donusIstendi && p <= .003) {
+      DURUM.donusIstendi = false;
+      window.setTimeout(secimiBitir, 40);
+    }
+  }
+
+  function scrollIlerlemesiniOku() {
+    if (!DURUM.etkin) return;
+    var mesafe = Math.max(1, yolculuk.offsetHeight - window.innerHeight);
+    ilerlemeyiUygula(window.scrollY / mesafe);
+  }
+
+  var scrollKaresi = 0;
+  window.addEventListener("scroll", function () {
+    if (!DURUM.etkin || scrollKaresi) return;
+    scrollKaresi = window.requestAnimationFrame(function () {
+      scrollKaresi = 0;
+      scrollIlerlemesiniOku();
+    });
+  }, { passive: true });
+
+  function metinleriDoldur(m, sira) {
+    levhayiDoldur(m, sira, false);
+    bolgeBaslikSira.textContent = "BÖLGE " + iki(sira);
+    bolgeBaslikHalk.textContent = m.halk;
+    bolgeBaslikAd.textContent = m.ad;
+    bolgeBaslikKisa.textContent = m.kisa;
+    detaySira.textContent = "BÖLGE " + iki(sira);
+    detayHalk.textContent = m.halk;
+    detayAd.textContent = m.ad;
+    detayMetin.textContent = m.metin;
+  }
+
+  function medyayiHazirla(m) {
+    DURUM.videoHazir = false;
+    DURUM.videoSure = 8;
+    poster.src = "assets/img/" + m.id + ".jpg";
+    poster.alt = m.ad + " bölgesinin görünümü";
+    detayGorsel.src = "assets/img/" + m.id + ".jpg";
+    detayGorsel.alt = m.ad + " bölgesi";
+    if (azaltHareket) return;
+    videoYukleniyor.classList.add("goster");
+    video.src = "assets/video/" + m.id + ".mp4";
+    video.preload = "auto";
+    video.load();
+    var kilitAc = video.play();
+    if (kilitAc && kilitAc.then) {
+      kilitAc.then(function () {
+        video.pause();
+        try { video.currentTime = DURUM.hedefZaman; } catch (hata) { /* ilk metadata bekleniyor */ }
+      }).catch(function () { /* scroll seek yine çalışabilir */ });
+    }
+  }
+
+  video.addEventListener("loadedmetadata", function () {
+    DURUM.videoSure = Number.isFinite(video.duration) ? video.duration : 8;
+    DURUM.videoHazir = true;
+    video.pause();
+    videoYukleniyor.classList.remove("goster");
+    videoZamanla(DURUM.ilerleme * DURUM.videoSure);
+  });
+  video.addEventListener("canplay", function () {
+    DURUM.videoHazir = true;
+    videoYukleniyor.classList.remove("goster");
+  });
+  video.addEventListener("error", function () {
+    DURUM.videoHazir = false;
+    videoYukleniyor.classList.remove("goster");
+  });
+
+  function mekanSec(m, sira, pin) {
+    ortuyuKapat();
+    panelleriKapat();
+    if (window.scrollY > 2) window.scrollTo(0, 0);
+
+    if (DURUM.etkin && DURUM.etkin.id === m.id) {
+      yolculuguBaslat();
+      return;
+    }
+
+    DURUM.etkin = m;
+    DURUM.ilerleme = 0;
+    DURUM.sonPin = pin;
+    DURUM.donusIstendi = false;
+    pinler.forEach(function (p) {
+      var secili = p === pin;
+      p.classList.toggle("secili", secili);
+      p.setAttribute("aria-pressed", secili ? "true" : "false");
+    });
+
+    metinleriDoldur(m, sira);
+    medyayiHazirla(m);
+    haritayiOrtala(false);
+    yolculukBaslat.disabled = false;
+    yolculukBaslat.hidden = false;
+    secimiKaldir.hidden = false;
+    haritaDurum.textContent = "Kaydırarak yaklaş · Yukarı kaydırarak dön";
+    govde.classList.add("yolculuk-secili", "yolculuk-aktif");
+    detayBolumu.setAttribute("aria-hidden", "false");
+    sabitSahne.scrollTop = 0;
+    sabitSahne.scrollLeft = 0;
+    window.requestAnimationFrame(function () {
+      sabitSahne.scrollTop = 0;
+      sabitSahne.scrollLeft = 0;
+    });
+    ilerlemeyiUygula(0);
+    try { history.replaceState(null, "", "#" + m.id); } catch (hata) { /* file protokolünde sessiz kal */ }
+  }
+
+  function yolculuguBaslat() {
+    if (!DURUM.etkin) return;
+    var hedefScroll = Math.min(yolculuk.offsetHeight - window.innerHeight, window.innerHeight * (azaltHareket ? .55 : .68));
+    window.scrollTo({ top: hedefScroll, behavior: azaltHareket ? "auto" : "smooth" });
+  }
+
+  function secimiBitir() {
+    if (!DURUM.etkin) return;
+    if (window.scrollY > 2) window.scrollTo(0, 0);
+    govde.classList.remove("yolculuk-secili", "yolculuk-aktif", "gecis-ilerledi", "gecis-sonunda", "sahne-bitti");
+    detayBolumu.setAttribute("aria-hidden", "true");
+    pinler.forEach(function (p) {
+      p.classList.remove("secili");
+      p.setAttribute("aria-pressed", "false");
+    });
+    video.pause();
+    video.removeAttribute("src");
+    video.load();
+    video.style.opacity = "0";
+    poster.style.opacity = "0";
+    sahne.style.opacity = "1";
+    bolgeBaslik.style.opacity = "0";
+    videoYukleniyor.classList.remove("goster");
+    DURUM.etkin = null;
+    DURUM.ilerleme = 0;
+    DURUM.videoHazir = false;
+    document.documentElement.style.setProperty("--ilerleme", "0");
+    levhayiVarsayilanaDondur();
+    yolculukBaslat.disabled = true;
+    yolculukBaslat.hidden = true;
+    secimiKaldir.hidden = true;
+    haritaDurum.textContent = "Sürükle · Yakınlaş · Bölge seç";
+    haritayiOrtala(false);
+    try { history.replaceState(null, "", location.pathname + location.search); } catch (hata) { /* sessiz */ }
+    if (DURUM.sonPin) {
+      DURUM.sonPin.focus({ preventScroll: true });
+      levhayiVarsayilanaDondur();
+    }
+  }
+
+  function haritayaDon() {
+    if (!DURUM.etkin) return;
+    DURUM.donusIstendi = true;
+    if (azaltHareket) {
+      window.scrollTo(0, 0);
+      secimiBitir();
+      return;
+    }
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  yolculukBaslat.addEventListener("click", yolculuguBaslat);
+  secimiKaldir.addEventListener("click", secimiBitir);
+  secici("#gecisi-atla").addEventListener("click", function () {
+    if (!DURUM.etkin) return;
+    window.scrollTo({ top: detayBolumu.offsetTop + 2, behavior: azaltHareket ? "auto" : "smooth" });
+  });
+  secici("#haritaya-don").addEventListener("click", haritayaDon);
+  secici(".marka").addEventListener("click", function (e) {
+    if (!DURUM.etkin) return;
+    e.preventDefault();
+    haritayaDon();
+  });
 
   /* ================= Yan paneller ================= */
   var paneller = {
-    dunya: document.getElementById("panel-dunya"),
-    dortyol: document.getElementById("panel-dortyol")
+    dunya: secici("#panel-dunya"),
+    dortyol: secici("#panel-dortyol")
   };
+  var panelOrtu = secici("#panel-ortu");
   var sayacCalisti = false;
+
   function panelAc(ad) {
-    Object.keys(paneller).forEach(function (k) { paneller[k].classList.toggle("acik", k === ad); });
-    ortuGizle();
+    if (!paneller[ad]) return;
+    Object.keys(paneller).forEach(function (anahtar) {
+      var acik = anahtar === ad;
+      paneller[anahtar].classList.toggle("acik", acik);
+      paneller[anahtar].setAttribute("aria-hidden", acik ? "false" : "true");
+    });
+    govde.classList.add("panel-acik");
+    panelOrtu.tabIndex = 0;
+    ortuyuKapat();
     if (ad === "dunya" && !sayacCalisti) {
       sayacCalisti = true;
-      document.querySelectorAll("#panel-dunya .deger[data-hedef]").forEach(sayacCalistir);
+      hepsi("#panel-dunya .deger[data-hedef]").forEach(sayacCalistir);
     }
+    var kapat = secici(".panel-kapat", paneller[ad]);
+    if (kapat) kapat.focus({ preventScroll: true });
   }
-  function panelKapatHepsi() {
-    Object.keys(paneller).forEach(function (k) { paneller[k].classList.remove("acik"); });
+
+  function panelleriKapat() {
+    Object.keys(paneller).forEach(function (anahtar) {
+      paneller[anahtar].classList.remove("acik");
+      paneller[anahtar].setAttribute("aria-hidden", "true");
+    });
+    govde.classList.remove("panel-acik");
+    panelOrtu.tabIndex = -1;
   }
-  document.querySelectorAll("[data-panel]").forEach(function (btn) {
+
+  hepsi("[data-panel]").forEach(function (btn) {
     btn.addEventListener("click", function () {
       var ad = btn.dataset.panel;
-      if (paneller[ad].classList.contains("acik")) panelKapatHepsi();
+      if (paneller[ad].classList.contains("acik")) panelleriKapat();
       else panelAc(ad);
     });
   });
-  document.querySelectorAll(".panel-kapat").forEach(function (btn) {
-    btn.addEventListener("click", panelKapatHepsi);
-  });
-  document.addEventListener("keydown", function (e) {
-    if (e.key === "Escape") {
-      if (modal.classList.contains("acik")) mekanKapat();
-      else panelKapatHepsi();
-    }
-  });
+  hepsi(".panel-kapat").forEach(function (btn) { btn.addEventListener("click", panelleriKapat); });
+  panelOrtu.addEventListener("click", panelleriKapat);
 
   function sayacCalistir(el) {
-    var hedef = parseFloat(el.dataset.hedef);
+    var son = parseFloat(el.dataset.hedef);
     var ek = el.dataset.ek || "";
-    var sure = 1600, baslangic = null;
+    var sure = azaltHareket ? 1 : 1400;
+    var baslangic = null;
     function adim(t) {
       if (!baslangic) baslangic = t;
       var oran = Math.min((t - baslangic) / sure, 1);
-      var eased = 1 - Math.pow(1 - oran, 3);
-      el.textContent = Math.round(hedef * eased).toLocaleString("tr-TR") + ek;
-      if (oran < 1) requestAnimationFrame(adim);
+      var kolay = 1 - Math.pow(1 - oran, 3);
+      el.textContent = Math.round(son * kolay).toLocaleString("tr-TR") + ek;
+      if (oran < 1) window.requestAnimationFrame(adim);
     }
-    requestAnimationFrame(adim);
+    window.requestAnimationFrame(adim);
   }
 
-  /* ================= Kalibrasyon modu (K tuşu) =================
-     K'ye bas → haritada bir noktaya tıkla → %koordinat panoya kopyalanır.
-     Pin yerlerini düzeltmek için bana bu değerleri gönder. */
-  var kalibrasyon = false;
   document.addEventListener("keydown", function (e) {
-    if (e.key.toLowerCase() === "k" && !e.repeat) {
-      kalibrasyon = !kalibrasyon;
-      sahne.style.outline = kalibrasyon ? "3px dashed #e8c987" : "";
-      console.log("Kalibrasyon:", kalibrasyon ? "AÇIK — haritaya tıkla" : "kapalı");
-    }
-  });
-  sahne.addEventListener("click", function (e) {
-    if (!kalibrasyon || (tutma && tutma.tasindi)) return;
-    var px = ((e.clientX - x) / (W * z) * 100).toFixed(1);
-    var py = ((e.clientY - y) / (H * z) * 100).toFixed(1);
-    var metin = "x: " + px + ", y: " + py;
-    console.log("KOORDİNAT →", metin);
-    if (navigator.clipboard) navigator.clipboard.writeText(metin).catch(function () {});
-    alert("Koordinat kopyalandı: " + metin);
+    if (e.key !== "Escape") return;
+    if (govde.classList.contains("panel-acik")) panelleriKapat();
+    else if (DURUM.etkin) haritayaDon();
   });
 
-  /* ================= Özel imleç ================= */
+  /* ================= Yeniden boyutlandırma ================= */
+  var yenidenKaresi = 0;
+  window.addEventListener("resize", function () {
+    if (yenidenKaresi) return;
+    yenidenKaresi = window.requestAnimationFrame(function () {
+      yenidenKaresi = 0;
+      tabanHesapla(false);
+      scrollIlerlemesiniOku();
+    });
+  });
+
+  /* ================= Hassas işaretçi imleci ================= */
   if (window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
-    var nokta = document.createElement("div"); nokta.className = "imlec-nokta";
-    var halka = document.createElement("div"); halka.className = "imlec-halka";
-    document.body.appendChild(nokta); document.body.appendChild(halka);
-    var hx = -100, hy = -100, nx = -100, ny = -100;
+    var imlecNokta = document.createElement("div");
+    var imlecHalka = document.createElement("div");
+    imlecNokta.className = "imlec-nokta";
+    imlecHalka.className = "imlec-halka";
+    document.body.appendChild(imlecNokta);
+    document.body.appendChild(imlecHalka);
+    var hx = -100;
+    var hy = -100;
+    var nx = -100;
+    var ny = -100;
     document.addEventListener("mousemove", function (e) { nx = e.clientX; ny = e.clientY; });
     (function imlecDongu() {
-      hx += (nx - hx) * 0.18; hy += (ny - hy) * 0.18;
-      nokta.style.transform = "translate3d(" + nx + "px," + ny + "px,0)";
-      halka.style.transform = "translate3d(" + hx + "px," + hy + "px,0)";
-      requestAnimationFrame(imlecDongu);
+      hx += (nx - hx) * .17;
+      hy += (ny - hy) * .17;
+      imlecNokta.style.transform = "translate3d(" + nx + "px," + ny + "px,0)";
+      imlecHalka.style.transform = "translate3d(" + hx + "px," + hy + "px,0)";
+      window.requestAnimationFrame(imlecDongu);
     })();
     document.addEventListener("mouseover", function (e) {
-      if (e.target.closest("a, button, .pin, .sekme")) document.body.classList.add("imlec-buyu");
+      if (e.target.closest("a, button, .pin")) govde.classList.add("imlec-buyu");
     });
     document.addEventListener("mouseout", function (e) {
-      if (e.target.closest("a, button, .pin, .sekme")) document.body.classList.remove("imlec-buyu");
+      if (e.target.closest("a, button, .pin")) govde.classList.remove("imlec-buyu");
     });
   }
+
+  /* URL ile doğrudan bölge açma */
+  window.addEventListener("load", function () {
+    var id = location.hash.replace(/^#/, "");
+    if (!id) return;
+    var index = MEKANLAR.findIndex(function (m) { return m.id === id; });
+    if (index < 0) return;
+    window.setTimeout(function () { mekanSec(MEKANLAR[index], index + 1, pinler[index]); }, 450);
+  }, { once: true });
 })();

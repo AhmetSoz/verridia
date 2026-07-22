@@ -2,70 +2,142 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#090b0f">
   <title>VERRIDIA — Kendi Kendine Kilitlenmiş Dünya</title>
-  <meta name="description" content="Verridia: dört yol, tek gökyüzü. Tam ekran interaktif dünya haritası, külliyat ve roman.">
+  <meta name="description" content="Verridia'nın kıtalarını, halklarını ve sekiz büyük bölgesini sinematik bir atlas deneyimiyle keşfet.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/stil.css">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/stil.css?v=5">
 </head>
-<body>
+<body class="kesif-modu">
+  <a class="atla-baglanti" href="#site-nav">Haritayı atla</a>
 
-  <!-- Yükleme perdesi -->
-  <div id="perde">
+  <div id="perde" aria-hidden="true">
+    <div class="perde-kod">ATLAS / 01</div>
     <div class="isim">VERRIDIA</div>
     <div class="cizgi"></div>
-    <div class="sayac" id="perde-sayac">0</div>
+    <div class="sayac"><span id="perde-sayac">0</span><small>%</small></div>
   </div>
 
-  <!-- Film greni -->
-  <div class="gren"></div>
+  <div class="gren" aria-hidden="true"></div>
 
-  <!-- SAHNE: tam ekran, sürüklenebilir/yakınlaşılabilir dünya -->
-  <div id="sahne">
-    <div id="dunya">
-      <img id="harita-img" class="harita" src="assets/img/ana-harita.jpg" alt="Verridia kıta haritası">
-      <!-- pinler JS ile eklenir -->
+  <header class="ustbar" id="site-nav">
+    <a class="marka" href="#" aria-label="Verridia ana haritası">
+      <span class="marka-isaret" aria-hidden="true"></span>
+      <span>VERRIDIA</span>
+    </a>
+    <div class="ustbar-konum" aria-hidden="true">
+      <span>ETKİLEŞİMLİ ATLAS</span>
+      <i></i>
+      <span>KUZEY MÜHÜRLÜ</span>
     </div>
-  </div>
-  <div class="vinyet"></div>
-
-  <!-- Bulut girişi -->
-  <div class="bulut b1"></div>
-  <div class="bulut b2"></div>
-
-  <!-- Başlık örtüsü (ilk etkileşimde kaybolur) -->
-  <div id="baslik-ortu">
-    <div class="ust-yazi">Kuzeyi ışıkla mühürlü, üç yanı okyanus</div>
-    <h1 id="baslik-h1">VERRIDIA</h1>
-    <p class="alt-yazi">Kendi kendine kilitlenmiş bir dünya — ve kaçacak yer yok.</p>
-  </div>
-
-  <!-- Üst çubuk -->
-  <header class="ustbar">
-    <a class="marka" href="#">VERRIDIA</a>
-    <nav>
-      <button class="sekme" data-panel="dunya">Dünya</button>
-      <button class="sekme" data-panel="dortyol">Dört Yol</button>
-      <a class="sekme" href="kitap.html#indir">PDF İndir</a>
-      <a class="oku-btn" href="kitap.html">Kitabı Oku</a>
+    <nav aria-label="Ana menü">
+      <button class="sekme" type="button" data-panel="dunya">Dünya</button>
+      <button class="sekme" type="button" data-panel="dortyol">Dört Yol</button>
+      <a class="sekme masaustu-baglanti" href="kitap.html#indir">PDF</a>
+      <a class="oku-btn" href="kitap.html">Kitabı Oku <span aria-hidden="true">↗</span></a>
     </nav>
   </header>
 
-  <!-- Zoom kontrolleri -->
-  <div class="zoom-kontrol">
-    <button id="zoom-arti" title="Yakınlaş">+</button>
-    <button id="zoom-eksi" title="Uzaklaş">−</button>
-    <button id="zoom-sifirla" title="Sıfırla">⌂</button>
-  </div>
-  <div class="alt-ipucu">Sürükle · Yakınlaş · Noktalara dokun</div>
+  <main id="deneyim">
+    <section class="yolculuk" id="yolculuk" aria-label="Verridia etkileşimli haritası">
+      <div class="sabit-sahne" id="sabit-sahne">
+        <div class="harita-sahnesi" id="sahne" tabindex="0" aria-label="Verridia haritası. Sürükleyerek hareket ettirin ve tekerlekle yakınlaştırın.">
+          <div id="dunya">
+            <img id="harita-img" class="harita" src="assets/img/ana-harita.jpg" alt="Verridia kıta haritası" draggable="false">
+            <div id="pin-katmani" aria-label="Bölgeler"></div>
+          </div>
+        </div>
 
-  <!-- PANEL: Dünya -->
-  <aside class="panel" id="panel-dunya">
-    <button class="panel-kapat">Kapat ✕</button>
+        <video id="gecis-video" muted playsinline preload="metadata" aria-hidden="true"></video>
+        <img id="bolge-poster" class="bolge-poster" alt="" aria-hidden="true">
+        <div class="video-yukleniyor" id="video-yukleniyor" aria-live="polite">
+          <span></span><em>Yol hazırlanıyor</em>
+        </div>
+
+        <div class="sinema-vinyet" aria-hidden="true"></div>
+        <div class="kenar-cizgileri" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+
+        <div class="bulut-giris bulut-bir" aria-hidden="true"></div>
+        <div class="bulut-giris bulut-iki" aria-hidden="true"></div>
+
+        <div class="baslik-ortu" id="baslik-ortu" aria-hidden="true">
+          <div class="baslik-kod">DÖRT YOL · TEK GÖKYÜZÜ</div>
+          <h1 id="baslik-h1">VERRIDIA</h1>
+          <p>Kendi kendine kilitlenmiş bir dünya.</p>
+          <div class="baslik-cizgi"></div>
+        </div>
+
+        <aside class="secim-levhasi" id="secim-levhasi" aria-live="polite">
+          <div class="levha-ust">
+            <span id="levha-sira">08 BÖLGE</span>
+            <span id="levha-halk">VERRIDIA ATLASI</span>
+          </div>
+          <h2 id="levha-ad">Bir bölge seç</h2>
+          <p id="levha-metin">Haritadaki işaretlerden birine dokun. Seçtiğin yol, seni bulutların arasından o toprağa indirecek.</p>
+          <div class="levha-alt">
+            <button id="yolculuk-baslat" class="yolculuk-baslat" type="button" disabled hidden>
+              <span>Yolculuğu başlat</span><i aria-hidden="true">↓</i>
+            </button>
+            <button id="secimi-kaldir" class="secimi-kaldir" type="button" hidden>Seçimi kaldır</button>
+          </div>
+        </aside>
+
+        <div class="harita-ipucu" id="harita-ipucu" aria-hidden="true">
+          <span class="ipucu-nokta"></span>
+          <span id="harita-durum">Sürükle · Yakınlaş · Bölge seç</span>
+        </div>
+
+        <div class="zoom-kontrol" aria-label="Harita yakınlaştırma kontrolleri">
+          <button id="zoom-arti" type="button" aria-label="Yakınlaştır">+</button>
+          <button id="zoom-eksi" type="button" aria-label="Uzaklaştır">−</button>
+          <button id="zoom-sifirla" type="button" aria-label="Haritayı sıfırla">⌂</button>
+        </div>
+
+        <div class="yolculuk-arayuz" id="yolculuk-arayuz" aria-hidden="true">
+          <div class="ilerleme-sayi"><span id="ilerleme-sayi">00</span><small>/100</small></div>
+          <div class="ilerleme-ray"><i id="ilerleme-cizgi"></i></div>
+          <div class="ilerleme-adim" id="ilerleme-adim">HARİTA</div>
+        </div>
+
+        <article class="bolge-baslik" id="bolge-baslik" aria-live="polite">
+          <div class="bolge-baslik-sira" id="bolge-baslik-sira">BÖLGE 01</div>
+          <div class="bolge-baslik-halk" id="bolge-baslik-halk"></div>
+          <h2 id="bolge-baslik-ad"></h2>
+          <p id="bolge-baslik-kisa"></p>
+        </article>
+
+        <button class="gecisi-atla" id="gecisi-atla" type="button">Geçişi atla <span aria-hidden="true">↓</span></button>
+      </div>
+    </section>
+
+    <section class="bolge-detay" id="bolge-detay" aria-hidden="true">
+      <img id="detay-gorsel" alt="">
+      <div class="detay-vinyet" aria-hidden="true"></div>
+      <div class="detay-icerik">
+        <div class="detay-kod"><span id="detay-sira">BÖLGE 01</span><i></i><span>VERRIDIA ARŞİVİ</span></div>
+        <div class="detay-halk" id="detay-halk"></div>
+        <h2 id="detay-ad"></h2>
+        <p id="detay-metin"></p>
+        <div class="detay-eylem">
+          <a href="kitap.html">Hikâyeye gir <span aria-hidden="true">↗</span></a>
+          <button id="haritaya-don" type="button">Haritaya geri dön <span aria-hidden="true">↑</span></button>
+        </div>
+      </div>
+      <div class="detay-alt" aria-hidden="true">
+        <span>KUZEY / IŞIK SEDDİ</span>
+        <span>DÖRT YOL · TEK GÖKYÜZÜ</span>
+      </div>
+    </section>
+  </main>
+
+  <aside class="panel" id="panel-dunya" aria-hidden="true">
+    <button class="panel-kapat" type="button" aria-label="Dünya panelini kapat">Kapat <span>✕</span></button>
+    <div class="panel-kod">ARŞİV / DÜNYA</div>
     <div class="etiket">Külliyat</div>
-    <h2>Bir kıta, bir mühür, ve yaklaşan bir döngü.</h2>
+    <h2>Bir kıta, bir mühür ve yaklaşan bir döngü.</h2>
     <p class="aciklama">
       Verridia'nın kuzeyi, yerden göğe yükselen altınımsı bir ışık perdesiyle — Işık Seddi'yle — kapalıdır.
       Batıda Hegemonya'nın taş sarayları, kıtanın kalbinde bozkırın atlı klanları, güneydoğuda Delta'nın
@@ -80,63 +152,36 @@
     </div>
   </aside>
 
-  <!-- PANEL: Dört Yol -->
-  <aside class="panel" id="panel-dortyol">
-    <button class="panel-kapat">Kapat ✕</button>
-    <div class="etiket">Dört Yol</div>
-    <h2>Dört hayat, tek gökyüzü.</h2>
-    <p class="aciklama">Roman, dört ayrı gözden anlatılır — dört ayrı toprağın, dört ayrı kaderin dönüşümlü sesiyle.</p>
-
-    <div class="karakter" style="--renk: var(--togan)">
-      <div class="muhur">۞</div>
-      <h3>Togan</h3>
-      <div class="unvan">Nöbetçi · Saf Olmayan Kan</div>
-      <p>Kartal-Yurdu'nda büyüyen, damarlarında dünyanın en tehlikeli sırrını taşıyan genç adam. Sezgisi bir armağan — ve ona yaklaşan herkes için bir lanet.</p>
-    </div>
-    <div class="karakter" style="--renk: var(--temujin)">
-      <div class="muhur">⚔</div>
-      <h3>Temujin</h3>
-      <div class="unvan">Genç Kurtlar'ın Kurucusu</div>
-      <p>Sürgünden ittifak mimarlığına: soğuk hesabın ve sabrın adamı. Korkuyla değil sadakatle yönetir — ama sadakatin de bir bedeli olduğunu öğrenir.</p>
-    </div>
-    <div class="karakter" style="--renk: var(--karia)">
-      <div class="muhur">♛</div>
-      <h3>Karia</h3>
-      <div class="unvan">Hegemonya Kraliçesi</div>
-      <p>Kanla korunmuş bir tahtı, liyakatle yeniden kuran kraliçe. Gücün insanı her gün, fark ettirmeden insanlıktan uzaklaştırdığını herkesten iyi bilir.</p>
-    </div>
-    <div class="karakter" style="--renk: var(--zaleena)">
-      <div class="muhur">⚓</div>
-      <h3>Zaleena</h3>
-      <div class="unvan">Enkaz Kraliçesi</div>
-      <p>Yüz enkazdan yamanmış bir şehrin sessiz hükümdarı. Otuz yıllık bir bayrak hayalini kıtasal bir ittifaka dönüştürdü — şimdi denizin dibindeki ışıltıyı izliyor.</p>
+  <aside class="panel" id="panel-dortyol" aria-hidden="true">
+    <button class="panel-kapat" type="button" aria-label="Dört Yol panelini kapat">Kapat <span>✕</span></button>
+    <div class="panel-kod">ARŞİV / DÖRT YOL</div>
+    <div class="etiket">Dört hayat, tek gökyüzü</div>
+    <h2>Dünyanın dört ayrı ucundan yükselen dört ses.</h2>
+    <p class="aciklama">Roman, dört ayrı gözden anlatılır — dört ayrı toprağın ve kaderin dönüşümlü sesiyle.</p>
+    <div class="karakter-listesi">
+      <article class="karakter" style="--renk: var(--togan)">
+        <div class="muhur">۞</div><div><h3>Togan</h3><div class="unvan">Nöbetçi · Saf Olmayan Kan</div></div>
+        <p>Kartal-Yurdu'nda büyüyen, damarlarında dünyanın en tehlikeli sırrını taşıyan genç adam.</p>
+      </article>
+      <article class="karakter" style="--renk: var(--temujin)">
+        <div class="muhur">⚔</div><div><h3>Temujin</h3><div class="unvan">Genç Kurtlar'ın Kurucusu</div></div>
+        <p>Sürgünden ittifak mimarlığına uzanan, soğuk hesabın ve sabrın adamı.</p>
+      </article>
+      <article class="karakter" style="--renk: var(--karia)">
+        <div class="muhur">♛</div><div><h3>Karia</h3><div class="unvan">Hegemonya Kraliçesi</div></div>
+        <p>Kanla korunmuş bir tahtı liyakatle yeniden kurmaya çalışan kraliçe.</p>
+      </article>
+      <article class="karakter" style="--renk: var(--zaleena)">
+        <div class="muhur">⚓</div><div><h3>Zaleena</h3><div class="unvan">Enkaz Kraliçesi</div></div>
+        <p>Yüz enkazdan yamanmış bir şehrin sessiz ve sabırlı hükümdarı.</p>
+      </article>
     </div>
   </aside>
+  <button class="panel-ortu" id="panel-ortu" type="button" aria-label="Açık paneli kapat" tabindex="-1"></button>
 
-  <!-- Hover bilgi kartı (pin üzerine gelince) -->
-  <div id="hover-kart">
-    <img id="hk-img" alt="">
-    <div class="ic">
-      <div class="halk" id="hk-halk"></div>
-      <h4 id="hk-ad"></h4>
-      <p id="hk-metin"></p>
-      <div class="tik">Tıkla — sinematik geçiş</div>
-    </div>
-  </div>
-
-  <!-- Mekân: tam ekran sinematik -->
-  <div class="modal" id="mekan-modal">
-    <video id="modal-video" muted playsinline preload="none"></video>
-    <img class="son-kare" id="modal-img" alt="">
-    <div class="modal-alt">
-      <div class="halk" id="modal-halk"></div>
-      <h3 id="modal-ad"></h3>
-      <p id="modal-metin"></p>
-    </div>
-    <button class="modal-kapat" id="modal-kapat">✕</button>
-  </div>
+  <noscript>Bu atlası kullanmak için JavaScript'i etkinleştir. Kitabı doğrudan <a href="kitap.html">buradan okuyabilirsin.</a></noscript>
 
   <script src="assets/vendor/gsap.min.js"></script>
-  <script src="assets/js/ana.js"></script>
+  <script src="assets/js/ana.js?v=5"></script>
 </body>
 </html>

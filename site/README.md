@@ -5,9 +5,10 @@
 (İnternet varsa Cormorant Garamond fontu yüklenir; yoksa Georgia ile açılır, site yine çalışır.)
 
 ## Sayfalar
-- **index.html** — sinematik ana sayfa: bulutların aralandığı hero, scroll animasyonları,
-  interaktif kıta haritası (8 mekân pini), mekân kartları (tıklayınca geçiş videosu → mekân görseli),
-  Dört Yol karakter kartları, kitap CTA.
+- **index.html** — tam ekran etkileşimli atlas. Haritadaki 8 bölgeden biri seçildikten sonra
+  sayfa aşağı kaydırıldıkça haritadan bölgeye yaklaşan geçiş videosu ilerler; yukarı kaydırıldığında
+  aynı yol tersine oynar ve haritaya döner. Her yolculuk, tam ekran bölge arşivi ve kitap CTA'sıyla biter.
+  Dünya ile Dört Yol bilgileri haritayı terk etmeden açılan yan panellerdedir.
 - **kitap.html** — kitap okuyucu: 3 kitap / 17 kısım / 358 bölüm.
   - Sol ağaç menü (kitap → kısım → bölüm), ☰ ile açılıp kapanır
   - A− / A+ yazı boyutu, ☀/☾ gece–sepya tema
@@ -33,22 +34,23 @@ site/
   assets/
     css/stil.css        ← ana sayfa stili
     css/kitap.css       ← okuyucu stili
-    js/ana.js           ← ana sayfa etkileşimleri (paralaks, harita, modal)
+    js/ana.js           ← atlas kamerası, bölge seçimi, scroll-video ve yan paneller
     js/okuyucu.js       ← okuyucu mantığı
     js/kitap-data.js    ← OTOMATİK ÜRETİLİR — elle düzenleme
     img/                ← harita + mekân görselleri (temiz ASCII adlar)
     video/              ← mekân geçiş videoları (mp4 — GIF'e çevrilmedi, gerek yok)
 ```
 
-## Harita pinlerinin yeri tutmazsa
-Pin koordinatları göz kararı yerleştirildi. `assets/js/ana.js` içindeki `MEKANLAR`
-listesinde her mekânın `x` ve `y` değeri yüzde cinsindendir — oradan oynatabilirsin
-(ya da bana "Metheris biraz sola" de, ben ayarlarım).
+## Harita işaretçilerinin yeri tutmazsa
+İşaretçi koordinatları `assets/js/ana.js` içindeki `MEKANLAR` listesinde yüzde cinsinden
+`x` ve `y` değerleriyle tutulur. İşaretçilerin görünür simgesi özellikle küçük, dokunma alanı ise
+erişilebilirlik için geniş bırakılmıştır; görsel boyutla tıklanabilir alanı birlikte küçültme.
 
 ## Kaynak görseller
 Orijinaller `haritalar animasyon/` klasöründe duruyor; site kendi kopyasını
 `site/assets/img` ve `site/assets/video` altında temiz adlarla kullanır.
-Yeni görsel/video eklersen aynı adlandırma kalıbıyla (küçük harf, tire) kopyala.
+Yeni görsel/video eklersen aynı adlandırma kalıbıyla (küçük harf, tire) kopyala. Scroll ile
+kare kare sarma için MP4 kullanılıyor; dosyaları GIF'e dönüştürmek kaliteyi düşürür ve boyutu büyütür.
 
 ## Sonraki aşamalar (fikir)
 - Külliyat/ansiklopedi sekmesi (halklar, tarih, sözlük)
