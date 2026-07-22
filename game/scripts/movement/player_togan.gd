@@ -37,10 +37,17 @@ enum Durum { BOS, KOSU, ZIPLA, DUSUS, KACINMA, HAFIF_SALDIRI, AGIR_SALDIRI, PARR
 @export var agir_hasar: float = 24.0
 @export var agir_denge_hasari: float = 22.0
 
+@export_group("Zıplama")
+@export var cift_zipla_hizi: float = -300.0  # havada ikinci zıplama
+
 @export_group("Kenar Tutunma")
+@export var kenar_tutunma_acik: bool = false  # tutunma.png gelince true yap
 @export var cekme_suresi: float = 0.28      # kendini yukarı çekme süresi
 @export var el_yuksekligi: float = -26.0    # elin duvara değdiği yükseklik
 @export var bas_yuksekligi: float = -46.0   # başın üstü (boş olmalı = kenar var)
+
+@export_group("Parry")
+@export var parry_bekleme_suresi: float = 0.45  # parry spam engeli
 
 var durum: Durum = Durum.BOS
 var yon: int = 1  # 1 sağ, -1 sol
@@ -56,6 +63,8 @@ var _dokunulmaz: bool = false
 var _tutun_bekleme: float = 0.0         # bırakınca hemen tekrar tutunmayı engeller
 var _cekme_bas: Vector2 = Vector2.ZERO
 var _cekme_hedef: Vector2 = Vector2.ZERO
+var _cift_zipla_kullanildi: bool = false
+var _parry_bekleme: float = 0.0
 
 @onready var stats: CombatStats = $CombatStats
 @onready var hitbox: Hitbox = $Hitbox
@@ -116,8 +125,11 @@ func _sayaclar(delta: float) -> void:
 	_durum_sayac += delta
 	if is_on_floor():
 		_coyote_sayac = coyote_suresi
+		_cift_zipla_kullanildi = false   # yere değince çift zıplama tazelenir
 	else:
 		_coyote_sayac -= delta
+	if _parry_bekleme > 0.0:
+		_parry_bekleme -= delta
 	if Input.is_action_just_pressed("zipla"):
 		_zipla_tampon_sayac = zipla_tamponu
 	else:
@@ -177,13 +189,16 @@ func _hava_hareketi(delta: float) -> void:
 	# Coyote: yerden yeni düştüyse hâlâ zıplayabilir
 	if _zipla_tampon_sayac > 0.0 and _coyote_sayac > 0.0:
 		_zipla()
+	# Çift zıplama: coyote bitti, havada bir kez daha
+	elif _zipla_tampon_sayac > 0.0 and not _cift_zipla_kullanildi:
+		_cift_zipla()
 	# Değişken zıplama: erken bırakınca kısa zıplar
 	if durum == Durum.ZIPLA and velocity.y < 0.0 and not Input.is_action_pressed("zipla"):
 		velocity.y *= 0.55
 	if velocity.y >= 0.0:
 		durum = Durum.DUSUS
-	# Kenara tutunma: düşerken, duvara doğru bastırırken bir kenar yakala
-	if durum == Durum.DUSUS and velocity.y > 0.0 and _tutun_bekleme <= 0.0 and _kenar_var():
+	# Kenara tutunma (animasyon gelince açılır): düşerken duvara bastırırken kenar yakala
+	if kenar_tutunma_acik and durum == Durum.DUSUS and velocity.y > 0.0 and _tutun_bekleme <= 0.0 and _kenar_var():
 		_tutun()
 		return
 	if is_on_floor():
@@ -193,6 +208,13 @@ func _zipla() -> void:
 	velocity.y = zipla_hizi
 	_zipla_tampon_sayac = 0.0
 	_coyote_sayac = 0.0
+	_duruma_gec(Durum.ZIPLA)
+
+func _cift_zipla() -> void:
+	velocity.y = cift_zipla_hizi
+	_zipla_tampon_sayac = 0.0
+	_cift_zipla_kullanildi = true
+	Fx.toz(global_position + Vector2(0, -8), 0.7)   # havada patlama tozu
 	_duruma_gec(Durum.ZIPLA)
 
 # ---------- Kenar tutunma ----------
@@ -247,13 +269,14 @@ func _eylem_dinle() -> void:
 	var eylem := _tamponu_tuket()
 	match eylem:
 		"kacin":
-			_kacinma_basla()
+			if is_on_floor():        # takla yalnızca yerde (havada değil)
+				_kacinma_basla()
 		"hafif":
 			_saldiri_basla(false)
 		"agir":
 			_saldiri_basla(true)
 		_:
-			if Input.is_action_just_pressed("parry"):
+			if Input.is_action_just_pressed("parry") and _parry_bekleme <= 0.0:
 				_parry_basla()
 
 func _kacinma_basla() -> void:
@@ -333,6 +356,7 @@ func _parry_guncelle(_delta: float) -> void:
 	_parry_aktif = _durum_sayac <= parry_penceresi
 	if _durum_sayac >= parry_penceresi + parry_toparlanma:
 		_parry_aktif = false
+		_parry_bekleme = parry_bekleme_suresi   # tekrar parry için bekleme (spam engeli)
 		_duruma_gec(Durum.BOS)
 
 func _toparlanma_guncelle(_delta: float) -> void:

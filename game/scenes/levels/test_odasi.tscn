@@ -19,24 +19,36 @@ shader_parameter/dis = 0.9
 [node name="TestOdasi" type="Node2D"]
 script = ExtResource("1_to")
 
-[node name="ArkaPlan" type="CanvasLayer" parent="."]
-layer = -10
+[node name="DipZemin" type="CanvasLayer" parent="."]
+layer = -20
 
-[node name="Orman" type="TextureRect" parent="ArkaPlan"]
+[node name="Renk" type="ColorRect" parent="DipZemin"]
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
+color = Color(0.03, 0.04, 0.06, 1)
+
+[node name="ArkaPlan" type="ParallaxBackground" parent="."]
+layer = -10
+
+[node name="Uzak" type="ParallaxLayer" parent="ArkaPlan"]
+motion_scale = Vector2(0.25, 0.12)
+motion_mirroring = Vector2(1024, 0)
+
+[node name="UzakGorsel" type="Sprite2D" parent="ArkaPlan/Uzak"]
 texture = ExtResource("4_bg")
-expand_mode = 1
-stretch_mode = 6
+centered = false
+position = Vector2(0, -40)
+scale = Vector2(1.6, 1.6)
+modulate = Color(0.7, 0.75, 0.88, 1)
 
 [node name="Sis" type="CPUParticles2D" parent="."]
 position = Vector2(320, 200)
-amount = 46
+amount = 60
 lifetime = 7.0
 preprocess = 4.0
 emission_shape = 3
-emission_rect_extents = Vector2(460, 190)
+emission_rect_extents = Vector2(760, 190)
 direction = Vector2(1, 0)
 spread = 180.0
 gravity = Vector2(0, -3)
@@ -51,11 +63,12 @@ position = Vector2(320, 340)
 
 [node name="ZeminSekil" type="CollisionShape2D" parent="Zemin"]
 shape = SubResource("zemin_sekil")
+scale = Vector2(1.7, 1)
 
 [node name="ZeminGorsel" type="ColorRect" parent="Zemin"]
-offset_left = -600.0
+offset_left = -1020.0
 offset_top = -20.0
-offset_right = 600.0
+offset_right = 1020.0
 offset_bottom = 20.0
 color = Color(0.08, 0.09, 0.11, 1)
 
@@ -87,8 +100,36 @@ offset_right = 60.0
 offset_bottom = 8.0
 color = Color(0.14, 0.17, 0.18, 1)
 
+[node name="Platform3" type="StaticBody2D" parent="."]
+position = Vector2(760, 240)
+
+[node name="P3Sekil" type="CollisionShape2D" parent="Platform3"]
+shape = SubResource("zemin_sekil")
+scale = Vector2(0.1, 0.4)
+
+[node name="P3Gorsel" type="ColorRect" parent="Platform3"]
+offset_left = -60.0
+offset_top = -8.0
+offset_right = 60.0
+offset_bottom = 8.0
+color = Color(0.14, 0.17, 0.18, 1)
+
+[node name="Platform4" type="StaticBody2D" parent="."]
+position = Vector2(1000, 170)
+
+[node name="P4Sekil" type="CollisionShape2D" parent="Platform4"]
+shape = SubResource("zemin_sekil")
+scale = Vector2(0.1, 0.4)
+
+[node name="P4Gorsel" type="ColorRect" parent="Platform4"]
+offset_left = -60.0
+offset_top = -8.0
+offset_right = 60.0
+offset_bottom = 8.0
+color = Color(0.14, 0.17, 0.18, 1)
+
 [node name="SolDuvar" type="StaticBody2D" parent="."]
-position = Vector2(-270, 180)
+position = Vector2(-560, 180)
 rotation = 1.5708
 
 [node name="SDSekil" type="CollisionShape2D" parent="SolDuvar"]
@@ -96,7 +137,7 @@ shape = SubResource("zemin_sekil")
 scale = Vector2(0.5, 1.0)
 
 [node name="SagDuvar" type="StaticBody2D" parent="."]
-position = Vector2(910, 180)
+position = Vector2(1200, 180)
 rotation = 1.5708
 
 [node name="SGSekil" type="CollisionShape2D" parent="SagDuvar"]
