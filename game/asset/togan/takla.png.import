@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bucwvlhurr6nh"
-path="res://.godot/imported/saldiri_0.png-6349a055d58f474e5367e05fefc3acee.ctex"
+uid="uid://455yn77437q8"
+path="res://.godot/imported/takla.png-00cad14799a52acb4f33050ec72f7df9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/togan/saldiri_0.png"
-dest_files=["res://.godot/imported/saldiri_0.png-6349a055d58f474e5367e05fefc3acee.ctex"]
+source_file="res://asset/togan/takla.png"
+dest_files=["res://.godot/imported/takla.png-00cad14799a52acb4f33050ec72f7df9.ctex"]
 
 [params]
 

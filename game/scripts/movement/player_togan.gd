@@ -297,7 +297,7 @@ func _saldiri_basla(agir: bool) -> void:
 		_duruma_gec(Durum.HAFIF_SALDIRI)
 	hitbox.position.x = 18.0 * yon
 	velocity.x = 0.0
-	gorsel.play("saldiri")
+	gorsel.play("agir" if agir else "hafif")
 	gorsel.set_frame_and_progress(0, 0.0)   # kombo için baştan
 
 func _saldiri_guncelle(_delta: float) -> void:
@@ -396,19 +396,25 @@ func _durum_gorseli() -> void:
 			anim = "zipla"
 		Durum.DUSUS:
 			anim = "dusus"
-		Durum.HAFIF_SALDIRI, Durum.AGIR_SALDIRI:
-			anim = "saldiri"                        # başlatma _saldiri_basla'da
+		Durum.HAFIF_SALDIRI:
+			anim = "hafif"                          # başlatma _saldiri_basla'da
+		Durum.AGIR_SALDIRI:
+			anim = "agir"
 		Durum.KACINMA:
-			ton = Color(1, 1, 1, 0.45)              # dokunulmazlıkta soluk
+			anim = "takla"                          # gerçek yuvarlanma karesi
+			ton = Color(1, 1, 1, 0.6)               # dokunulmazlıkta hafif soluk
 		Durum.PARRY:
-			ton = Color(1.6, 1.5, 1.0) if _parry_aktif else Color(0.85, 0.85, 0.8)
+			anim = "parry"
+			ton = Color(1.6, 1.5, 1.0) if _parry_aktif else Color.WHITE
 		Durum.HASAR, Durum.SENDELEME:
+			anim = "hasar"
 			ton = Color(1.5, 0.55, 0.55)            # kırmızı flaş
 		Durum.TUTUNMA:
 			anim = "dusus"                          # geçici; "tutunma" karesi gelince değişir
 		Durum.CEKME:
 			anim = "zipla"                          # geçici; "cekme" karesi gelince değişir
 		Durum.OLU:
+			anim = "hasar"
 			ton = Color(0.45, 0.45, 0.5)
 	gorsel.modulate = ton
 	gorsel.flip_h = yon < 0
@@ -429,5 +435,4 @@ func _animasyon(delta: float) -> void:
 	_onceki_yerde = yerde
 	_squash = _squash.lerp(Vector2.ONE, 1.0 - exp(-20.0 * delta))
 	gorsel.scale = _squash
-	# Kaçınmada öne yatış (flip_h yönüne göre)
-	gorsel.rotation = deg_to_rad(16.0) * yon if durum == Durum.KACINMA else 0.0
+	gorsel.rotation = 0.0  # döndürme artık takla karelerinde

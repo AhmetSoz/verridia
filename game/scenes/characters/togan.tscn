@@ -1,19 +1,38 @@
-[gd_scene load_steps=18 format=3]
+[gd_scene load_steps=38 format=3]
 
 [ext_resource type="Script" path="res://scripts/movement/player_togan.gd" id="1_pt"]
 [ext_resource type="Script" path="res://scripts/combat/combat_stats.gd" id="2_cs"]
 [ext_resource type="Script" path="res://scripts/combat/hitbox.gd" id="3_hb"]
 [ext_resource type="Script" path="res://scripts/combat/hurtbox.gd" id="4_hu"]
-[ext_resource type="Texture2D" uid="uid://bio8h0gay6qc0" path="res://asset/togan/idle_0.png" id="10"]
-[ext_resource type="Texture2D" uid="uid://bb0g6yogfqgcw" path="res://asset/togan/yuru_0.png" id="11"]
-[ext_resource type="Texture2D" uid="uid://j4eoejt5nix7" path="res://asset/togan/yuru_1.png" id="12"]
-[ext_resource type="Texture2D" uid="uid://dbt3un46elsm8" path="res://asset/togan/yuru_2.png" id="13"]
-[ext_resource type="Texture2D" uid="uid://co0y2ksa5x6i1" path="res://asset/togan/yuru_3.png" id="14"]
-[ext_resource type="Texture2D" uid="uid://bucwvlhurr6nh" path="res://asset/togan/saldiri_0.png" id="15"]
-[ext_resource type="Texture2D" uid="uid://gt0ssup7rinp" path="res://asset/togan/saldiri_1.png" id="16"]
-[ext_resource type="Texture2D" uid="uid://b50ikojah80ba" path="res://asset/togan/saldiri_2.png" id="17"]
-[ext_resource type="Texture2D" uid="uid://b6oruhxu2kiey" path="res://asset/togan/zipla_0.png" id="18"]
-[ext_resource type="Texture2D" uid="uid://cx1h3fak17mvr" path="res://asset/togan/zipla_1.png" id="19"]
+[ext_resource type="Texture2D" path="res://asset/togan/idle_0.png" id="10"]
+[ext_resource type="Texture2D" path="res://asset/togan/yuru_0.png" id="11"]
+[ext_resource type="Texture2D" path="res://asset/togan/yuru_1.png" id="12"]
+[ext_resource type="Texture2D" path="res://asset/togan/yuru_2.png" id="13"]
+[ext_resource type="Texture2D" path="res://asset/togan/yuru_3.png" id="14"]
+[ext_resource type="Texture2D" path="res://asset/togan/hafif_0.png" id="20"]
+[ext_resource type="Texture2D" path="res://asset/togan/hafif_1.png" id="21"]
+[ext_resource type="Texture2D" path="res://asset/togan/hafif_2.png" id="22"]
+[ext_resource type="Texture2D" path="res://asset/togan/hafif_3.png" id="23"]
+[ext_resource type="Texture2D" path="res://asset/togan/hafif_4.png" id="24"]
+[ext_resource type="Texture2D" path="res://asset/togan/agir_0.png" id="30"]
+[ext_resource type="Texture2D" path="res://asset/togan/agir_1.png" id="31"]
+[ext_resource type="Texture2D" path="res://asset/togan/agir_2.png" id="32"]
+[ext_resource type="Texture2D" path="res://asset/togan/agir_3.png" id="33"]
+[ext_resource type="Texture2D" path="res://asset/togan/agir_4.png" id="34"]
+[ext_resource type="Texture2D" path="res://asset/togan/agir_5.png" id="35"]
+[ext_resource type="Texture2D" path="res://asset/togan/parry_0.png" id="40"]
+[ext_resource type="Texture2D" path="res://asset/togan/parry_1.png" id="41"]
+[ext_resource type="Texture2D" path="res://asset/togan/parry_2.png" id="42"]
+[ext_resource type="Texture2D" path="res://asset/togan/takla_0.png" id="50"]
+[ext_resource type="Texture2D" path="res://asset/togan/takla_1.png" id="51"]
+[ext_resource type="Texture2D" path="res://asset/togan/takla_2.png" id="52"]
+[ext_resource type="Texture2D" path="res://asset/togan/takla_3.png" id="53"]
+[ext_resource type="Texture2D" path="res://asset/togan/takla_4.png" id="54"]
+[ext_resource type="Texture2D" path="res://asset/togan/takla_5.png" id="55"]
+[ext_resource type="Texture2D" path="res://asset/togan/hasar_0.png" id="60"]
+[ext_resource type="Texture2D" path="res://asset/togan/hasar_1.png" id="61"]
+[ext_resource type="Texture2D" path="res://asset/togan/zipla_0.png" id="18"]
+[ext_resource type="Texture2D" path="res://asset/togan/zipla_1.png" id="19"]
 
 [sub_resource type="SpriteFrames" id="sf"]
 animations = [{
@@ -27,13 +46,33 @@ animations = [{
 "name": &"yuru",
 "speed": 10.0
 }, {
-"frames": [{"duration": 1.0, "texture": ExtResource("15")}, {"duration": 1.0, "texture": ExtResource("16")}, {"duration": 1.0, "texture": ExtResource("17")}],
+"frames": [{"duration": 1.0, "texture": ExtResource("20")}, {"duration": 1.0, "texture": ExtResource("21")}, {"duration": 1.0, "texture": ExtResource("22")}, {"duration": 1.0, "texture": ExtResource("23")}, {"duration": 1.0, "texture": ExtResource("24")}],
 "loop": false,
-"name": &"saldiri",
-"speed": 14.0
+"name": &"hafif",
+"speed": 15.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("30")}, {"duration": 1.0, "texture": ExtResource("31")}, {"duration": 1.0, "texture": ExtResource("32")}, {"duration": 1.0, "texture": ExtResource("33")}, {"duration": 1.0, "texture": ExtResource("34")}, {"duration": 1.0, "texture": ExtResource("35")}],
+"loop": false,
+"name": &"agir",
+"speed": 11.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("40")}, {"duration": 1.0, "texture": ExtResource("41")}, {"duration": 1.0, "texture": ExtResource("42")}],
+"loop": false,
+"name": &"parry",
+"speed": 10.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("50")}, {"duration": 1.0, "texture": ExtResource("51")}, {"duration": 1.0, "texture": ExtResource("52")}, {"duration": 1.0, "texture": ExtResource("53")}, {"duration": 1.0, "texture": ExtResource("54")}, {"duration": 1.0, "texture": ExtResource("55")}],
+"loop": false,
+"name": &"takla",
+"speed": 17.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("60")}, {"duration": 1.0, "texture": ExtResource("61")}],
+"loop": false,
+"name": &"hasar",
+"speed": 8.0
 }, {
 "frames": [{"duration": 1.0, "texture": ExtResource("18")}],
-"loop": true,
+"loop": false,
 "name": &"zipla",
 "speed": 5.0
 }, {
@@ -58,7 +97,7 @@ collision_mask = 1
 script = ExtResource("1_pt")
 
 [node name="Gorsel" type="AnimatedSprite2D" parent="."]
-position = Vector2(0, -34)
+position = Vector2(0, -50)
 sprite_frames = SubResource("sf")
 animation = &"idle"
 autoplay = "idle"
