@@ -52,7 +52,7 @@ var _dokunulmaz: bool = false
 @onready var stats: CombatStats = $CombatStats
 @onready var hitbox: Hitbox = $Hitbox
 @onready var hurtbox: Hurtbox = $Hurtbox
-@onready var gorsel: ColorRect = $Gorsel
+@onready var gorsel: Sprite2D = $Gorsel
 
 func _ready() -> void:
 	add_to_group("oyuncu")
@@ -302,20 +302,21 @@ func _duruma_gec(yeni: Durum) -> void:
 		_parry_aktif = false
 
 func _durum_gorseli() -> void:
-	## Gri-kutu geri bildirimi: duruma göre renk (animasyon gelene kadar)
-	var renk := Color(0.55, 0.68, 0.80)          # Togan soğuk mavi (bekleme)
+	## Sprite tonlaması: duruma göre modulate (animasyon gelene kadar geri bildirim).
+	## modulate >1 aşırı parlama; alpha < 1 soluklaşma sağlar.
+	var ton := Color.WHITE                         # normal: dokunma
 	match durum:
 		Durum.KACINMA:
-			renk = Color(0.85, 0.85, 0.85, 0.55)   # dokunulmazlıkta soluk
+			ton = Color(1, 1, 1, 0.45)             # dokunulmazlıkta soluk
 		Durum.HAFIF_SALDIRI:
-			renk = Color(0.80, 0.72, 0.45)
+			ton = Color(1.15, 1.12, 0.95)          # hafif parlama
 		Durum.AGIR_SALDIRI:
-			renk = Color(0.90, 0.55, 0.30)
+			ton = Color(1.3, 1.05, 0.85)           # ağır: sıcak parlama
 		Durum.PARRY:
-			renk = Color(0.95, 0.92, 0.70) if _parry_aktif else Color(0.60, 0.58, 0.50)
+			ton = Color(1.6, 1.5, 1.0) if _parry_aktif else Color(0.8, 0.8, 0.75)
 		Durum.HASAR, Durum.SENDELEME:
-			renk = Color(0.85, 0.30, 0.30)
+			ton = Color(1.5, 0.55, 0.55)           # kırmızı flaş
 		Durum.OLU:
-			renk = Color(0.25, 0.25, 0.28)
-	gorsel.color = renk
-	gorsel.scale.x = float(yon)
+			ton = Color(0.45, 0.45, 0.5)
+	gorsel.modulate = ton
+	gorsel.flip_h = yon < 0                         # sprite sağa bakıyor; sola dönünce çevir

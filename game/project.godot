@@ -1,14 +1,23 @@
 ; Engine configuration file.
-; VERRIDIA: KIZIL HAFTA — Godot 4.x
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
 
 config_version=5
+
+[animation]
+
+compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 
 [application]
 
 config/name="Verridia: Kızıl Hafta"
 config/description="Birinci Kitap'ın hikâye odaklı 2D aksiyon-platform uyarlaması."
 run/main_scene="res://scenes/levels/test_odasi.tscn"
-config/features=PackedStringArray("4.4")
+config/features=PackedStringArray("4.7")
 config/icon="res://icon.svg"
 
 [autoload]
@@ -26,7 +35,6 @@ window/size/viewport_height=360
 window/size/window_width_override=1280
 window/size/window_height_override=720
 window/stretch/mode="viewport"
-window/stretch/aspect="keep"
 window/stretch/scale_mode="integer"
 
 [input]
@@ -118,15 +126,10 @@ menu={
 
 [internationalization]
 
-locale/translations=PackedStringArray()
 locale/fallback="tr"
-
-[physics]
-
-common/physics_ticks_per_second=60
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
-textures/canvas_textures/default_texture_filter=0
