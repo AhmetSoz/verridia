@@ -322,84 +322,70 @@ body.gecis-ilerledi .harita-sahnesi { pointer-events: none; }
 }
 #pin-katmani { position: absolute; inset: 0; }
 
-/* Bölge işaretleri: görünür parça küçük, erişim alanı geniş */
+/* Bölge işaretleri: görünmez erişim alanı + elle çizilen mürekkep halkası */
 .pin {
   --pz: 1;
   position: absolute;
   z-index: 3;
-  width: 44px;
-  height: 44px;
+  width: 68px;
+  height: 52px;
   padding: 0;
-  color: var(--altin-acik);
   background: transparent;
   cursor: pointer;
   transform: translate(-50%, -50%) scale(var(--pz));
   transform-origin: center;
 }
-.pin::before {
+.pin::before,
+.pin::after {
   content: "";
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 5px;
-  height: 5px;
-  border: 1px solid rgba(63, 44, 24, .56);
-  background: rgba(121, 91, 49, .24);
-  box-shadow: 0 0 0 1px rgba(224, 192, 126, .08);
-  opacity: .38;
-  transform: translate(-50%, -50%) rotate(45deg);
-  transition: width .25s ease, height .25s ease, background .25s ease, box-shadow .25s ease, opacity .25s ease;
+  pointer-events: none;
+  mix-blend-mode: multiply;
+  opacity: 0;
+}
+.pin::before {
+  width: 46px;
+  height: 28px;
+  border: 1.7px solid rgba(34, 23, 13, .86);
+  border-radius: 53% 47% 55% 45% / 46% 55% 45% 54%;
+  clip-path: inset(-6px 105% -6px -6px);
+  transform: translate(-50%, -50%) rotate(-7deg) scale(.94);
+  filter: blur(.06px);
 }
 .pin::after {
-  content: "";
-  position: absolute;
-  inset: 10px;
-  border: 1px dashed rgba(86, 59, 29, .74);
-  border-radius: 50%;
-  opacity: 0;
-  transform: scale(.65);
-  transition: opacity .25s ease, transform .35s cubic-bezier(.2, .8, .2, 1);
+  width: 50px;
+  height: 32px;
+  border: 1px solid rgba(42, 28, 15, .58);
+  border-right-color: transparent;
+  border-bottom-color: rgba(42, 28, 15, .28);
+  border-radius: 47% 53% 45% 55% / 55% 46% 54% 45%;
+  clip-path: inset(-6px 105% -6px -6px);
+  transform: translate(-50%, -50%) rotate(8deg) scale(.98);
 }
-.pin:hover::after,
-.pin:focus-visible::after,
-.pin.hazir::after,
-.pin.secili::after { opacity: 1; transform: scale(1); }
 .pin:hover::before,
 .pin:focus-visible::before,
 .pin.hazir::before,
-.pin.secili::before {
-  width: 9px;
-  height: 9px;
-  border-color: rgba(255,234,183,.82);
-  background: #b58b46;
-  box-shadow: 0 0 0 2px rgba(37,25,12,.35), 0 0 18px rgba(234, 211, 154, .62);
-  opacity: 1;
+.pin.secili::before { animation: murekkep-ciz-bir .48s steps(9, end) forwards; }
+.pin:hover::after,
+.pin:focus-visible::after,
+.pin.hazir::after,
+.pin.secili::after { animation: murekkep-ciz-iki .52s .09s steps(10, end) forwards; }
+@keyframes murekkep-ciz-bir {
+  0% { clip-path: inset(-6px 105% -6px -6px); opacity: 0; transform: translate(-50%, -50%) rotate(-11deg) scale(.88); }
+  18% { opacity: .9; }
+  100% { clip-path: inset(-6px -6px -6px -6px); opacity: 1; transform: translate(-50%, -50%) rotate(-7deg) scale(1); }
 }
-.pin:focus-visible { outline: 1px solid var(--altin-acik); outline-offset: 2px; }
+@keyframes murekkep-ciz-iki {
+  0% { clip-path: inset(-6px 105% -6px -6px); opacity: 0; transform: translate(-50%, -50%) rotate(13deg) scale(.92); }
+  20% { opacity: .54; }
+  100% { clip-path: inset(-6px -6px -6px -6px); opacity: .68; transform: translate(-50%, -50%) rotate(8deg) scale(1); }
+}
+.pin:focus-visible { outline: none; }
 .pin-numara {
-  position: absolute;
-  left: 50%;
-  top: calc(100% - 4px);
-  display: flex;
-  align-items: center;
-  gap: .5rem;
-  padding: .28rem .45rem;
-  color: #2b1c0e;
-  border: 1px solid rgba(77,52,24,.62);
-  background: linear-gradient(145deg, rgba(220,201,155,.96), rgba(163,132,81,.96));
-  box-shadow: 0 6px 14px rgba(0,0,0,.32);
-  font-size: .53rem;
-  letter-spacing: .18em;
-  white-space: nowrap;
-  opacity: 0;
-  transform: translate(-50%, 5px) rotate(-.35deg);
-  transition: opacity .2s ease, transform .25s ease;
-  pointer-events: none;
+  display: none;
 }
-.pin:hover .pin-numara,
-.pin:focus-visible .pin-numara,
-.pin.hazir .pin-numara,
-.pin.secili .pin-numara { opacity: 1; transform: translate(-50%, 0) rotate(-.35deg); }
 body.yolculuk-secili .pin:not(.secili) { opacity: .2; }
 body.gecis-ilerledi .pin { opacity: 0 !important; }
 
