@@ -3,7 +3,7 @@
 [ext_resource type="Script" path="res://scripts/tests/test_odasi.gd" id="1_to"]
 [ext_resource type="PackedScene" path="res://scenes/characters/togan.tscn" id="2_tg"]
 [ext_resource type="PackedScene" path="res://scenes/enemies/dummy.tscn" id="3_dm"]
-[ext_resource type="Texture2D" uid="uid://d4c08673qt2d1" path="res://asset/golgeortu_arka.png" id="4_bg"]
+[ext_resource type="Texture2D" uid="uid://d4c08673qt2d1" path="res://asset/arkaplanlar/golgeortu_arka.png" id="4_bg"]
 
 [sub_resource type="RectangleShape2D" id="zemin_sekil"]
 size = Vector2(1200, 40)

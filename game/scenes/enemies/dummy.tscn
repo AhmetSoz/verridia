@@ -4,7 +4,7 @@
 [ext_resource type="Script" path="res://scripts/combat/combat_stats.gd" id="2_cs"]
 [ext_resource type="Script" path="res://scripts/combat/hitbox.gd" id="3_hb"]
 [ext_resource type="Script" path="res://scripts/combat/hurtbox.gd" id="4_hu"]
-[ext_resource type="Texture2D" uid="uid://daeip5b7hsqjv" path="res://asset/pascene_idle.png" id="5_tex"]
+[ext_resource type="Texture2D" uid="uid://daeip5b7hsqjv" path="res://asset/pas-çene/pascene_idle.png" id="5_tex"]
 
 [sub_resource type="RectangleShape2D" id="govde_sekil"]
 size = Vector2(22, 36)

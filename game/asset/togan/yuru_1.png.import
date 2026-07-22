@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://djf8evrr5cof2"
-path="res://.godot/imported/Pas-Çene.png-989f76c57229832e74c0b0555b864938.ctex"
+uid="uid://j4eoejt5nix7"
+path="res://.godot/imported/yuru_1.png-5339f5755b5ccc87f297355b3a8b7373.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/Pas-Çene.png"
-dest_files=["res://.godot/imported/Pas-Çene.png-989f76c57229832e74c0b0555b864938.ctex"]
+source_file="res://asset/togan/yuru_1.png"
+dest_files=["res://.godot/imported/yuru_1.png-5339f5755b5ccc87f297355b3a8b7373.ctex"]
 
 [params]
 

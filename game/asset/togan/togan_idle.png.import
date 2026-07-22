@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d4c08673qt2d1"
-path="res://.godot/imported/golgeortu_arka.png-2b4522a1db8724920fe2a67d390d0359.ctex"
+uid="uid://2yweu18xc7mm"
+path="res://.godot/imported/togan_idle.png-8631813ef4723b70cc134133d3748c09.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/golgeortu_arka.png"
-dest_files=["res://.godot/imported/golgeortu_arka.png-2b4522a1db8724920fe2a67d390d0359.ctex"]
+source_file="res://asset/togan/togan_idle.png"
+dest_files=["res://.godot/imported/togan_idle.png-8631813ef4723b70cc134133d3748c09.ctex"]
 
 [params]
 

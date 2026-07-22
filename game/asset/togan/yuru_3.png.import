@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://2yweu18xc7mm"
-path="res://.godot/imported/togan_idle.png-5e03f9b9289e61048efb79014f779097.ctex"
+uid="uid://co0y2ksa5x6i1"
+path="res://.godot/imported/yuru_3.png-f023ab24e2d709e86353f6a60c9a6974.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/togan_idle.png"
-dest_files=["res://.godot/imported/togan_idle.png-5e03f9b9289e61048efb79014f779097.ctex"]
+source_file="res://asset/togan/yuru_3.png"
+dest_files=["res://.godot/imported/yuru_3.png-f023ab24e2d709e86353f6a60c9a6974.ctex"]
 
 [params]
 

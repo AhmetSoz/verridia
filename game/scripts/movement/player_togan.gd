@@ -52,8 +52,7 @@ var _dokunulmaz: bool = false
 @onready var stats: CombatStats = $CombatStats
 @onready var hitbox: Hitbox = $Hitbox
 @onready var hurtbox: Hurtbox = $Hurtbox
-@onready var gorsel: Sprite2D = $Gorsel
-@onready var slash: Polygon2D = $Slash
+@onready var gorsel: AnimatedSprite2D = $Gorsel
 
 func _ready() -> void:
 	add_to_group("oyuncu")
@@ -220,6 +219,8 @@ func _saldiri_basla(agir: bool) -> void:
 		_duruma_gec(Durum.HAFIF_SALDIRI)
 	hitbox.position.x = 18.0 * yon
 	velocity.x = 0.0
+	gorsel.play("saldiri")
+	gorsel.set_frame_and_progress(0, 0.0)   # kombo için baştan
 
 func _saldiri_guncelle(_delta: float) -> void:
 	var evreler: Array = AGIR_EVRELER if _saldiri_agir_mi else HAFIF_EVRELER
@@ -304,88 +305,42 @@ func _duruma_gec(yeni: Durum) -> void:
 		_parry_aktif = false
 
 func _durum_gorseli() -> void:
-	## Sprite tonlaması: duruma göre modulate (animasyon gelene kadar geri bildirim).
-	## modulate >1 aşırı parlama; alpha < 1 soluklaşma sağlar.
-	var ton := Color.WHITE                         # normal: dokunma
+	## Animasyon seçimi + durum tonlaması (modulate).
+	var ton := Color.WHITE
+	var anim := "idle"
 	match durum:
+		Durum.KOSU:
+			anim = "yuru"
+		Durum.ZIPLA:
+			anim = "zipla"
+		Durum.DUSUS:
+			anim = "dusus"
+		Durum.HAFIF_SALDIRI, Durum.AGIR_SALDIRI:
+			anim = "saldiri"                        # başlatma _saldiri_basla'da
 		Durum.KACINMA:
-			ton = Color(1, 1, 1, 0.45)             # dokunulmazlıkta soluk
-		Durum.HAFIF_SALDIRI:
-			ton = Color(1.15, 1.12, 0.95)          # hafif parlama
-		Durum.AGIR_SALDIRI:
-			ton = Color(1.3, 1.05, 0.85)           # ağır: sıcak parlama
+			ton = Color(1, 1, 1, 0.45)              # dokunulmazlıkta soluk
 		Durum.PARRY:
-			ton = Color(1.6, 1.5, 1.0) if _parry_aktif else Color(0.8, 0.8, 0.75)
+			ton = Color(1.6, 1.5, 1.0) if _parry_aktif else Color(0.85, 0.85, 0.8)
 		Durum.HASAR, Durum.SENDELEME:
-			ton = Color(1.5, 0.55, 0.55)           # kırmızı flaş
+			ton = Color(1.5, 0.55, 0.55)            # kırmızı flaş
 		Durum.OLU:
 			ton = Color(0.45, 0.45, 0.5)
 	gorsel.modulate = ton
-	# yön çevirme _animasyon() içinde scale.x işaretiyle yapılır
+	gorsel.flip_h = yon < 0
+	if gorsel.animation != anim:
+		gorsel.play(anim)
 
-# ---------- Procedural animasyon (tek sprite'ı canlandırır, yeni kare gerekmez) ----------
-const GORSEL_TABAN_Y := -29.0
-var _anim_zaman: float = 0.0
+# ---------- Ek juice (gerçek kareler üstüne: iniş ezilmesi + kaçınma yatışı) ----------
 var _squash: Vector2 = Vector2.ONE
-var _hedef_squash: Vector2 = Vector2.ONE
 var _onceki_yerde: bool = true
 
 func _animasyon(delta: float) -> void:
-	_anim_zaman += delta
 	var yerde := is_on_floor()
-	var offset_y := 0.0
-	var offset_x := 0.0
-	var egim := 0.0
-	_hedef_squash = Vector2.ONE
-	slash.visible = false
-
-	match durum:
-		Durum.KOSU:
-			# Belirgin koşu: çift zıplama + adım sallanması + öne eğim
-			var hiz_orani: float = clampf(absf(velocity.x) / kosu_hizi, 0.3, 1.0)
-			var faz := _anim_zaman * 16.0
-			offset_y = -absf(sin(faz)) * 5.0 * hiz_orani          # zemine değip zıplama
-			offset_x = cos(faz) * 1.5 * yon                        # adım salınımı
-			egim = deg_to_rad(9.0) * yon                           # koşarken öne yatık
-			# Ayak yere değince hafif ezil
-			_hedef_squash = Vector2(1.0 + 0.06 * absf(cos(faz)), 1.0 - 0.06 * absf(cos(faz)))
-		Durum.BOS:
-			offset_y = sin(_anim_zaman * 3.0)                      # nefes
-			_hedef_squash = Vector2(1.0, 1.0 + 0.03 * sin(_anim_zaman * 3.0))
-		Durum.ZIPLA:
-			_hedef_squash = Vector2(0.82, 1.2)                     # yukarı uzama
-			egim = deg_to_rad(4.0) * yon
-		Durum.DUSUS:
-			_hedef_squash = Vector2(0.9, 1.12)
-		Durum.HAFIF_SALDIRI, Durum.AGIR_SALDIRI:
-			# Aktif evrede öne atıl + kılıç parlaması göster
-			var aktif := _saldiri_evre == 1
-			var g: float = 1.0 if aktif else 0.35
-			offset_x = 7.0 * yon * g
-			_hedef_squash = Vector2(1.0 + 0.15 * g, 1.0 - 0.08 * g)
-			if aktif:
-				slash.visible = true
-				slash.scale.x = float(yon)
-				# Yay gibi süpürme: üstten alta hızlı dön + solma
-				var t: float = clampf(_durum_sayac / 0.12, 0.0, 1.0)
-				slash.rotation = deg_to_rad(lerpf(-55.0, 55.0, t)) * yon
-				slash.modulate.a = 1.0 - t
-		Durum.KACINMA:
-			egim = deg_to_rad(20.0) * yon                          # öne yatış
-			_hedef_squash = Vector2(1.18, 0.86)
-		Durum.HASAR:
-			offset_x = sin(_anim_zaman * 70.0) * 2.0               # sarsıntı
-		_:
-			pass
-
-	# İniş ezilmesi
+	# İniş ezilmesi (karelerin üstüne küçük dokunuş)
 	if yerde and not _onceki_yerde:
-		_squash = Vector2(1.3, 0.7)
+		_squash = Vector2(1.28, 0.72)
 	_onceki_yerde = yerde
-
-	_squash = _squash.lerp(_hedef_squash, 1.0 - exp(-20.0 * delta))
-	var flip := -1.0 if yon < 0 else 1.0
-	gorsel.scale = Vector2(_squash.x * flip, _squash.y)
-	gorsel.rotation = egim
-	# Tam piksele yuvarla (jitter'ı önler)
-	gorsel.position = Vector2(round(offset_x), round(GORSEL_TABAN_Y + offset_y))
+	_squash = _squash.lerp(Vector2.ONE, 1.0 - exp(-20.0 * delta))
+	gorsel.scale = _squash
+	# Kaçınmada öne yatış (flip_h yönüne göre)
+	gorsel.rotation = deg_to_rad(16.0) * yon if durum == Durum.KACINMA else 0.0

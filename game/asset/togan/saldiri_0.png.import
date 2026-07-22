@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://btj6rn2ixppah"
-path="res://.godot/imported/togan.png-9b643856532d84b4dec14cecbaddf08d.ctex"
+uid="uid://bucwvlhurr6nh"
+path="res://.godot/imported/saldiri_0.png-6349a055d58f474e5367e05fefc3acee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/togan.png"
-dest_files=["res://.godot/imported/togan.png-9b643856532d84b4dec14cecbaddf08d.ctex"]
+source_file="res://asset/togan/saldiri_0.png"
+dest_files=["res://.godot/imported/saldiri_0.png-6349a055d58f474e5367e05fefc3acee.ctex"]
 
 [params]
 
