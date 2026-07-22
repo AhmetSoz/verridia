@@ -20,7 +20,14 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 [hidden] { display: none !important; }
-html { min-height: 100%; background: var(--bg); }
+html {
+  min-height: 100%;
+  overflow: auto;
+  background: var(--bg);
+  scrollbar-width: none;
+  overscroll-behavior-y: none;
+}
+html::-webkit-scrollbar { width: 0; height: 0; }
 body {
   min-height: 100%;
   overflow-x: hidden;
@@ -212,7 +219,7 @@ body.gecis-ilerledi .ustbar { opacity: 0; visibility: hidden; transform: transla
 /* Scroll yolculuğunun yapısı */
 #deneyim { position: relative; min-height: 100svh; }
 .yolculuk { position: relative; height: 100svh; background: var(--bg); }
-body.yolculuk-aktif .yolculuk { height: 410svh; }
+body.yolculuk-aktif .yolculuk { height: 500svh; }
 .sabit-sahne {
   position: relative;
   top: 0;
@@ -248,6 +255,7 @@ body.gecis-ilerledi .harita-sahnesi { pointer-events: none; }
   left: 0;
   transform-origin: 0 0;
   will-change: transform;
+  contain: layout paint size;
 }
 #dunya .harita {
   width: 100%;
@@ -297,9 +305,11 @@ body.gecis-ilerledi .harita-sahnesi { pointer-events: none; }
 }
 .pin:hover::after,
 .pin:focus-visible::after,
+.pin.hazir::after,
 .pin.secili::after { opacity: 1; transform: scale(1); }
 .pin:hover::before,
 .pin:focus-visible::before,
+.pin.hazir::before,
 .pin.secili::before {
   width: 9px;
   height: 9px;
@@ -328,6 +338,7 @@ body.gecis-ilerledi .harita-sahnesi { pointer-events: none; }
 }
 .pin:hover .pin-numara,
 .pin:focus-visible .pin-numara,
+.pin.hazir .pin-numara,
 .pin.secili .pin-numara { opacity: 1; transform: translate(-50%, 0); }
 body.yolculuk-secili .pin:not(.secili) { opacity: .2; }
 body.gecis-ilerledi .pin { opacity: 0 !important; }
@@ -345,6 +356,8 @@ body.gecis-ilerledi .pin { opacity: 0 !important; }
   opacity: 0;
   transform: scale(1.025);
   will-change: opacity, transform;
+  backface-visibility: hidden;
+  contain: strict;
 }
 .bolge-poster { z-index: 5; }
 .video-yukleniyor {
@@ -508,26 +521,47 @@ body.gecis-ilerledi .secim-levhasi { opacity: 0; visibility: hidden; transform: 
   font-size: .8rem;
   line-height: 1.7;
 }
-.levha-alt { display: flex; align-items: center; gap: 1rem; margin-top: 1rem; }
-.yolculuk-baslat,
-.secimi-kaldir {
-  display: inline-flex;
+.levha-akis {
+  display: flex;
   align-items: center;
-  gap: 1.4rem;
-  color: var(--bg);
-  background: var(--altin-acik);
-  padding: .72rem .9rem;
+  gap: .8rem;
+  min-height: 1.8rem;
+  margin-top: .85rem;
+  color: var(--altin-acik);
+  font-size: .56rem;
+  font-weight: 600;
+  letter-spacing: .19em;
+  text-transform: uppercase;
+}
+.levha-akis > i {
+  display: grid;
+  width: 1.65rem;
+  height: 1.65rem;
+  place-items: center;
+  border: 1px solid rgba(234,211,154,.38);
+  border-radius: 50%;
+  font-size: .75rem;
+  font-style: normal;
+  animation: akis-isareti 1.8s ease-in-out infinite;
+}
+@keyframes akis-isareti {
+  0%, 100% { transform: translateY(-2px); opacity: .55; }
+  50% { transform: translateY(3px); opacity: 1; }
+}
+.secimi-kaldir {
+  display: none;
+  align-items: center;
+  margin-left: auto;
+  padding: .45rem 0;
+  color: var(--metin-soluk);
+  background: transparent;
   font-size: .57rem;
   font-weight: 600;
   letter-spacing: .19em;
   text-transform: uppercase;
   cursor: pointer;
-  transition: opacity .25s ease, transform .25s ease, background .25s ease;
+  transition: color .25s ease;
 }
-.yolculuk-baslat:disabled { opacity: .28; cursor: default; }
-.yolculuk-baslat:not(:disabled):hover { transform: translateY(-2px); background: #f4deb0; }
-.yolculuk-baslat i { font-size: .85rem; font-style: normal; }
-.secimi-kaldir { padding-inline: 0; color: var(--metin-soluk); background: transparent; }
 .secimi-kaldir:hover { color: var(--kemik); }
 
 .harita-ipucu {
@@ -866,7 +900,7 @@ noscript a { color: var(--altin-acik); }
   }
   .secim-levhasi h2 { font-size: 2rem; }
   .secim-levhasi p { display: -webkit-box; overflow: hidden; font-size: .74rem; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
-  .levha-alt { margin-top: .8rem; }
+  .levha-akis { margin-top: .7rem; font-size: .5rem; letter-spacing: .14em; }
   .harita-ipucu { left: 1rem; bottom: 1.2rem; font-size: .48rem; letter-spacing: .17em; }
   .zoom-kontrol { right: .8rem; bottom: 1rem; }
   .zoom-kontrol button { width: 34px; height: 34px; }
@@ -897,7 +931,6 @@ noscript a { color: var(--altin-acik); }
 @media (max-width: 430px) {
   .sekme[data-panel="dunya"] { display: none; }
   .secim-levhasi p { -webkit-line-clamp: 1; }
-  .yolculuk-baslat { gap: .8rem; }
   .secimi-kaldir { font-size: .5rem; }
   .bolge-baslik p { display: none; }
 }

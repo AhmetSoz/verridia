@@ -40,7 +40,7 @@
   var levhaHalk = secici("#levha-halk");
   var levhaAd = secici("#levha-ad");
   var levhaMetin = secici("#levha-metin");
-  var yolculukBaslat = secici("#yolculuk-baslat");
+  var levhaEylem = secici("#levha-eylem");
   var secimiKaldir = secici("#secimi-kaldir");
   var haritaDurum = secici("#harita-durum");
 
@@ -59,12 +59,21 @@
 
   var DURUM = {
     etkin: null,
+    onizleme: null,
     ilerleme: 0,
+    hedefIlerleme: 0,
+    yolaCikti: false,
     videoHazir: false,
     videoSure: 8,
     hedefZaman: 0,
+    medyaId: null,
+    oynatmaBekliyor: false,
+    sonGeriSeek: 0,
     donusIstendi: false,
-    sonPin: null
+    sonPin: null,
+    otomatikSecim: false,
+    imlecX: window.innerWidth / 2,
+    imlecY: window.innerHeight / 2
   };
 
   /* ================= Yükleme ================= */
@@ -130,6 +139,9 @@
   var sonT = 0;
   var sonX = 0;
   var sonY = 0;
+  var sonAktarX = NaN;
+  var sonAktarY = NaN;
+  var sonAktarZ = NaN;
 
   function mobilKaplama() {
     return window.innerWidth / Math.max(1, window.innerHeight) < .82;
@@ -175,9 +187,20 @@
     gercek.x += (hedef.x - gercek.x) * k;
     gercek.y += (hedef.y - gercek.y) * k;
     gercek.z += (hedef.z - gercek.z) * (k * .9);
-    dunya.style.transform = "translate3d(" + gercek.x + "px," + gercek.y + "px,0) scale(" + gercek.z + ")";
-    var ters = 1 / gercek.z;
-    for (var i = 0; i < pinler.length; i++) pinler[i].style.setProperty("--pz", ters);
+    if (!Number.isFinite(sonAktarX) || Math.abs(gercek.x - sonAktarX) > .02 || Math.abs(gercek.y - sonAktarY) > .02 || Math.abs(gercek.z - sonAktarZ) > .0001) {
+      dunya.style.transform = "translate3d(" + gercek.x.toFixed(2) + "px," + gercek.y.toFixed(2) + "px,0) scale(" + gercek.z.toFixed(5) + ")";
+      if (Math.abs(gercek.z - sonAktarZ) > .0001) {
+        var ters = 1 / gercek.z;
+        for (var i = 0; i < pinler.length; i++) pinler[i].style.setProperty("--pz", ters);
+      }
+      sonAktarX = gercek.x;
+      sonAktarY = gercek.y;
+      sonAktarZ = gercek.z;
+    }
+    if (DURUM.etkin) {
+      akisiYumusat();
+      videoyuHedefeGotur();
+    }
   }
 
   if (G) {
@@ -204,7 +227,21 @@
     if (DURUM.etkin) return;
     e.preventDefault();
     ortuyuKapat();
-    yakinlas(hedef.z * Math.exp(-e.deltaY * .00155), e.clientX, e.clientY);
+    DURUM.imlecX = e.clientX;
+    DURUM.imlecY = e.clientY;
+
+    if (e.deltaY <= 0) {
+      yakinlas(hedef.z * Math.exp(e.deltaY * .00115), e.clientX, e.clientY);
+      return;
+    }
+
+    var kayit = DURUM.onizleme || enYakinHedef(e.clientX, e.clientY, true);
+    if (!kayit) return;
+    mekanSec(kayit.m, kayit.sira, kayit.pin, true);
+    var ilkAdim = sinirla(Math.abs(e.deltaY) * 2.15, 72, 260);
+    window.requestAnimationFrame(function () {
+      window.scrollBy({ top: ilkAdim, behavior: "auto" });
+    });
   }, { passive: false });
 
   sahne.addEventListener("pointerdown", function (e) {
@@ -310,14 +347,51 @@
     levhaSira.textContent = "08 BÖLGE";
     levhaHalk.textContent = "VERRIDIA ATLASI";
     levhaAd.textContent = "Bir bölge seç";
-    levhaMetin.textContent = "Haritadaki işaretlerden birine dokun. Seçtiğin yol, seni bulutların arasından o toprağa indirecek.";
+    levhaMetin.textContent = dokunmatik
+      ? "Gitmek istediğin bölgeye dokun; ardından aşağı kaydır. Yukarı kaydırdığında aynı yoldan haritaya dönersin."
+      : "İmleci gitmek istediğin bölgeye yaklaştır. Aşağı kaydırdığında harita seni bulutların arasından o toprağa götürecek.";
+    levhaEylem.textContent = dokunmatik ? "Bölgeye dokun · aşağı kaydır" : "İmleci yaklaştır · aşağı kaydır";
   }
 
   function levhayiDoldur(m, sira, gecici) {
     levhaSira.textContent = "BÖLGE " + iki(sira);
     levhaHalk.textContent = m.halk;
     levhaAd.textContent = m.ad;
-    levhaMetin.textContent = gecici ? m.kisa : m.kisa + " Kaydırdıkça yol ilerler; yukarı kaydırdığında haritaya dönersin.";
+    levhaMetin.textContent = gecici ? m.kisa : m.kisa + " Aşağı kaydırdıkça yol ilerler; yukarı kaydırdığında haritaya dönersin.";
+    levhaEylem.textContent = gecici
+      ? (dokunmatik ? "Dokun · ardından aşağı kaydır" : "Aşağı kaydır · yolculuk kendiliğinden başlar")
+      : "Aşağı kaydırarak ilerle · yukarı kaydırarak dön";
+  }
+
+  function enYakinHedef(x, y, sinirsiz) {
+    var enIyi = null;
+    var enKisa = Infinity;
+    for (var i = 0; i < pinler.length; i++) {
+      var rect = pinler[i].getBoundingClientRect();
+      var dx = x - (rect.left + rect.width / 2);
+      var dy = y - (rect.top + rect.height / 2);
+      var uzaklik = Math.sqrt(dx * dx + dy * dy);
+      if (uzaklik < enKisa) {
+        enKisa = uzaklik;
+        enIyi = pinler[i]._kayit;
+      }
+    }
+    var esik = sinirla(Math.min(window.innerWidth, window.innerHeight) * .3, 125, 265);
+    return sinirsiz || enKisa <= esik ? enIyi : null;
+  }
+
+  function onizlemeyiAyarla(kayit) {
+    if (DURUM.etkin || DURUM.onizleme === kayit) return;
+    DURUM.onizleme = kayit || null;
+    pinler.forEach(function (p) { p.classList.toggle("hazir", !!kayit && p === kayit.pin); });
+    if (!kayit) {
+      levhayiVarsayilanaDondur();
+      haritaDurum.textContent = dokunmatik ? "Bölgeye dokun · Aşağı kaydır" : "İmleci yaklaştır · Aşağı kaydır";
+      return;
+    }
+    levhayiDoldur(kayit.m, kayit.sira, true);
+    haritaDurum.textContent = kayit.m.ad + " · Aşağı kaydırarak yaklaş";
+    medyayiOnYukle(kayit.m);
   }
 
   MEKANLAR.forEach(function (m, index) {
@@ -330,42 +404,90 @@
     pin.setAttribute("aria-label", m.ad + " bölgesini seç");
     pin.setAttribute("aria-pressed", "false");
     pin.dataset.mekan = m.id;
+    pin._kayit = { m: m, sira: index + 1, pin: pin };
     etiket.className = "pin-numara";
     etiket.textContent = iki(index + 1) + " · " + m.ad;
     pin.appendChild(etiket);
 
     pin.addEventListener("mouseenter", function () {
-      if (!DURUM.etkin) levhayiDoldur(m, index + 1, true);
-    });
-    pin.addEventListener("mouseleave", function () {
-      if (!DURUM.etkin) levhayiVarsayilanaDondur();
+      if (!DURUM.etkin) onizlemeyiAyarla(pin._kayit);
     });
     pin.addEventListener("focus", function () {
-      if (!DURUM.etkin) levhayiDoldur(m, index + 1, true);
+      if (!DURUM.etkin) onizlemeyiAyarla(pin._kayit);
     });
     pin.addEventListener("blur", function () {
-      if (!DURUM.etkin) levhayiVarsayilanaDondur();
+      if (!DURUM.etkin && dokunmatik) onizlemeyiAyarla(null);
     });
     pin.addEventListener("click", function () {
-      mekanSec(m, index + 1, pin);
+      mekanSec(m, index + 1, pin, false);
     });
     pinKatmani.appendChild(pin);
     pinler.push(pin);
   });
 
+  var onizlemeKaresi = 0;
+  sahne.addEventListener("pointermove", function (e) {
+    DURUM.imlecX = e.clientX;
+    DURUM.imlecY = e.clientY;
+    if (dokunmatik || DURUM.etkin || tutma || onizlemeKaresi) return;
+    onizlemeKaresi = window.requestAnimationFrame(function () {
+      onizlemeKaresi = 0;
+      onizlemeyiAyarla(enYakinHedef(DURUM.imlecX, DURUM.imlecY, false));
+    });
+  }, { passive: true });
+  sahne.addEventListener("pointerleave", function () {
+    if (!dokunmatik && !DURUM.etkin && !tutma) onizlemeyiAyarla(null);
+  });
+
   /* ================= Scroll ile video sarma ================= */
   function videoZamanla(zaman) {
     DURUM.hedefZaman = sinirla(zaman, 0, Math.max(.01, DURUM.videoSure - .02));
-    if (!DURUM.videoHazir) return;
-    if (Math.abs(video.currentTime - DURUM.hedefZaman) > .018) {
-      try { video.currentTime = DURUM.hedefZaman; } catch (hata) { /* medya henüz sarılamıyor */ }
+  }
+
+  function videoyuOynat() {
+    if (DURUM.oynatmaBekliyor || !video.paused) return;
+    DURUM.oynatmaBekliyor = true;
+    var istek = video.play();
+    if (istek && istek.then) {
+      istek.catch(function () {
+        if (!video.seeking) {
+          try { video.currentTime = DURUM.hedefZaman; } catch (hata) { /* sessiz */ }
+        }
+      }).finally(function () { DURUM.oynatmaBekliyor = false; });
+    } else DURUM.oynatmaBekliyor = false;
+  }
+
+  function videoyuHedefeGotur() {
+    if (!DURUM.etkin || !DURUM.videoHazir || azaltHareket) return;
+    var simdi = Number.isFinite(video.currentTime) ? video.currentTime : 0;
+    var fark = DURUM.hedefZaman - simdi;
+
+    if (fark > .07) {
+      if (fark > .72 && !video.seeking) {
+        try { video.currentTime = Math.max(simdi, DURUM.hedefZaman - .28); } catch (hata) { /* sessiz */ }
+      }
+      video.playbackRate = sinirla(.75 + Math.max(0, fark) * 1.25, .75, 3.25);
+      videoyuOynat();
+      return;
     }
+
+    if (fark < -.045) {
+      if (!video.paused) video.pause();
+      var zaman = performance.now();
+      if (!video.seeking && zaman - DURUM.sonGeriSeek > 62) {
+        DURUM.sonGeriSeek = zaman;
+        try { video.currentTime = DURUM.hedefZaman; } catch (hata) { /* sessiz */ }
+      }
+      return;
+    }
+
+    if (!video.paused) video.pause();
   }
 
   function haritaKamerasiniIlerlet(p) {
     if (!DURUM.etkin) return;
-    var q = yumusak(0, .15, p);
-    var z = 1 + q * .34;
+    var q = yumusak(0, .27, p);
+    var z = karistir(1, dokunmatik ? 1.72 : 2.08, q);
     hedef.z = z;
     hedef.x = window.innerWidth / 2 - W * (DURUM.etkin.x / 100) * z;
     hedef.y = window.innerHeight / 2 - H * (DURUM.etkin.y / 100) * z;
@@ -378,7 +500,7 @@
     DURUM.ilerleme = p;
     document.documentElement.style.setProperty("--ilerleme", p.toFixed(4));
 
-    var erken = p > .035;
+    var erken = p > .17;
     govde.classList.toggle("gecis-ilerledi", erken);
     govde.classList.toggle("gecis-sonunda", p > .94);
     govde.classList.toggle("sahne-bitti", p > .998);
@@ -390,15 +512,15 @@
     var baslikP;
 
     if (azaltHareket) {
-      haritaOpak = 1 - yumusak(.02, .38, p);
+      haritaOpak = 1 - yumusak(.16, .42, p);
       videoOpak = 0;
-      posterOpak = yumusak(.06, .52, p);
-      baslikP = yumusak(.3, .64, p);
+      posterOpak = yumusak(.18, .54, p);
+      baslikP = yumusak(.36, .68, p);
     } else {
-      haritaOpak = 1 - yumusak(.045, .155, p);
-      videoOpak = yumusak(.055, .145, p) * (1 - yumusak(.83, .965, p));
-      posterOpak = yumusak(.82, .965, p);
-      baslikP = yumusak(.61, .82, p);
+      haritaOpak = 1 - yumusak(.18, .31, p);
+      videoOpak = yumusak(.2, .32, p) * (1 - yumusak(.84, .965, p));
+      posterOpak = yumusak(.83, .965, p);
+      baslikP = yumusak(.66, .84, p);
     }
 
     sahne.style.opacity = haritaOpak.toFixed(3);
@@ -410,30 +532,44 @@
     bolgeBaslik.style.transform = "translateY(" + ((1 - baslikP) * 35).toFixed(2) + "px)";
 
     if (!azaltHareket) {
-      var videoP = yumusak(.045, .9, p);
+      var videoP = yumusak(.18, .9, p);
       videoZamanla(videoP * DURUM.videoSure);
     }
 
-    if (!DURUM.videoHazir && !azaltHareket && p > .045 && p < .84) videoYukleniyor.classList.add("goster");
+    if (!DURUM.videoHazir && !azaltHareket && p > .19 && p < .84) videoYukleniyor.classList.add("goster");
     else videoYukleniyor.classList.remove("goster");
 
     var yuzde = Math.round(p * 100);
     ilerlemeSayi.textContent = iki(yuzde);
-    if (p < .1) ilerlemeAdim.textContent = "HARİTA";
-    else if (p < .56) ilerlemeAdim.textContent = "BULUT GEÇİDİ";
-    else if (p < .9) ilerlemeAdim.textContent = "YAKLAŞMA";
+    if (p < .2) ilerlemeAdim.textContent = "YAKLAŞMA";
+    else if (p < .68) ilerlemeAdim.textContent = "BULUT GEÇİDİ";
+    else if (p < .9) ilerlemeAdim.textContent = "İNİŞ";
     else ilerlemeAdim.textContent = "VARIŞ";
 
-    if (DURUM.donusIstendi && p <= .003) {
+    if (DURUM.yolaCikti && DURUM.hedefIlerleme <= .001 && p <= .003) {
       DURUM.donusIstendi = false;
+      DURUM.yolaCikti = false;
       window.setTimeout(secimiBitir, 40);
     }
+  }
+
+  function akisiYumusat() {
+    if (!DURUM.etkin) return;
+    var fark = DURUM.hedefIlerleme - DURUM.ilerleme;
+    if (Math.abs(fark) < .00045) {
+      if (DURUM.ilerleme !== DURUM.hedefIlerleme) ilerlemeyiUygula(DURUM.hedefIlerleme);
+      return;
+    }
+    var oran = azaltHareket ? 1 : (fark > 0 ? .145 : .19);
+    ilerlemeyiUygula(DURUM.ilerleme + fark * oran);
   }
 
   function scrollIlerlemesiniOku() {
     if (!DURUM.etkin) return;
     var mesafe = Math.max(1, yolculuk.offsetHeight - window.innerHeight);
-    ilerlemeyiUygula(window.scrollY / mesafe);
+    DURUM.hedefIlerleme = sinirla(window.scrollY / mesafe, 0, 1);
+    if (DURUM.hedefIlerleme > .012) DURUM.yolaCikti = true;
+    if (azaltHareket) ilerlemeyiUygula(DURUM.hedefIlerleme);
   }
 
   var scrollKaresi = 0;
@@ -457,24 +593,41 @@
     detayMetin.textContent = m.metin;
   }
 
+  var onYuklemeZamani = 0;
+  function medyayiOnYukle(m) {
+    if (azaltHareket || DURUM.etkin || DURUM.medyaId === m.id) return;
+    window.clearTimeout(onYuklemeZamani);
+    onYuklemeZamani = window.setTimeout(function () {
+      if (DURUM.etkin || !DURUM.onizleme || DURUM.onizleme.m.id !== m.id) return;
+      DURUM.videoHazir = false;
+      DURUM.medyaId = m.id;
+      video.src = "assets/video/" + m.id + ".mp4";
+      video.preload = "auto";
+      video.load();
+    }, 180);
+  }
+
   function medyayiHazirla(m) {
-    DURUM.videoHazir = false;
     DURUM.videoSure = 8;
+    DURUM.hedefZaman = 0;
+    DURUM.oynatmaBekliyor = false;
     poster.src = "assets/img/" + m.id + ".jpg";
     poster.alt = m.ad + " bölgesinin görünümü";
     detayGorsel.src = "assets/img/" + m.id + ".jpg";
     detayGorsel.alt = m.ad + " bölgesi";
     if (azaltHareket) return;
-    videoYukleniyor.classList.add("goster");
-    video.src = "assets/video/" + m.id + ".mp4";
-    video.preload = "auto";
-    video.load();
-    var kilitAc = video.play();
-    if (kilitAc && kilitAc.then) {
-      kilitAc.then(function () {
-        video.pause();
-        try { video.currentTime = DURUM.hedefZaman; } catch (hata) { /* ilk metadata bekleniyor */ }
-      }).catch(function () { /* scroll seek yine çalışabilir */ });
+    if (DURUM.medyaId !== m.id) {
+      DURUM.videoHazir = false;
+      DURUM.medyaId = m.id;
+      video.src = "assets/video/" + m.id + ".mp4";
+      video.preload = "auto";
+      video.load();
+    } else {
+      DURUM.videoHazir = video.readyState >= 1;
+      if (DURUM.videoHazir) {
+        DURUM.videoSure = Number.isFinite(video.duration) ? video.duration : 8;
+        try { video.currentTime = 0; } catch (hata) { /* metadata bekleniyor */ }
+      }
     }
   }
 
@@ -483,7 +636,7 @@
     DURUM.videoHazir = true;
     video.pause();
     videoYukleniyor.classList.remove("goster");
-    videoZamanla(DURUM.ilerleme * DURUM.videoSure);
+    videoZamanla(yumusak(.18, .9, DURUM.ilerleme) * DURUM.videoSure);
   });
   video.addEventListener("canplay", function () {
     DURUM.videoHazir = true;
@@ -494,22 +647,24 @@
     videoYukleniyor.classList.remove("goster");
   });
 
-  function mekanSec(m, sira, pin) {
+  function mekanSec(m, sira, pin, otomatik) {
     ortuyuKapat();
     panelleriKapat();
     if (window.scrollY > 2) window.scrollTo(0, 0);
 
-    if (DURUM.etkin && DURUM.etkin.id === m.id) {
-      yolculuguBaslat();
-      return;
-    }
+    if (DURUM.etkin && DURUM.etkin.id === m.id) return;
 
     DURUM.etkin = m;
+    DURUM.onizleme = pin ? pin._kayit : null;
     DURUM.ilerleme = 0;
+    DURUM.hedefIlerleme = 0;
+    DURUM.yolaCikti = false;
     DURUM.sonPin = pin;
+    DURUM.otomatikSecim = !!otomatik;
     DURUM.donusIstendi = false;
     pinler.forEach(function (p) {
       var secili = p === pin;
+      p.classList.remove("hazir");
       p.classList.toggle("secili", secili);
       p.setAttribute("aria-pressed", secili ? "true" : "false");
     });
@@ -517,8 +672,6 @@
     metinleriDoldur(m, sira);
     medyayiHazirla(m);
     haritayiOrtala(false);
-    yolculukBaslat.disabled = false;
-    yolculukBaslat.hidden = false;
     secimiKaldir.hidden = false;
     haritaDurum.textContent = "Kaydırarak yaklaş · Yukarı kaydırarak dön";
     govde.classList.add("yolculuk-secili", "yolculuk-aktif");
@@ -533,41 +686,38 @@
     try { history.replaceState(null, "", "#" + m.id); } catch (hata) { /* file protokolünde sessiz kal */ }
   }
 
-  function yolculuguBaslat() {
-    if (!DURUM.etkin) return;
-    var hedefScroll = Math.min(yolculuk.offsetHeight - window.innerHeight, window.innerHeight * (azaltHareket ? .55 : .68));
-    window.scrollTo({ top: hedefScroll, behavior: azaltHareket ? "auto" : "smooth" });
-  }
-
   function secimiBitir() {
     if (!DURUM.etkin) return;
+    var otomatikti = DURUM.otomatikSecim;
     if (window.scrollY > 2) window.scrollTo(0, 0);
     govde.classList.remove("yolculuk-secili", "yolculuk-aktif", "gecis-ilerledi", "gecis-sonunda", "sahne-bitti");
     detayBolumu.setAttribute("aria-hidden", "true");
     pinler.forEach(function (p) {
+      p.classList.remove("hazir");
       p.classList.remove("secili");
       p.setAttribute("aria-pressed", "false");
     });
     video.pause();
-    video.removeAttribute("src");
-    video.load();
+    try { video.currentTime = 0; } catch (hata) { /* sessiz */ }
     video.style.opacity = "0";
     poster.style.opacity = "0";
     sahne.style.opacity = "1";
     bolgeBaslik.style.opacity = "0";
     videoYukleniyor.classList.remove("goster");
     DURUM.etkin = null;
+    DURUM.onizleme = null;
     DURUM.ilerleme = 0;
-    DURUM.videoHazir = false;
+    DURUM.hedefIlerleme = 0;
+    DURUM.yolaCikti = false;
+    DURUM.oynatmaBekliyor = false;
+    DURUM.otomatikSecim = false;
     document.documentElement.style.setProperty("--ilerleme", "0");
     levhayiVarsayilanaDondur();
-    yolculukBaslat.disabled = true;
-    yolculukBaslat.hidden = true;
     secimiKaldir.hidden = true;
-    haritaDurum.textContent = "Sürükle · Yakınlaş · Bölge seç";
+    haritaDurum.textContent = dokunmatik ? "Bölgeye dokun · Aşağı kaydır" : "İmleci yaklaştır · Aşağı kaydır · Yolculuğa başla";
     haritayiOrtala(false);
     try { history.replaceState(null, "", location.pathname + location.search); } catch (hata) { /* sessiz */ }
-    if (DURUM.sonPin) {
+    if (DURUM.sonPin && !otomatikti) {
       DURUM.sonPin.focus({ preventScroll: true });
       levhayiVarsayilanaDondur();
     }
@@ -584,7 +734,6 @@
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
-  yolculukBaslat.addEventListener("click", yolculuguBaslat);
   secimiKaldir.addEventListener("click", secimiBitir);
   secici("#gecisi-atla").addEventListener("click", function () {
     if (!DURUM.etkin) return;

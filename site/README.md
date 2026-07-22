@@ -5,9 +5,11 @@
 (İnternet varsa Cormorant Garamond fontu yüklenir; yoksa Georgia ile açılır, site yine çalışır.)
 
 ## Sayfalar
-- **index.html** — tam ekran etkileşimli atlas. Haritadaki 8 bölgeden biri seçildikten sonra
-  sayfa aşağı kaydırıldıkça haritadan bölgeye yaklaşan geçiş videosu ilerler; yukarı kaydırıldığında
-  aynı yol tersine oynar ve haritaya döner. Her yolculuk, tam ekran bölge arşivi ve kitap CTA'sıyla biter.
+- **index.html** — tam ekran etkileşimli atlas. Masaüstünde imleç bir bölgeye yaklaştırılıp
+  aşağı kaydırıldığında, ayrıca bir düğmeye veya işaretçiye tıklamadan yolculuk başlar. Harita hedefe
+  yaklaşır, bulut geçişi scroll hızına uyumlu biçimde ilerler; yukarı kaydırıldığında aynı yol tersine
+  oynar ve haritaya döner. Dokunmatik ekranlarda bölgeye dokunmak hedef seçiminin erişilebilir karşılığıdır.
+  Her yolculuk, tam ekran bölge arşivi ve kitap CTA'sıyla biter.
   Dünya ile Dört Yol bilgileri haritayı terk etmeden açılan yan panellerdedir.
 - **kitap.html** — kitap okuyucu: 3 kitap / 17 kısım / 358 bölüm.
   - Sol ağaç menü (kitap → kısım → bölüm), ☰ ile açılıp kapanır
