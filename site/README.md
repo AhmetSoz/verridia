@@ -6,11 +6,15 @@
 
 ## Sayfalar
 - **index.html** — tam ekran etkileşimli atlas. Masaüstünde imleç bir bölgeye yaklaştırılıp
-  aşağı kaydırıldığında, ayrıca bir düğmeye veya işaretçiye tıklamadan yolculuk başlar. Harita hedefe
-  yaklaşır, bulut geçişi scroll hızına uyumlu biçimde ilerler; yukarı kaydırıldığında aynı yol tersine
-  oynar ve haritaya döner. Dokunmatik ekranlarda bölgeye dokunmak hedef seçiminin erişilebilir karşılığıdır.
+  tekerlek ileri itildiğinde, ayrıca bir düğmeye veya işaretçiye tıklamadan yolculuk başlar. Harita hedefe
+  yaklaşır, bulut geçişi scroll hızına uyumlu biçimde ilerler; tekerlek geri çekildiğinde aynı yol tersine
+  oynar ve haritaya döner. Dokunmatik ekranlarda bölgeye dokunup yukarı kaydırmak ilerletir; aşağı
+  kaydırmak geri döndürür.
   Her yolculuk, tam ekran bölge arşivi ve kitap CTA'sıyla biter.
   Dünya ile Dört Yol bilgileri haritayı terk etmeden açılan yan panellerdedir.
+  Masaüstünde atlas, Verridia'nın mühürleri ve keşif araçlarıyla hazırlanmış fiziksel bir savaş masasının
+  üzerinde durur; başlangıç bilgilendirmesi haritayı kaplayan bir arayüz kutusu yerine masaya iliştirilmiş
+  küçük bir emir kâğıdı olarak gösterilir. Mobilde okunabilir alanı korumak için harita tam ekran kalır.
 - **kitap.html** — kitap okuyucu: 3 kitap / 17 kısım / 358 bölüm.
   - Sol ağaç menü (kitap → kısım → bölüm), ☰ ile açılıp kapanır
   - A− / A+ yazı boyutu, ☀/☾ gece–sepya tema
@@ -39,7 +43,7 @@ site/
     js/ana.js           ← atlas kamerası, bölge seçimi, scroll-video ve yan paneller
     js/okuyucu.js       ← okuyucu mantığı
     js/kitap-data.js    ← OTOMATİK ÜRETİLİR — elle düzenleme
-    img/                ← harita + mekân görselleri (temiz ASCII adlar)
+    img/                ← harita + mekân görselleri + masa-verridia-v1.webp savaş masası
     video/              ← mekân geçiş videoları (mp4 — GIF'e çevrilmedi, gerek yok)
 ```
 

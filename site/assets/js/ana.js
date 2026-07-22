@@ -151,8 +151,14 @@
     var vw = window.innerWidth;
     var vh = window.innerHeight;
     var kapla = mobilKaplama();
-    W = kapla ? Math.max(vw, vh * ORAN) : Math.min(vw, vh * ORAN);
+    var masaPayi = kapla ? 0 : sinirla(vh * .035, 18, 34);
+    var masaYani = kapla ? 0 : sinirla(vw * .145, 118, 260);
+    W = kapla
+      ? Math.max(vw, vh * ORAN)
+      : Math.min(vw - masaYani * 2, (vh - masaPayi * 2) * ORAN);
     H = W / ORAN;
+    document.documentElement.style.setProperty("--harita-sol", Math.max(0, (vw - W) / 2).toFixed(1) + "px");
+    document.documentElement.style.setProperty("--harita-alt", Math.max(0, (vh - H) / 2).toFixed(1) + "px");
     dunya.style.width = W + "px";
     dunya.style.height = H + "px";
     if (ilk || !DURUM.etkin) haritayiOrtala(ilk);
@@ -230,8 +236,8 @@
     DURUM.imlecX = e.clientX;
     DURUM.imlecY = e.clientY;
 
-    if (e.deltaY <= 0) {
-      yakinlas(hedef.z * Math.exp(e.deltaY * .00115), e.clientX, e.clientY);
+    if (e.deltaY >= 0) {
+      yakinlas(hedef.z * Math.exp(-e.deltaY * .00115), e.clientX, e.clientY);
       return;
     }
 
@@ -243,6 +249,15 @@
       window.scrollBy({ top: ilkAdim, behavior: "auto" });
     });
   }, { passive: false });
+
+  /* Fiziksel tekerlek: ileri itmek yaklaşır, geri çekmek uzaklaştırır. */
+  window.addEventListener("wheel", function (e) {
+    if (!DURUM.etkin) return;
+    e.preventDefault();
+    var adim = sinirla(-e.deltaY * 1.45, -440, 440);
+    if (Math.abs(adim) < .5) return;
+    window.scrollBy({ top: adim, behavior: "auto" });
+  }, { passive: false, capture: true });
 
   sahne.addEventListener("pointerdown", function (e) {
     if (DURUM.etkin || e.target.closest(".pin")) return;
@@ -348,19 +363,23 @@
     levhaHalk.textContent = "VERRIDIA ATLASI";
     levhaAd.textContent = "Bir bölge seç";
     levhaMetin.textContent = dokunmatik
-      ? "Gitmek istediğin bölgeye dokun; ardından aşağı kaydır. Yukarı kaydırdığında aynı yoldan haritaya dönersin."
-      : "İmleci gitmek istediğin bölgeye yaklaştır. Aşağı kaydırdığında harita seni bulutların arasından o toprağa götürecek.";
-    levhaEylem.textContent = dokunmatik ? "Bölgeye dokun · aşağı kaydır" : "İmleci yaklaştır · aşağı kaydır";
+      ? "Gitmek istediğin bölgeye dokun; ardından yukarı kaydır. Aşağı kaydırdığında aynı yoldan haritaya dönersin."
+      : "İmleci gitmek istediğin bölgeye yaklaştır. Tekerleği ileri ittiğinde harita seni bulutların arasından o toprağa götürecek.";
+    levhaEylem.textContent = dokunmatik ? "Bölgeye dokun · yukarı kaydır" : "İmleci yaklaştır · tekerleği ileri it";
   }
 
   function levhayiDoldur(m, sira, gecici) {
     levhaSira.textContent = "BÖLGE " + iki(sira);
     levhaHalk.textContent = m.halk;
     levhaAd.textContent = m.ad;
-    levhaMetin.textContent = gecici ? m.kisa : m.kisa + " Aşağı kaydırdıkça yol ilerler; yukarı kaydırdığında haritaya dönersin.";
+    levhaMetin.textContent = gecici
+      ? m.kisa
+      : m.kisa + (dokunmatik
+        ? " Yukarı kaydırdıkça yol ilerler; aşağı kaydırdığında haritaya dönersin."
+        : " Tekerleği ileri ittikçe yol ilerler; geri çektiğinde haritaya dönersin.");
     levhaEylem.textContent = gecici
-      ? (dokunmatik ? "Dokun · ardından aşağı kaydır" : "Aşağı kaydır · yolculuk kendiliğinden başlar")
-      : "Aşağı kaydırarak ilerle · yukarı kaydırarak dön";
+      ? (dokunmatik ? "Dokun · ardından yukarı kaydır" : "Tekerleği ileri it · yolculuk kendiliğinden başlar")
+      : (dokunmatik ? "Yukarı kaydırarak ilerle · aşağı kaydırarak dön" : "İleri iterek ilerle · geri çekerek dön");
   }
 
   function enYakinHedef(x, y, sinirsiz) {
@@ -386,11 +405,11 @@
     pinler.forEach(function (p) { p.classList.toggle("hazir", !!kayit && p === kayit.pin); });
     if (!kayit) {
       levhayiVarsayilanaDondur();
-      haritaDurum.textContent = dokunmatik ? "Bölgeye dokun · Aşağı kaydır" : "İmleci yaklaştır · Aşağı kaydır";
+      haritaDurum.textContent = dokunmatik ? "Bölgeye dokun · Yukarı kaydır" : "İmleci yaklaştır · Tekerleği ileri it";
       return;
     }
     levhayiDoldur(kayit.m, kayit.sira, true);
-    haritaDurum.textContent = kayit.m.ad + " · Aşağı kaydırarak yaklaş";
+    haritaDurum.textContent = kayit.m.ad + (dokunmatik ? " · Yukarı kaydırarak yaklaş" : " · Tekerleği ileri iterek yaklaş");
     medyayiOnYukle(kayit.m);
   }
 
@@ -673,7 +692,7 @@
     medyayiHazirla(m);
     haritayiOrtala(false);
     secimiKaldir.hidden = false;
-    haritaDurum.textContent = "Kaydırarak yaklaş · Yukarı kaydırarak dön";
+    haritaDurum.textContent = dokunmatik ? "Yukarı kaydırarak yaklaş · Aşağı kaydırarak dön" : "İleri iterek yaklaş · Geri çekerek dön";
     govde.classList.add("yolculuk-secili", "yolculuk-aktif");
     detayBolumu.setAttribute("aria-hidden", "false");
     sabitSahne.scrollTop = 0;
@@ -714,7 +733,7 @@
     document.documentElement.style.setProperty("--ilerleme", "0");
     levhayiVarsayilanaDondur();
     secimiKaldir.hidden = true;
-    haritaDurum.textContent = dokunmatik ? "Bölgeye dokun · Aşağı kaydır" : "İmleci yaklaştır · Aşağı kaydır · Yolculuğa başla";
+    haritaDurum.textContent = dokunmatik ? "Bölgeye dokun · Yukarı kaydır" : "İmleci yaklaştır · Tekerleği ileri it";
     haritayiOrtala(false);
     try { history.replaceState(null, "", location.pathname + location.search); } catch (hata) { /* sessiz */ }
     if (DURUM.sonPin && !otomatikti) {
