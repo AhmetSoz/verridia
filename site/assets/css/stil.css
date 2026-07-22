@@ -261,17 +261,22 @@ body.yolculuk-aktif .yolculuk { height: 500svh; }
   overflow: hidden;
   overflow: clip;
   isolation: isolate;
-  background:
-    radial-gradient(ellipse at center, transparent 52%, rgba(5, 3, 2, .26) 100%),
-    #120d09 url("../img/masa-verridia-v1.webp") calc(50% + var(--masa-x)) calc(50% + var(--masa-y)) / cover no-repeat;
+  background: #120d09;
 }
 .sabit-sahne::before {
   content: "";
   position: absolute;
   z-index: 0;
-  inset: 0;
+  inset: -12px;
   pointer-events: none;
-  background: linear-gradient(180deg, rgba(4,3,2,.08), transparent 18%, transparent 82%, rgba(4,3,2,.16));
+  background:
+    linear-gradient(180deg, rgba(4,3,2,.08), transparent 18%, transparent 82%, rgba(4,3,2,.16)),
+    radial-gradient(ellipse at center, transparent 52%, rgba(5, 3, 2, .26) 100%),
+    #120d09 url("../img/masa-verridia-v1.webp") center / cover no-repeat;
+  transform: translate3d(var(--masa-x), var(--masa-y), 0) scale(1.015);
+  transform-origin: center;
+  will-change: transform;
+  backface-visibility: hidden;
 }
 body.yolculuk-aktif .sabit-sahne { position: fixed; inset: 0; }
 body.sahne-bitti .sabit-sahne { position: absolute; top: auto; bottom: 0; }
@@ -324,15 +329,16 @@ body.gecis-ilerledi .harita-sahnesi { pointer-events: none; }
 
 /* Bölge işaretleri: görünmez erişim alanı + elle çizilen mürekkep halkası */
 .pin {
-  --pz: 1;
   position: absolute;
   z-index: 3;
-  width: 68px;
-  height: 52px;
+  width: 7%;
+  height: 6%;
+  min-width: 48px;
+  min-height: 34px;
   padding: 0;
   background: transparent;
   cursor: pointer;
-  transform: translate(-50%, -50%) scale(var(--pz));
+  transform: translate(-50%, -50%);
   transform-origin: center;
 }
 .pin::before,
@@ -346,8 +352,8 @@ body.gecis-ilerledi .harita-sahnesi { pointer-events: none; }
   opacity: 0;
 }
 .pin::before {
-  width: 46px;
-  height: 28px;
+  width: calc(100% - 6px);
+  height: calc(100% - 5px);
   border: 1.7px solid rgba(34, 23, 13, .86);
   border-radius: 53% 47% 55% 45% / 46% 55% 45% 54%;
   clip-path: inset(-6px 105% -6px -6px);
@@ -355,8 +361,8 @@ body.gecis-ilerledi .harita-sahnesi { pointer-events: none; }
   filter: blur(.06px);
 }
 .pin::after {
-  width: 50px;
-  height: 32px;
+  width: 100%;
+  height: 100%;
   border: 1px solid rgba(42, 28, 15, .58);
   border-right-color: transparent;
   border-bottom-color: rgba(42, 28, 15, .28);

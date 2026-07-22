@@ -1,0 +1,166 @@
+[gd_scene load_steps=17 format=3]
+
+[ext_resource type="Script" path="res://scripts/levels/kartal_yurdu.gd" id="1"]
+[ext_resource type="PackedScene" path="res://scenes/characters/togan.tscn" id="2"]
+[ext_resource type="Texture2D" path="res://asset/arkaplanlar/bozkir_arka.png" id="3"]
+[ext_resource type="PackedScene" path="res://scenes/ui/hud.tscn" id="4"]
+[ext_resource type="Shader" path="res://shaders/vinyet.gdshader" id="5"]
+[ext_resource type="PackedScene" path="res://scenes/props/talim_kuklasi.tscn" id="6"]
+[ext_resource type="Texture2D" path="res://asset/cevre/zemin_genis.png" id="10"]
+[ext_resource type="Texture2D" path="res://asset/cevre/zemin_buyuk.png" id="11"]
+[ext_resource type="Texture2D" path="res://asset/cevre/zemin_orta.png" id="12"]
+[ext_resource type="Texture2D" path="res://asset/cevre/zemin_kaya.png" id="13"]
+[ext_resource type="Texture2D" path="res://asset/cevre/cadir.png" id="20"]
+[ext_resource type="Texture2D" path="res://asset/cevre/kazik.png" id="21"]
+[ext_resource type="Texture2D" path="res://asset/cevre/ates.png" id="22"]
+[ext_resource type="Texture2D" path="res://asset/cevre/calilar.png" id="23"]
+
+[sub_resource type="ShaderMaterial" id="vin"]
+shader = ExtResource("5")
+shader_parameter/guc = 0.42
+shader_parameter/ic = 0.35
+shader_parameter/dis = 0.95
+
+[sub_resource type="RectangleShape2D" id="zemin_col"]
+size = Vector2(1720, 40)
+
+[sub_resource type="RectangleShape2D" id="plat"]
+size = Vector2(90, 16)
+
+[node name="KartalYurdu" type="Node2D"]
+script = ExtResource("1")
+
+[node name="DipZemin" type="CanvasLayer" parent="."]
+layer = -20
+
+[node name="Renk" type="ColorRect" parent="DipZemin"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color(0.04, 0.04, 0.09, 1)
+
+[node name="ArkaPlan" type="ParallaxBackground" parent="."]
+layer = -10
+
+[node name="Uzak" type="ParallaxLayer" parent="ArkaPlan"]
+motion_scale = Vector2(0.2, 0.1)
+motion_mirroring = Vector2(768, 0)
+
+[node name="Gorsel" type="Sprite2D" parent="ArkaPlan/Uzak"]
+texture_filter = 3
+centered = false
+position = Vector2(0, -72)
+texture = ExtResource("3")
+
+[node name="Zemin" type="StaticBody2D" parent="."]
+
+[node name="ZeminGorsel" type="Sprite2D" parent="Zemin"]
+texture_repeat = 2
+texture = ExtResource("10")
+centered = false
+region_enabled = true
+region_rect = Rect2(0, 0, 1720, 51)
+position = Vector2(-100, 330)
+
+[node name="ZeminC" type="CollisionShape2D" parent="Zemin"]
+position = Vector2(760, 350)
+shape = SubResource("zemin_col")
+
+[node name="Cadir" type="Sprite2D" parent="."]
+centered = false
+position = Vector2(50, 260)
+texture = ExtResource("20")
+
+[node name="Kazik" type="Sprite2D" parent="."]
+centered = false
+position = Vector2(330, 256)
+texture = ExtResource("21")
+
+[node name="Ates" type="Sprite2D" parent="."]
+centered = false
+position = Vector2(408, 312)
+texture = ExtResource("22")
+
+[node name="Calilar1" type="Sprite2D" parent="."]
+centered = false
+position = Vector2(500, 293)
+texture = ExtResource("23")
+
+[node name="Calilar2" type="Sprite2D" parent="."]
+centered = false
+position = Vector2(1000, 293)
+texture = ExtResource("23")
+
+[node name="Kukla" parent="." instance=ExtResource("6")]
+position = Vector2(250, 330)
+
+[node name="Platform1" type="StaticBody2D" parent="."]
+
+[node name="G1" type="Sprite2D" parent="Platform1"]
+centered = false
+position = Vector2(720, 250)
+texture = ExtResource("11")
+
+[node name="C1" type="CollisionShape2D" parent="Platform1"]
+position = Vector2(770, 258)
+shape = SubResource("plat")
+
+[node name="Platform2" type="StaticBody2D" parent="."]
+
+[node name="G2" type="Sprite2D" parent="Platform2"]
+centered = false
+position = Vector2(900, 205)
+texture = ExtResource("12")
+
+[node name="C2" type="CollisionShape2D" parent="Platform2"]
+position = Vector2(930, 212)
+shape = SubResource("plat")
+
+[node name="Platform3" type="StaticBody2D" parent="."]
+
+[node name="G3" type="Sprite2D" parent="Platform3"]
+centered = false
+position = Vector2(1070, 160)
+texture = ExtResource("13")
+
+[node name="C3" type="CollisionShape2D" parent="Platform3"]
+position = Vector2(1082, 166)
+shape = SubResource("plat")
+
+[node name="Platform4" type="StaticBody2D" parent="."]
+
+[node name="G4" type="Sprite2D" parent="Platform4"]
+centered = false
+position = Vector2(1230, 240)
+texture = ExtResource("11")
+
+[node name="C4" type="CollisionShape2D" parent="Platform4"]
+position = Vector2(1280, 248)
+shape = SubResource("plat")
+
+[node name="Togan" parent="." instance=ExtResource("2")]
+position = Vector2(175, 320)
+
+[node name="Vinyet" type="CanvasLayer" parent="."]
+layer = 5
+
+[node name="Perde" type="ColorRect" parent="Vinyet"]
+material = SubResource("vin")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+color = Color(1, 1, 1, 1)
+
+[node name="HUD" parent="." instance=ExtResource("4")]
+
+[node name="Ipucu" type="CanvasLayer" parent="."]
+
+[node name="Etiket" type="Label" parent="Ipucu"]
+offset_left = 8.0
+offset_top = 338.0
+offset_right = 632.0
+offset_bottom = 356.0
+theme_override_font_sizes/font_size = 8
+theme_override_colors/font_color = Color(0.75, 0.72, 0.6, 0.65)
+text = "Kartal-Yurdu · Talim: kuklaya J/K ile vur · A/D yürü · Space çift zıpla · Shift takla"

@@ -7,6 +7,7 @@
   var dokunmatik = window.matchMedia("(pointer: coarse)").matches;
   var ORAN = 1536 / 1024;
   var Z_MAX = dokunmatik ? 2.25 : 2.7;
+  var ILERI_AZAMI = dokunmatik ? .1 : .115;
 
   function secici(q, kok) { return (kok || document).querySelector(q); }
   function hepsi(q, kok) { return Array.prototype.slice.call((kok || document).querySelectorAll(q)); }
@@ -65,6 +66,7 @@
     onizleme: null,
     ilerleme: 0,
     hedefIlerleme: 0,
+    ilerlemeHizi: 0,
     yolaCikti: false,
     videoHazir: false,
     videoSure: 8,
@@ -198,10 +200,6 @@
     gercek.z += (hedef.z - gercek.z) * (k * .9);
     if (!Number.isFinite(sonAktarX) || Math.abs(gercek.x - sonAktarX) > .02 || Math.abs(gercek.y - sonAktarY) > .02 || Math.abs(gercek.z - sonAktarZ) > .0001) {
       dunya.style.transform = "translate3d(" + gercek.x.toFixed(2) + "px," + gercek.y.toFixed(2) + "px,0) scale(" + gercek.z.toFixed(5) + ")";
-      if (Math.abs(gercek.z - sonAktarZ) > .0001) {
-        var ters = 1 / gercek.z;
-        for (var i = 0; i < pinler.length; i++) pinler[i].style.setProperty("--pz", ters);
-      }
       sonAktarX = gercek.x;
       sonAktarY = gercek.y;
       sonAktarZ = gercek.z;
@@ -321,48 +319,56 @@
   var MEKANLAR = [
     {
       id: "metheris", ad: "Metheris", halk: "Hegemonya", x: 11.3, y: 60.5,
+      murekkep: { w: 9.2, h: 8.2 },
       konum: "Batı Kıyısı", muhur: "✦", renk: "#8f6d36",
       kisa: "Hegemonya'nın taş başkenti — fiyortların üzerinde soğuk ihtişam.",
       metin: "Aethelian Hegemonyası'nın başkenti. Batı kıyısının fiyortları üzerinde taş, tören ve soğuk ihtişam. Sarayın koridorlarında unvanlar fısıltıyla el değiştirir; Kraliçe Karia, kanla korunan bu tahtı liyakatle yeniden kurmaya yemin etti. Kuzey Sefer Yolu buradan başlar — Işık Seddi'ne otuz beş günlük yol."
     },
     {
       id: "derin-yuva", ad: "Derin-Yuva", halk: "Granitler", x: 39.7, y: 66.5,
+      murekkep: { w: 8.4, h: 4.8 },
       konum: "Ak-Siper Dağları", muhur: "▲", renk: "#6f716b",
       kisa: "Granit Klanları'nın dağın kalbine oyduğu başkent.",
       metin: "Ak-Siper Dağları'nın içine, kaya damarlarını izleyerek oyulmuş taş koridorlar şehri. Geceleri vadilerde Dağ'ın Nefesi uğuldar. Granitler, Valerius Geçidi'nin anahtarını ellerinde tutar — kıtanın iki yarısı ancak onların izniyle birbirine bağlanır."
     },
     {
       id: "kartal-yurdu", ad: "Kartal-Yurdu", halk: "Sungurlar", x: 46.2, y: 57,
+      murekkep: { w: 9.2, h: 7.2 },
       konum: "Batı Bozkırı", muhur: "◆", renk: "#81552c",
       kisa: "Sungurların dağ kışlağı — kartalların ve eski yeminlerin yurdu.",
       metin: "Sungur klanının yurdu: kartal tüneklerinin, Rüzgâr-Dinleyenler'in ve kadim yeminlerin toprağı. Togan bu avlularda kılıç salladı, Burkut'u burada eğitti — ve buradan ayrılırken arkasında hem bir mezar hem bir sır bıraktı."
     },
     {
       id: "yildiz-orsu", ad: "Yıldız-Örsü", halk: "Temürçiler", x: 51.1, y: 49.5,
+      murekkep: { w: 9.4, h: 7.8 },
       konum: "Merkez Krateri", muhur: "✶", renk: "#9a5129",
       kisa: "Gökten düşen yıldızın krateri; Temürçi ustalarının ocağı.",
       metin: "Fersahlarca genişlikte dairesel bir krater — gökten düşen yıldızın açtığı yara. Merkezinde Büyük Örs durur: Temürçi ustaları yıldız-demirini burada döver. Tek girişini Örs Muhafızları tutar; kıvılcımlar, söylenceye göre, hiç sönmemiştir."
     },
     {
       id: "eski-kent", ad: "Eski-Kent", halk: "Mirasçılar", x: 65.1, y: 36,
+      murekkep: { w: 9.8, h: 8.2 },
       konum: "Kuzeydoğu", muhur: "⌘", renk: "#5e6865",
       kisa: "Eskiler'in yıkıntıları üzerine kurulu Mirasçı başkenti.",
       metin: "Eskiler'in yıkık şehrinin üzerine taş taş kurulmuş Mirasçı başkenti. Kalbinde, yosun katkılı reçineyle mühürlenmiş Büyük Kütüphane — dünyanın hafızası. Kapıları gün batımında kendiliğinden kapanır; bazı raflar hâlâ kimsenin okuyamadığı dillerde fısıldar."
     },
     {
       id: "buyuk-ordugah", ad: "Büyük Ordugâh", halk: "Azgutlar", x: 68.7, y: 53.5,
+      murekkep: { w: 11.8, h: 8.4 },
       konum: "Solgun Bozkırlar", muhur: "┼", renk: "#7b4b2c",
       kisa: "Azgut ordularının kalbi — bozkırın en büyük çadır-şehri.",
       metin: "Bozkırın en büyük çadır-şehri: on binlerce otağ, tuğlar ve at kokusu. Han otağının önünde ordular yemin eder. Temujin'in adı bu topraklarda önce sürgünle, sonra zaferle anıldı — Dört Bayrak İttifakı'nın doğu direği burada durur."
     },
     {
-      id: "sazlik-taht", ad: "Sazlık Taht", halk: "Delta", x: 93.5, y: 79.5,
+      id: "sazlik-taht", ad: "Sazlık Taht", halk: "Delta", x: 84.2, y: 80.6,
+      murekkep: { w: 10.6, h: 6.2 },
       konum: "Rivan Deltası", muhur: "≈", renk: "#4f6b58",
       kisa: "Delta'nın yaşayan ağaç-sarayı — fısıltının başkenti.",
       metin: "Rivan Deltası'nın kalbinde, yaşayan ağaçlardan örülmüş saray. Savlak su yolları arasında beyler fısıltıyla iş görür; hiçbir söz karşılıksız, hiçbir iyilik hesapsız değildir. Her fısıltının ucu eninde sonunda Fısıltı Ustası Malakor'a çıkar."
     },
     {
-      id: "yamali-liman", ad: "Yamalı Liman", halk: "Korsanlar", x: 93.4, y: 62,
+      id: "yamali-liman", ad: "Yamalı Liman", halk: "Korsanlar", x: 87.8, y: 63.7,
+      murekkep: { w: 13.4, h: 11.2 },
       konum: "Yetim Kıyıları", muhur: "⚓", renk: "#3e6370",
       kisa: "Korsan başkenti — yüz enkazdan yamanmış şehir.",
       metin: "Yetim Kıyıları'nın başkenti: yüz batık gemiden yamanmış iskeleler, direkler ve çatılar. Enkaz Kraliçesi Zaleena burada hüküm sürer — Kaptanlar Konseyi'nin sesi, otuz yıllık bir bayrak hayalinin sahibi. Şimdi denizin dibinde sabırla atan yeşil bir ışığın bekçisi."
@@ -403,19 +409,21 @@
 
   function enYakinHedef(x, y, sinirsiz) {
     var enIyi = null;
-    var enKisa = Infinity;
+    var enKisaKare = Infinity;
     for (var i = 0; i < pinler.length; i++) {
-      var rect = pinler[i].getBoundingClientRect();
-      var dx = x - (rect.left + rect.width / 2);
-      var dy = y - (rect.top + rect.height / 2);
-      var uzaklik = Math.sqrt(dx * dx + dy * dy);
-      if (uzaklik < enKisa) {
-        enKisa = uzaklik;
+      var mekan = pinler[i]._kayit.m;
+      var merkezX = gercek.x + W * gercek.z * (mekan.x / 100);
+      var merkezY = gercek.y + H * gercek.z * (mekan.y / 100);
+      var dx = x - merkezX;
+      var dy = y - merkezY;
+      var uzaklikKare = dx * dx + dy * dy;
+      if (uzaklikKare < enKisaKare) {
+        enKisaKare = uzaklikKare;
         enIyi = pinler[i]._kayit;
       }
     }
     var esik = sinirla(Math.min(window.innerWidth, window.innerHeight) * .3, 125, 265);
-    return sinirsiz || enKisa <= esik ? enIyi : null;
+    return sinirsiz || enKisaKare <= esik * esik ? enIyi : null;
   }
 
   function onizlemeyiAyarla(kayit) {
@@ -423,6 +431,7 @@
     DURUM.onizleme = kayit || null;
     pinler.forEach(function (p) { p.classList.toggle("hazir", !!kayit && p === kayit.pin); });
     if (!kayit) {
+      window.clearTimeout(onYuklemeZamani);
       levhayiVarsayilanaDondur();
       haritaDurum.textContent = dokunmatik ? "Bölgeye dokun · Yukarı kaydır" : "İmleci yaklaştır · Tekerleği ileri it";
       return;
@@ -439,6 +448,8 @@
     pin.className = "pin";
     pin.style.left = m.x + "%";
     pin.style.top = m.y + "%";
+    pin.style.width = m.murekkep.w + "%";
+    pin.style.height = m.murekkep.h + "%";
     pin.setAttribute("aria-label", m.ad + " bölgesini seç");
     pin.setAttribute("aria-pressed", "false");
     pin.dataset.mekan = m.id;
@@ -500,11 +511,13 @@
     var simdi = Number.isFinite(video.currentTime) ? video.currentTime : 0;
     var fark = DURUM.hedefZaman - simdi;
 
-    if (fark > .07) {
-      if (fark > .72 && !video.seeking) {
-        try { video.currentTime = Math.max(simdi, DURUM.hedefZaman - .28); } catch (hata) { /* sessiz */ }
-      }
-      video.playbackRate = sinirla(.75 + Math.max(0, fark) * 1.25, .75, 3.25);
+    var ileriAkis = DURUM.ilerlemeHizi > .001 && DURUM.ilerleme > .18 && DURUM.ilerleme < .91;
+    if (fark > .035 || ileriAkis) {
+      var videoP = sinirla((DURUM.ilerleme - .18) / .72, 0, 1);
+      var egim = 6 * videoP * (1 - videoP) / .72;
+      var akisHizi = Math.max(0, DURUM.ilerlemeHizi);
+      var dogalHiz = egim * akisHizi * DURUM.videoSure;
+      video.playbackRate = sinirla(dogalHiz + fark * .35, .5, 2.25);
       videoyuOynat();
       return;
     }
@@ -591,15 +604,23 @@
     }
   }
 
+  var sonAkisZamani = performance.now();
   function akisiYumusat() {
     if (!DURUM.etkin) return;
+    var simdi = performance.now();
+    var gecen = sinirla((simdi - sonAkisZamani) / 1000, 0, .04);
+    sonAkisZamani = simdi;
     var fark = DURUM.hedefIlerleme - DURUM.ilerleme;
     if (Math.abs(fark) < .00045) {
+      DURUM.ilerlemeHizi = 0;
       if (DURUM.ilerleme !== DURUM.hedefIlerleme) ilerlemeyiUygula(DURUM.hedefIlerleme);
       return;
     }
     var oran = azaltHareket ? 1 : (fark > 0 ? .145 : .19);
-    ilerlemeyiUygula(DURUM.ilerleme + fark * oran);
+    var adim = fark * oran;
+    if (!azaltHareket && fark > 0) adim = Math.min(adim, ILERI_AZAMI * gecen);
+    DURUM.ilerlemeHizi = gecen > 0 ? adim / gecen : 0;
+    ilerlemeyiUygula(DURUM.ilerleme + adim);
   }
 
   function scrollIlerlemesiniOku() {
@@ -642,7 +663,7 @@
       video.src = "assets/video/" + m.id + ".mp4";
       video.preload = "auto";
       video.load();
-    }, 180);
+    }, 300);
   }
 
   function medyayiHazirla(m) {
@@ -696,6 +717,8 @@
     DURUM.onizleme = pin ? pin._kayit : null;
     DURUM.ilerleme = 0;
     DURUM.hedefIlerleme = 0;
+    DURUM.ilerlemeHizi = 0;
+    sonAkisZamani = performance.now();
     DURUM.yolaCikti = false;
     DURUM.sonPin = pin;
     DURUM.otomatikSecim = !!otomatik;
@@ -746,6 +769,7 @@
     DURUM.onizleme = null;
     DURUM.ilerleme = 0;
     DURUM.hedefIlerleme = 0;
+    DURUM.ilerlemeHizi = 0;
     DURUM.yolaCikti = false;
     DURUM.oynatmaBekliyor = false;
     DURUM.otomatikSecim = false;
