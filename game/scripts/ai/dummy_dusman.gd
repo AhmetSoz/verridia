@@ -23,7 +23,7 @@ var _yon: int = 1
 @onready var stats: CombatStats = $CombatStats
 @onready var hitbox: Hitbox = $Hitbox
 @onready var hurtbox: Hurtbox = $Hurtbox
-@onready var gorsel: ColorRect = $Gorsel
+@onready var gorsel: Sprite2D = $Gorsel
 
 func _ready() -> void:
 	add_to_group("dusman")
@@ -87,13 +87,15 @@ func _oyuncu_bul() -> Node2D:
 	var liste := get_tree().get_nodes_in_group("oyuncu")
 	return liste[0] if not liste.is_empty() else null
 
+var _vurus_flasi: float = 0.0
+
 func _vuruldu(hb: Hitbox) -> void:
 	if durum == Durum.OLU:
 		return
 	stats.hasar_al(hb.hasar)
 	stats.denge_hasari(hb.denge_hasari)
 	velocity.x = signf(global_position.x - hb.sahip.global_position.x) * hb.geri_itme * 0.6
-	gorsel.color = Color(1, 1, 1)  # vuruş flaşı; _gorsel_guncelle bir sonraki karede düzeltir
+	_vurus_flasi = 0.08  # kısa beyaz flaş
 
 func parrylendi() -> void:
 	## Oyuncu bu düşmanın saldırısını parryledi → uzun sendeleme (karşı saldırı fırsatı)
@@ -109,17 +111,25 @@ func _gec(yeni: Durum) -> void:
 	durum = yeni
 	_sayac = 0.0
 
+func _process(delta: float) -> void:
+	if _vurus_flasi > 0.0:
+		_vurus_flasi -= delta
+
 func _gorsel_guncelle() -> void:
-	var renk := Color(0.62, 0.42, 0.34)          # Pas-Çene kahvesi (devriye)
+	# Pas-Çene sağa bakıyor; sola giderken çevir
+	gorsel.flip_h = _yon < 0
+	var ton := Color.WHITE                          # devriye/takip: dokunma
 	match durum:
-		Durum.TAKIP:
-			renk = Color(0.72, 0.45, 0.30)
 		Durum.HAZIRLIK:
-			renk = Color(0.95, 0.75, 0.25)         # TELEGRAF — parry zamanı yaklaşır
+			# TELEGRAF — parry zamanı yaklaşır (nabız gibi sarı parlama)
+			var nabiz := 1.2 + 0.5 * sin(_sayac * 30.0)
+			ton = Color(nabiz, nabiz * 0.8, 0.4)
 		Durum.SALDIRI:
-			renk = Color(0.95, 0.30, 0.20)
+			ton = Color(1.5, 0.5, 0.35)
 		Durum.SENDELEME:
-			renk = Color(0.40, 0.60, 0.90)         # kırık denge — bitiriş fırsatı
+			ton = Color(0.5, 0.7, 1.3)              # kırık denge — bitiriş fırsatı (mavi)
 		Durum.OLU:
-			renk = Color(0.22, 0.20, 0.20)
-	gorsel.color = renk
+			ton = Color(0.3, 0.28, 0.28)
+	if _vurus_flasi > 0.0:
+		ton = Color(2, 2, 2)                        # vuruş anı beyaz flaş
+	gorsel.modulate = ton

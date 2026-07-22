@@ -1,14 +1,26 @@
-[gd_scene load_steps=5 format=3]
+[gd_scene load_steps=7 format=3]
 
 [ext_resource type="Script" path="res://scripts/tests/test_odasi.gd" id="1_to"]
 [ext_resource type="PackedScene" path="res://scenes/characters/togan.tscn" id="2_tg"]
 [ext_resource type="PackedScene" path="res://scenes/enemies/dummy.tscn" id="3_dm"]
+[ext_resource type="Texture2D" uid="uid://d4c08673qt2d1" path="res://asset/golgeortu_arka.png" id="4_bg"]
 
 [sub_resource type="RectangleShape2D" id="zemin_sekil"]
 size = Vector2(1200, 40)
 
 [node name="TestOdasi" type="Node2D"]
 script = ExtResource("1_to")
+
+[node name="ArkaPlan" type="CanvasLayer" parent="."]
+layer = -10
+
+[node name="Orman" type="TextureRect" parent="ArkaPlan"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+texture = ExtResource("4_bg")
+expand_mode = 1
+stretch_mode = 6
 
 [node name="Zemin" type="StaticBody2D" parent="."]
 position = Vector2(320, 340)
@@ -21,7 +33,7 @@ offset_left = -600.0
 offset_top = -20.0
 offset_right = 600.0
 offset_bottom = 20.0
-color = Color(0.24, 0.26, 0.3, 1)
+color = Color(0.08, 0.09, 0.11, 1)
 
 [node name="Platform1" type="StaticBody2D" parent="."]
 position = Vector2(180, 250)
@@ -35,7 +47,7 @@ offset_left = -60.0
 offset_top = -8.0
 offset_right = 60.0
 offset_bottom = 8.0
-color = Color(0.3, 0.33, 0.38, 1)
+color = Color(0.14, 0.17, 0.18, 1)
 
 [node name="Platform2" type="StaticBody2D" parent="."]
 position = Vector2(460, 200)
@@ -49,7 +61,7 @@ offset_left = -60.0
 offset_top = -8.0
 offset_right = 60.0
 offset_bottom = 8.0
-color = Color(0.3, 0.33, 0.38, 1)
+color = Color(0.14, 0.17, 0.18, 1)
 
 [node name="SolDuvar" type="StaticBody2D" parent="."]
 position = Vector2(-270, 180)

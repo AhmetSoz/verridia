@@ -85,6 +85,7 @@ func _physics_process(delta: float) -> void:
 
 	move_and_slide()
 	_durum_gorseli()
+	_animasyon(delta)
 
 # ---------- Sayaçlar / tamponlar ----------
 
@@ -319,4 +320,61 @@ func _durum_gorseli() -> void:
 		Durum.OLU:
 			ton = Color(0.45, 0.45, 0.5)
 	gorsel.modulate = ton
-	gorsel.flip_h = yon < 0                         # sprite sağa bakıyor; sola dönünce çevir
+	# yön çevirme _animasyon() içinde scale.x işaretiyle yapılır
+
+# ---------- Procedural animasyon (tek sprite'ı canlandırır, yeni kare gerekmez) ----------
+const GORSEL_TABAN_Y := -29.0
+var _anim_zaman: float = 0.0
+var _squash: Vector2 = Vector2.ONE
+var _hedef_squash: Vector2 = Vector2.ONE
+var _onceki_yerde: bool = true
+
+func _animasyon(delta: float) -> void:
+	_anim_zaman += delta
+	var yerde := is_on_floor()
+	var offset_y := 0.0
+	var egim := 0.0
+	_hedef_squash = Vector2.ONE
+
+	match durum:
+		Durum.KOSU:
+			# Koşu: hızlı yukarı-aşağı zıpırdama + öne hafif eğim
+			var hiz_orani: float = clampf(absf(velocity.x) / kosu_hizi, 0.0, 1.0)
+			offset_y = -absf(sin(_anim_zaman * 22.0)) * 3.0 * hiz_orani
+			egim = deg_to_rad(6.0) * yon * hiz_orani
+			_hedef_squash = Vector2(1.0 + 0.05 * hiz_orani, 1.0 - 0.05 * hiz_orani)
+		Durum.BOS:
+			# Bekleme: yumuşak nefes alıp verme
+			offset_y = sin(_anim_zaman * 3.0) * 1.0
+			_hedef_squash = Vector2(1.0, 1.0 + 0.02 * sin(_anim_zaman * 3.0))
+		Durum.ZIPLA:
+			_hedef_squash = Vector2(0.85, 1.18)      # yukarı uzama
+		Durum.DUSUS:
+			_hedef_squash = Vector2(0.92, 1.10)
+		Durum.HAFIF_SALDIRI, Durum.AGIR_SALDIRI:
+			# Saldırıda öne atılma (aktif evrede en çok)
+			var g: float = 1.0 if _saldiri_evre == 1 else 0.4
+			offset_y = 0.0
+			gorsel.position.x = 5.0 * yon * g
+			_hedef_squash = Vector2(1.0 + 0.12 * g, 1.0 - 0.06 * g)
+		Durum.KACINMA:
+			egim = deg_to_rad(18.0) * yon           # kaçınmada öne yatış
+			_hedef_squash = Vector2(1.15, 0.9)
+		Durum.HASAR:
+			gorsel.position.x = sin(_anim_zaman * 60.0) * 2.0  # titreme
+		_:
+			pass
+
+	# İniş ezilmesi: havadan yere değme anında squash
+	if yerde and not _onceki_yerde:
+		_squash = Vector2(1.25, 0.72)
+	_onceki_yerde = yerde
+
+	# Yumuşak geçiş
+	_squash = _squash.lerp(_hedef_squash, 1.0 - exp(-18.0 * delta))
+	var flip := -1.0 if yon < 0 else 1.0
+	gorsel.scale = Vector2(_squash.x * flip, _squash.y)
+	gorsel.rotation = egim
+	if durum not in [Durum.HAFIF_SALDIRI, Durum.AGIR_SALDIRI, Durum.HASAR]:
+		gorsel.position.x = move_toward(gorsel.position.x, 0.0, 40.0 * delta)
+	gorsel.position.y = GORSEL_TABAN_Y + offset_y
