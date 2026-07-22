@@ -52,6 +52,15 @@ centered = false
 position = Vector2(0, -72)
 texture = ExtResource("3")
 
+[node name="ToprakDolgu" type="ColorRect" parent="."]
+z_index = -5
+offset_left = -400.0
+offset_top = 372.0
+offset_right = 2000.0
+offset_bottom = 720.0
+color = Color(0.082, 0.066, 0.05, 1)
+mouse_filter = 2
+
 [node name="Zemin" type="StaticBody2D" parent="."]
 
 [node name="ZeminGorsel" type="Sprite2D" parent="Zemin"]

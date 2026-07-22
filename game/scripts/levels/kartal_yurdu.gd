@@ -8,3 +8,9 @@ extends Node2D
 func _ready() -> void:
 	SceneFlow.kontrol_noktasi_kaydet("kartal_yurdu_giris")
 	hud.bagla(oyuncu.stats)
+	# Kamerayı bölüm sınırlarına kilitle (boşluk/void görünmesin)
+	var kam := oyuncu.get_node("Camera2D") as Camera2D
+	kam.limit_left = -120
+	kam.limit_right = 1520
+	kam.limit_top = -140
+	kam.limit_bottom = 392
