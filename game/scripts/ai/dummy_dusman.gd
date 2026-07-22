@@ -23,7 +23,7 @@ var _yon: int = 1
 @onready var stats: CombatStats = $CombatStats
 @onready var hitbox: Hitbox = $Hitbox
 @onready var hurtbox: Hurtbox = $Hurtbox
-@onready var gorsel: Sprite2D = $Gorsel
+@onready var gorsel: AnimatedSprite2D = $Gorsel
 
 func _ready() -> void:
 	add_to_group("dusman")
@@ -109,8 +109,8 @@ func _ol() -> void:
 	hitbox.kapat()
 	hurtbox.set_deferred("monitoring", false)
 	Fx.olum(global_position + Vector2(0, -18), Color(0.58, 0.30, 0.22))
-	gorsel.visible = false
-	get_tree().create_timer(0.4).timeout.connect(queue_free)
+	# ölüm animasyonu oynasın, sonra yok ol
+	get_tree().create_timer(0.9).timeout.connect(queue_free)
 
 func _gec(yeni: Durum) -> void:
 	durum = yeni
@@ -123,18 +123,27 @@ func _process(delta: float) -> void:
 func _gorsel_guncelle() -> void:
 	# Pas-Çene sağa bakıyor; sola giderken çevir
 	gorsel.flip_h = _yon < 0
-	var ton := Color.WHITE                          # devriye/takip: dokunma
+	var anim := "yuru"
+	var ton := Color.WHITE
 	match durum:
+		Durum.DEVRIYE, Durum.TAKIP:
+			anim = "yuru"
 		Durum.HAZIRLIK:
-			# TELEGRAF — parry zamanı yaklaşır (nabız gibi sarı parlama)
-			var nabiz := 1.2 + 0.5 * sin(_sayac * 30.0)
-			ton = Color(nabiz, nabiz * 0.8, 0.4)
+			anim = "telegraf"
+			# ek okunaklılık: hafif sarı nabız (parry zamanı yaklaşır)
+			var nabiz := 1.15 + 0.35 * sin(_sayac * 30.0)
+			ton = Color(nabiz, nabiz * 0.85, 0.6)
 		Durum.SALDIRI:
-			ton = Color(1.5, 0.5, 0.35)
+			anim = "vurus"
+		Durum.TOPARLANMA:
+			anim = "idle"
 		Durum.SENDELEME:
-			ton = Color(0.5, 0.7, 1.3)              # kırık denge — bitiriş fırsatı (mavi)
+			anim = "sersem"
+			ton = Color(0.6, 0.75, 1.25)            # kırık denge — bitiriş fırsatı (mavi)
 		Durum.OLU:
-			ton = Color(0.3, 0.28, 0.28)
+			anim = "olum"
 	if _vurus_flasi > 0.0:
 		ton = Color(2, 2, 2)                        # vuruş anı beyaz flaş
 	gorsel.modulate = ton
+	if gorsel.animation != anim:
+		gorsel.play(anim)

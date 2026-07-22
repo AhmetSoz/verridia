@@ -1,10 +1,58 @@
-[gd_scene load_steps=9 format=3]
+[gd_scene load_steps=25 format=3]
 
 [ext_resource type="Script" path="res://scripts/ai/dummy_dusman.gd" id="1_dd"]
 [ext_resource type="Script" path="res://scripts/combat/combat_stats.gd" id="2_cs"]
 [ext_resource type="Script" path="res://scripts/combat/hitbox.gd" id="3_hb"]
 [ext_resource type="Script" path="res://scripts/combat/hurtbox.gd" id="4_hu"]
-[ext_resource type="Texture2D" uid="uid://daeip5b7hsqjv" path="res://asset/pas-çene/pascene_idle.png" id="5_tex"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/yuru_0.png" id="10"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/yuru_1.png" id="11"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/yuru_2.png" id="12"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/yuru_3.png" id="13"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/yuru_4.png" id="14"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/yuru_5.png" id="15"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/saldiri_0.png" id="20"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/saldiri_1.png" id="21"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/saldiri_2.png" id="22"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/saldiri_3.png" id="23"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/saldiri_4.png" id="24"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/olum_0.png" id="30"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/olum_1.png" id="31"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/olum_2.png" id="32"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/olum_3.png" id="33"]
+[ext_resource type="Texture2D" path="res://asset/pas-çene/olum_4.png" id="34"]
+
+[sub_resource type="SpriteFrames" id="sf"]
+animations = [{
+"frames": [{"duration": 1.0, "texture": ExtResource("10")}],
+"loop": true,
+"name": &"idle",
+"speed": 4.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("10")}, {"duration": 1.0, "texture": ExtResource("11")}, {"duration": 1.0, "texture": ExtResource("12")}, {"duration": 1.0, "texture": ExtResource("13")}, {"duration": 1.0, "texture": ExtResource("14")}, {"duration": 1.0, "texture": ExtResource("15")}],
+"loop": true,
+"name": &"yuru",
+"speed": 9.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("20")}, {"duration": 1.0, "texture": ExtResource("21")}],
+"loop": true,
+"name": &"telegraf",
+"speed": 6.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("22")}, {"duration": 1.0, "texture": ExtResource("23")}, {"duration": 1.0, "texture": ExtResource("24")}],
+"loop": false,
+"name": &"vurus",
+"speed": 12.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("30")}, {"duration": 1.0, "texture": ExtResource("31")}],
+"loop": true,
+"name": &"sersem",
+"speed": 5.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("30")}, {"duration": 1.0, "texture": ExtResource("31")}, {"duration": 1.0, "texture": ExtResource("32")}, {"duration": 1.0, "texture": ExtResource("33")}, {"duration": 1.0, "texture": ExtResource("34")}],
+"loop": false,
+"name": &"olum",
+"speed": 8.0
+}]
 
 [sub_resource type="RectangleShape2D" id="govde_sekil"]
 size = Vector2(22, 36)
@@ -20,9 +68,11 @@ collision_layer = 2
 collision_mask = 1
 script = ExtResource("1_dd")
 
-[node name="Gorsel" type="Sprite2D" parent="."]
-position = Vector2(0, -20)
-texture = ExtResource("5_tex")
+[node name="Gorsel" type="AnimatedSprite2D" parent="."]
+position = Vector2(0, -46)
+sprite_frames = SubResource("sf")
+animation = &"yuru"
+autoplay = "yuru"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, -18)
