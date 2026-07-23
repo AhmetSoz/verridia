@@ -78,37 +78,37 @@ region_rect = Rect2(0, 0, 1720, 51)
 position = Vector2(-100, 330)
 
 [node name="ZeminC" type="CollisionShape2D" parent="Zemin"]
-position = Vector2(760, 364)
+position = Vector2(760, 370)
 shape = SubResource("zemin_col")
 
 [node name="Cadir" type="Sprite2D" parent="."]
 centered = false
-position = Vector2(28, 240)
-scale = Vector2(1.4, 1.4)
+position = Vector2(-16, 207)
+scale = Vector2(1.9, 1.9)
 texture = ExtResource("20")
 
 [node name="Kazik" type="Sprite2D" parent="."]
 centered = false
-position = Vector2(330, 260)
+position = Vector2(330, 266)
 texture = ExtResource("21")
 
 [node name="Ates" type="Sprite2D" parent="."]
 centered = false
-position = Vector2(408, 316)
+position = Vector2(408, 322)
 texture = ExtResource("22")
 
 [node name="Calilar1" type="Sprite2D" parent="."]
 centered = false
-position = Vector2(500, 297)
+position = Vector2(500, 303)
 texture = ExtResource("23")
 
 [node name="Calilar2" type="Sprite2D" parent="."]
 centered = false
-position = Vector2(1000, 297)
+position = Vector2(1000, 303)
 texture = ExtResource("23")
 
 [node name="Kukla" parent="." instance=ExtResource("6")]
-position = Vector2(250, 334)
+position = Vector2(250, 340)
 
 [node name="Platform1" type="StaticBody2D" parent="."]
 
@@ -118,7 +118,7 @@ position = Vector2(720, 250)
 texture = ExtResource("11")
 
 [node name="C1" type="CollisionShape2D" parent="Platform1"]
-position = Vector2(770, 278)
+position = Vector2(770, 284)
 shape = SubResource("plat_b")
 
 [node name="Platform2" type="StaticBody2D" parent="."]
@@ -129,7 +129,7 @@ position = Vector2(900, 205)
 texture = ExtResource("12")
 
 [node name="C2" type="CollisionShape2D" parent="Platform2"]
-position = Vector2(930, 228)
+position = Vector2(930, 234)
 shape = SubResource("plat_o")
 
 [node name="Platform3" type="StaticBody2D" parent="."]
@@ -140,7 +140,7 @@ position = Vector2(1070, 160)
 texture = ExtResource("13")
 
 [node name="C3" type="CollisionShape2D" parent="Platform3"]
-position = Vector2(1082, 177)
+position = Vector2(1082, 183)
 shape = SubResource("plat_k")
 
 [node name="Platform4" type="StaticBody2D" parent="."]
@@ -151,7 +151,7 @@ position = Vector2(1230, 240)
 texture = ExtResource("11")
 
 [node name="C4" type="CollisionShape2D" parent="Platform4"]
-position = Vector2(1280, 268)
+position = Vector2(1280, 274)
 shape = SubResource("plat_b")
 
 [node name="Togan" parent="." instance=ExtResource("2")]

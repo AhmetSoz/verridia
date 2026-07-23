@@ -318,7 +318,7 @@ func _saldiri_basla(agir: bool) -> void:
 		hitbox.hasar = hafif_hasar * (1.0 + 0.15 * _kombo_adim)  # kombo sonu daha sert
 		hitbox.denge_hasari = hafif_denge_hasari
 		_duruma_gec(Durum.HAFIF_SALDIRI)
-	hitbox.position.x = 18.0 * yon
+	hitbox.position.x = 26.0 * yon   # kılıç menzili (içine girmeden vurur)
 	velocity.x = 0.0
 	gorsel.play("agir" if agir else "hafif")
 	gorsel.set_frame_and_progress(0, 0.0)   # kombo için baştan

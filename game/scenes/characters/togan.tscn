@@ -86,13 +86,13 @@ animations = [{
 size = Vector2(20, 44)
 
 [sub_resource type="RectangleShape2D" id="hitbox_sekil"]
-size = Vector2(28, 32)
+size = Vector2(46, 38)
 
 [sub_resource type="RectangleShape2D" id="hurtbox_sekil"]
 size = Vector2(18, 42)
 
 [node name="Togan" type="CharacterBody2D"]
-collision_layer = 1
+collision_layer = 2
 collision_mask = 1
 script = ExtResource("1_pt")
 
@@ -113,7 +113,7 @@ azami_denge = 60.0
 azami_irade = 100.0
 
 [node name="Hitbox" type="Area2D" parent="."]
-position = Vector2(18, -24)
+position = Vector2(26, -24)
 script = ExtResource("3_hb")
 
 [node name="HitboxSekil" type="CollisionShape2D" parent="Hitbox"]
