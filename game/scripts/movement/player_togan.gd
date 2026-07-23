@@ -422,7 +422,7 @@ func _durum_gorseli() -> void:
 	var anim := "idle"
 	match durum:
 		Durum.KOSU:
-			anim = "yuru"
+			anim = "kosu"
 		Durum.ZIPLA:
 			anim = "zipla"
 		Durum.DUSUS:
@@ -437,16 +437,19 @@ func _durum_gorseli() -> void:
 		Durum.PARRY:
 			anim = "parry"
 			ton = Color(1.6, 1.5, 1.0) if _parry_aktif else Color.WHITE
-		Durum.HASAR, Durum.SENDELEME:
+		Durum.HASAR:
 			anim = "hasar"
 			ton = Color(1.5, 0.55, 0.55)            # kırmızı flaş
+		Durum.SENDELEME:
+			anim = "sendeleme"                      # denge kırıldı — bitiriş fırsatı
+			ton = Color(0.9, 0.9, 1.3)
 		Durum.TUTUNMA:
-			anim = "dusus"                          # geçici; "tutunma" karesi gelince değişir
+			anim = "dusus"                          # geçici; kayasız tutunma karesi gelince değişir
 		Durum.CEKME:
-			anim = "zipla"                          # geçici; "cekme" karesi gelince değişir
+			anim = "zipla"
 		Durum.OLU:
-			anim = "hasar"
-			ton = Color(0.45, 0.45, 0.5)
+			anim = "olum"
+			ton = Color(0.75, 0.72, 0.72)
 	gorsel.modulate = ton
 	gorsel.flip_h = yon < 0
 	if gorsel.animation != anim:

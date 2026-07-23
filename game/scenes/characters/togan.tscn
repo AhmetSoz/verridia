@@ -1,4 +1,4 @@
-[gd_scene load_steps=38 format=3]
+[gd_scene load_steps=60 format=3]
 
 [ext_resource type="Script" path="res://scripts/movement/player_togan.gd" id="1_pt"]
 [ext_resource type="Script" path="res://scripts/combat/combat_stats.gd" id="2_cs"]
@@ -33,6 +33,24 @@
 [ext_resource type="Texture2D" path="res://asset/togan/hasar_1.png" id="61"]
 [ext_resource type="Texture2D" path="res://asset/togan/zipla_0.png" id="18"]
 [ext_resource type="Texture2D" path="res://asset/togan/zipla_1.png" id="19"]
+[ext_resource type="Texture2D" path="res://asset/togan/olum_0.png" id="70"]
+[ext_resource type="Texture2D" path="res://asset/togan/olum_1.png" id="71"]
+[ext_resource type="Texture2D" path="res://asset/togan/olum_2.png" id="72"]
+[ext_resource type="Texture2D" path="res://asset/togan/olum_3.png" id="73"]
+[ext_resource type="Texture2D" path="res://asset/togan/olum_4.png" id="74"]
+[ext_resource type="Texture2D" path="res://asset/togan/kosu_0.png" id="80"]
+[ext_resource type="Texture2D" path="res://asset/togan/kosu_1.png" id="81"]
+[ext_resource type="Texture2D" path="res://asset/togan/kosu_2.png" id="82"]
+[ext_resource type="Texture2D" path="res://asset/togan/kosu_3.png" id="83"]
+[ext_resource type="Texture2D" path="res://asset/togan/kosu_4.png" id="84"]
+[ext_resource type="Texture2D" path="res://asset/togan/kosu_5.png" id="85"]
+[ext_resource type="Texture2D" path="res://asset/togan/sendeleme_0.png" id="90"]
+[ext_resource type="Texture2D" path="res://asset/togan/sendeleme_1.png" id="91"]
+[ext_resource type="Texture2D" path="res://asset/togan/sendeleme_2.png" id="92"]
+[ext_resource type="Texture2D" path="res://asset/togan/yay_0.png" id="100"]
+[ext_resource type="Texture2D" path="res://asset/togan/yay_1.png" id="101"]
+[ext_resource type="Texture2D" path="res://asset/togan/yay_2.png" id="102"]
+[ext_resource type="Texture2D" path="res://asset/togan/yay_3.png" id="103"]
 
 [sub_resource type="SpriteFrames" id="sf"]
 animations = [{
@@ -80,6 +98,26 @@ animations = [{
 "loop": true,
 "name": &"dusus",
 "speed": 5.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("70")}, {"duration": 1.0, "texture": ExtResource("71")}, {"duration": 1.0, "texture": ExtResource("72")}, {"duration": 1.0, "texture": ExtResource("73")}, {"duration": 1.0, "texture": ExtResource("74")}],
+"loop": false,
+"name": &"olum",
+"speed": 8.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("80")}, {"duration": 1.0, "texture": ExtResource("81")}, {"duration": 1.0, "texture": ExtResource("82")}, {"duration": 1.0, "texture": ExtResource("83")}, {"duration": 1.0, "texture": ExtResource("84")}, {"duration": 1.0, "texture": ExtResource("85")}],
+"loop": true,
+"name": &"kosu",
+"speed": 13.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("90")}, {"duration": 1.0, "texture": ExtResource("91")}, {"duration": 1.0, "texture": ExtResource("92")}],
+"loop": false,
+"name": &"sendeleme",
+"speed": 8.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("100")}, {"duration": 1.0, "texture": ExtResource("101")}, {"duration": 1.0, "texture": ExtResource("102")}, {"duration": 1.0, "texture": ExtResource("103")}],
+"loop": false,
+"name": &"yay",
+"speed": 12.0
 }]
 
 [sub_resource type="RectangleShape2D" id="govde_sekil"]
