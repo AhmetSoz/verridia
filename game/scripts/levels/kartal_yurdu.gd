@@ -214,9 +214,13 @@ func _acilis_sinematigi() -> void:
 		["Kaya", "Karşında kim var Togan? Ben mi? Korgan mı? Yoksa bir yıldır mezara koyamadığın biri mi?"],
 	])
 
-	# Kaya tahta kılıçları toplar, yorgun adımlarla gider
+	# Kaya tahta kılıçları toplar, yorgun adımlarla geldiği gölgelere döner
 	if is_instance_valid(kaya):
-		kaya.yuru_git(oyuncu.global_position.x + 260.0)
+		kaya.bak(-1)
+		kaya.yuru_git(oyuncu.global_position.x - 360.0)   # sola, sahneden çıkar
+		get_tree().create_timer(4.5).timeout.connect(func():
+			if is_instance_valid(kaya):
+				kaya.queue_free())
 	await _konus(d, [
 		["Togan", "Bir hayalet neresinden vurulur?"],
 		["", "Ana ateşin kokusu geliyor — bizon eti, dağ kekiği. Anya Ana ateşin başında bekliyor."],
