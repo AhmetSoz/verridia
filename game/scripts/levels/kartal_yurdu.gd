@@ -9,6 +9,9 @@ const DIALOG := preload("res://scenes/ui/dialog.tscn")
 @onready var hud = $HUD
 
 var _prompt: Label
+var _d                       # diyalog kutusu (sahneler paylaşır)
+var _duello_bitti: bool = false
+var _sahne2_oynadi: bool = false
 
 func _ready() -> void:
 	SceneFlow.kontrol_noktasi_kaydet("kartal_yurdu_giris")
@@ -19,7 +22,41 @@ func _ready() -> void:
 	kam.limit_right = 1520
 	kam.limit_top = -140
 	kam.limit_bottom = 392
+	# Sahne 2 tetikleyicisi: ana ateşin yanı (duello bitince aktif)
+	var tetik := Area2D.new()
+	tetik.collision_mask = 2         # oyuncu gövdesi (layer 2)
+	var ts := CollisionShape2D.new()
+	var trect := RectangleShape2D.new()
+	trect.size = Vector2(70, 90)
+	ts.shape = trect
+	tetik.add_child(ts)
+	add_child(tetik)
+	tetik.global_position = Vector2(430, 300)
+	tetik.body_entered.connect(_ates_tetik)
 	_acilis_sinematigi.call_deferred()
+
+func _ates_tetik(body: Node) -> void:
+	if body == oyuncu and _duello_bitti and not _sahne2_oynadi:
+		_sahne2_oynadi = true
+		_sahne2()
+
+func _sahne2() -> void:
+	# SAHNE 2 — Ana Ateş (Anya Ana), kitaba sadık
+	oyuncu.girdi_kilitli = true
+	await _konus(_d, [
+		["", "Ana ateşin kokusu geldi: bizon eti, dağ kekiği, közde kök sebzeler."],
+		["Anya Ana", "Savaşçı aç karnına kılıç sallamaz."],
+		["Anya Ana", "Dün gece babanı gördüm. Bozkırda at sürüyordu. Sana seslendi: 'Oğlum gökyüzüne bakmayı unuttu.'"],
+		["Togan", "Rüyaymış."],
+		["Anya Ana", "Rüyadır. Bu, boş olduğu anlamına gelmez. Bir Rüzgar-Dinleyen gözünü toprağa dikerse yolunu şaşırır."],
+		["Anya Ana", "Sen bir yıldır Melira'nın düştüğü yerden başka yere bakmıyorsun."],
+		["Togan", "Sen ne gördüğümü nereden bileceksin?"],
+		["Anya Ana", "Kocamı bir baskında, ilk oğlumu kış hummasında kaybettim. Bu obada içinde mezar taşımayan kimse yok."],
+		["Anya Ana", "Acını senden alamam. Ama onu besleyip sana hükmettirmene de susamam. Seni Kor-Ateşler'den ayıran ne kaldı, kendine sor."],
+		["Anya Ana", "Baban rüyada bir şey daha söyledi... Sana kızgın değildi."],
+		["", "Bu cevap, azardan daha ağır geldi."],
+	])
+	oyuncu.girdi_kilitli = false
 
 func _konus(d, satirlar: Array, otomatik: bool = true) -> void:
 	Fx.kamera_taban(Vector2(0, 52))   # karakterler kutunun üstünde kalsın
@@ -65,10 +102,10 @@ func _a_saldiri() -> void:
 		kaya.kac()
 
 func _parry_bekle(d) -> void:
-	# Faz B: oyuncu Kaya'nın darbesini savuşturana (parry) kadar dener
-	var basari := false
+	# Faz B: gerçek savunma dövüşü — art arda savuştur, tempo artar (3 başarı gerek)
+	var basari := 0
 	var deneme := 0
-	while not basari and deneme < 7:
+	while basari < 3 and deneme < 14:
 		deneme += 1
 		await _kaya_yaklas()
 		if not is_instance_valid(kaya):
@@ -79,13 +116,17 @@ func _parry_bekle(d) -> void:
 		await kaya.saldir(kaya.yon)
 		_prompt.visible = false
 		if oyuncu.stats.irade > irade0 + 1.0:
-			basari = true
-		else:
-			if deneme == 2:
+			basari += 1
+			if basari == 1:
 				oyuncu.girdi_kilitli = true
-				await _konus(d, [["Kaya", "Acele etme. Vuracağım anı dinle — sonra L."]])
+				await _konus(d, [["Kaya", "İşte! Durma — bir daha, bir daha."]])
 				oyuncu.girdi_kilitli = false
-			await get_tree().create_timer(0.7).timeout
+		elif deneme == 2:
+			oyuncu.girdi_kilitli = true
+			await _konus(d, [["Kaya", "Acele etme. Vuracağım anı dinle — sonra L."]])
+			oyuncu.girdi_kilitli = false
+		# tempo: başarıdan sonra Kaya hızlanır
+		await get_tree().create_timer(0.5 if basari > 0 else 0.7).timeout
 
 func _acilis_sinematigi() -> void:
 	_prompt_kur()
@@ -178,6 +219,9 @@ func _acilis_sinematigi() -> void:
 		kaya.yuru_git(oyuncu.global_position.x + 260.0)
 	await _konus(d, [
 		["Togan", "Bir hayalet neresinden vurulur?"],
-		["", "Kartal-Yurdu'nda dolaş. (A/D yürü · J/K vur · L savuştur · Space çift zıpla · Shift takla)"],
+		["", "Ana ateşin kokusu geliyor — bizon eti, dağ kekiği. Anya Ana ateşin başında bekliyor."],
+		["", "→ Sağdaki ateşe doğru yürü."],
 	])
+	_d = d
+	_duello_bitti = true
 	oyuncu.girdi_kilitli = false
