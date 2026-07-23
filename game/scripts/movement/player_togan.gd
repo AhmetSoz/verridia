@@ -366,7 +366,10 @@ func _saldiri_basla(agir: bool) -> void:
 	hitbox.position.x = 26.0 * yon   # kılıç menzili (içine girmeden vurur)
 	velocity.x = 0.0
 	saldirdi.emit()
-	gorsel.play("agir" if agir else "hafif")
+	if agir:
+		gorsel.play("agir")
+	else:
+		gorsel.play("hafif2" if _kombo_adim % 2 == 1 else "hafif")   # kombo: sağa-sola savurma
 	gorsel.set_frame_and_progress(0, 0.0)   # kombo için baştan
 
 func _saldiri_guncelle(_delta: float) -> void:
@@ -499,8 +502,8 @@ func _durum_gorseli() -> void:
 			anim = "hasar"
 			ton = Color(1.5, 0.55, 0.55)            # kırmızı flaş
 		Durum.SENDELEME:
-			anim = "dusme" if _yikildi else "sendeleme"   # devrilme mi sadece denge mi
-			ton = Color(0.9, 0.9, 1.3) if not _yikildi else Color.WHITE
+			anim = "dusme"                          # devrilme/denge kırılması — yerde
+			ton = Color.WHITE if _yikildi else Color(0.9, 0.9, 1.3)
 		Durum.TUTUNMA:
 			anim = "tutunma"
 		Durum.CEKME:
@@ -516,8 +519,8 @@ func _durum_gorseli() -> void:
 			gorsel.play("tutunma")
 		gorsel.pause()
 		gorsel.frame = 0
-	elif durum == Durum.CEKME:
-		pass                       # _cekme_basla oynatıyor, dokunma
+	elif durum == Durum.CEKME or durum == Durum.HAFIF_SALDIRI or durum == Durum.AGIR_SALDIRI:
+		pass                       # _cekme_basla / _saldiri_basla oynatıyor (kombo hafif/hafif2)
 	elif gorsel.animation != anim:
 		gorsel.play(anim)
 
