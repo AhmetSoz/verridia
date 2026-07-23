@@ -6,6 +6,8 @@ extends CharacterBody2D
 ## büyük darbede 40–90ms hit-stop. Karakter komuta HEMEN tepki verir;
 ## ağırlık animasyondan gelir, girdi gecikmesinden değil.
 
+signal saldirdi   # sinematik/talim: Togan saldırıya başladı
+
 enum Durum { BOS, KOSU, ZIPLA, DUSUS, KACINMA, HAFIF_SALDIRI, AGIR_SALDIRI, PARRY, HASAR, SENDELEME, TUTUNMA, CEKME, OLU }
 
 # --- Hareket ayarları (ilk prototipte ayarlanacak başlangıç noktaları) ---
@@ -327,6 +329,7 @@ func _saldiri_basla(agir: bool) -> void:
 		_duruma_gec(Durum.HAFIF_SALDIRI)
 	hitbox.position.x = 26.0 * yon   # kılıç menzili (içine girmeden vurur)
 	velocity.x = 0.0
+	saldirdi.emit()
 	gorsel.play("agir" if agir else "hafif")
 	gorsel.set_frame_and_progress(0, 0.0)   # kombo için baştan
 
@@ -407,6 +410,12 @@ func _hit_stop(sure: float) -> void:
 	Engine.time_scale = 1.0
 
 # ---------- Durum yardımcıları ----------
+
+## Sinematik: Togan yere düşürülür (talimde Kaya devirince)
+func sendele() -> void:
+	_duruma_gec(Durum.SENDELEME)
+	velocity.x = -yon * 150.0
+	velocity.y = -120.0
 
 func _duruma_gec(yeni: Durum) -> void:
 	durum = yeni

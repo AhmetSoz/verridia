@@ -60,6 +60,18 @@ func parrylendi() -> void:
 	velocity.x = -yon * 130.0
 	_oynat("kayis")
 
+## Kaya, Togan'ın saldırısından kayarak geri çekilir (yarım adım — kitaptaki gibi)
+func kac() -> void:
+	if _mesgul:
+		return
+	_mesgul = true
+	_oynat("kayis"); gorsel.set_frame_and_progress(0, 0.0)
+	velocity.x = -yon * 150.0    # oyuncudan uzağa kayar
+	await get_tree().create_timer(0.28).timeout
+	velocity.x = 0.0
+	_mesgul = false
+	_oynat("idle")
+
 func kayarak_atil(mesafe: float) -> void:
 	# Kaya'nın kişisel skili: kayarak geri/ileri atılma
 	_mesgul = true
