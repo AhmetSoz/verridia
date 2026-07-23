@@ -15,13 +15,16 @@ var _satirlar: Array = []
 var _idx: int = -1
 var _tam: String = ""
 var _gorunen: float = 0.0
+var _otomatik: bool = false
+var _bekle: float = 0.0
 
 func _ready() -> void:
 	kutu.visible = false
 
-func goster(satirlar: Array) -> void:
+func goster(satirlar: Array, otomatik: bool = false) -> void:
 	_satirlar = satirlar
 	_idx = -1
+	_otomatik = otomatik
 	kutu.visible = true
 	_sonraki()
 
@@ -36,6 +39,7 @@ func _sonraki() -> void:
 	ad_lbl.visible = s[0] != ""
 	_tam = s[1]
 	_gorunen = 0.0
+	_bekle = 0.0
 	metin_lbl.text = ""
 	devam_lbl.visible = false
 
@@ -46,10 +50,16 @@ func _process(delta: float) -> void:
 		_gorunen = minf(_gorunen + HIZ * delta, float(_tam.length()))
 		metin_lbl.text = _tam.substr(0, int(_gorunen))
 		if _gorunen >= float(_tam.length()):
-			devam_lbl.visible = true
+			devam_lbl.visible = not _otomatik
+			# otomatik modda okuma süresi kadar bekle
+			_bekle = 1.3 + 0.05 * float(_tam.length())
+	elif _otomatik:
+		_bekle -= delta
+		if _bekle <= 0.0:
+			_sonraki()
 
 func _input(event: InputEvent) -> void:
-	if not kutu.visible:
+	if not kutu.visible or _otomatik:   # otomatik modda girdi yok (dizi gibi akar)
 		return
 	if event.is_action_pressed("etkilesim") or event.is_action_pressed("zipla") or event.is_action_pressed("saldiri_hafif"):
 		if _gorunen < float(_tam.length()):

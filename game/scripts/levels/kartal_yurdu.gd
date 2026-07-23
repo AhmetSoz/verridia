@@ -19,17 +19,23 @@ func _ready() -> void:
 	_acilis_sinematigi.call_deferred()
 
 func _acilis_sinematigi() -> void:
-	# Togan yere otursun, sonra kitap açılış satırları
+	# Otomatik sinematik (dizi gibi): Togan kendi kendine talim yapar, metin kendi akar.
 	oyuncu.girdi_kilitli = true
-	await get_tree().create_timer(0.7).timeout
+	oyuncu.yon = 1
+	await get_tree().create_timer(0.5).timeout
+	# Togan kuklaya üç kez vuruyor (kitabın açılışı)
+	for i in range(3):
+		if is_instance_valid(oyuncu):
+			oyuncu._saldiri_basla(false)
+		await get_tree().create_timer(0.55).timeout
 	var d = DIALOG.instantiate()
 	add_child(d)
 	d.bitti.connect(func(): oyuncu.girdi_kilitli = false)
 	d.goster([
 		["", "Kılıç üçüncü kez göğsüne gömülünce kuklanın tahta omurgası çatladı."],
 		["", "Aşağıda Kartal-Yurdu uyuyordu. Tek Göz kuzey sırtlarının üzerinde asılıydı."],
-		["Togan", "(Kaçıncı darbe olduğunu bilmiyorum. Şafak hâlâ ne kadar uzak?)"],
+		["Togan", "Kaçıncı darbe olduğunu bilmiyorum. Şafak hâlâ ne kadar uzak?"],
 		["Kaya", "Demiri değil, kendini yoruyorsun."],
 		["Kaya", "Bir kez de ete kemiğe karşı salla. Belki kime vurduğunu hatırlarsın."],
-		["", "Talimin vakti geldi. (Kuklaya J/K ile vur, A/D ile yürü.)"],
-	])
+		["", "Talimin vakti geldi. Kuklaya J/K ile vur, A/D ile yürü."],
+	], true)   # otomatik = dizi gibi kendi akar
