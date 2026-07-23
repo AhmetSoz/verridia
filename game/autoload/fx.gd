@@ -5,6 +5,7 @@ extends Node
 var _shake: float = 0.0
 var _shake_azalma: float = 1.0
 var _daire: Texture2D
+var _taban: Vector2 = Vector2.ZERO   # sinematik kamera ofseti (sarsıntı bunun üstüne biner)
 
 func _ready() -> void:
 	_daire = _yumusak_daire(8)
@@ -14,10 +15,14 @@ func _process(delta: float) -> void:
 	if cam == null:
 		return
 	if _shake > 0.05:
-		cam.offset = Vector2(randf_range(-_shake, _shake), randf_range(-_shake, _shake))
+		cam.offset = _taban + Vector2(randf_range(-_shake, _shake), randf_range(-_shake, _shake))
 		_shake = maxf(0.0, _shake - _shake_azalma * delta)
-	elif cam.offset != Vector2.ZERO:
-		cam.offset = cam.offset.lerp(Vector2.ZERO, 1.0 - exp(-40.0 * delta))
+	else:
+		cam.offset = cam.offset.lerp(_taban, 1.0 - exp(-30.0 * delta))
+
+## Sinematik kamera tabanı (diyalogda yukarı kaldırmak için)
+func kamera_taban(v: Vector2) -> void:
+	_taban = v
 
 ## Ekran sarsıntısı — miktar piksel, sure saniye
 func sars(miktar: float, sure: float = 0.25) -> void:

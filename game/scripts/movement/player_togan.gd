@@ -23,10 +23,13 @@ enum Durum { BOS, KOSU, ZIPLA, DUSUS, KACINMA, HAFIF_SALDIRI, AGIR_SALDIRI, PARR
 @export var girdi_tamponu: float = 0.14
 
 @export_group("Kaçınma")
-@export var kacinma_suresi: float = 0.35
+@export var kacinma_suresi: float = 0.35             # takla (çift Shift)
 @export var kacinma_hizi: float = 260.0
+@export var hizli_kacinma_suresi: float = 0.20       # hızlı kaykılma (tek Shift)
+@export var hizli_kacinma_hizi: float = 215.0
 @export var kacinma_dokunulmazlik_bas: float = 0.04
-@export var kacinma_dokunulmazlik_son: float = 0.20  # ~0.16s pencere
+@export var kacinma_dokunulmazlik_son: float = 0.18  # ~0.14s pencere
+@export var cift_tik_penceresi: float = 0.28         # çift Shift = takla
 
 @export_group("Parry")
 @export var parry_penceresi: float = 0.12
@@ -68,6 +71,8 @@ var _cekme_hedef: Vector2 = Vector2.ZERO
 var _cift_zipla_kullanildi: bool = false
 var _parry_bekleme: float = 0.0
 var girdi_kilitli: bool = false        # sinematik/diyalog sırasında kontrol kapalı
+var _son_kacin: float = -1.0           # çift-tık algısı için
+var _kacinma_roll: bool = false        # true=takla, false=hızlı kaykılma
 
 @onready var stats: CombatStats = $CombatStats
 @onready var hitbox: Hitbox = $Hitbox
@@ -145,7 +150,12 @@ func _sayaclar(delta: float) -> void:
 	elif Input.is_action_just_pressed("saldiri_agir"):
 		_girdi_tamponla("agir")
 	elif Input.is_action_just_pressed("kacin"):
-		_girdi_tamponla("kacin")
+		var simdi := Time.get_ticks_msec() / 1000.0
+		if simdi - _son_kacin < cift_tik_penceresi:
+			_girdi_tamponla("takla")    # çift Shift → takla (yuvarlanma)
+		else:
+			_girdi_tamponla("kaykil")   # tek Shift → hızlı kaykılma
+		_son_kacin = simdi
 	_girdi_tampon_sayac -= delta
 	if _girdi_tampon_sayac <= 0.0:
 		_girdi_tamponu_eylem = ""
@@ -277,9 +287,12 @@ func _eylem_dinle() -> void:
 		return
 	var eylem := _tamponu_tuket()
 	match eylem:
-		"kacin":
-			if is_on_floor():        # takla yalnızca yerde (havada değil)
-				_kacinma_basla()
+		"takla":
+			if is_on_floor():        # yalnızca yerde
+				_kacinma_basla(true)
+		"kaykil":
+			if is_on_floor():
+				_kacinma_basla(false)
 		"hafif":
 			_saldiri_basla(false)
 		"agir":
@@ -288,24 +301,30 @@ func _eylem_dinle() -> void:
 			if Input.is_action_just_pressed("parry") and _parry_bekleme <= 0.0:
 				_parry_basla()
 
-func _kacinma_basla() -> void:
+func _kacinma_basla(roll: bool = true) -> void:
+	_kacinma_roll = roll
 	_duruma_gec(Durum.KACINMA)
 	var eksen := _girdi_ekseni()
 	var k_yon: float = eksen if absf(eksen) > 0.01 else float(yon)
-	velocity.x = signf(k_yon) * kacinma_hizi
+	velocity.x = signf(k_yon) * (kacinma_hizi if roll else hizli_kacinma_hizi)
 	velocity.y = 0.0
-	Fx.toz(global_position, 0.8)
+	Fx.toz(global_position, 0.8 if roll else 0.5)
 
 func _kacinma_guncelle(delta: float) -> void:
+	var sure: float = kacinma_suresi if _kacinma_roll else hizli_kacinma_suresi
 	_dokunulmaz = _durum_sayac >= kacinma_dokunulmazlik_bas and _durum_sayac <= kacinma_dokunulmazlik_son
-	if _durum_sayac >= kacinma_suresi:
+	if _durum_sayac >= sure:
 		_dokunulmaz = false
-		# Kaçınma sonrası saldırı: tamponda vuruş varsa doğrudan bağlanır
+		# Kaçınma sonrası eylem: tamponda varsa doğrudan bağlanır
 		var e := _tamponu_tuket()
 		if e == "hafif":
 			_saldiri_basla(false)
 		elif e == "agir":
 			_saldiri_basla(true)
+		elif e == "takla":
+			_kacinma_basla(true)
+		elif e == "kaykil":
+			_kacinma_basla(false)
 		else:
 			_duruma_gec(Durum.BOS)
 
@@ -350,9 +369,9 @@ func _saldiri_guncelle(_delta: float) -> void:
 			_saldiri_basla(false)
 		elif e == "agir":
 			_saldiri_basla(true)
-		elif e == "kacin":
+		elif e == "kaykil" or e == "takla":
 			_kombo_adim = 0
-			_kacinma_basla()
+			_kacinma_basla(e == "takla")
 		else:
 			_kombo_adim = 0
 			_duruma_gec(Durum.BOS)

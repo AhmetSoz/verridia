@@ -22,8 +22,10 @@ func _ready() -> void:
 	_acilis_sinematigi.call_deferred()
 
 func _konus(d, satirlar: Array, otomatik: bool = true) -> void:
+	Fx.kamera_taban(Vector2(0, 52))   # karakterler kutunun üstünde kalsın
 	d.goster(satirlar, otomatik)
 	await d.bitti
+	Fx.kamera_taban(Vector2.ZERO)
 
 func _prompt_kur() -> void:
 	var cl := CanvasLayer.new()
