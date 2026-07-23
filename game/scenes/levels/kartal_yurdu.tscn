@@ -49,13 +49,12 @@ color = Color(0.04, 0.04, 0.09, 1)
 layer = -10
 
 [node name="Uzak" type="ParallaxLayer" parent="ArkaPlan"]
-motion_scale = Vector2(0.2, 0.1)
-motion_mirroring = Vector2(768, 0)
+motion_scale = Vector2(0.06, 0.03)
 
 [node name="Gorsel" type="Sprite2D" parent="ArkaPlan/Uzak"]
 texture_filter = 3
 centered = false
-position = Vector2(0, -72)
+position = Vector2(-64, -72)
 texture = ExtResource("3")
 
 [node name="ToprakDolgu" type="ColorRect" parent="."]
@@ -106,6 +105,41 @@ texture = ExtResource("23")
 centered = false
 position = Vector2(1000, 303)
 texture = ExtResource("23")
+
+[node name="Suslemeler" type="Node2D" parent="."]
+
+[node name="Kaya1" type="Sprite2D" parent="Suslemeler"]
+centered = false
+position = Vector2(140, 316)
+texture = ExtResource("13")
+
+[node name="Cali3" type="Sprite2D" parent="Suslemeler"]
+centered = false
+position = Vector2(690, 303)
+scale = Vector2(0.8, 0.8)
+texture = ExtResource("23")
+
+[node name="Kaya2" type="Sprite2D" parent="Suslemeler"]
+centered = false
+position = Vector2(860, 316)
+texture = ExtResource("13")
+
+[node name="Cali4" type="Sprite2D" parent="Suslemeler"]
+centered = false
+position = Vector2(1180, 300)
+scale = Vector2(1.1, 1.1)
+texture = ExtResource("23")
+
+[node name="Kaya3" type="Sprite2D" parent="Suslemeler"]
+centered = false
+position = Vector2(1380, 316)
+texture = ExtResource("13")
+
+[node name="Kaya4" type="Sprite2D" parent="Suslemeler"]
+centered = false
+position = Vector2(560, 320)
+scale = Vector2(0.7, 0.7)
+texture = ExtResource("13")
 
 [node name="Kukla" parent="." instance=ExtResource("6")]
 position = Vector2(250, 340)
