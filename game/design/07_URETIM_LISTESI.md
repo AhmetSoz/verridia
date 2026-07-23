@@ -46,7 +46,9 @@ Gözlemci, çevik, köşede okur. Deniz/güverte.
 
 ## B. YARDIMCILAR / NPC'LER
 - [x] **Burkut** (Togan'ın kartalı) — tünek
-- [ ] **Kaya** (Togan'ın süt ablası, usta; tahta kılıç) — idle, yürü, tahta-kılıç saldırısı, **kayarak atılma** (skil). PROMT: aşağıda, ilk parti.
+- [ ] **Kaya** (Togan'ın süt ablası, usta) — idle, yürü, tahta-kılıç saldırısı, **kayarak atılma** (skil). PROMT ilk parti.
+  - Not: **tahta kılıç** yalnızca TALİM sahnesi için (Bölüm 1 doğru). İleride başka sahnede
+    dövüşürse aynı gövdeyle **gerçek eğri kılıç (step palası)** varyantı üretilir (küçük ek).
 - [ ] **Tek-Göz Orkhon** (Temüjin'in mentoru) — idle, yürü, konuşma
 - [ ] **Korgan** (obabaşı/lider) — idle, yürü
 - [ ] **Tek-Kol Roric** (korsan, kancalı) — idle, konuşma
