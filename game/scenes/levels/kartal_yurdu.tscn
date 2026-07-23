@@ -1,7 +1,8 @@
-[gd_scene load_steps=19 format=3]
+[gd_scene load_steps=21 format=3]
 
 [ext_resource type="Script" path="res://scripts/levels/kartal_yurdu.gd" id="1"]
 [ext_resource type="PackedScene" path="res://scenes/characters/burkut.tscn" id="7"]
+[ext_resource type="PackedScene" path="res://scenes/characters/kaya.tscn" id="8"]
 [ext_resource type="PackedScene" path="res://scenes/characters/togan.tscn" id="2"]
 [ext_resource type="Texture2D" path="res://asset/arkaplanlar/bozkir_arka.png" id="3"]
 [ext_resource type="PackedScene" path="res://scenes/ui/hud.tscn" id="4"]
@@ -194,6 +195,9 @@ shape = SubResource("plat_b")
 
 [node name="Togan" parent="." instance=ExtResource("2")]
 position = Vector2(206, 320)
+
+[node name="Kaya" parent="." instance=ExtResource("8")]
+position = Vector2(560, 320)
 
 [node name="Vinyet" type="CanvasLayer" parent="."]
 layer = 5

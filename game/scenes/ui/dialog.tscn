@@ -26,17 +26,25 @@ offset_right = 614.0
 offset_bottom = 346.0
 color = Color(0.07, 0.07, 0.1, 0.96)
 
+[node name="Portre" type="TextureRect" parent="Kutu"]
+offset_left = 28.0
+offset_top = 256.0
+offset_right = 96.0
+offset_bottom = 344.0
+expand_mode = 1
+stretch_mode = 5
+
 [node name="Ad" type="Label" parent="Kutu"]
-offset_left = 34.0
+offset_left = 104.0
 offset_top = 282.0
-offset_right = 320.0
+offset_right = 400.0
 offset_bottom = 296.0
 theme_override_colors/font_color = Color(0.91, 0.77, 0.36, 1)
 theme_override_font_sizes/font_size = 11
 text = "Ad"
 
 [node name="Metin" type="Label" parent="Kutu"]
-offset_left = 34.0
+offset_left = 104.0
 offset_top = 300.0
 offset_right = 606.0
 offset_bottom = 342.0

@@ -6,10 +6,16 @@ signal bitti
 
 const HIZ := 44.0  # karakter/sn
 
+const PORTRELER := {
+	"Togan": preload("res://asset/portre/togan_k.png"),
+	"Kaya": preload("res://asset/portre/kaya_k.png"),
+}
+
 @onready var kutu: Control = $Kutu
 @onready var ad_lbl: Label = $Kutu/Ad
 @onready var metin_lbl: Label = $Kutu/Metin
 @onready var devam_lbl: Label = $Kutu/Devam
+@onready var portre: TextureRect = $Kutu/Portre
 
 var _satirlar: Array = []
 var _idx: int = -1
@@ -37,6 +43,9 @@ func _sonraki() -> void:
 	var s: Array = _satirlar[_idx]
 	ad_lbl.text = s[0]
 	ad_lbl.visible = s[0] != ""
+	var por = PORTRELER.get(s[0], null)
+	portre.texture = por
+	portre.visible = por != null
 	_tam = s[1]
 	_gorunen = 0.0
 	_bekle = 0.0
