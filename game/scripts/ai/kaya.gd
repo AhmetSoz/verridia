@@ -54,6 +54,12 @@ func yuru_git(x: float) -> void:
 func bak(y: int) -> void:
 	yon = y
 
+## Oyuncu Kaya'nın darbesini savuşturunca (parry) — Kaya geri savrulur (talim tepkisi)
+func parrylendi() -> void:
+	hitbox.kapat()
+	velocity.x = -yon * 130.0
+	_oynat("kayis")
+
 func kayarak_atil(mesafe: float) -> void:
 	# Kaya'nın kişisel skili: kayarak geri/ileri atılma
 	_mesgul = true

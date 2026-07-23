@@ -71,7 +71,7 @@ func _input(event: InputEvent) -> void:
 	# Otomatik modda bile Space/E ile hızlandırılabilir (basınca hemen tamamla/ilerle)
 	if not kutu.visible:
 		return
-	if event.is_action_pressed("etkilesim") or event.is_action_pressed("zipla") or event.is_action_pressed("saldiri_hafif"):
+	if event.is_action_pressed("etkilesim"):   # yalnızca E — Space zıplama kalsın
 		if _gorunen < float(_tam.length()):
 			_gorunen = float(_tam.length())     # anında tamamla
 			metin_lbl.text = _tam
