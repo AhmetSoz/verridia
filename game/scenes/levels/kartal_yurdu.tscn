@@ -1,21 +1,33 @@
-[gd_scene load_steps=21 format=3]
+[gd_scene format=3 uid="uid://dlewce5q6t8mg"]
 
-[ext_resource type="Script" path="res://scripts/levels/kartal_yurdu.gd" id="1"]
+[ext_resource type="Script" uid="uid://dsw04vwhesvl7" path="res://scripts/levels/kartal_yurdu.gd" id="1"]
+[ext_resource type="PackedScene" path="res://scenes/characters/togan.tscn" id="2"]
+[ext_resource type="Texture2D" uid="uid://d2btayboap0rd" path="res://asset/arkaplanlar/bozkir_arka.png" id="3"]
+[ext_resource type="PackedScene" path="res://scenes/ui/hud.tscn" id="4"]
+[ext_resource type="Shader" uid="uid://bqkdjj6kschfe" path="res://shaders/vinyet.gdshader" id="5"]
+[ext_resource type="PackedScene" path="res://scenes/props/talim_kuklasi.tscn" id="6"]
 [ext_resource type="PackedScene" path="res://scenes/characters/burkut.tscn" id="7"]
 [ext_resource type="PackedScene" path="res://scenes/characters/kaya.tscn" id="8"]
-[ext_resource type="PackedScene" path="res://scenes/characters/togan.tscn" id="2"]
-[ext_resource type="Texture2D" path="res://asset/arkaplanlar/bozkir_arka.png" id="3"]
-[ext_resource type="PackedScene" path="res://scenes/ui/hud.tscn" id="4"]
-[ext_resource type="Shader" path="res://shaders/vinyet.gdshader" id="5"]
-[ext_resource type="PackedScene" path="res://scenes/props/talim_kuklasi.tscn" id="6"]
-[ext_resource type="Texture2D" path="res://asset/cevre/zemin_genis.png" id="10"]
-[ext_resource type="Texture2D" path="res://asset/cevre/zemin_buyuk.png" id="11"]
-[ext_resource type="Texture2D" path="res://asset/cevre/zemin_orta.png" id="12"]
-[ext_resource type="Texture2D" path="res://asset/cevre/zemin_kaya.png" id="13"]
-[ext_resource type="Texture2D" path="res://asset/cevre/cadir.png" id="20"]
-[ext_resource type="Texture2D" path="res://asset/cevre/kazik.png" id="21"]
-[ext_resource type="Texture2D" path="res://asset/cevre/ates.png" id="22"]
-[ext_resource type="Texture2D" path="res://asset/cevre/calilar.png" id="23"]
+[ext_resource type="Texture2D" uid="uid://mrdu22ib4n60" path="res://asset/cevre/zemin_genis.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://bdb2q17iugjrh" path="res://asset/cevre/zemin_buyuk.png" id="11"]
+[ext_resource type="Texture2D" uid="uid://cgd2bcv84byk" path="res://asset/cevre/zemin_orta.png" id="12"]
+[ext_resource type="Texture2D" uid="uid://bkve25opnnw2m" path="res://asset/cevre/zemin_kaya.png" id="13"]
+[ext_resource type="Texture2D" uid="uid://damrvwx0qowcx" path="res://asset/cevre/cadir.png" id="20"]
+[ext_resource type="Texture2D" uid="uid://ckenft3l1a0qw" path="res://asset/cevre/kazik.png" id="21"]
+[ext_resource type="Texture2D" uid="uid://bul0ek0vu2705" path="res://asset/cevre/ates.png" id="22"]
+[ext_resource type="Texture2D" uid="uid://b3witqt5xu823" path="res://asset/cevre/calilar.png" id="23"]
+
+[sub_resource type="RectangleShape2D" id="zemin_col"]
+size = Vector2(1720, 60)
+
+[sub_resource type="RectangleShape2D" id="plat_b"]
+size = Vector2(96, 33)
+
+[sub_resource type="RectangleShape2D" id="plat_o"]
+size = Vector2(56, 25)
+
+[sub_resource type="RectangleShape2D" id="plat_k"]
+size = Vector2(22, 16)
 
 [sub_resource type="ShaderMaterial" id="vin"]
 shader = ExtResource("5")
@@ -23,206 +35,193 @@ shader_parameter/guc = 0.42
 shader_parameter/ic = 0.35
 shader_parameter/dis = 0.95
 
-[sub_resource type="RectangleShape2D" id="zemin_col"]
-size = Vector2(1720, 60)
-
-[sub_resource type="RectangleShape2D" id="plat_b"]
-size = Vector2(90, 44)
-
-[sub_resource type="RectangleShape2D" id="plat_o"]
-size = Vector2(56, 34)
-
-[sub_resource type="RectangleShape2D" id="plat_k"]
-size = Vector2(22, 24)
-
-[node name="KartalYurdu" type="Node2D"]
+[node name="KartalYurdu" type="Node2D" unique_id=77548973]
 script = ExtResource("1")
 
-[node name="DipZemin" type="CanvasLayer" parent="."]
+[node name="DipZemin" type="CanvasLayer" parent="." unique_id=2074630632]
 layer = -20
 
-[node name="Renk" type="ColorRect" parent="DipZemin"]
+[node name="Renk" type="ColorRect" parent="DipZemin" unique_id=262908976]
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 color = Color(0.04, 0.04, 0.09, 1)
 
-[node name="ArkaPlan" type="ParallaxBackground" parent="."]
+[node name="ArkaPlan" type="ParallaxBackground" parent="." unique_id=590936018]
 layer = -10
 
-[node name="Uzak" type="ParallaxLayer" parent="ArkaPlan"]
+[node name="Uzak" type="ParallaxLayer" parent="ArkaPlan" unique_id=1157319048]
 motion_scale = Vector2(0.06, 0.03)
 
-[node name="Gorsel" type="Sprite2D" parent="ArkaPlan/Uzak"]
+[node name="Gorsel" type="Sprite2D" parent="ArkaPlan/Uzak" unique_id=1086410396]
 texture_filter = 3
-centered = false
 position = Vector2(-64, -72)
 texture = ExtResource("3")
+centered = false
 
-[node name="ToprakDolgu" type="ColorRect" parent="."]
+[node name="ToprakDolgu" type="ColorRect" parent="." unique_id=1444230189]
 z_index = -5
 offset_left = -400.0
 offset_top = 372.0
 offset_right = 2000.0
 offset_bottom = 720.0
-color = Color(0.082, 0.066, 0.05, 1)
 mouse_filter = 2
+color = Color(0.082, 0.066, 0.05, 1)
 
-[node name="Zemin" type="StaticBody2D" parent="."]
+[node name="Zemin" type="StaticBody2D" parent="." unique_id=246216011]
 
-[node name="ZeminGorsel" type="Sprite2D" parent="Zemin"]
+[node name="ZeminGorsel" type="Sprite2D" parent="Zemin" unique_id=553699621]
 texture_repeat = 2
+position = Vector2(-100, 330)
 texture = ExtResource("10")
 centered = false
 region_enabled = true
 region_rect = Rect2(0, 0, 1720, 51)
-position = Vector2(-100, 330)
 
-[node name="ZeminC" type="CollisionShape2D" parent="Zemin"]
+[node name="ZeminC" type="CollisionShape2D" parent="Zemin" unique_id=427210872]
 position = Vector2(760, 370)
 shape = SubResource("zemin_col")
 
-[node name="Cadir" type="Sprite2D" parent="."]
-centered = false
+[node name="Cadir" type="Sprite2D" parent="." unique_id=173165812]
 position = Vector2(-16, 207)
 scale = Vector2(1.9, 1.9)
 texture = ExtResource("20")
-
-[node name="Kazik" type="Sprite2D" parent="."]
 centered = false
+
+[node name="Kazik" type="Sprite2D" parent="." unique_id=2626551]
 position = Vector2(330, 266)
 texture = ExtResource("21")
+centered = false
 
-[node name="Burkut" parent="." instance=ExtResource("7")]
+[node name="Burkut" parent="." unique_id=1910642162 instance=ExtResource("7")]
 position = Vector2(345, 245)
 
-[node name="Ates" type="Sprite2D" parent="."]
-centered = false
+[node name="Ates" type="Sprite2D" parent="." unique_id=2031428653]
 position = Vector2(408, 322)
 texture = ExtResource("22")
-
-[node name="Calilar1" type="Sprite2D" parent="."]
 centered = false
+
+[node name="Calilar1" type="Sprite2D" parent="." unique_id=1211764320]
 position = Vector2(500, 303)
 texture = ExtResource("23")
-
-[node name="Calilar2" type="Sprite2D" parent="."]
 centered = false
+
+[node name="Calilar2" type="Sprite2D" parent="." unique_id=1435066443]
 position = Vector2(1000, 303)
 texture = ExtResource("23")
-
-[node name="Suslemeler" type="Node2D" parent="."]
-
-[node name="Kaya1" type="Sprite2D" parent="Suslemeler"]
 centered = false
+
+[node name="Suslemeler" type="Node2D" parent="." unique_id=1120866016]
+
+[node name="Kaya1" type="Sprite2D" parent="Suslemeler" unique_id=1428718421]
 position = Vector2(140, 316)
 texture = ExtResource("13")
-
-[node name="Cali3" type="Sprite2D" parent="Suslemeler"]
 centered = false
+
+[node name="Cali3" type="Sprite2D" parent="Suslemeler" unique_id=79937365]
 position = Vector2(690, 303)
 scale = Vector2(0.8, 0.8)
 texture = ExtResource("23")
-
-[node name="Kaya2" type="Sprite2D" parent="Suslemeler"]
 centered = false
+
+[node name="Kaya2" type="Sprite2D" parent="Suslemeler" unique_id=1524789820]
 position = Vector2(860, 316)
 texture = ExtResource("13")
-
-[node name="Cali4" type="Sprite2D" parent="Suslemeler"]
 centered = false
+
+[node name="Cali4" type="Sprite2D" parent="Suslemeler" unique_id=1251548260]
 position = Vector2(1180, 300)
 scale = Vector2(1.1, 1.1)
 texture = ExtResource("23")
-
-[node name="Kaya3" type="Sprite2D" parent="Suslemeler"]
 centered = false
+
+[node name="Kaya3" type="Sprite2D" parent="Suslemeler" unique_id=1221743193]
 position = Vector2(1380, 316)
 texture = ExtResource("13")
-
-[node name="Kaya4" type="Sprite2D" parent="Suslemeler"]
 centered = false
+
+[node name="Kaya4" type="Sprite2D" parent="Suslemeler" unique_id=510925200]
 position = Vector2(560, 320)
 scale = Vector2(0.7, 0.7)
 texture = ExtResource("13")
+centered = false
 
-[node name="Kukla" parent="." instance=ExtResource("6")]
+[node name="Kukla" parent="." unique_id=804741731 instance=ExtResource("6")]
 position = Vector2(250, 340)
 
-[node name="Platform1" type="StaticBody2D" parent="."]
+[node name="Platform1" type="StaticBody2D" parent="." unique_id=1066582666]
 
-[node name="G1" type="Sprite2D" parent="Platform1"]
-centered = false
+[node name="G1" type="Sprite2D" parent="Platform1" unique_id=377135623]
 position = Vector2(720, 250)
 texture = ExtResource("11")
+centered = false
 
-[node name="C1" type="CollisionShape2D" parent="Platform1"]
-position = Vector2(770, 284)
+[node name="C1" type="CollisionShape2D" parent="Platform1" unique_id=713716686]
+position = Vector2(770, 276)
 shape = SubResource("plat_b")
 one_way_collision = true
 
-[node name="Platform2" type="StaticBody2D" parent="."]
+[node name="Platform2" type="StaticBody2D" parent="." unique_id=1980432854]
 
-[node name="G2" type="Sprite2D" parent="Platform2"]
-centered = false
+[node name="G2" type="Sprite2D" parent="Platform2" unique_id=558887533]
 position = Vector2(900, 205)
 texture = ExtResource("12")
+centered = false
 
-[node name="C2" type="CollisionShape2D" parent="Platform2"]
-position = Vector2(930, 234)
+[node name="C2" type="CollisionShape2D" parent="Platform2" unique_id=1791462706]
+position = Vector2(930, 226.5)
 shape = SubResource("plat_o")
 one_way_collision = true
 
-[node name="Platform3" type="StaticBody2D" parent="."]
+[node name="Platform3" type="StaticBody2D" parent="." unique_id=303489148]
 
-[node name="G3" type="Sprite2D" parent="Platform3"]
-centered = false
+[node name="G3" type="Sprite2D" parent="Platform3" unique_id=1424170221]
 position = Vector2(1070, 160)
 texture = ExtResource("13")
+centered = false
 
-[node name="C3" type="CollisionShape2D" parent="Platform3"]
-position = Vector2(1082, 183)
+[node name="C3" type="CollisionShape2D" parent="Platform3" unique_id=1419632868]
+position = Vector2(1082, 176)
 shape = SubResource("plat_k")
 one_way_collision = true
 
-[node name="Platform4" type="StaticBody2D" parent="."]
+[node name="Platform4" type="StaticBody2D" parent="." unique_id=538703537]
 
-[node name="G4" type="Sprite2D" parent="Platform4"]
-centered = false
+[node name="G4" type="Sprite2D" parent="Platform4" unique_id=141751419]
 position = Vector2(1230, 240)
 texture = ExtResource("11")
+centered = false
 
-[node name="C4" type="CollisionShape2D" parent="Platform4"]
-position = Vector2(1280, 274)
+[node name="C4" type="CollisionShape2D" parent="Platform4" unique_id=1788165785]
+position = Vector2(1280, 267.5)
 shape = SubResource("plat_b")
 one_way_collision = true
 
-[node name="Togan" parent="." instance=ExtResource("2")]
+[node name="Togan" parent="." unique_id=1509951518 instance=ExtResource("2")]
 position = Vector2(206, 320)
 
-[node name="Kaya" parent="." instance=ExtResource("8")]
+[node name="Kaya" parent="." unique_id=1335822781 instance=ExtResource("8")]
 position = Vector2(560, 320)
 
-[node name="Vinyet" type="CanvasLayer" parent="."]
+[node name="Vinyet" type="CanvasLayer" parent="." unique_id=1555637444]
 layer = 5
 
-[node name="Perde" type="ColorRect" parent="Vinyet"]
+[node name="Perde" type="ColorRect" parent="Vinyet" unique_id=823335792]
 material = SubResource("vin")
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 mouse_filter = 2
-color = Color(1, 1, 1, 1)
 
-[node name="HUD" parent="." instance=ExtResource("4")]
+[node name="HUD" parent="." unique_id=605745948 instance=ExtResource("4")]
 
-[node name="Ipucu" type="CanvasLayer" parent="."]
+[node name="Ipucu" type="CanvasLayer" parent="." unique_id=990846498]
 
-[node name="Etiket" type="Label" parent="Ipucu"]
+[node name="Etiket" type="Label" parent="Ipucu" unique_id=1867459213]
 offset_left = 8.0
 offset_top = 338.0
 offset_right = 632.0
 offset_bottom = 356.0
-theme_override_font_sizes/font_size = 8
 theme_override_colors/font_color = Color(0.75, 0.72, 0.6, 0.65)
+theme_override_font_sizes/font_size = 8
 text = "Kartal-Yurdu · Talim: kuklaya J/K ile vur · A/D yürü · Space çift zıpla · Shift takla"
