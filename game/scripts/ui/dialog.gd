@@ -9,6 +9,9 @@ const HIZ := 44.0  # karakter/sn
 const PORTRELER := {
 	"Togan": preload("res://asset/portre/togan_k.png"),
 	"Kaya": preload("res://asset/portre/kaya_k.png"),
+	"Anya Ana": preload("res://asset/portre/anya_k.png"),
+	"Börü": preload("res://asset/portre/boru_k.png"),
+	"Ozan": preload("res://asset/portre/ozan_k.png"),
 }
 
 @onready var kutu: Control = $Kutu

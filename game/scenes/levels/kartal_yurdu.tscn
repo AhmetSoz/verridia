@@ -8,6 +8,7 @@
 [ext_resource type="PackedScene" path="res://scenes/props/talim_kuklasi.tscn" id="6"]
 [ext_resource type="PackedScene" path="res://scenes/characters/burkut.tscn" id="7"]
 [ext_resource type="PackedScene" path="res://scenes/characters/kaya.tscn" id="8"]
+[ext_resource type="PackedScene" path="res://scenes/characters/anya.tscn" id="9"]
 [ext_resource type="Texture2D" uid="uid://mrdu22ib4n60" path="res://asset/cevre/zemin_genis.png" id="10"]
 [ext_resource type="Texture2D" uid="uid://bdb2q17iugjrh" path="res://asset/cevre/zemin_buyuk.png" id="11"]
 [ext_resource type="Texture2D" uid="uid://cgd2bcv84byk" path="res://asset/cevre/zemin_orta.png" id="12"]
@@ -202,6 +203,9 @@ position = Vector2(206, 320)
 
 [node name="Kaya" parent="." unique_id=1335822781 instance=ExtResource("8")]
 position = Vector2(560, 320)
+
+[node name="Anya" parent="." instance=ExtResource("9")]
+position = Vector2(505, 300)
 
 [node name="Vinyet" type="CanvasLayer" parent="." unique_id=1555637444]
 layer = 5
