@@ -305,8 +305,14 @@ func _kacinma_basla(roll: bool = true) -> void:
 	_kacinma_roll = roll
 	_duruma_gec(Durum.KACINMA)
 	var eksen := _girdi_ekseni()
-	var k_yon: float = eksen if absf(eksen) > 0.01 else float(yon)
-	velocity.x = signf(k_yon) * (kacinma_hizi if roll else hizli_kacinma_hizi)
+	var k_yon: float
+	if absf(eksen) > 0.01:
+		k_yon = signf(eksen)      # basılan yön: hem ileri hem geri
+	elif roll:
+		k_yon = float(yon)        # takla yönsüzse öne
+	else:
+		k_yon = float(-yon)       # hızlı kaykılma yönsüzse geri (kaçış)
+	velocity.x = k_yon * (kacinma_hizi if roll else hizli_kacinma_hizi)
 	velocity.y = 0.0
 	Fx.toz(global_position, 0.8 if roll else 0.5)
 
