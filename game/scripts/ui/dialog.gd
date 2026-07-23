@@ -1,0 +1,61 @@
+extends CanvasLayer
+## Diyalog kutusu — sinematik/hikâye satırları (Türkçe). Daktilo efekti + ilerletme.
+## Kullanım: dialog.goster([["Kaya","Demiri değil..."], ["Togan","..."]])  → bitti sinyali
+
+signal bitti
+
+const HIZ := 44.0  # karakter/sn
+
+@onready var kutu: Control = $Kutu
+@onready var ad_lbl: Label = $Kutu/Ad
+@onready var metin_lbl: Label = $Kutu/Metin
+@onready var devam_lbl: Label = $Kutu/Devam
+
+var _satirlar: Array = []
+var _idx: int = -1
+var _tam: String = ""
+var _gorunen: float = 0.0
+
+func _ready() -> void:
+	kutu.visible = false
+
+func goster(satirlar: Array) -> void:
+	_satirlar = satirlar
+	_idx = -1
+	kutu.visible = true
+	_sonraki()
+
+func _sonraki() -> void:
+	_idx += 1
+	if _idx >= _satirlar.size():
+		kutu.visible = false
+		bitti.emit()
+		return
+	var s: Array = _satirlar[_idx]
+	ad_lbl.text = s[0]
+	ad_lbl.visible = s[0] != ""
+	_tam = s[1]
+	_gorunen = 0.0
+	metin_lbl.text = ""
+	devam_lbl.visible = false
+
+func _process(delta: float) -> void:
+	if not kutu.visible:
+		return
+	if _gorunen < float(_tam.length()):
+		_gorunen = minf(_gorunen + HIZ * delta, float(_tam.length()))
+		metin_lbl.text = _tam.substr(0, int(_gorunen))
+		if _gorunen >= float(_tam.length()):
+			devam_lbl.visible = true
+
+func _input(event: InputEvent) -> void:
+	if not kutu.visible:
+		return
+	if event.is_action_pressed("etkilesim") or event.is_action_pressed("zipla") or event.is_action_pressed("saldiri_hafif"):
+		if _gorunen < float(_tam.length()):
+			_gorunen = float(_tam.length())     # anında tamamla
+			metin_lbl.text = _tam
+			devam_lbl.visible = true
+		else:
+			_sonraki()
+		get_viewport().set_input_as_handled()

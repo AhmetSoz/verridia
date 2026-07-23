@@ -1,0 +1,55 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/ui/dialog.gd" id="1"]
+
+[node name="Dialog" type="CanvasLayer"]
+layer = 20
+script = ExtResource("1")
+
+[node name="Kutu" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Cerceve" type="ColorRect" parent="Kutu"]
+offset_left = 24.0
+offset_top = 276.0
+offset_right = 616.0
+offset_bottom = 348.0
+color = Color(0.79, 0.64, 0.36, 0.9)
+
+[node name="Zemin" type="ColorRect" parent="Kutu"]
+offset_left = 26.0
+offset_top = 278.0
+offset_right = 614.0
+offset_bottom = 346.0
+color = Color(0.07, 0.07, 0.1, 0.96)
+
+[node name="Ad" type="Label" parent="Kutu"]
+offset_left = 34.0
+offset_top = 282.0
+offset_right = 320.0
+offset_bottom = 296.0
+theme_override_colors/font_color = Color(0.91, 0.77, 0.36, 1)
+theme_override_font_sizes/font_size = 11
+text = "Ad"
+
+[node name="Metin" type="Label" parent="Kutu"]
+offset_left = 34.0
+offset_top = 300.0
+offset_right = 606.0
+offset_bottom = 342.0
+theme_override_colors/font_color = Color(0.92, 0.9, 0.85, 1)
+theme_override_font_sizes/font_size = 9
+autowrap_mode = 3
+text = "Metin"
+
+[node name="Devam" type="Label" parent="Kutu"]
+offset_left = 566.0
+offset_top = 332.0
+offset_right = 610.0
+offset_bottom = 344.0
+theme_override_colors/font_color = Color(0.79, 0.64, 0.36, 0.8)
+theme_override_font_sizes/font_size = 8
+text = "▼ (E)"

@@ -2,6 +2,8 @@ extends Node2D
 ## Kartal-Yurdu — Birinci Kitap açılışı (Bölüm 1, TOGAN).
 ## Şafak öncesi bozkır talim alanı. Tek Göz gökte, Kızıl Sürü ufukta.
 
+const DIALOG := preload("res://scenes/ui/dialog.tscn")
+
 @onready var oyuncu: PlayerTogan = $Togan
 @onready var hud = $HUD
 
@@ -14,3 +16,20 @@ func _ready() -> void:
 	kam.limit_right = 1520
 	kam.limit_top = -140
 	kam.limit_bottom = 392
+	_acilis_sinematigi.call_deferred()
+
+func _acilis_sinematigi() -> void:
+	# Togan yere otursun, sonra kitap açılış satırları
+	oyuncu.girdi_kilitli = true
+	await get_tree().create_timer(0.7).timeout
+	var d = DIALOG.instantiate()
+	add_child(d)
+	d.bitti.connect(func(): oyuncu.girdi_kilitli = false)
+	d.goster([
+		["", "Kılıç üçüncü kez göğsüne gömülünce kuklanın tahta omurgası çatladı."],
+		["", "Aşağıda Kartal-Yurdu uyuyordu. Tek Göz kuzey sırtlarının üzerinde asılıydı."],
+		["Togan", "(Kaçıncı darbe olduğunu bilmiyorum. Şafak hâlâ ne kadar uzak?)"],
+		["Kaya", "Demiri değil, kendini yoruyorsun."],
+		["Kaya", "Bir kez de ete kemiğe karşı salla. Belki kime vurduğunu hatırlarsın."],
+		["", "Talimin vakti geldi. (Kuklaya J/K ile vur, A/D ile yürü.)"],
+	])

@@ -65,6 +65,7 @@ var _cekme_bas: Vector2 = Vector2.ZERO
 var _cekme_hedef: Vector2 = Vector2.ZERO
 var _cift_zipla_kullanildi: bool = false
 var _parry_bekleme: float = 0.0
+var girdi_kilitli: bool = false        # sinematik/diyalog sırasında kontrol kapalı
 
 @onready var stats: CombatStats = $CombatStats
 @onready var hitbox: Hitbox = $Hitbox
@@ -130,12 +131,14 @@ func _sayaclar(delta: float) -> void:
 		_coyote_sayac -= delta
 	if _parry_bekleme > 0.0:
 		_parry_bekleme -= delta
-	if Input.is_action_just_pressed("zipla"):
+	if not girdi_kilitli and Input.is_action_just_pressed("zipla"):
 		_zipla_tampon_sayac = zipla_tamponu
 	else:
 		_zipla_tampon_sayac -= delta
 	# Saldırı/kaçınma girdi tamponu — meşgulken basılan eylem hatırlanır
-	if Input.is_action_just_pressed("saldiri_hafif"):
+	if girdi_kilitli:
+		pass
+	elif Input.is_action_just_pressed("saldiri_hafif"):
 		_girdi_tamponla("hafif")
 	elif Input.is_action_just_pressed("saldiri_agir"):
 		_girdi_tamponla("agir")
@@ -165,6 +168,8 @@ func _yercekimi_uygula(delta: float) -> void:
 		velocity.y = minf(velocity.y + yercekimi * delta, dusme_azami)
 
 func _girdi_ekseni() -> float:
+	if girdi_kilitli:
+		return 0.0
 	return Input.get_axis("hareket_sol", "hareket_sag")
 
 func _yer_hareketi(delta: float) -> void:
@@ -266,6 +271,8 @@ func _cekme_guncelle(_delta: float) -> void:
 # ---------- Eylemler ----------
 
 func _eylem_dinle() -> void:
+	if girdi_kilitli:
+		return
 	var eylem := _tamponu_tuket()
 	match eylem:
 		"kacin":
