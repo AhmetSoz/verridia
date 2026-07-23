@@ -59,7 +59,8 @@ func _process(delta: float) -> void:
 			_sonraki()
 
 func _input(event: InputEvent) -> void:
-	if not kutu.visible or _otomatik:   # otomatik modda girdi yok (dizi gibi akar)
+	# Otomatik modda bile Space/E ile hızlandırılabilir (basınca hemen tamamla/ilerle)
+	if not kutu.visible:
 		return
 	if event.is_action_pressed("etkilesim") or event.is_action_pressed("zipla") or event.is_action_pressed("saldiri_hafif"):
 		if _gorunen < float(_tam.length()):

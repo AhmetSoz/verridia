@@ -23,11 +23,11 @@ func _acilis_sinematigi() -> void:
 	oyuncu.girdi_kilitli = true
 	oyuncu.yon = 1
 	await get_tree().create_timer(0.5).timeout
-	# Togan kuklaya üç kez vuruyor (kitabın açılışı)
+	# Togan kuklaya üç kez AĞIR vuruyor (kitabın açılışı — bütün ağırlığını verir)
 	for i in range(3):
 		if is_instance_valid(oyuncu):
-			oyuncu._saldiri_basla(false)
-		await get_tree().create_timer(0.55).timeout
+			oyuncu._saldiri_basla(true)
+		await get_tree().create_timer(0.75).timeout
 	var d = DIALOG.instantiate()
 	add_child(d)
 	d.bitti.connect(func(): oyuncu.girdi_kilitli = false)
