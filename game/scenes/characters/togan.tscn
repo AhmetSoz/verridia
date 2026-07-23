@@ -1,4 +1,4 @@
-[gd_scene load_steps=60 format=3]
+[gd_scene load_steps=76 format=3]
 
 [ext_resource type="Script" path="res://scripts/movement/player_togan.gd" id="1_pt"]
 [ext_resource type="Script" path="res://scripts/combat/combat_stats.gd" id="2_cs"]
@@ -51,6 +51,19 @@
 [ext_resource type="Texture2D" path="res://asset/togan/yay_1.png" id="101"]
 [ext_resource type="Texture2D" path="res://asset/togan/yay_2.png" id="102"]
 [ext_resource type="Texture2D" path="res://asset/togan/yay_3.png" id="103"]
+[ext_resource type="Texture2D" path="res://asset/togan/dusme_0.png" id="110"]
+[ext_resource type="Texture2D" path="res://asset/togan/dusme_1.png" id="111"]
+[ext_resource type="Texture2D" path="res://asset/togan/dusme_2.png" id="112"]
+[ext_resource type="Texture2D" path="res://asset/togan/dusme_3.png" id="113"]
+[ext_resource type="Texture2D" path="res://asset/togan/kaykilma_0.png" id="120"]
+[ext_resource type="Texture2D" path="res://asset/togan/kaykilma_1.png" id="121"]
+[ext_resource type="Texture2D" path="res://asset/togan/kaykilma_2.png" id="122"]
+[ext_resource type="Texture2D" path="res://asset/togan/kaykilma_3.png" id="123"]
+[ext_resource type="Texture2D" path="res://asset/togan/tutunma_0.png" id="130"]
+[ext_resource type="Texture2D" path="res://asset/togan/tutunma_1.png" id="131"]
+[ext_resource type="Texture2D" path="res://asset/togan/tutunma_2.png" id="132"]
+[ext_resource type="Texture2D" path="res://asset/togan/tutunma_3.png" id="133"]
+[ext_resource type="Texture2D" path="res://asset/togan/tutunma_4.png" id="134"]
 
 [sub_resource type="SpriteFrames" id="sf"]
 animations = [{
@@ -117,6 +130,21 @@ animations = [{
 "frames": [{"duration": 1.0, "texture": ExtResource("100")}, {"duration": 1.0, "texture": ExtResource("101")}, {"duration": 1.0, "texture": ExtResource("102")}, {"duration": 1.0, "texture": ExtResource("103")}],
 "loop": false,
 "name": &"yay",
+"speed": 12.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("110")}, {"duration": 1.0, "texture": ExtResource("111")}, {"duration": 1.0, "texture": ExtResource("112")}, {"duration": 1.0, "texture": ExtResource("113")}],
+"loop": false,
+"name": &"dusme",
+"speed": 9.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("120")}, {"duration": 1.0, "texture": ExtResource("121")}, {"duration": 1.0, "texture": ExtResource("122")}, {"duration": 1.0, "texture": ExtResource("123")}],
+"loop": false,
+"name": &"kaykilma",
+"speed": 18.0
+}, {
+"frames": [{"duration": 1.0, "texture": ExtResource("130")}, {"duration": 1.0, "texture": ExtResource("131")}, {"duration": 1.0, "texture": ExtResource("132")}, {"duration": 1.0, "texture": ExtResource("133")}, {"duration": 1.0, "texture": ExtResource("134")}],
+"loop": false,
+"name": &"tutunma",
 "speed": 12.0
 }]
 

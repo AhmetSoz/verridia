@@ -46,7 +46,7 @@ enum Durum { BOS, KOSU, ZIPLA, DUSUS, KACINMA, HAFIF_SALDIRI, AGIR_SALDIRI, PARR
 @export var cift_zipla_hizi: float = -300.0  # havada ikinci zıplama
 
 @export_group("Kenar Tutunma")
-@export var kenar_tutunma_acik: bool = false  # tutunma.png gelince true yap
+@export var kenar_tutunma_acik: bool = true   # tutunma karesi geldi → açık
 @export var cekme_suresi: float = 0.28      # kendini yukarı çekme süresi
 @export var el_yuksekligi: float = -26.0    # elin duvara değdiği yükseklik
 @export var bas_yuksekligi: float = -46.0   # başın üstü (boş olmalı = kenar var)
@@ -73,6 +73,7 @@ var _parry_bekleme: float = 0.0
 var girdi_kilitli: bool = false        # sinematik/diyalog sırasında kontrol kapalı
 var _son_kacin: float = -1.0           # çift-tık algısı için
 var _kacinma_roll: bool = false        # true=takla, false=hızlı kaykılma
+var _yikildi: bool = false             # talimde devrilme (sendeleme→dusme animasyonu)
 
 @onready var stats: CombatStats = $CombatStats
 @onready var hitbox: Hitbox = $Hitbox
@@ -438,6 +439,7 @@ func _hit_stop(sure: float) -> void:
 
 ## Sinematik: Togan yere düşürülür (talimde Kaya devirince)
 func sendele() -> void:
+	_yikildi = true
 	_duruma_gec(Durum.SENDELEME)
 	velocity.x = -yon * 150.0
 	velocity.y = -120.0
@@ -449,6 +451,8 @@ func _duruma_gec(yeni: Durum) -> void:
 		_dokunulmaz = false
 	if yeni != Durum.PARRY:
 		_parry_aktif = false
+	if yeni != Durum.SENDELEME:
+		_yikildi = false
 
 func _durum_gorseli() -> void:
 	## Animasyon seçimi + durum tonlaması (modulate).
@@ -466,7 +470,7 @@ func _durum_gorseli() -> void:
 		Durum.AGIR_SALDIRI:
 			anim = "agir"
 		Durum.KACINMA:
-			anim = "takla"                          # gerçek yuvarlanma karesi
+			anim = "takla" if _kacinma_roll else "kaykilma"
 			ton = Color(1, 1, 1, 0.6)               # dokunulmazlıkta hafif soluk
 		Durum.PARRY:
 			anim = "parry"
@@ -475,12 +479,12 @@ func _durum_gorseli() -> void:
 			anim = "hasar"
 			ton = Color(1.5, 0.55, 0.55)            # kırmızı flaş
 		Durum.SENDELEME:
-			anim = "sendeleme"                      # denge kırıldı — bitiriş fırsatı
-			ton = Color(0.9, 0.9, 1.3)
+			anim = "dusme" if _yikildi else "sendeleme"   # devrilme mi sadece denge mi
+			ton = Color(0.9, 0.9, 1.3) if not _yikildi else Color.WHITE
 		Durum.TUTUNMA:
-			anim = "dusus"                          # geçici; kayasız tutunma karesi gelince değişir
+			anim = "tutunma"
 		Durum.CEKME:
-			anim = "zipla"
+			anim = "tutunma"
 		Durum.OLU:
 			anim = "olum"
 			ton = Color(0.75, 0.72, 0.72)
