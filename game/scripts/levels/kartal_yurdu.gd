@@ -141,16 +141,18 @@ func _acilis_sinematigi() -> void:
 	await get_tree().create_timer(0.14).timeout
 	if is_instance_valid(kaya):
 		await kaya.kayarak_atil(1)
-	oyuncu.sendele()
+	oyuncu.sendele(true)   # Kaya "kalk" diyene kadar yerde kalır
 	Fx.toz(oyuncu.global_position, 1.1)
 	Fx.sars(3.0, 0.16)
-	await get_tree().create_timer(0.5).timeout
+	await get_tree().create_timer(0.6).timeout
 	await _konus(d, [
 		["Kaya", "Bu bir Sungur kılıcı değil. Sapını sen tutuyorsun, vuran öfken."],
 		["Kaya", "Ayağa kalk."],
 		["Togan", "Düştüm. Gördün."],
 		["Kaya", "Düşmek talimin sonu değil."],
 	])
+	oyuncu.kalk()   # şimdi ayağa kalkar
+	await get_tree().create_timer(0.3).timeout
 
 	# ÜÇ İZ
 	await _konus(d, [

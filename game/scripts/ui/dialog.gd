@@ -60,8 +60,8 @@ func _process(delta: float) -> void:
 		metin_lbl.text = _tam.substr(0, int(_gorunen))
 		if _gorunen >= float(_tam.length()):
 			devam_lbl.visible = not _otomatik
-			# otomatik modda okuma süresi kadar bekle
-			_bekle = 1.3 + 0.05 * float(_tam.length())
+			# otomatik modda okuma süresi kadar bekle (rahat okunacak tempo)
+			_bekle = 2.2 + 0.075 * float(_tam.length())
 	elif _otomatik:
 		_bekle -= delta
 		if _bekle <= 0.0:

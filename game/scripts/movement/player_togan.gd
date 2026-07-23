@@ -242,42 +242,52 @@ func _kenar_var() -> bool:
 	var eksen := _girdi_ekseni()
 	if absf(eksen) < 0.3 or signf(eksen) != float(yon):
 		return false
-	_el_ray.target_position = Vector2(16.0 * yon, 0.0)
-	_bas_ray.target_position = Vector2(16.0 * yon, 0.0)
+	_el_ray.target_position = Vector2(18.0 * yon, 0.0)
+	_bas_ray.target_position = Vector2(18.0 * yon, 0.0)
 	_el_ray.force_raycast_update()
 	_bas_ray.force_raycast_update()
 	# El hizasında duvar VAR, başın üstünde duvar YOK → tutulacak bir kenar var
 	return _el_ray.is_colliding() and not _bas_ray.is_colliding()
 
 func _tutun() -> void:
-	_duruma_gec(Durum.TUTUNMA)
+	# Kenar üstünü bul: duvar yüzünün hemen ilerisinden aşağı ışın
+	var duvar_x: float = _el_ray.get_collision_point().x
+	var uzay := get_world_2d().direct_space_state
+	var bas_dunya: Vector2 = global_position + Vector2(13.0 * yon, bas_yuksekligi - 4.0)
+	var sorgu := PhysicsRayQueryParameters2D.create(bas_dunya, bas_dunya + Vector2(0, 44), 1)
+	sorgu.exclude = [self]
+	var sonuc := uzay.intersect_ray(sorgu)
+	var kenar_ust: float = sonuc.position.y if sonuc else global_position.y + bas_yuksekligi + 6.0
+	# Asılı konum: eller kenarda, ayaklar sarkar
+	global_position = Vector2(duvar_x - 8.0 * yon, kenar_ust + 44.0)
 	velocity = Vector2.ZERO
-	Fx.toz(global_position + Vector2(10.0 * yon, -20.0), 0.5)
+	# Çıkış hedefi: ayaklar kenarın üstünde
+	_cekme_hedef = Vector2(duvar_x + 13.0 * yon, kenar_ust)
+	_duruma_gec(Durum.TUTUNMA)
+	Fx.toz(global_position + Vector2(6.0 * yon, -34.0), 0.4)
 
 func _tutunma_guncelle(_delta: float) -> void:
 	velocity = Vector2.ZERO
-	if Input.is_action_just_pressed("zipla"):
+	if Input.is_action_just_pressed("zipla"):        # Space/yukarı → kendini yukarı çek
 		_cekme_basla()
-	elif Input.is_action_just_pressed("egil"):
-		# Bırak: kısa süre tekrar tutunma kilidi
-		_tutun_bekleme = 0.35
-		velocity.y = 60.0
+	elif Input.is_action_just_pressed("egil"):       # S/aşağı → bırak, düş
+		_tutun_bekleme = 0.4
+		velocity.y = 80.0
 		_duruma_gec(Durum.DUSUS)
 
 func _cekme_basla() -> void:
-	_duruma_gec(Durum.CEKME)
 	_cekme_bas = global_position
-	# Kenarın üstüne: ileri + yukarı
-	_cekme_hedef = global_position + Vector2(18.0 * yon, -46.0)
+	_duruma_gec(Durum.CEKME)
+	gorsel.play("tutunma")
+	gorsel.set_frame_and_progress(1, 0.0)   # tırmanma kareleri
 
 func _cekme_guncelle(_delta: float) -> void:
 	var t: float = clampf(_durum_sayac / cekme_suresi, 0.0, 1.0)
-	# Yumuşak (önce yukarı, sonra ileri hissi)
 	var egri: float = 1.0 - pow(1.0 - t, 2.0)
 	global_position = _cekme_bas.lerp(_cekme_hedef, egri)
 	if t >= 1.0:
 		velocity = Vector2.ZERO
-		_tutun_bekleme = 0.15
+		_tutun_bekleme = 0.2
 		Fx.toz(global_position, 0.6)
 		_duruma_gec(Durum.BOS)
 
@@ -397,6 +407,8 @@ func _parry_guncelle(_delta: float) -> void:
 
 func _toparlanma_guncelle(_delta: float) -> void:
 	velocity.x = move_toward(velocity.x, 0.0, surtunme * 0.5 * get_physics_process_delta_time())
+	if _yerde_kal:
+		return   # kalk() çağrılana kadar yerde kalır (talim devrilmesi)
 	var sure := 0.30 if durum == Durum.HASAR else 0.90  # sendeleme daha uzun
 	if _durum_sayac >= sure:
 		_duruma_gec(Durum.BOS)
@@ -438,11 +450,19 @@ func _hit_stop(sure: float) -> void:
 # ---------- Durum yardımcıları ----------
 
 ## Sinematik: Togan yere düşürülür (talimde Kaya devirince)
-func sendele() -> void:
+var _yerde_kal: bool = false   # sinematik: kalk() denene kadar yerde kalır
+
+func sendele(kal: bool = false) -> void:
 	_yikildi = true
+	_yerde_kal = kal
 	_duruma_gec(Durum.SENDELEME)
 	velocity.x = -yon * 150.0
 	velocity.y = -120.0
+
+func kalk() -> void:
+	_yerde_kal = false
+	if durum == Durum.SENDELEME:
+		_duruma_gec(Durum.BOS)
 
 func _duruma_gec(yeni: Durum) -> void:
 	durum = yeni
@@ -490,7 +510,15 @@ func _durum_gorseli() -> void:
 			ton = Color(0.75, 0.72, 0.72)
 	gorsel.modulate = ton
 	gorsel.flip_h = yon < 0
-	if gorsel.animation != anim:
+	if durum == Durum.TUTUNMA:
+		# asılı: hang karesini tut (tırmanma CEKME'de oynar)
+		if gorsel.animation != "tutunma":
+			gorsel.play("tutunma")
+		gorsel.pause()
+		gorsel.frame = 0
+	elif durum == Durum.CEKME:
+		pass                       # _cekme_basla oynatıyor, dokunma
+	elif gorsel.animation != anim:
 		gorsel.play(anim)
 
 # ---------- Ek juice (gerçek kareler üstüne: iniş ezilmesi + kaçınma yatışı) ----------
