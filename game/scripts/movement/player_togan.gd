@@ -371,6 +371,24 @@ func _saldiri_basla(agir: bool) -> void:
 	else:
 		gorsel.play("hafif2" if _kombo_adim % 2 == 1 else "hafif")   # kombo: sağa-sola savurma
 	gorsel.set_frame_and_progress(0, 0.0)   # kombo için baştan
+	_kesik_ciz(agir)
+
+func _kesik_ciz(agir: bool) -> void:
+	## Kılıç izini KOD çiziyor — animasyondan bağımsız, her zaman tutarlı.
+	var merkez := global_position + Vector2(2.0 * yon, -34.0)
+	if agir:
+		# ağır: yukarıdan aşağı geniş yay, gecikmeli (yüklenme sonrası)
+		var gecikme := AGIR_EVRELER[0] * 0.75
+		get_tree().create_timer(gecikme).timeout.connect(func():
+			if is_instance_valid(self):
+				Fx.kesik(global_position + Vector2(4.0 * yon, -33.0), float(yon),
+					1.15, 0.22, -92.0, 44.0, Color(1.0, 0.90, 0.70)))
+	elif _kombo_adim % 2 == 1:
+		# kombo 2: alttan yukarı ters savurma
+		Fx.kesik(merkez, float(yon), 0.85, 0.15, 62.0, -48.0, Color(0.95, 0.98, 1.0))
+	else:
+		# kombo 1: üstten aşağı savurma
+		Fx.kesik(merkez, float(yon), 0.85, 0.15, -58.0, 52.0)
 
 func _saldiri_guncelle(_delta: float) -> void:
 	var evreler: Array = AGIR_EVRELER if _saldiri_agir_mi else HAFIF_EVRELER
