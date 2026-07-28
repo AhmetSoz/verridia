@@ -30,12 +30,12 @@ const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('c'),
 renderer.setPixelRatio(Math.min(devicePixelRatio, 1.5));
 renderer.setSize(innerWidth, innerHeight);
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
-renderer.toneMappingExposure = 1.5;
+renderer.toneMappingExposure = 1.08;
 renderer.shadowMap.enabled = true;
 renderer.shadowMap.type = THREE.PCFSoftShadowMap;
 
 const scene = new THREE.Scene();
-scene.fog = new THREE.FogExp2(0x6a5a78, 0.00085);
+scene.fog = new THREE.FogExp2(0x8c7d97, 0.00052);
 const camera = new THREE.PerspectiveCamera(46, innerWidth / innerHeight, 0.4, 8000);
 
 // ============ GÖKYÜZÜ ============
@@ -52,11 +52,11 @@ const gokMat = new THREE.ShaderMaterial({
   void main(){
     vec3 d=normalize(vW);
     float y=clamp(d.y*.5+.5,0.,1.);
-    vec3 gece=vec3(0.10,0.11,0.26), orta=vec3(0.32,0.26,0.46), ufuk=vec3(0.86,0.56,0.44);
+    vec3 gece=vec3(0.16,0.20,0.42), orta=vec3(0.46,0.40,0.60), ufuk=vec3(1.10,0.72,0.50);
     vec3 col = mix(ufuk, orta, smoothstep(0.0,0.30,y));
     col = mix(col, gece, smoothstep(0.28,0.85,y));
     // şafak bandı
-    col += vec3(1.05,0.58,0.30)*pow(max(0.,1.-abs(d.y)*7.),3.0)*0.95;
+    col += vec3(1.25,0.72,0.36)*pow(max(0.,1.-abs(d.y)*6.),2.6)*1.05;
     // bulut şeritleri
     float bl = fbm(vec2(atan(d.z,d.x)*2.4, d.y*7.0 - t*0.006));
     col = mix(col, col*1.28+vec3(0.10,0.07,0.12), smoothstep(0.52,0.86,bl)*smoothstep(0.02,0.35,d.y)*0.75);
@@ -95,24 +95,24 @@ const gokMat = new THREE.ShaderMaterial({
 scene.add(new THREE.Mesh(new THREE.SphereGeometry(4000, 64, 40), gokMat));
 
 // ============ IŞIK ============
-const ayIsik = new THREE.DirectionalLight(0xffd2a0, 3.6);
-ayIsik.position.set(-300, 150, -900);
+const ayIsik = new THREE.DirectionalLight(0xffdcb0, 5.2);
+ayIsik.position.set(-520, 240, -700);
 ayIsik.castShadow = true;
-ayIsik.shadow.mapSize.set(2048, 2048);
+ayIsik.shadow.mapSize.set(3072, 3072);
 const sc_ = ayIsik.shadow.camera;
-sc_.left = -260; sc_.right = 260; sc_.top = 260; sc_.bottom = -260; sc_.far = 1600;
+sc_.left = -420; sc_.right = 420; sc_.top = 420; sc_.bottom = -420; sc_.far = 2200;
 ayIsik.shadow.bias = -0.0009;
 scene.add(ayIsik);
-scene.add(new THREE.HemisphereLight(0x8ea0d8, 0x6a5436, 2.6));
-const dolgu = new THREE.DirectionalLight(0x9fb0e8, 1.1); dolgu.position.set(420, 260, 380); scene.add(dolgu);
+scene.add(new THREE.HemisphereLight(0x9fb6e8, 0x6d5a3c, 1.55));
+const dolgu = new THREE.DirectionalLight(0x8fa6e0, .55); dolgu.position.set(480, 300, 460); scene.add(dolgu);
 
 // ============ ARAZİ ============
 const BOY = 3400, SEG = 300;
 const tg = new THREE.PlaneGeometry(BOY, BOY, SEG, SEG); tg.rotateX(-Math.PI / 2);
 const P = tg.attributes.position, RENK = new Float32Array(P.count * 3);
 const C = {
-  saman: new THREE.Color(0x9c8347), kuru: new THREE.Color(0x6e5c33),
-  yesil: new THREE.Color(0x44502e), toprak: new THREE.Color(0x40301f),
+  saman: new THREE.Color(0xbda05a), kuru: new THREE.Color(0x8d7742),
+  yesil: new THREE.Color(0x5a6a3c), toprak: new THREE.Color(0x584429),
   kaya: new THREE.Color(0x55555c)
 };
 for (let i = 0; i < P.count; i++) {
@@ -186,13 +186,15 @@ scene.add(cim);
 // ============ ORDU ============
 function askerGeo() {
   const parts = [];
-  const g1 = new THREE.CylinderGeometry(.36, .5, 1.45, 6); g1.translate(0, 1.28, 0);          // gövde
-  const g2 = new THREE.SphereGeometry(.27, 8, 6); g2.translate(0, 2.22, 0);                    // baş
-  const g3 = new THREE.ConeGeometry(.30, .34, 7); g3.translate(0, 2.45, 0);                    // miğfer
-  const g4 = new THREE.CylinderGeometry(.045, .045, 3.9, 4); g4.translate(.46, 2.0, 0);        // mızrak
-  const g5 = new THREE.ConeGeometry(.09, .34, 4); g5.translate(.46, 4.05, 0);                  // uç
-  const g6 = new THREE.CylinderGeometry(.34, .34, .09, 8); g6.rotateX(Math.PI / 2); g6.translate(-.40, 1.34, 0); // kalkan
-  parts.push(g1, g2, g3, g4, g5, g6);
+  const bL = new THREE.CylinderGeometry(.115, .10, .92, 5); bL.translate(0, .46, .155);        // sol bacak
+  const bR = new THREE.CylinderGeometry(.115, .10, .92, 5); bR.translate(0, .46, -.155);        // sağ bacak
+  const g1 = new THREE.CylinderGeometry(.34, .44, 1.10, 6); g1.translate(0, 1.47, 0);           // gövde
+  const g2 = new THREE.SphereGeometry(.25, 8, 6); g2.translate(0, 2.20, 0);                     // baş
+  const g3 = new THREE.ConeGeometry(.28, .32, 7); g3.translate(0, 2.42, 0);                     // miğfer
+  const g4 = new THREE.CylinderGeometry(.042, .042, 3.7, 4); g4.translate(.44, 2.05, 0);        // mızrak
+  const g5 = new THREE.ConeGeometry(.085, .32, 4); g5.translate(.44, 4.05, 0);                  // uç
+  const g6 = new THREE.CylinderGeometry(.31, .31, .085, 8); g6.rotateX(Math.PI / 2); g6.translate(-.38, 1.52, 0); // kalkan
+  parts.push(bL, bR, g1, g2, g3, g4, g5, g6);
   return mergeGeometries(parts, false);
 }
 const ASKER = 4200;
@@ -202,8 +204,17 @@ askerMat.onBeforeCompile = s => {
   s.vertexShader = 'uniform float t;\n' + s.vertexShader.replace('#include <begin_vertex>', `
     #include <begin_vertex>
     float ph = float(gl_InstanceID)*1.7;
-    transformed.y += sin(t*3.2 + ph)*0.055;
-    transformed.x += sin(t*1.6 + ph)*0.02;`);
+    // BACAK YÜRÜYÜŞÜ: kalçanın altındaki köşeler adım atar (sol/sağ zıt faz)
+    float bacak = smoothstep(0.95, 0.05, position.y);
+    float taraf = position.z > 0.0 ? 0.0 : 3.14159;
+    float adim  = sin(t*5.4 + ph + taraf);
+    transformed.x += adim * bacak * 0.42;
+    transformed.y += (1.0 - abs(adim)) * bacak * 0.10;
+    // gövde salınımı + mızrak sallanması
+    float ust = smoothstep(0.9, 1.8, position.y);
+    transformed.y += sin(t*10.8 + ph)*0.045*ust;
+    transformed.x += sin(t*5.4 + ph)*0.05*ust;
+    transformed.z += sin(t*5.4 + ph + 1.2)*0.03*smoothstep(2.0,4.0,position.y);`);
 };
 const ordu = new THREE.InstancedMesh(askerGeo(), askerMat, ASKER);
 ordu.castShadow = true; ordu.receiveShadow = true;
@@ -323,8 +334,25 @@ function atliGeo() {
   return mergeGeometries(p,false);
 }
 const SUV = 320;
-const suvari = new THREE.InstancedMesh(atliGeo(),
-  new THREE.MeshStandardMaterial({ roughness:.8, metalness:.3 }), SUV);
+const suvMat = new THREE.MeshStandardMaterial({ roughness:.8, metalness:.3 });
+suvMat.onBeforeCompile = function(s){
+  s.uniforms.t = { value: 0 }; suvMat.userData.s = s;
+  s.vertexShader = 'uniform float t;\n' + s.vertexShader.replace('#include <begin_vertex>', `
+    #include <begin_vertex>
+    float ph = float(gl_InstanceID)*2.1;
+    // DÖRTNAL: ön/arka bacaklar zıt faz, x konumuna göre ayrılır
+    float bacak = smoothstep(1.55, 0.10, position.y);
+    float on = position.x > 0.0 ? 0.0 : 3.14159;
+    float g = sin(t*9.0 + ph + on);
+    transformed.x += g * bacak * 0.55;
+    transformed.y += max(0.0, sin(t*9.0 + ph + on + 1.57)) * bacak * 0.30;
+    // gövde+binici sıçraması
+    float ust = smoothstep(1.2, 2.4, position.y);
+    transformed.y += (0.5 + 0.5*sin(t*9.0 + ph))*0.22*ust;
+    // yele/kuyruk savrulması
+    transformed.z += sin(t*11.0 + ph)*0.07*smoothstep(2.0,3.6,position.y);`);
+};
+const suvari = new THREE.InstancedMesh(atliGeo(), suvMat, SUV);
 suvari.castShadow = true; scene.add(suvari);
 const suvData = [];
 for (let i=0;i<SUV;i++){
@@ -401,7 +429,7 @@ function kivilcimSac(x,y,z,n){
 // ============ POST ============
 const composer = new EffectComposer(renderer);
 composer.addPass(new RenderPass(scene, camera));
-composer.addPass(new UnrealBloomPass(new THREE.Vector2(innerWidth, innerHeight), .55, .8, .72));
+composer.addPass(new UnrealBloomPass(new THREE.Vector2(innerWidth, innerHeight), .26, .42, .86));
 composer.addPass(new ShaderPass({
   uniforms: { tDiffuse: { value: null }, vig: { value: .92 } },
   vertexShader: `varying vec2 vUv; void main(){ vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);} `,
@@ -410,9 +438,12 @@ composer.addPass(new ShaderPass({
     void main(){
       vec4 c = texture2D(tDiffuse, vUv);
       vec2 p = (vUv-0.5)*vec2(1.12,1.0);
-      c.rgb *= mix(1.0, smoothstep(0.86,0.16,length(p)), vig);   // vinyet
-      c.rgb = pow(c.rgb, vec3(0.96,0.99,1.05));                   // hafif soğuk grade
-      c.rgb += (fract(sin(dot(vUv,vec2(12.99,78.23)))*43758.5)-0.5)*0.012; // film grain
+      c.rgb *= mix(1.0, smoothstep(0.98,0.30,length(p)), vig);   // vinyet
+      // kontrast + hafif doygunluk (netlik hissi)
+      c.rgb = (c.rgb - 0.5) * 1.14 + 0.5;
+      float lum = dot(c.rgb, vec3(0.299,0.587,0.114));
+      c.rgb = mix(vec3(lum), c.rgb, 1.16);
+      c.rgb = pow(max(c.rgb, 0.0), vec3(0.98,1.00,1.04));
       gl_FragColor = c;
     }`
 }));
@@ -428,6 +459,36 @@ const t0 = performance.now();
 let zamanKaydir = 0;
 window.__setTime = function(v){ zamanKaydir = v - (performance.now()-t0)/1000; };
 let sarsinti = 0;
+// --- serbest kamera (oyun kontrolü) ---
+const kam = { serbest:false, hx:-10, hz:-160, yaw:0.15, pitch:0.42, mesafe:150 };
+const tus = {};
+addEventListener('keydown', function(e){
+  const k = e.key.toLowerCase();
+  tus[k] = true;
+  if (k === ' ') { kam.serbest = !kam.serbest; e.preventDefault(); mod(); }
+  if (k === 'r') { kam.hx=-10; kam.hz=-160; kam.yaw=0.15; kam.pitch=0.42; kam.mesafe=150; }
+});
+addEventListener('keyup', function(e){ tus[e.key.toLowerCase()] = false; });
+const cv = document.getElementById('c');
+let suru = false, sx = 0, sy = 0;
+cv.addEventListener('pointerdown', function(e){ suru = true; sx = e.clientX; sy = e.clientY;
+  kam.serbest = true; mod(); cv.setPointerCapture(e.pointerId); });
+cv.addEventListener('pointerup', function(e){ suru = false; });
+cv.addEventListener('pointermove', function(e){
+  if (!suru) return;
+  kam.yaw   -= (e.clientX - sx) * 0.005;
+  kam.pitch  = Math.max(0.10, Math.min(1.35, kam.pitch + (e.clientY - sy) * 0.004));
+  sx = e.clientX; sy = e.clientY;
+});
+cv.addEventListener('wheel', function(e){
+  kam.serbest = true; mod();
+  kam.mesafe = Math.max(22, Math.min(520, kam.mesafe * (1 + Math.sign(e.deltaY)*0.12)));
+  e.preventDefault();
+}, { passive:false });
+function mod(){
+  const el = document.getElementById('mod');
+  if (el) el.textContent = kam.serbest ? 'SERBEST KAMERA' : 'SİNEMATİK';
+}
 
 function tik(){
   const gt = (performance.now()-t0)/1000 + zamanKaydir;
@@ -435,6 +496,7 @@ function tik(){
   gokMat.uniforms.t.value = gt;
   const mats = [cimMat, askerMat, sancakMat];
   for(let i=0;i<mats.length;i++) if(mats[i].userData.s) mats[i].userData.s.uniforms.t.value = gt;
+  if(suvMat.userData.s) suvMat.userData.s.uniforms.t.value = gt;
   for(let i=0;i<atesler.length;i++) atesler[i].intensity = 5.2 + Math.sin(gt*7+i*2.1)*1.6;
 
   // SUVARI HUCUMU
@@ -498,14 +560,33 @@ function tik(){
   for(let i=0;i<TOZ;i++){ pa.array[i*3]+=tv[i]*.22; if(pa.array[i*3]>640) pa.array[i*3]-=1280; }
   pa.needsUpdate = true;
 
-  // SINEMATIK KAMERA
-  const yak = Math.max(0, Math.min(1, (sv-0.4)/5.6));
-  const cx = -150 + yak*95 + Math.sin(gt*.15)*9;
-  const cz = 40 - yak*175;
-  const cy = H(cx,cz) + 34 - yak*20;
-  camera.position.set(cx + (Math.random()-.5)*sarsinti*1.7, cy + (Math.random()-.5)*sarsinti*1.7, cz);
-  camera.lookAt(-6 + yak*14, 9, -232);
-  camera.fov = 46 - yak*10; camera.updateProjectionMatrix();
+  // KAMERA
+  if (kam.serbest) {
+    const ileri = new THREE.Vector3(Math.sin(kam.yaw), 0, Math.cos(kam.yaw));
+    const sag   = new THREE.Vector3(Math.cos(kam.yaw), 0, -Math.sin(kam.yaw));
+    const hiz = (tus['shift'] ? 3.0 : 1.0) * kam.mesafe * 0.012;
+    if (tus['w']) { kam.hx -= ileri.x*hiz; kam.hz -= ileri.z*hiz; }
+    if (tus['s']) { kam.hx += ileri.x*hiz; kam.hz += ileri.z*hiz; }
+    if (tus['a']) { kam.hx -= sag.x*hiz;   kam.hz -= sag.z*hiz; }
+    if (tus['d']) { kam.hx += sag.x*hiz;   kam.hz += sag.z*hiz; }
+    const hy = H(kam.hx, kam.hz) + 6;
+    const cy2 = hy + Math.sin(kam.pitch)*kam.mesafe;
+    const yatay = Math.cos(kam.pitch)*kam.mesafe;
+    camera.position.set(
+      kam.hx + Math.sin(kam.yaw)*yatay + (Math.random()-.5)*sarsinti*1.2,
+      cy2 + (Math.random()-.5)*sarsinti*1.2,
+      kam.hz + Math.cos(kam.yaw)*yatay);
+    camera.lookAt(kam.hx, hy, kam.hz);
+    if (camera.fov !== 48) { camera.fov = 48; camera.updateProjectionMatrix(); }
+  } else {
+    const yak = Math.max(0, Math.min(1, (sv-0.4)/5.6));
+    const cx = -150 + yak*95 + Math.sin(gt*.15)*9;
+    const cz = 40 - yak*175;
+    const cy = H(cx,cz) + 34 - yak*20;
+    camera.position.set(cx + (Math.random()-.5)*sarsinti*1.7, cy + (Math.random()-.5)*sarsinti*1.7, cz);
+    camera.lookAt(-6 + yak*14, 9, -232);
+    camera.fov = 46 - yak*10; camera.updateProjectionMatrix();
+  }
 
   composer.render();
   window.__hazir = true;
