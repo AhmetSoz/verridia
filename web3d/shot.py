@@ -7,7 +7,9 @@ o.add_argument("--use-angle=swiftshader"); o.add_argument("--enable-unsafe-swift
 o.add_argument("--disable-gpu-sandbox"); o.add_argument("--no-sandbox")
 d=webdriver.Chrome(options=o)
 d.get("http://localhost:8781/index.html")
-time.sleep(14)
+time.sleep(16)
+d.execute_script("window.__setTime(5.6)")
+time.sleep(2.5)
 logs=[]
 try:
     for e in d.get_log('browser'):

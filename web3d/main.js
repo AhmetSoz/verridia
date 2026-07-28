@@ -148,7 +148,7 @@ function bicakGeo() {
   g.computeVertexNormals();
   return g;
 }
-const CIM = 46000;
+const CIM = 32000;
 const cimMat = new THREE.MeshStandardMaterial({ color: 0xffffff, side: THREE.DoubleSide, roughness: 1 });
 cimMat.onBeforeCompile = s => {
   s.uniforms.t = { value: 0 }; cimMat.userData.s = s;
@@ -288,7 +288,7 @@ function noktaDoku(renk) {
   g.fillStyle = grd; g.fillRect(0, 0, 64, 64);
   const t = new THREE.CanvasTexture(c); t.needsUpdate = true; return t;
 }
-const TOZ = 3000, tozG = new THREE.BufferGeometry();
+const TOZ = 1400, tozG = new THREE.BufferGeometry();
 const tp = new Float32Array(TOZ * 3), tv = new Float32Array(TOZ);
 for (let i = 0; i < TOZ; i++) {
   const r = Math.random() * 620, a = Math.random() * Math.PI * 2;
@@ -298,10 +298,105 @@ for (let i = 0; i < TOZ; i++) {
 }
 tozG.setAttribute('position', new THREE.BufferAttribute(tp, 3));
 const toz = new THREE.Points(tozG, new THREE.PointsMaterial({
-  map: noktaDoku('rgba(226,205,160,'), size: 2.6, transparent: true, opacity: .45,
+  map: noktaDoku('rgba(226,205,160,'), size: 1.4, transparent: true, opacity: .22,
   depthWrite: false, blending: THREE.AdditiveBlending, sizeAttenuation: true
 }));
 scene.add(toz);
+
+
+// ============ SUVARI (at + binici) ============
+function atliGeo() {
+  const p = [];
+  const govde = new THREE.CylinderGeometry(.42,.38,2.3,6); govde.rotateZ(Math.PI/2); govde.translate(0,1.55,0);
+  const boyun = new THREE.CylinderGeometry(.20,.28,1.0,5); boyun.rotateZ(-0.6); boyun.translate(1.05,2.05,0);
+  const bas   = new THREE.BoxGeometry(.62,.30,.26); bas.translate(1.52,2.32,0);
+  const b1 = new THREE.CylinderGeometry(.11,.09,1.5,4); b1.translate(.75,.75,.26);
+  const b2 = new THREE.CylinderGeometry(.11,.09,1.5,4); b2.translate(.75,.75,-.26);
+  const b3 = new THREE.CylinderGeometry(.11,.09,1.5,4); b3.translate(-.72,.75,.26);
+  const b4 = new THREE.CylinderGeometry(.11,.09,1.5,4); b4.translate(-.72,.75,-.26);
+  const kuyruk = new THREE.ConeGeometry(.16,.9,4); kuyruk.rotateZ(2.5); kuyruk.translate(-1.35,1.7,0);
+  const rGov = new THREE.CylinderGeometry(.26,.34,1.05,6); rGov.translate(-.05,2.55,0);
+  const rBas = new THREE.SphereGeometry(.22,7,6); rBas.translate(-.05,3.22,0);
+  const rMig = new THREE.ConeGeometry(.25,.28,7); rMig.translate(-.05,3.42,0);
+  const kilic = new THREE.BoxGeometry(1.9,.10,.05); kilic.rotateZ(.5); kilic.translate(.75,3.25,.30);
+  p.push(govde,boyun,bas,b1,b2,b3,b4,kuyruk,rGov,rBas,rMig,kilic);
+  return mergeGeometries(p,false);
+}
+const SUV = 320;
+const suvari = new THREE.InstancedMesh(atliGeo(),
+  new THREE.MeshStandardMaterial({ roughness:.8, metalness:.3 }), SUV);
+suvari.castShadow = true; scene.add(suvari);
+const suvData = [];
+for (let i=0;i<SUV;i++){
+  const sol = i < SUV/2;
+  const taraf = i % 2 === 0 ? 1 : 0;
+  const kolon = Math.floor((i%(SUV/2))/9), sira = (i%(SUV/2))%9;
+  const bx = (sol?-1:1) * (145 + kolon*3.4) + (Math.random()-.5)*4;
+  const bz = (taraf? -40 : -420) + sira*3.6 + (Math.random()-.5)*4;
+  suvData.push({ x0:bx, z0:bz, yon: taraf?-1:1, hiz: 44+Math.random()*12,
+                 gec: Math.random()*.7, faz: Math.random()*6.28, taraf });
+}
+const suvR = new Float32Array(SUV*3);
+suvData.forEach(function(d,i){ const c = d.taraf?[.34,.44,.68]:[.60,.26,.18]; const q=.8+Math.random()*.35;
+  suvR[i*3]=c[0]*q; suvR[i*3+1]=c[1]*q; suvR[i*3+2]=c[2]*q; });
+suvari.instanceColor = new THREE.InstancedBufferAttribute(suvR,3);
+
+// ============ OK YAGMURU ============
+function okGeo(){
+  const g=[]; const sap=new THREE.CylinderGeometry(.035,.035,1.5,4); sap.rotateZ(Math.PI/2);
+  const uc=new THREE.ConeGeometry(.075,.30,4); uc.rotateZ(-Math.PI/2); uc.translate(.88,0,0);
+  const tuy=new THREE.BoxGeometry(.26,.20,.02); tuy.translate(-.70,0,0);
+  g.push(sap,uc,tuy); return mergeGeometries(g,false);
+}
+const OK = 1300;
+const oklar = new THREE.InstancedMesh(okGeo(),
+  new THREE.MeshStandardMaterial({ color:0xd8c79a, roughness:.85 }), OK);
+scene.add(oklar);
+const okData = [];
+for (let i=0;i<OK;i++){
+  const taraf = i < OK/2 ? 1 : 0;
+  const bx = (Math.random()-.5)*200, bz = taraf? -100 : -345;
+  const hx = bx + (Math.random()-.5)*150, hz = taraf? -325 : -75;
+  okData.push({ bx:bx, bz:bz, hx:hx, hz:hz, by: H(bx,bz)+3.4, hy: H(hx,hz)+.4,
+                t0: (taraf?0.2:1.7) + Math.random()*.9, sure: 2.5+Math.random()*.5, yuk: 48+Math.random()*26 });
+}
+
+// ============ SAVAS TOZU ============
+const STOZ = 1500, stG = new THREE.BufferGeometry();
+const stP = new Float32Array(STOZ*3), stD = [];
+for(let i=0;i<STOZ;i++){ stP[i*3+1]=-9999; stD.push({ omur:0,x:0,y:0,z:0,vx:0,vy:0,vz:0 }); }
+stG.setAttribute('position', new THREE.BufferAttribute(stP,3));
+const savasToz = new THREE.Points(stG, new THREE.PointsMaterial({
+  map: noktaDoku('rgba(216,193,152,'), size: 4.2, transparent:true, opacity:.19,
+  depthWrite:false, sizeAttenuation:true }));
+scene.add(savasToz);
+let stIdx = 0;
+function tozBirak(x,y,z,guc){
+  for(let n=0;n<guc;n++){
+    const d = stD[stIdx];
+    d.x=x+(Math.random()-.5)*3; d.y=y+Math.random()*1.2; d.z=z+(Math.random()-.5)*3;
+    d.vx=(Math.random()-.5)*.45; d.vy=.22+Math.random()*.55; d.vz=(Math.random()-.5)*.45;
+    d.omur = 2.6+Math.random()*2.4;
+    stIdx=(stIdx+1)%STOZ;
+  }
+}
+
+// ============ KIVILCIM ============
+const KIV=800, kvG=new THREE.BufferGeometry();
+const kvP=new Float32Array(KIV*3), kvD=[];
+for(let i=0;i<KIV;i++){ kvP[i*3+1]=-9999; kvD.push({omur:0,x:0,y:0,z:0,vx:0,vy:0,vz:0}); }
+kvG.setAttribute('position',new THREE.BufferAttribute(kvP,3));
+const kivilcim=new THREE.Points(kvG,new THREE.PointsMaterial({
+  map:noktaDoku('rgba(255,214,140,'), size:2.6, transparent:true, opacity:.95,
+  depthWrite:false, blending:THREE.AdditiveBlending, sizeAttenuation:true}));
+scene.add(kivilcim);
+let kvIdx=0;
+function kivilcimSac(x,y,z,n){
+  for(let i=0;i<n;i++){ const d=kvD[kvIdx];
+    d.x=x; d.y=y; d.z=z;
+    d.vx=(Math.random()-.5)*16; d.vy=2+Math.random()*10; d.vz=(Math.random()-.5)*16;
+    d.omur=.5+Math.random()*.7; kvIdx=(kvIdx+1)%KIV; }
+}
 
 // ============ POST ============
 const composer = new EffectComposer(renderer);
@@ -325,32 +420,99 @@ composer.addPass(new ShaderPass({
 // ============ HUD ============
 u1.textContent = say.suvari; u2.textContent = say.okcu; u3.textContent = say.mizrak;
 
-// ============ DÖNGÜ ============
+// ============ DONGU ============
+const M2=new THREE.Matrix4(), Q2=new THREE.Quaternion(), V2=new THREE.Vector3(), UP=new THREE.Vector3(0,1,0);
+const BIR=new THREE.Vector3(1,1,1), XEK=new THREE.Vector3(1,0,0);
+const DONGU = 13.0;
 const t0 = performance.now();
-function tik() {
-  const t = (performance.now() - t0) / 1000;
-  gokMat.uniforms.t.value = t;
-  for (const m of [cimMat, askerMat, sancakMat]) if (m.userData.s) m.userData.s.uniforms.t.value = t;
-  atesler.forEach((l, i) => l.intensity = 5.2 + Math.sin(t * 7 + i * 2.1) * 1.6 + Math.sin(t * 17 + i) * .8);
-  const pa = toz.geometry.attributes.position;
-  for (let i = 0; i < TOZ; i++) {
-    pa.array[i * 3] += tv[i] * .22;
-    pa.array[i * 3 + 1] += Math.sin(t + i) * .012;
-    if (pa.array[i * 3] > 640) pa.array[i * 3] -= 1280;
+let zamanKaydir = 0;
+window.__setTime = function(v){ zamanKaydir = v - (performance.now()-t0)/1000; };
+let sarsinti = 0;
+
+function tik(){
+  const gt = (performance.now()-t0)/1000 + zamanKaydir;
+  const sv = ((gt % DONGU) + DONGU) % DONGU;
+  gokMat.uniforms.t.value = gt;
+  const mats = [cimMat, askerMat, sancakMat];
+  for(let i=0;i<mats.length;i++) if(mats[i].userData.s) mats[i].userData.s.uniforms.t.value = gt;
+  for(let i=0;i<atesler.length;i++) atesler[i].intensity = 5.2 + Math.sin(gt*7+i*2.1)*1.6;
+
+  // SUVARI HUCUMU
+  for(let i=0;i<SUV;i++){
+    const d = suvData[i];
+    const ilerle = Math.max(0, sv - 1.1 - d.gec);
+    const mesafe = Math.min(ilerle * d.hiz, 310);
+    const x = d.x0 + (d.x0<0?1:-1) * mesafe * .58;
+    const z = d.z0 + d.yon * mesafe;
+    const y = H(x,z) + Math.abs(Math.sin(gt*8 + d.faz))*.42;
+    Q2.setFromAxisAngle(UP, d.yon>0 ? Math.PI*0.5 : -Math.PI*0.5);
+    M2.compose(V2.set(x,y,z), Q2, BIR);
+    suvari.setMatrixAt(i, M2);
+    if(ilerle>0 && mesafe<310 && Math.random()<.10) tozBirak(x, H(x,z), z, 1);
   }
+  suvari.instanceMatrix.needsUpdate = true;
+
+  // OK YAGMURU
+  for(let i=0;i<OK;i++){
+    const o = okData[i];
+    const u = (sv - o.t0)/o.sure;
+    if(u<0 || u>1){ M2.makeTranslation(0,-9999,0); oklar.setMatrixAt(i,M2); continue; }
+    const x = o.bx + (o.hx-o.bx)*u, z = o.bz + (o.hz-o.bz)*u;
+    const y = o.by + (o.hy-o.by)*u + o.yuk * Math.sin(Math.PI*u);
+    const u2 = Math.min(1, u+0.02);
+    const nx = o.bx+(o.hx-o.bx)*u2, nz = o.bz+(o.hz-o.bz)*u2;
+    const ny = o.by+(o.hy-o.by)*u2 + o.yuk*Math.sin(Math.PI*u2);
+    V2.set(nx-x, ny-y, nz-z).normalize();
+    Q2.setFromUnitVectors(XEK, V2);
+    M2.compose(new THREE.Vector3(x,y,z), Q2, BIR);
+    oklar.setMatrixAt(i,M2);
+    if(u>0.985 && Math.random()<.04) tozBirak(x,H(x,z),z,1);
+  }
+  oklar.instanceMatrix.needsUpdate = true;
+
+  // CARPISMA
+  if(sv>5.2 && sv<6.2){
+    for(let n=0;n<6;n++){
+      const x=(Math.random()-.5)*240, z=-215+(Math.random()-.5)*80;
+      kivilcimSac(x,H(x,z)+2.2,z,5); tozBirak(x,H(x,z),z,1);
+    }
+    sarsinti = 1.2;
+  }
+  sarsinti *= 0.94;
+
+  const sp = savasToz.geometry.attributes.position;
+  for(let i=0;i<STOZ;i++){ const d=stD[i];
+    if(d.omur>0){ d.omur-=1/60; d.x+=d.vx; d.y+=d.vy; d.z+=d.vz; d.vy*=.985; d.vx*=.99; d.vz*=.99;
+      sp.array[i*3]=d.x; sp.array[i*3+1]=d.y; sp.array[i*3+2]=d.z; }
+    else sp.array[i*3+1]=-9999; }
+  sp.needsUpdate = true;
+
+  const kp = kivilcim.geometry.attributes.position;
+  for(let i=0;i<KIV;i++){ const d=kvD[i];
+    if(d.omur>0){ d.omur-=1/60; d.x+=d.vx*.06; d.y+=d.vy*.06; d.z+=d.vz*.06; d.vy-=.55;
+      kp.array[i*3]=d.x; kp.array[i*3+1]=d.y; kp.array[i*3+2]=d.z; }
+    else kp.array[i*3+1]=-9999; }
+  kp.needsUpdate = true;
+
+  const pa = toz.geometry.attributes.position;
+  for(let i=0;i<TOZ;i++){ pa.array[i*3]+=tv[i]*.22; if(pa.array[i*3]>640) pa.array[i*3]-=1280; }
   pa.needsUpdate = true;
-  // sinematik kamera: alçak, cepheyi boydan boya tarar
-  const a = -0.30 + Math.sin(t * .04) * .40;
-  const R = 150;
-  const cx = Math.sin(a) * R + 4, cz = Math.cos(a) * R + 95;
-  camera.position.set(cx, H(cx, cz) + 46 + Math.sin(t * .27) * 2.0, cz);
-  camera.lookAt(-8, 8, -260);
+
+  // SINEMATIK KAMERA
+  const yak = Math.max(0, Math.min(1, (sv-0.4)/5.6));
+  const cx = -150 + yak*95 + Math.sin(gt*.15)*9;
+  const cz = 40 - yak*175;
+  const cy = H(cx,cz) + 34 - yak*20;
+  camera.position.set(cx + (Math.random()-.5)*sarsinti*1.7, cy + (Math.random()-.5)*sarsinti*1.7, cz);
+  camera.lookAt(-6 + yak*14, 9, -232);
+  camera.fov = 46 - yak*10; camera.updateProjectionMatrix();
+
   composer.render();
   window.__hazir = true;
   requestAnimationFrame(tik);
 }
 tik();
-addEventListener('resize', () => {
-  camera.aspect = innerWidth / innerHeight; camera.updateProjectionMatrix();
-  renderer.setSize(innerWidth, innerHeight); composer.setSize(innerWidth, innerHeight);
+addEventListener('resize', function(){
+  camera.aspect=innerWidth/innerHeight; camera.updateProjectionMatrix();
+  renderer.setSize(innerWidth,innerHeight); composer.setSize(innerWidth,innerHeight);
 });
