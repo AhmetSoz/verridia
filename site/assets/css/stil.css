@@ -247,6 +247,19 @@ body.gecis-ilerledi .ustbar { opacity: 0; visibility: hidden; transform: transla
 .oku-btn:hover { color: #211609; background: linear-gradient(180deg, #dfc68d, #aa8041); border-color: #e5cd95; text-shadow: none; }
 .oku-btn:hover span { transform: translate(2px, -2px); }
 
+/* Oyna — Kızıl Hafta'nın kızılı; kitabın altınından ayrılsın */
+.oyna-btn {
+  border-color: rgba(176, 58, 58, .58);
+  color: #f0c3ac;
+  background: linear-gradient(180deg, rgba(122,36,32,.30), rgba(52,18,16,.18));
+}
+.oyna-btn:hover {
+  color: #1b0c0a;
+  background: linear-gradient(180deg, #e0a189, #b0483a);
+  border-color: #e8b49c;
+}
+.oyna-btn:hover span { transform: translate(2px, -1px) rotate(-8deg); }
+
 /* Scroll yolculuğunun yapısı */
 #deneyim { position: relative; min-height: 100svh; }
 .yolculuk { position: relative; height: 100svh; background: transparent; }
