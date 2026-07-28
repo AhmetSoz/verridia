@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Verridia — Bozkır Prototip</title>
+<style>
+  html,body{margin:0;height:100%;background:#05060c;overflow:hidden;font-family:Consolas,monospace}
+  #c{display:block;width:100%;height:100%}
+  #hud{position:fixed;inset:0;pointer-events:none;color:#e9dfc4}
+  .panel{position:absolute;background:rgba(8,9,14,.72);border:1px solid rgba(201,163,92,.45);
+         padding:10px 14px;letter-spacing:.08em}
+  #top{top:14px;left:14px;font-size:13px}
+  #top b{color:#e2b45c;letter-spacing:.18em}
+  #stat{top:14px;right:14px;font-size:11px;text-align:right;line-height:1.7}
+  #bot{bottom:14px;left:50%;transform:translateX(-50%);font-size:11px;opacity:.75}
+  .bar{height:5px;background:#2a1f16;margin-top:4px;width:150px}
+  .bar i{display:block;height:100%;background:linear-gradient(90deg,#c9a35c,#e2b45c)}
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="hud">
+  <div class="panel" id="top">
+    <b>VERRİDİA</b> · KIZIL HAFTA<br>
+    <span style="opacity:.7;font-size:11px">Kartal-Yurdu Cephesi — Bozkır</span>
+  </div>
+  <div class="panel" id="stat">
+    SÜVARİ <span id="u1">0</span><br>
+    OKÇU <span id="u2">0</span><br>
+    MIZRAK <span id="u3">0</span>
+    <div class="bar"><i id="mor" style="width:86%"></i></div>
+    <span style="font-size:10px;opacity:.7">ORDU DENGESİ</span>
+  </div>
+  <div class="panel" id="bot">Prosedürel arazi · çim · ordu · gökyüzü — HİÇBİR VARLIK DOSYASI YOK</div>
+</div>
+<script type="importmap">
+{"imports":{"three":"./node_modules/three/build/three.module.js",
+            "three/addons/":"./node_modules/three/examples/jsm/"}}
+</script>
+<script type="module" src="./main.js"></script>
+</body>
+</html>
