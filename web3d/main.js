@@ -504,10 +504,13 @@ function tik(){
     const d = suvData[i];
     const ilerle = Math.max(0, sv - 1.1 - d.gec);
     const mesafe = Math.min(ilerle * d.hiz, 310);
-    const x = d.x0 + (d.x0<0?1:-1) * mesafe * .58;
+    const yanYon = (d.x0<0?1:-1) * .58;
+    const x = d.x0 + yanYon * mesafe;
     const z = d.z0 + d.yon * mesafe;
     const y = H(x,z) + Math.abs(Math.sin(gt*8 + d.faz))*.42;
-    Q2.setFromAxisAngle(UP, d.yon>0 ? Math.PI*0.5 : -Math.PI*0.5);
+    // GERÇEK hareket yönüne bak: modelin burnu +X, yaw = atan2(dx, dz) - PI/2
+    const aci = Math.atan2(yanYon, d.yon) - Math.PI*0.5;
+    Q2.setFromAxisAngle(UP, aci);
     M2.compose(V2.set(x,y,z), Q2, BIR);
     suvari.setMatrixAt(i, M2);
     if(ilerle>0 && mesafe<310 && Math.random()<.10) tozBirak(x, H(x,z), z, 1);
