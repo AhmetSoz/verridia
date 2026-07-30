@@ -33,6 +33,7 @@
   #denge{background:linear-gradient(90deg,#2f5d86,#5fa3cf)}
   #kcan{background:linear-gradient(90deg,#7a6a2e,#c9a35c)}
 
+  #fps{position:absolute;left:18px;bottom:14px;font-size:10px;letter-spacing:.10em;color:#7f9ac0;text-shadow:0 1px 6px #000;opacity:.85}
   #gorev{position:absolute;left:50%;bottom:112px;transform:translateX(-50%);font-size:10.5px;
          letter-spacing:.16em;color:var(--altin);text-shadow:0 2px 14px #000;text-align:center}
   #kilitBilgi{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font-size:11.5px;
@@ -81,6 +82,7 @@
       <div class="barSat"><span>KAYA</span><div class="ray"><i id="kcan"></i></div></div>
     </div>
   </div>
+  <div id="fps"></div>
   <div id="gorev"></div>
   <div id="ipucu">E — konuş</div>
   <div id="kilitBilgi">Fareyi kilitlemek için <b>tıkla</b> · çıkmak için <b>Esc</b></div>
@@ -102,6 +104,8 @@
 </script>
 <script type="module" src="./bolum01.js"></script>
 <script>
+  window.__fpsEl = document.getElementById('fps');
+  addEventListener('keydown', function(e){ if(e.key==='F3'||e.key==='f3') __fpsEl.style.display = __fpsEl.style.display==='none' ? 'block' : 'none'; });
   (function(){ var p=document.getElementById('perde');
     var i=setInterval(function(){ if(window.__hazir){clearInterval(i); p.classList.add('git');} },120);
     setTimeout(function(){p.classList.add('git');},9000); })();
