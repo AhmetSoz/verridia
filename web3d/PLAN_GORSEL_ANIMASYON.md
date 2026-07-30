@@ -177,13 +177,25 @@ Her pas sonunda:
 
 | Sıra | İş | Durum |
 |---|---|---|
-| 1 | SSAO | 1. aşama |
-| 2 | Kinetik zincirli saldırı | 1. aşama |
-| 3 | Yaylı kamera | 1. aşama |
-| 4 | Hızlanma/yavaşlama | 1. aşama |
-| 5 | Sahne yoğunluğu | 1. aşama |
-| 6 | Aşınma/kir shader'ı | 2. aşama |
-| 7 | Pelerin zinciri | 3. aşama |
-| 8 | Göz kırpma / mikro hareket | 3. aşama |
-| 9 | Ayak IK | 3. aşama |
-| 10 | Kaya yapay zekâsı | 4. aşama |
+| 1 | SSAO | ✅ (A/B: %5.9 piksel) |
+| 2 | Kinetik zincirli saldırı | ✅ (kalça .38 → omuz .44 → bıçak .50) |
+| 3 | Yaylı kamera | ✅ |
+| 4 | Hızlanma/yavaşlama | ✅ |
+| 5 | Sahne yoğunluğu | ✅ |
+| 6 | Aşınma/kir + albedo shader'ı | ✅ |
+| 7 | Yakın alan zemin detayı | ✅ (dikişsiz kenar) |
+| 8 | Pelerin zinciri (3 segment) | ✅ |
+| 9 | Göz kırpma / bakış kaçırma | ✅ |
+| 10 | Ayak IK + arazi eğimi | ✅ (eğimde ayaklar farklı yükseklikte) |
+| 11 | Kaya düello YZ'si | ✅ (yaklaşma + savurma ölçüldü) |
+| 12 | SMAA / ortam haritası / DOF / ışık hiyerarşisi | ✅ |
+| 13 | Zırh + miğfer (lamel sistemi) | ✅ |
+| 14 | **Performans: statik birleştirme** | ✅ **1232 → 347 çizim** |
+| 15 | 3'lü kombo + bitirici, saplama, riposte | ✅ (zincir ölçüldü) |
+| 16 | Blok darbesi, yeni takla, ağır çekim, sinematik giriş | ✅ |
+
+## Sıradaki (henüz yapılmadı)
+- Duruş kırılması (posture break) ve ölümcül darbe animasyonu
+- Kaya'ya gerçek can/denge göstergesi ve ölüm
+- Bölüm 1'in kalan sahneleri: Anya Ana, Meclis Çadırı, Şafak, Ayrılış
+- At binme (Bozkır) ve Bölüm 2 (Temüjin POV)
