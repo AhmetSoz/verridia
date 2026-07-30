@@ -199,3 +199,72 @@ Her pas sonunda:
 - Kaya'ya gerçek can/denge göstergesi ve ölüm
 - Bölüm 1'in kalan sahneleri: Anya Ana, Meclis Çadırı, Şafak, Ayrılış
 - At binme (Bozkır) ve Bölüm 2 (Temüjin POV)
+
+---
+
+## 5. AŞAMA — Gökyüzü, Yansıma, Canlılık, Post Cila *(bu turda uygulanıyor)*
+
+**Teşhis:** Performans ve dövüş derinliği çözüldü ama kullanıcı hâlâ "yeterince iyi değil"
+diyor. Kalan üç açık: (1) gökyüzü tek katmanlı gürültüden ibaret, bulutlar "leke" gibi
+duruyor; (2) sahne hâlâ **cansız** — hiçbir NPC hareket etmiyor, sadece oyuncu ve Kaya var;
+(3) post-process paleti düz — sinematik lens karakteri (kromatik sapma, gerçek film eğrisi) yok.
+
+### 5.1 Gökyüzü shader'ı — domain-warp bulutlar + titreşen yıldızlar
+**Neden:** Mevcut bulut katmanı tek fbm örneklemesi; rüzgarla süzülen gerçek bulut
+yerine sabit bir gürültü deseni gibi okunuyor. Yıldızlar da sabit parlaklıkta — gerçek
+gece göğünde atmosferik titreşim (scintillation) vardır.
+
+**Nasıl:** Bulut fbm'i kendi türevine göre bükülüyor (domain warping) — `fb(p + fb(p)*k)`.
+Bu, düz gürültüyü girdaplı/organik bulut şekline çevirir. Yıldızlara `sin(t*hız+faz)`
+tabanlı titreşim ekleniyor. Ufuk gradyanına bir bant daha (üç yerine dört renk durağı)
+eklenip atmosferik derinlik artırılıyor. Ay halesi büyütülüp ikinci, çok daha soluk bir
+dış hale ekleniyor (gerçek ay halesi optik fiziği: iç keskin, dış çok yayılmış).
+Kitaptaki **Tek Göz** ve **Kızıl Sürü** takımyıldızları korunuyor, sadece daha net.
+
+**Ölçüt:** Bulutlar zamanla şekil değiştirmeli (statik döngü değil); ekran görüntüsü
+karşılaştırmasında önceki sürümden belirgin biçimde daha "derin" gökyüzü.
+
+### 5.2 Post-process cilası — kromatik sapma + filmik kontrast eğrisi
+**Neden:** Mevcut grade basit `(c-.03)*1.46` doğrusal kontrastı kullanıyor — gerçek
+sinema renk biçimlendirmesi S-eğrisi kullanır (gölgede yumuşak, orta tonda sert,
+en parlakta yumuşak). Kromatik sapma yoksa gerçek bir lens simülasyonu eksik kalır.
+
+**Nasıl:** Grade pasına ekran kenarına doğru artan kromatik sapma (R/B kanalları farklı
+UV'den örneklenir) ve `smoothstep` tabanlı filmik S-eğrisi ekleniyor. Maliyet: pas başına
+2 ekstra doku örneklemesi — mevcut 347 çizim çağrısını etkilemez (post-process zaten
+tam-ekran quad, tek çizim).
+
+**Ölçüt:** Ekran kenarındaki yüksek kontrastlı noktalarda (meşale alevi) hafif renk
+ayrışması görünmeli; ortadaki tonlar daha "sinematik" kontrastta olmalı.
+
+### 5.3 Sahne canlılığı — arka plan NPC'leri
+**Neden:** Referans görsellerdeki en can alıcı fark **insan hareketi**. Bizim sahnede
+sadece oyuncu ve Kaya var; geri kalan her şey donuk. Boş bir oba, ne kadar detaylı
+olursa olsun, terk edilmiş görünür.
+
+**Nasıl:** Ana ateşin çevresine 2 oturan çoban figürü (nefes alma + ateşi karıştırma
+animasyonu, basit prosedürel poz — tam İnsan iskeleti değil, düşük maliyetli), bir
+ayakta nöbetçi (periyodik baş çevirme). Bunlar **STATIK havuzuna dahil edilmez**
+(hareketli oldukları için), ama sayıca az (3 figür × ~6 mesh ≈ 18 çizim çağrısı) —
+mevcut 347 bütçesinin yanında önemsiz.
+
+**Ölçüt:** Ateşin yanında en az bir figür her zaman hareket etmeli; performans
+göstergesinde çizim çağrısı artışı 25'i geçmemeli.
+
+### 5.4 Islak zemin yansıması — ortam haritası ince ayarı
+**Neden:** Zemindeki `envMapIntensity` puddle'ların ne kadar ayna gibi göründüğünü
+belirliyor; şu an gökyüzü baskın, meşale yansımaları soluk kalıyor.
+
+**Nasıl:** Zemin malzemesinin `envMapIntensity`'si artırılıyor, küp kamera çözünürlüğü
+128→192'ye çıkarılıyor (performans bütçesi bunu kaldırıyor), tazelenme aralığı
+1.6 sn → 1.2 sn'ye indiriliyor (dövüş sırasında meşale ışığı daha duyarlı yansır).
+
+**Ölçüt:** Su birikintisinde meşale alevinin turuncu rengi görünür olmalı, sadece
+gökyüzünün soğuk tonu değil.
+
+| Sıra | İş | Durum |
+|---|---|---|
+| 17 | Gökyüzü: domain-warp bulut + titreşen yıldız + çift hale | 5. aşama |
+| 18 | Post: kromatik sapma + filmik S-eğrisi | 5. aşama |
+| 19 | Sahne canlılığı: 3 arka plan NPC'si | 5. aşama |
+| 20 | Islak zemin yansıma ince ayarı | 5. aşama |

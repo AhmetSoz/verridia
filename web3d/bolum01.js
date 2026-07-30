@@ -168,21 +168,37 @@ const gokMat = new THREE.ShaderMaterial({
   float n(vec2 p){ vec2 i=floor(p),f=fract(p); f=f*f*(3.-2.*f);
     return mix(mix(h(i),h(i+vec2(1,0)),f.x),mix(h(i+vec2(0,1)),h(i+vec2(1,1)),f.x),f.y); }
   float fb(vec2 p){ float s=0.,a=.5; for(int i=0;i<6;i++){s+=a*n(p);p*=2.03;a*=.5;} return s; }
+  // domain-warp: gurultuyu KENDI turevine gore bukup girdapli/organik bulut sekli uretir
+  float bulut(vec2 p){
+    vec2 w1 = vec2(fb(p+vec2(1.7,9.2)), fb(p+vec2(8.3,2.8)));
+    vec2 w2 = vec2(fb(p+4.0*w1+vec2(17.,5.2)), fb(p+4.0*w1+vec2(3.1,28.)));
+    return fb(p + 4.0*w2);
+  }
   void main(){
     vec3 d=normalize(vW); float y=clamp(d.y*.5+.5,0.,1.);
-    vec3 col=mix(vec3(0.62,0.40,0.35), vec3(0.22,0.21,0.38), smoothstep(0.0,0.27,y));
+    // ufuk: uc yerine DORT renk duragi — daha derin atmosferik gecis
+    vec3 col=mix(vec3(0.62,0.40,0.35), vec3(0.38,0.30,0.40), smoothstep(0.0,0.11,y));
+    col=mix(col, vec3(0.22,0.21,0.38), smoothstep(0.09,0.27,y));
     col=mix(col, vec3(0.09,0.11,0.26), smoothstep(0.25,0.84,y));
     col+=vec3(0.76,0.38,0.20)*pow(max(0.,1.-abs(d.y)*8.),3.)*0.62;
-    float bl=fb(vec2(atan(d.z,d.x)*2.2, d.y*6.5-t*0.004));
-    col=mix(col,col*1.26+vec3(0.07,0.05,0.10),smoothstep(0.55,0.88,bl)*smoothstep(0.03,0.36,d.y)*0.8);
+    float bl=bulut(vec2(atan(d.z,d.x)*2.2, d.y*6.5-t*0.004));
+    col=mix(col,col*1.28+vec3(0.08,0.06,0.11),smoothstep(0.52,0.86,bl)*smoothstep(0.03,0.36,d.y)*0.85);
+    // ikinci, daha ince ve hizli suzulen bulut katmani (paralaks hissi)
+    float bl2=bulut(vec2(atan(d.z,d.x)*3.6+11., d.y*9.0-t*0.011));
+    col=mix(col,col*1.14+vec3(0.04,0.03,0.06),smoothstep(0.60,0.90,bl2)*smoothstep(0.05,0.40,d.y)*0.5);
+    // yildizlar: atmosferik titresim (scintillation)
     vec2 sp=d.xz/max(0.10,abs(d.y)+0.30)*135.; vec2 ce=floor(sp);
     float dd=length(fract(sp)-vec2(h(ce+3.1),h(ce+7.7)));
-    col+=vec3(0.90,0.93,1.0)*smoothstep(0.986,1.0,h(ce))*smoothstep(0.22,0.0,dd)*1.6*smoothstep(-0.02,0.24,d.y);
+    float titrek = 0.72 + 0.28*sin(t*(1.3+h(ce+1.1)*2.6) + h(ce+9.9)*6.28);
+    col+=vec3(0.90,0.93,1.0)*smoothstep(0.986,1.0,h(ce))*smoothstep(0.22,0.0,dd)*1.6*titrek*smoothstep(-0.02,0.24,d.y);
     vec3 ks=normalize(vec3(0.70,0.20,-0.68)); float dk=max(0.,dot(d,ks));
-    col+=vec3(0.68,0.09,0.14)*pow(dk,22.)*(0.22+0.85*fb(d.xy*9.));
+    col+=vec3(0.68,0.09,0.14)*pow(dk,22.)*(0.22+0.85*bulut(d.xy*9.));
     col+=vec3(1.0,0.22,0.24)*smoothstep(0.975,1.0,h(ce+55.))*smoothstep(0.30,0.0,dd)*pow(dk,9.)*2.6;
     vec3 ay=normalize(vec3(-0.30,0.46,-0.84)); float da=dot(d,ay);
-    col+=vec3(0.40,0.45,0.72)*pow(max(0.,da),560.)*0.9;
+    // ay halesi: keskin ic + cok yayilmis soluk dis (gercek optik hale fizigi)
+    col+=vec3(0.42,0.47,0.74)*pow(max(0.,da),560.)*0.95;
+    col+=vec3(0.30,0.34,0.56)*pow(max(0.,da),34.)*0.20;
+    col+=vec3(0.20,0.24,0.42)*pow(max(0.,da),7.)*0.075;
     col=mix(col, vec3(0.90,0.92,0.99)*(0.86+0.14*n(d.xy*280.)), smoothstep(0.99920,0.99950,da));
     col=mix(col, vec3(0.07,0.10,0.25), smoothstep(0.999730,0.999820,da)*(1.-smoothstep(0.999875,0.999925,da))*0.92);
     col=mix(col, vec3(0.02,0.02,0.05), smoothstep(0.999875,0.999925,da)*0.85);
@@ -200,7 +216,7 @@ const pmrem = new THREE.PMREMGenerator(renderer);
 // ── SAHNEDEN ORTAM HARITASI: duz bir gradyan yansitmak her seyi plastik
 // gosteriyordu. CubeCamera ile sahnenin kendisini yakalayip PMREM'e ceviriyoruz;
 // boylece kilic ve su birikintileri GERCEK mesaleleri yansitiyor.
-const kupRT = new THREE.WebGLCubeRenderTarget(128, { type: THREE.HalfFloatType });
+const kupRT = new THREE.WebGLCubeRenderTarget(192, { type: THREE.HalfFloatType });
 const kupKam = new THREE.CubeCamera(.6, 700, kupRT);
 let kupSayac = 0, kupEski = null;
 function cevreYenile(x, y, z){
@@ -264,7 +280,7 @@ function araziRenk(x, z, out){
     tx.repeat.set(30,30); return tx; })();
   const m = new THREE.Mesh(g, new THREE.MeshStandardMaterial({vertexColors:true, roughness:1.0,
     normalMap:zn, normalScale:new THREE.Vector2(.55,.55), roughnessMap:isl, metalness:0,
-    envMapIntensity:.65 }));
+    envMapIntensity:1.35 }));
   m.receiveShadow = true; scene.add(m);
 }
 const cimMat = new THREE.MeshStandardMaterial({ color:0xffffff, side:THREE.DoubleSide, roughness:1 });
@@ -1614,6 +1630,54 @@ const mesaleler = [];
 const mIsik = [];
 for (let i=0;i<5;i++){ const L=new THREE.PointLight(0xff8434, 0, 18, 2.0); scene.add(L); mIsik.push(L); }
 
+// ═══ SAHNE CANLILIGI: arka plan figurleri ═══
+// Tam Insan iskeleti degil (yuzlerce kemik, dovus icin gerekli detay) — bunlar
+// sadece uzaktan "hayat var" hissi vermek icin. STATIK havuzuna GIRMEZ (hareketliler),
+// ama sayica az oldugu icin cizim cagrisi butcesini (347) etkilemez.
+const npcYunMat  = MAT(0x746550,.98,.03,D_KUMAS,2.2);
+const npcDeriMat = MAT(0x4a3a26,.94,.05,D_DERI,1.3);
+const npcTenMat  = MAT(0x8a6446,.82,.02,D_TEN,.8);
+function npcFigur(oturuyor){
+  const g = new THREE.Group();
+  const pel = new THREE.Group(); pel.position.y = oturuyor ? .30 : .92; g.add(pel);
+  const gov = uzuv(.135,.110,.42,0x746550,10,D_KUMAS,.10,1.3); gov.material=npcYunMat;
+  gov.position.y = .36; gov.scale.z = .84; pel.add(gov);
+  const bas = kure(.082,0x8a6446,1,1.06,1); bas.material=npcTenMat; bas.position.y=.55; pel.add(bas);
+  const kep = new THREE.Mesh(new THREE.ConeGeometry(.078,.09,10), npcDeriMat);
+  kep.position.y=.60; pel.add(kep);
+  // kollar: bir tanesi ates/degnek hareketi yapacak sekilde ayrilir
+  const kolSol = new THREE.Group(); kolSol.position.set(.135,.46,0); pel.add(kolSol);
+  kolSol.add(Object.assign(uzuv(.036,.028,.24,0x746550,7,D_KUMAS,.08,1.3),{material:npcYunMat}));
+  const kolSag = new THREE.Group(); kolSag.position.set(-.135,.46,0); pel.add(kolSag);
+  const onKol = new THREE.Group(); onKol.position.y = -.24; kolSag.add(onKol);
+  onKol.add(Object.assign(uzuv(.030,.024,.22,0x8a6446,7,D_TEN,.05,.8),{material:npcTenMat}));
+  let degnek = null;
+  if (oturuyor) {
+    for (const s of [-1,1]) { const bac = uzuv(.048,.038,.34,0x4a3a26,8,D_DERI,.06,1.2);
+      bac.material = npcDeriMat; bac.position.set(.06*s,-.02,.14); bac.rotation.x = -1.15;
+      pel.add(bac); }
+    degnek = uzuv(.014,.008,.42,0x3a2a18,6); degnek.position.y=-.42; onKol.add(degnek);
+    degnek.rotation.x = .3;
+  } else {
+    for (const s of [-1,1]) { const bac = uzuv(.052,.040,.46,0x4a3a26,8,D_DERI,.06,1.2);
+      bac.material = npcDeriMat; bac.position.set(.06*s,-.46,0); pel.add(bac); }
+  }
+  g.traverse(o => { if (o.isMesh) { o.castShadow = true; o.receiveShadow = true; } });
+  g.userData.pel = pel; g.userData.kolSag = kolSag; g.userData.onKol = onKol;
+  g.userData.bas = bas; g.userData.faz = Math.random()*6.28;
+  return g;
+}
+const npcler = [];
+{
+  const cx=13, cz=9;                                                // ana ates konumu
+  const c1 = npcFigur(true); c1.position.set(cx-1.35, H(cx-1.35,cz+.55), cz+.55);
+  c1.rotation.y = 2.1; scene.add(c1); npcler.push({ g:c1, tip:'otur' });
+  const c2 = npcFigur(true); c2.position.set(cx+.35, H(cx+.35,cz-1.45), cz-1.45);
+  c2.rotation.y = -.9; scene.add(c2); npcler.push({ g:c2, tip:'otur' });
+  const c3 = npcFigur(false); c3.position.set(-3.4, H(-3.4,-13.6), -13.6);
+  c3.rotation.y = .6; scene.add(c3); npcler.push({ g:c3, tip:'nobet' });
+}
+
 // ═══════════ STATIK GEOMETRI BIRLESTIRME ═══════════
 // 1232 cizim cagrisi vardi; bunun ~800'u hic hareket etmeyen esyalardan geliyordu.
 // Ayni malzemeyi paylasan her sey tek bir geometriye kaynatilir.
@@ -1918,16 +1982,26 @@ const huzmePass = new ShaderPass({
 composer.addPass(huzmePass);
 
 const gradePass = new ShaderPass({
-  uniforms:{ tDiffuse:{value:null}, vig:{value:1}, doy:{value:.66}, t:{value:0} },
+  uniforms:{ tDiffuse:{value:null}, vig:{value:1}, doy:{value:.66}, t:{value:0}, ka:{value:.0021} },
   vertexShader:`varying vec2 vUv; void main(){vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
-  fragmentShader:`uniform sampler2D tDiffuse; uniform float vig, doy, t; varying vec2 vUv;
-    void main(){ vec4 c=texture2D(tDiffuse,vUv); vec2 p=(vUv-.5)*vec2(1.10,1.);
+  fragmentShader:`uniform sampler2D tDiffuse; uniform float vig, doy, t, ka; varying vec2 vUv;
+    void main(){ vec2 p=(vUv-.5)*vec2(1.10,1.);
+      // KROMATİK SAPMA: kenara gittikçe artan lens ayrışması (R/B farklı UV'den okunur)
+      float kk = dot(p,p) * ka;
+      vec2 yonR = p * kk, yonB = p * kk * 1.6;
+      vec4 c; c.r = texture2D(tDiffuse, vUv - yonR).r;
+      c.g = texture2D(tDiffuse, vUv).g;
+      c.b = texture2D(tDiffuse, vUv + yonB).b;
+      c.a = 1.0;
       // ELDEN RING GRADE: gölgeler soğuk-mavi, ışıklar sıcak-kehribar, doygunluk düşük
       float l = dot(c.rgb, vec3(.299,.587,.114));
       c.rgb = mix(vec3(l), c.rgb, doy);
       c.rgb += vec3(-0.016, 0.002, 0.042) * (1.0 - smoothstep(0.0, 0.46, l));   // gölge mavisi
       c.rgb += vec3( 0.062, 0.026,-0.030) * smoothstep(0.34, 1.0, l);           // ışık kehribarı
+      // FILMIK S-EGRI: golgede yumusak, orta tonda sert, en parlakta yumusak
       c.rgb = clamp((c.rgb - .030) * 1.46, 0.0, 4.0);
+      vec3 x = clamp(c.rgb, 0.0, 1.6);
+      c.rgb = x*x*(3.0 - 2.0*x*0.62);                                          // hafif S-egri
       c.rgb *= mix(1., smoothstep(1.22,.40,length(p)), vig);                     // güçlü vinyet
       float grain = fract(sin(dot(vUv*vec2(1.0,1.0)+t, vec2(12.9898,78.233)))*43758.5453);
       c.rgb += (grain-0.5)*0.016;
@@ -2205,7 +2279,7 @@ function tik(){
   ZEMIN_TABAN.value = H(togan.kok.position.x, togan.kok.position.z);
   // ortam haritasi ~1.6 s'de bir tazelenir (her kare cok pahali olurdu)
   kupSayac -= dt;
-  if (kupSayac <= 0) { kupSayac = 1.6;
+  if (kupSayac <= 0) { kupSayac = 1.2;
     cevreYenile(togan.kok.position.x, togan.kok.position.y + 2.2, togan.kok.position.z); }
   { const nx = Math.round(togan.kok.position.x/DET_KILIT)*DET_KILIT;
     const nz = Math.round(togan.kok.position.z/DET_KILIT)*DET_KILIT;
@@ -2326,6 +2400,21 @@ function tik(){
   const ka = -.25 + Math.max(0, Math.sin(saat*1.1))*.35;
   burkut.kL.rotation.z = -ka; burkut.kR.rotation.z = ka;
   atesI.intensity = 2.9 + Math.sin(saat*9)*.7 + Math.sin(saat*23)*.35;
+  // ── arka plan figurleri: nefes, ates karistirma, nobetci bas cevirme
+  for (const npc of npcler) {
+    const f = saat*1.0 + npc.g.userData.faz, u = npc.g.userData;
+    u.pel.position.y += 0;
+    u.pel.rotation.x = Math.sin(f*1.7)*.018;                        // nefes
+    if (npc.tip === 'otur') {
+      const kir = Math.max(0, Math.sin(f*.55));                      // ara sira ates karistirma
+      u.kolSag.rotation.x = -.30 - kir*.55;
+      u.onKol.rotation.x = -.20 - kir*.85;
+      u.bas.rotation.x = Math.sin(f*.9)*.06 - kir*.10;
+    } else {
+      u.bas.rotation.y = Math.sin(f*.28)*.85;                        // nobetci cevre tarar
+      u.bas.rotation.x = Math.sin(f*.9+2.)*.04;
+    }
+  }
   // ── mesaleler: alev titresimi + en yakin 5'ine isik ata
   {
     for (let i=0;i<mesaleler.length;i++) {
