@@ -30,11 +30,11 @@ const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('c'),
 renderer.setPixelRatio(Math.min(devicePixelRatio, 1.6));
 renderer.setSize(innerWidth, innerHeight);
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
-renderer.toneMappingExposure = 2.30;
+renderer.toneMappingExposure = 2.18;
 renderer.shadowMap.enabled = true; renderer.shadowMap.type = THREE.PCFSoftShadowMap;
 
 const scene = new THREE.Scene();
-scene.fog = new THREE.FogExp2(0x333752, 0.0031);   // ağır, yakın atmosfer
+scene.fog = new THREE.FogExp2(0x1c2130, 0.0052);   // ağır, yakın atmosfer
 const camera = new THREE.PerspectiveCamera(52, innerWidth/innerHeight, 0.1, 4000);
 
 // ── kenar ışığı (siluet ayrışsın)
@@ -161,24 +161,24 @@ scene.add(new THREE.Mesh(new THREE.SphereGeometry(2200, 56, 36), gokMat));
 }
 
 // ═══════════ 4. IŞIK ═══════════
-const ayI = new THREE.DirectionalLight(0xc8d4f8, 4.4);
+const ayI = new THREE.DirectionalLight(0xbecbf2, 3.2);
 ayI.position.set(-90, 110, -150); ayI.castShadow = true;
 ayI.shadow.mapSize.set(3072, 3072);
 Object.assign(ayI.shadow.camera, { left:-34, right:34, top:34, bottom:-34, far:320 });
 ayI.shadow.bias = -0.00035; ayI.shadow.normalBias = 0.014; ayI.shadow.radius = 2.2;
 scene.add(ayI, ayI.target);
-scene.add(new THREE.HemisphereLight(0x9dacd0, 0x6d5f47, 4.4));
+scene.add(new THREE.HemisphereLight(0x6c7893, 0x4e4230, 2.9));
 // yüzü karanlıkta bırakmayan yumuşak dolgu (gölge yok, ucuz)
 const dolgu = new THREE.DirectionalLight(0x8e9ec6, 1.15); dolgu.position.set(80, 42, 110); scene.add(dolgu);
 // karakter anahtarı: kameranın omzundan gelen, sadece yakını aydınlatan sinematik ışık
-const karIsik = new THREE.PointLight(0xc2cdea, 34, 12, 2.0); scene.add(karIsik);
+const karIsik = new THREE.PointLight(0xb9c4e2, 22, 11, 2.0); scene.add(karIsik);
 
 // ═══════════ 5. ARAZİ + ÇİM ═══════════
 {
   const g = new THREE.PlaneGeometry(900, 900, 200, 200); g.rotateX(-Math.PI/2);
   const P = g.attributes.position, R = new Float32Array(P.count*3);
-  const c1 = new THREE.Color(0x8b8062), c2 = new THREE.Color(0x6b6350),
-        c3 = new THREE.Color(0x4f4438), c4 = new THREE.Color(0x5a5a60);
+  const c1 = new THREE.Color(0x6b5c44), c2 = new THREE.Color(0x53483a),
+        c3 = new THREE.Color(0x3b3128), c4 = new THREE.Color(0x45423f);
   for (let i = 0; i < P.count; i++) {
     const x = P.getX(i), z = P.getZ(i), y = H(x,z); P.setY(i, y);
     const eg = Math.abs(H(x+2,z)-y) + Math.abs(H(x,z+2)-y);
@@ -187,13 +187,25 @@ const karIsik = new THREE.PointLight(0xc2cdea, 34, 12, 2.0); scene.add(karIsik);
     const c = c1.clone().lerp(c2, clamp(ya*1.4-.2,0,1));
     c.lerp(c3, Math.max(clamp(eg*.16,0,.7), mrk*.88));
     if (eg > 5) c.lerp(c4, clamp((eg-5)*.12,0,.8));
-    c.multiplyScalar(.62 + .26*mi);
+    c.multiplyScalar(.40 + .24*mi);
     R[i*3]=c.r; R[i*3+1]=c.g; R[i*3+2]=c.b;
   }
   g.setAttribute('color', new THREE.BufferAttribute(R,3)); g.computeVertexNormals();
   const zn = D_DERI.n.clone(); zn.repeat.set(300,300); zn.needsUpdate = true;
-  const m = new THREE.Mesh(g, new THREE.MeshStandardMaterial({vertexColors:true, roughness:.98,
-    normalMap:zn, normalScale:new THREE.Vector2(.55,.55)}));
+  // su birikintisi purüz haritasi: koyu bolgeler = islak = ayna gibi yansitir
+  const isl = (()=>{ const N=256, c=_tuval(N), x=c.getContext('2d');
+    const im=x.createImageData(N,N);
+    for(let j=0;j<N;j++) for(let i=0;i<N;i++){
+      const f = fbm(i*.055, j*.055, 4) + fbm(i*.19, j*.19, 3)*.25;
+      const w = clamp((f-.50)/.10, 0, 1);              // esik alti = su
+      const v = (.40 + .60*w) * 255, o=(j*N+i)*4;
+      im.data[o]=im.data[o+1]=im.data[o+2]=v; im.data[o+3]=255; }
+    x.putImageData(im,0,0);
+    const tx=new THREE.CanvasTexture(c); tx.wrapS=tx.wrapT=THREE.RepeatWrapping;
+    tx.repeat.set(30,30); return tx; })();
+  const m = new THREE.Mesh(g, new THREE.MeshStandardMaterial({vertexColors:true, roughness:1.0,
+    normalMap:zn, normalScale:new THREE.Vector2(.55,.55), roughnessMap:isl, metalness:0,
+    envMapIntensity:.65 }));
   m.receiveShadow = true; scene.add(m);
 }
 const cimMat = new THREE.MeshStandardMaterial({ color:0xffffff, side:THREE.DoubleSide, roughness:1 });
@@ -205,7 +217,7 @@ cimMat.onBeforeCompile = s => { s.uniforms.t = {value:0}; cimMat.userData.s = s;
       transformed.x+=w*pow(uv.y,1.7)*0.95; transformed.z+=w*0.42*pow(uv.y,1.7);`);
   s.fragmentShader = 'varying float vY;\n' + s.fragmentShader
     .replace('#include <color_fragment>', `#include <color_fragment>
-      diffuseColor.rgb *= mix(0.44, 1.32, vY);`);
+      diffuseColor.rgb *= mix(0.30, 1.02, vY);`);
 };
 {
   const bg = new THREE.BufferGeometry(), v=[], uvv=[];
@@ -227,7 +239,7 @@ cimMat.onBeforeCompile = s => { s.uniforms.t = {value:0}; cimMat.userData.s = s;
     M4.compose(V.set(x,H(x,z)-.05,z), Q, S.set(s*(.8+Math.random()*.5), s, s));
     cim.setMatrixAt(i, M4);
     const t = .72+Math.random()*.5, ye = Math.random()<.25;
-    R[i*3]=(ye?.40:.66)*t; R[i*3+1]=(ye?.46:.60)*t; R[i*3+2]=(ye?.30:.38)*t;
+    R[i*3]=(ye?.30:.44)*t; R[i*3+1]=(ye?.29:.38)*t; R[i*3+2]=(ye?.18:.22)*t;
   }
   cim.instanceColor = new THREE.InstancedBufferAttribute(R,3); scene.add(cim);
 }
@@ -478,6 +490,26 @@ class Insan {
     this.dp = new THREE.Object3D(); this.dp.position.y=.62; this.kilic.add(this.dp);
 
     this.kok.traverse(o => { if (o.isMesh) { o.castShadow=true; o.receiveShadow=true; } });
+    // ── PELERIN: omuzdan dize inen, yayla gecikmeli agir yun
+    this.pelerinG = new THREE.Group(); this.pelerinG.position.y = .555; this.govde.add(this.pelerinG);
+    {
+      const pg = new THREE.CylinderGeometry(.215,.46,1.16,22,6,true, -2.35, 4.70);
+      const pa = pg.attributes.position;
+      for (let i=0;i<pa.count;i++){
+        const x=pa.getX(i), y=pa.getY(i), z=pa.getZ(i);
+        const a=Math.atan2(z,x), r=Math.hypot(x,z), v=clamp((.58-y)/1.16,0,1);
+        const dalga = 1 + Math.sin(a*7.5)*.075*v + Math.sin(a*3.1+1.2)*.045*v;
+        pa.setX(i, Math.cos(a)*r*dalga); pa.setZ(i, Math.sin(a)*r*dalga*1.06);
+        pa.setY(i, y - Math.pow(v,2.4)*.10);
+      }
+      pg.computeVertexNormals();
+      const pm = MAT(R.pelerin || 0x1d2129, 1.0, .02, D_KUMAS, 2.8, true);
+      pm.side = THREE.DoubleSide;
+      this.pelerin = new THREE.Mesh(pg, pm);
+      this.pelerin.position.y = -.58; this.pelerinG.add(this.pelerin);
+      const ypk = new THREE.Mesh(new THREE.TorusGeometry(.145,.030,6,16), pm);
+      ypk.rotation.x = Math.PI/2; ypk.position.y = .045; ypk.scale.set(1.30,1,1.05); this.pelerinG.add(ypk);
+    }
     // ── temas gölgesi: ayakları yere oturtan yumuşak leke (gölge haritasının altını doldurur)
     this.golge = new THREE.Mesh(new THREE.PlaneGeometry(1.35,1.35),
       new THREE.MeshBasicMaterial({ map:noktaDoku('rgba(4,4,10,'), transparent:true, opacity:.50,
@@ -491,6 +523,7 @@ class Insan {
     this.iz = new Iz(22, izRenk);
     this.eylem = null; this.eT = 0; this.vurdu = false; this.adimFaz = 0; this.ileriIt = 0;
     this.yE={p:0,v:0}; this.yEz={p:0,v:0}; this.yS={p:0,v:0}; this.ySz={p:0,v:0};
+    this.yP={p:0,v:0}; this.yPz={p:0,v:0};
     this._sonDon = 0; this._sonHiz = 0; this.bakHedef = null; this.bakX = 0; this.bakY = 0;
     this._a = new THREE.Vector3(); this._b = new THREE.Vector3();
     this.can = 100; this.denge = 100; this.olu = false;
@@ -711,6 +744,9 @@ class Insan {
     this.etek.rotation.z = yay(this.yEz, -clamp(donHiz,-14,14)*.032, 145, 15);
     this.sacG.rotation.x = yay(this.yS,   .12 + clamp(hiz,0,7)*.038 - c.govX*.75 - c.basX*.8, 200, 17);
     this.sacG.rotation.z = yay(this.ySz, -clamp(donHiz,-14,14)*.050, 180, 16);
+    // pelerin en agir kumas: en yavas yay, en uzun gecikme
+    this.pelerinG.rotation.x = yay(this.yP,  -c.govX*.80 - clamp(hiz,0,7)*.052 - clamp(ivme,-25,25)*.008, 78, 11);
+    this.pelerinG.rotation.z = yay(this.yPz, -clamp(donHiz,-14,14)*.058, 70, 10);
 
     // ── BAŞ HEDEF KİLİDİ: rakip varsa göz teması kurar (gövde de hafif döner)
     if (this.bakHedef && !this.olu && this.eylem !== 'devril' && this.eylem !== 'devril_bekle') {
@@ -735,9 +771,9 @@ class Insan {
     this.iz.ekle(this._a, this._b); }
 }
 
-const R_TOGAN = { kaftan:0x3d4b66, kaftanAlt:0x323d52, kurk:0xb0aba1, ten:0xc08e63, sac:0x241c18,
+const R_TOGAN = { pelerin:0x1a1e27, kaftan:0x3d4b66, kaftanAlt:0x323d52, kurk:0xb0aba1, ten:0xc08e63, sac:0x241c18,
   kemer:0x5a4023, deri:0x4b3520, pantolon:0x3a4356, cizme:0x483420, celik:0xc6ccd6, altin:0xb08a3c };
-const R_KAYA = { kaftan:0x5f5636, kaftanAlt:0x4c452b, kurk:0x958b78, ten:0xc59468, sac:0x2b2119,
+const R_KAYA = { pelerin:0x241f18, kaftan:0x5f5636, kaftanAlt:0x4c452b, kurk:0x958b78, ten:0xc59468, sac:0x2b2119,
   kemer:0x4d3a20, deri:0x3f2e17, pantolon:0x4c4834, cizme:0x453118, celik:0x9a7c4a, altin:0x8a6b3c };
 
 const togan = new Insan(R_TOGAN, 0xe6ecff);
@@ -746,7 +782,7 @@ const kaya = new Insan(R_KAYA, 0xf0e0c0);
 kaya.kok.position.set(-13, H(-13,-7), -7); kaya.kok.rotation.y = Math.PI*.8; scene.add(kaya.kok);
 
 // ═══════════ 8. ÇEVRE ═══════════
-const kecemat = () => kenar(new THREE.MeshStandardMaterial({color:0xb3a68c, roughness:.98}), new THREE.Color(0x8fa0d8), .30);
+const kecemat = () => kenar(new THREE.MeshStandardMaterial({color:0x7d7361, roughness:1, normalMap:D_KUMAS.n, normalScale:new THREE.Vector2(1.6,1.6)}), new THREE.Color(0x8fa0d8), .18);
 const ahsap = () => kenar(new THREE.MeshStandardMaterial({color:0x5a4227, roughness:.95}), new THREE.Color(0x7f8fc8), .22);
 const bacalar = [];
 function yurt(x,z,s=1){
@@ -829,7 +865,7 @@ const burkut=new THREE.Group();
   burkut.traverse(o=>{if(o.isMesh)o.castShadow=true;}); scene.add(burkut);
 }
 // ateş
-const atesI=new THREE.PointLight(0xff8033,9,34,2); atesI.position.set(13,H(13,9)+1.4,9); scene.add(atesI);
+const atesI=new THREE.PointLight(0xff7326,3.2,19,2); atesI.position.set(13,H(13,9)+1.4,9); scene.add(atesI);
 {
   const t=new THREE.Group();
   for(let i=0;i<9;i++){const a=i/9*6.28;
@@ -839,6 +875,58 @@ const atesI=new THREE.PointLight(0xff8033,9,34,2); atesI.position.set(13,H(13,9)
   const k=new THREE.Mesh(new THREE.SphereGeometry(.45,10,8), new THREE.MeshBasicMaterial({color:0xffa347}));
   k.position.y=.30; t.add(k); t.position.set(13,H(13,9),9); scene.add(t);
 }
+
+// ── ALEV DOKUSU (canvas): sicak cekirdek -> turuncu -> soner
+const alevDoku = (()=>{
+  const N=64, c=_tuval(N), g=c.getContext('2d');
+  const im=g.createImageData(N,N);
+  for(let j=0;j<N;j++) for(let i=0;i<N;i++){
+    const x=(i/N-.5)*2, y=j/N;
+    const gen = .30*Math.sin(y*3.1)+.16;
+    const d = Math.abs(x)/Math.max(.02,gen);
+    let a = clamp(1-d*d, 0, 1) * clamp(1.15-Math.abs(y-.62)/.52, 0, 1);
+    a *= .72 + .28*hash(i*3.7, j*1.9);
+    const s = Math.pow(a, .62), o=(j*N+i)*4;
+    im.data[o]   = 255*clamp(s*1.5,0,1);
+    im.data[o+1] = 255*clamp(s*s*1.15,0,1);
+    im.data[o+2] = 255*clamp(Math.pow(s,4.2)*.9,0,1);
+    im.data[o+3] = 255*clamp(a*1.25,0,1);
+  }
+  g.putImageData(im,0,0);
+  const tx=new THREE.CanvasTexture(c); tx.colorSpace=THREE.SRGBColorSpace; return tx;
+})();
+
+// ── mesale direkleri: ahsap sirik + demir sepet + iki katmanli alev
+const mesaleler = [];
+{
+  const yerler = [];
+  for (let i=0;i<10;i++){ const a=i/10*6.28+.35, r=15+((i*7)%5)*2.6;
+    yerler.push([Math.cos(a)*r, Math.sin(a)*r]); }
+  yerler.push([-5.2,-8.4],[1.4,-11.0],[-9.5,-3.0],[6.0,-6.2]);
+  const dMat = MAT(0x3a2a19,.96,.03,D_DERI,1.2), sMat = MAT(0x2b2a2c,.62,.72,D_CELIK,.8,true);
+  for (const yer of yerler) {
+    const x=yer[0], z=yer[1], y=H(x,z), g=new THREE.Group(); g.position.set(x,y,z);
+    const boy = 1.85 + hash(x,z)*.55;
+    const sr = uzuv(.055,.042,boy,0x3a2a19,10,D_DERI,.05,1.2); sr.position.y=boy; sr.material=dMat; g.add(sr);
+    const sp = new THREE.Mesh(new THREE.CylinderGeometry(.115,.075,.20,9,1,true), sMat);
+    sp.material.side=THREE.DoubleSide; sp.position.y=boy+.10; g.add(sp);
+    for (let k=0;k<3;k++){ const hl=new THREE.Mesh(new THREE.TorusGeometry(.108-k*.018,.010,4,10), sMat);
+      hl.rotation.x=Math.PI/2; hl.position.y=boy+.02+k*.08; g.add(hl); }
+    const a1 = new THREE.Sprite(new THREE.SpriteMaterial({map:alevDoku, transparent:true,
+      blending:THREE.AdditiveBlending, depthWrite:false, color:0xffdca8, opacity:1}));
+    a1.scale.set(.50,.92,1); a1.position.y = boy+.54; g.add(a1);
+    const a2 = new THREE.Sprite(new THREE.SpriteMaterial({map:alevDoku, transparent:true,
+      blending:THREE.AdditiveBlending, depthWrite:false, color:0xff7a24, opacity:.70}));
+    a2.scale.set(.78,1.34,1); a2.position.y = boy+.66; g.add(a2);
+    g.traverse(o=>{ if(o.isMesh) o.castShadow=true; });
+    scene.add(g);
+    mesaleler.push({ g:g, a1:a1, a2:a2, tepe:new THREE.Vector3(x, y+boy+.46, z),
+                     faz:hash(x*3.1,z*1.7)*6.28, _d:0 });
+  }
+}
+// 5 dinamik isik: her kare en yakin 5 mesaleye atanir (shader maliyeti sabit)
+const mIsik = [];
+for (let i=0;i<5;i++){ const L=new THREE.PointLight(0xff8434, 0, 16, 2.0); scene.add(L); mIsik.push(L); }
 
 // ═══════════ 9. PARÇACIKLAR ═══════════
 function noktaDoku(renk){ const c=document.createElement('canvas'); c.width=c.height=32;
@@ -866,10 +954,10 @@ const kivilcim = havuz(300, new THREE.PointsMaterial({ map:noktaDoku('rgba(255,2
   size:.30, transparent:true, opacity:1, depthWrite:false, blending:THREE.AdditiveBlending }));
 const toz = havuz(420, new THREE.PointsMaterial({ map:noktaDoku('rgba(212,196,158,'),
   size:.60, transparent:true, opacity:.55, depthWrite:false }));
-const atesKiv = havuz(220, new THREE.PointsMaterial({ map:noktaDoku('rgba(255,176,90,'),
-  size:.34, transparent:true, opacity:.95, depthWrite:false, blending:THREE.AdditiveBlending }));
-const duman = havuz(260, new THREE.PointsMaterial({ size:1.5, color:0xb9b4c8,
-  transparent:true, opacity:.15, depthWrite:false }));
+const atesKiv = havuz(220, new THREE.PointsMaterial({ map:noktaDoku('rgba(255,168,78,'),
+  size:.22, transparent:true, opacity:.70, depthWrite:false, blending:THREE.AdditiveBlending }));
+const duman = havuz(260, new THREE.PointsMaterial({ map:noktaDoku('rgba(58,54,68,'),
+  size:2.1, color:0x6a6474, transparent:true, opacity:.085, depthWrite:false }));
 
 // ── havada asılı toz zerreleri (atmosfer)
 const ZERRE = 900;
@@ -884,10 +972,36 @@ const zerreler = new THREE.Points(zerreG, new THREE.PointsMaterial({
   depthWrite:false, blending:THREE.AdditiveBlending, sizeAttenuation:true }));
 zerreler.frustumCulled = false; scene.add(zerreler);
 
+// ── ALCAK YER PUSU: yatay yumusak katmanlar, derinlik hissi verir
+const pusDoku = (()=>{
+  const N=128, c=_tuval(N), g=c.getContext('2d'), im=g.createImageData(N,N);
+  for(let j=0;j<N;j++) for(let i=0;i<N;i++){
+    const f = fbm(i*.045+3.3, j*.045-1.7, 5);
+    const kenarSol = Math.min(i,N-1-i)/ (N*.42), kenarUst = Math.min(j,N-1-j)/(N*.42);
+    const mask = clamp(kenarSol,0,1)*clamp(kenarUst,0,1);
+    const a = clamp((f-.36)*2.4, 0, 1) * mask, o=(j*N+i)*4;
+    im.data[o]=im.data[o+1]=im.data[o+2]=255;
+    im.data[o+3]=255*a;
+  }
+  g.putImageData(im,0,0);
+  const tx=new THREE.CanvasTexture(c); tx.wrapS=tx.wrapT=THREE.RepeatWrapping; return tx;
+})();
+const pusKatlari = [];
+{
+  const pm = new THREE.MeshBasicMaterial({ map:pusDoku, transparent:true, opacity:.14,
+    color:0x9aa6c2, depthWrite:false, side:THREE.DoubleSide, fog:true });
+  for (let i=0;i<5;i++){
+    const q = new THREE.Mesh(new THREE.PlaneGeometry(120,120), pm.clone());
+    q.rotation.x = -Math.PI/2; q.material.opacity = .17 - i*.022;
+    q.renderOrder = 2; q.frustumCulled = false;
+    scene.add(q); pusKatlari.push({ m:q, y:.55 + i*.95, hiz:.9 + i*.35, faz:i*1.9 });
+  }
+}
+
 // ═══════════ 10. POST ═══════════
 const composer = new EffectComposer(renderer);
 composer.addPass(new RenderPass(scene, camera));
-composer.addPass(new UnrealBloomPass(new THREE.Vector2(innerWidth,innerHeight), .32, .48, .80));
+composer.addPass(new UnrealBloomPass(new THREE.Vector2(innerWidth,innerHeight), .38, .62, .92));
 // ── AY HÜZMELERİ: ekran-uzayı ışık saçılması (Elden Ring imzası)
 const huzmePass = new ShaderPass({
   uniforms:{ tDiffuse:{value:null}, isikPos:{value:new THREE.Vector2(.5,.8)},
@@ -904,7 +1018,7 @@ const huzmePass = new ShaderPass({
       for (int i=0;i<24;i++){
         uv -= dlt;
         vec3 s = texture2D(tDiffuse, uv).rgb;
-        float parlak = max(0.0, dot(s, vec3(.299,.587,.114)) - 0.62);
+        float parlak = max(0.0, dot(s, vec3(.299,.587,.114)) - 0.80);
         top += s * parlak * dec;
         dec *= sonme;
       }
@@ -914,16 +1028,16 @@ const huzmePass = new ShaderPass({
 composer.addPass(huzmePass);
 
 const gradePass = new ShaderPass({
-  uniforms:{ tDiffuse:{value:null}, vig:{value:1}, doy:{value:.86}, t:{value:0} },
+  uniforms:{ tDiffuse:{value:null}, vig:{value:1}, doy:{value:.72}, t:{value:0} },
   vertexShader:`varying vec2 vUv; void main(){vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
   fragmentShader:`uniform sampler2D tDiffuse; uniform float vig, doy, t; varying vec2 vUv;
     void main(){ vec4 c=texture2D(tDiffuse,vUv); vec2 p=(vUv-.5)*vec2(1.10,1.);
       // ELDEN RING GRADE: gölgeler soğuk-mavi, ışıklar sıcak-kehribar, doygunluk düşük
       float l = dot(c.rgb, vec3(.299,.587,.114));
       c.rgb = mix(vec3(l), c.rgb, doy);
-      c.rgb += vec3(-0.012, 0.000, 0.030) * (1.0 - smoothstep(0.0, 0.42, l));   // gölge mavisi
-      c.rgb += vec3( 0.045, 0.020,-0.022) * smoothstep(0.42, 1.0, l);           // ışık kehribarı
-      c.rgb = (c.rgb - .5) * 1.13 + .5;
+      c.rgb += vec3(-0.016, 0.002, 0.042) * (1.0 - smoothstep(0.0, 0.46, l));   // gölge mavisi
+      c.rgb += vec3( 0.062, 0.026,-0.030) * smoothstep(0.34, 1.0, l);           // ışık kehribarı
+      c.rgb = clamp((c.rgb - .014) * 1.28, 0.0, 4.0);
       c.rgb *= mix(1., smoothstep(1.22,.40,length(p)), vig);                     // güçlü vinyet
       float grain = fract(sin(dot(vUv*vec2(1.0,1.0)+t, vec2(12.9898,78.233)))*43758.5453);
       c.rgb += (grain-0.5)*0.016;
@@ -1190,7 +1304,26 @@ function tik(){
   burkut.rotation.y = Math.sin(saat*.5)*.5;
   const ka = -.25 + Math.max(0, Math.sin(saat*1.1))*.35;
   burkut.kL.rotation.z = -ka; burkut.kR.rotation.z = ka;
-  atesI.intensity = 8 + Math.sin(saat*9)*2 + Math.sin(saat*23);
+  atesI.intensity = 2.9 + Math.sin(saat*9)*.7 + Math.sin(saat*23)*.35;
+  // ── mesaleler: alev titresimi + en yakin 5'ine isik ata
+  {
+    for (let i=0;i<mesaleler.length;i++) {
+      const m = mesaleler[i], f = saat*7.2 + m.faz;
+      const tt = .82 + Math.sin(f)*.13 + Math.sin(f*2.7)*.07 + Math.sin(f*6.1)*.04;
+      m.a1.scale.set(.50*tt, .92*tt*(1+Math.sin(f*3.3)*.10), 1);
+      m.a2.scale.set(.78*tt, 1.34*tt*(1+Math.sin(f*2.1+1.4)*.13), 1);
+      m.a1.position.x = Math.sin(f*1.7)*.022; m.a2.position.x = Math.sin(f*1.3+.8)*.036;
+      m._d = m.tepe.distanceToSquared(camera.position);
+      if (Math.random() < dt*1.2) atesKiv.at(m.tepe.x, m.tepe.y+.1, m.tepe.z, 1, .55, .95, 1.5);
+    }
+    mesaleler.sort((a,b)=>a._d-b._d);
+    for (let i=0;i<mIsik.length;i++){
+      const m = mesaleler[i]; if (!m) { mIsik[i].intensity = 0; continue; }
+      const f = saat*7.2 + m.faz;
+      mIsik[i].position.copy(m.tepe);
+      mIsik[i].intensity = 13 + Math.sin(f)*2.8 + Math.sin(f*3.9)*1.4;
+    }
+  }
   if (Math.random() < dt*44) atesKiv.at(13,H(13,9)+.35,9,1,1.1,-1.1,1.6);
   if (Math.random() < dt*20 && bacalar.length) { const b=bacalar[(Math.random()*bacalar.length)|0];
     duman.at(b.x,b.y,b.z,1,.5,-.9,4.5); }
@@ -1231,6 +1364,13 @@ function tik(){
     huzmePass.uniforms.isikPos.value.set(pr.x*.5+.5, pr.y*.5+.5);
     const hedefGuc = gorunur ? .85 : 0;
     huzmePass.uniforms.guc.value = lerp(huzmePass.uniforms.guc.value, hedefGuc, 1-Math.pow(.02, dt));
+  }
+  // ── yer pusu: kamerayi takip eder, yavasca suruklenir
+  for (let i=0;i<pusKatlari.length;i++){
+    const k = pusKatlari[i];
+    k.m.position.set(camera.position.x, P.y + k.y, camera.position.z);
+    k.m.material.map = k.m.material.map || pusDoku;
+    k.m.material.map.offset.set(saat*.0042*k.hiz + k.faz*.11, saat*.0027*k.hiz);
   }
   gradePass.uniforms.t.value = saat * .37;
   // ── toz zerreleri kamerayı takip eder (sonsuz atmosfer)
