@@ -44,11 +44,85 @@ const camera = new THREE.PerspectiveCamera(52, innerWidth/innerHeight, 0.1, 4000
 // ── kenar ışığı (siluet ayrışsın)
 // tum malzemelerin paylastigi zemin yuksekligi (dip camuru icin) — kare basi bir kez guncellenir
 const ZEMIN_TABAN = { value: 0 };
+
+// ═══ ISIMALIK IZGARASI (irradiance grid) ═══
+// Etkileyici bulunan her karanlik sahnede DOLAYLI isik vardir. Bizde golgeler sabit
+// HemisphereLight ile esit dolduruluyordu; hicbir yuzey "atesin yaninda" hissettirmiyordu.
+// Cozum: obayi kaplayan 3B izgarada her mesalenin katkisi ACILISTA BIR KEZ toplanir.
+// Calisma zamani maliyeti: fragment basina tek 3B doku fetch'i.
+const ISI_BOY = 172, ISI_YUK = 16, ISI_N = 48, ISI_NY = 8, ISI_OLCEK = 0.55;
+const isiVeri = new Uint8Array(ISI_N * ISI_NY * ISI_N * 4);
+const isiDoku = new THREE.Data3DTexture(isiVeri, ISI_N, ISI_NY, ISI_N);
+isiDoku.format = THREE.RGBAFormat; isiDoku.type = THREE.UnsignedByteType;
+isiDoku.minFilter = isiDoku.magFilter = THREE.LinearFilter;
+isiDoku.wrapS = isiDoku.wrapT = isiDoku.wrapR = THREE.ClampToEdgeWrapping;
+isiDoku.needsUpdate = true;
+const ISI_PAY = { isiDoku:{value:isiDoku}, isiOlcek:{value:ISI_OLCEK},
+                  isiBoy:{value:ISI_BOY}, isiYuk:{value:ISI_YUK} };
+const ISI_U = () => ISI_PAY;
+// shader tarafi: dunya konumundan izgara okuma
+const ISI_GLSL = `
+  uniform sampler3D isiDoku; uniform float isiOlcek, isiBoy, isiYuk;
+  vec3 isimaOku(vec3 wp){
+    vec3 uvw = vec3((wp.x + isiBoy*0.5)/isiBoy, wp.y/isiYuk, (wp.z + isiBoy*0.5)/isiBoy);
+    if (uvw.x < 0.0 || uvw.x > 1.0 || uvw.z < 0.0 || uvw.z > 1.0) return vec3(0.0);
+    uvw.y = clamp(uvw.y, 0.0, 1.0);
+    return texture(isiDoku, uvw).rgb * isiOlcek;
+  }
+`;
+// izgarayi doldur (mesaleler kuruldıktan sonra cagrilir)
+function isimaHesapla(kaynaklar){
+  for (let zi=0; zi<ISI_N; zi++)
+  for (let yi=0; yi<ISI_NY; yi++)
+  for (let xi=0; xi<ISI_N; xi++){
+    const wx = -ISI_BOY*.5 + (xi+.5)/ISI_N*ISI_BOY;
+    const wz = -ISI_BOY*.5 + (zi+.5)/ISI_N*ISI_BOY;
+    const wy = (yi+.5)/ISI_NY*ISI_YUK;
+    let r=0, g=0, b=0;
+    for (let k=0; k<kaynaklar.length; k++){
+      const s = kaynaklar[k];
+      const dx=wx-s.x, dy=wy-s.y, dz=wz-s.z;
+      const d2 = dx*dx+dy*dy+dz*dz, d = Math.sqrt(d2);
+      if (d > s.menzil) continue;
+      const sn = 1 - d/s.menzil;
+      const a = s.guc * sn*sn / (1.6 + d2*1.0);
+      r += s.r*a; g += s.g*a; b += s.b*a;
+    }
+    const o = ((zi*ISI_NY + yi)*ISI_N + xi)*4;
+    isiVeri[o]   = Math.min(255, r/ISI_OLCEK*255);
+    isiVeri[o+1] = Math.min(255, g/ISI_OLCEK*255);
+    isiVeri[o+2] = Math.min(255, b/ISI_OLCEK*255);
+    isiVeri[o+3] = 255;
+  }
+  isiDoku.needsUpdate = true;
+}
+// isimayi kenar()'dan gecmeyen sade malzemelere de ekler (arazi, cim, detay yamasi)
+function isimaSade(mat, guc = 1.0){
+  const eskiOBC = mat.onBeforeCompile;
+  mat.onBeforeCompile = s => {
+    if (eskiOBC) eskiOBC(s);
+    Object.assign(s.uniforms, ISI_U());
+    s.uniforms.isiGuc = { value: guc };
+    s.vertexShader = 'varying vec3 vIP;\n' + s.vertexShader
+      .replace('#include <begin_vertex>', `#include <begin_vertex>
+        vec4 _ip = vec4(transformed,1.0);
+        #ifdef USE_INSTANCING
+          _ip = instanceMatrix * _ip;
+        #endif
+        vIP = (modelMatrix * _ip).xyz;`);
+    s.fragmentShader = 'varying vec3 vIP; uniform float isiGuc;\n' + ISI_GLSL + s.fragmentShader
+      .replace('#include <dithering_fragment>', `#include <dithering_fragment>
+        gl_FragColor.rgb += isimaOku(vIP) * isiGuc * 0.55;`);
+  };
+  mat.customProgramCacheKey = () => 'isimaSade' + guc;
+  return mat;
+}
 function kenar(mat, renk = new THREE.Color(0xaebbdc), guc = .40) {
   mat.userData.kR = renk.getHexString(); mat.userData.kG = guc;
   mat.onBeforeCompile = s => {
     s.uniforms.kR = { value: renk }; s.uniforms.kG = { value: guc };
     s.uniforms.zTaban = ZEMIN_TABAN;
+    Object.assign(s.uniforms, ISI_U());
     // dunya konumu ve normali: kir/asinma gradyanlari icin
     s.vertexShader = 'varying vec3 vDP; varying vec3 vDN;\n' + s.vertexShader
       .replace('#include <begin_vertex>', `#include <begin_vertex>
@@ -58,7 +132,7 @@ function kenar(mat, renk = new THREE.Color(0xaebbdc), guc = .40) {
         #endif
         vDP = (modelMatrix * _wp).xyz;
         vDN = normalize(mat3(modelMatrix) * _on);`);
-    s.fragmentShader = `uniform vec3 kR; uniform float kG; uniform float zTaban;
+    s.fragmentShader = ISI_GLSL + `uniform vec3 kR; uniform float kG; uniform float zTaban;
       varying vec3 vDP; varying vec3 vDN;
       float _h3(vec3 q){ return fract(sin(dot(q, vec3(127.1,311.7,74.7)))*43758.5453); }
       float _n3(vec3 q){ vec3 i=floor(q), f=fract(q); f=f*f*(3.0-2.0*f);
@@ -67,6 +141,8 @@ function kenar(mat, renk = new THREE.Color(0xaebbdc), guc = .40) {
                    mix(mix(_h3(i+vec3(0,0,1)),_h3(i+vec3(1,0,1)),f.x),
                        mix(_h3(i+vec3(0,1,1)),_h3(i+vec3(1,1,1)),f.x), f.y), f.z); }
       ` + s.fragmentShader
+      .replace('#include <color_fragment>', `#include <color_fragment>
+        vec3 _albedo = diffuseColor.rgb;`)
       .replace('#include <dithering_fragment>', `#include <dithering_fragment>
         float fr = pow(1.0 - clamp(dot(normal, normalize(vViewPosition)), 0.0, 1.0), 4.2);
         gl_FragColor.rgb += kR * fr * kG;
@@ -83,6 +159,9 @@ function kenar(mat, renk = new THREE.Color(0xaebbdc), guc = .40) {
         _c *= (0.86 + 0.30*_kir);
         _c *= mix(vec3(0.94,0.97,1.04), vec3(1.06,1.01,0.92), _buyuk);   // soguk/sicak leke
         _c = mix(_c, _c*vec3(0.64,0.58,0.50), _dip*0.38);
+        // ── ISIMALIK: normal yonunde ofsetli ornekleme sozde-yonluluk verir
+        // (mesaleye BAKAN yuz, sirtini donenden daha fazla dolayli isik alir)
+        _c += isimaOku(vDP + vDN*1.5) * _albedo * 0.95;
         gl_FragColor.rgb = _c;`);
   };
   return mat;
@@ -234,7 +313,7 @@ ayI.shadow.mapSize.set(2048, 2048);
 Object.assign(ayI.shadow.camera, { left:-34, right:34, top:34, bottom:-34, far:320 });
 ayI.shadow.bias = -0.00035; ayI.shadow.normalBias = 0.014; ayI.shadow.radius = 2.2;
 scene.add(ayI, ayI.target);
-scene.add(new THREE.HemisphereLight(0x5d6880, 0x413828, 1.75));
+scene.add(new THREE.HemisphereLight(0x5d6880, 0x413828, 0.78));
 // yüzü karanlıkta bırakmayan yumuşak dolgu (gölge yok, ucuz)
 const dolgu = new THREE.DirectionalLight(0x8e9ec6, 0.42); dolgu.position.set(80, 42, 110); scene.add(dolgu);
 // karakter anahtarı: kameranın omzundan gelen, sadece yakını aydınlatan sinematik ışık
@@ -278,9 +357,9 @@ function araziRenk(x, z, out){
     x.putImageData(im,0,0);
     const tx=new THREE.CanvasTexture(c); tx.wrapS=tx.wrapT=THREE.RepeatWrapping;
     tx.repeat.set(30,30); return tx; })();
-  const m = new THREE.Mesh(g, new THREE.MeshStandardMaterial({vertexColors:true, roughness:1.0,
+  const m = new THREE.Mesh(g, isimaSade(new THREE.MeshStandardMaterial({vertexColors:true, roughness:1.0,
     normalMap:zn, normalScale:new THREE.Vector2(.55,.55), roughnessMap:isl, metalness:0,
-    envMapIntensity:1.35 }));
+    envMapIntensity:1.35 }), 1.15));
   m.receiveShadow = true; scene.add(m);
 }
 const cimMat = new THREE.MeshStandardMaterial({ color:0xffffff, side:THREE.DoubleSide, roughness:1 });
@@ -331,10 +410,10 @@ detayGeo.rotateX(-Math.PI/2);
   detayGeo.setAttribute('color', new THREE.BufferAttribute(c,3));
 }
 const detayZn = D_DERI.n.clone(); detayZn.repeat.set(56,56); detayZn.needsUpdate = true;
-const detayMesh = new THREE.Mesh(detayGeo, new THREE.MeshStandardMaterial({
+const detayMesh = new THREE.Mesh(detayGeo, isimaSade(new THREE.MeshStandardMaterial({
   vertexColors:true, roughness:1.0, metalness:0,
   normalMap:detayZn, normalScale:new THREE.Vector2(.85,.85),
-  polygonOffset:true, polygonOffsetFactor:-3, polygonOffsetUnits:-3 }));
+  polygonOffset:true, polygonOffsetFactor:-3, polygonOffsetUnits:-3 }), 1.15));
 detayMesh.receiveShadow = true; scene.add(detayMesh);
 let detayCx = 1e9, detayCz = 1e9;
 {
@@ -1626,6 +1705,14 @@ const mesaleler = [];
                      faz:hash(x*3.1,z*1.7)*6.28, _d:0 });
   }
 }
+// ── izgarayi doldur: her mesale + ana ocak birer kaynak
+{
+  const kay = [];
+  for (const m of mesaleler)
+    kay.push({ x:m.tepe.x, y:m.tepe.y, z:m.tepe.z, r:1.00, g:.50, b:.19, guc:0.92, menzil:13 });
+  kay.push({ x:13, y:H(13,9)+.75, z:9, r:1.00, g:.44, b:.15, guc:2.10, menzil:17 });  // ana ocak
+  isimaHesapla(kay);
+}
 // 5 dinamik isik: her kare en yakin 5 mesaleye atanir (shader maliyeti sabit)
 const mIsik = [];
 for (let i=0;i<5;i++){ const L=new THREE.PointLight(0xff8434, 0, 18, 2.0); scene.add(L); mIsik.push(L); }
@@ -1829,17 +1916,10 @@ const pusDoku = (()=>{
   g.putImageData(im,0,0);
   const tx=new THREE.CanvasTexture(c); tx.wrapS=tx.wrapT=THREE.RepeatWrapping; return tx;
 })();
+// NOT: 5 adet aydinlatilmamis sis duzlemi vardi (MeshBasicMaterial). Isik almadigi
+// icin "siste isik" degil "duz gri tul" ekliyordu. Hacimsel isik pasi devreye
+// girdiginde hem gereksiz hem zararli hale geldi — kaldirildi, cizim cagrisi da dustu.
 const pusKatlari = [];
-{
-  const pm = new THREE.MeshBasicMaterial({ map:pusDoku, transparent:true, opacity:.14,
-    color:0x9aa6c2, depthWrite:false, side:THREE.DoubleSide, fog:true });
-  for (let i=0;i<5;i++){
-    const q = new THREE.Mesh(new THREE.PlaneGeometry(120,120), pm.clone());
-    q.rotation.x = -Math.PI/2; q.material.opacity = .17 - i*.022;
-    q.renderOrder = 2; q.frustumCulled = false;
-    scene.add(q); pusKatlari.push({ m:q, y:.55 + i*.95, hiz:.9 + i*.35, faz:i*1.9 });
-  }
-}
 
 // ── icerik hazir: birlestir ve golge yukunu dusur
 {
@@ -1920,6 +2000,75 @@ const aoPass = new ShaderPass({
 });
 aoPass.material.depthWrite = false; aoPass.material.depthTest = false;
 composer.addPass(aoPass);
+// ═══ HACIMSEL ISIK ═══
+// Karanlik sahneyi okunur yapan sey isigin HAVADA gorunmesidir. Onceki huzmePass
+// sadece aydan gelen ekran-uzayi radyal bulanikligiydi; mesaleler havayi hic
+// aydinlatmiyordu. Burada kameradan sahne derinligine isin yurutulur ve her adimda
+// en yakin 6 isigin katkisi toplanir. Sahne TEKRAR CIZILMEZ — mevcut derinlik yeter.
+const HACIM_N = 6;                                   // eszamanli isik sayisi
+const hacimPass = new ShaderPass({
+  uniforms: {
+    tDiffuse:{value:null}, tDepth:{value:anaRT.depthTexture},
+    projTers:{value:new THREE.Matrix4()}, kamMat:{value:new THREE.Matrix4()},
+    kamPoz:{value:new THREE.Vector3()},
+    isikPoz:{value:Array.from({length:HACIM_N},()=>new THREE.Vector3())},
+    isikRenk:{value:Array.from({length:HACIM_N},()=>new THREE.Vector3())},
+    isikMenzil:{value:new Float32Array(HACIM_N)},
+    zeminY:{value:0}, yogunluk:{value:0.24}, adimSay:{value:10}, enUzak:{value:64},
+    gokRenk:{value:new THREE.Vector3(0.052,0.070,0.125)}, gokYog:{value:0.22}
+  },
+  vertexShader:`varying vec2 vUv; void main(){vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
+  fragmentShader:`
+    uniform sampler2D tDiffuse, tDepth;
+    uniform mat4 projTers, kamMat; uniform vec3 kamPoz;
+    uniform vec3 isikPoz[${HACIM_N}]; uniform vec3 isikRenk[${HACIM_N}];
+    uniform float isikMenzil[${HACIM_N}];
+    uniform float zeminY, yogunluk, enUzak, gokYog; uniform vec3 gokRenk; uniform int adimSay;
+    varying vec2 vUv;
+    void main(){
+      vec4 taban = texture2D(tDiffuse, vUv);
+      float dz = texture2D(tDepth, vUv).x;
+      // pikselin goruş-uzayi konumu → dunya konumu
+      vec4 gk = projTers * vec4(vUv*2.0-1.0, dz*2.0-1.0, 1.0);
+      vec3 gp = gk.xyz / gk.w;
+      vec3 dp = (kamMat * vec4(gp, 1.0)).xyz;
+      vec3 yon = dp - kamPoz;
+      float sahneMes = length(yon);
+      yon /= max(sahneMes, 1e-4);
+      float mes = min(sahneMes, enUzak);
+      float adim = mes / float(adimSay);
+      // Serpistirme: duz rastgele hash statik gurultu birakiyordu. Interleaved-gradient
+      // noise (AAA standardi) ayni bant kirmayi cok daha ince, film grenine benzer bir
+      // desenle yapar — ayni maliyet, cok daha az goze batar.
+      vec2 pk = gl_FragCoord.xy;
+      float serp = fract(52.9829189 * fract(0.06711056*pk.x + 0.00583715*pk.y));
+      vec3 top = vec3(0.0);
+      for (int i = 0; i < 24; i++){
+        if (i >= adimSay) break;
+        float ilerleme = adim * (float(i) + serp);
+        vec3 s = kamPoz + yon * ilerleme;
+        // yukseklik yogunlugu: sis yere yakin toplanir
+        float yog = exp(-max(0.0, s.y - zeminY) * 0.30);
+        // ── YUKSEKLIK SISI: gokyuzu sacilmasi. Ayri pas gerekmiyor, ayni isin
+        // yurutmesinde bedava geliyor. Yere yakin yogun, yukarida seyrek.
+        // HAVA PERSPEKTIFI: pus mesafeyle birikir. Kameranin dibinde berrak olmali,
+        // yoksa on plan yikanip kontrastini kaybediyor.
+        top += gokRenk * yog * gokYog * smoothstep(0.03, 0.60, ilerleme / enUzak);
+        for (int L = 0; L < ${HACIM_N}; L++){
+          vec3 dl = isikPoz[L] - s;
+          float d2 = dot(dl, dl);
+          float mr = isikMenzil[L];
+          if (mr <= 0.01) continue;
+          float kes = clamp(1.0 - d2 / (mr*mr), 0.0, 1.0);
+          top += isikRenk[L] * (kes * kes / (1.0 + d2 * 0.42)) * yog;
+        }
+      }
+      gl_FragColor = vec4(taban.rgb + top * adim * yogunluk, taban.a);
+    }`
+});
+hacimPass.material.depthWrite = false; hacimPass.material.depthTest = false;
+composer.addPass(hacimPass);
+
 // ── ALAN DERINLIGI: mevcut derinlik dokusunu kullanir, sahneyi tekrar cizmez
 const dofPass = new ShaderPass({
   uniforms:{ tDiffuse:{value:null}, tDepth:{value:anaRT.depthTexture},
@@ -2255,9 +2404,11 @@ function kaliteUygula(){
   renderer.setPixelRatio(Math.min(devicePixelRatio, .62 + kalite*.68));
   renderer.setSize(innerWidth, innerHeight);
   composer.setSize(innerWidth, innerHeight);
-  aoPass.enabled  = kalite > .70;      // once ortam kapanmasi
+  hacimPass.enabled = kalite > .52;                        // hacimsel isik
+  hacimPass.uniforms.adimSay.value = kalite > .84 ? 14 : (kalite > .66 ? 10 : 7);
+  aoPass.enabled  = kalite > .70;      // sonra ortam kapanmasi
   dofPass.enabled = kalite > .60;      // sonra alan derinligi
-  huzmePass.enabled = kalite > .48;    // en son isik huzmeleri
+  huzmePass.enabled = kalite > .48;    // en son ay huzmeleri
   ayI.shadow.mapSize.setScalar(kalite > .78 ? 2048 : 1024);
   if (ayI.shadow.map) { ayI.shadow.map.dispose(); ayI.shadow.map = null; }
 }
@@ -2517,6 +2668,28 @@ function tik(){
     k.m.material.map = k.m.material.map || pusDoku;
     k.m.material.map.offset.set(saat*.0042*k.hiz + k.faz*.11, saat*.0027*k.hiz);
   }
+  // ── hacimsel isik: en yakin 5 mesale + ana ocak
+  {
+    const u = hacimPass.uniforms;
+    u.projTers.value.copy(camera.projectionMatrixInverse);
+    u.kamMat.value.copy(camera.matrixWorld);
+    u.kamPoz.value.copy(camera.position);
+    u.zeminY.value = P.y;
+    for (let i = 0; i < HACIM_N; i++){
+      if (i < mIsik.length) {
+        const L = mIsik[i];
+        u.isikPoz.value[i].copy(L.position);
+        const k = L.intensity * .055;
+        u.isikRenk.value[i].set(L.color.r*k, L.color.g*k, L.color.b*k);
+        u.isikMenzil.value[i] = L.intensity > .01 ? L.distance : 0;
+      } else {                                        // son yuva: ana ocak
+        u.isikPoz.value[i].copy(atesI.position);
+        const k = atesI.intensity * .075;
+        u.isikRenk.value[i].set(atesI.color.r*k, atesI.color.g*k, atesI.color.b*k);
+        u.isikMenzil.value[i] = atesI.distance;
+      }
+    }
+  }
   dofPass.uniforms.projTers.value.copy(camera.projectionMatrixInverse);
   { const pr2 = renderer.getPixelRatio();
     dofPass.uniforms.coz.value.set(innerWidth*pr2, innerHeight*pr2);
@@ -2563,7 +2736,7 @@ function tik(){
       if (ms > 26 && kalite > .55)      { kalite = Math.max(.55, kalite - .14); kaliteUygula(); }
       else if (ms < 13 && kalite < 1.0) { kalite = Math.min(1.0, kalite + .07); kaliteUygula(); }
     } }
-  if (!window.__dbg) window.__dbg = { THREE, scene, camera, renderer, togan, kaya, kukla, ao:aoPass, pus:pusKatlari, zerre:zerreler, dof:dofPass, huzme:huzmePass, grade:gradePass, composer,
+  if (!window.__dbg) window.__dbg = { THREE, scene, camera, renderer, togan, kaya, kukla, ao:aoPass, isi:ISI_PAY, hacim:hacimPass, pus:pusKatlari, zerre:zerreler, dof:dofPass, huzme:huzmePass, grade:gradePass, composer,
     // yakın çekim: __dbg.bak(mesafe, yukseklik, aci) — sadece geliştirme/ekran görüntüsü için
     sahne(ad){ asama = ad; if (ad==='spar'||ad==='parry_sinavi') dovusHud.classList.add('acik'); },
     sabit(ey, u){ const T={hafif1:.54,hafif2:.58,agir:.92,takla:.58,parry:.36,blok:1,devril:1.0}[ey]||.5;
