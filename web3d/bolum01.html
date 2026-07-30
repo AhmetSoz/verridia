@@ -35,6 +35,11 @@
 
   #gorev{position:absolute;left:50%;bottom:112px;transform:translateX(-50%);font-size:10.5px;
          letter-spacing:.16em;color:var(--altin);text-shadow:0 2px 14px #000;text-align:center}
+  #kilitBilgi{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font-size:11.5px;
+    letter-spacing:.18em;color:var(--parsomen);background:rgba(8,8,14,.82);
+    border:1px solid rgba(201,163,92,.38);padding:11px 18px;transition:opacity .3s}
+  #kilitBilgi b{color:var(--altin)}
+  #kontrol b{color:var(--parsomen)}
   #ipucu{position:absolute;left:50%;top:56%;transform:translateX(-50%);font-size:11px;letter-spacing:.2em;
          color:var(--altin);opacity:0;transition:opacity .25s;text-shadow:0 2px 12px #000}
   #diyalog{position:absolute;left:50%;bottom:26px;transform:translateX(-50%);width:min(880px,92vw);
@@ -67,7 +72,7 @@
     <b>WASD</b> yürü · <b>Ctrl</b> ağır adım<br>
     <b>Sol tık</b> kılıç (kombo) · <b>Sağ tık</b> blok / savuştur<br>
     <b>Shift</b> takla · <b>E</b> konuş<br>
-    <b>Sürükle</b> kamera · <b>Tekerlek</b> yakınlaş
+    <b>Fare</b> kamera · <b>Tekerlek</b> yakınlaş · <b>Esc</b> imleç
   </div>
   <div id="dovusHud">
     <div class="barSet">
@@ -78,6 +83,7 @@
   </div>
   <div id="gorev"></div>
   <div id="ipucu">E — konuş</div>
+  <div id="kilitBilgi">Fareyi kilitlemek için <b>tıkla</b> · çıkmak için <b>Esc</b></div>
   <div id="diyalog">
     <div id="dad">Ad</div>
     <div id="dmetin"></div>
