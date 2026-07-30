@@ -8,7 +8,7 @@
          --disp:Georgia,"Times New Roman",serif; --mono:"Cascadia Mono",Consolas,monospace; }
   *{box-sizing:border-box}
   html,body{margin:0;height:100%;overflow:hidden;background:var(--gece);color:var(--parsomen);font-family:var(--mono)}
-  #c{display:block;width:100vw;height:100vh}
+  #c{display:block;width:100vw;height:100vh;cursor:crosshair}
   #ui{position:fixed;inset:0;pointer-events:none}
   .kart{position:absolute;background:linear-gradient(180deg,rgba(10,9,19,.86),rgba(10,9,19,.6));
         border:1px solid rgba(201,163,92,.34);padding:10px 14px}
@@ -16,18 +16,35 @@
   #bas .eb{font-size:9px;letter-spacing:.3em;color:var(--altin);opacity:.85}
   #bas .ad{font-family:var(--disp);font-size:21px;letter-spacing:.14em;margin:4px 0 2px}
   #bas .yer{font-size:9.5px;letter-spacing:.12em;color:var(--duman)}
-  #kontrol{top:16px;right:18px;font-size:9.5px;letter-spacing:.11em;color:var(--duman);line-height:1.85;text-align:right}
+  #kontrol{top:16px;right:18px;font-size:9.5px;letter-spacing:.11em;color:var(--duman);line-height:1.9;text-align:right}
   #kontrol b{color:var(--parsomen);font-weight:600}
-  #ipucu{position:absolute;left:50%;top:58%;transform:translateX(-50%);font-size:11px;letter-spacing:.2em;
+
+  /* dövüş barları */
+  #dovusHud{position:absolute;left:50%;top:16px;transform:translateX(-50%);width:min(520px,80vw);
+            opacity:0;transition:opacity .3s}
+  #dovusHud.acik{opacity:1}
+  .barSet{background:linear-gradient(180deg,rgba(10,9,19,.82),rgba(10,9,19,.55));
+          border:1px solid rgba(201,163,92,.30);padding:9px 12px}
+  .barSat{display:flex;align-items:center;gap:9px;margin:3px 0}
+  .barSat span{font-size:8.5px;letter-spacing:.2em;color:var(--duman);width:52px;text-align:right}
+  .ray{flex:1;height:7px;background:rgba(255,255,255,.07);overflow:hidden}
+  .ray i{display:block;height:100%;width:100%;transition:width .18s ease-out}
+  #can{background:linear-gradient(90deg,#9a2c2c,#d64a3f)}
+  #denge{background:linear-gradient(90deg,#2f5d86,#5fa3cf)}
+  #kcan{background:linear-gradient(90deg,#7a6a2e,#c9a35c)}
+
+  #gorev{position:absolute;left:50%;bottom:112px;transform:translateX(-50%);font-size:10.5px;
+         letter-spacing:.16em;color:var(--altin);text-shadow:0 2px 14px #000;text-align:center}
+  #ipucu{position:absolute;left:50%;top:56%;transform:translateX(-50%);font-size:11px;letter-spacing:.2em;
          color:var(--altin);opacity:0;transition:opacity .25s;text-shadow:0 2px 12px #000}
-  #diyalog{position:absolute;left:50%;bottom:26px;transform:translateX(-50%);width:min(860px,92vw);
-           background:linear-gradient(180deg,rgba(8,8,14,.94),rgba(8,8,14,.86));
+  #diyalog{position:absolute;left:50%;bottom:26px;transform:translateX(-50%);width:min(880px,92vw);
+           background:linear-gradient(180deg,rgba(8,8,14,.95),rgba(8,8,14,.87));
            border:1px solid rgba(201,163,92,.42);padding:15px 20px 17px;opacity:0;visibility:hidden;
            transition:opacity .25s}
   #diyalog.acik{opacity:1;visibility:visible}
   #dad{font-family:var(--disp);font-size:15px;letter-spacing:.12em;color:var(--altin);margin-bottom:7px}
-  #dmetin{font-size:12.5px;line-height:1.75;letter-spacing:.03em;min-height:2.6em}
-  #dilerle{margin-top:9px;font-size:9px;letter-spacing:.26em;color:var(--duman);text-align:right}
+  #dmetin{font-size:12.5px;line-height:1.78;letter-spacing:.03em;min-height:2.7em}
+  #dile{margin-top:9px;font-size:9px;letter-spacing:.26em;color:var(--duman);text-align:right}
   #perde{position:fixed;inset:0;display:grid;place-items:center;z-index:9;
          background:radial-gradient(120% 90% at 50% 40%,#171331 0%,#0a0913 70%);transition:opacity 1s ease .3s}
   #perde.git{opacity:0;visibility:hidden}
@@ -47,15 +64,24 @@
     <div class="yer">Kartal-Yurdu · şafaktan önce</div>
   </div>
   <div class="kart" id="kontrol">
-    <b>WASD</b> yürü · <b>Shift</b> koş<br>
-    <b>Sol tık</b> kılıç · <b>E</b> konuş<br>
+    <b>WASD</b> yürü · <b>Ctrl</b> ağır adım<br>
+    <b>Sol tık</b> kılıç (kombo) · <b>Sağ tık</b> blok / savuştur<br>
+    <b>Shift</b> takla · <b>E</b> konuş<br>
     <b>Sürükle</b> kamera · <b>Tekerlek</b> yakınlaş
   </div>
+  <div id="dovusHud">
+    <div class="barSet">
+      <div class="barSat"><span>TOGAN</span><div class="ray"><i id="can"></i></div></div>
+      <div class="barSat"><span>DENGE</span><div class="ray"><i id="denge"></i></div></div>
+      <div class="barSat"><span>KAYA</span><div class="ray"><i id="kcan"></i></div></div>
+    </div>
+  </div>
+  <div id="gorev"></div>
   <div id="ipucu">E — konuş</div>
   <div id="diyalog">
     <div id="dad">Ad</div>
     <div id="dmetin"></div>
-    <div id="dilerle">SPACE / E — devam</div>
+    <div id="dile">SPACE / E — devam</div>
   </div>
 </div>
 <div id="perde"><div>
