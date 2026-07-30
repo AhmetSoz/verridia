@@ -32,8 +32,15 @@ const H = (x, z) => {
 const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('c'), antialias: true });
 renderer.setPixelRatio(Math.min(devicePixelRatio, 1.3));
 renderer.setSize(innerWidth, innerHeight);
-renderer.toneMapping = THREE.ACESFilmicToneMapping;
-renderer.toneMappingExposure = 2.34;
+// Tonlama artik BURADA degil, grade pasinda (post zincirinin sonunda) yapiliyor.
+// CustomToneMapping'i kimlik fonksiyonuna cevirip sadece pozlamayi uyguluyoruz;
+// boylece bloom ve hacimsel isik GERCEK HDR degerleri gorur.
+THREE.ShaderChunk.tonemapping_pars_fragment =
+  THREE.ShaderChunk.tonemapping_pars_fragment.replace(
+    'vec3 CustomToneMapping( vec3 color ) { return color; }',
+    'vec3 CustomToneMapping( vec3 color ) { return toneMappingExposure * color; }');
+renderer.toneMapping = THREE.CustomToneMapping;
+renderer.toneMappingExposure = 1.05;
 renderer.info.autoReset = false;
 renderer.shadowMap.enabled = true; renderer.shadowMap.type = THREE.PCFSoftShadowMap;
 
@@ -1487,8 +1494,19 @@ const atesI=new THREE.PointLight(0xff7326,3.2,19,2); atesI.position.set(13,H(13,
     const s=new THREE.Mesh(new THREE.DodecahedronGeometry(.28+Math.random()*.12,0), MAT(0x4e4a45,1));
     s.position.set(Math.cos(a)*1.25,.12,Math.sin(a)*1.25);
     s.rotation.set(Math.random(),Math.random(),Math.random()); s.castShadow=true; t.add(s);}
-  const k=new THREE.Mesh(new THREE.SphereGeometry(.45,10,8), new THREE.MeshBasicMaterial({color:0xffa347}));
-  k.position.y=.30; t.add(k); t.position.set(13,H(13,9),9); scene.add(t);
+  // HDR cekirdek: 1.0 ustu deger → tonlama sonrasi dogal olarak beyaza doyar,
+  // bloom'a gercek parlaklik bilgisi ulasir.
+  const kMat = new THREE.MeshBasicMaterial({ color: new THREE.Color(9.0, 4.2, 1.5) });
+  kMat.toneMapped = false;
+  const k=new THREE.Mesh(new THREE.SphereGeometry(.45,10,8), kMat);
+  k.position.y=.30; t.add(k);
+  // ic kor: daha kucuk, cok daha parlak
+  const kor = new THREE.Mesh(new THREE.SphereGeometry(.26,10,8),
+    Object.assign(new THREE.MeshBasicMaterial({ color: new THREE.Color(16.0, 9.0, 3.6) }),
+                  { toneMapped:false }));
+  kor.position.y=.26; t.add(kor);
+  t.position.set(13,H(13,9),9); scene.add(t);
+  window.__ocakCekirdek = [k, kor];
 }
 
 // ═══ OBA DOLGUSU: tas, odun, sehpa, cuval, fici, kazik, kagni, koyun ═══
@@ -1694,10 +1712,12 @@ const mesaleler = [];
     for (let k=0;k<3;k++){ const hl=new THREE.Mesh(new THREE.TorusGeometry(.108-k*.018,.010,4,10), sMat);
       hl.rotation.x=Math.PI/2; hl.position.y=boy+.02+k*.08; g.add(hl); }
     const a1 = new THREE.Sprite(new THREE.SpriteMaterial({map:alevDoku, transparent:true,
-      blending:THREE.AdditiveBlending, depthWrite:false, color:0xffdca8, opacity:1}));
+      blending:THREE.AdditiveBlending, depthWrite:false, opacity:1,
+      color:new THREE.Color(5.2, 3.4, 1.7), toneMapped:false}));
     a1.scale.set(.50,.92,1); a1.position.y = boy+.54; g.add(a1);
     const a2 = new THREE.Sprite(new THREE.SpriteMaterial({map:alevDoku, transparent:true,
-      blending:THREE.AdditiveBlending, depthWrite:false, color:0xff7a24, opacity:.70}));
+      blending:THREE.AdditiveBlending, depthWrite:false, opacity:.70,
+      color:new THREE.Color(3.4, 1.5, 0.55), toneMapped:false}));
     a2.scale.set(.78,1.34,1); a2.position.y = boy+.66; g.add(a2);
     g.traverse(o=>{ if(o.isMesh) o.castShadow=true; });
     scene.add(g); STATIK.push(g);
@@ -1880,11 +1900,13 @@ function havuz(n, mat){
         else p[i*3+1]=-999; }
       this.g.attributes.position.needsUpdate=true; } };
 }
-const kivilcim = havuz(300, new THREE.PointsMaterial({ map:noktaDoku('rgba(255,226,160,'),
+const kivilcim = havuz(300, new THREE.PointsMaterial({ toneMapped:false,
+  color:new THREE.Color(3.0,2.4,1.4), map:noktaDoku('rgba(255,226,160,'),
   size:.30, transparent:true, opacity:1, depthWrite:false, blending:THREE.AdditiveBlending }));
 const toz = havuz(420, new THREE.PointsMaterial({ map:noktaDoku('rgba(212,196,158,'),
   size:.60, transparent:true, opacity:.55, depthWrite:false }));
-const atesKiv = havuz(220, new THREE.PointsMaterial({ map:noktaDoku('rgba(255,168,78,'),
+const atesKiv = havuz(220, new THREE.PointsMaterial({ toneMapped:false,
+  color:new THREE.Color(3.6,1.9,0.7), map:noktaDoku('rgba(255,168,78,'),
   size:.22, transparent:true, opacity:.70, depthWrite:false, blending:THREE.AdditiveBlending }));
 const duman = havuz(260, new THREE.PointsMaterial({ map:noktaDoku('rgba(58,54,68,'),
   size:2.1, color:0x6a6474, transparent:true, opacity:.085, depthWrite:false }));
@@ -2104,7 +2126,7 @@ const dofPass = new ShaderPass({
 });
 dofPass.material.depthWrite = false; dofPass.material.depthTest = false;
 composer.addPass(dofPass);
-composer.addPass(new UnrealBloomPass(new THREE.Vector2(innerWidth,innerHeight), .38, .62, .92));
+composer.addPass(new UnrealBloomPass(new THREE.Vector2(innerWidth,innerHeight), .62, .72, 1.15));
 // ── AY HÜZMELERİ: ekran-uzayı ışık saçılması (Elden Ring imzası)
 const huzmePass = new ShaderPass({
   uniforms:{ tDiffuse:{value:null}, isikPos:{value:new THREE.Vector2(.5,.8)},
@@ -2131,9 +2153,9 @@ const huzmePass = new ShaderPass({
 composer.addPass(huzmePass);
 
 const gradePass = new ShaderPass({
-  uniforms:{ tDiffuse:{value:null}, vig:{value:1}, doy:{value:.66}, t:{value:0}, ka:{value:.0021} },
+  uniforms:{ tDiffuse:{value:null}, vig:{value:1}, doy:{value:.72}, t:{value:0}, ka:{value:.0021}, poz:{value:1.42} },
   vertexShader:`varying vec2 vUv; void main(){vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
-  fragmentShader:`uniform sampler2D tDiffuse; uniform float vig, doy, t, ka; varying vec2 vUv;
+  fragmentShader:`uniform sampler2D tDiffuse; uniform float vig, doy, t, ka, poz; varying vec2 vUv;
     void main(){ vec2 p=(vUv-.5)*vec2(1.10,1.);
       // KROMATİK SAPMA: kenara gittikçe artan lens ayrışması (R/B farklı UV'den okunur)
       float kk = dot(p,p) * ka;
@@ -2142,16 +2164,22 @@ const gradePass = new ShaderPass({
       c.g = texture2D(tDiffuse, vUv).g;
       c.b = texture2D(tDiffuse, vUv + yonB).b;
       c.a = 1.0;
-      // ELDEN RING GRADE: gölgeler soğuk-mavi, ışıklar sıcak-kehribar, doygunluk düşük
+      // ── LINEAR UZAYDA RENKLENDIRME (tonlamadan ONCE) ──
+      c.rgb = max(c.rgb, 0.0) * poz;
       float l = dot(c.rgb, vec3(.299,.587,.114));
-      c.rgb = mix(vec3(l), c.rgb, doy);
-      c.rgb += vec3(-0.016, 0.002, 0.042) * (1.0 - smoothstep(0.0, 0.46, l));   // gölge mavisi
-      c.rgb += vec3( 0.062, 0.026,-0.030) * smoothstep(0.34, 1.0, l);           // ışık kehribarı
-      // FILMIK S-EGRI: golgede yumusak, orta tonda sert, en parlakta yumusak
-      c.rgb = clamp((c.rgb - .030) * 1.46, 0.0, 4.0);
-      vec3 x = clamp(c.rgb, 0.0, 1.6);
-      c.rgb = x*x*(3.0 - 2.0*x*0.62);                                          // hafif S-egri
-      c.rgb *= mix(1., smoothstep(1.22,.40,length(p)), vig);                     // güçlü vinyet
+      c.rgb = mix(vec3(l), c.rgb, doy);                                         // doygunluk
+      // ELDEN RING: golgeler soguk-mavi, isiklar sicak-kehribar. HDR'de carpimsal
+      // tonlama toplamsaldan guvenli (parlak bolgelerde renk kacirmaz).
+      float ton = smoothstep(0.0, 0.85, l);
+      c.rgb *= mix(vec3(0.90,0.96,1.16), vec3(1.14,1.02,0.86), ton);
+      // ── FILMIK TONLAMA (ACES uyarlamasi) — post zincirinin SONU ──
+      // Golgede yumusak (toe), orta tonda sert, en parlakta yumusak (shoulder).
+      // Parlak bolgelerin dogal sekilde beyaza doymasina izin verilir.
+      { vec3 x = c.rgb * 0.62;
+        c.rgb = clamp((x*(2.51*x+0.03)) / (x*(2.43*x+0.59)+0.14), 0.0, 1.0); }
+      // ── GORUNTU UZAYI: ACES'in yumusak toe'su siyahlari kaldiriyor, geri bastir
+      c.rgb = pow(c.rgb, vec3(1.28));
+      c.rgb *= mix(1., smoothstep(1.22,.36,length(p)), vig);                     // vinyet
       float grain = fract(sin(dot(vUv*vec2(1.0,1.0)+t, vec2(12.9898,78.233)))*43758.5453);
       c.rgb += (grain-0.5)*0.016;
       gl_FragColor=c; }`
