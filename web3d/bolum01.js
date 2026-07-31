@@ -22,10 +22,26 @@ function vn(x, y) {
   return hash(ix,iy)*(1-u)*(1-v) + hash(ix+1,iy)*u*(1-v) + hash(ix,iy+1)*(1-u)*v + hash(ix+1,iy+1)*u*v;
 }
 function fbm(x, y, o = 4) { let s=0,a=.5,f=1; for(let i=0;i<o;i++){s+=a*vn(x*f,y*f);f*=2.03;a*=.5;} return s; }
+// SIRTLI GURULTU (ridged multifractal): duz fbm yuvarlak tepeler uretir ve
+// ufuk kusursuz bir CANAK KENARI gibi okunuyordu. 1-|2n-1| donusumu keskin
+// sirtlar ve vadiler verir — gercek dag siluetinin karakteri budur.
+function sirt(x, y, o){
+  let s=0, a=.5, f=1, agir=1;
+  for (let i=0;i<o;i++){
+    const v = 1 - Math.abs(vn(x*f, y*f)*2 - 1);
+    s += a * v * v * agir;
+    agir = clamp(v*1.5, 0, 1);          // onceki sirt sonrakini besler (catallanma)
+    f *= 2.07; a *= .52;
+  }
+  return s;
+}
 const H = (x, z) => {
   const r = Math.hypot(x*.85, z);
-  const d = clamp((r-48)/150, 0, 1);
-  return fbm(x*.03,z*.03,3)*1.6 + (fbm(x*.006,z*.006,5)*215 + fbm(x*.022,z*.022,4)*30) * d*d;
+  // rampa uzakta baslar: 120 m'ye kadar oba duzlugu, tam yukseklik ~400 m'de.
+  // Boylece daglar UFUK CIZGISINDE kalir, kameranin tepesinde degil.
+  const d = clamp((r-120)/280, 0, 1);
+  return fbm(x*.03,z*.03,3)*1.6
+       + (sirt(x*.0042, z*.0042, 5)*118 + fbm(x*.019,z*.019,4)*22) * d*d;
 };
 
 // ═══════════ 2. RENDERER / SAHNE ═══════════
@@ -286,11 +302,18 @@ const AY_YON = new THREE.Vector3(-0.30, 0.46, -0.84).normalize();
 const _gy = new THREE.Vector3();
 // gunes dogudan alcak acidan dogar; safakta ufkun hemen ustunde
 function gunesYonu(z){ return _gy.set(0.86, lerp(-0.32, 0.155, z), 0.44).normalize(); }
+
 const gokMat = new THREE.ShaderMaterial({
   side: THREE.BackSide, depthWrite: false,
-  uniforms: { t: { value: 0 }, zaman: ZAMAN, gunesYon: { value: new THREE.Vector3(0.86,-0.32,0.44).normalize() } },
+  uniforms: {
+    t: { value: 0 }, zaman: ZAMAN,
+    gunesYon: { value: new THREE.Vector3(0.86,-0.32,0.44).normalize() },
+    bulutKat: { value: 3 }
+  },
   vertexShader: `varying vec3 vW; void main(){ vW=position; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);} `,
-  fragmentShader: `varying vec3 vW; uniform float t, zaman; uniform vec3 gunesYon;
+  fragmentShader: `
+  varying vec3 vW; uniform float t, zaman; uniform vec3 gunesYon; uniform int bulutKat;
+
   float h(vec2 p){ return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453); }
   float n(vec2 p){ vec2 i=floor(p),f=fract(p); f=f*f*(3.-2.*f);
     return mix(mix(h(i),h(i+vec2(1,0)),f.x),mix(h(i+vec2(0,1)),h(i+vec2(1,1)),f.x),f.y); }
@@ -301,70 +324,203 @@ const gokMat = new THREE.ShaderMaterial({
     vec2 w2 = vec2(fb(p+4.0*w1+vec2(17.,5.2)), fb(p+4.0*w1+vec2(3.1,28.)));
     return fb(p + 4.0*w2);
   }
+
+  // ═══ ATMOSFERIK SACILMA ═══
+  // Gercek gokyuzunu gercek yapan sey sacilmadir. Elle renk duragi ayarlamak
+  // yerine fizigi kuruyoruz: Rayleigh (lambda^-4, mavi) + Mie (ileri sacilma,
+  // hale ve pus). Safaktaki kizillik BUNDAN cikiyor, elle boyanmiyor.
+  const vec3 RAYLEIGH = vec3(5.8e-3, 13.5e-3, 33.1e-3);   // lambda^-4 orani
+  const vec3 MIE      = vec3(6.0e-3);
+  float rayleighFaz(float c){ return 3.0/(16.0*3.14159) * (1.0 + c*c); }
+  // Henyey-Greenstein: Mie'nin ileri sacilma lobu (gunesin cevresindeki hale)
+  float mieFaz(float c, float g){
+    float g2 = g*g;
+    return (1.0-g2) / (4.0*3.14159 * pow(1.0 + g2 - 2.0*g*c, 1.5));
+  }
+  // Isik yolunun optik derinligi: ufka dogru bakinca atmosferde cok daha uzun
+  // yol katedilir → mavi tamamen sacilir, geriye kirmizi kalir. Safakta
+  // gunesin kizil olmasinin sebebi budur.
+  float optikDerinlik(float yukseklikKos){
+    // Chapman yaklasimi (Schuler). DIKKAT: 93.885 - derece ifadesi ufkun ~6 derece
+    // altinda NEGATIFE duser ve negatif tabanin kesirli kuvveti GLSL'de TANIMSIZDIR
+    // (NaN). Gece gunes ufkun altinda oldugu icin bu her karede NaN uretiyordu.
+    float k = clamp(yukseklikKos, -0.9999, 1.0);
+    float derece = degrees(acos(k));
+    float taban = max(93.885 - derece, 0.35);           // asla negatif olmaz
+    return 1.0 / (max(k, 0.0) + 0.15 * pow(taban, -1.253));
+  }
+
   void main(){
-    vec3 d=normalize(vW); float y=clamp(d.y*.5+.5,0.,1.);
+    vec3 d = normalize(vW);
+    float y = d.y;
     float safak = clamp(zaman, 0.0, 1.0);
-    float gece  = 1.0 - smoothstep(0.05, 0.62, safak);      // gece ogeleri boyle soner
-    float gd    = dot(d, gunesYon);                          // gunese yakinlik
-    float ufukGunes = max(0.0, gd);
+    float gece  = 1.0 - smoothstep(0.05, 0.62, safak);
 
-    // ── UFUK GRADYANI: gece paletinden safak paletine gecer ──
-    vec3 uf0 = mix(vec3(0.62,0.40,0.35), vec3(1.35,0.62,0.30), safak);   // en dip
-    vec3 uf1 = mix(vec3(0.38,0.30,0.40), vec3(1.00,0.55,0.38), safak);
-    vec3 uf2 = mix(vec3(0.22,0.21,0.38), vec3(0.52,0.46,0.58), safak);
-    vec3 uf3 = mix(vec3(0.09,0.11,0.26), vec3(0.19,0.28,0.50), safak);   // zenit
-    vec3 col = mix(uf0, uf1, smoothstep(0.0,0.11,y));
-    col = mix(col, uf2, smoothstep(0.09,0.27,y));
-    col = mix(col, uf3, smoothstep(0.25,0.84,y));
-    // ufka yakin sicak bant; safakta gunes yonunde cok daha guclu
-    col += mix(vec3(0.76,0.38,0.20)*0.62,
-               vec3(1.50,0.66,0.26)*(0.35+1.35*pow(ufukGunes,2.2)), safak)
-           * pow(max(0.,1.-abs(d.y)*8.),3.);
+    vec3 gunes = gunesYon;
+    float cg = dot(d, gunes);                    // bakis-gunes acisi
+    float ca = dot(d, normalize(vec3(-0.30,0.46,-0.84)));
 
-    // ── SAMANYOLU: galaktik duzlem boyunca yogun yildiz bandi (sadece gece) ──
+    // ── optik derinlikler
+    float bakisOD  = optikDerinlik(y);
+    float gunesOD  = optikDerinlik(gunes.y);
+    // gunes ufkun altindayken isik cok daha fazla atmosfer katediyor
+    float toplamOD = bakisOD + gunesOD;
+
+    // ── Rayleigh + Mie sonumu
+    vec3 sonum = exp(-(RAYLEIGH + MIE) * toplamOD * 42.0);
+    float faz_r = rayleighFaz(cg);
+    float faz_m = mieFaz(cg, 0.76);
+
+    // gunesin ufkun ustunde olma orani: gece bu ~0, safakta artiyor
+    float gunesGuc = smoothstep(-0.28, 0.14, gunes.y) * (0.10 + 1.75*safak);
+    vec3 gunesRenk = vec3(1.0, 0.92, 0.80);
+
+    // ── gunduz/safak gokyuzu (sacilmadan)
+    vec3 col = (RAYLEIGH * faz_r + MIE * faz_m) * gunesRenk * gunesGuc * 260.0;
+    col *= sonum;
+    // coklu sacilma yaklasimi: gokyuzu hicbir zaman tam siyah olmaz
+    col += RAYLEIGH * 26.0 * gunesGuc * (0.30 + 0.70*sonum);
+
+    // ── AY ISIGI: gece gokyuzunu ay aydinlatir (ayni sacilma, cok daha zayif,
+    // ve goz karanlikta maviye kayar — Purkinje etkisi)
+    float ayGuc = gece * 0.085;
+    float faz_ra = rayleighFaz(ca);
+    float faz_ma = mieFaz(ca, 0.70);
+    col += (RAYLEIGH * faz_ra + MIE * faz_ma) * vec3(0.72,0.82,1.0) * ayGuc * 260.0 * sonum;
+    col += RAYLEIGH * 24.0 * ayGuc * (0.30 + 0.70*sonum);
+    // gece taban parlakligi (hava parlamasi / sehir-yansimasi yok ama sifir da degil)
+    col += vec3(0.0030,0.0042,0.0088) * gece;
+
+    // ═══ SAMANYOLU ═══ galaktik duzlem + IC TOZ SERITLERI
+    // Bandin karakterini veren sey parlaklik degil, icindeki KARANLIK toz bulutlari.
     vec3 galaksi = normalize(vec3(0.36, 0.30, -0.88));
     float gdz = abs(dot(d, galaksi));
-    float band = smoothstep(0.30, 0.015, gdz) * smoothstep(-0.05, 0.30, d.y);
-    float bandDoku = bulut(vec2(atan(d.z,d.x)*1.5, d.y*3.0));
-    col += vec3(0.30,0.33,0.48) * band * (0.20 + 0.80*bandDoku) * 0.60 * gece;
+    float band = smoothstep(0.32, 0.015, gdz) * smoothstep(-0.06, 0.28, y);
+    if (band > 0.001 && gece > 0.01) {
+      vec2 gk = vec2(atan(d.z,d.x)*1.5, d.y*3.0);
+      float parlak = bulut(gk)*0.6 + bulut(gk*2.7+11.0)*0.4;
+      float toz    = smoothstep(0.42, 0.72, bulut(gk*1.9 + 31.0));   // koyu yarik
+      vec3 syRenk = mix(vec3(0.26,0.29,0.44), vec3(0.40,0.36,0.34), parlak*0.6);
+      col += syRenk * band * (0.18 + 0.82*parlak) * (1.0 - toz*0.78) * 0.85 * gece;
+    }
 
-    // ── BULUTLAR: safakta ALTTAN aydinlanir (safagin asil gosterisi budur) ──
-    float bl=bulut(vec2(atan(d.z,d.x)*2.2, d.y*6.5-t*0.004));
-    vec3 bulutIsik = mix(vec3(0.08,0.06,0.11),
-                         vec3(1.55,0.72,0.30)*pow(ufukGunes,1.7) + vec3(0.30,0.26,0.30), safak);
-    col=mix(col, col*mix(1.28,1.05,safak) + bulutIsik,
-            smoothstep(0.52,0.86,bl)*smoothstep(0.03,0.36,d.y)*0.85);
-    float bl2=bulut(vec2(atan(d.z,d.x)*3.6+11., d.y*9.0-t*0.011));
-    col=mix(col, col*1.14 + bulutIsik*0.45,
-            smoothstep(0.60,0.90,bl2)*smoothstep(0.05,0.40,d.y)*0.5);
+    // ═══ YILDIZLAR ═══ kadir siniflari + renk sicakligi
+    // Gercek gokyuzunde yildizlar ne ayni parlaklikta ne de beyazdir.
+    if (gece > 0.01) {
+      for (int L = 0; L < 3; L++) {
+        float olcek = 118.0 + float(L)*96.0;                 // farkli yogunluk katmani
+        vec2 sp = d.xz / max(0.10, abs(d.y)+0.30) * olcek;
+        vec2 ce = floor(sp) + float(L)*37.0;
+        float rnd = h(ce);
+        // kadir: parlak yildiz cok az, sonuk cok
+        float esik = mix(0.9955, 0.982, float(L)/2.0) - band*0.020;
+        if (rnd > esik) {
+          float dd = length(fract(sp) - vec2(h(ce+3.1), h(ce+7.7)));
+          float boy = mix(0.10, 0.30, (rnd-esik)/(1.0-esik));
+          float par = smoothstep(boy, 0.0, dd);
+          // renk sicakligi: mavi-beyaz → sari → turuncu
+          float sic = h(ce + 19.3);
+          vec3 yRenk = sic < 0.30 ? mix(vec3(0.72,0.80,1.00), vec3(1.00,1.00,0.98), sic/0.30)
+                     : sic < 0.72 ? mix(vec3(1.00,1.00,0.98), vec3(1.00,0.92,0.72), (sic-0.30)/0.42)
+                                  : mix(vec3(1.00,0.92,0.72), vec3(1.00,0.72,0.52), (sic-0.72)/0.28);
+          float titrek = 0.68 + 0.32*sin(t*(1.1+rnd*3.2) + h(ce+9.9)*6.28);
+          float guc = mix(0.55, 2.6, (rnd-esik)/(1.0-esik));
+          col += yRenk * par * titrek * guc * gece * smoothstep(-0.03, 0.22, y);
+        }
+      }
+      // KIZIL SURU takimyildizi (kitaptan)
+      vec3 ks = normalize(vec3(0.70,0.20,-0.68)); float dk = max(0.,dot(d,ks));
+      col += vec3(0.62,0.10,0.15) * pow(dk,20.) * (0.25+0.80*bulut(d.xy*9.)) * gece;
+    }
 
-    // ── YILDIZLAR: titresimli, safakta soner ──
-    vec2 sp=d.xz/max(0.10,abs(d.y)+0.30)*135.; vec2 ce=floor(sp);
-    float dd=length(fract(sp)-vec2(h(ce+3.1),h(ce+7.7)));
-    float titrek = 0.72 + 0.28*sin(t*(1.3+h(ce+1.1)*2.6) + h(ce+9.9)*6.28);
-    // Samanyolu bandinda yildizlar daha sik gorunur
-    float esik = mix(0.986, 0.960, band);
-    col+=vec3(0.90,0.93,1.0)*smoothstep(esik,1.0,h(ce))*smoothstep(0.22,0.0,dd)*1.6*titrek
-         *smoothstep(-0.02,0.24,d.y)*gece;
-    // KIZIL SURU takimyildizi (kitaptan) — gece
-    vec3 ks=normalize(vec3(0.70,0.20,-0.68)); float dk=max(0.,dot(d,ks));
-    col+=vec3(0.68,0.09,0.14)*pow(dk,22.)*(0.22+0.85*bulut(d.xy*9.))*gece;
-    col+=vec3(1.0,0.22,0.24)*smoothstep(0.975,1.0,h(ce+55.))*smoothstep(0.30,0.0,dd)*pow(dk,9.)*2.6*gece;
+    // ═══ AY (TEK GOZ) ═══ yuzey + limb darkening + evre + hale
+    {
+      vec3 ay = normalize(vec3(-0.30,0.46,-0.84));
+      float da = dot(d, ay);
+      float ayG = mix(1.0, 0.22, safak);
+      // hale: ic keskin + dis yayilmis + ince 22 derece buz halkasi
+      col += vec3(0.40,0.45,0.72) * pow(max(0.,da),620.) * 0.85 * ayG;
+      col += vec3(0.30,0.34,0.56) * pow(max(0.,da), 32.) * 0.17 * ayG;
+      col += vec3(0.20,0.24,0.42) * pow(max(0.,da),  7.) * 0.065 * ayG;
+      float halka = smoothstep(0.9245,0.9295,da) * (1.0-smoothstep(0.9295,0.9370,da));  // genis ve yumusak
+      col += vec3(0.16,0.18,0.28) * halka * 0.10 * ayG;   // gercek 22 derece hale cok siliktir
+      // disk
+      float diskR = 0.99955;
+      if (da > diskR) {
+        // disk uzerindeki yerel koordinat (kenara dogru 1'e gider)
+        float r = sqrt(clamp((1.0-da)/(1.0-diskR), 0.0, 1.0));
+        vec3 ekX = normalize(cross(ay, vec3(0.0,1.0,0.0)));
+        vec3 ekY = cross(ekX, ay);
+        vec2 uv = vec2(dot(d,ekX), dot(d,ekY)) / max(1.0-diskR, 1e-6) * 0.045;
+        // maria (koyu denizler) + krater gurultusu
+        float maria = smoothstep(0.42, 0.62, fb(uv*2.4 + 5.0));
+        float krater = fb(uv*11.0) * 0.5 + fb(uv*26.0) * 0.5;
+        vec3 yuzey = mix(vec3(0.92,0.93,0.97), vec3(0.55,0.57,0.66), maria*0.75);
+        yuzey *= 0.80 + 0.34*krater;
+        // limb darkening: kenara dogru sonme
+        yuzey *= sqrt(clamp(1.0 - r*r, 0.0, 1.0)) * 0.55 + 0.45;
+        // evre: terminator (sol alttan aydinlanma)
+        float evre = smoothstep(-0.42, 0.32, dot(normalize(vec3(uv, sqrt(max(0.0,1.0-dot(uv,uv))))),
+                                                 normalize(vec3(0.55,0.30,0.78))));
+        yuzey *= 0.10 + 0.90*evre;
+        // Diskin GORUNURLUGU de ayG'ye bagli olmali: safakta ay yok olur,
+        // yerini gokyuzune birakir. Sadece parlakligi kisilirsa koyu delik acilir.
+        col = mix(col, yuzey * 1.75, smoothstep(diskR, 0.99975, da) * ayG);
+      }
+    }
 
-    // ── AY: TEK GOZ. Halesi keskin ic + yayilmis dis. Safakta soner ──
-    vec3 ay=normalize(vec3(-0.30,0.46,-0.84)); float da=dot(d,ay);
-    float ayG = mix(1.0, 0.25, safak);
-    col+=vec3(0.42,0.47,0.74)*pow(max(0.,da),560.)*0.95*ayG;
-    col+=vec3(0.30,0.34,0.56)*pow(max(0.,da),34.)*0.20*ayG;
-    col+=vec3(0.20,0.24,0.42)*pow(max(0.,da),7.)*0.075*ayG;
-    col=mix(col, vec3(0.90,0.92,0.99)*(0.86+0.14*n(d.xy*280.)), smoothstep(0.99920,0.99950,da)*ayG);
-    col=mix(col, vec3(0.07,0.10,0.25), smoothstep(0.999730,0.999820,da)*(1.-smoothstep(0.999875,0.999925,da))*0.92*ayG);
-    col=mix(col, vec3(0.02,0.02,0.05), smoothstep(0.999875,0.999925,da)*0.85*ayG);
+    // ═══ GUNES ═══ disk + ufuk parlamasi (HDR → bloom yakalar)
+    if (safak > 0.01) {
+      col += vec3(2.10,0.86,0.30) * pow(max(0.0,cg), 11.0) * safak * 0.75;
+      col += vec3(7.0,5.0,3.2) * smoothstep(0.99958, 0.99986, cg) * safak;
+    }
 
-    // ── GUNES: ufuk parlamasi + disk (HDR degerler → bloom yakalar) ──
-    col += vec3(1.90,0.78,0.28) * pow(ufukGunes, 9.0) * safak * 0.85;
-    col += vec3(6.0,4.2,2.6) * smoothstep(0.99955, 0.99985, gd) * safak;
-    gl_FragColor=vec4(col,1.); }`
+    // ═══ BULUTLAR ═══ uc yukseklik katmani, farkli hizda → gercek paralaks
+    // Isik gecirgenligi Beer-Lambert ile: gunese bakan kenarlar GUMUS ASTAR alir,
+    // tabanlar koyu kalir. Safagin gosterisi bu.
+    {
+      float ufukAcik = smoothstep(-0.02, 0.30, y);
+      // gunes/ay yonunde ofsetli ornekleme → hangi tarafin aydinlandigini verir
+      vec2 isikOfs = (safak > 0.35 ? gunes.xz : vec3(-0.30,0.46,-0.84).xz) * 0.22;
+      vec3 isikRenk = mix(vec3(0.42,0.48,0.72)*0.55, vec3(1.85,1.05,0.62), safak);
+      vec3 tabanRenk = mix(vec3(0.055,0.062,0.095), vec3(0.52,0.42,0.42), safak);
+
+      float kaplamaTemel = mix(0.54, 0.60, safak);
+      for (int L = 0; L < 3; L++) {
+        if (L >= bulutKat) break;
+        float fl = float(L);
+        // yukseldikce: daha ince, daha hizli, daha yayvan
+        float irilik = 2.2 + fl*1.7;
+        float hiz    = 0.004 + fl*0.0055;
+        float katUf  = smoothstep(0.02 + fl*0.03, 0.34 + fl*0.16, y);
+        vec2 uv = vec2(atan(d.z,d.x)*irilik + fl*13.0, y*(6.2+fl*2.6) - t*hiz);
+        // iki oktav: buyuk kutle + ic detay. Tek oktav yassi leke uretiyordu.
+        float yog = bulut(uv) * 0.72 + bulut(uv*2.9 + 7.0) * 0.28;
+        float kaplama = kaplamaTemel + fl*0.055;
+        float m = smoothstep(kaplama, kaplama+0.24, yog) * katUf;
+        if (m < 0.004) continue;
+        // isik yonundeki yogunluk: dusukse o kenar aydinlanir (gumus astar)
+        float yogI = bulut(uv + isikOfs) * 0.72 + bulut((uv + isikOfs)*2.9 + 7.0) * 0.28;
+        float gecis = exp(-max(0.0, yogI - yog + 0.10) * 5.2);   // Beer-Lambert
+        // powder: ince kenarlarda ileri sacilma
+        float powder = 1.0 - exp(-m * 3.2);
+        // taban hicbir zaman tam koyu olmaz: cok sacilma tabani da aydinlatir
+        vec3 bRenk = mix(tabanRenk, isikRenk, 0.22 + gecis*0.78) * (0.62 + 0.55*powder);
+        float agir = m * (1.0 - fl*0.22);                        // yuksek katmanlar seffaf
+        col = mix(col, bRenk, clamp(agir, 0.0, 0.88) * ufukAcik);
+      }
+    }
+
+    // ═══ UFUK KUSAGI ═══ sahne sisinden AYRI, gokyuzunun kendi pusu.
+    // Uzak daglarin arkasinda gokyuzunun acilmasi bu katmanla olur.
+    {
+      vec3 ufukRenk = mix(vec3(0.075,0.088,0.135), vec3(0.85,0.62,0.44), safak);
+      float k = pow(clamp(1.0 - abs(y)*3.4, 0.0, 1.0), 2.1);
+      col = mix(col, ufukRenk, k * mix(0.42, 0.62, safak));
+    }
+
+    gl_FragColor = vec4(max(col, 0.0), 1.0);
+  }`
 });
 scene.add(new THREE.Mesh(new THREE.SphereGeometry(2200, 56, 36), gokMat));
 // gökyüzü shader'ından PMREM çevre haritası: metal kılıç/toka artık gerçek yansıtıyor
@@ -2358,8 +2514,11 @@ const hacimPass = new ShaderPass({
       // ulasmiyordu ve uzak siluetler duz koyu lekeler halinde kaliyordu.
       // Beer-Lambert ile mesafeye gore KARISTIRMA yapmak hem dogru hem daha ucuz:
       // uzak nesneler pus RENGINE doner, sadece parlamaz.
+      // GOKYUZU sis KARISIMINDAN muaf: sahne sisi gokyuzu kuresine uygulanmaz.
+      // (Bu kontrol yokken gokyuzunun %61-79'u duz sis rengiyle boyaniyordu.)
+      float gokMu = step(0.9995, dz);
       float tamMes = min(sahneMes, 1200.0);
-      float pus = 1.0 - exp(-tamMes * 0.0034);
+      float pus = (1.0 - exp(-tamMes * 0.0034)) * (1.0 - gokMu);
       vec3 sonuc = mix(taban.rgb, pusRenk, clamp(pus * pusGuc, 0.0, 0.90));
       gl_FragColor = vec4(sonuc + top * adim * yogunluk, taban.a);
     }`
@@ -2567,7 +2726,7 @@ document.addEventListener('pointerlockchange', () => {
 addEventListener('mousemove', e => {
   if (!kilitli()) return;
   kamYaw   -= e.movementX * .0026;
-  kamPitch  = clamp(kamPitch + e.movementY * .0021, .02, 1.12);
+  kamPitch  = clamp(kamPitch + e.movementY * .0021, -.62, 1.12);
 });
 cv.addEventListener('wheel', e => { kamMes = clamp(kamMes*(1+Math.sign(e.deltaY)*.12), 3.4, 24);
   e.preventDefault(); }, {passive:false});
