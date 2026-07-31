@@ -117,9 +117,15 @@ function isimaSade(mat, guc = 1.0){
           _ip = instanceMatrix * _ip;
         #endif
         vIP = (modelMatrix * _ip).xyz;`);
-    s.fragmentShader = 'varying vec3 vIP; uniform float isiGuc;\n' + ISI_GLSL + s.fragmentShader
+    s.uniforms.patikaSeg = PATIKA_U;
+    s.fragmentShader = 'varying vec3 vIP; uniform float isiGuc;\n' + ISI_GLSL + PATIKA_GLSL + s.fragmentShader
       .replace('#include <dithering_fragment>', `#include <dithering_fragment>
         gl_FragColor.rgb += isimaOku(vIP) * isiGuc * 0.55;
+        // ── ASINMIS PATIKA: cignenmis toprak koyulasir ve doygunlugunu kaybeder.
+        // Bir oba 'kullanilir'; bu olmadan yeni kurulmus dekor gibi okunuyor.
+        { float pt = patikaMiktarG(vIP.xz);
+          gl_FragColor.rgb = mix(gl_FragColor.rgb,
+                                 gl_FragColor.rgb*vec3(0.60,0.54,0.45), pt*0.78); }
         // SSR MASKESI: purüz dusukse (su birikintisi) alfaya yaz.
         // Alfa kanali baska hicbir sey icin kullanilmiyor — bedava maske.
         gl_FragColor.a = clamp(1.0 - roughnessFactor*1.55, 0.0, 1.0);`);
@@ -376,8 +382,56 @@ const karIsik = new THREE.PointLight(0xa8b4d6, 7.5, 9, 2.0); scene.add(karIsik);
 let ISLAKLIK = null;   // su birikintisi purüz haritasi (arazi + detay yamasi paylasir)
 // arazi rengi — hem ana arazi hem yakin alan detay yamasi ayni formulu kullanir
 const _AR = new THREE.Color();
+const _acPatika = new THREE.Color(0x4a3b2b);
 const _ac1 = new THREE.Color(0x6b5c44), _ac2 = new THREE.Color(0x53483a),
       _ac3 = new THREE.Color(0x3b3128), _ac4 = new THREE.Color(0x45423f);
+// ── ASINMIS PATIKALAR ──
+// Bir oba 'kullanilir'. Yurtlar arasindaki gecisler cignenir: toprak koyulasir,
+// sikisir, cim seyrelir. Bu olmadan oba 'yeni kurulmus dekor' gibi okunuyor.
+// Oba yollari dallanir; tek polyline yetmez, SEGMENT listesi kullaniyoruz.
+// Dugumler: yurtlar (-22,15) (-31,-8) (17,21) (27,-3) (-7,27) (9,-26),
+// ana ocak (13,9), talim alani (-2,-9), meydan (1,2).
+const PATIKA = [
+  [  1,  2,  13,  9],   // meydan → ocak
+  [  1,  2,  -2, -9],   // meydan → talim alani
+  [  1,  2, -22, 15],   // meydan → bati yurdu
+  [  1,  2,  17, 21],   // meydan → kuzeydogu yurdu
+  [ 13,  9,  17, 21],   // ocak → kuzeydogu yurdu
+  [-22, 15, -31, -8],   // bati yurtlari arasi
+  [-22, 15,  -7, 27],
+  [  1,  2,  27, -3],   // meydan → dogu yurdu
+  [ -2, -9,   9,-26],   // talim → guney yurdu
+];
+// shader'a gonderilecek hal: vec4(ax, az, bx, bz)
+const PATIKA_U = { value: PATIKA.map(q => new THREE.Vector4(q[0], q[1], q[2], q[3])) };
+const PATIKA_GLSL = `
+  uniform vec4 patikaSeg[${PATIKA.length}];
+  float patikaMiktarG(vec2 p){
+    float en = 1e9;
+    for (int i = 0; i < ${PATIKA.length}; i++){
+      vec2 a = patikaSeg[i].xy, b = patikaSeg[i].zw;
+      vec2 ab = b - a, ap = p - a;
+      float s = clamp(dot(ap,ab) / max(dot(ab,ab), 1e-6), 0.0, 1.0);
+      en = min(en, length(a + ab*s - p));
+    }
+    return clamp(1.0 - en/2.55, 0.0, 1.0);
+  }
+`;
+function patikaMiktar(x, z){
+  let en = 1e9;
+  for (let i = 0; i < PATIKA.length; i++) {
+    const q = PATIKA[i];
+    const dx = q[2]-q[0], dz = q[3]-q[1], L2 = dx*dx+dz*dz;
+    let s = L2 > 1e-6 ? ((x-q[0])*dx + (z-q[1])*dz) / L2 : 0;
+    s = s < 0 ? 0 : (s > 1 ? 1 : s);
+    const px = q[0] + dx*s - x, pz = q[1] + dz*s - z;
+    const d = Math.sqrt(px*px + pz*pz);
+    if (d < en) en = d;
+  }
+  // patika genisligi ~2.2 m, kenari yumusak; hafif gurultuyle duzensizlestir
+  const gen = 2.2 + fbm(x*.35, z*.35, 2)*1.1;
+  return clamp(1 - en/gen, 0, 1);
+}
 function araziRenk(x, z, out){
   const y = H(x,z);
   const eg = Math.abs(H(x+2,z)-y) + Math.abs(H(x,z+2)-y);
@@ -387,7 +441,7 @@ function araziRenk(x, z, out){
   out.lerp(_ac3, Math.max(clamp(eg*.16,0,.7), mrk*.88));
   if (eg > 5) out.lerp(_ac4, clamp((eg-5)*.12,0,.8));
   out.multiplyScalar(.40 + .24*mi);
-  return out;
+  return out;   // patika artik shader'da (izgara cozunurlugu yetmiyordu)
 }
 {
   const g = new THREE.PlaneGeometry(900, 900, 200, 200); g.rotateX(-Math.PI/2);
@@ -442,7 +496,10 @@ cimMat.onBeforeCompile = s => { s.uniforms.t = {value:0}; cimMat.userData.s = s;
     const r = 5 + Math.pow(Math.random(),.5)*185, a = Math.random()*Math.PI*2;
     const x = Math.cos(a)*r, z = Math.sin(a)*r;
     Q.setFromAxisAngle(new THREE.Vector3(0,1,0), Math.random()*Math.PI);
-    const mrk = Math.hypot(x,z) < 22 ? .22 : 1;
+    // patikada ot cignenmis: hem seyrek hem kisa
+    const pt = patikaMiktar(x, z);
+    if (pt > .45 && Math.random() < pt*.85) { M4.makeScale(0,0,0); cim.setMatrixAt(i, M4); continue; }
+    const mrk = (Math.hypot(x,z) < 22 ? .22 : 1) * (1 - pt*.55);
     const s = (.7+Math.random()*.9)*mrk;
     M4.compose(V.set(x,H(x,z)-.05,z), Q, S.set(s*(.8+Math.random()*.5), s, s));
     cim.setMatrixAt(i, M4);
@@ -1510,6 +1567,7 @@ kaya.kok.position.set(-13, H(-13,-7), -7); kaya.kok.rotation.y = Math.PI*.8; sce
 const kecemat = () => kenar(new THREE.MeshStandardMaterial({color:0x7d7361, roughness:1, normalMap:D_KUMAS.n, normalScale:new THREE.Vector2(1.6,1.6)}), new THREE.Color(0x8fa0d8), .18);
 const ahsap = () => kenar(new THREE.MeshStandardMaterial({color:0x5a4227, roughness:.95}), new THREE.Color(0x7f8fc8), .22);
 const bacalar = [];
+const yurtlar = [];   // patika ve ic isik icin
 function yurt(x,z,s=1){
   const g = new THREE.Group();
   // keceyi sarkit: gergi noktalari arasi hafif cokme (mukemmel silindir olmaz)
@@ -1546,6 +1604,23 @@ function yurt(x,z,s=1){
     const k=new THREE.Mesh(new THREE.CylinderGeometry(.035,.045,1.32,4), ahsap());
     k.position.set(Math.cos(a)*1.42,2.62,Math.sin(a)*1.42);
     k.rotation.z=Math.cos(a)*.62; k.rotation.x=-Math.sin(a)*.62; g.add(k); }
+  // ── YURT ICI PARILTISI ──
+  // Bir obayi 'yasaniyor' gosteren en guclu tek isaret: iceride ates var, keceden
+  // sizan sicak leke ve aydinlanmis baca deligi. Bu olmadan yurtlar bos kabuk gibi.
+  {
+    // baca deligi (toono) icten aydinlanir — HDR deger, bloom yakalar
+    const bcMat = new THREE.MeshBasicMaterial({ color: new THREE.Color(1.35,0.62,0.24) });
+    bcMat.toneMapped = false;
+    const bc2 = new THREE.Mesh(new THREE.CircleGeometry(.38, 16), bcMat);
+    bc2.rotation.x = -Math.PI/2; bc2.position.y = 2.98; g.add(bc2);
+    // keceden sizan leke: kapinin cevresinde ve alt kusakta sicak parilti
+    const szMat = new THREE.MeshBasicMaterial({ color: new THREE.Color(0.62,0.26,0.10),
+      transparent:true, opacity:.55, blending:THREE.AdditiveBlending, depthWrite:false });
+    szMat.toneMapped = false;
+    const sz = new THREE.Mesh(new THREE.PlaneGeometry(1.30,1.75), szMat);
+    sz.position.set(0,.80,2.735); g.add(sz);
+    g.userData.icAtes = [bcMat, szMat];
+  }
   const cr=new THREE.Mesh(new THREE.BoxGeometry(1.12,1.55,.10), ahsap()); cr.position.set(0,.78,2.66); g.add(cr);
   const kn=new THREE.Mesh(new THREE.BoxGeometry(.92,1.34,.06),
     kenar(new THREE.MeshStandardMaterial({color:0x2e2114,roughness:1}), new THREE.Color(0x6f7fb8), .18));
@@ -1570,6 +1645,7 @@ function yurt(x,z,s=1){
   g.position.set(x,H(x,z),z); g.scale.setScalar(s); g.rotation.y=Math.random()*6.28;
   g.traverse(o=>{if(o.isMesh){o.castShadow=true;o.receiveShadow=true;}});
   scene.add(g); STATIK.push(g); bacalar.push(new THREE.Vector3(x,H(x,z)+3.1*s,z));
+  yurtlar.push({ x, z, s, g });
 }
 yurt(-22,15,1.15); yurt(-31,-8,.95); yurt(17,21,1.0); yurt(27,-3,.9); yurt(-7,27,1.05); yurt(9,-26,1.0);
 {
@@ -1872,6 +1948,10 @@ const mesaleler = [];
   kay.push({ x:13, y:H(13,9)+.75, z:9, r:1.00, g:.44, b:.15, guc:2.10, menzil:17 });  // ana ocak
   isimaHesapla(kay);
 }
+// yurt ic atesleri: her yurdun kapisindan disari vuran sicak isik.
+// Yine 'en yakin N' teknigi — sabit shader maliyeti.
+const yIsik = [];
+for (let i=0;i<2;i++){ const L=new THREE.PointLight(0xff8a3a, 0, 7.5, 2.0); scene.add(L); yIsik.push(L); }
 // 5 dinamik isik: her kare en yakin 5 mesaleye atanir (shader maliyeti sabit)
 const mIsik = [];
 for (let i=0;i<5;i++){ const L=new THREE.PointLight(0xff8434, 0, 18, 2.0); scene.add(L); mIsik.push(L); }
@@ -2849,6 +2929,27 @@ function tik(){
       u.bas.rotation.x = Math.sin(f*.9+2.)*.04;
     }
   }
+  // ── yurt ic atesleri: en yakin 2 yurda isik ata, parilti titretilsin
+  {
+    for (const y of yurtlar) {
+      const dx = y.x - camera.position.x, dz = y.z - camera.position.z;
+      y._d = dx*dx + dz*dz;
+      if (y.g.userData.icAtes) {
+        const f = saat*5.4 + y.x*0.7 + y.z*1.3;
+        const tt = .82 + Math.sin(f)*.12 + Math.sin(f*2.3)*.06;
+        y.g.userData.icAtes[0].color.setRGB(1.35*tt, 0.62*tt, 0.24*tt);
+        y.g.userData.icAtes[1].opacity = (.42 + .16*Math.sin(f*1.7)) * mesaleGuc;
+      }
+    }
+    yurtlar.sort((a,b) => a._d - b._d);
+    for (let i=0;i<yIsik.length;i++){
+      const y = yurtlar[i];
+      if (!y) { yIsik[i].intensity = 0; continue; }
+      const f = saat*5.4 + y.x*0.7 + y.z*1.3;
+      yIsik[i].position.set(y.x, H(y.x,y.z) + 1.0, y.z + 2.9*y.s);
+      yIsik[i].intensity = (6.5 + Math.sin(f)*1.4) * mesaleGuc;
+    }
+  }
   // ── mesaleler: alev titresimi + en yakin 5'ine isik ata
   {
     for (let i=0;i<mesaleler.length;i++) {
@@ -3027,7 +3128,7 @@ function tik(){
       if (ms > 26 && kalite > .55)      { kalite = Math.max(.55, kalite - .14); kaliteUygula(); }
       else if (ms < 13 && kalite < 1.0) { kalite = Math.min(1.0, kalite + .07); kaliteUygula(); }
     } }
-  if (!window.__dbg) window.__dbg = { THREE, scene, camera, renderer, togan, kaya, kukla, ao:aoPass, isi:ISI_PAY, hacim:hacimPass, ssr:ssrPass, pus:pusKatlari, zerre:zerreler, dof:dofPass, huzme:huzmePass, grade:gradePass, composer,
+  if (!window.__dbg) window.__dbg = { THREE, scene, camera, renderer, togan, kaya, kukla, ao:aoPass, isi:ISI_PAY, patika:PATIKA_U, hacim:hacimPass, ssr:ssrPass, pus:pusKatlari, zerre:zerreler, dof:dofPass, huzme:huzmePass, grade:gradePass, composer,
     // yakın çekim: __dbg.bak(mesafe, yukseklik, aci) — sadece geliştirme/ekran görüntüsü için
     sahne(ad){ asama = ad; if (ad==='spar'||ad==='parry_sinavi') dovusHud.classList.add('acik'); },
     sinematikAtla(){ sinematik = 0; },
