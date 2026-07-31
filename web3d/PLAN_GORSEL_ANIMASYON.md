@@ -264,7 +264,61 @@ gökyüzünün soğuk tonu değil.
 
 | Sıra | İş | Durum |
 |---|---|---|
-| 17 | Gökyüzü: domain-warp bulut + titreşen yıldız + çift hale | 5. aşama |
-| 18 | Post: kromatik sapma + filmik S-eğrisi | 5. aşama |
-| 19 | Sahne canlılığı: 3 arka plan NPC'si | 5. aşama |
-| 20 | Islak zemin yansıma ince ayarı | 5. aşama |
+| 17 | Gökyüzü: domain-warp bulut + titreşen yıldız + çift hale | ✅ |
+| 18 | Post: kromatik sapma + filmik S-eğrisi | ✅ |
+| 19 | Sahne canlılığı: 3 arka plan NPC'si | ✅ |
+| 20 | Islak zemin yansıma ince ayarı | ✅ |
+
+---
+
+# 6–10. AŞAMALAR — Işık Motoru, Şafak, Rig (tamamlandı)
+
+Ayrı plan dosyası: `~/.claude/plans/effervescent-dancing-peach.md`
+
+| # | İş | Ölçüm |
+|---|---|---|
+| 21 | **Işımalık ızgarası** (dolaylı/sıçrama ışığı, 48×8×48 Data3DTexture) | A/B %61.5 piksel |
+| 22 | **Hacimsel meşale ışığı** (raymarched, interleaved-gradient serpiştirme) | A/B %95.2 piksel |
+| 23 | **Yükseklik sisi + hava perspektifi** (analitik Beer-Lambert) | — |
+| 24 | **Doğru HDR hattı + filmik tonlama** | ortanca 109→43, doymuş %0→0.02 |
+| 25 | **SSR** (ıslaklık alfa maskesi + ekran-uzayı ışın yürütme) | A/B %22.4 piksel |
+| 26 | **Gece→Şafak** (zaman sürücüsü, Samanyolu, güneş, bulut alttan aydınlanması) | ortanca 8→71 |
+| 27 | **Üç ölçekli yüzey detayı** (uzakta düzleşme) | — |
+| 28 | **3 parçalı omurga + köprücük** | bel/göğüs/boyun farklı açı ✓ |
+| 29 | **Üst/alt beden ayrımı** (yürürken savurma) | adım fazı 1.12→1.43 ✓ |
+| 30 | **Zırh sarsıntısı + ayak temas olayları** | — |
+| 31 | **Yurt içi parıltısı + aşınmış patikalar** | A/B %41.1 piksel |
+| 32 | **OPTİMİZASYON PASI** | çizim 392→211, gölge yayan 191→38 |
+
+## Yol boyunca bulunan gerçek hatalar (hepsi ölçümle çıktı)
+
+1. **ACES tonlama malzeme shader'ındaydı** — bloom ve hacimsel ışık sıkıştırılmış
+   [0,1] değerleri görüyordu; ateşin parlaklık bilgisi post zincirine hiç ulaşmıyordu.
+2. **Hava perspektifi 64 m'de kesiliyordu** — 300 m'deki dağ siluetleri hiç solmuyor,
+   düz koyu lekeler halinde kalıyordu. Ayrıca pus çift sayılıyordu.
+3. **Detay yaması ıslaklık haritası almıyordu** — birikintiler sadece 14 m ötede vardı.
+4. **Patikalar vertex renginde temsil edilemiyordu** — ızgara 4.5 m, patika 2.2 m;
+   ölçülen fark %0. Shader'a taşındı.
+5. **Şablon dizesi kaçışı** GLSL'e düz metin sızdırdı (shader derleme hatası).
+
+## Optimizasyon pasının içeriği
+
+Çizim çağrısı zaten 392'ydi; asıl yük **dolgu oranındaydı** (9 tam-ekran pas, üçü
+ışın yürütüyor).
+
+- **Ay hüzmesi pası zincirden çıkarıldı** — hacimsel ışık gerçek hüzmeyi zaten
+  yapıyor; üst üste binince hem gereksiz maliyet hem çift parlama oluyordu.
+- **Bloom iç çözünürlüğü** bir kademe düşürüldü (bloom tanımı gereği bulanık,
+  görsel fark yok, ~%64 maliyet düşüşü).
+- **Küçük nesnelerin gölgesi kapatıldı** (sınır küresi < 0.9 m) → gölge yayan 191→38.
+- **Çim** 24000→15000 örnek, yarıçap 185→136 m (hava perspektifinin arkası görünmüyor).
+- **Kalite kademeleri maliyet sırasına** göre yeniden dizildi.
+- **Detay yaması yeniden inşası 4 kareye bölündü** — koşarken saniyede 2-3 kez
+  5329 vertex tek karede hesaplanıyor ve görülür takılma bırakıyordu.
+
+## Sırada ne var
+
+- Gerçek FPS ölçümü (kullanıcının F3 sayacı) → gerekirse ikinci optimizasyon pası
+- Duruş kırılması (posture break) ve ölümcül darbe animasyonu
+- Bölüm 1'in kalan sahneleri: Anya Ana, Meclis Çadırı, Şafak, Ayrılış
+- At binme (Bozkır) ve Bölüm 2 (Temüjin POV)

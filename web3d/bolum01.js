@@ -513,11 +513,12 @@ cimMat.onBeforeCompile = s => { s.uniforms.t = {value:0}; cimMat.userData.s = s;
     v.push(-w0,y0,0, w1,y1,0, -w1,y1,0); uvv.push(0,y0,1,y1,0,y1); }
   bg.setAttribute('position', new THREE.Float32BufferAttribute(v,3));
   bg.setAttribute('uv', new THREE.Float32BufferAttribute(uvv,2)); bg.computeVertexNormals();
-  const N = 24000, cim = new THREE.InstancedMesh(bg, cimMat, N);
+  const N = 15000, cim = new THREE.InstancedMesh(bg, cimMat, N);   // 24000'di:
+  // 140 m disindaki cim hava perspektifinin arkasinda kaliyor, cizilmesi bosa
   const M4 = new THREE.Matrix4(), Q = new THREE.Quaternion(), S = new THREE.Vector3(), V = new THREE.Vector3();
   const R = new Float32Array(N*3);
   for (let i=0;i<N;i++){
-    const r = 5 + Math.pow(Math.random(),.5)*185, a = Math.random()*Math.PI*2;
+    const r = 4 + Math.pow(Math.random(),.62)*136, a = Math.random()*Math.PI*2;
     const x = Math.cos(a)*r, z = Math.sin(a)*r;
     Q.setFromAxisAngle(new THREE.Vector3(0,1,0), Math.random()*Math.PI);
     // patikada ot cignenmis: hem seyrek hem kisa
@@ -557,17 +558,30 @@ let detayCx = 1e9, detayCz = 1e9;
   const IZ = 900/200, IZ0 = -450;
   const kH = [], kR = [];                       // kose yukseklik/renk onbellegi
   const _c = new THREE.Color();
+  const DET_PARCA = 4;                 // is kac kareye bolunecek
+  let _dCx=0, _dCz=0, _dI0=0, _dJ0=0, _dSay=0, _dParca=-1;
   function detayKur(cx, cz){
-    const i0 = Math.floor((cx-DET_BOY/2-IZ0)/IZ)-1, j0 = Math.floor((cz-DET_BOY/2-IZ0)/IZ)-1;
-    const say = Math.ceil(DET_BOY/IZ)+3;
+    // KARELERE BOLUNMUS INSA: 5329 vertex tek karede hesaplanmasi kosarken
+    // saniyede 2-3 kez oluyordu ve gorulur takilma birakiyordu.
+    _dCx = cx; _dCz = cz;
+    _dI0 = Math.floor((cx-DET_BOY/2-IZ0)/IZ)-1; _dJ0 = Math.floor((cz-DET_BOY/2-IZ0)/IZ)-1;
+    _dSay = Math.ceil(DET_BOY/IZ)+3;
     kH.length = 0; kR.length = 0;
-    for (let j=0;j<say;j++) for (let i=0;i<say;i++){
-      const x = IZ0+(i0+i)*IZ, z = IZ0+(j0+j)*IZ;
+    for (let j=0;j<_dSay;j++) for (let i=0;i<_dSay;i++){
+      const x = IZ0+(_dI0+i)*IZ, z = IZ0+(_dJ0+j)*IZ;
       kH.push(H(x,z)); araziRenk(x, z, _c); kR.push(_c.r, _c.g, _c.b);
     }
+    _dParca = 0;                        // sonraki karelerde detayIsle() devam eder
+    detayMesh.position.set(cx, 0, cz);
+  }
+  function detayIsle(){
+    if (_dParca < 0) return;
+    const cx=_dCx, cz=_dCz, i0=_dI0, j0=_dJ0, say=_dSay;
     const bil = (fx,fj,a,b,c2,d2) => a+(b-a)*fx + ((c2+(d2-c2)*fx)-(a+(b-a)*fx))*fj;
     const pa = detayGeo.attributes.position, ca = detayGeo.attributes.color;
-    for (let k=0;k<pa.count;k++){
+    const adet = Math.ceil(pa.count / DET_PARCA);
+    const bas = _dParca * adet, son = Math.min(pa.count, bas + adet);
+    for (let k=bas;k<son;k++){
       const lx = pa.getX(k), lz = pa.getZ(k);
       const wx = cx+lx, wz = cz+lz;
       const gi = (wx-IZ0)/IZ - i0, gj = (wz-IZ0)/IZ - j0;
@@ -580,17 +594,19 @@ let detayCx = 1e9, detayCz = 1e9;
       const sn = clamp(1-rr*rr*rr, 0, 1);
       const ince = (fbm(wx*.85+31, wz*.85-17, 3)-.5)*.135 + (fbm(wx*3.3, wz*3.3, 2)-.5)*.048;
       pa.setY(k, yTaban + ince*sn);
-      for (let q=0;q<3;q++)
-        ca.setXYZ(k,
-          bil(fx,fj,kR[o00*3],kR[o10*3],kR[o01*3],kR[o11*3]),
-          bil(fx,fj,kR[o00*3+1],kR[o10*3+1],kR[o01*3+1],kR[o11*3+1]),
-          bil(fx,fj,kR[o00*3+2],kR[o10*3+2],kR[o01*3+2],kR[o11*3+2]));
+      ca.setXYZ(k,
+        bil(fx,fj,kR[o00*3],kR[o10*3],kR[o01*3],kR[o11*3]),
+        bil(fx,fj,kR[o00*3+1],kR[o10*3+1],kR[o01*3+1],kR[o11*3+1]),
+        bil(fx,fj,kR[o00*3+2],kR[o10*3+2],kR[o01*3+2],kR[o11*3+2]));
     }
-    pa.needsUpdate = true; ca.needsUpdate = true;
-    detayGeo.computeVertexNormals(); detayGeo.computeBoundingSphere();
-    detayMesh.position.set(cx, 0, cz);
+    _dParca++;
+    if (_dParca >= DET_PARCA) {         // son parca: normalleri bir kez hesapla
+      _dParca = -1;
+      pa.needsUpdate = true; ca.needsUpdate = true;
+      detayGeo.computeVertexNormals(); detayGeo.computeBoundingSphere();
+    }
   }
-  window.__detayKur = detayKur;
+  window.__detayKur = detayKur; window.__detayIsle = detayIsle;
 }
 
 // ═══════════ 6. SES (WebAudio sentez — dosya yok) ═══════════
@@ -2194,6 +2210,16 @@ const pusKatlari = [];
   for (const m of mesaleler) { m.a1b = m.a1.position.clone(); m.a2b = m.a2.position.clone(); }
   // kalabalik ornekli geometri golge YAYMASIN (cim, tas, dal — 46 bin nesne)
   scene.traverse(o => { if (o.isInstancedMesh && o.count > 150) o.castShadow = false; });
+  // Kucuk nesnelerin golgesi birkac metre oteden zaten secilemiyor ama golge
+  // pasinda tam maliyet oduyorlar. Sinir: sinir kuresi yaricapi < 0.9 m.
+  { let kapali = 0;
+    scene.traverse(o => {
+      if (!o.isMesh || !o.castShadow || o.isInstancedMesh) return;
+      if (!o.geometry.boundingSphere) o.geometry.computeBoundingSphere();
+      const r = o.geometry.boundingSphere ? o.geometry.boundingSphere.radius : 9;
+      if (r < 0.9) { o.castShadow = false; kapali++; }
+    });
+    console.log('golge yayani kapatilan kucuk nesne:', kapali); }
   console.log('birlestirilen cizim grubu:', kac, '| karakter:', togan.birlesikSayi, kaya.birlesikSayi);
 }
 
@@ -2444,7 +2470,13 @@ const dofPass = new ShaderPass({
 });
 dofPass.material.depthWrite = false; dofPass.material.depthTest = false;
 composer.addPass(dofPass);
-composer.addPass(new UnrealBloomPass(new THREE.Vector2(innerWidth,innerHeight), .62, .72, 1.15));
+const bloomPass = new UnrealBloomPass(new THREE.Vector2(innerWidth,innerHeight), .62, .72, 1.15);
+{
+  const _bs = bloomPass.setSize.bind(bloomPass);
+  bloomPass.setSize = (w, h) => _bs(Math.round(w*0.6), Math.round(h*0.6));
+  bloomPass.setSize(innerWidth, innerHeight);
+}
+composer.addPass(bloomPass);
 // ── AY HÜZMELERİ: ekran-uzayı ışık saçılması (Elden Ring imzası)
 const huzmePass = new ShaderPass({
   uniforms:{ tDiffuse:{value:null}, isikPos:{value:new THREE.Vector2(.5,.8)},
@@ -2468,7 +2500,9 @@ const huzmePass = new ShaderPass({
       gl_FragColor = vec4(taban.rgb + top * (guc/14.0) * 2.6, taban.a);
     }`
 });
-composer.addPass(huzmePass);
+// huzmePass zincirden CIKARILDI: hacimsel isik pasi gercek huzmeyi yapiyor,
+// bu ekran-uzayi yaklasimi hem gereksiz maliyet hem cift parlama getiriyordu.
+huzmePass.enabled = false;
 
 const gradePass = new ShaderPass({
   uniforms:{ tDiffuse:{value:null}, vig:{value:1}, doy:{value:.72}, t:{value:0}, ka:{value:.0021}, poz:{value:1.42} },
@@ -2755,12 +2789,13 @@ function kaliteUygula(){
   renderer.setPixelRatio(Math.min(devicePixelRatio, .62 + kalite*.68));
   renderer.setSize(innerWidth, innerHeight);
   composer.setSize(innerWidth, innerHeight);
-  ssrPass.enabled   = kalite > .68;                        // once yansimalar dusar
-  hacimPass.enabled = kalite > .52;                        // hacimsel isik
-  hacimPass.uniforms.adimSay.value = kalite > .84 ? 14 : (kalite > .66 ? 10 : 7);
-  aoPass.enabled  = kalite > .70;      // sonra ortam kapanmasi
-  dofPass.enabled = kalite > .60;      // sonra alan derinligi
-  huzmePass.enabled = kalite > .48;    // en son ay huzmeleri
+  // Kademeler maliyet sirasina gore: SSR (20 adim) > hacim (14x6) > AO (9x5) > DOF
+  ssrPass.enabled   = kalite > .74;
+  ssrPass.uniforms.menzil.value = kalite > .88 ? 26 : 16;   // menzil kisalinca adim da kisalir
+  hacimPass.enabled = kalite > .46;                        // en son duser: sahneyi bu tasiyor
+  hacimPass.uniforms.adimSay.value = kalite > .86 ? 14 : (kalite > .68 ? 10 : (kalite > .54 ? 7 : 5));
+  aoPass.enabled  = kalite > .64;
+  dofPass.enabled = kalite > .58;
   ayI.shadow.mapSize.setScalar(kalite > .78 ? 2048 : 1024);
   if (ayI.shadow.map) { ayI.shadow.map.dispose(); ayI.shadow.map = null; }
 }
@@ -2817,7 +2852,8 @@ function tik(){
     cevreYenile(togan.kok.position.x, togan.kok.position.y + 2.2, togan.kok.position.z); }
   { const nx = Math.round(togan.kok.position.x/DET_KILIT)*DET_KILIT;
     const nz = Math.round(togan.kok.position.z/DET_KILIT)*DET_KILIT;
-    if (nx !== detayCx || nz !== detayCz) { detayCx=nx; detayCz=nz; window.__detayKur(nx,nz); } }
+    if (nx !== detayCx || nz !== detayCz) { detayCx=nx; detayCz=nz; window.__detayKur(nx,nz); }
+    window.__detayIsle(); }
   if (cimMat.userData.s) cimMat.userData.s.uniforms.t.value = saat;
 
   // ── oyuncu hareketi
@@ -3060,8 +3096,8 @@ function tik(){
   zamanGuncelle(dt, P);
   ayI.target.position.copy(P); ayI.target.updateMatrixWorld();
 
-  // ── ay hüzmeleri: ayın ekran konumunu bul
-  {
+  // ── ay hüzmeleri: pas zincirden cikarildi, uniform guncellemesi de gereksiz
+  if (false) {
     const ayYon = new THREE.Vector3(-0.30, 0.46, -0.84).normalize();
     const ayNok = camera.position.clone().addScaledVector(ayYon, 1600);
     const pr = ayNok.project(camera);
