@@ -656,6 +656,7 @@ function lamelKusak(grup, mat, o){
     }
   }
   im.castShadow = im.receiveShadow = true;
+  if (o.omurga) im.userData.omurga = o.omurga;
   grup.add(im); return im;
 }
 // duz seritli zirh (kolcak/dizlik): metal cubuklar deri uzerine perclenmis
@@ -726,6 +727,12 @@ function agirEgrisi(x){
   { const k=(x-.72)/.28;              return 1.15*(1-(k*k*(3-2*k))); }
 }
 
+// Sadece UST bedeni kullanan eylemler: bunlar oynarken bacaklar yurumeye devam eder.
+// takla/devril/kalk/olum tum bedeni kullanir, listede yok.
+const UST_EYLEM = { hafif1:1, hafif2:1, hafif3:1, saplama:1, agir:1,
+                    riposte:1, blok:1, blokDarbe:1, parry:1, hasar:1 };
+const ALT_KANAL = ['blU','brU','blA','brA','blF','brF','pelY','pelX'];
+
 class Insan {
   constructor(R, izRenk) {
     this.R = R;
@@ -757,7 +764,8 @@ class Insan {
       { const as=new THREE.Mesh(new THREE.CylinderGeometry(.244,.190,.44,22,1,true),
           MAT(R.deri||0x3d2f1e,.96,.05,D_DERI,1.3));
         as.material.side=THREE.DoubleSide; as.position.y=.310; as.scale.z=.86; this.govde.add(as); }
-      lamelKusak(this.govde, zm, { satir:8, adet:28, y0:.112, y1:.508,
+      this.zirhKusak = lamelKusak(this.govde, zm, { satir:8, adet:28, y0:.112, y1:.508,
+        omurga:'gogus',
         r0:.196, r1:.252, w:.060, h:.094, kal:.009, bel:.013,
         ac0:0, ac1:Math.PI*2, egim:-.11, zOl:.86, ton:.80 });
       // eteklik: belden uyluga sarkan uzun plakalar
@@ -766,6 +774,7 @@ class Insan {
           MAT(R.deri||0x3d2f1e,.96,.05,D_DERI,1.3));
         as2.material.side=THREE.DoubleSide; as2.position.y=-.020; as2.scale.z=.88; this.govde.add(as2);
         lamelKusak(this.govde, zk, { satir:2, adet:26, y0:.050, y1:-.090,
+          omurga:'bel',
           r0:.212, r1:.244, w:.056, h:.104, kal:.008, bel:.011,
           ac0:0, ac1:Math.PI*2, egim:.05, zOl:.88, ton:.72 });
       }
@@ -953,6 +962,31 @@ class Insan {
     this.uc = new THREE.Object3D(); this.uc.position.y=.84; this.kilic.add(this.uc);
     this.dp = new THREE.Object3D(); this.dp.position.y=.62; this.kilic.add(this.dp);
 
+    // ═══ OMURGA EKLEMLENDIRME ═══
+    // Omurga TEK eklemdi (this.govde); govde bu yuzden tahta gibi duruyordu.
+    // Yapiyi kurduktan SONRA cocuklari yuksekliklerine gore ayiriyoruz:
+    //   pelvis > govde(BEL) > gogus > boyun > bas
+    // Poz kanallari degismiyor; uygulama aninda uce dagitiliyor (asagida).
+    {
+      const GOGUS_Y = .30, BOYUN_Y = .34;
+      this.gogus = new THREE.Group(); this.gogus.position.y = GOGUS_Y;
+      const gidecek = this.govde.children.filter(c =>
+        c !== this.gogus &&
+        (c.userData.omurga === 'gogus' || (c.userData.omurga !== 'bel' && c.position.y >= GOGUS_Y)));
+      for (const c of gidecek) { c.position.y -= GOGUS_Y; this.gogus.add(c); }
+      this.govde.add(this.gogus);
+      // boyun: bas artik gogus degil BOYUN cocugu
+      this.boyun = new THREE.Group(); this.boyun.position.y = BOYUN_Y; this.gogus.add(this.boyun);
+      this.bas.position.y -= BOYUN_Y; this.boyun.add(this.bas);
+      // KOPRUCUK KEMIKLERI: kollar dogrudan gogse degil kopruce baglaniyor.
+      // Omuz savurdugunda kopruck de bir miktar doner — omuz kusagi canlanir.
+      for (const kol of [this.kL, this.kR]) {
+        const kp2 = new THREE.Group();
+        kp2.position.copy(kol.u.position); this.gogus.add(kp2);
+        kol.u.position.set(0,0,0); kp2.add(kol.u);
+        kol.kop = kp2;
+      }
+    }
     this.kok.traverse(o => { if (o.isMesh) { o.castShadow=true; o.receiveShadow=true; } });
     // ── PELERIN: omuzdan dize inen, yayla gecikmeli agir yun
     this.pelerinG = new THREE.Group(); this.pelerinG.position.y = .555; this.govde.add(this.pelerinG);
@@ -995,6 +1029,8 @@ class Insan {
     this.faz = Math.random()*6.28;
     this.iz = new Iz(22, izRenk);
     this.eylem = null; this.eT = 0; this.vurdu = false; this.adimFaz = 0; this.ileriIt = 0;
+    this.gecG={x:0,y:0,z:0}; this.gecB={x:0,y:0,z:0};   // gogus/boyun gecikmesi
+    this.yZ={p:0,v:0}; this.yZz={p:0,v:0};              // zirh sarsintisi
     this.yE={p:0,v:0}; this.yEz={p:0,v:0}; this.yS={p:0,v:0}; this.ySz={p:0,v:0};
     this.yP={p:0,v:0}; this.yPz={p:0,v:0};
     this._sonDon = 0; this._sonHiz = 0; this.bakHedef = null; this.bakX = 0; this.bakY = 0;
@@ -1019,6 +1055,7 @@ class Insan {
     const E = this.eylem;
     let hizBlend = .20;
 
+    let ustKayit = null;
     if (E) {
       this.eT += dt;
       const T = { hafif1:.50, hafif2:.54, hafif3:.76, saplama:.62, agir:.92, takla:.62,
@@ -1227,6 +1264,12 @@ class Insan {
         if (!blokTutuluyor) this.eylem = null;
       }
 
+      if (UST_EYLEM[E] && hiz > .55) {
+        // eylemin yazdigi UST kanallari sakla; locomotion asagida bunlari ezecek
+        ustKayit = { klU:p.klU, klZ:p.klZ, klA:p.klA, krU:p.krU, krZ:p.krZ, krA:p.krA,
+                     govX:p.govX, govY:p.govY, govZ:p.govZ, basX:p.basX, basY:p.basY,
+                     kilX:p.kilX, kilZ:p.kilZ, pelR:p.pelR };
+      }
       if (E !== 'blok' && u >= 1) {
         this.eylem = (E === 'devril') ? 'devril_bekle' : null;
         if (E === 'devril') { this.eylem = 'devril_bekle'; this.eT = 0; }
@@ -1238,8 +1281,14 @@ class Insan {
       if (blokTutuluyor && !this.eylem) { this.basla('blok'); }
     }
 
-    // ── locomotion (eylem yokken)
-    if (!this.eylem) {
+    // ── UST/ALT AYRIMI: ust-beden eylemi oynarken ve karakter yuruyorsa,
+    // once locomotion'u calistirip ALT kanallari saklariz; eylem ust bedeni
+    // yazdiktan sonra alt kanallari geri koyariz. Boylece yururken savurulabilir.
+    let altKayit = null;
+    const bolunmus = E && UST_EYLEM[E] && hiz > .55;
+
+    // ── locomotion (eylem yokken VEYA bolunmus modda alt beden icin)
+    if (!this.eylem || bolunmus) {
       const y = clamp(hiz/5.4, 0, 1);
       if (hiz > .14) {
         // ── ADIM KİLİDİ: faz kat edilen MESAFEDEN türetilir → ayak yerde kaymaz
@@ -1269,7 +1318,18 @@ class Insan {
         p.kilX = 2.62-.16*y; p.kilZ = .04*y; p.egim = 0; p.egimY = 0;
         // ayak sesi — basış anında
         const yeni = Math.floor((f+1.6)/Math.PI);
-        if (yeni !== this._adim) { this._adim = yeni; if (y>.12) S.adim(); }
+        if (yeni !== this._adim) {
+          this._adim = yeni;
+          if (y > .12) {
+            S.adim();
+            // TEMAS OLAYI: basan ayagin altindan toz + kameraya mikro darbe.
+            // Adim sesi vardi ama gorsel karsiligi yoktu — ayak "yere degmiyordu".
+            const bas2 = (sl > 0) ? this.bR : this.bL;
+            bas2.ayak.getWorldPosition(this._a);
+            toz.at(this._a.x, this._a.y - .10, this._a.z, 2 + (y*3|0), .55, .85, .55);
+            if (this.oyuncu) sarsinti = Math.max(sarsinti, .045 + y*.055);
+          }
+        }
       } else {
         // ── DURUŞ: nefes + yavaş ağırlık aktarımı + omuz çökmesi
         const f = t*1.35 + this.faz;                              // nefes (≈13/dk)
@@ -1287,6 +1347,14 @@ class Insan {
       }
     }
 
+    // bolunmus modda: locomotion ust kanallari ezdi → eylemin ust pozunu geri koy.
+    // Alt kanallar locomotion'dan kalir. Sonuc: bacaklar yuruyor, ust beden savuruyor.
+    if (ustKayit) {
+      Object.assign(p, ustKayit);
+      // kalca donusu ikisinin ORTALAMASI: hem adim hem savurus katkisi
+      p.pelR = ustKayit.pelR * .72 + p.pelR * .28;
+    }
+
     // ── POZ KARIŞTIRMA (akıcılığın sırrı)
     const k = this.anlik ? 1 : (1 - Math.pow(1 - hizBlend, dt*60));
     const c = this.cur;
@@ -1296,9 +1364,24 @@ class Insan {
     this.bR.u.rotation.x = c.brU; this.bR.a.rotation.x = c.brA; this.bR.ayak.rotation.x = c.brF;
     this.kL.u.rotation.set(c.klU, 0, c.klZ); this.kL.a.rotation.x = c.klA;
     this.kR.u.rotation.set(c.krU, 0, c.krZ); this.kR.a.rotation.x = c.krA;
-    this.govde.rotation.set(c.govX, c.govY, c.govZ);
+    // ── OMURGA: tek deger uc eklege dagitilir. Gogus ve boyun YAY ile geriden
+    // gelir → govde artik tek parca donmuyor, dalga gibi akiyor (follow-through).
+    { const kg = 1 - Math.exp(-dt/.055), kb = 1 - Math.exp(-dt/.115);
+      this.gecG.x = lerp(this.gecG.x, c.govX, kg);
+      this.gecG.y = lerp(this.gecG.y, c.govY, kg);
+      this.gecG.z = lerp(this.gecG.z, c.govZ, kg);
+      this.gecB.x = lerp(this.gecB.x, c.govX, kb);
+      this.gecB.y = lerp(this.gecB.y, c.govY, kb);
+      this.gecB.z = lerp(this.gecB.z, c.govZ, kb);
+      // katsayilar toplami ~1.0 → toplam bukulme eski tek eklemli haliyle ayni
+      this.govde.rotation.set(c.govX*.38, c.govY*.34, c.govZ*.42);
+      this.gogus.rotation.set(this.gecG.x*.44, this.gecG.y*.46, this.gecG.z*.40);
+      this.boyun.rotation.set(this.gecB.x*.18, this.gecB.y*.20, this.gecB.z*.18);
+      // KOPRUCUK: omuz savurusunun bir kesri
+      this.kL.kop.rotation.z = c.klZ*.15; this.kL.kop.rotation.x = c.klU*.12;
+      this.kR.kop.rotation.z = c.krZ*.15; this.kR.kop.rotation.x = c.krU*.12; }
     this.pelvis.position.set(c.pelX, c.pelY, 0); this.pelvis.rotation.y = c.pelR;
-    this.bas.rotation.set(c.basX, c.basY, -c.govZ*.5);
+    this.bas.rotation.set(c.basX, c.basY, -c.govZ*.28);
     this.kilic.rotation.set(c.kilX, 0, c.kilZ);
     this.egimG.rotation.x = c.egim; this.egimG.position.y = c.egimY;
 
@@ -1312,6 +1395,13 @@ class Insan {
     this.etek.rotation.z = yay(this.yEz, -clamp(donHiz,-14,14)*.032, 145, 15);
     this.sacG.rotation.x = yay(this.yS,   .12 + clamp(hiz,0,7)*.038 - c.govX*.75 - c.basX*.8, 200, 17);
     this.sacG.rotation.z = yay(this.ySz, -clamp(donHiz,-14,14)*.050, 180, 16);
+    // ── ZIRH SARSINTISI: yuzlerce lamel plaka govdeye ipe baglidir, govde donunce
+    // bir kare geriden gelir. Shader yerine kusagin kendisini yayla sallamak
+    // ayni etkiyi neredeyse bedava veriyor.
+    if (this.zirhKusak) {
+      this.zirhKusak.rotation.z = yay(this.yZz, -clamp(donHiz,-16,16)*.021, 210, 17);
+      this.zirhKusak.rotation.x = yay(this.yZ, -clamp(ivme,-28,28)*.0035 - c.govX*.10, 240, 18);
+    }
     // pelerin zinciri: her segment bir oncekinden daha yumusak → gecikme birikir
     for (let i=0;i<3;i++){
       const sg = this.pSeg[i], sert = 118 - i*30, son = 13.5 - i*2.2;
@@ -1409,6 +1499,7 @@ const R_KAYA = { zirh:0x8a7f66, zirhKoyu:0x463b2a, ayna:true, dizlik:true, tug:t
   kemer:0x4d3a20, deri:0x3f2e17, pantolon:0x4c4834, cizme:0x453118, celik:0x9a7c4a, altin:0x8a6b3c };
 
 const togan = new Insan(R_TOGAN, 0xe6ecff);
+togan.oyuncu = true;   // temas sarsintisi sadece oyuncuda
 togan.birlesikSayi = iskeletiBirlestir(togan.kok);
 togan.kok.position.set(3, H(3,7), 7); scene.add(togan.kok);
 const kaya = new Insan(R_KAYA, 0xf0e0c0);
@@ -2627,9 +2718,12 @@ function tik(){
 
   // ── oyuncu hareketi
   const kilitli = diyalogAcik || togan.eylem==='devril_bekle' || sinematik > 0;
+  // UST/ALT AYRIMI: kilic savururken hareket artik TAMAMEN kilitli degil, yavaslatilmis.
+  const ustMesgul = togan.eylem && UST_EYLEM[togan.eylem];
+  const hareketVar = !kilitli && (!togan.mesgul() || ustMesgul);
   hedefHizV.set(0,0,0);
-  if (!kilitli && !togan.mesgul()) {
-    const kos = tus['control'] ? 2.4 : 5.4;
+  if (hareketVar) {
+    const kos = (tus['control'] ? 2.4 : 5.4) * (ustMesgul ? .42 : 1);
     let ix=0, iz=0;
     if (tus['w']) iz-=1; if (tus['s']) iz+=1; if (tus['a']) ix-=1; if (tus['d']) ix+=1;
     if (ix||iz) {
@@ -2647,9 +2741,10 @@ function tik(){
     if (anlikHizV.lengthSq() < 1e-4) anlikHizV.set(0,0,0);
   }
   let hiz = anlikHizV.length();
-  if (!kilitli && !togan.mesgul() && hiz > .06) {
+  if (hareketVar && hiz > .06) {
     togan.kok.position.x += anlikHizV.x*dt; togan.kok.position.z += anlikHizV.z*dt;
-    hedefYaw = Math.atan2(anlikHizV.x, anlikHizV.z);
+    // savururken yon degistirme kisitli (savurusun yonu bozulmasin)
+    if (!ustMesgul) hedefYaw = Math.atan2(anlikHizV.x, anlikHizV.z);
   }
   // govde ivmenin TERSINE egilir (kalkista one, frende geriye)
   togan.ivmeIleri = clamp((hiz - (togan._sonHizK||0)) / Math.max(dt,1e-4), -22, 22);
