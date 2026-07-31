@@ -250,10 +250,17 @@ const MAT = (c, r=.85, m=.05, yz=null, ns=1, purR=false) => {
 };
 
 // ═══════════ 3. GÖKYÜZÜ ═══════════
+// ZAMAN: 0 = derin gece · 1 = tam safak. Tek degisken her seyi birlikte surer.
+const ZAMAN = { value: 0 };
+const AY_YON = new THREE.Vector3(-0.30, 0.46, -0.84).normalize();
+const _gy = new THREE.Vector3();
+// gunes dogudan alcak acidan dogar; safakta ufkun hemen ustunde
+function gunesYonu(z){ return _gy.set(0.86, lerp(-0.32, 0.155, z), 0.44).normalize(); }
 const gokMat = new THREE.ShaderMaterial({
-  side: THREE.BackSide, depthWrite: false, uniforms: { t: { value: 0 } },
+  side: THREE.BackSide, depthWrite: false,
+  uniforms: { t: { value: 0 }, zaman: ZAMAN, gunesYon: { value: new THREE.Vector3(0.86,-0.32,0.44).normalize() } },
   vertexShader: `varying vec3 vW; void main(){ vW=position; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);} `,
-  fragmentShader: `varying vec3 vW; uniform float t;
+  fragmentShader: `varying vec3 vW; uniform float t, zaman; uniform vec3 gunesYon;
   float h(vec2 p){ return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453); }
   float n(vec2 p){ vec2 i=floor(p),f=fract(p); f=f*f*(3.-2.*f);
     return mix(mix(h(i),h(i+vec2(1,0)),f.x),mix(h(i+vec2(0,1)),h(i+vec2(1,1)),f.x),f.y); }
@@ -266,32 +273,67 @@ const gokMat = new THREE.ShaderMaterial({
   }
   void main(){
     vec3 d=normalize(vW); float y=clamp(d.y*.5+.5,0.,1.);
-    // ufuk: uc yerine DORT renk duragi — daha derin atmosferik gecis
-    vec3 col=mix(vec3(0.62,0.40,0.35), vec3(0.38,0.30,0.40), smoothstep(0.0,0.11,y));
-    col=mix(col, vec3(0.22,0.21,0.38), smoothstep(0.09,0.27,y));
-    col=mix(col, vec3(0.09,0.11,0.26), smoothstep(0.25,0.84,y));
-    col+=vec3(0.76,0.38,0.20)*pow(max(0.,1.-abs(d.y)*8.),3.)*0.62;
+    float safak = clamp(zaman, 0.0, 1.0);
+    float gece  = 1.0 - smoothstep(0.05, 0.62, safak);      // gece ogeleri boyle soner
+    float gd    = dot(d, gunesYon);                          // gunese yakinlik
+    float ufukGunes = max(0.0, gd);
+
+    // ── UFUK GRADYANI: gece paletinden safak paletine gecer ──
+    vec3 uf0 = mix(vec3(0.62,0.40,0.35), vec3(1.35,0.62,0.30), safak);   // en dip
+    vec3 uf1 = mix(vec3(0.38,0.30,0.40), vec3(1.00,0.55,0.38), safak);
+    vec3 uf2 = mix(vec3(0.22,0.21,0.38), vec3(0.52,0.46,0.58), safak);
+    vec3 uf3 = mix(vec3(0.09,0.11,0.26), vec3(0.19,0.28,0.50), safak);   // zenit
+    vec3 col = mix(uf0, uf1, smoothstep(0.0,0.11,y));
+    col = mix(col, uf2, smoothstep(0.09,0.27,y));
+    col = mix(col, uf3, smoothstep(0.25,0.84,y));
+    // ufka yakin sicak bant; safakta gunes yonunde cok daha guclu
+    col += mix(vec3(0.76,0.38,0.20)*0.62,
+               vec3(1.50,0.66,0.26)*(0.35+1.35*pow(ufukGunes,2.2)), safak)
+           * pow(max(0.,1.-abs(d.y)*8.),3.);
+
+    // ── SAMANYOLU: galaktik duzlem boyunca yogun yildiz bandi (sadece gece) ──
+    vec3 galaksi = normalize(vec3(0.36, 0.30, -0.88));
+    float gdz = abs(dot(d, galaksi));
+    float band = smoothstep(0.30, 0.015, gdz) * smoothstep(-0.05, 0.30, d.y);
+    float bandDoku = bulut(vec2(atan(d.z,d.x)*1.5, d.y*3.0));
+    col += vec3(0.30,0.33,0.48) * band * (0.20 + 0.80*bandDoku) * 0.60 * gece;
+
+    // ── BULUTLAR: safakta ALTTAN aydinlanir (safagin asil gosterisi budur) ──
     float bl=bulut(vec2(atan(d.z,d.x)*2.2, d.y*6.5-t*0.004));
-    col=mix(col,col*1.28+vec3(0.08,0.06,0.11),smoothstep(0.52,0.86,bl)*smoothstep(0.03,0.36,d.y)*0.85);
-    // ikinci, daha ince ve hizli suzulen bulut katmani (paralaks hissi)
+    vec3 bulutIsik = mix(vec3(0.08,0.06,0.11),
+                         vec3(1.55,0.72,0.30)*pow(ufukGunes,1.7) + vec3(0.30,0.26,0.30), safak);
+    col=mix(col, col*mix(1.28,1.05,safak) + bulutIsik,
+            smoothstep(0.52,0.86,bl)*smoothstep(0.03,0.36,d.y)*0.85);
     float bl2=bulut(vec2(atan(d.z,d.x)*3.6+11., d.y*9.0-t*0.011));
-    col=mix(col,col*1.14+vec3(0.04,0.03,0.06),smoothstep(0.60,0.90,bl2)*smoothstep(0.05,0.40,d.y)*0.5);
-    // yildizlar: atmosferik titresim (scintillation)
+    col=mix(col, col*1.14 + bulutIsik*0.45,
+            smoothstep(0.60,0.90,bl2)*smoothstep(0.05,0.40,d.y)*0.5);
+
+    // ── YILDIZLAR: titresimli, safakta soner ──
     vec2 sp=d.xz/max(0.10,abs(d.y)+0.30)*135.; vec2 ce=floor(sp);
     float dd=length(fract(sp)-vec2(h(ce+3.1),h(ce+7.7)));
     float titrek = 0.72 + 0.28*sin(t*(1.3+h(ce+1.1)*2.6) + h(ce+9.9)*6.28);
-    col+=vec3(0.90,0.93,1.0)*smoothstep(0.986,1.0,h(ce))*smoothstep(0.22,0.0,dd)*1.6*titrek*smoothstep(-0.02,0.24,d.y);
+    // Samanyolu bandinda yildizlar daha sik gorunur
+    float esik = mix(0.986, 0.960, band);
+    col+=vec3(0.90,0.93,1.0)*smoothstep(esik,1.0,h(ce))*smoothstep(0.22,0.0,dd)*1.6*titrek
+         *smoothstep(-0.02,0.24,d.y)*gece;
+    // KIZIL SURU takimyildizi (kitaptan) — gece
     vec3 ks=normalize(vec3(0.70,0.20,-0.68)); float dk=max(0.,dot(d,ks));
-    col+=vec3(0.68,0.09,0.14)*pow(dk,22.)*(0.22+0.85*bulut(d.xy*9.));
-    col+=vec3(1.0,0.22,0.24)*smoothstep(0.975,1.0,h(ce+55.))*smoothstep(0.30,0.0,dd)*pow(dk,9.)*2.6;
+    col+=vec3(0.68,0.09,0.14)*pow(dk,22.)*(0.22+0.85*bulut(d.xy*9.))*gece;
+    col+=vec3(1.0,0.22,0.24)*smoothstep(0.975,1.0,h(ce+55.))*smoothstep(0.30,0.0,dd)*pow(dk,9.)*2.6*gece;
+
+    // ── AY: TEK GOZ. Halesi keskin ic + yayilmis dis. Safakta soner ──
     vec3 ay=normalize(vec3(-0.30,0.46,-0.84)); float da=dot(d,ay);
-    // ay halesi: keskin ic + cok yayilmis soluk dis (gercek optik hale fizigi)
-    col+=vec3(0.42,0.47,0.74)*pow(max(0.,da),560.)*0.95;
-    col+=vec3(0.30,0.34,0.56)*pow(max(0.,da),34.)*0.20;
-    col+=vec3(0.20,0.24,0.42)*pow(max(0.,da),7.)*0.075;
-    col=mix(col, vec3(0.90,0.92,0.99)*(0.86+0.14*n(d.xy*280.)), smoothstep(0.99920,0.99950,da));
-    col=mix(col, vec3(0.07,0.10,0.25), smoothstep(0.999730,0.999820,da)*(1.-smoothstep(0.999875,0.999925,da))*0.92);
-    col=mix(col, vec3(0.02,0.02,0.05), smoothstep(0.999875,0.999925,da)*0.85);
+    float ayG = mix(1.0, 0.25, safak);
+    col+=vec3(0.42,0.47,0.74)*pow(max(0.,da),560.)*0.95*ayG;
+    col+=vec3(0.30,0.34,0.56)*pow(max(0.,da),34.)*0.20*ayG;
+    col+=vec3(0.20,0.24,0.42)*pow(max(0.,da),7.)*0.075*ayG;
+    col=mix(col, vec3(0.90,0.92,0.99)*(0.86+0.14*n(d.xy*280.)), smoothstep(0.99920,0.99950,da)*ayG);
+    col=mix(col, vec3(0.07,0.10,0.25), smoothstep(0.999730,0.999820,da)*(1.-smoothstep(0.999875,0.999925,da))*0.92*ayG);
+    col=mix(col, vec3(0.02,0.02,0.05), smoothstep(0.999875,0.999925,da)*0.85*ayG);
+
+    // ── GUNES: ufuk parlamasi + disk (HDR degerler → bloom yakalar) ──
+    col += vec3(1.90,0.78,0.28) * pow(ufukGunes, 9.0) * safak * 0.85;
+    col += vec3(6.0,4.2,2.6) * smoothstep(0.99955, 0.99985, gd) * safak;
     gl_FragColor=vec4(col,1.); }`
 });
 scene.add(new THREE.Mesh(new THREE.SphereGeometry(2200, 56, 36), gokMat));
@@ -324,7 +366,7 @@ ayI.shadow.mapSize.set(2048, 2048);
 Object.assign(ayI.shadow.camera, { left:-34, right:34, top:34, bottom:-34, far:320 });
 ayI.shadow.bias = -0.00035; ayI.shadow.normalBias = 0.014; ayI.shadow.radius = 2.2;
 scene.add(ayI, ayI.target);
-scene.add(new THREE.HemisphereLight(0x5d6880, 0x413828, 0.78));
+const ortamI = new THREE.HemisphereLight(0x5d6880, 0x413828, 0.78); scene.add(ortamI);
 // yüzü karanlıkta bırakmayan yumuşak dolgu (gölge yok, ucuz)
 const dolgu = new THREE.DirectionalLight(0x8e9ec6, 0.42); dolgu.position.set(80, 42, 110); scene.add(dolgu);
 // karakter anahtarı: kameranın omzundan gelen, sadece yakını aydınlatan sinematik ışık
@@ -2043,7 +2085,8 @@ const hacimPass = new ShaderPass({
     isikRenk:{value:Array.from({length:HACIM_N},()=>new THREE.Vector3())},
     isikMenzil:{value:new Float32Array(HACIM_N)},
     zeminY:{value:0}, yogunluk:{value:0.125}, adimSay:{value:10}, enUzak:{value:64},
-    gokRenk:{value:new THREE.Vector3(0.052,0.070,0.125)}, gokYog:{value:0.22}
+    gokRenk:{value:new THREE.Vector3(0.052,0.070,0.125)}, gokYog:{value:0.10},
+    pusRenk:{value:new THREE.Vector3(0.045,0.058,0.098)}, pusGuc:{value:0.62}
   },
   vertexShader:`varying vec2 vUv; void main(){vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
   fragmentShader:`
@@ -2051,7 +2094,8 @@ const hacimPass = new ShaderPass({
     uniform mat4 projTers, kamMat; uniform vec3 kamPoz;
     uniform vec3 isikPoz[${HACIM_N}]; uniform vec3 isikRenk[${HACIM_N}];
     uniform float isikMenzil[${HACIM_N}];
-    uniform float zeminY, yogunluk, enUzak, gokYog; uniform vec3 gokRenk; uniform int adimSay;
+    uniform float zeminY, yogunluk, enUzak, gokYog, pusGuc;
+    uniform vec3 gokRenk, pusRenk; uniform int adimSay;
     varying vec2 vUv;
     void main(){
       vec4 taban = texture2D(tDiffuse, vUv);
@@ -2079,9 +2123,6 @@ const hacimPass = new ShaderPass({
         float yog = exp(-max(0.0, s.y - zeminY) * 0.30);
         // ── YUKSEKLIK SISI: gokyuzu sacilmasi. Ayri pas gerekmiyor, ayni isin
         // yurutmesinde bedava geliyor. Yere yakin yogun, yukarida seyrek.
-        // HAVA PERSPEKTIFI: pus mesafeyle birikir. Kameranin dibinde berrak olmali,
-        // yoksa on plan yikanip kontrastini kaybediyor.
-        top += gokRenk * yog * gokYog * smoothstep(0.03, 0.60, ilerleme / enUzak);
         for (int L = 0; L < ${HACIM_N}; L++){
           vec3 dl = isikPoz[L] - s;
           float d2 = dot(dl, dl);
@@ -2091,7 +2132,15 @@ const hacimPass = new ShaderPass({
           top += isikRenk[L] * (kes * kes / (1.0 + d2 * 0.42)) * yog;
         }
       }
-      gl_FragColor = vec4(taban.rgb + top * adim * yogunluk, taban.a);
+      // ── HAVA PERSPEKTIFI (analitik, TUM mesafe) ──
+      // Isin yurutmesi 64 m'de kesiliyor; oradan hesaplanan pus 300 m'deki daglara
+      // ulasmiyordu ve uzak siluetler duz koyu lekeler halinde kaliyordu.
+      // Beer-Lambert ile mesafeye gore KARISTIRMA yapmak hem dogru hem daha ucuz:
+      // uzak nesneler pus RENGINE doner, sadece parlamaz.
+      float tamMes = min(sahneMes, 1200.0);
+      float pus = 1.0 - exp(-tamMes * 0.0034);
+      vec3 sonuc = mix(taban.rgb, pusRenk, clamp(pus * pusGuc, 0.0, 0.90));
+      gl_FragColor = vec4(sonuc + top * adim * yogunluk, taban.a);
     }`
 });
 hacimPass.material.depthWrite = false; hacimPass.material.depthTest = false;
@@ -2314,6 +2363,11 @@ function gorev(m){ gorevEl.textContent = m; }
 // ═══════════ 13. DÖVÜŞ / AKIŞ ═══════════
 let sarsinti=0, hitstop=0, kuklaHiz=0, kuklaAci=0, agirCekim=0, riposteT=-9, sinematik=4.2;
 let asama='talim', vurusSayisi=0, sparVurus=0, parrySayisi=0;
+// Bolum ilerledikce gun agarir. Kitapta 'Sessiz Talim' safaktan once baslar,
+// bolum safakla biter — oynanis bunu takip eder.
+const ZAMAN_ASAMA = { talim:0, kaya_geldi:0.10, spar:0.18, devrilme:0.30,
+                      ders:0.42, parry_sinavi:0.62, bitti:1.0 };
+function asamaAyarla(yeni){ asama = yeni; zamanHedef = ZAMAN_ASAMA[yeni] ?? zamanHedef; }
 let kayaHedefX=null, kayaHedefZ=null, kayaBekle=0, kayaMod='dur';
 let togKombo=0, togKomboT=-9;
 const HUD = { can:document.getElementById('can'), denge:document.getElementById('denge'),
@@ -2484,7 +2538,7 @@ function etkilesim(){
     konus([
       ['Kaya','Bir kez de ete kemiğe karşı salla. Belki kime vurduğunu hatırlarsın.'],
       ['Kaya','Hazırsan başla. Vur bana.'],
-    ], () => { asama='spar'; HUD.kutu.classList.add('acik');
+    ], () => { asamaAyarla('spar'); HUD.kutu.classList.add('acik');
       gorev('Kaya\'ya üç kez isabet ettir · Sol tık vur · Sağ tık blok · Shift takla'); });
   } else if (asama === 'ders') {
     konus([
@@ -2492,7 +2546,7 @@ function etkilesim(){
       ['Kaya','Birincisi rakibin durduğu yer. İkincisi vuracağını sandığın yer. Üçüncüsü öfkenin seni sürüklediği yer.'],
       ['Kaya','Sen hep üçüncüye basıyorsun.'],
       ['Kaya','Şimdi savuştur. Vurduğum an sağ tıkla — öfkeyle değil, dinleyerek.'],
-    ], () => { asama='parry_sinavi'; parrySayisi=0; kayaBekle=1.4;
+    ], () => { asamaAyarla('parry_sinavi'); parrySayisi=0; kayaBekle=1.4;
       gorev('Kaya\'nın darbesini SAĞ TIK ile savuştur (3 kez)'); });
   } else if (asama === 'bitti') {
     konus([['Kaya','Düşmek talimin sonu değil. Ana ateşin kokusu geliyor — Anya Ana bekler.']]);
@@ -2515,6 +2569,37 @@ function kaliteUygula(){
   ayI.shadow.mapSize.setScalar(kalite > .78 ? 2048 : 1024);
   if (ayI.shadow.map) { ayI.shadow.map.dispose(); ayI.shadow.map = null; }
 }
+// ═══ ZAMAN SURUCUSU ═══ gece(0) → safak(1). Her kare tum isik sistemini gunceller.
+let zamanHedef = 0;
+const _ayR = new THREE.Color(0xc6d2f8), _gunR = new THREE.Color(0xffc98e);
+const _ortG0 = new THREE.Color(0x5d6880), _ortG1 = new THREE.Color(0x9fb0d0);
+const _ortY0 = new THREE.Color(0x413828), _ortY1 = new THREE.Color(0x7a5f3c);
+const _sisG = new THREE.Vector3(0.052,0.070,0.125), _sisS = new THREE.Vector3(0.20,0.15,0.13);
+const _pusG = new THREE.Vector3(0.045,0.058,0.098), _pusS = new THREE.Vector3(0.42,0.32,0.27);
+function zamanGuncelle(dt, P){
+  ZAMAN.value = lerp(ZAMAN.value, zamanHedef, 1 - Math.exp(-dt/6.0));   // yavas, farkedilmeyen gecis
+  const z = ZAMAN.value;
+  gokMat.uniforms.zaman.value = z;
+  gokMat.uniforms.gunesYon.value.copy(gunesYonu(z));
+  // ANA ISIK: soguk ay (arkadan) → sicak alcak gunes (dogudan)
+  const yon = (z < .5 ? AY_YON.clone().lerp(gunesYonu(z), z*2) : gunesYonu(z)).normalize();
+  ayI.position.set(P.x + yon.x*180, P.y + yon.y*180 + 40*(1-z), P.z + yon.z*180);
+  ayI.color.copy(_ayR).lerp(_gunR, z);
+  ayI.intensity = lerp(3.9, 5.8, z);
+  // ORTAM: safakta gokyuzu genel aydinlatmayi devralir
+  ortamI.color.copy(_ortG0).lerp(_ortG1, z);
+  ortamI.groundColor.copy(_ortY0).lerp(_ortY1, z);
+  ortamI.intensity = lerp(0.78, 2.35, z);
+  scene.environmentIntensity = lerp(0.62, 1.15, z);
+  // HACIMSEL SIS: soguk mavi → altin
+  hacimPass.uniforms.gokRenk.value.copy(_sisG).lerp(_sisS, z);       // adim-basina sacilma
+  hacimPass.uniforms.gokYog.value = lerp(0.10, 0.16, z);
+  hacimPass.uniforms.pusRenk.value.copy(_pusG).lerp(_pusS, z);        // mesafe pusunun RENGI
+  hacimPass.uniforms.pusGuc.value = lerp(0.62, 0.80, z);
+  // MESALELER safakta gorece baskinligini kaybeder
+  mesaleGuc = lerp(1.0, 0.45, z);
+}
+let mesaleGuc = 1.0;
 const V3 = new THREE.Vector3(), V4 = new THREE.Vector3(), V5 = new THREE.Vector3();
 // ── kamera durumu: yayli kol, gecikmeli bakis, FOV, darbe yumrugu
 const kamHed = new THREE.Vector3(), kamIst = new THREE.Vector3(), kamBak = new THREE.Vector3();
@@ -2617,7 +2702,7 @@ function tik(){
       kivilcim.at(kukla.position.x,kukla.position.y+1.8,kukla.position.z,8,4,12,.3);
       if (asama==='talim') { vurusSayisi++;
         gorev(`Kuklaya vur: ${Math.min(3,vurusSayisi)}/3`);
-        if (vurusSayisi>=3) { asama='kaya_geldi'; kayaGel(); } }
+        if (vurusSayisi>=3) { asamaAyarla('kaya_geldi'); kayaGel(); } }
     } else if (asama==='spar') {
       const s = darbeUygula(togan, kaya, 16, 'hafif');
       if (s==='isabet') { sparVurus++; gorev(`Kaya'ya isabet: ${Math.min(3,sparVurus)}/3`);
@@ -2653,7 +2738,7 @@ function tik(){
   burkut.rotation.y = Math.sin(saat*.5)*.5;
   const ka = -.25 + Math.max(0, Math.sin(saat*1.1))*.35;
   burkut.kL.rotation.z = -ka; burkut.kR.rotation.z = ka;
-  atesI.intensity = 2.9 + Math.sin(saat*9)*.7 + Math.sin(saat*23)*.35;
+  atesI.intensity = (2.9 + Math.sin(saat*9)*.7 + Math.sin(saat*23)*.35) * mesaleGuc;
   // ── arka plan figurleri: nefes, ates karistirma, nobetci bas cevirme
   for (const npc of npcler) {
     const f = saat*1.0 + npc.g.userData.faz, u = npc.g.userData;
@@ -2686,7 +2771,7 @@ function tik(){
       const m = mesaleler[i]; if (!m) { mIsik[i].intensity = 0; continue; }
       const f = saat*7.2 + m.faz;
       mIsik[i].position.copy(m.tepe);
-      mIsik[i].intensity = 19 + Math.sin(f)*4.2 + Math.sin(f*3.9)*2.1;
+      mIsik[i].intensity = (19 + Math.sin(f)*4.2 + Math.sin(f*3.9)*2.1) * mesaleGuc;
     }
   }
   if (Math.random() < dt*44) atesKiv.at(13,H(13,9)+.35,9,1,1.1,-1.1,1.6);
@@ -2752,7 +2837,8 @@ function tik(){
   }
   { const kd = V3.set(camera.position.x-P.x, 0, camera.position.z-P.z).normalize();
     karIsik.position.set(P.x + kd.x*2.4 + 1.0, P.y + 3.1, P.z + kd.z*2.4); }
-  ayI.position.set(P.x-70, 100, P.z-120); ayI.target.position.copy(P); ayI.target.updateMatrixWorld();
+  zamanGuncelle(dt, P);
+  ayI.target.position.copy(P); ayI.target.updateMatrixWorld();
 
   // ── ay hüzmeleri: ayın ekran konumunu bul
   {
@@ -2850,6 +2936,7 @@ function tik(){
     // yakın çekim: __dbg.bak(mesafe, yukseklik, aci) — sadece geliştirme/ekran görüntüsü için
     sahne(ad){ asama = ad; if (ad==='spar'||ad==='parry_sinavi') dovusHud.classList.add('acik'); },
     sinematikAtla(){ sinematik = 0; },
+    zaman(z){ zamanHedef = z; ZAMAN.value = z; },   // 0=gece 1=safak (test icin ani)
     sabit(ey, u){ const T={hafif1:.54,hafif2:.58,agir:.92,takla:.58,parry:.36,blok:1,devril:1.0}[ey]||.5;
       this.sabitEy=ey; this.sabitEt=u*T; },
     serbest(){ this.sabitEy=null; this._p=null; togan.anlik=false; togan.eylem=null; },
@@ -2872,7 +2959,7 @@ function kayaGel(){
 }
 let kayaYurusu = null;
 function devrilmeSahnesi(){
-  asama = 'devrilme';
+  asamaAyarla('devrilme');
   HUD.kutu.classList.remove('acik'); gorev('');
   kaya.basla('agir');
   setTimeout(() => {
@@ -2887,13 +2974,13 @@ function devrilmeSahnesi(){
         ['Kaya','Ayağa kalk.'],
         ['Togan','Düştüm. Gördün.'],
         ['Kaya','Düşmek talimin sonu değil.'],
-      ], () => { togan.eylem=null; togan.basla('kalk'); asama='ders';
+      ], () => { togan.eylem=null; togan.basla('kalk'); asamaAyarla('ders');
         gorev('Kaya ile konuş — E'); });
     }, 1100);
   }, 620);
 }
 function parrySinaviBitti(){
-  asama = 'bitti';
+  asamaAyarla('bitti');
   HUD.kutu.classList.remove('acik');
   konus([
     ['Kaya','Demek hâlâ duyabiliyorsun.'],
