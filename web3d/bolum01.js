@@ -175,6 +175,30 @@ function kenar(mat, renk = new THREE.Color(0xaebbdc), guc = .40) {
         _c *= (0.86 + 0.30*_kir);
         _c *= mix(vec3(0.94,0.97,1.04), vec3(1.06,1.01,0.92), _buyuk);   // soguk/sicak leke
         _c = mix(_c, _c*vec3(0.64,0.58,0.50), _dip*0.38);
+        // ── UC OLCEKLI YUZEY DETAYI: normal haritalar ~5 m'den sonra kayboluyor,
+        // uzak nesneler duz renk lekesi olarak kaliyordu. Mevcut _n3 gurultusuyle
+        // (ek doku fetch'i YOK) uc olcekte kabartma; mesafeye gore agirliklandirilir,
+        // boylece uzakta BUYUK olcek hayatta kalir.
+        {
+          float _mes = length(vViewPosition);
+          float _w0 = 1.0 - smoothstep(2.0, 9.0, _mes);      // ince (0.5 m) — yakinda
+          float _w1 = 1.0 - smoothstep(8.0, 28.0, _mes);     // orta (2 m)
+          float _w2 = 1.0;                                   // kaba (8 m) — her mesafede
+          float _e = 0.42;
+          float _d0 = _n3(vDP*2.00), _d1 = _n3(vDP*0.50), _d2 = _n3(vDP*0.125);
+          float _dx = (_n3((vDP+vec3(_e,0,0))*2.00)-_d0)*_w0
+                    + (_n3((vDP+vec3(_e,0,0))*0.50)-_d1)*_w1*1.6
+                    + (_n3((vDP+vec3(_e,0,0))*0.125)-_d2)*_w2*2.4;
+          float _dz = (_n3((vDP+vec3(0,0,_e))*2.00)-_d0)*_w0
+                    + (_n3((vDP+vec3(0,0,_e))*0.50)-_d1)*_w1*1.6
+                    + (_n3((vDP+vec3(0,0,_e))*0.125)-_d2)*_w2*2.4;
+          // kabartmayi isiga yansit: yuzey normali dogrultusunda kucuk sapma
+          vec3 _L = normalize(vec3(-0.30, 0.52, -0.80));
+          float _kab = (_dx*_L.x + _dz*_L.z) * 0.55;
+          _c *= (1.0 + clamp(_kab, -0.34, 0.34));
+          // uzakta puruz kirilmasi: yuzeyler tamamen matlasmasin
+          gl_FragColor.rgb = _c;
+        }
         // ── ISIMALIK: normal yonunde ofsetli ornekleme sozde-yonluluk verir
         // (mesaleye BAKAN yuz, sirtini donenden daha fazla dolayli isik alir)
         _c += isimaOku(vDP + vDN*1.5) * _albedo * 0.95;
