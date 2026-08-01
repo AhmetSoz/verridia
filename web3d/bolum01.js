@@ -3113,7 +3113,10 @@ composer.addPass(new SMAAPass());   // tirtikli kenarlar 'amatör WebGL' diye ba
 
 // ═══════════ 11. GİRDİ ═══════════
 const tus = {}; let blokBasili = false;
-addEventListener('keydown', e => { sesBaslat(); const k=e.key.toLowerCase(); tus[k]=true;
+addEventListener('keydown', e => {
+  if (e.key === 'F5') { e.preventDefault();
+    kamMod = (kamMod === 'omuz') ? 'ceyrek' : 'omuz'; kamAtla = true;
+    gorev(kamMod === 'ceyrek' ? 'KAMERA: eğimli 3/4' : 'KAMERA: omuz üstü'); return; } sesBaslat(); const k=e.key.toLowerCase(); tus[k]=true;
   if (k===' ') { e.preventDefault(); diyalogAcik ? diyalogIlerle() : null; }
   if (k==='e') { diyalogAcik ? diyalogIlerle() : etkilesim(); }
   if (k==='shift' && !diyalogAcik) taklaYap();
@@ -3122,6 +3125,11 @@ addEventListener('keydown', e => { sesBaslat(); const k=e.key.toLowerCase(); tus
 addEventListener('keyup', e => tus[e.key.toLowerCase()]=false);
 const cv = document.getElementById('c');
 let kamYaw=Math.PI, kamPitch=.20, kamMes=8.0;
+// ═══ KAMERA MODU DENEYI ═══
+// 'omuz' = mevcut ucuncu sahis · 'ceyrek' = egimli 3/4 (Hades benzeri)
+// Geri donulebilir: F5 ile gecis. Tek degiskenle varsayilan degistirilir.
+let kamMod = 'omuz', kamAtla = false;
+const CEYREK = { pitch: 0.86, mes: 11.5, fov: 42, yaw: Math.PI * 0.25 };
 const kilitBilgi = document.getElementById('kilitBilgi');
 cv.addEventListener('contextmenu', e => e.preventDefault());
 function kilitli(){ return document.pointerLockElement === cv; }
@@ -3697,16 +3705,25 @@ function tik(){
     // ileriye bakis: bakis noktasi hiz yonune kayar → gidilen yer gorunur
     kamIleri.lerp(V4.set(anlikHizV.x*.19, 0, anlikHizV.z*.19), 1-Math.exp(-dt/.30));
     kamHed.set(P.x+kamIleri.x, P.y+hy, P.z+kamIleri.z);
-    const yat = Math.cos(kamPitch)*kamMes;
-    kamIst.set(kamHed.x+Math.sin(kamYaw)*yat, kamHed.y+Math.sin(kamPitch)*kamMes, kamHed.z+Math.cos(kamYaw)*yat);
+    // 3/4 modda aci ve mesafe SABIT: her kare ayni sekilde kompoze olur.
+    // Ucuncu sahiste oyuncunun nereye bakti§i belirliyordu; hicbir kare
+    // tasarlanmis degildi. Sabit aci bunu yapisal olarak cozer.
+    const cy = (kamMod === 'ceyrek');
+    const ePitch = cy ? CEYREK.pitch : kamPitch;
+    const eMes   = cy ? CEYREK.mes   : kamMes;
+    const eYaw   = cy ? CEYREK.yaw   : kamYaw;
+    const yat = Math.cos(ePitch)*eMes;
+    kamIst.set(kamHed.x+Math.sin(eYaw)*yat, kamHed.y+Math.sin(ePitch)*eMes, kamHed.z+Math.cos(eYaw)*yat);
     // arazi carpismasi: hedeften kameraya ornekle, tepe arkasina gecme
     { let oran = 1;
-      for (let i=1;i<=7;i++){ const s=i/7;
+      for (let i=1;i<=(cy?0:7);i++){ const s=i/7;
         const x=lerp(kamHed.x,kamIst.x,s), z=lerp(kamHed.z,kamIst.z,s), y=lerp(kamHed.y,kamIst.y,s);
         if (y < H(x,z)+.95) { oran = Math.max(.20,(i-1)/7); break; } }
       if (oran < 1) kamIst.lerpVectors(kamHed, kamIst, oran); }
     if (kamBak.lengthSq() < 1e-6) { kamBak.copy(kamHed); camera.position.copy(kamIst); }
-    camera.position.lerp(kamIst, 1-Math.exp(-dt/.13));            // yayli kol
+    // mod degisiminde ISINLA: yayla 15 m yol almak hem yavas hem cirkin
+    if (kamAtla) { camera.position.copy(kamIst); kamBak.copy(kamHed); kamAtla = false; }
+    else camera.position.lerp(kamIst, 1-Math.exp(-dt/.13));       // yayli kol
     kamBak.lerp(kamHed, 1-Math.exp(-dt/.22));                     // gecikmeli bakis
     // darbe yumrugu
     kamYum.addScaledVector(kamYumV, dt); kamYumV.multiplyScalar(Math.exp(-dt*13));
@@ -3721,7 +3738,7 @@ function tik(){
     if (camera.position.y < zAlt) camera.position.y = zAlt;
     camera.lookAt(kamBak);
     // FOV: kosuda genisler, agir yuklenmede sikisir, vurusta tekmelenir
-    let fh = 52 + Math.min(hiz,6)*.95 + fovTekme;
+    let fh = (cy ? CEYREK.fov : 52) + Math.min(hiz,6)*(cy ? .35 : .95) + fovTekme;
     if (togan.eylem === 'agir' && togan.eT < .40) fh -= 3.4;
     camera.fov += (fh - camera.fov) * (1-Math.exp(-dt/.13));
     camera.updateProjectionMatrix();
@@ -3833,7 +3850,7 @@ function tik(){
       if (ms > 26 && kalite > .55)      { kalite = Math.max(.55, kalite - .14); kaliteUygula(); }
       else if (ms < 13 && kalite < 1.0) { kalite = Math.min(1.0, kalite + .07); kaliteUygula(); }
     } }
-  if (!window.__dbg) window.__dbg = { THREE, scene, camera, renderer, togan, kaya, kukla, ao:aoPass, isi:ISI_PAY, hb:hbPass, zeminAg:ZEMIN_AG, patika:PATIKA_U, hacim:hacimPass, ssr:ssrPass, pus:pusKatlari, zerre:zerreler, dof:dofPass, huzme:huzmePass, grade:gradePass, composer,
+  if (!window.__dbg) window.__dbg = { kamModAyar(m){ kamMod = m; kamAtla = true; }, THREE, scene, camera, renderer, togan, kaya, kukla, ao:aoPass, isi:ISI_PAY, hb:hbPass, zeminAg:ZEMIN_AG, patika:PATIKA_U, hacim:hacimPass, ssr:ssrPass, pus:pusKatlari, zerre:zerreler, dof:dofPass, huzme:huzmePass, grade:gradePass, composer,
     // yakın çekim: __dbg.bak(mesafe, yukseklik, aci) — sadece geliştirme/ekran görüntüsü için
     sahne(ad){ asama = ad; if (ad==='spar'||ad==='parry_sinavi') dovusHud.classList.add('acik'); },
     sinematikAtla(){ sinematik = 0; },
