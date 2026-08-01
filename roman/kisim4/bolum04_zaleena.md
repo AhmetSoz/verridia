@@ -1,11 +1,11 @@
 # Bölüm 4 — Enkaz Zamanı
 *(ZALEENA: Kızıl Hafta, 1. Gün)*
 
-Deniz çekilince Yamalı Liman'ın altında saklanan her şey ortaya çıktı.
+Deniz çekilince Yamalı Liman’ın altında saklanan her şey ortaya çıktı.
 
 Eski çapalar, yarılmış tekneler ve birbirine dolanmış insan kemikleri çamurun içinde uzanıyordu. Kaptanlar tayfalarını yağmaya indirmek için sabırsızlanıyordu. Zaleena, ilk kabarmanın saatini bilmeden hiçbir geminin halatını çözmesine izin vermedi.
 
-“Enkaz Zamanı'nı kaçırıyoruz,” dedi Draven.
+“Enkaz Zamanı’nı kaçırıyoruz,” dedi Draven.
 
 “Hayatta kalanlar ikinci gelgiti de görür.”
 
@@ -17,15 +17,15 @@ Zaleena çekilen suyun sınırına dönüş saatleri yazılı beyaz kazıklar di
 
 Draven karşılık vermedi. Kendi tayfasını sıraya soktu.
 
-Kessel güverteye ince cübbeli bir kadınla çıktı. Kadının boynunda Rivan Deltası'nın bakır kamış mührü vardı.
+Kessel güverteye ince cübbeli bir kadınla çıktı. Kadının boynunda Rivan Deltası’nın bakır kamış mührü vardı.
 
-“Liman'daki Delta ambarının vekili,” dedi Kessel. “Seni görmek istiyor.”
+“Liman’daki Delta ambarının vekili,” dedi Kessel. “Seni görmek istiyor.”
 
-Kadın eğilmedi. “Leydi Amara'ya gönderdiğiniz mektup henüz Sazlık Taht'a varmış olamaz. Fakat saldırı kaydınızın bir kopyası bana ulaştı.”
+Kadın eğilmedi. “Leydi Amara’ya gönderdiğiniz mektup henüz Sazlık Taht’a varmış olamaz. Fakat saldırı kaydınızın bir kopyası bana ulaştı.”
 
 “Hızlısınız.”
 
-“Burada malımız var. Hızlı olmak zorundayız.” Vekil küçük bir deri tomar açtı. İçinde Paslı Gelgit'in kabuğuna benzeyen bir parça vardı. “Yaratıklar yüksek sesten kaçıyor. Ateş yalnız yönlerini değiştiriyor. Kabuklarının altında tuz keseleri var; tatlı su değerse dengelerini kaybediyorlar.”
+“Burada malımız var. Hızlı olmak zorundayız.” Vekil küçük bir deri tomar açtı. İçinde Paslı Gelgit’in kabuğuna benzeyen bir parça vardı. “Yaratıklar yüksek sesten kaçıyor. Ateş yalnız yönlerini değiştiriyor. Kabuklarının altında tuz keseleri var; tatlı su değerse dengelerini kaybediyorlar.”
 
 “Adınız?” diye sordu Zaleena.
 
@@ -33,7 +33,7 @@ Kadın ilk kez duraksadı. “Neris.”
 
 “Bilgiyi kim sınadı, Neris?”
 
-“Delta'nın kuzey gözlemcileri.”
+“Delta’nın kuzey gözlemcileri.”
 
 “Kaçı öldü?”
 
@@ -43,7 +43,7 @@ Kadın ilk kez duraksadı. “Neris.”
 
 Neris deri tomarın ikinci şeridini açtı. Üç gözlemcinin adı, iki tarih ve denemenin yapıldığı kanal yazılıydı. Biri ölmüş, biri sağ elini kaybetmişti. Tatlı su yaratıkları öldürmüyor, kısa süreli yön duygularını bozuyordu.
 
-Zaleena metni Kessel'e de okuttu. Aynı bilgi ikinci bir ağızdan duyulmadan savunma emrine dönüşmeyecekti.
+Zaleena metni Kessel’e de okuttu. Aynı bilgi ikinci bir ağızdan duyulmadan savunma emrine dönüşmeyecekti.
 
 Zaleena parçaya dokunmadı. “Bedeli?”
 
@@ -57,7 +57,7 @@ Zaleena güney iskelesindeki Delta ambarını gösterdi. “Sular yükselince il
 
 Kadın dudaklarını birbirine bastı. “Ne öneriyorsunuz?”
 
-“Yedi günlük geçici anlaşma. Tekneleriniz öncelikli geçer ama yükler kayıt altına alınır. Siz bütün gözlem notlarınızı ve elinizdeki tatlı suyu savunmaya verirsiniz. Amara'nın cevabı gelirse kalıcı şartları Jilet Resifleri'nde konuşuruz.”
+“Yedi günlük geçici anlaşma. Tekneleriniz öncelikli geçer ama yükler kayıt altına alınır. Siz bütün gözlem notlarınızı ve elinizdeki tatlı suyu savunmaya verirsiniz. Amara’nın cevabı gelirse kalıcı şartları Jilet Resifleri’nde konuşuruz.”
 
 “Özel kargolarımız var.”
 
@@ -69,15 +69,15 @@ Zaleena elini sıktı. “Yedi gün.”
 
 Anlaşma üç şartla iki kopya yazıldı: Delta tekneleri aranacak, yalnız sıra önceliği alacak ve ayrıcalık yedinci günün belirlenen saatinde bitecekti. Neris ile Zaleena imzaladı; Kessel ve Draven tanık oldu.
 
-Zaleena, geçici gücün en büyük tehlikesini Roric'ten öğrenmişti. İnsanlar ne zaman sona ereceği yazılmayan ayrıcalığı çok çabuk hak sanıyordu.
+Zaleena, geçici gücün en büyük tehlikesini Roric’ten öğrenmişti. İnsanlar ne zaman sona ereceği yazılmayan ayrıcalığı çok çabuk hak sanıyordu.
 
 ---
 
 İlk kabarma öğleden sonra geldi. Açıkta parçalanmış bir Hegemonya ticaret gemisini limana doğru sürüklüyordu. Üç kaptan işaret beklemeden yelken açtı.
 
-Geminin kıçında hâlâ Hegemonya'nın solmuş martı arması görünüyordu. Kıyıdakiler ambarında gelgit-çeliği olabileceğini söylüyordu. Söylenti birkaç dakika içinde kesin habere, kesin haber de pay kavgasına dönüştü.
+Geminin kıçında hâlâ Hegemonya’nın solmuş martı arması görünüyordu. Kıyıdakiler ambarında gelgit-çeliği olabileceğini söylüyordu. Söylenti birkaç dakika içinde kesin habere, kesin haber de pay kavgasına dönüştü.
 
-Zaleena gözcü defterini açtırdı. Batık gemi üç ay önce kuzey kayalıklarında kaybolan `Sabırlı Martı` olmalıydı. Kayıtta yükü tahıl, yelken bezi ve on iki sandık camdı. Gelgit-çeliği yoktu.
+Zaleena gözcü defterini açtırdı. Batık gemi üç ay önce kuzey kayalıklarında kaybolan *Sabırlı Martı* olmalıydı. Kayıtta yükü tahıl, yelken bezi ve on iki sandık camdı. Gelgit-çeliği yoktu.
 
 “Onlara işaret gönder,” dedi. “Peşinde oldukları servet küflenmiş un.”
 
@@ -91,7 +91,7 @@ Paslı Gelgit sürüsü enkazın altında bekliyordu.
 
 İlk yaratık kırık bordadan çıkınca kaçak gemilerden biri dönüşte ötekinin yolunu kesti. Direkler çarpıştı. Bir tayfa iki gemi arasına düştü ve omzu ezildi. Yağma için başlayan yarış, daha sürü saldırmadan ilk yaralısını vermişti.
 
-Zaleena Deniz Hayaleti'ni enkazla liman arasına soktu. Yaratıkları öldürmeye çalışmadı. Çanları farklı aralıklarla vurdurdu; sürü sesin yoğunlaştığı bordadan uzaklaşıp sessiz kalan kanala yığıldı. Orada Delta'nın fıçıları bekliyordu.
+Zaleena Deniz Hayaleti’ni enkazla liman arasına soktu. Yaratıkları öldürmeye çalışmadı. Çanları farklı aralıklarla vurdurdu; sürü sesin yoğunlaştığı bordadan uzaklaşıp sessiz kalan kanala yığıldı. Orada Delta’nın fıçıları bekliyordu.
 
 Kessel gemilerini yan yana getirip dar bir koridor kurdu. Draven, emre uymayan kaptanların dönüş yolunu açtı. Zaleena ise Delta vekilinin verdiği bilgiyi sınadı: iki tatlı su fıçısını kancalara bağlatıp sürünün önüne boşalttı.
 
@@ -117,7 +117,7 @@ Ezilen omuzlu tayfanın borcunu kaptanın payından ayırdı. Adam emre uymayan 
 
 Roric dip kamarasında anlaşmanın kaydını okudu.
 
-“Delta'ya kapıyı araladın,” dedi.
+“Delta’ya kapıyı araladın,” dedi.
 
 “Ayağımı eşiğe koydum.”
 
@@ -131,7 +131,7 @@ Zaleena kaydı katladı. “İkinci zehri nedir?”
 
 “Uyarıları yalnız düşmanlarından duyduğunu sanmak.”
 
-Zaleena bunu cevapsız bıraktı. Güverteye çıktığında Delta'nın tatlı su fıçıları iskelelere dağıtılıyordu.
+Zaleena bunu cevapsız bıraktı. Güverteye çıktığında Delta’nın tatlı su fıçıları iskelelere dağıtılıyordu.
 
 Neris dağıtım bitmeden, Delta ambarında sekiz fıçı daha bulunduğunu söyledi. Zaleena içme payını ambar işçilerine bıraktı; kalanını savunmaya aldı.
 
@@ -143,6 +143,6 @@ Neris dağıtım bitmeden, Delta ambarında sekiz fıçı daha bulunduğunu söy
 
 “O zaman raporuna sayılarını da yaz.”
 
-Neris başını eğmeden ayrıldı. Zaleena, Delta'nın ilk sınavının yaratık bilgisinden çok kıtlıkta verdikleri kararlar olacağını anladı.
+Neris başını eğmeden ayrıldı. Zaleena, Delta’nın ilk sınavının yaratık bilgisinden çok kıtlıkta verdikleri kararlar olacağını anladı.
 
 Gece geri dönmeyenler listesi boş kaldı. Enkaz Zamanı limana servet getirmemişti; o gün kimseyi de almamıştı.

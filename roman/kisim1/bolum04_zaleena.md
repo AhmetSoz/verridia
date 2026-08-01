@@ -9,9 +9,9 @@ Zaleena, *Deniz Hayaleti*’nin dümeninde beyazlığın içindeki küçük değ
 
 Dümendeki tayfa çarkı sessizce çevirdi. Gemi sağa yattı.
 
-*Deniz Hayaleti*’nde emirler bağırılmazdı. Roric’in gemilerindeki sarhoş naraları uzaktan yiğitlik sayılabilirdi; Jilet Resifleri’nde ses, yaklaşan gövdenin yerini ele verirdi. Zaleena ölümü gereksiz yere bilgilendirmezdi.
+*Deniz Hayaleti*’nde emirler bağırılmazdı. Roric’in gemilerindeki sarhoş naraları uzaktan yiğitlik sayılabilirdi; Jilet Resifleri’nde ses, yaklaşan gövdenin yerini ele verirdi.
 
-İlk resif dişi sancak başomuzluğunda belirdi. Islak, kara bir çıkıntı, bordadan bir kürek boyu ötede kayıp gitti. Ardından ikinci diş geldi. Zaleena her kayanın adını, her akıntının gün içindeki huysuzluğunu bilirdi. Yamalı Liman doğumlu bir kaptanın mirası altın değil, başkasına çizilemeyen bir yoldu.
+İlk resif dişi sancak başomuzluğunda belirdi. Islak, kara bir çıkıntı, bordadan bir kürek boyu ötede kayıp gitti. Ardından ikinci diş geldi. Zaleena her kayanın adını, her akıntının gün içindeki huysuzluğunu bilirdi.
 
 Sorin, avucuyla örttüğü küçük bir fenerle yaklaştı.
 
@@ -77,7 +77,7 @@ Sorin yürümeye başladıklarında kulağına eğildi. “Şişelerin içinde g
 
 “Tuzlu su.”
 
-Sorin gülmemek için başını çevirdi. Zaleena gülmedi. Limanda bir kural yazılı değilse, onu bazen utanmanın üstüne kazımak gerekirdi.
+Sorin gülmemek için başını çevirdi. Zaleena gülmedi.
 
 “Zaleena.”
 
@@ -117,7 +117,7 @@ Zaleena yanından geçerken omzunu ona değdirmedi. “Roric’e söyle, *Deniz 
 
 “Herkes öyle söyler,” dedi Faelan arkasından. “Toplamı başkasının canıyla ödeyene kadar.”
 
-Zaleena yürüdü. Cevap vermek, ona ikinci bir pazarlık hakkı tanımak olurdu.
+Zaleena yürüdü. Faelan ikinci kez seslenmedi.
 
 ✦
 

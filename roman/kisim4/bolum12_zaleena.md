@@ -1,17 +1,17 @@
 # Bölüm 12 — Bayrağın İlk Direği
 *(ZALEENA: Kızıl Hafta, 7. Gün)*
 
-Zaleena'nın bacaklarındaki uyuşma Son Kırıntı sabahında geçti. Ayağa kalktığında Roric dip kamarasının kapısında bekliyordu. Temiz gömlek giymiş, yüzünün yanık tarafını örtmemişti.
+Zaleena’nın bacaklarındaki uyuşma Son Kırıntı sabahında geçti. Ayağa kalktığında Roric dip kamarasının kapısında bekliyordu. Temiz gömlek giymiş, yüzünün yanık tarafını örtmemişti.
 
-İlk adımında Zaleena'nın sağ dizi boşaldı. Karyolanın kenarına tutundu. Roric yardım etmek için elini uzatmadı; kendisinin de duvara dayanması gerekiyordu.
+İlk adımında Zaleena’nın sağ dizi boşaldı. Karyolanın kenarına tutundu. Roric yardım etmek için elini uzatmadı; kendisinin de duvara dayanması gerekiyordu.
 
-“Konsey'e yürüyerek çıkamazsın,” dedi Zaleena.
+“Konsey’e yürüyerek çıkamazsın,” dedi Zaleena.
 
 “Sen de çıkamazsın.”
 
 Sorin iki taşıma sandalyesi hazırladı. Zaleena kendisininkini reddetmek istedi, sonra bunun gösterişten başka bir işe yaramayacağını anladı. İkisi güverteye yan yana taşındı. Liman, eski kralı ile yeni kraliçesini aynı anda başkalarının omzunda gördü.
 
-“Bugün beni Konsey'e çıkar,” dedi.
+“Bugün beni Konsey’e çıkar,” dedi.
 
 “Yürüyebiliyor musun?”
 
@@ -19,19 +19,19 @@ Sorin iki taşıma sandalyesi hazırladı. Zaleena kendisininkini reddetmek iste
 
 “Neden şimdi?”
 
-Roric eski kancasının olmadığı bileğine baktı. “Çünkü senin taç giydiğin limanda ölü numarası yaparak yaşarsam ikimizin de sözü çürür.”
+Roric kancasız bileğine baktı. “Çünkü senin taç giydiğin limanda ölü numarası yaparak yaşarsam ikimizin de sözü çürür.”
 
 “Bugün çıkarsan seçim de çürüyebilir.”
 
 “O zaman yeniden seçilirsin ya da inersin.” Roric sağlam eliyle kapı pervazını kavradı. “Beni sakladığın her gün kararın biraz daha senin oluyor, limanın değil.”
 
-Zaleena buna karşılık bulamadı. Kessel'e yirmi kaptanı çağırmasını ve toplantıyı kıyıya açık tutmasını emretti.
+Zaleena buna karşılık bulamadı. Kessel’e yirmi kaptanı çağırmasını ve toplantıyı kıyıya açık tutmasını emretti.
 
-Roric'in hayatta olduğunu önce Konsey'e açıklayacaktı. Limanın geri kalanı birkaç dakika sonra öğrenecekti. Bu küçük fark bile bir ayrıcalıktı; başka türlü toplantıda bıçaklar çekilebilirdi.
+Roric’in hayatta olduğunu önce Konsey’e açıklayacaktı. Limanın geri kalanı birkaç dakika sonra öğrenecekti. Bu küçük fark bile bir ayrıcalıktı; başka türlü toplantıda bıçaklar çekilebilirdi.
 
 Zaleena yirmi kaptanı batık kalyonun güvertesine çağırdı. Gerekçe söylemedi. Roric iki tayfanın arasında merdivene çıktığında konuşmalar bir anda kesildi.
 
-Kıyıdaki kalabalıktan bir kadın çığlık attı. Roric'in seferinde iki oğlunu kaybetmişti. Ardından başka sesler yükseldi: adıyla çağıranlar, sahtekâr diyenler, geri dönmesine şükredenler. Kessel, güverte çevresindeki silahlı tayfaları iki adım geri çekti. Öfkeyi bastırmak için silah göstermek, söylentiyi doğrulardı.
+Kıyıdaki kalabalıktan bir kadın çığlık attı. Roric’in seferinde iki oğlunu kaybetmişti. Ardından başka sesler yükseldi: adıyla çağıranlar, sahtekâr diyenler, geri dönmesine şükredenler. Kessel, güverte çevresindeki silahlı tayfaları iki adım geri çekti. Öfkeyi bastırmak için silah göstermek, söylentiyi doğrulardı.
 
 Draven kılıcını yarıya kadar çekti. “Bu ne?”
 
@@ -49,7 +49,7 @@ Zaleena inkâr etmedi. “Onu korumak için. Limanı parçalanmaktan korumak iç
 
 Zaleena tarihi söyledi. Kessel kayıt defterinden doğruladı. Seçimden önceydi.
 
-Güvertede uğultu başladı. Zaleena, Roric'in bilinci kapalı olduğu günleri ve kurulun ifşayı ertelemesini anlattı. İlk saklama kararını kurulun arkasına gizlemedi.
+Güvertede uğultu başladı. Zaleena, Roric’in bilinci kapalı olduğu günleri ve kurulun ifşayı ertelemesini anlattı. İlk saklama kararını kurulun arkasına gizlemedi.
 
 “İlk gece ben karar verdim,” dedi. “Sonraki günlerde Kessel ve iki liman şifacısı tanık oldu.”
 
@@ -83,11 +83,11 @@ Kessel çekilmenin kalıcı olduğunu, filo ve hazine haklarını da kapsadığ�
 
 “O zaman ondan da vazgeçmek kolay.”
 
-Draven kılıcını kınına soktu. “Bu, Zaleena'yı aklamaz.”
+Draven kılıcını kınına soktu. “Bu, Zaleena’yı aklamaz.”
 
 “Aklamak istemiyorum,” dedi Zaleena. “Seçimi sakladığım bilgiyle kazandım.” Unvan mührünü masaya bıraktı. “Şimdi makamı bırakıyorum. Aday olmak isteyen yeniden çıksın.”
 
-Kessel'in önerisiyle toplantıyı en yaşlı tarafsız kaptan devraldı. Draven önce hukuki sorunun doğru sorulmasını istedi: Roric çekildiğine göre liman eski seçimi onaylamakla mı yetinecek, yoksa bilgiyi baştan bilen herkesle yeniden mi oy verecekti?
+Kessel’in önerisiyle toplantıyı en yaşlı tarafsız kaptan devraldı. Draven önce hukuki sorunun doğru sorulmasını istedi: Roric çekildiğine göre liman eski seçimi onaylamakla mı yetinecek, yoksa bilgiyi baştan bilen herkesle yeniden mi oy verecekti?
 
 “Onu sevmiyorum,” dedi. “Ama soruyu doğru sırayla soracağız.”
 
@@ -123,8 +123,8 @@ Kalabalığın alkışı tek parça değildi. Bazıları sustu, bazıları küfr
 
 ---
 
-Finn'in iki çırağı masaya bir bayrak getirmedi. Ustalarının yarım kalan sığ su teknesinin küçük modelini bıraktılar. Dümenindeki çatlağı onarmamışlardı. Zaleena modeli tasarımların arasına koymadı; limanın ilk ortak kurtarma kaydının yanına kaldırttı. Finn bir simgeye dönüştürülmeden de hatırlanabilirdi.
+Finn’in iki çırağı masaya bir bayrak getirmedi. Ustalarının yarım kalan sığ su teknesinin küçük modelini bıraktılar. Dümenindeki çatlağı onarmamışlardı. Zaleena modeli tasarımların arasına koymadı; limanın ilk ortak kurtarma kaydının yanına kaldırttı. Finn bir simgeye dönüştürülmeden de hatırlanabilirdi.
 
-Batık kalyonun güvertesinde boş bir direk yükseliyordu. Zaleena yeniden seçim kaydını, Roric'in çekilme belgesini ve Finn'in modelini onun altındaki masaya bıraktı. Direğe o gün bayrak çekilmedi.
+Batık kalyonun güvertesinde boş bir direk yükseliyordu. Zaleena yeniden seçim kaydını, Roric’in çekilme belgesini ve Finn’in modelini onun altındaki masaya bıraktı. Direğe o gün bayrak çekilmedi.
 
-Gece direğin yanından ayrılırken bacakları yeniden titredi. Bu kez Sorin'in koluna tutundu. Bayrak ertesi gün hazır olmayacaktı. Zaleena ilk kez gecikmenin doğru bir karar olabileceğini düşündü.
+Gece direğin yanından ayrılırken bacakları yeniden titredi. Bu kez Sorin’in koluna tutundu. Bayrak ertesi gün hazır olmayacaktı. Zaleena ilk kez gecikmenin doğru bir karar olabileceğini düşündü.

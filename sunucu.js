@@ -9,7 +9,7 @@ const PORT = 4173;
 const MIME = {
   ".html": "text/html; charset=utf-8", ".css": "text/css; charset=utf-8",
   ".js": "text/javascript; charset=utf-8", ".jpg": "image/jpeg", ".jpeg": "image/jpeg",
-  ".png": "image/png", ".mp4": "video/mp4", ".svg": "image/svg+xml",
+  ".png": "image/png", ".mp4": "video/mp4", ".svg": "image/svg+xml", ".pdf": "application/pdf",
   ".woff2": "font/woff2", ".ico": "image/x-icon", ".json": "application/json"
 };
 

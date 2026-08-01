@@ -8,6 +8,10 @@
   var hazir = document.getElementById("pdf-hazir");
   if (!VERI || !kok || !modal) return;
 
+  var DIJITAL_PDF = {
+    "0": "assets/pdf/verridia-birinci-kitap-kizil-hafta-dijital-v1.pdf"
+  };
+
   var POV_SINIF = { "TOGAN": "pov-togan", "TEMUJİN": "pov-temujin", "KARIA": "pov-karia", "ZALEENA": "pov-zaleena" };
 
   function povChip(p) {
@@ -92,6 +96,20 @@
     }, 30);
   }
 
+  function dijitalIndir(secim) {
+    var adres = DIJITAL_PDF[secim];
+    if (!adres) return false;
+
+    var baglanti = document.createElement("a");
+    baglanti.href = adres;
+    baglanti.download = "Verridia - Birinci Kitap - Kizil Hafta - Dijital Edisyon.pdf";
+    document.body.appendChild(baglanti);
+    baglanti.click();
+    baglanti.remove();
+    kapat();
+    return true;
+  }
+
   function ac() { modal.hidden = false; }
   function kapat() { modal.hidden = true; }
 
@@ -102,7 +120,9 @@
   modal.addEventListener("click", function (e) { if (e.target === modal) kapat(); });
   document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !modal.hidden) kapat(); });
   document.querySelectorAll(".pdf-secenekler button").forEach(function (b) {
-    b.addEventListener("click", function () { yazdir(b.dataset.kitap); });
+    b.addEventListener("click", function () {
+      if (!dijitalIndir(b.dataset.kitap)) yazdir(b.dataset.kitap);
+    });
   });
 
   if (location.hash === "#indir") setTimeout(ac, 400);

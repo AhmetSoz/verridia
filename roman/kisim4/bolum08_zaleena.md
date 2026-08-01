@@ -1,7 +1,7 @@
 # Bölüm 8 — Derinliklerin Efendisi
 *(ZALEENA: Kızıl Hafta, 5. Gün)*
 
-Canavar Günü'nde deniz birden durdu.
+Canavar Günü’nde deniz birden durdu.
 
 Durgunluk önce limandaki sarkaçlarda görüldü. Bütün gemiler rüzgârla hafifçe yatarken açık denizdeki üç tekne dimdik kaldı. Sonra kıyı çanlarının içindeki tokmaklar aynı anda sustu.
 
@@ -15,19 +15,17 @@ Neris, Delta gözlem tomarını açıp taş masaya serdi. Deniz-Titreten kayıtl
 
 “Sorulmadı.”
 
-Zaleena kâğıdı Neris'in önünden çekti. “Bugünden sonra ölümcül bilgi pazarlık sırasına konmayacak. Ya tamamını verirsiniz ya anlaşmayı şimdi bitiririz.”
+Zaleena kâğıdı Neris’in önünden çekti. “Bugünden sonra ölümcül bilgi pazarlık sırasına konmayacak. Ya tamamını verirsiniz ya anlaşmayı şimdi bitiririz.”
 
 Neris itiraz etmedi. Tomarın altındaki iki küçük eki de açtı.
 
-Yamalı Liman'ın dışındaki bir millik su, rüzgâra rağmen ayna gibi dümdüz kaldı. Zaleena görüntüyü Roric'in anlattığı eski bir seferden tanıdı.
+Yamalı Liman’ın dışındaki bir millik su, rüzgâra rağmen ayna gibi dümdüz kaldı. Zaleena görüntüyü Roric’in anlattığı eski bir seferden tanıdı.
 
 “Bütün tekneleri geri çağırın,” dedi. “Deniz-Titreten.”
 
 Bayrak, çan ve siyah dumanla dönüş işareti verildi. İki balıkçı teknesi cevap verdi; en uzaktaki durgun halkanın ortasında kalmıştı.
 
 Draven liman ağzına batırılmak üzere taş yüklü mavnalar çekti. Kessel kurtarma halatlarını dağıttı.
-
-Dışarıda üç balıkçı teknesi vardı. İkisi limana dönmeye başladı. En uzaktaki, durgun halkanın ortasında kalmıştı.
 
 Suyun altında mavi bir ışık yandı.
 
@@ -51,15 +49,15 @@ Mavi organ yeniden karardı. Zaleena ilk parlayışla sönüş arasındaki süre
 
 “Dalgalarına.”
 
-İkinci ışık birinciden sağa dönerek genişledi. Neris'in ekindeki işaret buydu. Aralık kısalıyordu.
+İkinci ışık birinciden sağa dönerek genişledi. Neris’in ekindeki işaret buydu. Aralık kısalıyordu.
 
 “En kötü hesabı kullanacağız. Otuz iki nefeste dışarı çıkmış olmalıyız.”
 
 Balıkçı teknesine gidiş ve dönüş normal kürekle kırk nefesti. Rüzgâr yalnız dışarıdan içeri doğru esiyordu; gidişte yardım edecek, dönüşte onları tutacaktı. Zaleena kıç yelkenlerini ters açıyla hazırlattı. Çıkışta rüzgârı almak için halkanın içinde gemiyi neredeyse yarım döndürmeleri gerekecekti.
 
-Deniz Hayaleti'ne on iki kişi aldı. Herkes belinden gemiye bağlandı; kancalar ve kıç yelkenleri hazırlandı.
+Deniz Hayaleti’ne on iki kişi aldı. Herkes belinden gemiye bağlandı; kancalar ve kıç yelkenleri hazırlandı.
 
-Dümeni Finn'e verdi. Yaşlı usta, önceki saldırıda kendi deneme teknesini iki kez sığ sudan çıkarmıştı; limanda kırık bir yekeyi ondan hızlı okuyacak kimse yoktu. Kıyıdaki kurtarma kollarını iki çırağına devretti. Zaleena, Finn'in adını görev çizelgesine kendi eliyle yazdı. Onu gemiye almak gerekliydi. Gerekli olması, tehlikeyi küçültmüyordu.
+Dümeni Finn’e verdi. Yaşlı usta, önceki saldırıda kendi deneme teknesini iki kez sığ sudan çıkarmıştı; limanda kırık bir yekeyi ondan hızlı okuyacak kimse yoktu. Kıyıdaki kurtarma kollarını iki çırağına devretti. Zaleena, Finn’in adını görev çizelgesine kendi eliyle yazdı. Onu gemiye almak gerekliydi. Gerekli olması, tehlikeyi küçültmüyordu.
 
 Felç dalgasına daha önce yakalananları çıkardı. Yerlerine kürek ve halatta en az hata yapanları seçti.
 
@@ -69,7 +67,7 @@ Kimse konuşmadı. Zaleena bunu cesaret kanıtı saymadı. Korktuğunu söylemen
 
 “Sorin dışarıda kalırsa görevi devralır. Ayrılmak isteyen payını kaybetmeyecek.”
 
-Genç tayfalardan biri kemerini çözdü. Başını kaldırmadan kıyıya indi. Draven'ın adamlarından biri onun yerine geçti. Kimse arkasından gülmedi.
+Genç tayfalardan biri kemerini çözdü. Başını kaldırmadan kıyıya indi. Draven’ın adamlarından biri onun yerine geçti. Kimse arkasından gülmedi.
 
 Draven önüne çıktı. “Bir balıkçı teknesi için kraliçeyi riske atamazsın.”
 
@@ -79,13 +77,13 @@ Draven önüne çıktı. “Bir balıkçı teknesi için kraliçeyi riske atamaz
 
 Zaleena onu süzdü. “Kuzey iskelesi sende. Yaratık limana dönerse benden daha çok sana ihtiyaçları var.”
 
-Bu, Draven'ın hoşuna gitmedi. Yine de çekildi.
+Bu, Draven’ın hoşuna gitmedi. Yine de çekildi.
 
-“Dönmezsen Konsey'i ben toplarım,” dedi.
+“Dönmezsen Konsey’i ben toplarım,” dedi.
 
 “Topla. Ama koltuğa oturmadan önce oylat.”
 
-Draven'ın ağzının kenarı kıpırdadı. “Ölürken bile kural koyuyorsun.”
+Draven’ın ağzının kenarı kıpırdadı. “Ölürken bile kural koyuyorsun.”
 
 “Ölürsem en çok o zaman lazım olur.”
 
@@ -107,15 +105,15 @@ Beşinci balıkçı hâlâ halata dolanmıştı.
 
 Zaleena kancayı bırakmadı. Adamı küpeşteden kendi çekti. Mavi aydınlık geminin altına yayıldı.
 
-Balıkçının ayağı halata üç kez dolanmıştı. Zaleena bıçağını çekmek istedi; parmakları ilk titreşimle uyuştu. Sorin bıçağı aldı, halatı iki yerden kesti. Tekne akıntıyla yaratığın üstüne doğru sürüklenirken adam Deniz Hayaleti'nin bordasına çarptı. Kaşı açıldı. Zaleena onu yakasından çekip güverteye düşürdü.
+Balıkçının ayağı halata üç kez dolanmıştı. Zaleena bıçağını çekmek istedi; parmakları ilk titreşimle uyuştu. Sorin bıçağı aldı, halatı iki yerden kesti. Tekne akıntıyla yaratığın üstüne doğru sürüklenirken adam Deniz Hayaleti’nin bordasına çarptı. Kaşı açıldı. Zaleena onu yakasından çekip güverteye düşürdü.
 
 “Yelken!”
 
-Deniz Hayaleti döndü. İlk felç Zaleena'nın parmaklarından başladı. Sağ eli kancanın üzerinde kilitlendi. Sorin onu belinden kavrayıp güverteye çekti. Gemi durgun halkanın dışına çıktığında Zaleena dizlerini hissedemiyordu.
+Deniz Hayaleti döndü. İlk felç Zaleena’nın parmaklarından başladı. Sağ eli kancanın üzerinde kilitlendi. Sorin onu belinden kavrayıp güverteye çekti. Gemi durgun halkanın dışına çıktığında Zaleena dizlerini hissedemiyordu.
 
 Dalga kıç taraftaki iki tayfayı yere serdi. Direktekiler yelkeni bırakmadı. Rüzgâr onları menzilden çıkardı.
 
-Yaratığın üçüncü ışığı arkalarında yandı. Dalga bu kez geminin dümenini titretip demir bağlantılardan birini çatlattı. Yeke bütün ağırlığıyla sola savrulup Finn'i kıç küpeşteye sıkıştırdı. Yaşlı ustanın ağzından hava çıktı; sesi çıkmadı. Dümen sağa kilitlendi. Sorin iki kürekçiyi kıça gönderdi; uzun kürekleri suya çapraz sokarak geminin burnunu limana çevirdiler. Finn güverteden kaldırıldığında gözleri açıktı, fakat Zaleena'nın sorusuna cevap veremedi.
+Yaratığın üçüncü ışığı arkalarında yandı. Dalga bu kez geminin dümenini titretip demir bağlantılardan birini çatlattı. Yeke bütün ağırlığıyla sola savrulup Finn’i kıç küpeşteye sıkıştırdı. Yaşlı ustanın ağzından hava çıktı; sesi çıkmadı. Dümen sağa kilitlendi. Sorin iki kürekçiyi kıça gönderdi; uzun kürekleri suya çapraz sokarak geminin burnunu limana çevirdiler. Finn güverteden kaldırıldığında gözleri açıktı, fakat Zaleena’nın sorusuna cevap veremedi.
 
 Kıyıdaki mavnaların ardında yüzlerce kişi bekliyordu. Draven çıkış yolunu açık tutmak için taş mavnalardan birini erkenden batırmış, ötekileri zincirle geri çekmişti. Deniz Hayaleti dar aralıktan geçerken bordası taşa sürttü. İçeri girdiği anda son mavna da arkasında batırıldı.
 
@@ -135,13 +133,13 @@ Kurtarılan balıkçılardan yaşlı olanı, konuşur konuşmaz dışarıda bır
 
 Zaleena minnet beklemedi, yerine hemen yeni tekne de vaat etmedi. Adamın ve kaybettiği teknenin adını yazdırdı.
 
-Gün batarken Sorin revirden döndü. Elinde Finn'in reçine kararmış keskisi vardı.
+Gün batarken Sorin revirden döndü. Elinde Finn’in reçine kararmış keskisi vardı.
 
 “Öldü,” dedi.
 
-Finn kendine gelmemişti. Bir son söz bırakmamış, kimi suçlayacağını ya da teknesine ne yapılacağını söylememişti. Zaleena görev çizelgesini istedi. Finn'in adının karşısında kendi el yazısı duruyordu: *dümenci*. Sözcüğün üstünü çizmedi. Yanına ölüm saatini yazdı.
+Finn kendine gelmemişti. Bir son söz bırakmamış, kimi suçlayacağını ya da teknesine ne yapılacağını söylememişti. Zaleena görev çizelgesini istedi. Finn’in adının karşısında kendi el yazısı duruyordu: *dümenci*. Sözcüğün üstünü çizmedi. Yanına ölüm saatini yazdı.
 
-Roric gece kamaradan çıkıp Zaleena'nın yanına geldi. Bir kolunu duvara dayayarak yürüyordu.
+Roric gece kamaradan çıkıp Zaleena’nın yanına geldi. Bir kolunu duvara dayayarak yürüyordu.
 
 “Ayağın?” diye sordu.
 
@@ -175,10 +173,10 @@ Zaleena gözlerini kapattı. Kessel kayıt tutabiliyor, Draven savunmayı yönet
 
 Roric cevap vermedi. Masanın üstündeki kayıp defterine baktı. Sonra ilk kez, kalem istemeden kendi adını sağ kalanların altına yazdı.
 
-Altına kurtarma gemisinden sağ dönenlerin adlarını, beş balıkçıyı ve kıyıda felç geçiren iki gözcüyü ekledi. Finn'in adını, kurtardığı insanların altına tek başına yazdı. Ardından boş bir satır bıraktı.
+Altına kurtarma gemisinden sağ dönenlerin adlarını, beş balıkçıyı ve kıyıda felç geçiren iki gözcüyü ekledi. Finn’in adını, kurtardığı insanların altına tek başına yazdı. Ardından boş bir satır bıraktı.
 
 “Bu ne için?” diye sordu Zaleena.
 
 “Bir gün hepsini alamadığında bırakacağımız ad için.”
 
-Zaleena boş satırı kapatmadı. Defteri de ateşe atmadı. Canavar Günü'nün hesabında korkunun yeri bulunmalıydı; yoksa bir sonraki kraliçe aynı denize yalnız şarkıları dinleyerek açılırdı.
+Zaleena boş satırı kapatmadı. Defteri de ateşe atmadı. Canavar Günü’nün hesabında korkunun yeri bulunmalıydı; yoksa bir sonraki kraliçe aynı denize yalnız şarkıları dinleyerek açılırdı.

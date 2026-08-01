@@ -22,6 +22,7 @@
   - A− / A+ yazı boyutu, ☀/☾ gece–sepya tema
   - ← → klavye ile bölüm geçişi, üstte okuma ilerleme çubuğu
   - Kaldığın bölüm otomatik hatırlanır (localStorage)
+  - Birinci Kitap PDF seçeneği, mizanpajlı dijital edisyonu doğrudan indirir
 
 ## Yeni bölüm ekleyince (ÖNEMLİ)
 Romana yeni bölüm yazıldığında siteye yansıtmak için proje kökünde şunu çalıştır:

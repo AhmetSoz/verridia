@@ -46,6 +46,16 @@
   background: color-mix(in srgb, var(--r-altin, #c9a45c) 10%, transparent);
   color: var(--r-altin-parlak, #e8c987);
 }
+.pdf-secenekler button.dijital-hazir {
+  display: grid; gap: .18rem;
+  border-color: color-mix(in srgb, var(--r-altin, #c9a45c) 72%, transparent);
+  background: color-mix(in srgb, var(--r-altin, #c9a45c) 8%, transparent);
+}
+.pdf-secenekler button.dijital-hazir small {
+  color: var(--r-soluk, #86816f); font-family: Inter, Arial, sans-serif;
+  font-size: .68rem; font-weight: 400; letter-spacing: .12em; text-transform: uppercase;
+}
+.pdf-secenekler button.dijital-hazir:hover small { color: var(--r-metin, #d6d0c2); }
 .pdf-secenekler button.hepsi {
   margin-top: .3rem; background: var(--r-altin, #c9a45c); color: #12161f; border-color: var(--r-altin, #c9a45c);
 }

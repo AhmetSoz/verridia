@@ -25,7 +25,7 @@ Karia onun durmasına izin vermedi. “Ne kadar eksik?”
 
 “Tersane gece vardiyasına kalırsa işçiler—”
 
-“Gece vardiyasının ücretini sefer bütçesine yazın. Uykusuz işçiyi kırbaçlatan ustabaşını da tersaneden atın. Yorgun ellerin yaptığı gemi, ilk fırtınada hepimize tabut olur.”
+“Gece vardiyasının ücretini sefer bütçesine yazın. Ustabaşı işi kırbaçla hızlandırmaya kalkarsa tersaneden atın.”
 
 Subay rahatladığını belli etmemeye çalışarak selam verdi ve uzaklaştı.
 
@@ -33,13 +33,11 @@ Karia arkasından seslendi. “Adın ne?”
 
 Genç adam durdu. “Teğmen Marr, Amiral.”
 
-“Kâhyaların yeteceğini söylediği hesabı bir daha önüme getirme, Teğmen Marr. Kendi hesabını getir. Yanlış çıkarsa düzeltiriz; başkasının yalanı çıkarsa kiminle savaşacağımızı bilemeyiz.”
+“Kâhyaların hesabını bir daha kendi hesabınmış gibi getirme, Teğmen Marr. Yanlış yapacaksan kendin yap.”
 
 “Emredersiniz.”
 
-Bu kez rahatlamadı. Karia bunu daha yararlı buldu.
-
-Karia yeniden rıhtıma döndü. Sis-İşçileri yük sırtında, başları öne eğik ilerliyordu. Her fıçının üstünde iki ayrı vergi mührü vardı: kralın ondalığı, lordların ondalığı. Saray buna çifte ondalık diyordu. Rıhtımda kullanılan adıysa açlıktı.
+Karia yeniden rıhtıma döndü. Sis-İşçileri yükleri sırtlarında, başları öne eğik ilerliyordu. Her fıçının üstünde iki ayrı vergi mührü vardı: kralın ondalığı, lordların ondalığı. Saray buna çifte ondalık diyordu. Rıhtımda kullanılan adıysa açlıktı.
 
 “Bu sabah düşüncelerin pahalı görünüyor.”
 
@@ -63,7 +61,7 @@ Karia elindeki kâğıdı katladı. Bozkıra silah gönderildiği aylardır konu
 
 “Fiyat söyle.”
 
-Faelan gülümsedi. “Önce malın nereye gittiğini görelim.” Sonra limandaki bir yük teknesini izliyormuş gibi başını çevirdi. “Severin, oğlunu Hasat'ta kaybettiğinden beri krala da Konsey’e de güvenmiyor. Bozkır yeterince kanarsa Hegemonya’nın gelip kalan toprağı alacağına inanıyor. Kanın kime ait olduğu umurunda değil.”
+Faelan gülümsedi. “Önce malın nereye gittiğini görelim.” Sonra limandaki bir yük teknesini izliyormuş gibi başını çevirdi. “Severin, oğlunu Hasat’ta kaybettiğinden beri krala da Konsey’e de güvenmiyor. Bozkır yeterince kanarsa Hegemonya’nın gelip kalan toprağı alacağına inanıyor. Kanın kime ait olduğu umurunda değil.”
 
 “Bu Konsey’e götürülür. Kralın da haberi olmalı.”
 
@@ -85,7 +83,7 @@ Theodoric’in eski vasiyet hükmü sarayda fısıltıyla anılır olmuştu. Kim
 
 “Tartmakla yetinmeyecekleri güne hazırlanıyorlar.” Faelan’ın işaret parmağı tırabzandaki su çizgisini ikiye böldü. “Ben her zaman sırtınızı kollayamam. Sadakatimi en yüksek fiyata satarım. Bugün o fiyatı siz ödüyorsunuz; yarın pazarı yeniden kurarlar.”
 
-Karia bu açıklığı, Konsey’deki yeminlerden daha güvenilir buluyordu. Bir geminin su aldığını bilmek, kuru olduğuna inanmaktan iyiydi.
+Karia, Faelan’ın açıklığını Konsey’deki yeminlerden daha güvenilir buluyordu.
 
 “Pazar kurulursa ilk teklifi bana getir. Şimdi Severin’in konvoyunu izle. Hizmetçinin adını da öğren.”
 
@@ -133,11 +131,9 @@ Genç tayfanın avuçları halat yanığıyla kızarmıştı. Karia elini aldı,
 
 “Kıpırdatabiliyorum,” dedi çocuk.
 
-“Bugün güverteye çıkmayacaksın. Şifacıya git.”
+“Şifacıya git. Bugün güverteye çıkmayacaksın.”
 
 “Ama vardiyam...”
-
-“Bir vardiya eksik adamla yürür. Bir el eksik denizciyle yürümez.”
 
 “Bütün makaralar bugün yeniden denetlenecek. Akıntı Tozu kayıtlarını da kamarama getir.”
 

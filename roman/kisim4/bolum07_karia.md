@@ -25,7 +25,7 @@ Devin üzerinde geçen yıllardan kalma gemi parçaları bulunuyordu. Hegemonya 
 
 “Hayır. Girişini daraltsın.”
 
-Karia, zincirin devi durduramayacağını biliyordu. Yalnız yönünü bir gemi boyu saptırması gerekiyordu. O bir gemi boyu, kıyı toplarına ikinci atış açısı verecekti.
+Karia, zincirin devi durduramayacağını biliyordu. Zincir yaratığın yönünü bir gemi boyu saptırsa kıyı topları ikinci atış açısı bulacaktı.
 
 İlk salvo devin sağ yanını dağıttı. Açılan boşluk, çevredeki yosunla birkaç nefeste kapandı.
 
@@ -49,7 +49,7 @@ Karia surdaki kısa menzilli ağ atıcısını aşağı çevirtti. Normalde gemi
 
 “Çekirdek sancak altında,” dedi Karia. “İkinci zinciri aşağıdan geçirin.”
 
-Bir yosun kolu gemilerden birinin direğini kopardı. Halatlar güverteyi biçti. Karia'nın yanındaki subay denize düştü; Kaelan adamı kancayla çekti.
+Bir yosun kolu gemilerden birinin direğini kopardı. Halatlar güverteyi biçti. Karia’nın yanındaki subay denize düştü; Kaelan adamı kancayla çekti.
 
 Subayın kolu dirsekten aşağı kırılmıştı. Kaelan onu geri göndermek istedi. Adam sağlam eliyle işaret bayrağını kaldırdı. Karia bayrağı aldı ve şifacılara taşıttı; görevini sürdürmesine izin vermek cesaretini onurlandırmak değil, kan kaybından ölmesini izlemek olurdu.
 
@@ -71,7 +71,7 @@ Parıltı bir an kayboldu. Karia bekledi.
 
 Sarı ışık yeniden yandığında kolu indirdi.
 
-Gelgit-çeliği mahmuz gemiden koptu ve çekirdeğe saplandı. Arkasındaki üç fıçı yakıcı karışım aynı anda patladı. Isı Karia'yı güvertenin öbür yanına savurdu.
+Gelgit-çeliği mahmuz gemiden koptu ve çekirdeğe saplandı. Arkasındaki üç fıçı yakıcı karışım aynı anda patladı. Isı Karia’yı güvertenin öbür yanına savurdu.
 
 Kaşının üstü mahmuz koluna çarptı. Görüşü kırmızı bir perdeyle kapandı. Sağ kulağı patlama yüzünden duymuyordu. Yerdeyken geminin devin içine çekildiğini, güverte tahtalarının ayaklarının altında eğilmesinden anladı.
 
@@ -89,13 +89,13 @@ Karia ayıldığında güvertede yatıyordu. Sol kaşından kan sızıyor, ağz�
 
 Kaelan onu oturttu. “Ayakta.”
 
-Kayıp sayısı akşama doğru geldi: otuz bir ölü, iki gemi ağır hasarlı. Limana dolan cansız yosun aylarca işlenecek kadar çoktu. Halk rıhtımda Karia'nın adını bağırıyordu. Karia önce ölülerin listesini istedi.
+Kayıp sayısı akşama doğru geldi: otuz bir ölü, iki gemi ağır hasarlı. Limana dolan cansız yosun aylarca işlenecek kadar çoktu. Halk rıhtımda Karia’nın adını bağırıyordu. Karia önce ölülerin listesini istedi.
 
 Listede Edran da vardı. Karia aile paylarının cenaze ve temizlik hesabından önce ayrılmasını emretti. Kıyıya vuran her şey kazanç değildi.
 
 Saray habercisi onu orada buldu.
 
-Theodoric yatağında bekliyordu. Karia'nın yüzündeki kesiği görünce eliyle yakındaki tabureyi gösterdi.
+Theodoric yatağında bekliyordu. Karia’nın yüzündeki kesiği görünce eliyle yakındaki tabureyi gösterdi.
 
 “Bir devi öldürmüşsün.”
 

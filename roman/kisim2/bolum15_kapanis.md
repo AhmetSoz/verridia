@@ -1,15 +1,15 @@
 # Bölüm 15 — Dört Eşik
 *(KAPANIŞ: TOGAN / TEMUJİN / KARIA / ZALEENA)*
 
-Togan, Işık Seddi'nin parıltısını ilk gördüğü gece yürümeye devam etti.
+Togan, Işık Seddi’nin parıltısını ilk gördüğü gece yürümeye devam etti.
 
 Altın çizgi karanlıkta yakın görünüyor, yolun her yükselişinde yeniden uzaklaşıyordu. İki anıt arasındaki mesafeyi yarım fersah sandı; vardığında ayın yeri değişmişti. Burkut artık önden uçmuyor, omzunda gözlerini kapatıyordu.
 
 Togan üçüncü kez sendelediğinde durdu. Ayağının takıldığı taş yolun ortasında değildi. Kendisi fark etmeden kenara kaymıştı. Işığı gördüğü için yönünü bildiğini sanmış, zemine bakmayı bırakmıştı.
 
-Pelerinini bir anıtın dibine serdi. Kuru etin son büyük parçasını Burkut'a verdi, kendisi yolculardan aldığı kökleri çiğnedi. Uyursa beyaz odayı yeniden görebilirdi. Uyumazsa sabah ayağını kıracak kadar yorgundu.
+Pelerinini bir anıtın dibine serdi. Kuru etin son büyük parçasını Burkut’a verdi, kendisi yolculardan aldığı kökleri çiğnedi. Uyursa beyaz odayı yeniden görebilirdi. Uyumazsa sabah ayağını kıracak kadar yorgundu.
 
-Defterini açtı. Kaya hakkında duyduğu üç parçayı yazdı: kartal komutanı, Korgan, esir. Ölüp ölmediğini yazmadı. Altına Melira'nın adını ekledi ve defteri kapattı.
+Defterini açtı. Kaya hakkında duyduğu üç parçayı yazdı: kartal komutanı, Korgan, esir. Ölüp ölmediğini yazmadı. Altına Melira’nın adını ekledi ve defteri kapattı.
 
 Uyumadan önce taş anıtın dibine küçük Sungur işareti kazıdı. Altına kuzeyi gösteren bir çizgi ve tarihi ekledi. Dönüş yolunu kaybederse Burkut değil, bıraktığı kayıtlar ona rehberlik edecekti.
 
@@ -17,15 +17,15 @@ Rüya o gece gelmedi. Togan gün doğduğunda bunun iyi mi kötü mü olduğuna 
 
 ✦
 
-Büyük Ordugâh'ta sahte erzak kampının raporu Korgan'ın önünde okundu.
+Büyük Ordugâh’ta sahte erzak kampının raporu Korgan’ın önünde okundu.
 
-Temujin başarısızlığı yazmana bırakmadı. Sungur kartallarının kampı kuzey sırtından gördüğünü, hiçbir atlı yaklaşmadığını ve batı ağının Kaya'nın esaretiyle komutasız kalmadığını kendisi söyledi.
+Temujin başarısızlığı yazmana bırakmadı. Sungur kartallarının kampı kuzey sırtından gördüğünü, hiçbir atlı yaklaşmadığını ve batı ağının Kaya’nın esaretiyle komutasız kalmadığını kendisi söyledi.
 
 Korgan dinlerken kartal tüylü kırık oku iki parmağı arasında çevirdi.
 
 "Bana ağın başını kopardığını yazdın."
 
-"Kaya'yı aldım. Ağ devam etti. İlk mesajım eksikti."
+"Kaya’yı aldım. Ağ devam etti. İlk mesajım eksikti."
 
 "Yalan mıydı?"
 
@@ -33,7 +33,7 @@ Korgan dinlerken kartal tüylü kırık oku iki parmağı arasında çevirdi.
 
 Batu güldü. "Genç Kurt artık hatalarına uzun ad buluyor."
 
-Temujin ona dönmedi. Korgan'ın vereceği ceza, Batu'nun alayından daha somuttu.
+Temujin ona dönmedi. Korgan’ın vereceği ceza, Batu’nun alayından daha somuttu.
 
 "Beş asker öldü," dedi Korgan. "Yanlışının bedelini onların ailelerine sen anlatacaksın."
 
@@ -47,13 +47,13 @@ Ceza, Genç Kurtların kış erzağını azaltacaktı.
 
 Korgan okun tüyünü kopardı. "Kaya yaşıyor. Şimdilik. Bir sonraki Sungur saldırısında karar değişir."
 
-Temujin çadırdan çıktığında Sube ile Orkhon onu bekliyordu. Genç Kurt ateşine kadar konuşmadılar. Yirmi sekiz savaşçı da oradaydı. Korgan'ın ana ordu nöbeti teklif ettiği iki kişiden biri gelmemişti. Öteki, çemberin en arkasında oturuyordu.
+Temujin çadırdan çıktığında Sube ile Orkhon onu bekliyordu. Genç Kurt ateşine kadar konuşmadılar. Yirmi sekiz savaşçı da oradaydı. Korgan’ın ana ordu nöbeti teklif ettiği iki kişiden biri gelmemişti. Öteki, çemberin en arkasında oturuyordu.
 
 Temujin ayakta kaldı. Başarısız kampı ve beş ölümü aynı açıklıkla yeniden anlattı. Birlik payından kesilecek tazminatın miktarını söyledi. Sonra ilk mesajındaki "komutasız" kelimesini okudu.
 
 "Bunu bilgi gibi yazdım. Değildi."
 
-Arka sıradaki savaşçı, "Han'ın önünde de böyle mi söyledin?" diye sordu.
+Arka sıradaki savaşçı, "Han’ın önünde de böyle mi söyledin?" diye sordu.
 
 "Evet."
 
@@ -63,7 +63,7 @@ Temujin tazminatı tekrarladı.
 
 Bir başkası ayağa kalktı. "Beş Azgut için bizim kış etimiz gidiyor."
 
-"Benim planım için gidiyor. İsterseniz benim komutamdan ayrılma hakkınız var. Korgan'ın teklifi açık."
+"Benim planım için gidiyor. İsterseniz benim komutamdan ayrılma hakkınız var. Korgan’ın teklifi açık."
 
 Sube bu cümleyi beğenmedi, fakat müdahale etmedi. Çemberde uzun süre kimse konuşmadı. Ana ordu teklifini alan ikinci savaşçı ayağa kalktı.
 
@@ -75,13 +75,13 @@ Toplantıdan sonra Sube, "Onu bu kadar kolay bırakırsan başkaları da gider,"
 
 "Kış payı eksildiğinde kaçının kalacağını göreceğiz."
 
-Kaya'nın çadırındaki nöbetler iki kat kaldı. Temujin o gece onu sorgulamadı. Dış halkadan geçerken Fırtına'nın tek çığlığını duydu. Kartal ağı hâlâ konuşuyordu; Temujin ilk kez her sesi kendisi için yazılmış bir mesaj sanmadı.
+Kaya’nın çadırındaki nöbetler iki kat kaldı. Temujin o gece onu sorgulamadı. Dış halkadan geçerken Fırtına’nın tek çığlığını duydu. Kartal ağı hâlâ konuşuyordu; Temujin ilk kez her sesi kendisi için yazılmış bir mesaj sanmadı.
 
 ✦
 
-Metheris'te Kral Theodoric dördüncü gün yatağından kalktı. Başhekim iki adım izin vermişti. Kral üçüncü adımı attı ve Tuzlu Taht'a ulaşamadan yanındaki sandalyeye oturdu.
+Metheris’te Kral Theodoric dördüncü gün yatağından kalktı. Başhekim iki adım izin vermişti. Kral üçüncü adımı attı ve Tuzlu Taht’a ulaşamadan yanındaki sandalyeye oturdu.
 
-Karia onu kaldırmaya çalışmadı. Sandalyeyi çalışma masasının önüne çektirdi. Theodoric'in önüne ilk olarak Konsey tutanağını, ardından deniz savaşının kayıp listesini koydu.
+Karia onu kaldırmaya çalışmadı. Sandalyeyi çalışma masasının önüne çektirdi. Theodoric’in önüne ilk olarak Konsey tutanağını, ardından deniz savaşının kayıp listesini koydu.
 
 "Vorlag kaç oy aldı?" diye sordu Kral.
 
@@ -91,7 +91,7 @@ Karia onu kaldırmaya çalışmadı. Sandalyeyi çalışma masasının önüne �
 
 "Taht boş değildi. Siz kullanamıyordunuz. Aynı şey değil."
 
-Theodoric bu cevaba kızacak gücü aradı. Bulamayınca tutanağı okumaya devam etti. Valerius'un iki kez odaya emir getirdiğini görünce parmağını satırda tuttu.
+Theodoric bu cevaba kızacak gücü aradı. Bulamayınca tutanağı okumaya devam etti. Valerius’un iki kez odaya emir getirdiğini görünce parmağını satırda tuttu.
 
 "Onu içeri almadın."
 
@@ -101,7 +101,7 @@ Theodoric bu cevaba kızacak gücü aradı. Bulamayınca tutanağı okumaya deva
 
 "Nöbet defteri tutulurken girdim. Hekim odadaydı."
 
-Kral, Karia'nın kendine ayrı bir ayrıcalık tanımadığını anlayınca başını koltuğa yasladı. Ardından kayıp listesini açtı. On üç adı tek tek okudu. Üçüncü adda durup denizcinin hangi gemiden olduğunu sordu. Karia cevapladı. Dokuzuncu adı bilmiyordu; kâtibe dosyasını getirmesini emretti.
+Kral, Karia’nın kendine ayrı bir ayrıcalık tanımadığını anlayınca başını koltuğa yasladı. Ardından kayıp listesini açtı. On üç adı tek tek okudu. Üçüncü adda durup denizcinin hangi gemiden olduğunu sordu. Karia cevapladı. Dokuzuncu adı bilmiyordu; kâtibe dosyasını getirmesini emretti.
 
 "Roric?" diye sordu Theodoric.
 
@@ -135,13 +135,13 @@ Kral yüzüğünü çıkarmadı. Karia da özür dilemedi. Tuzlu Taht odanın ö
 
 ✦
 
-Yamalı Liman'da geçici düzenin ilk gecesi kavgasız geçti. İkinci gece güney iskelesindeki kaptanın payı gerçekten kesilince üçüncü gece bütün nöbetçiler çizelgeyi ezberlemişti.
+Yamalı Liman’da geçici düzenin ilk gecesi kavgasız geçti. İkinci gece güney iskelesindeki kaptanın payı gerçekten kesilince üçüncü gece bütün nöbetçiler çizelgeyi ezberlemişti.
 
-Roric'ten haber yoktu. Dağılan gemilerden ikisinin küçük koylara sığındığı doğrulandı. Birinin dümeni yoktu, ötekinin on bir yaralısı vardı. Kuzeyden gelen balıkçılar yanan bir kalyon gördüklerini söyledi; geminin battığını gören yoktu.
+Roric’ten haber yoktu. Dağılan gemilerden ikisinin küçük koylara sığındığı doğrulandı. Birinin dümeni yoktu, ötekinin on bir yaralısı vardı. Kuzeyden gelen balıkçılar yanan bir kalyon gördüklerini söyledi; geminin battığını gören yoktu.
 
-Zaleena, kayıp listelerini Çatlak Kurukafa'nın duvarına astırdı. Her adın yanında üç sütun bulunuyordu: görüldü, duyuldu, doğrulandı. Aileler yeni haber getirdikçe kâtip yalnız kaynağı ekliyor, sonucu değiştirmiyordu.
+Zaleena, kayıp listelerini Çatlak Kurukafa’nın duvarına astırdı. Her adın yanında üç sütun bulunuyordu: görüldü, duyuldu, doğrulandı. Aileler yeni haber getirdikçe kâtip yalnız kaynağı ekliyor, sonucu değiştirmiyordu.
 
-Kessel listeyi uzun süre okudu. Sonra toplantı masasındaki boş baş koltuğa değil, Zaleena'nın karşısındaki sıradan sandalyeye oturdu.
+Kessel listeyi uzun süre okudu. Sonra toplantı masasındaki boş baş koltuğa değil, Zaleena’nın karşısındaki sıradan sandalyeye oturdu.
 
 "Otuz gün dolunca aday olacak mısın?" diye sordu.
 
@@ -151,7 +151,7 @@ Zaleena, "Roric dönmeden adaylık açılmayacak," dedi.
 
 "Süreyi sormadım."
 
-Zaleena'nın verebileceği güvenli cevaplar vardı. Limanın çıkarını düşündüğünü, kararın Konsey'e ait olduğunu veya kişisel hırs taşımadığını söyleyebilirdi. Hiçbiri tam doğru değildi.
+Zaleena’nın verebileceği güvenli cevaplar vardı. Limanın çıkarını düşündüğünü, kararın Konsey’e ait olduğunu veya kişisel hırs taşımadığını söyleyebilirdi. Hiçbiri tam doğru değildi.
 
 "Evet," dedi. "Dönmezse aday olacağım."
 
@@ -159,7 +159,7 @@ Sorin bunu tutanağa yazdı.
 
 Kessel, "Bunu duymak istedim," demedi. "O zaman geçici düzende kendi lehine kullanabileceğin her yetkiyi işaretleyelim," dedi.
 
-Üçü metni yeniden açtı. Zaleena'nın hazırladığı nöbet çizelgesi artık iki kaptanın onayı olmadan yürürlüğe girmeyecekti.
+Üçü metni yeniden açtı. Zaleena’nın hazırladığı nöbet çizelgesi artık iki kaptanın onayı olmadan yürürlüğe girmeyecekti.
 
 "Kendi yolunu zorlaştırıyorsun," dedi Sorin.
 

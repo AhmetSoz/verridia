@@ -133,15 +133,11 @@ Sorin birkaç adım sonra yeniden konuştu. “Dul payını neden sordun?”
 
 Zaleena’nın cevabı gecikti. *Deniz Hayaleti*’nde ölenin payı kalan mürettebata bölünürdü. Yıllardır adil sandığı düzen buydu; en azından kaptan hepsini almıyordu. Fakat kıyıda bekleyen bir çocuğa bu ayrımın faydası yoktu.
 
-“Yarın kayıt çıkaracağız,” dedi. “Her tayfa, payının onda birini isterse kıyı sandığına bırakacak. Ben her bırakılan dilime bir dilim ekleyeceğim. Ölenin ailesine oradan ödeme yapılacak.”
+“Yarın kayıt çıkaracağız,” dedi. “Kim kıyıda kimi bırakmış, önce onu bileceğiz. Sonra payı Konsey’e koyarım.”
 
-“İsterse mi?”
+Sorin başını salladı. “Bir bayraktan önce dul hesabı.”
 
-“Zorla alınan pay vergi olur. Önce sandığın çalınmadığını görmeleri gerek.”
-
-Sorin başını salladı. “Bir bayraktan önce sandık.”
-
-“Bayrağı bez taşır. Şehri hesap.”
+“Bir bayraktan önce kimlerin beklediğini bilmek.”
 
 *Deniz Hayaleti*’ne vardıklarında Zaleena başını kaldırıp çıplak ana direği ölçtü. Direkte o gece hiçbir sancak yoktu.
 

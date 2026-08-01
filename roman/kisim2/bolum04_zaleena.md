@@ -19,7 +19,7 @@ Zaleena arma sandığını kapattı. “İnsan ayıkken sakladığını bazen i�
 
 Kessel’in ayrılışı bir oy demekti. Daha önemlisi, başka kaptanlara çekilmenin mümkün olduğunu gösteriyordu.
 
-Zaleena boş rıhtıma indi. Kessel'in halatları düzgünce sarılmış, kıyıda kalan su fıçıları mühürlenmişti. Aceleyle kaçan bir kaptan böyle ayrılmazdı. İskele kazığına sıkıştırılmış küçük hesap kâğıdında tayfanın üç günlük ücreti ödenmiş görünüyordu.
+Zaleena boş rıhtıma indi. Kessel’in halatları düzgünce sarılmış, kıyıda kalan su fıçıları mühürlenmişti. Aceleyle kaçan bir kaptan böyle ayrılmazdı. İskele kazığına sıkıştırılmış küçük hesap kâğıdında tayfanın üç günlük ücreti ödenmiş görünüyordu.
 
 "Üç gün," dedi Sorin.
 
@@ -27,7 +27,7 @@ Zaleena boş rıhtıma indi. Kessel'in halatları düzgünce sarılmış, kıyı
 
 "Kıyıda kalanlara üç günlük ücret bırakmış. Ya o kadar sürede dönecek ya da kararını o kadar sürede verecek."
 
-Zaleena kâğıdı katladı. Kessel, Roric'ten korkup limanı terk etmemişti. Gemisini çekerek bir sınır çizmişti. Bunun adı isyan değildi; Roric'in buyruğunun artık kendiliğinden işlemediğini gösteren pahalı bir itirazdı.
+Zaleena kâğıdı katladı. Kessel, Roric’ten korkup limanı terk etmemişti. Gemisini çekerek bir sınır çizmişti. Bunun adı isyan değildi; Roric’in buyruğunun artık kendiliğinden işlemediğini gösteren pahalı bir itirazdı.
 
 "Onu firari yazma," dedi Zaleena. "Konsey görevinden çekilmiş yaz. Geri gelirse niye gittiğini kendisi anlatır."
 
@@ -81,7 +81,7 @@ Yaralı kaptan, şifahaneye götürülmeden önce kolunu tuttu. "İki adamı sud
 
 "Anneleri ağ tamir eder. Doğu iskelesinde."
 
-Zaleena, Sorin'e iki kayıp payı açmasını söyledi. Roric'in eski kuralına göre ceset bulunmadan ölüm payı ödenmezdi. Kessel'in kayboluşuyla aynı sabah bu kuralı uygularsa iki ailenin de haftalarca beklemesi gerekecekti.
+Zaleena, Sorin’e iki kayıp payı açmasını söyledi. Roric’in eski kuralına göre ceset bulunmadan ölüm payı ödenmezdi. Kessel’in kayboluşuyla aynı sabah bu kuralı uygularsa iki ailenin de haftalarca beklemesi gerekecekti.
 
 "Konsey itiraz eder," dedi Sorin.
 
@@ -127,10 +127,10 @@ Gemiye çıkınca kıyı haritasını açtı. Saldırı noktasını işaretledi 
 
 Sorin yağlı bezdeki paslı pulu masaya bıraktı. "Bunun ne olduğunu kim anlayacak?"
 
-"Finn tekne tahtasını bilir. Şifacılar canlı doku olup olmadığını söyler. İkisi de bilmiyorsa Metheris'e yollarız."
+"Finn tekne tahtasını bilir. Şifacılar canlı doku olup olmadığını söyler. İkisi de bilmiyorsa Metheris’e yollarız."
 
-"Karia'ya mı?"
+"Karia’ya mı?"
 
-"Kuzey Feneri'ne. Önce kayıtlar konuşsun. Kraliçeler sonra."
+"Kuzey Feneri’ne. Önce kayıtlar konuşsun. Kraliçeler sonra."
 
-Zaleena haritanın kenarına Eren ile Pol'ün adlarını yazdı. Böylece işaret yalnız bir saldırı noktası olarak kalmadı. Roric'in sekiz gemisi yelken açtığında hangi iki adamın geride bıraktığı borçla çıktıkları da görülecekti.
+Zaleena haritanın kenarına Eren ile Pol’ün adlarını yazdı. Böylece işaret yalnız bir saldırı noktası olarak kalmadı. Roric’in sekiz gemisi yelken açtığında hangi iki adamın geride bıraktığı borçla çıktıkları da görülecekti.

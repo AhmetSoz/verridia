@@ -1,13 +1,13 @@
 # Bölüm 3 — Hasadın Başlangıcı
 *(KARIA: Kızıl Hafta, 1. Gün)*
 
-İlk yosun damarları gün ağarırken Hançer Körfezi'ne girdi.
+İlk yosun damarları gün ağarırken Hançer Körfezi’ne girdi.
 
 Karia amiral gemisinin başında duruyor, ağ teknelerinin birbirine olan mesafesini sayıyordu. Su önce çekilmişti. Fiyordun çıplak kalan taşlarında cılız kırmızı lifler parlıyordu. Toplayıcılar bunlara koşmak istedi; Karia ilk dalga gelmeden kimseyi aşağı indirmedi.
 
 Geçen hasatta ilk kabarmayı yanlış hesaplayan iki köy otuz yedi toplayıcısını kaybetmişti. Bu yıl tüccarlar kaybedilecek bir saatin fiyatını söylüyor, ölülerin fiyatını söylemiyordu.
 
-Toplayıcılar üçerli gruplar hâlinde inecek, biri dönmeden yenisi gönderilmeyecekti. Bir ambar görevlisi bunun ilk gün ürününü azaltacağını söyledi.
+Toplayıcılar üçerli gruplar hâlinde inecek, biri dönmeden yenisi gönderilmeyecekti. Bir ambar görevlisi bunun ilk gün toplanacak ürünü azaltacağını söyledi.
 
 “Kaybı benim emrime yazın. Tayfanın payından çıkarmayın.”
 
@@ -23,7 +23,7 @@ Yanındaki subay işaret bayrağını kaldırdı. İki tekne birbirine yaklaşt�
 
 Karia filodan ayrılmadan önce sayıma baktı. Gemilerden çıkanla depoya ulaşan birbirini tutmuyordu.
 
-“Faelan'a ambar kapılarını denetletin,” dedi. “Hırsızı şimdi bulamazsak Zirve'de bir filo kaybederiz.”
+“Faelan’a ambar kapılarını denetletin,” dedi. “Hırsızı şimdi bulamazsak Zirve’de bir filo kaybederiz.”
 
 Karia kıyıya dönmeden önce ilk kazayı gördü. Dördüncü sıradaki bir ağ, dibindeki eski gemi omurgasına takıldı. Teknenin kaptanı ürünü bırakmamak için halatı kesmedi. İkinci kabarma bordayı yatırınca tayfalardan ikisi suya düştü.
 
@@ -39,15 +39,15 @@ Ceza defterine kaptanın üç gün komutadan alınmasını yazdı. Aynı sayfaya
 
 ---
 
-Öğle vakti saraydan gelen haberci, Kral'ın ayağa kalktığını ve onu görmek istediğini söyledi.
+Öğle vakti saraydan gelen haberci, Kral’ın ayağa kalktığını ve onu görmek istediğini söyledi.
 
-Theodoric Tuzlu Taht'a kadar yürümüş, fakat oturunca yeniden kalkamamıştı. Karia içeri girdiğinde hekimi şişeleri topluyordu.
+Theodoric Tuzlu Taht’a kadar yürümüş, fakat oturunca yeniden kalkamamıştı. Karia içeri girdiğinde hekimi şişeleri topluyordu.
 
-Tahtın önünde yedi boş sandalye vardı. Lordlar hasat boyunca saraya gelmek zorundaydı; o sabah yalnız Calder'in mührü masaya ulaşmıştı. Drennar kuzey filosundaydı, Hallis ambarları sayıyordu, Maros mallarına el konulduğunu öğrenince hastalanmıştı. Vorlag'ın sandalyesi bilinçli olarak boştu.
+Tahtın önünde yedi boş sandalye vardı. Lordlar hasat boyunca saraya gelmek zorundaydı; o sabah yalnız Calder’in mührü masaya ulaşmıştı. Drennar kuzey filosundaydı, Hallis ambarları sayıyordu, Maros mallarına el konulduğunu öğrenince hastalanmıştı. Vorlag’ın sandalyesi bilinçli olarak boştu.
 
 Theodoric boşluklara baktı. “Bir krallığın gerçekte nasıl çalıştığını görmek istiyorsan törene değil, herkesin işi çıktığı sabaha bak.”
 
-“Maros'un işi çıkmadı. Hırsızlığı çıktı.”
+“Maros’un işi çıkmadı. Hırsızlığı çıktı.”
 
 “O zaman onu hasta yatağında da vergilendir.”
 
@@ -65,7 +65,7 @@ Karia bekledi.
 
 “Kuzeye gitmek istediğinde de cesaret sandım.” Kral yüzüğünü çıkardı. “Oğlumu bir efsaneye gönderdim. Seni de aynı hataya gönderme diye vâris yaptım.”
 
-Karia'nın avucu kendiliğinden kapandı. Perren'in aradığı Aldric ile karşısındaki yaşlı adamın hatırasında yaşayan çocuk aynı kişiydi. Kuzeyde kalan izleri babasına anlatmak istedi. Elinde dönüşü kanıtlayan hiçbir şey yoktu. Umudu, ölüm döşeğindeki bir adama verilecek teselliye çevirmek kolaydı; geri alamayacağı bir yalan olurdu.
+Karia’nın avucu kendiliğinden kapandı. Perren’in aradığı Aldric ile karşısındaki yaşlı adamın hatırasında yaşayan çocuk aynı kişiydi. Kuzeyde kalan izleri babasına anlatmak istedi. Elinde dönüşü kanıtlayan hiçbir şey yoktu. Umudu, ölüm döşeğindeki bir adama verilecek teselliye çevirmek kolaydı; geri alamayacağı bir yalan olurdu.
 
 “Kuzey kayıtlarını aratıyorum,” dedi. “Bir sonuç bulursam size yalnız doğrulayabildiğimi söyleyeceğim.”
 
@@ -75,7 +75,7 @@ Theodoric başını çok az eğdi. “Bu, duymak istediğim cevap değil.”
 
 “Bu yüzden doğru olabilir.”
 
-Yüzüğü Karia'nın avucuna bıraktı. İç yüzünde Aldric'in çocukken açtığı küçük bir çizik vardı.
+Yüzüğü Karia’nın avucuna bıraktı. İç yüzünde Aldric’in çocukken açtığı küçük bir çizik vardı.
 
 “Bunu alamam.”
 
@@ -95,13 +95,13 @@ Theodoric güçlükle gülümsedi. “Daha ölmeden sarayı denetlemeye başlad�
 
 ---
 
-Koridorda Vorlag bekliyordu. Bakışı Karia'nın kapalı avucuna indi.
+Koridorda Vorlag bekliyordu. Bakışı Karia’nın kapalı avucuna indi.
 
 “Kral aile yadigârlarını dağıtmaya başlamış,” dedi.
 
 “Sağlığı hakkında bu kadar meraklıysanız kendisine sorun.”
 
-“Valerius'u sürdünüz. Şimdi beni de mi süreceksiniz?”
+“Valerius’u sürdünüz. Şimdi beni de mi süreceksiniz?”
 
 “Bir suç işlerseniz kanıtını bulurum.”
 
@@ -113,7 +113,7 @@ Vorlag başını eğip yol verdi.
 
 Yol vermesi yenildiği anlamına gelmiyordu. Karia iki adım geçince bastonun taş zeminde bir kez vurduğunu duydu. Koridorun ucundaki genç kâtip hemen başka bir kapıdan çıktı. Vorlag da haber taşıyordu; yalnız kime gittiği belli değildi.
 
-Karia, Faelan'a kâtibi izletmek yerine o gün kullandığı bütün haber kapılarını kayda almasını emretti. Bir adamı tutuklamak izi keserdi. İzin nereye vardığını görmek daha değerliydi.
+Karia, Faelan’a kâtibi izletmek yerine o gün kullandığı bütün haber kapılarını kayda almasını emretti. Bir adamı tutuklamak izi keserdi. İzin nereye vardığını görmek daha değerliydi.
 
 Karia gün batmadan gemisine döndü. Maros hanesine ait iki mavnanın tartıya girmeden yük aldığı bulunmuştu. Malları mühürletti; emri veren kaptan ile ambar kâtibini ayırdı, işçilerin ücretini güvenceye aldı. Hesabın küçük bir kısmı hâlâ açıktı.
 

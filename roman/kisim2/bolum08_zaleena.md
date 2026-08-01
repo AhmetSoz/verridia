@@ -3,13 +3,13 @@
 
 Roric’in filosu sekiz gemiyle ayrıldı.
 
-Üç gün önce on üç gemi hazırlanıyordu. Kessel dış koydan döndüğünde yelkenlerini toplamadan Roric'in amiral gemisinin yanına demirledi. İki kaptan güverteden güverteye, bütün rıhtımın duyacağı kadar yüksek konuştu.
+Üç gün önce on üç gemi hazırlanıyordu. Kessel dış koydan döndüğünde yelkenlerini toplamadan Roric’in amiral gemisinin yanına demirledi. İki kaptan güverteden güverteye, bütün rıhtımın duyacağı kadar yüksek konuştu.
 
 "Kaçtın," dedi Roric.
 
 "Düşündüm," dedi Kessel. "İkisini karıştırdığın için sekiz gemiyle gidiyorsun."
 
-Roric onu düelloya çağırmadı. Kessel'in tek gözünün önünde bunu yaparsa filonun bir gemi daha kaybedeceğini biliyordu. Bunun yerine sefer payını sildiğini ilan etti.
+Roric onu düelloya çağırmadı. Kessel’in tek gözünün önünde bunu yaparsa filonun bir gemi daha kaybedeceğini biliyordu. Bunun yerine sefer payını sildiğini ilan etti.
 
 Kessel kendi tayfasına döndü. "Duymayan kaldı mı?"
 
@@ -75,7 +75,7 @@ Kessel başını salladı. “Doğru cevap.”
 
 “İkisi bazen aynı şeydir.”
 
-Kessel cebinden katlanmış bir kâğıt çıkardı. Dış koyda geçirdiği üç günde Roric'in olası dönüş rotalarını ve Paslı Gelgit saldırılarını üst üste işaretlemişti. İki çizgi Jilet Resifleri'nin kuzeyinde kesişiyordu.
+Kessel cebinden katlanmış bir kâğıt çıkardı. Dış koyda geçirdiği üç günde Roric’in olası dönüş rotalarını ve Paslı Gelgit saldırılarını üst üste işaretlemişti. İki çizgi Jilet Resifleri’nin kuzeyinde kesişiyordu.
 
 "Yaratıklar aynı yerde kalırsa dönüş filosu onların arasından geçecek," dedi.
 
@@ -105,7 +105,7 @@ Finn reçineli fırçayı kovaya bıraktı. "Ben hata yapmadım."
 
 "O zaman üçüncü tayfa dinlenir."
 
-Tekne ilk denemede sancak tarafına çekti, ikincisinde sert dönüşte bir küreği sıkıştırdı. Zaleena onu devriyeye yazmadı. Finn'e iki gün verdi.
+Tekne ilk denemede sancak tarafına çekti, ikincisinde sert dönüşte bir küreği sıkıştırdı. Zaleena onu devriyeye yazmadı. Finn’e iki gün verdi.
 
 "Roric sekiz gemi götürdü," dedi Finn. "Bir küçük teknenin eksikliği mi önemli?"
 

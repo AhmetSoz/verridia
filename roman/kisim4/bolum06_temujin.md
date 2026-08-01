@@ -7,13 +7,13 @@ Gün doğmadan iki saldırı denenmiş; taşlar kalkanları, gömülü kazıklar
 
 Temujin üçüncü hücumu durdurdu. Ok menzilinin dışına üç sedye hattı kurdurdu; Azgut ve Sungur yaralıları ayrı taşınmadı. Bir Sungur savaşçısı kendisine dokunan Azgut şifacının kolunu ısırdı. Şifacı yine de kanayan damarı bağladı.
 
-“Han hücum emri verdi,” dedi Batu'nun habercisi.
+“Han hücum emri verdi,” dedi Batu’nun habercisi.
 
 “Hücum edecek yol kalmadı. Cesetleri kaldırmadan kimse giremez.”
 
-Haberci bunu itaatsizlik diye yazmak istedi. Temujin ona kayıp tahtasını gösterdi ve cümleyi kendisi kurdu: `Geçit fiziken tıkandığı için üçüncü hücum ertelendi.` Mührünü altına bastı.
+Haberci bunu itaatsizlik diye yazmak istedi. Temujin ona kayıp tahtasını gösterdi ve cümleyi kendisi kurdu: *Geçit fiziken tıkandığı için üçüncü hücum ertelendi.* Mührünü altına bastı.
 
-Korgan'ın savaş çadırındaki kayıp tahtasında ölü, yaralı ve kayıplar aynı çizikle gösteriliyordu. Temujin üç sayının ayrılmasını istediğinde kâtip bunun savaş bitince yapılacağını söyledi.
+Korgan’ın savaş çadırındaki kayıp tahtasında ölü, yaralı ve kayıplar aynı çizikle gösteriliyordu. Temujin üç sayının ayrılmasını istediğinde kâtip bunun savaş bitince yapılacağını söyledi.
 
 “Savaş bitince ölüyle yaralıyı ayırmanın askere faydası olmaz,” dedi Temujin.
 
@@ -27,13 +27,13 @@ Batu cevap verdi. “İhtiyarlar, çocuklar ve yaralılar. Savaşçıların aile
 
 Çadır sessizleşti.
 
-Batu'nun eli masadaki siyah kışlak taşına gitti, sonra durdu. Emir kötü olduğu için değil, kendi adamlarına uygulatmak zorunda kalacağı için çekiniyordu. Temujin bu farkı gördü. Korgan da görmüş olmalıydı.
+Batu’nun eli masadaki siyah kışlak taşına gitti, sonra durdu. Emir kötü olduğu için değil, kendi adamlarına uygulatmak zorunda kalacağı için çekiniyordu. Temujin bu farkı gördü. Korgan da görmüş olmalıydı.
 
-Orkhon başını kaldırdı. “Han'ım?”
+Orkhon başını kaldırdı. “Han’ım?”
 
 “Sungur, kendi çocuğunun arkasından ok atamaz. Kapıyı onlar açar.”
 
-Temujin haritadaki kışlak taşına baktı. İlk gün bıraktığı yoldan geçenlerin hepsi vadiye ulaşamamıştı. Korgan'ın emri uygulanırsa Anya da alınabilirdi.
+Temujin haritadaki kışlak taşına baktı. İlk gün bıraktığı yoldan geçenlerin hepsi vadiye ulaşamamıştı. Korgan’ın emri uygulanırsa Anya da alınabilirdi.
 
 “Bu vadiyi açar,” dedi Temujin. “Sonraki bütün vadileri kapatır.”
 
@@ -43,9 +43,9 @@ Korgan ona döndü. “Açık konuş.”
 
 “Sungurlar bizim düşmanımız,” dedi Batu.
 
-“Bugün.” Temujin kayıp tahtasındaki üç sütunu gösterdi. “Korgan'ın kurmak istediği bozkırda yarın birlikte nöbet tutacaklar. Çocuklarını kalkan yaparsak ortak sancak yalnız korkudan taşınır.”
+“Bugün.” Temujin kayıp tahtasındaki üç sütunu gösterdi. “Korgan’ın kurmak istediği bozkırda yarın birlikte nöbet tutacaklar. Çocuklarını kalkan yaparsak ortak sancak yalnız korkudan taşınır.”
 
-Korgan'ın bakışı keskinleşti. “Benim ne kurmak istediğimi benden iyi mi biliyorsun?”
+Korgan’ın bakışı keskinleşti. “Benim ne kurmak istediğimi benden iyi mi biliyorsun?”
 
 “Hayır. Fakat insanların neyi unutmayacağını biliyorum.”
 
@@ -53,7 +53,7 @@ Korgan'ın bakışı keskinleşti. “Benim ne kurmak istediğimi benden iyi mi 
 
 Temujin vadinin kuzeyindeki kesik çizgiyi gösterdi. “Dağın arkasında keçi yolu var. Sube elli kişiyle iki günde aşabilir. Sungurlar kuşatıldıklarını görünce teslimiyet konuşulur.”
 
-Temujin keçi yolunu Kaya'nın eski bir türküsünden bulmuştu. Sözlerde adı geçen üç ardıç, kuzey yamacında gerçekten aynı sırada duruyordu. Kartal gözcüleri öğle vakti kayalıkların arasında tek kişilik bir iz görmüştü. Yolun sonu kesin değildi; Sube'nin adamları geçemezse iki gün sonra ne geri dönebilecek ne de savaşa katılabilecekti.
+Temujin keçi yolunu Kaya’nın eski bir türküsünden bulmuştu. Sözlerde adı geçen üç ardıç, kuzey yamacında gerçekten aynı sırada duruyordu. Kartal gözcüleri öğle vakti kayalıkların arasında tek kişilik bir iz görmüştü. Yolun sonu kesin değildi; Sube’nin adamları geçemezse iki gün sonra ne geri dönebilecek ne de savaşa katılabilecekti.
 
 “Elli adamı kaybedebilirsin,” dedi Korgan.
 
@@ -63,19 +63,19 @@ Temujin keçi yolunu Kaya'nın eski bir türküsünden bulmuştu. Sözlerde adı
 
 “Saldırırız. Fakat sivilleri kullanmadan.”
 
-Korgan'ın eli masaya indi. Taşlar sıçradı. “Bana ahlak öğretme, çocuk.”
+Korgan’ın eli masaya indi. Taşlar sıçradı. “Bana ahlak öğretme, çocuk.”
 
 “Size zaferin maliyetini söylüyorum.”
 
-Batu elini kılıcına götürdü. Orkhon kıpırdamadı. Korgan birkaç nefes boyunca Temujin'e baktı.
+Batu elini kılıcına götürdü. Orkhon kıpırdamadı. Korgan birkaç nefes boyunca Temujin’e baktı.
 
 “Üçüncü gün gün batımına kadar,” dedi. “Sonuç alamazsan kışlağı sen boşaltacaksın. İnsanları da sen öne süreceksin.”
 
-Temujin süreyi zihninde çevirdi. Kızıl Hafta'nın altıncı gününe kadar Sube'nin işaret vermesi gerekiyordu. Yol, beklediklerinden yarım gün uzunsa bütün plan çökerdi.
+Temujin süreyi zihninde çevirdi. Kızıl Hafta’nın altıncı gününe kadar Sube’nin işaret vermesi gerekiyordu. Yol, beklediklerinden yarım gün uzunsa bütün plan çökerdi.
 
 “Emrin ikinci kısmını kabul etmiyorum,” dedi.
 
-Batu'nun kılıcı kınında bir parmak yükseldi.
+Batu’nun kılıcı kınında bir parmak yükseldi.
 
 Temujin devam etti. “Sonuç alamazsam komutayı bırakırım. Kışlağı ben de öne sürmem.”
 
@@ -83,7 +83,7 @@ Korgan masanın çevresinden yürüyüp karşısına geldi. Aralarında bir kol 
 
 “O zaman bu sizin kararınız olur. Benim değil.”
 
-Çadırın dışındaki rüzgâr bezleri şişirdi. Korgan, Temujin'i orada öldürebilirdi. Bunun yerine ilk şartını tekrarladı.
+Çadırın dışındaki rüzgâr bezleri şişirdi. Korgan, Temujin’i orada öldürebilirdi. Bunun yerine ilk şartını tekrarladı.
 
 “Üçüncü gün gün batımı. Sonuç istiyorum.”
 
@@ -95,21 +95,21 @@ Temujin ikinci emri tekrar etmedi. Çadırdakilerin her biri bu eksikliği duydu
 
 ---
 
-Çadırdan çıktıklarında Orkhon, Temujin'in kolunu tuttu.
+Çadırdan çıktıklarında Orkhon, Temujin’in kolunu tuttu.
 
-“Az önce Korgan'ın emrini reddettin.”
+“Az önce Korgan’ın emrini reddettin.”
 
 “Ona daha iyi bir yol verdim.”
 
 “Kendine böyle anlatabilirsin. O anlatmayacak.”
 
-Temujin, Sube'ye keçi yolunu tarif etti. Elli kişi hafif zırhla ilerleyecek; yol açılırsa boru, sıkışırlarsa duman kullanacaktı.
+Temujin, Sube’ye keçi yolunu tarif etti. Elli kişi hafif zırhla ilerleyecek; yol açılırsa boru, sıkışırlarsa duman kullanacaktı.
 
 “Dumanı görürsek yardım gönderemeyiz,” dedi Orkhon.
 
 “Biliyorum.”
 
-Sube de biliyordu. Seçilenlerin adlarını Temujin'e verdi. “Dönemezsek aile payları.”
+Sube de biliyordu. Seçilenlerin adlarını Temujin’e verdi. “Dönemezsek aile payları.”
 
 Temujin listeyi iç cebine koydu. Bir planın haritada güzel görünmesi, içindeki elli hayatı hafifletmiyordu.
 
@@ -149,7 +149,7 @@ Kaya deri parçasını önüne çekti. “O zaman doğru kelimeleri seç.”
 
 İlk cümleyi birlikte kurdular.
 
-Kaya, Börü'ye teslim olmasını yazmadı. `Vadi kapandığında halkı yaşatacak bir söz dinle` diye başladı. Keçi yolunu, Anya'nın yaşadığını ve kuzey yolundan geçen sivillere dokunulmadığını ekledi. Sonuna yalnız Börü'nün tanıyacağı bir kartal işareti çizdi.
+Kaya, Börü’ye teslim olmasını yazmadı. *Vadi kapandığında halkı yaşatacak bir söz dinle* diye başladı. Keçi yolunu, Anya’nın yaşadığını ve kuzey yolundan geçen sivillere dokunulmadığını ekledi. Sonuna yalnız Börü’nün tanıyacağı bir kartal işareti çizdi.
 
 “Mektubu kimin taşıyacağını seç,” dedi Temujin.
 
@@ -161,8 +161,8 @@ Savaşçı deriyi gömleğinin içine soktu. “Börü hayır derse?”
 
 “Geri dönmek zorunda değilsin,” dedi Temujin.
 
-Adam Kaya'ya baktı. “Döneceğim.”
+Adam Kaya’ya baktı. “Döneceğim.”
 
-Gece çökerken Sube'nin elli kişisi kuzey yamacında kayboldu. Mektup taşıyan Sungur ise beyaz bez bağlanmış mızrakla vadiye yürüdü. Temujin iki küçük grubun karanlıkta birbirinden uzaklaşmasını izledi. Biri dağın arkasına ulaşmalı, diğeri Börü'nün önüne sağ çıkmalıydı.
+Gece çökerken Sube’nin elli kişisi kuzey yamacında kayboldu. Mektup taşıyan Sungur ise beyaz bez bağlanmış mızrakla vadiye yürüdü. Temujin iki küçük grubun karanlıkta birbirinden uzaklaşmasını izledi. Biri dağın arkasına ulaşmalı, diğeri Börü’nün önüne sağ çıkmalıydı.
 
-Korgan'ın emrine karşı verebildiği tek cevap, ikisinin de yolunu tamamlamasına bağlıydı.
+Korgan’ın emrine karşı verebildiği tek cevap, ikisinin de yolunu tamamlamasına bağlıydı.

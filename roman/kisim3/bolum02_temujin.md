@@ -3,7 +3,7 @@
 
 Kaya kaçmak için geceyi değil nöbet değişimini seçti. Temujin bunu sonradan takdir edecekti.
 
-Öğle güneşi nöbetçilerin gözünü alıyordu. Yemek kazanının başında iki birlik aynı et payı için tartışmaya başlamış, batı kazıklarındaki adamlar seslere dönmüştü. Kaya, günlerdir pansuman tokasından aşındırdığı ince metalle bağını kesti. Fırtına'nın ayak ipini çözdü ve çadırın arkasından koştu.
+Öğle güneşi nöbetçilerin gözünü alıyordu. Yemek kazanının başında iki birlik aynı et payı için tartışmaya başlamış, batı kazıklarındaki adamlar seslere dönmüştü. Kaya, günlerdir pansuman tokasından aşındırdığı ince metalle bağını kesti. Fırtına’nın ayak ipini çözdü ve çadırın arkasından koştu.
 
 İlk nöbetçi onu gördüğünde elindeki tası düşürdü. Bağırmak yerine kılıcını çekti. Fırtına dalıp başlığını alınca adam sendeledi; kartalın pençesi şakağını yardı. İkinci dalışta atlar ürktü, kazık iplerinden biri koptu.
 
@@ -11,7 +11,7 @@ Temujin çadırından çıktığı anda boş kazığı, havadaki kartalı ve kuz
 
 "Ok atmayın," dedi. "Ağları alın."
 
-Batu'nun iki adamı yaylarını çoktan germişti. Biri oku indirdi, diğeri tereddüt etti. Temujin önüne geçmek zorunda kaldı.
+Batu’nun iki adamı yaylarını çoktan germişti. Biri oku indirdi, diğeri tereddüt etti. Temujin önüne geçmek zorunda kaldı.
 
 "Canlı emri değişmedi."
 
@@ -37,7 +37,7 @@ Kaya ağın altında soluklanıyordu. Dudak kenarı taşa çarpmış, kanıyordu
 
 Bu konuda tartışamazdı.
 
-Temujin ağın çözülmesini emretti. Kaya'yı kaldırırken iki asker kollarını gereğinden sert büktü. Temujin birini geri çekti.
+Temujin ağın çözülmesini emretti. Kaya’yı kaldırırken iki asker kollarını gereğinden sert büktü. Temujin birini geri çekti.
 
 "Kaçtı," dedi asker. "Bir adamımızı yaraladı."
 
@@ -49,7 +49,7 @@ Kaya bunu duydu, teşekkür etmedi.
 
 Yeni çadırda iki nöbetçi içeride, ikisi dışarıda kaldı. Bağları Temujin kendi denetledi; bileklerini kesmeyecek kadar gevşek, bir tokayla uğraşamayacağı kadar kısaydı. Pansuman malzemeleri kullanıldıktan sonra sayılacaktı.
 
-Fırtına'yı başka çadıra kapatmak isteyenler oldu. Temujin kartalı, Kaya'nın görebileceği ama ulaşamayacağı açık bir tüneğe koydurdu. Bağı kanadı açmasına yetecek kadar uzundu.
+Fırtına’yı başka çadıra kapatmak isteyenler oldu. Temujin kartalı, Kaya’nın görebileceği ama ulaşamayacağı açık bir tüneğe koydurdu. Bağı kanadı açmasına yetecek kadar uzundu.
 
 "Üç gündür o metali saklıyordun," dedi. "Dördüncü geceyi bekleseydin kuzey nöbetçisi değişecekti."
 
@@ -59,13 +59,13 @@ Kaya dudak kenarındaki kanı sildi. "Bir dahaki sefere beklerim."
 
 "O zaman başka şey bulurum."
 
-Temujin önüne Yeva'nın verdiği oyma kemiği bıraktı. Üç çizgiyi parmağıyla yokladı. "Biri senin klanın. Biri benim. Üçüncüsü kuzeye gidiyor. Kaçarken de kuzeyi seçtin. Orada ne var?"
+Temujin önüne Yeva’nın verdiği oyma kemiği bıraktı. Üç çizgiyi parmağıyla yokladı. "Biri senin klanın. Biri benim. Üçüncüsü kuzeye gidiyor. Kaçarken de kuzeyi seçtin. Orada ne var?"
 
 "Dağlar."
 
 "Dağlara değil, birine koşuyordun."
 
-Kaya sustu. Temujin boşluğu doldurmadı. İnsanlar sessizliği çoğu kez sorudan daha zor taşırdı. Dışarıda Fırtına tüneği gagalıyordu. Kaya'nın bakışı her üçüncü seste kapıya kaydı.
+Kaya sustu. Temujin boşluğu doldurmadı. İnsanlar sessizliği çoğu kez sorudan daha zor taşırdı. Dışarıda Fırtına tüneği gagalıyordu. Kaya’nın bakışı her üçüncü seste kapıya kaydı.
 
 "Togan," dedi sonunda. "Süt kardeşim. Bir yıl önce klanı bırakıp kuzeye gitti."
 
@@ -73,7 +73,7 @@ Temujin tepki vermedi. "Neden?"
 
 Kaya bileklerindeki bağları çekti. "Adını aldın. Geri kalanını alamayacaksın."
 
-Temujin kemiğin üçüncü çizgisine baktı. Bir ad, bir yön ve Kaya'nın onu saklamak için yeniden kanatabileceği bilekleri vardı. Daha fazlasını sormadı.
+Temujin kemiğin üçüncü çizgisine baktı. Bir ad, bir yön ve Kaya’nın onu saklamak için yeniden kanatabileceği bilekleri vardı. Daha fazlasını sormadı.
 
 "Korgan bu adı öğrenirse ne yapar?"
 
@@ -83,7 +83,7 @@ Temujin kemiği geri aldı. "Korgan bu adı duymayacak."
 
 "Neden?"
 
-"Çünkü ne işe yaradığını bilmiyorum. Bilmediğim şeyi Han'a verip silaha çevirmeyeceğim."
+"Çünkü ne işe yaradığını bilmiyorum. Bilmediğim şeyi Han’a verip silaha çevirmeyeceğim."
 
 Kaya ona dikkatle baktı. "Bunu iyilik diye anlatma."
 
@@ -101,14 +101,14 @@ Temujin dışarı çıktığında Sube, yarılan şakağını diktiriyordu. Kart
 
 "Öldürseydik kaçış bitmişti," dedi Sube.
 
-"Kaya'yı mı, Fırtına'yı mı?"
+"Kaya’yı mı, Fırtına’yı mı?"
 
 "İkisini de söylemedim."
 
-Temujin nöbet çizelgesini açtı. Yemek payı kavgasında yerini bırakan dört asker ayrı ayrı dinlenecek, fakat toplu ceza verilmeyecekti. İç nöbetçiler her değişimde bağları ve pansuman tokalarını sayacaktı. Fırtına'nın tüneği çadırdan uzak tutulacak, Kaya kartalı görebilecekti.
+Temujin nöbet çizelgesini açtı. Yemek payı kavgasında yerini bırakan dört asker ayrı ayrı dinlenecek, fakat toplu ceza verilmeyecekti. İç nöbetçiler her değişimde bağları ve pansuman tokalarını sayacaktı. Fırtına’nın tüneği çadırdan uzak tutulacak, Kaya kartalı görebilecekti.
 
 "Esirin umudu kesilirse daha kolay yönetilir," dedi Sube.
 
 "Bugün umut ettiği için açık bıraktığımız yola koştu," dedi Temujin. "Umudu kesilirse hangi yolu seçeceğini göremeyiz."
 
-Bu, merhamet değildi. Kaya'ya kaçış fırsatı da vermiyordu. Yalnız korkuyu tek araç sayan Korgan usulünden farklı bir kafes kuruyordu.
+Bu, merhamet değildi. Kaya’ya kaçış fırsatı da vermiyordu. Yalnız korkuyu tek araç sayan Korgan usulünden farklı bir kafes kuruyordu.

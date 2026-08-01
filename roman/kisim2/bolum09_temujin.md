@@ -3,7 +3,7 @@
 
 Temujin Büyük Savaş Çadırı’na girdiğinde Korgan mesajı iki kez okutmuştu.
 
-“Baş Rüzgar-Dinleyen,” dedi Han. “Canlı.”
+“Baş Rüzgâr-Dinleyen,” dedi Han. “Canlı.”
 
 “Evet, Han’ım.”
 
@@ -37,9 +37,9 @@ Bu gerekçe Korgan’ın hoşuna gitti. Kalın parmakları masada durdu.
 
 Batu, kararın bittiğini sanıp şarap tasını kaldırdı. Korgan elini kaldırınca tas havada kaldı.
 
-"Üç gün sonra batı birlikleri geçit töreni yapacak," dedi Han. "Esiri onların önünden geçirin. Sungur'un kartal başını zincirde görsünler."
+"Üç gün sonra batı birlikleri geçit töreni yapacak," dedi Han. "Esiri onların önünden geçirin. Sungur’un kartal başını zincirde görsünler."
 
-Temujin'in kurduğu bütün hesap, tek cümlede başka bir şeye dönüştü. Kaya'yı aşağılamak Sungurların pazarlık payını azaltmaz, kurtarma baskısını büyütürdü. Korgan için ise esirin değeri tam da buydu.
+Temujin’in kurduğu bütün hesap, tek cümlede başka bir şeye dönüştü. Kaya’yı aşağılamak Sungurların pazarlık payını azaltmaz, kurtarma baskısını büyütürdü. Korgan için ise esirin değeri tam da buydu.
 
 "Yüzünü gösterirsek nöbet düzenini de gösteririz," dedi Temujin. "Hangi çadırda tutulduğunu, kaç muhafız bulunduğunu ve ne zaman dışarı çıkarıldığını herkes öğrenir."
 
@@ -49,7 +49,7 @@ Korgan gülümsedi. "Genç Kurt korkuyor mu?"
 
 Çadırdaki iki komutan güldü. Korgan gülmedi. Temujin korkuyu inkâr etmeyince onu korkaklıkla sıkıştıramamıştı.
 
-Orkhon, "Bir resmini çıkarabiliriz," dedi. "Kaya'nın yüzünü tanıyan iki Azgut ile bir Sungur esiri doğrular. Orduya ilan okunur. Esir yerinden çıkarılmaz."
+Orkhon, "Bir resmini çıkarabiliriz," dedi. "Kaya’nın yüzünü tanıyan iki Azgut ile bir Sungur esiri doğrular. Orduya ilan okunur. Esir yerinden çıkarılmaz."
 
 Korgan bu kez uzun düşündü. "Resmi kötü olursa ressamın elini kestiririm."
 
@@ -85,15 +85,15 @@ Temujin cevap vermedi. Orkhon haklıydı; bu kez kazandığı şey yalnız esir 
 
 "Kullanıyor."
 
-"Genç Kurtlar arasından iki kişiye ana ordu nöbeti teklif etmiş. Senin emrinden çıkıp doğrudan Han'a bağlanacaklar."
+"Genç Kurtlar arasından iki kişiye ana ordu nöbeti teklif etmiş. Senin emrinden çıkıp doğrudan Han’a bağlanacaklar."
 
-Temujin hangi iki kişi olduğunu sormadı. Sorarsa Orkhon'un getirdiği haberi sadakat sınamasına çevirecekti. Teklifin kendisi cezadan daha akıllıcaydı. Korgan, Temujin'in ateşini söndürmek yerine çevresindeki odunu tek tek çekiyordu.
+Temujin hangi iki kişi olduğunu sormadı. Sorarsa Orkhon’un getirdiği haberi sadakat sınamasına çevirecekti. Teklifin kendisi cezadan daha akıllıcaydı. Korgan, Temujin’in ateşini söndürmek yerine çevresindeki odunu tek tek çekiyordu.
 
 "Gitmek isteyen gitsin," dedi.
 
 Orkhon kaşlarını çattı. "Bu kadar mı?"
 
-"Gitmelerini yasaklarsam Korgan'ın korktuğu şeyi doğrularım. Kalırlarsa da neden kaldıklarını öğrenirim."
+"Gitmelerini yasaklarsam Korgan’ın korktuğu şeyi doğrularım. Kalırlarsa da neden kaldıklarını öğrenirim."
 
 "Bazen insan yalnız daha çok et verildiği için gider."
 
@@ -149,7 +149,7 @@ Temujin sorgu kâtibini içeri çağırdı. İlk sorular isim, görev ve yakalan
 
 "O zaman sana yanlışını düzeltme iyiliği yapmam."
 
-Kâtip boş satırın yanına cevap yok yazdı. Temujin, Kaya'nın sustuğu her soruyu ayrıca işaretletti. Sorgu yalnız bilgi almıyordu; hangi bilginin onun için korunmaya değer olduğunu gösteriyordu.
+Kâtip boş satırın yanına cevap yok yazdı. Temujin, Kaya’nın sustuğu her soruyu ayrıca işaretletti. Sorgu yalnız bilgi almıyordu; hangi bilginin onun için korunmaya değer olduğunu gösteriyordu.
 
 Yemek getirildiğinde aynı kazandan iki tas kondu. Kaya önce yaralı iki adamın payını sordu. Temujin şifacı kayıtlarını getirtti: biri ateşliydi, ötekinin bacağındaki ok çıkarılmıştı. Kaya kâğıdı okuyamadı ama kâtibe satır satır çevirtti.
 
@@ -161,7 +161,7 @@ Yemek getirildiğinde aynı kazandan iki tas kondu. Kaya önce yaralı iki adam�
 
 "Konuşup konuşmaman, sözümü değiştirirse söz değildir."
 
-Kaya tası aldı. Bir lokma yedikten sonra Fırtına'ya et ayırdı.
+Kaya tası aldı. Bir lokma yedikten sonra Fırtına’ya et ayırdı.
 
 Temujin kapıya yöneldi.
 
@@ -175,4 +175,4 @@ Temujin perdeyi açtı. “İnsanlar en doğru kararlarını, bedel başkasını
 
 Dışarı çıktığında nöbet düzenini değiştirdi. Kaya’nın kaçmasından çok, Korgan’ın fikrini yeniden değiştirmesinden çekiniyordu.
 
-Gece çizelgesine Korgan'ın muhafızlarının esir çadırına tek başına giremeyeceğini yazdı. Emrin altına kendi mührünü bastı. Kaya kaçarsa başıyla ödeyecekti. Korgan'ın adamları onu öldürürse de artık kimin emrini çiğnedikleri kayıtta duracaktı.
+Gece çizelgesine Korgan’ın muhafızlarının esir çadırına tek başına giremeyeceğini yazdı. Emrin altına kendi mührünü bastı. Kaya kaçarsa başıyla ödeyecekti. Korgan’ın adamları onu öldürürse de artık kimin emrini çiğnedikleri kayıtta duracaktı.

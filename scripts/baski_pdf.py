@@ -496,6 +496,11 @@ def parse_source(source: Path, styles, digital: bool = False) -> list:
             story.append(Paragraph(inline_markup(title), styles["chapter"]))
             first_body = True
             continue
+        if line == "**Tuzlu Tahtın Son Sahibi**":
+            story.append(PageBreak())
+            story.append(Paragraph(inline_markup(line), styles["chapter"]))
+            first_body = True
+            continue
         if re.match(r"^\*\([^)]+\)\*$", line):
             story.append(Paragraph(inline_markup(line), styles["pov"]))
             first_body = True

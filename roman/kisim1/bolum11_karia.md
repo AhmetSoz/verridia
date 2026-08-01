@@ -27,17 +27,17 @@ Ateşte bir odun yarıldı. Karia ellerini kupanın çevresinde birleştirdi.
 
 “Evet demedim. Hayır da demedim.”
 
-“Sarayda susmak, kapıyı açık bırakmaktır.”
+“Theodoric bunu evet sayar.”
 
 “Biliyorum.”
 
 Kaelan sandalyesine yaslandı. Yüzünün sol yanındaki eski kesik, ateş ışığında daha derin görünüyordu.
 
-“Valerius Geçidi’nde otuz adamla kalmıştım,” dedi. “Sabaha yalnız ben çıktım. Yıllarca neden diye sordum. Sonra yanlış sorunun bu olduğunu anladım. Neden yaşadığımı değil, yaşadığımla ne yapacağımı seçebilirdim.”
+“Valerius Geçidi’nde otuz adamla kaldım,” dedi. “Sabaha yalnız ben çıktım. Sonra her talim avlusunda onları aradım.”
 
 “Ne seçtin?”
 
-“Benden sonra kılıç tutacakları yetiştirmeyi.” Kaelan kupasının kenarını başparmağıyla sildi. “Seni de Valerius’u da bu yüzden eğittim.”
+“Yerlerine yenilerini koymayı.” Kaelan kupasının kenarını başparmağıyla sildi. “Seni de Valerius’u da bu yüzden eğittim.”
 
 Karia başını kaldırdı. “Onu da.”
 
@@ -69,11 +69,11 @@ Karia adını bilmediğini fark etti.
 
 Karia çayı masaya bıraktı. “Ya ben oturursam?”
 
-Kaelan bu kez hemen cevap verdi. “Korkarsın.”
+Kaelan bir süre cevap vermedi. “Korkarsın. Sonra korkunu kime ödeteceğini bilmiyorum.”
 
 “Bunun öğüt olduğuna emin misin?”
 
-“Kork. Bir emrin kaç eve ölüm haberi götüreceğini unutma. Sonra yine de emir vermen gerekiyorsa ver.” Kaelan öne eğildi. “Valerius’la arandaki fark korkusuz olman değil. Neyi kaybedebileceğini bilmen.”
+“Bir emrin kaç eve ölüm haberi götüreceğini unutma. Sonra yine de gerekiyorsa ver.” Kaelan öne eğildi. “Valerius o evleri saymaz. Sen sayarsın. Bunun seni nereye götüreceğini bilmiyorum.”
 
 Karia, kralın önündeki cevabını düşündü. Önce Hegemonya kalmalı. Söylemesi kolaydı; onu ayakta tutacak her karar bir başkasının payını kesecekti.
 
@@ -83,7 +83,7 @@ Karia, kralın önündeki cevabını düşündü. Önce Hegemonya kalmalı. Söy
 
 “Taşıyabilmek de kabul etmem gerektiği anlamına gelmez.”
 
-Kaelan gülümsedi. “İşte bunu Kral’a söyle. Bana değil.”
+Kaelan kupasını aldı. “Bunu Kral’a söyle.”
 
 ✦
 

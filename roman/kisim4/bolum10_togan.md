@@ -7,7 +7,7 @@ Sığınağın tabanındaki tuzlu su çekilmiş, ardında ince beyaz kabuklar b�
 
 Perren kanlı bezleri sınırın yakınına koydu. En son alınan parça ışığa daha güçlü çekildi.
 
-“Bunları Eski-Kent'e götürecek miyiz?” diye sordu Togan.
+“Bunları Eski-Kent’e götürecek miyiz?” diye sordu Togan.
 
 “Birini.”
 
@@ -19,7 +19,7 @@ En güçlü tepki veren bezi birlikte yaktılar. Alev önce beyaz, sonra mavi ol
 
 “Pencere kapandı,” dedi.
 
-Togan kapıya baktı. Melira'nın sesini bir daha duymak istiyor, aynı anda bundan korkuyordu. Bir yıl boyunca ölümün içinden onu çağırdığına inanmıştı. Kapının, yalnızca duymak istediği şeyi kullanmış olabileceğini şimdi anlamıştı.
+Togan kapıya baktı. Melira’nın sesini bir daha duymak istiyor, aynı anda bundan korkuyordu. Bir yıl boyunca ölümün içinden onu çağırdığına inanmıştı. Kapının, yalnızca duymak istediği şeyi kullanmış olabileceğini şimdi anlamıştı.
 
 “Onu geri getiremezdim,” dedi.
 
@@ -27,7 +27,7 @@ Perren ölçüleri taş levhaya geçiriyordu. “Bunu bilmiyoruz.”
 
 “Bilmiyoruz.” Togan başını salladı. “Bu yüzden kapıyı açmayacağım.”
 
-Perren ona beş adı sordu. Togan hepsini söyledi. Ardından Anya'nın masalını sormasını kendisi istedi.
+Perren ona beş adı sordu. Togan hepsini söyledi. Ardından Anya’nın masalını sormasını kendisi istedi.
 
 Masalın başlangıcını ve ortasını anlattı. Son bölümün yerine hâlâ boşluk geldi. Togan o boşluğu kendi uydurduğu bir sonla kapatabilirdi; Perren fark etmeyebilirdi. Yapmadı.
 
@@ -39,9 +39,9 @@ Perren levhaya aynı kelimeleri yazdı. “Belki geri gelir.”
 
 “O zaman eksik olduğunu bildiğimiz bir anı olur. Uydurduğumuz bir anıdan daha güvenlidir.”
 
-Togan, Melira'nın bilekliğini avucunda çevirdi. Onunla ilgili anıların da bir gün böyle eksilip eksilmeyeceğini düşündü. Bu yüzden Perren'e ilk karşılaşmalarını anlattı. Yaşlı adam hikâyeyi kısa cümlelerle levhaya geçirdi. Bir hatırayı korumanın yolu onu taşa hapsetmek değildi; fakat kaybı fark edecek ikinci bir tanık bırakabilirdi.
+Togan, Melira’nın bilekliğini avucunda çevirdi. Onunla ilgili anıların da bir gün böyle eksilip eksilmeyeceğini düşündü. Bu yüzden Perren’e ilk karşılaşmalarını anlattı. Yaşlı adam hikâyeyi kısa cümlelerle levhaya geçirdi. Bir hatırayı korumanın yolu onu taşa hapsetmek değildi; fakat kaybı fark edecek ikinci bir tanık bırakabilirdi.
 
-Bu karar, başarısızlıktan daha ağırdı. Kendi isteğiyle vazgeçiyordu. Melira'yı ikinci kez toprağa bırakmak gibi geldi.
+Bu karar, başarısızlıktan daha ağırdı. Kendi isteğiyle vazgeçiyordu. Melira’yı ikinci kez toprağa bırakmak gibi geldi.
 
 Perren levhayı kapattı. “Sed sana kim olduğunu söylemedi. Yalnız seni tanıdığını gösterdi.”
 
@@ -49,15 +49,15 @@ Perren levhayı kapattı. “Sed sana kim olduğunu söylemedi. Yalnız seni tan
 
 “Mirasçılar.”
 
-Eski-Kent arşivlerinde Kuzey seferleri, yıkılan obalar ve kayıp çocuklar tutuluyordu. Togan'ın annesine ulaşan bir iz varsa Sed'in önünde değil, o raflardaydı.
+Eski-Kent arşivlerinde Kuzey seferleri, yıkılan obalar ve kayıp çocuklar tutuluyordu. Togan’ın annesine ulaşan bir iz varsa Sed’in önünde değil, o raflardaydı.
 
-“Aldric'in kaydı da orada mı?” diye sordu Togan.
+“Aldric’in kaydı da orada mı?” diye sordu Togan.
 
 Perren başını çevirdi. “Belki.”
 
-“Eski-Kent'i onun için arıyordun.”
+“Eski-Kent’i onun için arıyordun.”
 
-“Önce onun için.” Perren, aldığı yedi levhanın en eskisini gösterdi. Kenarında Theodoric'in mührünün yarısı kalmıştı. “Sonra burada gördüklerim her şeyin önüne geçti. Bir insana söz verip bir kapıya dönüştüm.”
+“Önce onun için.” Perren, aldığı yedi levhanın en eskisini gösterdi. Kenarında Theodoric’in mührünün yarısı kalmıştı. “Sonra burada gördüklerim her şeyin önüne geçti. Bir insana söz verip bir kapıya dönüştüm.”
 
 “Şimdi ikisini de ararız.”
 
@@ -71,7 +71,7 @@ Perren hemen cevap vermedi. Sığınağın taşlarına baktı. Duvara çizdiği 
 
 “Üç kez ayrılmayı denedim.”
 
-İlkinde Aldric'in sesini duyup dönmüş, ikincisinde ayakları kan içinde kapının önünde uyanmıştı. Üçüncüsünde boynuna bağladığı iple kendini boğmaya yaklaşmıştı.
+İlkinde Aldric’in sesini duyup dönmüş, ikincisinde ayakları kan içinde kapının önünde uyanmıştı. Üçüncüsünde boynuna bağladığı iple kendini boğmaya yaklaşmıştı.
 
 Perren bunları daha önce anlatmamıştı. Togan öfkelenmedi. Yaşlı adamın korkusunun ne kadar eski olduğunu ilk kez ölçebildi.
 
@@ -83,7 +83,7 @@ Perren bunları daha önce anlatmamıştı. Togan öfkelenmedi. Yaşlı adamın 
 
 Yedinci gün Perren eşyalarını tek çuvala sığdırdı. On bir yılda biriktirdiği yüzlerce taş levhadan yalnız yedisini aldı. Geri kalanları yağdanlık bezlere sarıp sığınağın en kuru köşesine dizdi.
 
-Girişe üç dilde kapıdan uzak durulmasını söyleyen bir uyarı bıraktı. Togan altına bir cümle ekledi: `Bir ses sevdiğiniz birinin sesine benzerse ona cevap vermeyin.`
+Girişe üç dilde kapıdan uzak durulmasını söyleyen bir uyarı bıraktı. Togan altına bir cümle ekledi: *Bir ses sevdiğiniz birinin sesine benzerse ona cevap vermeyin.*
 
 Perren cümleyi silmedi.
 
@@ -91,7 +91,7 @@ Perren cümleyi silmedi.
 
 “Bilmiyorum. Bilmediğimi söylemek bugün kolay geliyor.”
 
-Yola çıkmadan önce Togan iplerin, su tulumlarının ve mühürlü kutunun yerini iki kez kontrol etti. Burkut'un ayağına beyaz bir bez bağladı. Kuş, Sed'e doğru uçmaya çalışmadı; güneydeki yolun üstünde döndü.
+Yola çıkmadan önce Togan iplerin, su tulumlarının ve mühürlü kutunun yerini iki kez kontrol etti. Burkut’un ayağına beyaz bir bez bağladı. Kuş, Sed’e doğru uçmaya çalışmadı; güneydeki yolun üstünde döndü.
 
 Güneye yürümeye başladılar. Perren ilk fersah taşında durdu. Bu, önceki kaçışlarında ulaşabildiği en uzak noktaydı. Elleri titredi; beyaz oda gözlerinin önüne gelmiş olmalıydı.
 
@@ -113,17 +113,17 @@ Kendi adında sesi kısıldı; yine de söyledi.
 
 Perren arkasına dönmedi. Bir süre sonra titremesi kesildi.
 
-Öğleden sonra Kızıl Sürü solmaya, Tek Göz yeniden beyazlaşmaya başladı. Togan bir yol ayrımında durdu. Batıdaki iz bozkıra, güneydoğudaki Eski-Kent'e gidiyordu.
+Öğleden sonra Kızıl Sürü solmaya, Tek Göz yeniden beyazlaşmaya başladı. Togan bir yol ayrımında durdu. Batıdaki iz bozkıra, güneydoğudaki Eski-Kent’e gidiyordu.
 
-Kaya'ya, Börü'ye ve Anya'ya dönmek istedi. Ne söyleyeceğini bilmiyordu. Eli yol işaretinin üzerinde kaldı.
+Kaya’ya, Börü’ye ve Anya’ya dönmek istedi. Ne söyleyeceğini bilmiyordu. Eli yol işaretinin üzerinde kaldı.
 
 “Önce gerçeği,” dedi.
 
-Karar, bozkırdan vazgeçmek değildi. Kaya'ya dönmeden önce ona ne götüreceğini seçmekti. Bir kapının kendisini tanıdığını söylemek kolaydı; neden tanıdığını bilmeden bu bilgi Sungurların üstüne yeni bir tehlike çekebilirdi. Eski-Kent'te kayıt bulursa eve söz değil, kanıt taşıyacaktı.
+Karar, bozkırdan vazgeçmek değildi. Kaya’ya dönmeden önce ona ne götüreceğini seçmekti. Bir kapının kendisini tanıdığını söylemek kolaydı; neden tanıdığını bilmeden bu bilgi Sungurların üstüne yeni bir tehlike çekebilirdi. Eski-Kent’te kayıt bulursa eve söz değil, kanıt taşıyacaktı.
 
 Eski-Kent yoluna saptı.
 
-Melira'nın bilekliğini gömleğinin içinden çıkardı. “Seni unutmuyorum,” dedi. “Ama artık sesini çalan her şeye inanmayacağım.”
+Melira’nın bilekliğini gömleğinin içinden çıkardı. “Seni unutmuyorum,” dedi. “Ama artık sesini çalan her şeye inanmayacağım.”
 
 Bilekliği yeniden saklarken örgüdeki bir düğümün biçimini hatırlayamadığını fark etti. Kumaşa baktığında düğüm oradaydı. Anısı geri gelmedi.
 

@@ -3,7 +3,7 @@
 
 İkinci gün boyunca deniz yükseldi. Sığınak kıyıdan fersahlarca uzaktaydı; yine de gece taşların arasından tuzlu su sızdı. Perren tasları boşaltırken Togan kapının önünde nöbet tuttu.
 
-Su, zemindeki çatlaklardan aynı hızla gelmiyordu. Kapıya yakın yarıklarda yukarı doğru kabarıyor, sonra ışığın ritmi değişince geri çekiliyordu. Togan bir avuç külü çatlakların üzerine serpti. Akıntı'nın hareket ettiği üç çizgi ortaya çıktı; hepsi sığınağın altından Sed'e yöneliyordu.
+Su, zemindeki çatlaklardan aynı hızla gelmiyordu. Kapıya yakın yarıklarda yukarı doğru kabarıyor, sonra ışığın ritmi değişince geri çekiliyordu. Togan bir avuç külü çatlakların üzerine serpti. Akıntı’nın hareket ettiği üç çizgi ortaya çıktı; hepsi sığınağın altından Sed’e yöneliyordu.
 
 Erzakı yükselttiler, levhaları sardılar ve uzaktaki tepeye bir kaçış payı bıraktılar. Sed aniden güçlenirse sığınağa dönmeyeceklerdi.
 
@@ -19,13 +19,13 @@ Erzakı yükselttiler, levhaları sardılar ve uzaktaki tepeye bir kaçış pay�
 
 Perren ıslak levhayı koltuğunun altına sıkıştırdı. “Yetersiz bilgiyle yaşarız.”
 
-Togan bu cevaptan hoşlanmadı. Yine de Perren'in belindeki kırmızı ipin düğümünü kendi eliyle sıkılaştırdı.
+Togan bu cevaptan hoşlanmadı. Yine de Perren’in belindeki kırmızı ipin düğümünü kendi eliyle sıkılaştırdı.
 
 Üçüncü günün şafağında Sed soldu.
 
-Perren'in bronz çubuklarından düşen gölge kısalmış, kapının işaretleri ilk kez aynı anda görünür olmuştu.
+Perren’in bronz çubuklarından düşen gölge kısalmış, kapının işaretleri ilk kez aynı anda görünür olmuştu.
 
-Perren önce kapıya kendi başına yaklaştı. Elindeki boş bronz çubuk görünmez sınıra girdiği anda beyazlaştı ve ortasından çatladı. Yaşlı adam geri sıçradı. Togan'ın koluna dokunduğunda ise aynı sınır çubuğu çekmiyor, derisinin altındaki bir noktaya doğru bastırıyordu.
+Perren önce kapıya kendi başına yaklaştı. Elindeki boş bronz çubuk görünmez sınıra girdiği anda beyazlaştı ve ortasından çatladı. Yaşlı adam geri sıçradı. Togan’ın koluna dokunduğunda ise aynı sınır çubuğu çekmiyor, derisinin altındaki bir noktaya doğru bastırıyordu.
 
 “Bu koruma değil,” dedi Perren. “Seni kabul ettiğini düşünme.”
 
@@ -39,13 +39,13 @@ Elini uzattı.
 
 Avucu ışığa değmedi. Işık avucunun içine girdi.
 
-Togan'ın kolundaki damarlar beyaz çizgiler hâlinde parladı. Dizleri taşlara vurdu. Kapının uğultusu kayboldu; deniz, rüzgâr ve Perren'in bağırışı da sustu.
+Togan’ın kolundaki damarlar beyaz çizgiler hâlinde parladı. Dizleri taşlara vurdu. Kapının uğultusu kayboldu; deniz, rüzgâr ve Perren’in bağırışı da sustu.
 
 Beyaz oda çevresinde kuruldu.
 
-İskemlede biri oturuyordu. İnce, insanı andıran bir el Togan'a doğru açıldı. Parmakları gereğinden uzundu. Yüzü görünmedi.
+İskemlede biri oturuyordu. İnce, insanı andıran bir el Togan’a doğru açıldı. Parmakları gereğinden uzundu. Yüzü görünmedi.
 
-Togan, Melira'nın adını söylemeye çalıştı. Ağzından ses çıkmadı.
+Togan, Melira’nın adını söylemeye çalıştı. Ağzından ses çıkmadı.
 
 İskemlenin arkasındaki duvarda beş çizgi açıldı. Her çizginin içinde farklı bir görüntü titreşti: kar altında bir oba, siyah taşlı bir kıyı, elleri kanlı bir kadın, beşiğe bağlanmış bakır halka ve ışığın önünde diz çöken üç kişi. Togan hangisine baksa ötekiler silikleşiyordu. Kadının yüzünü seçmek istedi. Beyaz oda başını zorla beşiğe çevirdi.
 
@@ -57,7 +57,7 @@ Kapıdaki yüzlerce işaret aynı anda yön değiştirdi. Togan kendi kalp atı�
 
 Perren ipi bütün ağırlığıyla çekti. Togan sınırdan kopup sırtüstü düştü. Sesler bir anda geri geldi. Burnundan ve sağ avucundaki eski kesikten kan akıyordu.
 
-Togan doğrulmak istedi; dünya sola devrildi. Perren onu yüzüstü çevirdi. Togan'ın midesinde su ve kuru etten başka bir şey yoktu. Yine de uzun süre öğürdü.
+Togan doğrulmak istedi; dünya sola devrildi. Perren onu yüzüstü çevirdi. Togan’ın midesinde su ve kuru etten başka bir şey yoktu. Yine de uzun süre öğürdü.
 
 “Adlar,” dedi Perren.
 
@@ -87,13 +87,13 @@ Perren kapıya baktı. “Sed mi?”
 
 ---
 
-Perren bütün öğleden sonrayı Togan'ın nabzını, gözlerini ve avucundaki yaranın sıcaklığını ölçerek geçirdi. İlk gece kalp ritmini yazmamasını da levhaya hata diye ekledi; anlamadığı bulguyu saklamak, onu daha güvenli kılmamıştı. Togan su içtiğinde metal tadı aldı. Burkut yanına yaklaşmadı; iki adım ötede tüylerini kabartıp onu izledi.
+Perren bütün öğleden sonrayı Togan’ın nabzını, gözlerini ve avucundaki yaranın sıcaklığını ölçerek geçirdi. İlk gece kalp ritmini yazmamasını da levhaya hata diye ekledi; anlamadığı bulguyu saklamak, onu daha güvenli kılmamıştı. Togan su içtiğinde metal tadı aldı. Burkut yanına yaklaşmadı; iki adım ötede tüylerini kabartıp onu izledi.
 
-Sağ avucundaki yara kapanmadı. Kan her pıhtılaştığında ince beyaz bir çizgi yaranın kenarından geçiyor, pıhtıyı yeniden ayırıyordu. Perren yarayı sıcak demirle dağlamak istedi. Demir Togan'ın tenine bir parmak kala titremeye başladı.
+Sağ avucundaki yara kapanmadı. Kan her pıhtılaştığında ince beyaz bir çizgi yaranın kenarından geçiyor, pıhtıyı yeniden ayırıyordu. Perren yarayı sıcak demirle dağlamak istedi. Demir Togan’ın tenine bir parmak kala titremeye başladı.
 
 “Bırak,” dedi Togan.
 
-Yarayı ketenle sıkıca sardılar. Perren kanlı bezleri ateşe atmadı; taş bir kaba koyup kapıdan uzağa götürdü. Sed'in Togan'ın kanına verdiği tepkiyi yeniden sınamak istiyordu. Togan, kendi bedeninden çıkan şeyin bulguya dönüşmesini sevmedi. Fakat cevabın başka yolu yoktu.
+Yarayı ketenle sıkıca sardılar. Perren kanlı bezleri ateşe atmadı; taş bir kaba koyup kapıdan uzağa götürdü. Sed’in Togan’ın kanına verdiği tepkiyi yeniden sınamak istiyordu. Togan, kendi bedeninden çıkan şeyin bulguya dönüşmesini sevmedi. Fakat cevabın başka yolu yoktu.
 
 “On bir yılda kapıya gelen altı kişi gördüm,” dedi Perren. “İkisi dokunmaya çalıştı. İkisi de sınırdan geriye savruldu. Işık hiçbirinin damarına girmedi.”
 
@@ -103,9 +103,9 @@ Yarayı ketenle sıkıca sardılar. Perren kanlı bezleri ateşe atmadı; taş b
 
 Togan kanlı bezi avucuna bastırdı. “Beni Sungurlar yıkılmış bir obada bulmuş. Annemi, babamı bilen yok.”
 
-Perren taş levhalardaki şifreyi yeniden okudu: “Anahtar Akıntı'nın kalbinde değil, bıraktığı sessizliktedir.”
+Perren taş levhalardaki şifreyi yeniden okudu: “Anahtar Akıntı’nın kalbinde değil, bıraktığı sessizliktedir.”
 
-“Kan,” dedi. “Belki sessizlik bir an değil. Bir kanın Sed'in akordunu bozması.”
+“Kan,” dedi. “Belki sessizlik bir an değil. Bir kanın Sed’in akordunu bozması.”
 
 “Benim kanım mı?”
 
@@ -113,7 +113,7 @@ Perren taş levhalardaki şifreyi yeniden okudu: “Anahtar Akıntı'nın kalbin
 
 Togan onun bu cevabına güvendi. Kesin konuşsaydı inanmazdı.
 
-Perren yosun yaratığından çıkan bakır halkayı getirdi. Halkanın işaretlerini Togan'ın beyaz odada gördüğü biçimde çizmesini istedi. Togan ilk ikisini tamamladı, üçüncünün kıvrımında durdu. Zihninde şeklin sonu yoktu.
+Perren yosun yaratığından çıkan bakır halkayı getirdi. Halkanın işaretlerini Togan’ın beyaz odada gördüğü biçimde çizmesini istedi. Togan ilk ikisini tamamladı, üçüncünün kıvrımında durdu. Zihninde şeklin sonu yoktu.
 
 “Gördüğümden emindim.”
 
@@ -121,7 +121,7 @@ Perren yosun yaratığından çıkan bakır halkayı getirdi. Halkanın işaretl
 
 Togan kömürü bıraktı. “Başka neyi getirmedim?”
 
-Perren cevap vermedi. Beş adı tekrar sordu. Togan hepsini bildi. Ardından Anya'nın geçen kış ona anlattığı masalın sonunu sordu. Togan masalı hatırladı, sonunu hatırlamadı.
+Perren cevap vermedi. Beş adı tekrar sordu. Togan hepsini bildi. Ardından Anya’nın geçen kış ona anlattığı masalın sonunu sordu. Togan masalı hatırladı, sonunu hatırlamadı.
 
 Kayıp küçük görünüyordu. Küçük olduğu için daha çok korkuttu.
 
@@ -137,7 +137,7 @@ Dördüncü gün kapı yeniden zayıfladı. Togan bu kez ipi iki kaya halkasınd
 
 “Kapı sana cevap vermiyor. Seni yönlendiriyor.”
 
-Togan, taş kabın içindeki kanlı bezi Sed'e doğru kaldırdı. İnce lifler kabın kapağına tırmanmıştı. “Bunu görüp hiçbir şey yapmadan Eski-Kent'e gidersek oradakiler neden ikinci kez denemediğimizi soracak.”
+Togan, taş kabın içindeki kanlı bezi Sed’e doğru kaldırdı. İnce lifler kabın kapağına tırmanmıştı. “Bunu görüp hiçbir şey yapmadan Eski-Kent’e gidersek oradakiler neden ikinci kez denemediğimizi soracak.”
 
 “Onlara yaşamak istediğimizi söyleriz.”
 
@@ -151,7 +151,7 @@ Işık yine damarlarına yürüdü. Bu kez geri çekilmeden üç nefes dayandı.
 
 İkincide iskemle boştu.
 
-Üçüncüde Melira'nın sesini duydu.
+Üçüncüde Melira’nın sesini duydu.
 
 “Togan.”
 
@@ -169,7 +169,7 @@ Perren beş adı sordu. Togan cevapladı. Masalın sonunu sormadı.
 
 “Bir daha deneyebiliriz,” dedi Perren. Sözleri istemeden çıkmış gibiydi.
 
-Bu kez durması gereken kişi Togan'dı. Beyaz odanın duvarındaki beşiği, çizgilerdeki kanlı kadını ve aradığı cevabın yalnız bir adım ötede olma ihtimalini düşündü. Ardından hatırlayamadığı masalın yerindeki boşluğu yokladı.
+Bu kez durması gereken kişi Togan’dı. Beyaz odanın duvarındaki beşiği, çizgilerdeki kanlı kadını ve aradığı cevabın yalnız bir adım ötede olma ihtimalini düşündü. Ardından hatırlayamadığı masalın yerindeki boşluğu yokladı.
 
 “Hayır.”
 
@@ -177,7 +177,7 @@ Perren ipi çözerken elleri titriyordu. “Neden?”
 
 “Çünkü az önce bunu sen istedin.”
 
-Yaşlı adam ellerine baktı. Kapı yalnız Togan'ı çekmiyordu. Cevabı bekleyen herkesi kendine göre bükebilirdi.
+Yaşlı adam ellerine baktı. Kapı yalnız Togan’ı çekmiyordu. Cevabı bekleyen herkesi kendine göre bükebilirdi.
 
 İki kaya halkasındaki ipi kesip yaktılar. O gün kapıya yeniden yaklaşmadılar.
 

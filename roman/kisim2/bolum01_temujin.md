@@ -9,7 +9,7 @@ Her gece sonunda Temujin nal bezlerini kendi eliyle saydırdı. İlk gün üçü
 
 Erzakı altı günlük almışlardı. Yedinci gün için yalnız tuz ve iki torba arpa kalacaktı. Koridoru o zamana kadar açamazlarsa dönmeleri gerekecekti. Korgan ona elli at vermiş, fazladan bir gün vermemişti.
 
-Temujin önündeki deri haritayı dizine bastırdı. Rüzgar-Dinleyenler tek bir merkezden yönetilmiyordu. Her gözetleme noktasında bir ya da iki kişi, bir kartal ve birkaç günlük erzak bulunurdu. Ağı bütünüyle parçalamak elli kişiyle mümkün değildi; Korgan’ın ordusuna batıda iki günlük kör bir koridor açmak mümkündü.
+Temujin önündeki deri haritayı dizine bastırdı. Rüzgâr-Dinleyenler tek bir merkezden yönetilmiyordu. Her gözetleme noktasında bir ya da iki kişi, bir kartal ve birkaç günlük erzak bulunurdu. Ağı bütünüyle parçalamak elli kişiyle mümkün değildi; Korgan’ın ordusuna batıda iki günlük kör bir koridor açmak mümkündü.
 
 Sube, haritadaki ilk yüksekliği gösterdi. “Kartal Kayası. Bir usta, bir çırak. Kuşları tan ve ikindide uçuyor.”
 
@@ -87,7 +87,7 @@ Temujin güzergâhı zihninde yeniden çizdi. Üç gözetleme noktası uyarılm�
 
 “Doğru söylersen.”
 
-Çocuk dudağını ısırdı. “Baş Rüzgar-Dinleyen Kaya. Yarın batı hattına gelir.”
+Çocuk dudağını ısırdı. “Baş Rüzgâr-Dinleyen Kaya. Yarın batı hattına gelir.”
 
 Temujin raporlardaki adı hatırladı. Sungur kartal ağını Kaya kurmuş, her noktayı kendisi seçmişti. Ağı birer birer kesmek yerine onu kuran kişiyi almak bütün hesabı değiştirirdi.
 
@@ -103,7 +103,7 @@ Temujin Sube’ye döndü. “İkinci noktayı bırak. Kaya’nın yolunu kesece
 
 Sube çocuğun ellerini çözdü, ona yedek atlardan birini verdi. Çırak karanlıkta uzaklaşırken Temujin elli kişiyi güneye çevirdi.
 
-Atlı çocuk görüşten çıkınca Sube, "Bizi Kaya'ya götürürken kendi noktasını da uyarabilir," dedi.
+Atlı çocuk görüşten çıkınca Sube, "Bizi Kaya’ya götürürken kendi noktasını da uyarabilir," dedi.
 
 "Uyaracak."
 
@@ -123,6 +123,6 @@ Sube planı dinledi. "Kaya beş kişiyle gelirse otuz savaşçı fazla."
 
 "Kaya ağın başıysa yalnız gelmiyor. Göremediğimiz noktalar da onunla hareket eder."
 
-Temujin, yem kampına Korgan'ın siyah bizon işaretini astırmadı. Genç Kurt damgasını da kullanmadı. Kaya pusuya girmeden önce kiminle karşılaştığını öğrenirse, vereceği karar onların hesabını değil kendi öfkesini izlerdi.
+Temujin, yem kampına Korgan’ın siyah bizon işaretini astırmadı. Genç Kurt damgasını da kullanmadı. Kaya pusuya girmeden önce kiminle karşılaştığını öğrenirse, vereceği karar onların hesabını değil kendi öfkesini izlerdi.
 
 İlk plan bozulmuştu. Temujin kalan erzağı, iki vadiyi ve özgür bıraktığı çırağın ulaşabileceği saatleri yeniden hesapladı. Önlerine daha değerli bir hedef çıkmıştı. Onu fırsata çevirmek için önce tuzak olduğunu kabul etmesi gerekiyordu.

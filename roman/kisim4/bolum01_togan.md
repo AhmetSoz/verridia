@@ -3,7 +3,7 @@
 
 Togan uyandığında belindeki ip gerilmişti.
 
-Ayakları sığınağın dışındaydı. Sağ eli hâlâ kaya halkasına bağlıydı. Sol eli, parmak uçları toprağı kazımış hâlde Şafak Kapısı'na uzanıyordu.
+Ayakları sığınağın dışındaydı. Sağ eli hâlâ kaya halkasına bağlıydı. Sol eli, parmak uçları toprağı kazımış hâlde Şafak Kapısı’na uzanıyordu.
 
 Perren ipin üstüne oturmuş, iki ayağını duvara dayamıştı.
 
@@ -13,7 +13,7 @@ Perren ipin üstüne oturmuş, iki ayağını duvara dayamıştı.
 
 Togan dizlerinin üzerine kalktı. Beyaz odanın görüntüsü hâlâ gözlerindeydi. Bu kez iskemle boş değildi. Üzerinde oturanın yüzü ışığın arkasında kalmıştı; yalnızca omuzlarını görmüştü.
 
-Perren ipi çözmeden önce Togan'a beş adı saydırdı. Kaya, Börü, Melira, Burkut ve Perren. Beşinci adın ardından doğduğu mevsimi, son yediği yemeği ve hangi elinde bıçak tuttuğunu sordu. Togan hepsine cevap verdi; yalnız Kaya'nın yüzünü zihninde kurmak istediğinde gözlerinin çevresi dağıldı. Birkaç nefes sonra görüntü yerine oturdu.
+Perren ipi çözmeden önce Togan’a beş adı saydırdı. Kaya, Börü, Melira, Burkut ve Perren. Beşinci adın ardından doğduğu mevsimi, son yediği yemeği ve hangi elinde bıçak tuttuğunu sordu. Togan hepsine cevap verdi; yalnız Kaya’nın yüzünü zihninde kurmak istediğinde gözlerinin çevresi dağıldı. Birkaç nefes sonra görüntü yerine oturdu.
 
 “Bunu da mı yazmayacaksın?”
 
@@ -25,9 +25,9 @@ Togan parmaklarının arasındaki toprağı silkeledi. “Adlar.”
 
 “İnsan bir yere dönmek istiyorsa önce nereden geldiğini hatırlar.”
 
-Perren levhaya `beş ad` yazdı ve ipi kendi beline de bağladı. Biri uyurken öteki nöbet tutacak; yanlış cevapta ikisi de kapıdan uzaklaşacaktı.
+Perren levhaya *beş ad* yazdı ve ipi kendi beline de bağladı. Biri uyurken öteki nöbet tutacak; yanlış cevapta ikisi de kapıdan uzaklaşacaktı.
 
-Dışarı çıktıklarında Tek Göz ufukta kızıl asılıydı. Yıldızların hiçbiri görünmüyordu. Sed'in ışığı düzenli aralıklarla güçlenip sönüyor, her parlayışta gri toprak bir anlığına kemik beyazına dönüyordu.
+Dışarı çıktıklarında Tek Göz ufukta kızıl asılıydı. Yıldızların hiçbiri görünmüyordu. Sed’in ışığı düzenli aralıklarla güçlenip sönüyor, her parlayışta gri toprak bir anlığına kemik beyazına dönüyordu.
 
 “İlk Gelgit,” dedi Perren.
 
@@ -37,13 +37,13 @@ Togan parmağını ıslaklığa değdirdi. Su aşağı akmak yerine tırnağı b
 
 “Bunu daha önce gördün mü?”
 
-“Son Akıntı'da burada değildim.” Perren taş levhasına işaret koydu. “Bu kez gördüğümüz her şey ilk.”
+“Son Akıntı’da burada değildim.” Perren taş levhasına işaret koydu. “Bu kez gördüğümüz her şey ilk.”
 
 ---
 
 Öğle vakti uzaktaki kuzey kıyısının suyu çekildi. Deniz tabanı fersahlarca açığa çıktı. Siyah kayaların arasında soluk yosun damarları parlıyor, bazıları karaya ulaşmaya çalışır gibi kıvrılıyordu.
 
-Burkut, Togan'ın kolundan havalandı. Kıyı yönünde yarım çember çizdi ve hemen geri döndü. Konarken tüylerini kabarttı.
+Burkut, Togan’ın kolundan havalandı. Kıyı yönünde yarım çember çizdi ve hemen geri döndü. Konarken tüylerini kabarttı.
 
 Togan havayı kokladı. Tuzun altında demir ve ıslak toprak kokusu vardı. Bozkırdaki kızıl sellerden önce de buna benzer bir koku gelirdi.
 
@@ -67,13 +67,13 @@ Togan yayını aldı.
 
 “Yaklaşmasına izin verirsek öğreniriz.”
 
-İlk oku yaratığın baş sandığı koyu düğüme gönderdi. Ok gövdeye girdi, ardında ince bir yarık açtı. Yarıktan kemik değil, kıyıya vurmuş zincir parçaları göründü. Togan'ın dişlerinde metal tadı belirdi. Akıntı'nın değdiği demir, sağlıklı demir gibi sessiz kalmıyordu; çenesinin içinden tırmalıyordu.
+İlk oku yaratığın baş sandığı koyu düğüme gönderdi. Ok gövdeye girdi, ardında ince bir yarık açtı. Yarıktan kemik değil, kıyıya vurmuş zincir parçaları göründü. Togan’ın dişlerinde metal tadı belirdi. Akıntı’nın değdiği demir, sağlıklı demir gibi sessiz kalmıyordu; çenesinin içinden tırmalıyordu.
 
 “İçinde zincir var,” dedi. “Sol yanında. Yüksek.”
 
 Perren yağ kabını bir bez topuna boşalttı. Togan ikinci okunun ucuna bezi bağladı, yaktı ve zincirin bulunduğu yarığa attı. Alev dış yosunu yakmadı. İçeri girip metalin çevresindeki kuru liflere tutundu. Yaratık üç adım sonra çöktü; bu kez yeniden kalkmadı.
 
-Güneş batarken Perren uzun bir kancayla gövdeden paslı bir halka çekti. Yüzeyinde Şafak Kapısı'ndakilere benzeyen üç işaret vardı. Yakınında durmak bile Togan'ın başını ağrıtıyordu.
+Güneş batarken Perren uzun bir kancayla gövdeden paslı bir halka çekti. Yüzeyinde Şafak Kapısı’ndakilere benzeyen üç işaret vardı. Yakınında durmak bile Togan’ın başını ağrıtıyordu.
 
 “Sed bunu dışarı mı attı?” diye sordu.
 
@@ -89,7 +89,7 @@ Togan ölü yığının kıyıya doğru uzanan izine baktı. “O zaman iki aç�
 
 Gece aynı rüya ikisini de aldı.
 
-Togan beyaz odada iskemlenin arkasındaydı. Perren kapının yanında duruyordu. İkisi birbirini görebiliyor ama ses çıkaramıyordu. İskemledeki kişi başını Togan'a çevirdi.
+Togan beyaz odada iskemlenin arkasındaydı. Perren kapının yanında duruyordu. İkisi birbirini görebiliyor ama ses çıkaramıyordu. İskemledeki kişi başını Togan’a çevirdi.
 
 Göğsünün içinde üç ağır vuruş duydu.
 
@@ -105,7 +105,7 @@ Uyandığında Perren de oturmuştu. Burnundan kan geliyordu.
 
 Togan avucunu göğsüne bastırdı. Sed parladığında kalbi onunla birlikte vurdu. Işık söndüğünde bir vuruşu atladı.
 
-Perren, Togan'ın bileğini tutup nabzını saydı. Sonra elini çekti.
+Perren, Togan’ın bileğini tutup nabzını saydı. Sonra elini çekti.
 
 “Bunu kayda geçirmeyeceğim,” dedi.
 
@@ -119,7 +119,7 @@ Togan ayağa kalkmak istediğinde sağ bacağı onu taşımadı. Dizinin üstün
 
 Togan sustu.
 
-Perren'in parmakları bileğinde sıkılaştı. “Beşinci.”
+Perren’in parmakları bileğinde sıkılaştı. “Beşinci.”
 
 Karşısındaki yüz tanıdıktı. Adı, kapalı bir sandığın içinde kalmış gibiydi. Togan sandığın kapağını zorladıkça beyaz oda belirginleşti. Çabalamayı bıraktı. Duvarın dibindeki taş levhaya, adamın eğri parmağıyla attığı çizgilere baktı.
 
@@ -131,9 +131,9 @@ Yaşlı adam nefesini bıraktı. “Ne kadar sürdü?”
 
 Perren levhaya yeni bir çentik açtı. “Yedi nefes.”
 
-Togan, yedi nefes boyunca birlikte yol aldığı adamın adını kaybetmişti. Sed'in ona ne göstereceğini merak etmeyi sürdürüyordu; fakat artık alacağı her cevabın kendisinden bir şey sökebileceğini biliyordu.
+Togan, yedi nefes boyunca birlikte yol aldığı adamın adını kaybetmişti. Sed’in ona ne göstereceğini merak etmeyi sürdürüyordu; fakat artık alacağı her cevabın kendisinden bir şey sökebileceğini biliyordu.
 
-Kılıcını kapıdan uzağa, Perren'in yatağının yanına bıraktı.
+Kılıcını kapıdan uzağa, Perren’in yatağının yanına bıraktı.
 
 “Bunu da yaz,” dedi. “Yarın ben istemesem bile beni durduracaksın.”
 

@@ -9,7 +9,7 @@ Sube, kapı direğine bağlanan işareti getirdi. Kırık bir okun çevresine ka
 
 "Kaya için mesaj," dedi.
 
-Temujin işareti eline aldı. Tüy Fırtına'nın koyu kanatlarından değildi; küçük bir bozkır kartalına aitti. Mesaj Kaya'yı anlatıyor, fakat onun kişisel işaretini kullanmıyordu.
+Temujin işareti eline aldı. Tüy Fırtına’nın koyu kanatlarından değildi; küçük bir bozkır kartalına aitti. Mesaj Kaya’yı anlatıyor, fakat onun kişisel işaretini kullanmıyordu.
 
 Sağ kalan nöbetçilerden biri saldırganların sayısını on beş, diğeri otuz söyledi. Üçüncü nöbetçi karanlıkta yalnız at seslerini duyduğunu kabul etti. Temujin üç rakamdan ortalama çıkarmadı. Görülenleri ve duyulanları ayrı yazdırdı.
 
@@ -27,9 +27,9 @@ Sube avludaki beş örtüye baktı. "Karşılık vermeden mi gömeceğiz?"
 
 "Bugün gömeceğiz. Karşılığı öfkenin seçtiği yolda aramayacağız."
 
-Ölenlerden birinin kardeşi bunu duydu. Temujin'e yürüyüp göğsüne iki eliyle vurdu. Genç Kurt muhafızları adamı çekmeye kalkınca Temujin durdurdu.
+Ölenlerden birinin kardeşi bunu duydu. Temujin’e yürüyüp göğsüne iki eliyle vurdu. Genç Kurt muhafızları adamı çekmeye kalkınca Temujin durdurdu.
 
-"Kaya'yı sen getirdin," dedi adam. "Onlar onun için geldi."
+"Kaya’yı sen getirdin," dedi adam. "Onlar onun için geldi."
 
 "Evet."
 
@@ -53,7 +53,7 @@ Temujin cevap vermeden önce kendi cümlesindeki zayıflığı gördü. Bilmiyor
 
 "Bilmiyorum," dedi. "Kurtarma amacıyla sınırı yokladıklarını düşünüyorum."
 
-Korgan'ın tek gözü daraldı. "Şimdi düşüncelerini mi satın alıyoruz?"
+Korgan’ın tek gözü daraldı. "Şimdi düşüncelerini mi satın alıyoruz?"
 
 "İzler erzak için gelmediklerini gösteriyor. Karakolda kalmadılar, at almadılar, kapıya Kaya işareti bıraktılar."
 
@@ -61,13 +61,13 @@ Batu, "Beş baş alırsak niyetlerini öğrenmemize gerek kalmaz," dedi.
 
 "Sonra onlar beş baş daha alır," dedi Temujin.
 
-Korgan yumruğunu masaya indirdi. "Bir karakol daha kaybedersem Kaya'yı kendi elimle öldürürüm."
+Korgan yumruğunu masaya indirdi. "Bir karakol daha kaybedersem Kaya’yı kendi elimle öldürürüm."
 
 "O zaman ikinci karakolu kaybetmeyeceğiz."
 
 Temujin iki sınır noktasını bir gece geri çekip aralarına sahte erzak kampı kurmayı önerdi. Sungurlar yeniden gelirse kolay hedefi görecek, çevredeki gizli izciler sayılarını ve çekilme yolunu kaydedecekti. Saldırı başlatılmayacak; ikinci pusu doğrulanırsa ana birlik hareket edecekti.
 
-Korgan planı kabul etti. Bu kez Temujin'in başarısından kimse söz etmedi.
+Korgan planı kabul etti. Bu kez Temujin’in başarısından kimse söz etmedi.
 
 ✦
 
@@ -81,9 +81,9 @@ Sube nöbetçi izlerini gerçek kılmak için çadırlar arasında yürüdü. "Y
 
 Temujin kartal tüylü oku hatırladı. "O zaman yanlış soruya tuzak kurmuş oluruz."
 
-Bu olasılığı Korgan'a söylememişti.
+Bu olasılığı Korgan’a söylememişti.
 
-Kaya'nın çadırına gittiğinde beş ölüm haberini saklamadı. Ölenlerin sayısını ve bırakılan işareti anlattı. Kaya yemeğini kenara itti.
+Kaya’nın çadırına gittiğinde beş ölüm haberini saklamadı. Ölenlerin sayısını ve bırakılan işareti anlattı. Kaya yemeğini kenara itti.
 
 "Börü gönderdi mi?" diye sordu Temujin.
 
@@ -95,7 +95,7 @@ Kaya'nın çadırına gittiğinde beş ölüm haberini saklamadı. Ölenlerin sa
 
 Temujin kırık oku önüne koydu. Kaya tüye dokunmadı.
 
-"Fırtına'nın değil," dedi.
+"Fırtına’nın değil," dedi.
 
 "Bunu gördüm."
 
@@ -113,7 +113,7 @@ Temujin sustu.
 
 "Bilmekle davranmak aynı şey değil."
 
-Temujin oku alıp çıktı. Kaya'nın sözü doğru olabilirdi. Kampı hemen kaldırırsa Korgan'a, esirinin tek cümlesiyle plan değiştirdiğini gösterecekti. Bir gece beklemeye karar verdi.
+Temujin oku alıp çıktı. Kaya’nın sözü doğru olabilirdi. Kampı hemen kaldırırsa Korgan’a, esirinin tek cümlesiyle plan değiştirdiğini gösterecekti. Bir gece beklemeye karar verdi.
 
 ✦
 
@@ -129,4 +129,4 @@ Gece Yeva yolunu kesti. Elindeki çatlamış kürek kemiğinde üç çizgi aynı
 
 Sabah izci raporu geldi. Sungurlar sahte kampa yaklaşmamıştı. Kuzey sırtında iki kartal görülmüş, gece yarısından sonra ikisi de batıya dönmüştü. Yemin yerini ve nöbet boşluklarını yukarıdan görmüşlerdi.
 
-Temujin kampın kaldırılmasını emretti. Boş çuvalları yaktırmadı; geri saydırdı. Korgan'a göndereceği raporun ilk satırına bilmediği şeyi yazdı: Kaya'nın kartal ağı komutansız değildi. Kartal tüylü oku kâğıdın üzerine koydu.
+Temujin kampın kaldırılmasını emretti. Boş çuvalları yaktırmadı; geri saydırdı. Korgan’a göndereceği raporun ilk satırına bilmediği şeyi yazdı: Kaya’nın kartal ağı komutansız değildi. Kartal tüylü oku kâğıdın üzerine koydu.

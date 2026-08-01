@@ -1,7 +1,7 @@
 # Bölüm 7 — Gölgenin Uzunluğu
 *(TEMUJİN)*
 
-Orkhon, Temujin'in çadırına harita üzerinde çalıştığı sırada girdi.
+Orkhon, Temujin’in çadırına harita üzerinde çalıştığı sırada girdi.
 
 "Korgan çağırıyor," dedi. "Yalnız."
 
@@ -11,9 +11,9 @@ Temujin kömür parçasını bıraktı. "Batu yok mu?"
 
 Bu, emrin savaştan çok siyasetle ilgili olduğu anlamına gelirdi.
 
-Büyük Savaş Çadırı'na giden yolda Genç Kurt ateşlerinin önünden geçti. Kaya'nın yakalanmasından beri birliğe on iki yeni adam katılmış, üç eski asker Korgan'ın ana ordusuna dönmüştü. Sayı büyüyor, bağlılık aynı biçimde kalmıyordu. Korgan da bunu görüyordu.
+Büyük Savaş Çadırı’na giden yolda Genç Kurt ateşlerinin önünden geçti. Kaya’nın yakalanmasından beri birliğe on iki yeni adam katılmış, üç eski asker Korgan’ın ana ordusuna dönmüştü. Sayı büyüyor, bağlılık aynı biçimde kalmıyordu. Korgan da bunu görüyordu.
 
-Çadırın önünde Temujin'in silahını almadılar. İçeride iki muhafız vardı; yüzleri deri perdelerin gölgesinde kalıyordu. Korgan ayakta bekliyordu. Masadaki haritada Kartal-Yurdu geçidi kırmızı taşlarla çevrilmiş, üç yüz mavi taş geçidin önüne tek sıra dizilmişti.
+Çadırın önünde Temujin’in silahını almadılar. İçeride iki muhafız vardı; yüzleri deri perdelerin gölgesinde kalıyordu. Korgan ayakta bekliyordu. Masadaki haritada Kartal-Yurdu geçidi kırmızı taşlarla çevrilmiş, üç yüz mavi taş geçidin önüne tek sıra dizilmişti.
 
 "Adını fazla duyuyorum, Genç Kurt," dedi Korgan.
 
@@ -59,7 +59,7 @@ Korgan devirdiği taşı masadan itti. Taş keçenin üzerine düştü. "O zaman
 
 Temujin eğilip taşı yerden aldı, eski yerine koydu. "Geçit alınacak."
 
-Korgan'ın ağzı gerildi. "Sadakatin yeteneğin kadar kuvvetliyse bozkır için değerlisin."
+Korgan’ın ağzı gerildi. "Sadakatin yeteneğin kadar kuvvetliyse bozkır için değerlisin."
 
 "Geçit alındığında içerideki siviller?"
 
@@ -77,7 +77,7 @@ Bu onay değildi; açık yasak da değildi. Temujin cümleyi olduğu biçimde al
 
 ✦
 
-Orkhon dışarıda bekliyordu. Emri dinleyince haritayı görmek istedi. İkisi Temujin'in çadırına dönüp geçidin eski avcı çizimlerini, ticaret kervanı notlarını ve Kaya'nın sorgu sırasında sustuğu soruları açtı.
+Orkhon dışarıda bekliyordu. Emri dinleyince haritayı görmek istedi. İkisi Temujin’in çadırına dönüp geçidin eski avcı çizimlerini, ticaret kervanı notlarını ve Kaya’nın sorgu sırasında sustuğu soruları açtı.
 
 "Bu bir infaz," dedi Orkhon.
 
@@ -89,9 +89,9 @@ Temujin kuzey yamacındaki soluk kömür çizgisini tırnağıyla takip etti. "K
 
 "Üç yüz adamı kendi hesabının bedeli yapma."
 
-Bu uyarı Temujin'in elini durdurdu. Korgan onu ölçecekti; geçitte ölecek her akıncı da aynı terazideydi.
+Bu uyarı Temujin’in elini durdurdu. Korgan onu ölçecekti; geçitte ölecek her akıncı da aynı terazideydi.
 
-Sube ile dört birlik başını çağırdı. Haritayı önlerine koyup Korgan'ın emrini sözcüğü sözcüğüne anlattı. Yardım gelmeyeceğini ve üçüncü gün sınırını saklamadı.
+Sube ile dört birlik başını çağırdı. Haritayı önlerine koyup Korgan’ın emrini sözcüğü sözcüğüne anlattı. Yardım gelmeyeceğini ve üçüncü gün sınırını saklamadı.
 
 Bir komutan geçide gece hücum edilmesini, diğeri okçular tükenene kadar kalkan duvarı kurulmasını önerdi. Sube kuzeydeki keçi yolunu gösterdi.
 
@@ -119,11 +119,11 @@ Plan, haritada tamamlanmış görünüyordu. Arazide üç kez bozulmuştu. Bu y�
 
 ✦
 
-Temujin yola çıkmadan önce Kaya'nın çadırına uğradı.
+Temujin yola çıkmadan önce Kaya’nın çadırına uğradı.
 
-"Kartal-Yurdu'na gidiyorum," dedi.
+"Kartal-Yurdu’na gidiyorum," dedi.
 
-Kaya'nın sırtı dikleşti. "Kaç kişi?"
+Kaya’nın sırtı dikleşti. "Kaç kişi?"
 
 "Üç yüz."
 
@@ -139,7 +139,7 @@ Kaya güldü. "Benden klanımı satmamı mı istiyorsun?"
 
 "Hayır. Sorunca neyi koruduğunu görmek istedim."
 
-Kaya'nın bakışı sertleşti. "O hâlde gördün."
+Kaya’nın bakışı sertleşti. "O hâlde gördün."
 
 "Korgan bütün Sungurları düşman saydı. Ben silahlı direnişi hedef alacağım. Geçit açılırsa sivilleri takip etmeyeceğim."
 
@@ -149,7 +149,7 @@ Kaya'nın bakışı sertleşti. "O hâlde gördün."
 
 Kaya bağlarını kaldırdı. "Dönmezsen?"
 
-"Lyra'nın kaydında kalır."
+"Lyra’nın kaydında kalır."
 
 "Kayıt çocukları korumaz."
 
@@ -159,10 +159,10 @@ Kaya bir süre sustu. Geçidin yolunu vermedi. Temujin tekrar sormadı.
 
 Kapıya yürüdüğünde Kaya arkasından seslendi.
 
-"Genç Kurt. Börü'ye rastlarsan ona yaşadığımı söyle."
+"Genç Kurt. Börü’ye rastlarsan ona yaşadığımı söyle."
 
 Temujin başını bir kez eğdi. "Söylerim."
 
 Bu kez söz verdiğini ikisi de biliyordu.
 
-Gece birlik yola çıktığında Korgan'ın armağan ettiği sancak taşınmadı. Her kol kendi işaretini heybesinde tuttu. Temujin, üçüncü günün sonunda geçidi almayı planlıyordu. Ondan önce üç yüz kişiyi aynı emri anlayan bir birliğe dönüştürmesi gerekiyordu.
+Gece birlik yola çıktığında Korgan’ın armağan ettiği sancak taşınmadı. Her kol kendi işaretini heybesinde tuttu. Temujin, üçüncü günün sonunda geçidi almayı planlıyordu. Ondan önce üç yüz kişiyi aynı emri anlayan bir birliğe dönüştürmesi gerekiyordu.

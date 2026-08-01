@@ -21,11 +21,11 @@ Togan demir kılıcı kukladan söküp yere attı, tahta olanı aldı.
 
 Kaya ilk hamleyi beklemedi. Hafifçe sokuldu, Togan’ın sol omzunu yokladı. Togan savuşturmak yerine kılıcını onunkine bindirdi. Tahta şakırtısı boş alanda yankılandı.
 
-“Bu öfke bir Azgut’un işine yarayabilir.” Kaya çekilip yeni bir açı aldı. “Bir Rüzgar-Dinleyen’i ise öldürür.”
+“Bu öfke bir Azgut’un işine yarayabilir.” Kaya çekilip yeni bir açı aldı. “Bir Rüzgâr-Dinleyen’i ise öldürür.”
 
 Togan üstüne yürüdü.
 
-Kaya her darbede yarım adım geri çekiliyor, kılıcın gücünü boşa akıtıyordu. Togan onu sıkıştırdığını sandıkça omuzlarını daha çok açtı. Solukları kısaldı. Avuçlarının içi kabzayı kaydıracak kadar terledi. Kaya’nın yüzündeki sükûnet, vurdukça büyüyen bir hakaret gibi geliyordu.
+Kaya her darbede yarım adım geri çekiliyor, kılıcın gücünü boşa akıtıyordu. Togan onu sıkıştırdığını sandıkça omuzlarını daha çok açtı. Solukları kısaldı. Avuçlarının içi kabzayı kaydıracak kadar terledi. Kaya’nın yüzündeki sükûnet, Togan vurdukça büyüyen bir hakaret gibi geliyordu.
 
 Bütün ağırlığını son darbeye verdi.
 
@@ -43,11 +43,11 @@ Kaya tahta kılıcı yeniden kaldırdı. “Ayağa kalk.”
 
 “Düşmek talimin sonu değil.”
 
-Togan dizinin üstünden kalktı. Bu kez saldırmadı. Kaya çevresinde yarım bir daire çizdi; sağ ayağının ucuyla çamura üç kısa iz bıraktı.
+Togan dizinin üstünden kalktı. Bu kez saldırmadı. Kaya onun çevresinde yarım bir daire çizdi; sağ ayağının ucuyla çamura üç kısa iz bıraktı.
 
 “Birincisi rakibin durduğu yer. İkincisi vuracağını sandığın yer. Üçüncüsü öfkenin seni sürüklediği yer.” Tahta kılıcın ucunu son izin üstüne koydu. “Sen hep üçüncüye basıyorsun.”
 
-Togan kılıcını iki elle tuttu. Kaya omzuna hamle yaptı. Savurduğu darbeyi karşılamak yerine geri çekildi, ayağını onun gösterdiği ilk izin yanına bastı. Kaya’nın kılıcı göğsünün önünden geçti. Togan kabzasıyla onun bileğini yokladı; vurmadan durdu.
+Togan kılıcını iki elle tuttu. Kaya onun omzuna hamle yaptı. Savurduğu darbeyi karşılamak yerine geri çekildi, ayağını onun gösterdiği ilk izin yanına bastı. Kaya’nın kılıcı göğsünün önünden geçti. Togan kabzasıyla onun bileğini yokladı; vurmadan durdu.
 
 Kaya’nın kaşları hafifçe kalktı. “Demek hâlâ duyabiliyorsun.”
 
@@ -81,7 +81,7 @@ Togan kâseyi aldı. Sıcaklık parmaklarını sızlattı. Anya yanındaki küt�
 
 Togan et suyundan bir yudum aldı. “Rüyaymış.”
 
-“Rüyadır.” Anya ateşe doğru uzattığı ellerini çevirdi. “Bu, boş olduğu anlamına gelmez. Bir Rüzgar-Dinleyen gözünü toprağa dikerse yolunu şaşırır. Sen bir yıldır Melira’nın düştüğü yerden başka yere bakmıyorsun.”
+“Rüyadır.” Anya ateşe doğru uzattığı ellerini çevirdi. “Bu, boş olduğu anlamına gelmez. Bir Rüzgâr-Dinleyen gözünü toprağa dikerse yolunu şaşırır. Sen bir yıldır Melira’nın düştüğü yerden başka yere bakmıyorsun.”
 
 İsim, midesindeki sıcaklığı kesti. Kâsenin kenarı parmaklarının arasında gıcırdadı.
 
@@ -177,9 +177,9 @@ Kılıcının kabzasını kavradı. Melira’nın çığlığı, bir yıldır ol
 
 “Bağışlayın beni,” dedi. “Yapamıyorum.”
 
-Hazırladığı heybe yatağının altındaydı. Dört günlük kuru et, iki su tulumu, yedek kiriş, Seren adını henüz bilmediği bir şifacıya yetecek kadar gümüş ve Melira’dan kalan kemik toka. Her parça, bu sabah verilmiş bir karar değil, haftalardır büyütülen bir ihanet olduğunu gösteriyordu.
+Hazırladığı heybe yatağının altındaydı. Dört günlük kuru et, iki su tulumu, yedek kiriş, gerektiğinde bir şifacıya ödeyebileceği kadar gümüş ve Melira’dan kalan kemik toka. Hazırlığın her parçası bunun bu sabah verilmiş bir karar değil, haftalardır büyütülen bir ihanet olduğunu gösteriyordu.
 
-Heybeyi omzuna atıp çadırdan çıktığında nöbetçi eğitimindeki bir çocuk önüne koştu. Elinde çözülmüş bir eyer kayışı vardı.
+Heybeyi omzuna atıp çadırdan çıktığında nöbetçi eğitimi gören bir çocuk önüne koştu. Elinde çözülmüş bir eyer kayışı vardı.
 
 “Togan ağabey, bunu böyle bağlasam tutar mı?”
 
@@ -189,7 +189,7 @@ Togan diz çöktü. Kayışı çocuğun elinden alıp tokadan iki kez geçirdi, 
 
 Çocuk kayışı sınadı. “Doğu hattına mı gidiyorsun?”
 
-Togan’ın doğruyu söylemesi için bir kalp vuruşu vardı. “Kaya’nın sözünü dinle,” dedi yalnızca.
+Togan’ın doğruyu söylemek için bir kalp atımı kadar vakti vardı. “Kaya’nın sözünü dinle,” dedi yalnızca.
 
 Çocuk koşarak uzaklaştı. Togan, onun yanlış anladığı şeyi düzeltmedi.
 

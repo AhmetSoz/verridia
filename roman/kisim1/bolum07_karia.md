@@ -65,8 +65,6 @@ Kelime, tuzlu odada söylenince daha da ağırlaştı.
 
 “Sen ne düşünüyorsun, Karia?”
 
-Bu bir görüş sorusu değildi. Theodoric, önündeki kadının tacı kabul edip etmeyeceğini anlamaya çalışıyordu.
-
 Karia’nın aklına ambar çizelgesi geldi. Çürük iki gemi, eksik Akıntı Tozu, gece vardiyasında çalışacak tersane işçileri. Taç bunların hiçbirini ortadan kaldırmayacaktı; hepsini onun masasına yığacaktı.
 
 “Önce hasadı geçiririz,” dedi. “Sonra Hegemonya’yı taşıyabilecek kişiyi seçersiniz. Taçtan önce, altında kalacak ülkeyi düşünmeliyiz.”
@@ -89,11 +87,11 @@ Batı kanadına ayrılan kavşakta Lord Vorlag ile Sör Valerius konuşuyordu. V
 
 Valerius’un bakışları Karia’nın yüzünde cevap aradı. “Umarım bozkıra karşı kesin bir harekâtın gereğini anlatmışsınızdır. Yumuşaklığın bedelini sınırdaki halk ödüyor.”
 
-“Sizin önerdiğiniz seferin erzak hesabını gördüm,” dedi Karia. “Bedelini önce sınırdaki halkın ödeyeceğinden emin olabilirsiniz.”
+“Sizin önerdiğiniz seferin erzak hesabını gördüm,” dedi Karia. “İlk aç kalacak olan sınırdaki halk.”
 
 Valerius’un çenesi gerildi. “Zaferin bir maliyeti vardır.”
 
-“Hesabını yapmadığınız şey maliyet değil, kumardır.”
+“Sizin hesabınızda kaybedilecek gemiler yok.”
 
 “Rıhtım işçilerinin hesabını iyi bilirsiniz,” dedi Valerius. “Saray soylarınınkini de aynı dikkatle öğrenmeniz gerekebilir.”
 
@@ -107,11 +105,11 @@ Valerius elini kılıcının kabzasına koymadı. Koymayı düşündüğünü sa
 
 “Çağırın, görün.”
 
-Vorlag bastonunun ucunu taş zemine vurdu. “Genç şahinler yüksekten uçmak ister. Biz yaşlılara da dizginlemek düşer.”
+Vorlag bastonunun ucunu taş zemine vurdu. “Sör Valerius bazen acele konuşur.”
 
 Karia, Faelan’ın raporunu hatırladı. Vorlag, Valerius’u dizginlemiyordu. Genç adamın hangi yöne saldıracağını seçiyordu.
 
-“O hâlde ipin elinizden kaymamasına dikkat edin,” dedi.
+“Bazen mi?” dedi Karia.
 
 Yanlarından geçip yürüdü. Arkasında konuşma yeniden başladı; bu kez seslerini daha fazla kısmışlardı.
 

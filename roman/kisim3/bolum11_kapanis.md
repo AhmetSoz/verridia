@@ -11,7 +11,7 @@ Togan kulağını taşa dayadı. Önce kendi kanını işitti. Sonra derinden ge
 
 "Duydum."
 
-Perren çizik duvarındaki son yedi günü gösterdi. Uğultu aralığı her gün biraz kısalmıştı. Şafak Kapısı'nın alt sırasındaki yedi işaretten altısı sönmüştü. Sonuncusu ince bir damar gibi titriyordu.
+Perren çizik duvarındaki son yedi günü gösterdi. Uğultu aralığı her gün biraz kısalmıştı. Şafak Kapısı’nın alt sırasındaki yedi işaretten altısı sönmüştü. Sonuncusu ince bir damar gibi titriyordu.
 
 "Bu gece olabilir," dedi.
 
@@ -19,7 +19,7 @@ Perren çizik duvarındaki son yedi günü gösterdi. Uğultu aralığı her gü
 
 "Bilmiyorum."
 
-Togan bu cevaba artık öfkelenmedi. Sığınağın önündeki güvenlik düzenini üçüncü kez kontrol etti. Belindeki kırmızı ip kapının karşısındaki kaya halkasından geçiyor, öteki ucu Perren'in ellerinde kalıyordu. İpin ortasına iki metal tas asmışlardı; Togan gece yürürse çarpışıp ses çıkaracaktı.
+Togan bu cevaba artık öfkelenmedi. Sığınağın önündeki güvenlik düzenini üçüncü kez kontrol etti. Belindeki kırmızı ip kapının karşısındaki kaya halkasından geçiyor, öteki ucu Perren’in ellerinde kalıyordu. İpin ortasına iki metal tas asmışlardı; Togan gece yürürse çarpışıp ses çıkaracaktı.
 
 Burkut, sığınağın üstündeki kayada duruyordu. Togan kartalı ipe bağlamadı. Duvarın uğultusu artınca uçup gitmeyi seçerse onu burada tutmayacaktı.
 
@@ -27,7 +27,7 @@ Burkut, sığınağın üstündeki kayada duruyordu. Togan kartalı ipe bağlama
 
 "Adınla çağırırım. Sonra su. Sonra ip."
 
-Togan hançerini çıkarıp Perren'e uzattı. "Hiçbiri olmazsa."
+Togan hançerini çıkarıp Perren’e uzattı. "Hiçbiri olmazsa."
 
 Perren hançeri almadı. "Nereye vuracağımı bilmiyorum."
 
@@ -39,9 +39,9 @@ Togan kendi uyluğunun dış yanını gösterdi. Atardamara ve dize uzak yeri k�
 
 Perren hançeri aldı, kılıfıyla birlikte kemerine taktı.
 
-İkisi Şafak Kapısı'na açıkta gitmedi. Sığınağın ağzından ışığı izlediler. Togan defterine uğultu aralıklarını yazdı. Perren her on vuruşta su tasındaki halka sayısını söyledi.
+İkisi Şafak Kapısı’na açıkta gitmedi. Sığınağın ağzından ışığı izlediler. Togan defterine uğultu aralıklarını yazdı. Perren her on vuruşta su tasındaki halka sayısını söyledi.
 
-Gece yarısına yakın Togan'ın sol bileği ısındı. Sed'e dokunmamıştı. Eski yara, derinin altından kırmızı bir çizgiyle parladı. Perren bunu gördü ve saatini kaydetti.
+Gece yarısına yakın Togan’ın sol bileği ısındı. Sed’e dokunmamıştı. Eski yara, derinin altından kırmızı bir çizgiyle parladı. Perren bunu gördü ve saatini kaydetti.
 
 "Acıyor mu?"
 
@@ -53,7 +53,7 @@ Togan ayağa kalktı ama kapıya ilerlemedi. Sığınağın içine iki adım att
 
 Taşın uğultusu birden kesildi.
 
-Sessizlik, önceki sessizliklere benzemiyordu. Togan kendi nefesini bile duymadı. Su tasındaki bütün halkalar aynı anda yok oldu. Şafak Kapısı'nın son işareti söndü.
+Sessizlik, önceki sessizliklere benzemiyordu. Togan kendi nefesini bile duymadı. Su tasındaki bütün halkalar aynı anda yok oldu. Şafak Kapısı’nın son işareti söndü.
 
 Kırmızı ip gerildi.
 
@@ -67,15 +67,15 @@ Togan adını duydu. Beyaz oda gözlerinin önünde açılmadı; ışığın ark
 
 Kendi sesini duyamadı. Perren dudaklarını gördü ve ipi bırakmadı.
 
-Şafak Kapısı'nın iki kanadı arasında saç teli kadar karanlık bir çizgi oluştu.
+Şafak Kapısı’nın iki kanadı arasında saç teli kadar karanlık bir çizgi oluştu.
 
 **Büyük Ordugâh**
 
-Korgan'ın armağan ettiği siyah samur kürkü Temujin'in çadırına gün batımından önce getirildi. Haberci, Genç Kurt'un bütün boyların önünde onurlandırılacağını söyledi.
+Korgan’ın armağan ettiği siyah samur kürkü Temujin’in çadırına gün batımından önce getirildi. Haberci, Genç Kurt’un bütün boyların önünde onurlandırılacağını söyledi.
 
-Kürkün tokası altındı. İç astarında Korgan'ın siyah bizon işareti işlenmişti. Temujin onu giyerse zaferi Han'ın armağanıyla taşıyacaktı. Reddederse herkes Korgan'a meydan okuduğunu görecekti.
+Kürkün tokası altındı. İç astarında Korgan’ın siyah bizon işareti işlenmişti. Temujin onu giyerse zaferi Han’ın armağanıyla taşıyacaktı. Reddederse herkes Korgan’a meydan okuduğunu görecekti.
 
-Temujin üç tüccara ayrı ayrı fiyat sordurdu. En düşük değer bile Kartal-Yurdu'nda ölen on yedi adamın ailelerine iki aylık et sağlıyordu.
+Temujin üç tüccara ayrı ayrı fiyat sordurdu. En düşük değer bile Kartal-Yurdu’nda ölen on yedi adamın ailelerine iki aylık et sağlıyordu.
 
 "Satarsanız hakaret sayılır," dedi Orkhon.
 
@@ -83,9 +83,9 @@ Temujin üç tüccara ayrı ayrı fiyat sordurdu. En düşük değer bile Kartal
 
 "Hayır. Ama bu gece giyip yarın satabilirsin."
 
-Temujin bu yolu seçti. Kürkü törene kadar omzuna aldı; satış kararını tören başlamadan deftere yazdı. Masada Kartal-Yurdu'nda ölen on yedi kişinin adı duruyordu.
+Temujin bu yolu seçti. Kürkü törene kadar omzuna aldı; satış kararını tören başlamadan deftere yazdı. Masada Kartal-Yurdu’nda ölen on yedi kişinin adı duruyordu.
 
-Korgan'ın büyük ateşi çevresinde boy sancakları dikildi. Temujin çağrıldığında davullar üç kez vurdu. Han, geçidin alındığını ve Genç Kurt'un bozkıra hizmet ettiğini duyurdu. Börü'nün sağ bırakıldığını söylemedi.
+Korgan’ın büyük ateşi çevresinde boy sancakları dikildi. Temujin çağrıldığında davullar üç kez vurdu. Han, geçidin alındığını ve Genç Kurt’un bozkıra hizmet ettiğini duyurdu. Börü’nün sağ bırakıldığını söylemedi.
 
 Kürkün altın tokasını kendi eliyle kapattı.
 
@@ -105,17 +105,17 @@ Korgan tek gözünü ona çevirdi. "Armağanımı mı satıyorsun?"
 
 "Bu gece onurunuzla taşıyorum. Yarın zaferin bedeline çeviriyorum."
 
-Kalabalık Korgan'ın cevabını bekledi. Han armağanı geri isterse on yedi ailenin önünde bunu yapacaktı.
+Kalabalık Korgan’ın cevabını bekledi. Han armağanı geri isterse on yedi ailenin önünde bunu yapacaktı.
 
 "Daha yüksek fiyata sat," dedi Korgan.
 
 Bu izin, dostluk değildi. Korgan öfkesini törenin dışında tutmuştu. Temujin başını eğdi.
 
-Kaya, bağlı tutulduğu çadırda davul ritmini ve isimleri duydu. Fırtına her adda tüneğinde hareket etti. Börü'nün yaşadığını biliyordu; kendi ölülerinin adlarını bilmiyordu. Tören bittiğinde Temujin'in ondan saklayamayacağı ilk soru bu olacaktı.
+Kaya, bağlı tutulduğu çadırda davul ritmini ve isimleri duydu. Fırtına her adda tüneğinde hareket etti. Börü’nün yaşadığını biliyordu; kendi ölülerinin adlarını bilmiyordu. Tören bittiğinde Temujin’in ondan saklayamayacağı ilk soru bu olacaktı.
 
 **Metheris**
 
-Karia, Valerius'un şehir kapısından çıktığına ilişkin raporu mühürledi. Ardından önündeki erzak çizelgesine döndü.
+Karia, Valerius’un şehir kapısından çıktığına ilişkin raporu mühürledi. Ardından önündeki erzak çizelgesine döndü.
 
 Kızıl Hafta için ayrılan tahıl, sarayın istediği üç şölene yetiyor; aşağı mahallelerin üç günlük payını karşılamıyordu. Saray görevlisi şölenlerin Gelgit Vârisi ilanını ve Hasat başlangıcını birlikte kutlayacağını söyledi.
 
@@ -127,13 +127,13 @@ Saray kaleminin üstünü çizdi.
 
 "Şölen iptal."
 
-Görevli tereddüt etti. "Gelenek sayılır, Leydi'm."
+Görevli tereddüt etti. "Gelenek sayılır, Leydi’m."
 
 "Açlık da öyle. Birini değiştirelim."
 
 "Kral onayladı mı?"
 
-Karia bu sorunun haklı olduğunu kabul etti. Gelgit Vârisi olmuştu; Kral yaşarken hazineyi tek başına yönetemezdi. Emri Theodoric'e götürdü. Kral çizelgeyi okudu, şarap payının yarısını hastane ve nöbetçi gemilere ayırdı. Şölen iptalini kendi mührüyle onayladı.
+Karia bu sorunun haklı olduğunu kabul etti. Gelgit Vârisi olmuştu; Kral yaşarken hazineyi tek başına yönetemezdi. Emri Theodoric’e götürdü. Kral çizelgeyi okudu, şarap payının yarısını hastane ve nöbetçi gemilere ayırdı. Şölen iptalini kendi mührüyle onayladı.
 
 "Bunu senin kararın diye anlatacaklar," dedi.
 
@@ -141,17 +141,17 @@ Karia bu sorunun haklı olduğunu kabul etti. Gelgit Vârisi olmuştu; Kral yaş
 
 Fırınlara dağıtılacak miktar aynı gün yazıldı. Karia kendi hanesinin mutfak hesabını da ötekilerin yanına astırdı.
 
-Kuzey Feneri'nin nöbetini iki katına çıkardı. Liman zincirini bir kez kapatıp açtırdı; paslanan iki halka değiştirildi. Ardından kralın odasına çıkan merdivenin başında tek duran muhafızı görevden almadı, yanına ikinci kişiyi koydu. Valerius gitmişti; Vorlag hâlâ saraydaydı.
+Kuzey Feneri’nin nöbetini iki katına çıkardı. Liman zincirini bir kez kapatıp açtırdı; paslanan iki halka değiştirildi. Ardından kralın odasına çıkan merdivenin başında tek duran muhafızı görevden almadı, yanına ikinci kişiyi koydu. Valerius gitmişti; Vorlag hâlâ saraydaydı.
 
 Gün batımında deniz beklenenden hızlı çekilmeye başladı. Liman çanı olağandışı gelgiti haber verdi. Rıhtımdaki tekneler halatlarında yana yattı, yosun çizgisi taş duvarın altına indi.
 
-Karia Kuzey Feneri'ne çıktığında ufukta Kızıl Sürü, yıldızlardan daha parlak görünüyordu. Başhekim koşarak geldi; Theodoric'in nabzı hızlanmıştı. Aynı anda Hasat gözcüleri ilk kızıl yosun kümelerinin kıyıya vurduğunu bildirdi.
+Karia Kuzey Feneri’ne çıktığında ufukta Kızıl Sürü, yıldızlardan daha parlak görünüyordu. Başhekim koşarak geldi; Theodoric’in nabzı hızlanmıştı. Aynı anda Hasat gözcüleri ilk kızıl yosun kümelerinin kıyıya vurduğunu bildirdi.
 
-Karia iki haberi tek emirde birleştirmedi. Hekim Kral'a, fener subayı kıyı kayıtlarına gitti. Kendisi liman savunma odasına indi.
+Karia iki haberi tek emirde birleştirmedi. Hekim Kral’a, fener subayı kıyı kayıtlarına gitti. Kendisi liman savunma odasına indi.
 
 **Yamalı Liman**
 
-Su, gece yarısından önce yüzlerce adım geri çekildi. Gemiler çamura oturdu. Kazıkların arasında Paslı Gelgit'e ait kırmızı lifler kaldı; bazıları su olmadan da kıpırdıyordu.
+Su, gece yarısından önce yüzlerce adım geri çekildi. Gemiler çamura oturdu. Kazıkların arasında Paslı Gelgit’e ait kırmızı lifler kaldı; bazıları su olmadan da kıpırdıyordu.
 
 Zaleena kaptanlara bölüklerini verdi: Draven dış iskeleleri, Kessel cephaneliği, Sorin haber teknelerini, Finn sığ su kurtarma kollarını yönetecekti. Emirler yirmi nüsha hâlinde dağıtıldı.
 
@@ -159,9 +159,9 @@ Konseyden iki kişi, deniz çekildiğine göre yaratıkların geri gelemeyeceği
 
 "Çamurun altında da olabilirler. Dış düzlüğe kimse inmeyecek."
 
-Bir yağmacı grubu geri çekilen suyun bıraktığı metal parçalarına koştu. Finn'in adamları onları halatla çevrili sınırda durdurdu. İlk kez bir Enkaz gecesinde kıyıya vuran mal sahipsiz sayılmadı; savunma alanı ilan edildi.
+Bir yağmacı grubu geri çekilen suyun bıraktığı metal parçalarına koştu. Finn’in adamları onları halatla çevrili sınırda durdurdu. İlk kez bir Enkaz gecesinde kıyıya vuran mal sahipsiz sayılmadı; savunma alanı ilan edildi.
 
-Roric dip kamarasının kapısında oturuyordu. Üç kişilik kurul, sırrın açıklanmasını Kızıl Hafta sonuna kadar ertelemişti. Zaleena'nın ilk saklama kararı yine de kapalı kayıtta duruyordu.
+Roric dip kamarasının kapısında oturuyordu. Üç kişilik kurul, sırrın açıklanmasını Kızıl Hafta sonuna kadar ertelemişti. Zaleena’nın ilk saklama kararı yine de kapalı kayıtta duruyordu.
 
 "Su bu kadar çekildiğinde geri dönüş sert olur," dedi Roric. "Gemileri tek halatta bırakma."
 
@@ -179,7 +179,7 @@ Kızıl lif numunesi hâlâ kapalı kavanozdaydı. Zaleena onu cephanelikten ç�
 
 Uzakta, görünmeyen suyun içinden binlerce kabuğun birbirine sürtünmesine benzeyen bir ses geldi. Nöbetçiler mangalları yaktı. Bu kez hiçbiri ateşi zafer işareti sanmıyordu.
 
-Kızıl Sürü göğü değil, çekilmiş suyun üstündeki ıslak çamuru aydınlattı. İlk dalga dönmeden Şafak Kapısı'nda karanlık bir çizgi açılmış, Büyük Ordugâh'ta on yedi ad okunmuş, Metheris'in şölen unu fırınlara gönderilmişti.
+Kızıl Sürü göğü değil, çekilmiş suyun üstündeki ıslak çamuru aydınlattı. İlk dalga dönmeden Şafak Kapısı’nda karanlık bir çizgi açılmış, Büyük Ordugâh’ta on yedi ad okunmuş, Metheris’in şölen unu fırınlara gönderilmişti.
 
 Gece, gün olmadan kızardı.
 

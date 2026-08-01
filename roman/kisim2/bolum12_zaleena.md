@@ -5,7 +5,7 @@
 
 Sekiz gemilik filodan kopmuş, ana direğini kaybetmişti. Güvertesinde ayakta kalanlar yaralılardan azdı. Liman ağzında işaret vermeye çalıştılar; kopmuş halat yüzünden sancak yarıya kadar yükselip yeniden düştü.
 
-Zaleena kuzey gözcüsünün çanıyla uyandı. İskeleye vardığında Kessel'in iki küçük teknesi hasarlı geminin iki yanına girmişti. Tayfalar kürekleri elleriyle çekiyor, kıyıdakiler halatla yön veriyordu.
+Zaleena kuzey gözcüsünün çanıyla uyandı. İskeleye vardığında Kessel’in iki küçük teknesi hasarlı geminin iki yanına girmişti. Tayfalar kürekleri elleriyle çekiyor, kıyıdakiler halatla yön veriyordu.
 
 "Yaralı rıhtımı boşaltın," dedi Zaleena. "Önce yürüyemeyenler. Sonra su alan bölüm. Yük en son."
 
@@ -13,7 +13,7 @@ Geminin kaptanı bordadan inerken dizlerinin üstüne çöktü. Kolundaki sargı
 
 "Diğerleri?"
 
-"İki gemi battı. Biri teslim oldu. Kalanlar dağıldı." Adam konuşurken başını her top sesinde çevirmiş gibi kasılıyordu. "Roric'in kıçı parçalandı. Sis içinde kaybettik. Gemisi yanıyordu."
+"İki gemi battı. Biri teslim oldu. Kalanlar dağıldı." Adam konuşurken başını her top sesinde çevirmiş gibi kasılıyordu. "Roric’in kıçı parçalandı. Sis içinde kaybettik. Gemisi yanıyordu."
 
 "Cesedini gördün mü?"
 
@@ -35,15 +35,15 @@ Zaleena okunabilen adları ayrı listeye, bozulmuş satırları ayrı listeye ya
 
 Öğleye kadar iki küçük tekne daha geldi. Biri filoya ait değildi; denizde bulduğu altı kazazedeyi getirmişti. Roric aralarında yoktu.
 
-Meyhanede Roric'in öldüğü, balık pazarında Hegemonya'ya esir düştüğü, güney iskelesinde adamlarını satıp kaçtığı anlatılıyordu. Her söylenti, anlatıldığı masada biraz daha kesinleşiyordu.
+Meyhanede Roric’in öldüğü, balık pazarında Hegemonya’ya esir düştüğü, güney iskelesinde adamlarını satıp kaçtığı anlatılıyordu. Her söylenti, anlatıldığı masada biraz daha kesinleşiyordu.
 
 Akşam olmadan iki kaptan Enkaz Tahtı üzerinde hak iddia etti.
 
-Çatlak Kurukafa'daki ilk tartışma, kimin daha çok gemi payına sahip olduğu üzerine başladı. Sonra yaşa, savaş sayısına ve Roric'le akrabalığa döndü. Kaptanlardan biri bıçağını masaya sapladı. Öteki kendi bıçağını çekince çevrelerindeki tayfalar ayağa kalktı.
+Çatlak Kurukafa’daki ilk tartışma, kimin daha çok gemi payına sahip olduğu üzerine başladı. Sonra yaşa, savaş sayısına ve Roric’le akrabalığa döndü. Kaptanlardan biri bıçağını masaya sapladı. Öteki kendi bıçağını çekince çevrelerindeki tayfalar ayağa kalktı.
 
 Zaleena pirinç çanı aldı ve üç kez vurdu. Gürültü hemen kesilmedi. Kessel arka duvardan ayrılıp kapının önünde durunca dışarıdan silahlı adam girmesi zorlaştı.
 
-"Roric'in öldüğünü bilmiyoruz," dedi Zaleena.
+"Roric’in öldüğünü bilmiyoruz," dedi Zaleena.
 
 "Dönmedi," diye bağırdı kaptanlardan biri. "Taht boş."
 
@@ -51,7 +51,7 @@ Zaleena pirinç çanı aldı ve üç kez vurdu. Gürültü hemen kesilmedi. Kess
 
 "Liman lidersiz mi kalacak?"
 
-Zaleena önündeki kâğıdı açtı. Roric'in dönüşüne, ölümünün doğrulanmasına veya otuz günlük kayıp süresinin dolmasına kadar savunma ile erzak Kaptanlar Konseyi'nin denetiminde kalacaktı.
+Zaleena önündeki kâğıdı açtı. Roric’in dönüşüne, ölümünün doğrulanmasına veya otuz günlük kayıp süresinin dolmasına kadar savunma ile erzak Kaptanlar Konseyi’nin denetiminde kalacaktı.
 
 "Kim uygulayacak?" diye sordu bir kaptan.
 
@@ -65,13 +65,13 @@ Kessel öne çıktı. "Roric dönmezse?"
 
 Zaleena cevabı ilk kez herkesin önünde verdi. "Kaptanlar Konseyi toplanır. Yeni lider düelloyla değil, oyla seçilir."
 
-İtirazlar birbirine karıştı. Bazıları Roric'in tahta düelloyla oturduğunu, bazıları eski enkaz yasasının kan istediğini söyledi. Zaleena çanı yeniden vurmadı. Herkes konuşup nefesini tüketene kadar bekledi.
+İtirazlar birbirine karıştı. Bazıları Roric’in tahta düelloyla oturduğunu, bazıları eski enkaz yasasının kan istediğini söyledi. Zaleena çanı yeniden vurmadı. Herkes konuşup nefesini tüketene kadar bekledi.
 
-"Roric'in hatası acele etmekti," dedi sessizlik oluşunca. "Onun yerine geçmek isteyen, ilk işi olarak aynı hatayı yapmasın."
+"Roric’in hatası acele etmekti," dedi sessizlik oluşunca. "Onun yerine geçmek isteyen, ilk işi olarak aynı hatayı yapmasın."
 
 Bıçak çeken kaptan hâlâ ayaktaydı. "Oylamayı sen yönetirsen kendine taht hazırlarsın."
 
-"Geçici düzende Enkaz Tahtı'nın yetkileri kullanılmayacak. Ben de tek başıma gemi payı kesemeyeceğim."
+"Geçici düzende Enkaz Tahtı’nın yetkileri kullanılmayacak. Ben de tek başıma gemi payı kesemeyeceğim."
 
 Kessel elini kaldırdı. "Geçici düzen için oy veriyorum."
 
@@ -85,13 +85,13 @@ Gemiye dönerken Sorin yanında yürüdü. "Tahta bir adım kaldı."
 
 "Boşalmasını bekliyorsun."
 
-Zaleena durdu. "Roric'in sağ dönmesini istiyorum. Yönetme biçiminin dönmesini istemiyorum. İkisini ayır."
+Zaleena durdu. "Roric’in sağ dönmesini istiyorum. Yönetme biçiminin dönmesini istemiyorum. İkisini ayır."
 
 Sorin başını eğdi. "Bayrak meselesi?"
 
 "Önce limanı sabaha çıkaralım."
 
-O gece güney iskelesindeki bir kaptan, kendi yaralılarını sıranın önüne almak istedi. Nöbetçi reddedince adam iki silahlı tayfayla rıhtıma yürüdü. Geçici kurul kurayla seçildi; Kessel, genç bir balıkçı kaptanı ve Roric'e sadık yaşlı bir kaptan aynı karara vardı. Adamın bir günlük liman payı kesildi, yaralıları sıradaki yerini korudu.
+O gece güney iskelesindeki bir kaptan, kendi yaralılarını sıranın önüne almak istedi. Nöbetçi reddedince adam iki silahlı tayfayla rıhtıma yürüdü. Geçici kurul kurayla seçildi; Kessel, genç bir balıkçı kaptanı ve Roric’e sadık yaşlı bir kaptan aynı karara vardı. Adamın bir günlük liman payı kesildi, yaralıları sıradaki yerini korudu.
 
 Ceza gerçekten uygulanınca ikinci bir kaptan denemedi.
 

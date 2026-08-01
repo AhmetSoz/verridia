@@ -1,11 +1,11 @@
 # Bölüm 14 — Ölü Toprakların Eşiği
 *(TOGAN)*
 
-Metheris'ten sonra tarlalar üç gün içinde seyreldi. Önce taş duvarlar bitti, sonra çitler. Beşinci gün Togan son ağacı arkasında bıraktı.
+Metheris’ten sonra tarlalar üç gün içinde seyreldi. Önce taş duvarlar bitti, sonra çitler. Beşinci gün Togan son ağacı arkasında bıraktı.
 
 Toprak kahverengiden griye döndü. Otlar birden kaybolmadı; her fersahta daha kısa ve daha sert çıktılar. Son kökten sonra yolun iki yanında yalnız rüzgârın sürüklediği ince kül kaldı. Taş anıtlar çoğalırken teker izleri azaldı.
 
-Burkut av bulamıyordu. İlk gün uzun süre gökte kaldı ve boş pençelerle döndü. İkinci gün kanatlarını yarım saat açtıktan sonra yeniden Togan'ın omzuna indi. Togan kuru et payını ikiye böldü, büyük parçayı ona verdi.
+Burkut av bulamıyordu. İlk gün uzun süre gökte kaldı ve boş pençelerle döndü. İkinci gün kanatlarını yarım saat açtıktan sonra yeniden Togan’ın omzuna indi. Togan kuru et payını ikiye böldü, büyük parçayı ona verdi.
 
 "Bunu alışkanlık etme," dedi.
 
@@ -25,11 +25,11 @@ Orada birinin oturması gerektiğini biliyordu.
 
 Kimin olduğunu hatırlayamıyordu.
 
-İskemlenin arkasında beş gölge belirdi. Yüzleri yoktu. İçlerinden biri elini kaldırdı ve Togan'ın çocukken kullandığı adı söyledi. O adı Kaya ile Anya dışında bilen kimse kalmamıştı.
+İskemlenin arkasında beş gölge belirdi. Yüzleri yoktu. İçlerinden biri elini kaldırdı ve Togan’ın çocukken kullandığı adı söyledi. O adı Kaya ile Anya dışında bilen kimse kalmamıştı.
 
 Togan öne atılmaya çalıştı. Beyaz zemin ayaklarını tuttu.
 
-Uyandığında eli göğsündeydi. Kalbi uğultunun ritmiyle atıyordu. Burkut kanatlarını yarı açmış, yüzüne bakıyordu. Togan kendi adını, Kaya'nın adını ve Melira'nın adını yüksek sesle söyledi. Üçü de yerindeydi.
+Uyandığında eli göğsündeydi. Kalbi uğultunun ritmiyle atıyordu. Burkut kanatlarını yarı açmış, yüzüne bakıyordu. Togan kendi adını, Kaya’nın adını ve Melira’nın adını yüksek sesle söyledi. Üçü de yerindeydi.
 
 Rüya gün doğunca dağılmadı.
 
@@ -45,7 +45,7 @@ Rüzgâr konuşmalarını ona getirdi.
 
 "Hiçbirimiz yaklaşamıyoruz. Kapı kimi isterse o oturacak."
 
-Togan'ın ensesi ürperdi.
+Togan’ın ensesi ürperdi.
 
 Beş yolcu da aynı anda arkasına döndü. Togan saklanmadı. Aralarında yirmi adım bırakarak yola çıktı.
 
@@ -63,7 +63,7 @@ Kadın acıyan ayağını unuttu, bir adım öne çıktı. "İskemleyi gördün 
 
 "Hayır."
 
-Adamın yüzü gevşedi. Togan'ı bir tehdit değil, beklediği kanıt gibi görmeye başlamıştı. Bu, çekilmiş bir kılıçtan daha çok rahatsız etti.
+Adamın yüzü gevşedi. Togan’ı bir tehdit değil, beklediği kanıt gibi görmeye başlamıştı. Bu, çekilmiş bir kılıçtan daha çok rahatsız etti.
 
 Yolcular altı gecedir aynı rüyayı gördüklerini anlattı. Biri kuzeyde bir kapının açılacağına, biri boş iskemlenin eski bir kralı beklediğine inanıyordu. Kadın ise hiçbir yorum yapmıyor, yalnız uğultunun her gece güçlendiğini söylüyordu.
 
@@ -75,13 +75,13 @@ Adamın sopayı tutan parmakları sıkıldı. "O zaman neden gösteriyor?"
 
 Togan bu sorunun cevabını bilmiyordu. Bilmemesi, karşısındaki adamın cevabını doğru yapmıyordu.
 
-Kadının ayağındaki bez koyulaşmıştı. Togan mesafeyi kapatıp yarayı görmek için izin istedi. Topuğunda patlamış bir su kabarcığı iltihaplanmıştı. Seren'in merheminden kalan son parçayı çıkardı, temiz bezle sardı.
+Kadının ayağındaki bez koyulaşmıştı. Togan mesafeyi kapatıp yarayı görmek için izin istedi. Topuğunda patlamış bir su kabarcığı iltihaplanmıştı. Seren’in merheminden kalan son parçayı çıkardı, temiz bezle sardı.
 
 "Bunu kendine saklamalıydın," dedi kadın.
 
 "Benim ayağım açık değil."
 
-Öndeki adam, Togan'ın bileğindeki Sungur örgüsünü gördü. "Bozkırdan mı çağrıldın?"
+Öndeki adam, Togan’ın bileğindeki Sungur örgüsünü gördü. "Bozkırdan mı çağrıldın?"
 
 "Yola çıktığımda bu rüyayı görmüyordum."
 
@@ -97,7 +97,7 @@ Adam daha çok soru sormak istedi. Togan su tulumunu kapatıp ayağa kalktı. Be
 
 "Akşama kadar aynı yolu kullanacağız," dedi. "Sonra ayrılacağım."
 
-Yolcular bunu kabul etti. Beraber yürüdükleri saatlerde Togan, rüyaların ilk kez nerede başladığını sordu. Beşi de farklı yer söyledi; ortak olan yalnız Beklenti Yılı'nın başladığı geceydi. İçlerinden biri iskemlenin altında kızıl su gördüğünü, öteki tavanda kanat sesi duyduğunu anlattı. Togan kendi görmediği ayrıntıları ödünç almadı.
+Yolcular bunu kabul etti. Beraber yürüdükleri saatlerde Togan, rüyaların ilk kez nerede başladığını sordu. Beşi de farklı yer söyledi; ortak olan yalnız Beklenti Yılı’nın başladığı geceydi. İçlerinden biri iskemlenin altında kızıl su gördüğünü, öteki tavanda kanat sesi duyduğunu anlattı. Togan kendi görmediği ayrıntıları ödünç almadı.
 
 Gün batımında yolcular anıtların doğusuna, kuzeydoğudaki eski bir hac patikasına saptı. Togan ana yolda kaldı. Ayağı sarılı kadın ona bir avuç kurutulmuş kök verdi. Öndeki adam son kez birlikte gelmesini istedi.
 
@@ -111,13 +111,13 @@ Beş gölge kül düzlüğünde küçüldü. Togan onların peşinden gitmedi.
 
 İkinci gece beyaz oda geri geldi. İskemle bir adım daha yakındı. Bu kez arkasındaki gölgeler yoktu. Oturağın üstünde küçük, koyu bir leke bulunuyordu. Togan onun kan mı, pas mı olduğunu seçemedi.
 
-Uğultu başladığında Melira'nın yüzünü hatırlamaya çalıştı. Önce saçını, sonra ellerini buldu. Gözleri birkaç nefes boyunca gelmedi. Togan rüyada bağırdı.
+Uğultu başladığında Melira’nın yüzünü hatırlamaya çalıştı. Önce saçını, sonra ellerini buldu. Gözleri birkaç nefes boyunca gelmedi. Togan rüyada bağırdı.
 
-Uyandığında ağzında kül tadı vardı. Melira'nın gözlerini hatırlıyordu. Su tulumundan bir yudum aldı ve rüyanın gördürdüğüyle kendi belleğinin arasına çizgi çekmek için defterine üç cümle yazdı: Beyaz oda. Boş iskemle. Koyu leke.
+Uyandığında ağzında kül tadı vardı. Melira’nın gözlerini hatırlıyordu. Su tulumundan bir yudum aldı ve rüyanın gördürdüğüyle kendi belleğinin arasına çizgi çekmek için defterine üç cümle yazdı: Beyaz oda. Boş iskemle. Koyu leke.
 
 Yorum yazmadı.
 
-Şafaktan önce kuzey ufkunda soluk altın bir çizgi belirdi. Güneş doğuda kalmıştı; ışık ise zemine yakın, düz ve kesintisiz uzanıyordu. Burkut taşın üstüne çıkıp tüylerini kabarttı. Togan'ın yaralı omzunun altındaki eski sızı, soğukta olduğu gibi derinleşti.
+Şafaktan önce kuzey ufkunda soluk altın bir çizgi belirdi. Güneş doğuda kalmıştı; ışık ise zemine yakın, düz ve kesintisiz uzanıyordu. Burkut taşın üstüne çıkıp tüylerini kabarttı. Togan’ın yaralı omzunun altındaki eski sızı, soğukta olduğu gibi derinleşti.
 
 Işık Seddi.
 

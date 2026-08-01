@@ -29,11 +29,11 @@ Korgan’ın planına doğrudan karşı çıkmak, planın kendisinden daha tehli
 
 Korgan ona döndü. “Konuş.”
 
-“Sungurların gücü savaşçı sayıları değil. Rüzgar-Dinleyenler, her geçitte ve tepede kartal uçuruyor. Ana ordu ilerlemeden önce gözetleme noktalarını kırarsak Börü, darbeyi nereden indireceğinizi bilemez.”
+“Sungurların gücü savaşçı sayıları değil. Rüzgâr-Dinleyenler, her geçitte ve tepede kartal uçuruyor. Ana ordu ilerlemeden önce gözetleme noktalarını kırarsak Börü, darbeyi nereden indireceğinizi bilemez.”
 
 Batu güldü. “Kartalları mı kovalayacaksın?”
 
-“Kartallar geri dönecek yuva bulamazsa kovalamaya gerek kalmaz.” Temujin haritada üç yüksekliği işaret etti. “Dört yüz kadar Rüzgar-Dinleyen var. Hepsine saldırmayız. Haber zincirinin boğumlarını keseriz. Küçük bir kol hızlı girer, kuleleri kullanılmaz hâle getirir ve ana ordu yürüyene kadar ortadan kaybolur.”
+“Kartallar geri dönecek yuva bulamazsa kovalamaya gerek kalmaz.” Temujin haritada üç yüksekliği işaret etti. “Dört yüz kadar Rüzgâr-Dinleyen var. Hepsine saldırmayız. Haber zincirinin boğumlarını keseriz. Küçük bir kol hızlı girer, kuleleri kullanılmaz hâle getirir ve ana ordu yürüyene kadar ortadan kaybolur.”
 
 Orkhon taşları yeni düzene göre ayırdı. “Kartal Kayası düşerse batı hattı bir gün kör kalır. İkinci nokta iki gün daha kazandırır.”
 
@@ -46,8 +46,6 @@ Korgan kalın parmağıyla Kartal Kayası’nın üstündeki taşı itti. Temuji
 “Elli kişi. Bir tane fazla değil.” Korgan öne eğildi. Eski yara, meşale ışığında göz çukurunu daha da derin gösterdi. “Başarısız olursan kaybettiğim yalnız sen olacaksın. Başarırsan zafer yine benim olacak.”
 
 Temujin başını eğdi. “Zafer Han’ındır.”
-
-Bunu söylerken masadaki herkesin hangi kelimeye inandığını ayrı ayrı kaydetti.
 
 Korgan, Kartal Kayası’nın üstüne beyaz bir tüy bıraktı. “Oradaki Dinleyenlerin başında Kaya var.”
 
@@ -72,8 +70,6 @@ Temujin tüyü haritada bıraktı. “Anlaşıldı.”
 Sube sonuncusunda duraksadı. “Yaralılarımız için mi?”
 
 “Kimin yaralanacağını bilmiyoruz.”
-
-Temujin, Korgan’ın emrindeki boşluğu ilk kez orada kendi lehine çevirdi. Kadını getir demişti. Nasıl getirileceğini söylememişti.
 
 ✦
 

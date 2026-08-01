@@ -1,11 +1,11 @@
 # Bölüm 3 — Kuzey Kapısı’nın Sahibi
 *(KARIA)*
 
-Lord Aldous Severin'in konağında aile portrelerinden çok kayıp eşyası vardı. Girişte kırılmış bir Hasat kancası, duvarlarda tuzla aşınmış miğferler ve üst kata çıkan merdivenin başında yarısı yanmış bir sancak sergileniyordu. Kabul odasının büyük duvarı iki haritaya ayrılmıştı. Birinde kuzey seferleri, ötekinde geçmiş Hasat sırasında kaybolan birlikler işaretlenmişti.
+Lord Aldous Severin’in konağında aile portrelerinden çok kayıp eşyası vardı. Girişte kırılmış bir Hasat kancası, duvarlarda tuzla aşınmış miğferler ve üst kata çıkan merdivenin başında yarısı yanmış bir sancak sergileniyordu. Kabul odasının büyük duvarı iki haritaya ayrılmıştı. Birinde kuzey seferleri, ötekinde geçmiş Hasat sırasında kaybolan birlikler işaretlenmişti.
 
-Karia ikinci haritadaki tek gümüş iğneyi tanıdı. Severin'in adı açıklanmayan oğlu, Hasat'ın dördüncü gecesi görev yerinden dönmemişti. Onu Prens Aldric'le karıştıran halk hikâyeleri çıkmış, saray bu söylentileri birkaç kez düzeltmek zorunda kalmıştı. Aldric on iki yıl önce kuzeyde kaybolmuştu. Severin'in oğlu başka bir yılda, başka bir görevde ve başka bir babanın yasını bırakmıştı.
+Karia ikinci haritadaki tek gümüş iğneyi tanıdı. Severin’in adı açıklanmayan oğlu, Hasat’ın dördüncü gecesi görev yerinden dönmemişti. Onu Prens Aldric’le karıştıran halk hikâyeleri çıkmış, saray bu söylentileri birkaç kez düzeltmek zorunda kalmıştı. Aldric on iki yıl önce kuzeyde kaybolmuştu. Severin’in oğlu başka bir yılda, başka bir görevde ve başka bir babanın yasını bırakmıştı.
 
-Karia'nın habersiz gelişi Severin'i sabahlığıyla yakalamıştı. Lord yine de hizmetçileri çıkardı, kapıyı kendi eliyle kapattı.
+Karia’nın habersiz gelişi Severin’i sabahlığıyla yakalamıştı. Lord yine de hizmetçileri çıkardı, kapıyı kendi eliyle kapattı.
 
 "Beklenmedik bir ziyaret, Amiral."
 
@@ -13,7 +13,7 @@ Karia'nın habersiz gelişi Severin'i sabahlığıyla yakalamıştı. Lord yine 
 
 Karia oturmadı. Masaya önce Ak-Siper raporunu, sonra kırık sandıktan çıkarılan ok ucunu bıraktı. Son olarak dingildeki Severin işaretinin kömür kopyasını açtı.
 
-"Üç hafta önce dört arabanız Kuzey Sefer Yolu'ndan ayrıldı. Ak-Siper eteklerinde boş bulundu. Hegemonya yapımı ok uçları doğuya taşınmış. Nal izleri Azgut toprağına gidiyor."
+"Üç hafta önce dört arabanız Kuzey Sefer Yolu’ndan ayrıldı. Ak-Siper eteklerinde boş bulundu. Hegemonya yapımı ok uçları doğuya taşınmış. Nal izleri Azgut toprağına gidiyor."
 
 Severin ok ucunu eline almadı. Bakışı bir kez gümüş iğneye kaydı.
 
@@ -33,7 +33,7 @@ Bu kadar hızlı gelen cevap, hazırlanmış bir yalandan daha kuşkuluydu.
 
 "Parayı kim verdi?"
 
-Severin bu kez Karia'ya baktı. "Ben."
+Severin bu kez Karia’ya baktı. "Ben."
 
 Karia masanın kenarındaki çağrı ipini gördü. Konağın muhafızları iki kapı ötedeydi. Severin kaçmayı düşünse onu burada durduracak yalnız iki deniz piyadesi vardı. Lord ise ipi çekmedi.
 
@@ -63,7 +63,7 @@ Severin cevap vermeden önce pencereye yürüdü. Aşağıdaki avluda iki yük a
 
 "Sattığınız silahların yalnız savaşçılara doğrulacağı."
 
-Severin'in çenesi gerildi. "Savaşta temiz hedef yoktur."
+Severin’in çenesi gerildi. "Savaşta temiz hedef yoktur."
 
 "Bu yüzden savaş çıkarmak daha hafif bir suç olmuyor."
 
@@ -75,11 +75,11 @@ Severin bir süre gümüş iğneyi seyretti. "Her gece düşündüm."
 
 "Evet."
 
-Bu itiraf, kanıtın işini kolaylaştırmıyordu. Karia dosyayı o gün Konsey'e götürürse Severin tutuklanacak, hanesi kuzey kapılarını kapatacak ve Vorlag soruşturmayı Karia'nın yetki gaspı gibi sunacaktı. Hasat hazırlığı sürerken üç ambar ile iki kıyı birliği lordsuz kalabilirdi. Dosyayı saklarsa Severin bir sevkiyat daha çıkarabilirdi.
+Bu itiraf, kanıtın işini kolaylaştırmıyordu. Karia dosyayı o gün Konsey’e götürürse Severin tutuklanacak, hanesi kuzey kapılarını kapatacak ve Vorlag soruşturmayı Karia’nın yetki gaspı gibi sunacaktı. Hasat hazırlığı sürerken üç ambar ile iki kıyı birliği lordsuz kalabilirdi. Dosyayı saklarsa Severin bir sevkiyat daha çıkarabilirdi.
 
 "Kervan kâtibinizi çağırın," dedi.
 
-Severin çağrı ipini çekti. Kâtip geldiğinde Karia onu odada bekleyen Faelan'la karşılaştırdı. Faelan konağa hizmet kapısından girmiş, son yarım saati ticaret defterlerinin yerini bulmakla geçirmişti. Kâtibin elleri iki adamı aynı odada görünce titremeye başladı.
+Severin çağrı ipini çekti. Kâtip geldiğinde Karia onu odada bekleyen Faelan’la karşılaştırdı. Faelan konağa hizmet kapısından girmiş, son yarım saati ticaret defterlerinin yerini bulmakla geçirmişti. Kâtibin elleri iki adamı aynı odada görünce titremeye başladı.
 
 "Dört araba için çıkış emrini kim yazdı?" diye sordu Faelan.
 
@@ -87,7 +87,7 @@ Severin çağrı ipini çekti. Kâtip geldiğinde Karia onu odada bekleyen Faela
 
 "Yükü kim mühürledi?"
 
-Kâtip Severin'e baktı. Lord yardım etmedi.
+Kâtip Severin’e baktı. Lord yardım etmedi.
 
 "Ben."
 
@@ -97,15 +97,15 @@ Kâtip Severin'e baktı. Lord yardım etmedi.
 
 Faelan bu son bilgiyi kayda geçirdi. Karia, kâtibin aynı ifadeyi bir saray yazmanı ile bir liman yargıcı önünde tekrarlamasını emretti. Adam o gece görevden alınacak, fakat ortadan kaybolamayacağı bir konuk odasında tutulacaktı.
 
-"Beni Konsey'e verecek misiniz?" diye sordu Severin.
+"Beni Konsey’e verecek misiniz?" diye sordu Severin.
 
 "Dosyanızı bugün yedi lordun önüne koymayacağım. Bu, serbest kaldığınız anlamına gelmiyor."
 
-Karia, Severin'in ticaret defterlerini bağımsız denetime açtı. Kuzey depolarından yeni bir sandık çıkarsa dosya aynı gün Konsey'e gidecekti.
+Karia, Severin’in ticaret defterlerini bağımsız denetime açtı. Kuzey depolarından yeni bir sandık çıkarsa dosya aynı gün Konsey’e gidecekti.
 
-Severin'in omuzları indi. "Teşekkür ederim."
+Severin’in omuzları indi. "Teşekkür ederim."
 
-"Bana teşekkür etmeyin. Bugün tutuklanmamanızın sebebi masumiyetiniz değil, kapılarınıza bağlı insanların yaklaşan Hasat'ta aç kalmaması. Bu süreyi bağışlanma sanarsanız ilk tanığım ben olurum."
+"Bana teşekkür etmeyin. Bugün tutuklanmamanızın sebebi masumiyetiniz değil, kapılarınıza bağlı insanların yaklaşan Hasat’ta aç kalmaması. Bu süreyi bağışlanma sanarsanız ilk tanığım ben olurum."
 
 Kapıya vardığında Severin arkasından seslendi.
 
@@ -117,7 +117,7 @@ Karia durdu. Sorunun dürüst mü, yoksa ortak suç arayan bir tuzak mı olduğu
 
 ✦
 
-Konaktan limana inerken rıhtım girişinde kalabalık gördü. Doğudan gelen bir ticaret gemisinin tayfası, Yetim Kıyıları'nda zırhlı yaratıkların balıkçı teknelerine saldırdığını anlatıyordu.
+Konaktan limana inerken rıhtım girişinde kalabalık gördü. Doğudan gelen bir ticaret gemisinin tayfası, Yetim Kıyıları’nda zırhlı yaratıkların balıkçı teknelerine saldırdığını anlatıyordu.
 
 "Sürü hâlinde," dedi tayfalardan biri. "Karaya da çıkıyorlarmış."
 
@@ -131,7 +131,7 @@ Faelan konağın yokuşundan yetişti. Elindeki küçük defteri ceketine saklad
 
 "Dedi. Kanıtlamadı."
 
-"Severin'i bugün alabilirdik."
+"Severin’i bugün alabilirdik."
 
 "Alırdık. Sonra Vorlag onun ambarlarını kendi adamlarına verirdi."
 

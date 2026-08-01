@@ -29,7 +29,7 @@ Togan bir süre daha bekledi. Hegemonya’nın kralı ölmek üzere olabilirdi. 
 
 Atlıların ardından yola döndüğünde kuzey geçidindeki demir parmaklıkların indirildiğini gördü. Bir düzine yolcu duvarın önünde bekliyor, muhafızlar arabaları tek tek arıyordu. Kapının üstündeki yeni kâğıtta bozkır işareti taşıyanların sorguya alınacağı yazılıydı. Togan sözcüklerin hepsini okuyamadı; çizilmiş Sungur kanadı yeterince açıktı.
 
-Burkut'u şehrin üstündeki kayalıklara gönderdi. Kartal yükselirken bir muhafız gölgeyi fark etti.
+Burkut’u şehrin üstündeki kayalıklara gönderdi. Kartal yükselirken bir muhafız gölgeyi fark etti.
 
 "Kuzey kartalı!" diye bağırdı.
 
@@ -37,7 +37,7 @@ Kapıdaki dört kişi yaylarına davrandı. Burkut duvarın üstünden geçmedi,
 
 Togan çiftlik duvarından çıkıp batıdaki eski taş ocağına koştu. Yağmur suyu için açılmış bir kanalın şehir yolunun altından geçtiğini daha önce görmüştü. Kanal diz boyu çamurla doluydu ve demir ızgarasının iki çubuğu eğilmişti.
 
-Kılıcını çıkardı. Demir paslıydı ama insan eliyle dövülmüş sıradan metaldi; Akıntı'nın değişikliğini taşımıyordu. Kabzanın ucunu araya sokup bütün ağırlığıyla bastı. Izgara bir parmak açıldı. İkinci bastırışta omzundaki eski yara çekildi, eli uyuştu.
+Kılıcını çıkardı. Demir paslıydı ama insan eliyle dövülmüş sıradan metaldi; Akıntı’nın değişikliğini taşımıyordu. Kabzanın ucunu araya sokup bütün ağırlığıyla bastı. Izgara bir parmak açıldı. İkinci bastırışta omzundaki eski yara çekildi, eli uyuştu.
 
 Atlıların nal sesleri taş ocağının üstünden geçti. Togan nefesini tutup üçüncü kez yüklendi. Çubuk yerinden çıkınca boşluk omuzlarının geçeceği kadar büyüdü. Çantasını önden itti, kendini çamurlu kanala soktu.
 
@@ -91,4 +91,4 @@ Melira’yı mı, Kaya’yı mı kastettiğini ayırmadı.
 
 Elini taştan çekip yola girdi. Burkut önden uçtu; Kuzey Feneri’nin ışığı sisin arkasında kaybolana kadar Togan dönüp bakmadı.
 
-Omzundaki ağrı gece bastırınca sargıyı yeniledi. Izgarayı iterken yara yeniden açılmıştı. Kan azdı, fakat kolunu başının üstüne kaldırınca parmakları titriyordu. Erzakını, bezini ve önündeki anıtları saydı. Yol, Metheris'in duvarlarından kurtulmuştu; Togan'ın bedeni o duvardan aldığı payı taşımaya devam ediyordu.
+Omzundaki ağrı gece bastırınca sargıyı yeniledi. Izgarayı iterken yara yeniden açılmıştı. Kan azdı, fakat kolunu başının üstüne kaldırınca parmakları titriyordu. Erzakını, bezini ve önündeki anıtları saydı. Yol, Metheris’in duvarlarından kurtulmuştu; Togan’ın bedeni o duvardan aldığı payı taşımaya devam ediyordu.

@@ -1,9 +1,9 @@
 # Bölüm 4 — Yedi Lordun Önünde
 *(KARIA)*
 
-Karia, Gelgit Konseyi Salonu'na çağrıldığında gündem kâğıdında yalnız iki kelime vardı: veraset düzeni.
+Karia, Gelgit Konseyi Salonu’na çağrıldığında gündem kâğıdında yalnız iki kelime vardı: veraset düzeni.
 
-Faelan onu kapının dışında bekliyordu. Drennar ile Calder'ın aynı arabada geldiğini, Vorlag'ın Valerius'la sabah görüştüğünü ve Severin'in konağından iki kapalı sandık çıktığını söyledi.
+Faelan onu kapının dışında bekliyordu. Drennar ile Calder’ın aynı arabada geldiğini, Vorlag’ın Valerius’la sabah görüştüğünü ve Severin’in konağından iki kapalı sandık çıktığını söyledi.
 
 "Oyları saydın mı?" diye sordu Karia.
 
@@ -13,7 +13,7 @@ Faelan onu kapının dışında bekliyordu. Drennar ile Calder'ın aynı arabada
 
 "Hayır. Kararın ne olduğunu bilmiyorum."
 
-Karia da bilmiyordu. Kral, hastalık nöbetinden sonra halef tartışmasını iptal etmişti. Şimdi aynı meseleyi kendi iradesiyle açıyordu. Bu, ölümünün yaklaştığını düşündüğünü veya Konsey'in bir daha onun yatağının başında toplanmasına izin vermeyeceğini gösteriyordu.
+Karia da bilmiyordu. Kral, hastalık nöbetinden sonra halef tartışmasını iptal etmişti. Şimdi aynı meseleyi kendi iradesiyle açıyordu. Bu, ölümünün yaklaştığını düşündüğünü veya Konsey’in bir daha onun yatağının başında toplanmasına izin vermeyeceğini gösteriyordu.
 
 "İçeride kal," dedi Faelan.
 
@@ -29,13 +29,13 @@ Faelan itiraz etmedi. Karia salona yalnız girdi.
 
 Yedi koltuğun hepsi doluydu.
 
-Drennar önündeki kâğıtları sıraya diziyordu. Leydi Maros mendilini iki avucunda buruşturmuştu. Hallis ve Calder konuşmayı kesti. Severin, Karia'yla göz göze gelmedi. Vorlag rahat görünüyordu. Lord-Vekil Bren, duvara asılmış bir gölge kadar sessizdi.
+Drennar önündeki kâğıtları sıraya diziyordu. Leydi Maros mendilini iki avucunda buruşturmuştu. Hallis ve Calder konuşmayı kesti. Severin, Karia’yla göz göze gelmedi. Vorlag rahat görünüyordu. Lord-Vekil Bren, duvara asılmış bir gölge kadar sessizdi.
 
 Kral Theodoric baş koltukta oturuyordu. Hastalığı yanaklarını çökertmişti. Önünde hekimlerin hazırladığı koyu renkli bir şişe vardı; dokunmamıştı. Başhekim yan odada bekliyordu. Masanın kenarında süreyi ölçen küçük kum saati akıyordu.
 
 "Başlayalım," dedi Kral.
 
-Kapılar kapandı. Yazman tüy kalemini kaldırdı. Önce Fatih Valerius'un vasiyetindeki Gelgit Vârisi maddesi okundu. Hüküm, kan bağı zorunluluğu getirmiyordu. Yaşayan hükümdar aday gösterecek, yedi üyeli Konsey salt çoğunlukla onaylayacak ve seçilen kişi kral ölünceye kadar mevcut görevini sürdürecekti. Vârisin hükümdarlık yetkisi olmayacak, yalnız geçiş planlarına erişecekti.
+Kapılar kapandı. Yazman tüy kalemini kaldırdı. Önce Fatih Valerius’un vasiyetindeki Gelgit Vârisi maddesi okundu. Hüküm, kan bağı zorunluluğu getirmiyordu. Yaşayan hükümdar aday gösterecek, yedi üyeli Konsey salt çoğunlukla onaylayacak ve seçilen kişi kral ölünceye kadar mevcut görevini sürdürecekti. Vârisin hükümdarlık yetkisi olmayacak, yalnız geçiş planlarına erişecekti.
 
 Karia metni daha önce okumuştu. Salonda yüksek sesle duyulduğunda her cümlenin başka bir ağırlığı vardı.
 
@@ -43,7 +43,7 @@ Karia metni daha önce okumuştu. Salonda yüksek sesle duyulduğunda her cümle
 
 Karia bunu kralın ağzından ilk kez duyuyordu. Kendisini hazırlayacak bir nefes bile bulamadan yan kapı açıldı. Sör Valerius, kralın izniyle beklediği bölmeden çıktı.
 
-"İtiraz ediyorum." Yumruğunu göğsüne vurdu. "Fatih'in kanı bende."
+"İtiraz ediyorum." Yumruğunu göğsüne vurdu. "Fatih’in kanı bende."
 
 Theodoric kum saatine baktı. "Sana itirazını söylemen için yer verdim. Salonun üyesi değilsin."
 
@@ -67,11 +67,11 @@ Calder, "Kıtlık çıkarsa?" dedi.
 
 "Hasat payları taçtan önce dağıtılır. Saray tüketimi son sıraya iner."
 
-Hallis, donanmanın Karia'ya kişisel sadakat taşıdığını söyledi. Bunun diğer haneler için tehdit olup olmayacağını sordu.
+Hallis, donanmanın Karia’ya kişisel sadakat taşıdığını söyledi. Bunun diğer haneler için tehdit olup olmayacağını sordu.
 
 "Filo emri mevcut deniz yasasından alır," dedi Karia. "Bana bağlılık yemini ettirmeyeceğim. Tahta geçersem amirallikten çekilir, Konseyin onaylayacağı yeni komutana teslim ederim."
 
-Bu cevap Karia'nın en güçlü dayanağını kendi elinden alıyordu. Drennar önündeki kâğıda ilk kez not düştü.
+Bu cevap Karia’nın en güçlü dayanağını kendi elinden alıyordu. Drennar önündeki kâğıda ilk kez not düştü.
 
 Maros mendilini bıraktı. "Bir filoyu yönettin. Kara hanelerinden kaçını yönettin?"
 
@@ -89,7 +89,7 @@ Vorlag parmağıyla masaya vurdu. "İyi bir amiral iyi bir hükümdar demek değ
 
 Severin sonunda başını kaldırdı. "Beni denetim altında tutan kişi, vâris olduğunda dosyamı kendi lehine kullanmayacağını nasıl gösterecek?"
 
-Karia onun bu soruyu sormaya hakkı olduğunu kabul etti. "Dosyanın bir nüshası Kral'ın özel arşivinde. Ben görevden alınsam da kalacak. Vârislik o dosyanın delilini büyütmez veya küçültmez. İsterseniz soruşturma gözetimine bugün üçüncü bir Konsey üyesi ekleyin."
+Karia onun bu soruyu sormaya hakkı olduğunu kabul etti. "Dosyanın bir nüshası Kral’ın özel arşivinde. Ben görevden alınsam da kalacak. Vârislik o dosyanın delilini büyütmez veya küçültmez. İsterseniz soruşturma gözetimine bugün üçüncü bir Konsey üyesi ekleyin."
 
 Calder bu görevi üstlenmeyi teklif etti. Severin teşekkür etmedi; itirazını da sürdürmedi.
 
@@ -97,11 +97,11 @@ Lord-Vekil Bren ilk kez konuştu. "Kral ölmeden önce Karia ölürse?"
 
 "Madde yeniden işletilir," dedi Theodoric. "Taç bir ölüye bağlanmaz."
 
-Valerius, "Fatih'in soyunu yok sayıyorsunuz," dedi.
+Valerius, "Fatih’in soyunu yok sayıyorsunuz," dedi.
 
-Kralın sesi bu kez sertleşti. "Fatih'in vasiyetini senin istediğin biçimde okumadığım için soyunu yok saymıyorum. Sözünü bitirdin."
+Kralın sesi bu kez sertleşti. "Fatih’in vasiyetini senin istediğin biçimde okumadığım için soyunu yok saymıyorum. Sözünü bitirdin."
 
-Valerius Karia'ya döndü. "Tahta giden yol uzundur, Amiral. Bazıları sonuna varamaz."
+Valerius Karia’ya döndü. "Tahta giden yol uzundur, Amiral. Bazıları sonuna varamaz."
 
 Karia yazmana baktı. Adamın kalemi kâğıdın üstünde bekliyordu.
 
@@ -123,7 +123,7 @@ Vorlag, devletin bir savaş komutanına teslim edilemeyeceğini söyledi ve kar�
 
 Dört kabul, üç ret.
 
-Yazman sonucu okudu. Theodoric, Gelgit Vârisi kararını mühürledi. Karia'nın önüne ayrıca üç yükümlülük koyuldu: geçiş planı altmış gün içinde tamamlanacak, amirallik devri için üç aday hazırlanacak ve vârislik adına hiçbir kişisel yemin alınmayacaktı.
+Yazman sonucu okudu. Theodoric, Gelgit Vârisi kararını mühürledi. Karia’nın önüne ayrıca üç yükümlülük koyuldu: geçiş planı altmış gün içinde tamamlanacak, amirallik devri için üç aday hazırlanacak ve vârislik adına hiçbir kişisel yemin alınmayacaktı.
 
 Karia üçünü de imzaladı.
 
@@ -133,7 +133,7 @@ Konsey dağıldığında Vorlag kapıda bekledi. "Tebrik ederim, Leydi Karia. Ar
 
 Vorlag gülümsedi ve gitti.
 
-Faelan içeri girdiğinde ilk olarak Valerius'un tehdidini sordu. Karia yazmanın nüshasını ona verdi.
+Faelan içeri girdiğinde ilk olarak Valerius’un tehdidini sordu. Karia yazmanın nüshasını ona verdi.
 
 "Bu gece adamlarını izle. Yakalama emri yok. Yalnız kimlerle görüştüğünü kaydet."
 
@@ -145,7 +145,7 @@ Faelan bu ayrımı sevmedi. Emri aldı.
 
 ✦
 
-Karia salonda Kral'la yalnız kaldı. Theodoric sonunda koyu şişeyi eline aldı. İlk yudumda yüzü buruştu.
+Karia salonda Kral’la yalnız kaldı. Theodoric sonunda koyu şişeyi eline aldı. İlk yudumda yüzü buruştu.
 
 "Bunu kabul edeceğini biliyordum," dedi.
 

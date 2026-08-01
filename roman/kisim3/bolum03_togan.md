@@ -5,7 +5,7 @@ Togan tepeye çıktığında kuzey ufku ortadan kalktı.
 
 Onun yerinde, yerden göğe uzanan solgun bir ışık duruyordu. Taştan değildi. Sis gibi kıpırdıyor ama rüzgârla dağılmıyordu. Bakışını bir noktaya sabitleyince içeride altın damarlar yürüyor, sonra ansızın sönüyordu. Duvar sağda ve solda görüşün dışına kadar uzanıyor, üst sınırı göğün beyazlığında kayboluyordu.
 
-Burkut pençelerini Togan'ın omuzluğuna geçirdi. Kanadı iyileşmişti; yine de uçmayı seçmedi. Başını tüylerinin arasına saklamadı, ışığa bakmayı da reddetti. Bir gözünü kapatıp yana çevirdi.
+Burkut pençelerini Togan’ın omuzluğuna geçirdi. Kanadı iyileşmişti; yine de uçmayı seçmedi. Başını tüylerinin arasına saklamadı, ışığa bakmayı da reddetti. Bir gözünü kapatıp yana çevirdi.
 
 "Geldik," dedi Togan.
 
@@ -13,17 +13,17 @@ Bunu söyleyince dizlerinin bağı çözüldü. Bir yıldır taşıdığı yol, 
 
 Duvar gerçekti.
 
-Melira'yı geri getirebilecek şey de gerçek olabilirdi.
+Melira’yı geri getirebilecek şey de gerçek olabilirdi.
 
 Ya da bu, yolun ona söylediği son yalandı.
 
-Togan çantasından defterini çıkardı. Parıltıyı gördüğü saati, yönü ve Burkut'un tepkisini yazdı. El yazısı ilk satırda titredi. İkinci satırda düzeldi. Duygusunu kanıt sanmamak için gördüğü şeyi sözcüklere ayırdı.
+Togan çantasından defterini çıkardı. Parıltıyı gördüğü saati, yönü ve Burkut’un tepkisini yazdı. El yazısı ilk satırda titredi. İkinci satırda düzeldi. Duygusunu kanıt sanmamak için gördüğü şeyi sözcüklere ayırdı.
 
 ✦
 
 Işığa yaklaştıkça dünya sustu. Önce böcekler kesildi. Sonra rüzgâr. Togan kendi nefesini, kılıç kayışını ve çizmeleri altında ezilen gri kabuğu duymaya başladı. Sessizlik tam değildi; uzaklarda dişlerinin içinden geliyormuş gibi ince bir uğultu bulunuyordu.
 
-İlk yarım fersahta iki kez durdu. Su içti, Burkut'u yere indirdi ve geri dönüp dönemeyeceğini sınamak için otuz adım güneye yürüdü. Görünmez bir engel yoktu. Ayakları geri gidebiliyordu. Bu ayrıntı, ilerlemeyi kendi seçimi olarak tuttu.
+İlk yarım fersahta iki kez durdu. Su içti, Burkut’u yere indirdi ve geri dönüp dönemeyeceğini sınamak için otuz adım güneye yürüdü. Görünmez bir engel yoktu. Ayakları geri gidebiliyordu. Bu ayrıntı, ilerlemeyi kendi seçimi olarak tuttu.
 
 Terk edilmiş kampı sessizliğin içinde buldu. Üç çadır direği eğilmişti. Kazanın dibinde taşlaşmış yağ, ocağın yanında kırık bir su kabı vardı. Çadır bezlerinin çoğu sökülüp götürülmüştü. Kalan düğümler aceleyle değil, soğuktan sertleşmiş ellerle kesilmiş gibiydi.
 
@@ -31,7 +31,7 @@ Togan çevrede ceset aradı. Taş yığınlarını tek tek yokladı; mezar işar
 
 Bir bez parçasının altında tahta bir kartal buldu. Kanatlarından biri kırıktı. Oyuncağı yapan el, gagayı gereğinden uzun yontmuştu.
 
-Togan başparmağını kırık kanadın üzerinde gezdirdi. Küçükken tahta atını her gece döşeğinin yanına koyardı. Bir sabah atın ayağı kırılınca bütün oba arasa yenisini bulamayacakmış gibi ağlamıştı. Anya Ana ayağı tutkalla onarmış, kuruyana kadar Togan'ı ocağın başında oyalamıştı.
+Togan başparmağını kırık kanadın üzerinde gezdirdi. Küçükken tahta atını her gece döşeğinin yanına koyardı. Bir sabah atın ayağı kırılınca bütün oba arasa yenisini bulamayacakmış gibi ağlamıştı. Anya Ana ayağı tutkalla onarmış, kuruyana kadar Togan’ı ocağın başında oyalamıştı.
 
 Oyuncağın altındaki tahtada iki çentik vardı. Bir tarih olabilir, yalnız sahibinin işareti de olabilirdi. Togan onu yanına almadı. Ocağın kenarına dik olarak bıraktı ve çevresini üç küçük taşla destekledi. Kampın sahibini bilmiyordu. Oyuncağın yüzüstü kalmasına razı olmaması, onu kendisinin yapmıyordu.
 
@@ -39,7 +39,7 @@ Kampın öte yanında yarısı dolu bir erzak çukuru buldu. İçindeki kuru kö
 
 ✦
 
-Duvara yarım fersah kaldığında Şafak Kapısı seçildi. İki uzun kanat, ışığın içinde daha yoğun bir beyazlıkla yükseliyordu. Yüzeyindeki işaretler yer değiştirdikçe Togan'ın gözleri sızladı. Bir işareti takip etmeye çalıştığında başı dönüyor, şekil bakışının kenarında başka bir yere kayıyordu.
+Duvara yarım fersah kaldığında Şafak Kapısı seçildi. İki uzun kanat, ışığın içinde daha yoğun bir beyazlıkla yükseliyordu. Yüzeyindeki işaretler yer değiştirdikçe Togan’ın gözleri sızladı. Bir işareti takip etmeye çalıştığında başı dönüyor, şekil bakışının kenarında başka bir yere kayıyordu.
 
 Burkut omzundan indi ve gerideki taşa kondu. Togan onu çağırmadı. Kartalın kendi mesafesini seçmesine izin verdi.
 
@@ -63,7 +63,7 @@ Togan kılıcını yarıya kadar çekip döndü. Kayaların arasından uzun saka
 
 "Yaklaşma."
 
-Yabancı durdu. Togan'ın kılıcına, Burkut'a ve yerde bıraktığı izlere sırayla baktı.
+Yabancı durdu. Togan’ın kılıcına, Burkut’a ve yerde bıraktığı izlere sırayla baktı.
 
 "Tek gelmişsin," dedi. "Bu iyi değil."
 
@@ -73,11 +73,11 @@ Yabancı durdu. Togan'ın kılıcına, Burkut'a ve yerde bıraktığı izlere s�
 
 Togan bu cümleyi acıma daveti saymadı. "Kimsin?"
 
-"Perren. Bir zamanlar Metheris'te yazı okurdum. Şimdi taşların ne zaman uğuldadığını dinliyorum."
+"Perren. Bir zamanlar Metheris’te yazı okurdum. Şimdi taşların ne zaman uğuldadığını dinliyorum."
 
 "Kapıyı açmayı biliyor musun?"
 
-Perren'in yüzündeki kırışıklıklar derinleşti. "Bilseydim burada on bir yıl geçirmezdim."
+Perren’in yüzündeki kırışıklıklar derinleşti. "Bilseydim burada on bir yıl geçirmezdim."
 
 "Kapıya kaç kişi girdi?"
 
@@ -85,7 +85,7 @@ Perren'in yüzündeki kırışıklıklar derinleşti. "Bilseydim burada on bir y
 
 "Kamptakiler?"
 
-Perren, Togan'ın geldiği yöne baktı. "Benden önce kurulmuştu. Son kalanları dokuz yıl önce gördüm. Bir gece kuzeye yürüdüler. Sabah izleri kapının önünde bitti."
+Perren, Togan’ın geldiği yöne baktı. "Benden önce kurulmuştu. Son kalanları dokuz yıl önce gördüm. Bir gece kuzeye yürüdüler. Sabah izleri kapının önünde bitti."
 
 "Öldüler mi?"
 
@@ -95,7 +95,7 @@ Togan kılıcını indirmedi. Bu cevap, yabancıya güvenmesini sağlamadı; yal
 
 Perren geri dönüp iki adım attı. "Gece bastırınca açıkta kalma. Beyaz odayı ilk kez tek başına görürsen uyanamayabilirsin."
 
-Togan'ın eli kabzada sıkılaştı. "Odayı nereden biliyorsun?"
+Togan’ın eli kabzada sıkılaştı. "Odayı nereden biliyorsun?"
 
 Perren bu kez arkasına baktı. "İskemle bazen kapıya dönük oluyor, bazen duvara. Uğultu göğsünün içinde başlıyor. İşte bunu ateşin yanında konuşuruz."
 
@@ -105,8 +105,8 @@ Togan rüyayı ona anlatmamıştı. Yol boyunca karşılaştığı beş kişi an
 
 Perren mızrağını ters çevirip sivri ucunu aşağı tuttu. "Sığınağın kapısında ikinci silah var. Onu da sana veririm."
 
-Burkut, Perren'in gittiği yöne bakıyordu. Bir süre sonra Togan da peşinden yürüdü. Aralarında on adım bıraktı. Şafak Kapısı arkasında kalmadı; ışığı her taşın kenarında görünüyordu.
+Burkut, Perren’in gittiği yöne bakıyordu. Bir süre sonra Togan da peşinden yürüdü. Aralarında on adım bıraktı. Şafak Kapısı arkasında kalmadı; ışığı her taşın kenarında görünüyordu.
 
-Sığınağa vardıklarında Togan önce içeri girmedi. Burkut'u girişin üstüne gönderdi, çevredeki ayak izlerini saydı ve Perren'in sözünü ettiği ikinci bıçağı aldı. Sonra ateşin karşısına, çıkış yolunu görebileceği yere oturdu.
+Sığınağa vardıklarında Togan önce içeri girmedi. Burkut’u girişin üstüne gönderdi, çevredeki ayak izlerini saydı ve Perren’in sözünü ettiği ikinci bıçağı aldı. Sonra ateşin karşısına, çıkış yolunu görebileceği yere oturdu.
 
 Duvar gerçekti. Perren de gerçekti. İkisinin ne anlama geldiğini aynı gece çözmek zorunda değildi.

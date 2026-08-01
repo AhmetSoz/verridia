@@ -1,17 +1,17 @@
 # Bölüm 1 — Kıyıya Vuran Gurur
 *(ZALEENA)*
 
-Balıkçı, gece yarısından az önce *Deniz Hayaleti*'ne çıktı. Ağlarını, sepetlerini ve yardım isteyen ailesini kıyıda bırakmıştı. Böyle bir adam ancak taşıdığı haberden korkarsa eli boş gelirdi.
+Balıkçı, gece yarısından az önce *Deniz Hayaleti*’ne çıktı. Ağlarını, sepetlerini ve yardım isteyen ailesini kıyıda bırakmıştı. Böyle bir adam ancak taşıdığı haberden korkarsa eli boş gelirdi.
 
 Güverteye ayak basınca arkasına iki kez baktı. Zaleena onu kaptan kamarasına değil, baş taraftaki açık çalışma masasına götürdü. Sorin masada kaldı; konuşmanın tek tanığa dönüşmesini istemiyordu.
 
-"Fısıltı Yolu'nun güneyinde bir sandal bulduk," dedi balıkçı. "Kayaya bindirmiş. İçinde iki adam vardı. Biri ölüydü. Öteki..."
+"Fısıltı Yolu’nun güneyinde bir sandal bulduk," dedi balıkçı. "Kayaya bindirmiş. İçinde iki adam vardı. Biri ölüydü. Öteki..."
 
 Adam sağ elini bileğinin üzerinde yumruk yaptı.
 
 "Kancasından tanıdım. Roric."
 
-Sorin'in kalemi kâğıdın üstünde durdu. Limanda Roric'in ölümünü bekleyen iki aday, dönmesini isteyen sekiz kaptan ve akıbetini bilmeden yas tutan yüzlerce tayfa ailesi vardı. Tek bir isim, hepsini aynı gece harekete geçirebilirdi.
+Sorin’in kalemi kâğıdın üstünde durdu. Limanda Roric’in ölümünü bekleyen iki aday, dönmesini isteyen sekiz kaptan ve akıbetini bilmeden yas tutan yüzlerce tayfa ailesi vardı. Tek bir isim, hepsini aynı gece harekete geçirebilirdi.
 
 "Sandalı kim gördü?" diye sordu Zaleena.
 
@@ -21,7 +21,7 @@ Sorin'in kalemi kâğıdın üstünde durdu. Limanda Roric'in ölümünü bekley
 
 "Kıyıda iki ağcı vardı. Mağaraya girmediler."
 
-Zaleena Sorin'e döndü. "Ağcıların adlarını al. Onlara yalan söyleme. Kayalıkta yaralı bir denizci bulunduğunu, kimliğinin doğrulanmadığını söyle."
+Zaleena Sorin’e döndü. "Ağcıların adlarını al. Onlara yalan söyleme. Kayalıkta yaralı bir denizci bulunduğunu, kimliğinin doğrulanmadığını söyle."
 
 Balıkçı, "Kimliği belli," dedi.
 
@@ -29,11 +29,11 @@ Balıkçı, "Kimliği belli," dedi.
 
 Kemerinden üç gümüş çıkarıp adamın avucuna koydu. "Bunun biri sandalına. Biri bu gece kaybettiğin avına. Sonuncusu, Konsey sorana kadar kimliği yaymaman için."
 
-Balıkçı paraya değil Zaleena'ya baktı. "Borcum yok sana, Kaptan."
+Balıkçı paraya değil Zaleena’ya baktı. "Borcum yok sana, Kaptan."
 
 "O hâlde bunu borç sayma. Limanın birbirini bıçaklamadan sabaha çıkması için yaptığın işin payı say. İstersen reddet; o zaman seni burada tutmayacağım."
 
-Adam parmaklarını kapatmadan önce Sorin'in tutanağına baktı. "Adım orada kalacak mı?"
+Adam parmaklarını kapatmadan önce Sorin’in tutanağına baktı. "Adım orada kalacak mı?"
 
 "Evet."
 
@@ -47,7 +47,7 @@ Mağaranın ağzı denizden ince bir yarık gibi görünüyordu. Zaleena, Sorin 
 
 Roric, kayaya serilmiş bir yelken bezinin üstünde yatıyordu. Yüzünün solu kabuk bağlamış yanıklarla kaplıydı. Eski kancasından geriye deri kayışlar ve bezlere sarılmış bir bilek kalmıştı. Birkaç adım ötede yatan denizcinin üstü örtülmüştü.
 
-Zaleena önce ölü adama gitti. Boynundaki tahta kimlik parçasını bulup Sorin'e verdi. Ad, gemi ve pay işareti okunuyordu. Roric'in yenilgisi kayıtta yalnız Roric'le başlamayacaktı.
+Zaleena önce ölü adama gitti. Boynundaki tahta kimlik parçasını bulup Sorin’e verdi. Ad, gemi ve pay işareti okunuyordu. Roric’in yenilgisi kayıtta yalnız Roric’le başlamayacaktı.
 
 Roric tek gözünü açtı. "Gülmek için geç kaldın."
 
@@ -65,11 +65,11 @@ Roric doğrulmaya çalıştı. Bedeni izin vermeyince dişlerini sıktı. "Sekiz
 
 "Biliyorum."
 
-Bu tek kelime Roric'e yaralarından daha ağır geldi. Zaleena yıllarca onun yanıldığını kabul etmesini istemişti. Karşısında kırık dökük yatarken bundan tat alamadı.
+Bu tek kelime Roric’e yaralarından daha ağır geldi. Zaleena yıllarca onun yanıldığını kabul etmesini istemişti. Karşısında kırık dökük yatarken bundan tat alamadı.
 
-"Metheris'te ne oldu?" diye sordu.
+"Metheris’te ne oldu?" diye sordu.
 
-Roric gözlerini kapattı. Karia'nın iki gemiyle zayıf göründüğünü, sonra güney sisinden çıkan filoyu anlattı. Liman zincirine bindiklerini, iki geminin birbirinin yolunu kapattığını ve kendi dümeninin ilk yaylımda parçalandığını söyledi.
+Roric gözlerini kapattı. Karia’nın iki gemiyle zayıf göründüğünü, sonra güney sisinden çıkan filoyu anlattı. Liman zincirine bindiklerini, iki geminin birbirinin yolunu kapattığını ve kendi dümeninin ilk yaylımda parçalandığını söyledi.
 
 "Peşimizden geldiler," dedi. "Resiflere girince döndüler."
 
@@ -77,9 +77,9 @@ Roric gözlerini kapattı. Karia'nın iki gemiyle zayıf göründüğünü, sonr
 
 "Belki."
 
-Roric'in bu kelimeyi söylemesi, yenilgiyi kabul etmesinden daha güçtü. Karia'nın onu bağışladığına inanmıyordu. Kendi gemilerini resiflere vermediğini anlayacak kadar denizciydi.
+Roric’in bu kelimeyi söylemesi, yenilgiyi kabul etmesinden daha güçtü. Karia’nın onu bağışladığına inanmıyordu. Kendi gemilerini resiflere vermediğini anlayacak kadar denizciydi.
 
-"Liman'a dönersen kaptanlar seni parçalar," dedi Zaleena. "Dönmezsen adını kullanarak birbirlerini parçalarlar."
+"Liman’a dönersen kaptanlar seni parçalar," dedi Zaleena. "Dönmezsen adını kullanarak birbirlerini parçalarlar."
 
 "Benim seçeneklerim ne zamandan beri seni ilgilendiriyor?"
 
@@ -89,11 +89,11 @@ Roric kısa bir kahkaha çıkardı; öksürüğe dönüştü. Ağzındaki kanı 
 
 "Ne istiyorsun?"
 
-"Roric'in denizde kayıp olduğunu duyuracağım. Öldüğünü söylemeyeceğim. Seni *Deniz Hayaleti*'nin dip kamarasında tutacağım. Cerrah, Sorin ve ben kimliğini bileceğiz. İyileşirsen bildiklerini kayda vereceksin: kaptanların borçları, gizli koylar, erzak depoları ve limanı yönetirken sakladığın anlaşmalar."
+"Roric’in denizde kayıp olduğunu duyuracağım. Öldüğünü söylemeyeceğim. Seni *Deniz Hayaleti*’nin dip kamarasında tutacağım. Cerrah, Sorin ve ben kimliğini bileceğiz. İyileşirsen bildiklerini kayda vereceksin: kaptanların borçları, gizli koylar, erzak depoları ve limanı yönetirken sakladığın anlaşmalar."
 
 "Bir kafes."
 
-"Kapısı olan bir kafes. Gitmek istersen tutulmayacaksın. Güverteye çıktığın anda kimliğin ve verdiğin ifadeler Konsey'e açıklanacak."
+"Kapısı olan bir kafes. Gitmek istersen tutulmayacaksın. Güverteye çıktığın anda kimliğin ve verdiğin ifadeler Konsey’e açıklanacak."
 
 "İfade vermezsem?"
 
@@ -117,9 +117,9 @@ Roric başını yelken bezine bıraktı. "Pekâlâ, Enkaz Kraliçesi."
 
 ✦
 
-Roric'i mağaradan çıkarmak, onu bulmaktan daha zordu. Gelgit yarığı daralırken sedyeyi yan çevirmek zorunda kaldılar. Bir dalga içeri vurduğunda Roric'in yaralı bileği kayaya çarptı; çığlık atmadı, bilincini kaybetti.
+Roric’i mağaradan çıkarmak, onu bulmaktan daha zordu. Gelgit yarığı daralırken sedyeyi yan çevirmek zorunda kaldılar. Bir dalga içeri vurduğunda Roric’in yaralı bileği kayaya çarptı; çığlık atmadı, bilincini kaybetti.
 
-Teknede üstünü yırtık ağlarla örttüler. Limana balıkçı rıhtımından değil, batık metal boşaltılan arka iskeleden girdiler. Sorin yük kâğıdına "yaralı kimliği doğrulanmadı" yazdı. Roric'in adı kapalı ekte kaldı.
+Teknede üstünü yırtık ağlarla örttüler. Limana balıkçı rıhtımından değil, batık metal boşaltılan arka iskeleden girdiler. Sorin yük kâğıdına "yaralı kimliği doğrulanmadı" yazdı. Roric’in adı kapalı ekte kaldı.
 
 Cerrah dip kamaraya indiğinde kapının kilitlenmesine itiraz etti. "Yangın çıkarsa bu adam ölür."
 

@@ -19,7 +19,7 @@ On yedi yaşındaki gencin bakışı sürekli hareket ediyordu. Temujin onu hız
 
 “Yalnız zorunluysa.”
 
-Temujin başını salladı. “Bu bir yağma değil. Çürüyen yeri keseceğiz; sağlam ete dokunmayacağız.”
+Temujin başını salladı. “Bu bir yağma değil. Toygun alınacak, obaya dokunulmayacak.”
 
 Karaçullar üç ay önce Korgan’ın sancağına girmişti. Katılmak için kendi istekleriyle gelmemiş, kış erzakları yakılınca boyun eğmişlerdi. Toygun son haracın yarısını saklamıştı. Haber Korgan’a ulaşsaydı elli üç çadırın tamamı ateşe verilirdi.
 
@@ -137,13 +137,11 @@ Orkhon sağlam gözüyle onu süzdü. “Toygun’un gümüşü?”
 
 “Köyde kalacak.”
 
-Orkhon kısa bir soluk verdi. “Bir adamı öldürdün, bir boyu satın aldın, üstüne Korgan’ın teşekkürünü alacaksın.”
+Orkhon kısa bir soluk verdi. “Bir adamı öldürdün, bir boyu sana borçlu bıraktın, üstüne Korgan’ın teşekkürünü alacaksın.”
 
-“Satın almadım. Kökünü bağladım.”
+“Bana borçlu değiller.”
 
-“Bir gün o kök seni de boğabilir.”
-
-“O güne kadar ne kadar büyüdüğünü bilirim.”
+“Onlara da sor.”
 
 Atlarını Büyük Ordugâh’a çevirdiler. Güneyde otlayan bizon sürüsü birden toparlandı. Öndeki hayvan hiçbir kurt ya da avcı görünmediği hâlde kuzeye koştu; yüzlercesi peşinden döndü. Toprak, toynakların altında koyu bir bulut gibi kalktı.
 

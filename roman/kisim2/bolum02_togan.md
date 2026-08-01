@@ -75,7 +75,7 @@ Togan arabayı yola çıkardıktan sonra ormana çekildi. Kadın arkasından kü
 
 "Kartal için," dedi.
 
-Togan teşekkür edemeden araba dönemeçten geçti. Hegemonya'nın büyüklüğünü surlarda ve asker sayısında görmüştü. Şimdi o büyüklüğün kırık bir dingile nasıl yüklendiğini de biliyordu.
+Togan teşekkür edemeden araba dönemeçten geçti. Hegemonya’nın büyüklüğünü surlarda ve asker sayısında görmüştü. Şimdi o büyüklüğün kırık bir dingile nasıl yüklendiğini de biliyordu.
 
 Kuzeye devam etti.
 

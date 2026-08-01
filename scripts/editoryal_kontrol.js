@@ -31,6 +31,8 @@ function filesIn(directory) {
 }
 
 const chapters = sourceDirs.flatMap(filesIn);
+const bookOneDirectories = new Set(['kisim1', 'kisim2', 'kisim3', 'kisim4']);
+const bookOneChapters = chapters.filter((chapter) => bookOneDirectories.has(chapter.directory));
 
 if (chapters.length !== 358) {
   errors.push(`Kaynak bölüm sayısı 358 yerine ${chapters.length}.`);
@@ -65,6 +67,35 @@ for (const chapter of chapters) {
       break;
     }
   }
+}
+
+for (const chapter of bookOneChapters) {
+  if (/Rüzgar/u.test(chapter.text)) {
+    errors.push(`${chapter.relative}: 'Rüzgâr' terimi şapkasız yazılmış.`);
+  }
+  if (chapter.text.includes("'")) {
+    errors.push(`${chapter.relative}: düz kesme işareti bulundu; kıvrımlı kesme kullanılmalı.`);
+  }
+  if (chapter.text.includes('`')) {
+    errors.push(`${chapter.relative}: roman içi metinde ters tırnak bulundu.`);
+  }
+  if (/KARİA/u.test(chapter.text)) {
+    errors.push(`${chapter.relative}: POV adı 'KARIA' yerine 'KARİA' yazılmış.`);
+  }
+}
+
+const bookOneSource = bookOneChapters.map((item) => item.text).join('\n');
+const bookOneBanned = [
+  [/Seren adını henüz bilmediği/iu, `Togan'ın bilmediği Seren adı anlatıya sızıyor.`],
+  [/nöbetçi eğitimindeki/iu, `Doğal olmayan 'nöbetçi eğitimindeki' tamlaması bulundu.`],
+  [/bir kalp vuruşu vardı/iu, `Çeviri kokan 'bir kalp vuruşu vardı' yapısı bulundu.`],
+  [/ilk gün ürününü azaltacağını/iu, `Eksik 'ilk gün ürününü' tamlaması bulundu.`],
+  [/görünürken gülerken/iu, `Art arda iki '-ken' eki bulundu.`],
+  [/eski kancasının olmadığı bileğine/iu, `Yapay kancasız bilek tamlaması bulundu.`]
+];
+
+for (const [pattern, message] of bookOneBanned) {
+  if (pattern.test(bookOneSource)) errors.push(message);
 }
 
 const allSource = chapters.map((item) => item.text).join('\n');
@@ -112,6 +143,7 @@ const requiredRecords = [
   'editoryal/03_BILGI_SAHIPLIGI.md',
   'editoryal/04_VAAT_KARSILIK_BEDEL.md',
   'editoryal/05_TARAMA_KAYDI.md',
+  'editoryal/07_TERIM_VE_YAZIM_KILAVUZU.md',
   'KITAP1_BASKI_MANIFESTI.json',
   'KITAP2_BASKI_MANIFESTI.json',
   'KITAP3_BASKI_MANIFESTI.json'

@@ -1,5 +1,5 @@
 # Bölüm 14 — Dört Eşik
-*(KAPANIŞ: TOGAN / TEMUJİN / KARİA / ZALEENA)*
+*(KAPANIŞ: TOGAN / TEMUJİN / KARIA / ZALEENA)*
 
 **Kuzey Sefer Yolu’nda** Togan, taş işaretlerin yakınındaki sığ mağaraya girdi. Ateş yakmadı; girişe kuru dallar dizdi.
 
@@ -75,9 +75,7 @@ Zaleena, Paslı Gelgit’in görüldüğü üç koyu haritada işaretledi. “Ro
 
 Haritanın kenarına nöbet saatlerini yazdı; sonra kâğıdı alıp kapıya yöneldi.
 
-Sorin cevap vermeden başını eğdi.
-
-“Seni korkak ilan eder.”
+Sorin başını eğdi. “Seni korkak ilan eder.”
 
 “Birkaç aileyi kıyıya döndürürse o adı da taşırım.”
 
