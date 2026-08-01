@@ -5,7 +5,7 @@ Altıncı gün Sed yeniden sertleşti. Togan sınırdan beş adım uzakta durdu�
 
 Sığınağın tabanındaki tuzlu su çekilmiş, ardında ince beyaz kabuklar bırakmıştı. İlk gün yosun yaratığından aldıkları bakır halka taş kabın içinde sessizleşmişti. Togan yaklaştığında metal tadı hâlâ geliyordu; eskisinden daha zayıf, fakat daha derinden.
 
-Perren kanlı bezleri sırayla sınırın yakınına koydu. Her biri ışığa doğru kıpırdadı. Togan'ın avucundan üçüncü gün alınan son bez diğerlerinden iki kat uzağa sürüklendi. Perren mesafeleri ölçüp yazdı, sonra kapları mühürledi.
+Perren kanlı bezleri sınırın yakınına koydu. En son alınan parça ışığa daha güçlü çekildi.
 
 “Bunları Eski-Kent'e götürecek miyiz?” diye sordu Togan.
 
@@ -15,7 +15,7 @@ Perren kanlı bezleri sırayla sınırın yakınına koydu. Her biri ışığa d
 
 Perren ateşi hazırladı. “Senin kanını taşıyan dört parça, cevaptan çok tehlike demek.”
 
-En güçlü tepki veren bezi birlikte yaktılar. Alev önce beyaz, sonra mavi oldu. Kül soğuyana kadar ikisi de başından ayrılmadı. Kalan tek örnek, bakır bir kutuya konup iki ayrı iplikle mühürlendi. Kutuyu Togan değil, Perren taşıyacaktı.
+En güçlü tepki veren bezi birlikte yaktılar. Alev önce beyaz, sonra mavi oldu. Kalan tek örneği mühürlü bakır kutuda Perren taşıyacaktı.
 
 “Pencere kapandı,” dedi.
 
@@ -49,7 +49,7 @@ Perren levhayı kapattı. “Sed sana kim olduğunu söylemedi. Yalnız seni tan
 
 “Mirasçılar.”
 
-Perren, Eski-Kent'in arşivlerinde Kuzey seferlerinin yolcu listeleri bulunduğunu anlattı. Yirmi yedi yıl önce yıkılan obaların kayıtları, isimsiz ölüler ve kayıp çocuklar da orada tutulabilirdi. Togan'ın annesine ulaşan bir iz varsa Sed'in önünde değil, o raflardaydı.
+Eski-Kent arşivlerinde Kuzey seferleri, yıkılan obalar ve kayıp çocuklar tutuluyordu. Togan'ın annesine ulaşan bir iz varsa Sed'in önünde değil, o raflardaydı.
 
 “Aldric'in kaydı da orada mı?” diye sordu Togan.
 
@@ -71,7 +71,7 @@ Perren hemen cevap vermedi. Sığınağın taşlarına baktı. Duvara çizdiği 
 
 “Üç kez ayrılmayı denedim.”
 
-İlk denemesinde kıyıdaki fersah taşına kadar gitmiş, beyaz odada Aldric'in yardım istediğini duyunca geri dönmüştü. İkincisinde iki gün yürümüş; uyandığında ayakları kan içinde kapının önünde durmuştu. Üçüncüsünde ipi boynuna bağlamış, rüya sırasında kendi kendini boğmaya yaklaşmıştı.
+İlkinde Aldric'in sesini duyup dönmüş, ikincisinde ayakları kan içinde kapının önünde uyanmıştı. Üçüncüsünde boynuna bağladığı iple kendini boğmaya yaklaşmıştı.
 
 Perren bunları daha önce anlatmamıştı. Togan öfkelenmedi. Yaşlı adamın korkusunun ne kadar eski olduğunu ilk kez ölçebildi.
 
@@ -83,7 +83,7 @@ Perren bunları daha önce anlatmamıştı. Togan öfkelenmedi. Yaşlı adamın 
 
 Yedinci gün Perren eşyalarını tek çuvala sığdırdı. On bir yılda biriktirdiği yüzlerce taş levhadan yalnız yedisini aldı. Geri kalanları yağdanlık bezlere sarıp sığınağın en kuru köşesine dizdi.
 
-Girişe üç dille uyarı bıraktı: kapıya yaklaşılmaması, Kızıl Hafta ölçüleri ve sığınaktaki levhaların Mirasçı arşivine ait olduğu yazıyordu. Togan altına dördüncü bir cümle ekledi: `Bir ses sevdiğiniz birinin sesine benzerse ona cevap vermeyin.`
+Girişe üç dilde kapıdan uzak durulmasını söyleyen bir uyarı bıraktı. Togan altına bir cümle ekledi: `Bir ses sevdiğiniz birinin sesine benzerse ona cevap vermeyin.`
 
 Perren cümleyi silmedi.
 

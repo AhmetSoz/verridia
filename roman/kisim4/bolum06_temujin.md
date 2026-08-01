@@ -3,7 +3,7 @@
 
 Dördüncü günün sabahında Sungurlar son vadiye çekildi. Giriş, beş atın yan yana geçemeyeceği kadar dardı. Azgutların sayısı burada üstünlük değil yığılma yaratıyordu.
 
-Gün doğmadan iki saldırı denenmişti. İlkinde öndeki kalkanlar taş yağmuru altında kırıldı. İkincisinde vadiye giren atlar, toprağa gömülü sivri kazıkları geçemedi. Her geri çekiliş geçidin ağzında daha fazla yaralı bırakıyordu.
+Gün doğmadan iki saldırı denenmiş; taşlar kalkanları, gömülü kazıklar atları durdurmuştu. Geçidin ağzı yaralılarla doluydu.
 
 Temujin üçüncü hücumu durdurdu. Ok menzilinin dışına üç sedye hattı kurdurdu; Azgut ve Sungur yaralıları ayrı taşınmadı. Bir Sungur savaşçısı kendisine dokunan Azgut şifacının kolunu ısırdı. Şifacı yine de kanayan damarı bağladı.
 
@@ -13,9 +13,7 @@ Temujin üçüncü hücumu durdurdu. Ok menzilinin dışına üç sedye hattı k
 
 Haberci bunu itaatsizlik diye yazmak istedi. Temujin ona kayıp tahtasını gösterdi ve cümleyi kendisi kurdu: `Geçit fiziken tıkandığı için üçüncü hücum ertelendi.` Mührünü altına bastı.
 
-Korgan'ın savaş çadırındaki kayıp tahtasına üç günde yüz seksen yedi çizik atılmıştı.
-
-Çiziklerin kırk üçü ölüydü. Geri kalanı yaralı, kayıp ya da birliğine dönemeyenler için aynı işaretle atılmıştı. Temujin üç sayının ayrılmasını istediğinde Korgan'ın kâtibi bunun savaş bitince yapılacağını söylemişti.
+Korgan'ın savaş çadırındaki kayıp tahtasında ölü, yaralı ve kayıplar aynı çizikle gösteriliyordu. Temujin üç sayının ayrılmasını istediğinde kâtip bunun savaş bitince yapılacağını söyledi.
 
 “Savaş bitince ölüyle yaralıyı ayırmanın askere faydası olmaz,” dedi Temujin.
 
@@ -105,23 +103,17 @@ Temujin ikinci emri tekrar etmedi. Çadırdakilerin her biri bu eksikliği duydu
 
 “Kendine böyle anlatabilirsin. O anlatmayacak.”
 
-Temujin, Sube'yi çağırıp keçi yolunu tarif etti. Elli kişinin üç günlük erzağını taşımasını, metal zırh bırakmasını ve arkada iz silen iki adam bulundurmasını emretti.
-
-Sube birliğini kendisi seçmek istedi. Temujin yalnız evinde yeni doğmuş çocuğu olanların ve ağır diz yarası geçirenlerin alınmayacağını söyledi. Elli kişi içinde üç Sungur dilini bilen izci, iki şifacı ve bir borucu olacaktı. Boru yalnız yol açılırsa çalınacaktı; sıkışırlarsa duman kullanacaklardı.
+Temujin, Sube'ye keçi yolunu tarif etti. Elli kişi hafif zırhla ilerleyecek; yol açılırsa boru, sıkışırlarsa duman kullanacaktı.
 
 “Dumanı görürsek yardım gönderemeyiz,” dedi Orkhon.
 
 “Biliyorum.”
 
-Sube de biliyordu. Yine de seçilenlerin adlarını kendi eliyle yazıp Temujin'e verdi. “Dönemezsek aile payları.”
+Sube de biliyordu. Seçilenlerin adlarını Temujin'e verdi. “Dönemezsek aile payları.”
 
 Temujin listeyi iç cebine koydu. Bir planın haritada güzel görünmesi, içindeki elli hayatı hafifletmiyordu.
 
-“Vadiye vardığında saldırma,” dedi. “Sancağı görecekleri yere dik. Sayımızı bilmesinler.”
-
-Sube gülümsedi. “Elli kişiyi beş yüz sanacaklar.”
-
-“Beş yüz sanmaları gerekmiyor. Kaçışın kapandığını bilsinler yeter.”
+“Vadiye vardığında saldırma. Sancağı görecekleri yere dik; kaçışın kapandığını bilsinler yeter.”
 
 ---
 
@@ -157,13 +149,13 @@ Kaya deri parçasını önüne çekti. “O zaman doğru kelimeleri seç.”
 
 İlk cümleyi birlikte kurdular.
 
-Kaya, Börü'ye teslim olmasını yazmadı. `Vadi kapandığında halkı yaşatacak bir söz dinle` diye başladı. Keçi yolunu Temujin'in aldığını, Anya'nın ilk gün yaşadığını ve Azgutların kuzey yolundan geçen sivillere dokunmadığını ekledi. Son satırda kendi adını değil, çocukken yalnız Börü'nün bildiği bir kartal işaretini çizdi.
+Kaya, Börü'ye teslim olmasını yazmadı. `Vadi kapandığında halkı yaşatacak bir söz dinle` diye başladı. Keçi yolunu, Anya'nın yaşadığını ve kuzey yolundan geçen sivillere dokunulmadığını ekledi. Sonuna yalnız Börü'nün tanıyacağı bir kartal işareti çizdi.
 
 “Mektubu kimin taşıyacağını seç,” dedi Temujin.
 
 “Senin adamın giderse inanmaz.”
 
-Kaya, ilk gün bırakılan üç Sungur esirden yaralı olanın adını verdi. Adam geri hatta tedavi görüyordu. Temujin onu getirdi. Mektubu götürmesi karşılığında bağışlanma ya da ödül önermedi; yalnız vadiye kadar dokunulmazlık verdi.
+Kaya, ilk gün bırakılan yaralı Sungurlardan birini seçti. Temujin ona yalnız vadiye kadar dokunulmazlık verdi.
 
 Savaşçı deriyi gömleğinin içine soktu. “Börü hayır derse?”
 

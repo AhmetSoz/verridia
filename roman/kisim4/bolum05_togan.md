@@ -5,7 +5,7 @@
 
 Su, zemindeki çatlaklardan aynı hızla gelmiyordu. Kapıya yakın yarıklarda yukarı doğru kabarıyor, sonra ışığın ritmi değişince geri çekiliyordu. Togan bir avuç külü çatlakların üzerine serpti. Akıntı'nın hareket ettiği üç çizgi ortaya çıktı; hepsi sığınağın altından Sed'e yöneliyordu.
 
-Perren on bir yıl önce çizdiği tahliye işaretlerini açtı. Erzakı yüksek raflara taşıdılar, levhaları yağlı bezlere sardılar. Kapıdan en uzaktaki tepeye su, kuru et ve iki battaniye bıraktılar. Sed aniden güçlenirse sığınağa dönmeyeceklerdi.
+Erzakı yükselttiler, levhaları sardılar ve uzaktaki tepeye bir kaçış payı bıraktılar. Sed aniden güçlenirse sığınağa dönmeyeceklerdi.
 
 “Üçüncü gün zayıflaması kaç saat sürer?” diye sordu Togan.
 
@@ -23,9 +23,7 @@ Togan bu cevaptan hoşlanmadı. Yine de Perren'in belindeki kırmızı ipin dü�
 
 Üçüncü günün şafağında Sed soldu.
 
-Değişim küçük fakat kesindi. Perren'in bronz çubuklarından düşen gölge bir parmak kısalmıştı. Kapının yüzeyindeki işaretler ilk kez aynı anda görünür oldu.
-
-“Yüzde beş,” dedi Perren. “Kayıtlardaki sayı doğruymuş.”
+Perren'in bronz çubuklarından düşen gölge kısalmış, kapının işaretleri ilk kez aynı anda görünür olmuştu.
 
 Perren önce kapıya kendi başına yaklaştı. Elindeki boş bronz çubuk görünmez sınıra girdiği anda beyazlaştı ve ortasından çatladı. Yaşlı adam geri sıçradı. Togan'ın koluna dokunduğunda ise aynı sınır çubuğu çekmiyor, derisinin altındaki bir noktaya doğru bastırıyordu.
 
@@ -89,7 +87,7 @@ Perren kapıya baktı. “Sed mi?”
 
 ---
 
-Perren bütün öğleden sonrayı Togan'ın nabzını, gözlerini ve avucundaki yaranın sıcaklığını ölçerek geçirdi. Togan su içtiğinde metal tadı aldı. Burkut yanına yaklaşmadı; iki adım ötede tüylerini kabartıp onu izledi.
+Perren bütün öğleden sonrayı Togan'ın nabzını, gözlerini ve avucundaki yaranın sıcaklığını ölçerek geçirdi. İlk gece kalp ritmini yazmamasını da levhaya hata diye ekledi; anlamadığı bulguyu saklamak, onu daha güvenli kılmamıştı. Togan su içtiğinde metal tadı aldı. Burkut yanına yaklaşmadı; iki adım ötede tüylerini kabartıp onu izledi.
 
 Sağ avucundaki yara kapanmadı. Kan her pıhtılaştığında ince beyaz bir çizgi yaranın kenarından geçiyor, pıhtıyı yeniden ayırıyordu. Perren yarayı sıcak demirle dağlamak istedi. Demir Togan'ın tenine bir parmak kala titremeye başladı.
 

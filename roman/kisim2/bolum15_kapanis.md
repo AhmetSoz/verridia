@@ -9,13 +9,7 @@ Togan üçüncü kez sendelediğinde durdu. Ayağının takıldığı taş yolun
 
 Pelerinini bir anıtın dibine serdi. Kuru etin son büyük parçasını Burkut'a verdi, kendisi yolculardan aldığı kökleri çiğnedi. Uyursa beyaz odayı yeniden görebilirdi. Uyumazsa sabah ayağını kıracak kadar yorgundu.
 
-Defterini açtı. Kaya hakkında duyduğu üç parçayı yazdı: kartal komutanı, Korgan, esir. Altına kanıtlanmayanlar diye bir başlık koydu. Öldü, yaralandı, Büyük Ordugâh'a götürüldü. Üçünü de ayrı satıra yazıp üstlerini çizmedi.
-
-Sonra Melira'nın adını ekledi.
-
-İki kadından birini seçtiği düşüncesi, verdiği kararı kolaylaştırıyordu; çünkü suçu tek bir yere bağlıyordu. Gerçekte elinde iki eksik haber, bir yaralı bacak ve önünde ne kadar uzandığını bilmediği bir yol vardı. Geri dönse Kaya'yı kurtaracağı, ilerlerse Melira'yı bulacağı kesin değildi.
-
-Togan defteri kapattı. Bu belirsizlik ona bağışlanma vermiyordu. Yalnız kendine anlatacağı yalanı azaltıyordu.
+Defterini açtı. Kaya hakkında duyduğu üç parçayı yazdı: kartal komutanı, Korgan, esir. Ölüp ölmediğini yazmadı. Altına Melira'nın adını ekledi ve defteri kapattı.
 
 Uyumadan önce taş anıtın dibine küçük Sungur işareti kazıdı. Altına kuzeyi gösteren bir çizgi ve tarihi ekledi. Dönüş yolunu kaybederse Burkut değil, bıraktığı kayıtlar ona rehberlik edecekti.
 
@@ -47,7 +41,7 @@ Temujin ona dönmedi. Korgan'ın vereceği ceza, Batu'nun alayından daha somutt
 
 "Bir daha anlat. Bu kez tazminatı kendi birliğinin payından ver."
 
-Bu ceza Genç Kurtların kış erzağını azaltacaktı. Temujin itiraz edebilirdi; ölenlerin Azgut ana ordusuna bağlı olduğunu, karakol düzeninin kendisinden önce kurulduğunu söyleyebilirdi. Hiçbiri, yanlış kampın kendi emriyle kurulduğu gerçeğini değiştirmiyordu.
+Ceza, Genç Kurtların kış erzağını azaltacaktı.
 
 "Kabul ediyorum."
 
@@ -79,13 +73,7 @@ Temujin başını salladı. Adamın silahını bırakmasını istemedi. Genç Ku
 
 Toplantıdan sonra Sube, "Onu bu kadar kolay bırakırsan başkaları da gider," dedi.
 
-"Zorla tutarsam kalanların sayısını bilirim, sadakatini değil."
-
-"Kış payı eksildiğinde sadakat de eksilir."
-
-"O zaman önce payı düzelteceğiz."
-
-Temujin sahte kampın boş çuvallarını erzak deposuna geri gönderdi. Yeni sınır emrinde kartal gözlemi doğrulanmadan açık kamp kurulmayacağını yazdı. Kendi yanlışını bir daha yapmayacağına dair yemin etmedi. Bir sonraki kişinin onu daha erken durdurabileceği bir kayıt bıraktı.
+"Kış payı eksildiğinde kaçının kalacağını göreceğiz."
 
 Kaya'nın çadırındaki nöbetler iki kat kaldı. Temujin o gece onu sorgulamadı. Dış halkadan geçerken Fırtına'nın tek çığlığını duydu. Kartal ağı hâlâ konuşuyordu; Temujin ilk kez her sesi kendisi için yazılmış bir mesaj sanmadı.
 
@@ -137,7 +125,7 @@ Theodoric kayıp listesini kapattı. Halef gündemini iptal eden emri önüne ge
 
 "Zaten kullandı. Kayıtta duruyor."
 
-Karia o sabah üç ayrı emir çıkardı. Hasarlı gemiler, savaş kabiliyetine göre değil su alma tehlikesine göre onarılacaktı. Severin denetimi Faelan ile liman yargıcının iki imzasına bağlanacaktı. Kralın çalışma süresi başhekimin yazılı izni olmadan günde iki saati geçmeyecekti.
+Karia, Kralın çalışma süresini başhekimin yazılı izni olmadan günde iki saatle sınırlayan emri önüne koydu.
 
 Theodoric son emri okuyunca, "Beni de mi denetliyorsun?" diye sordu.
 
@@ -171,26 +159,14 @@ Sorin bunu tutanağa yazdı.
 
 Kessel, "Bunu duymak istedim," demedi. "O zaman geçici düzende kendi lehine kullanabileceğin her yetkiyi işaretleyelim," dedi.
 
-Üçü metni yeniden açtı. Zaleena'nın nöbet çizelgesini hazırlama yetkisi, aday olduğunda çıkar çatışması doğurabilirdi. Çizelgenin Konsey'den iki kaptan tarafından onaylanmasını eklediler. Kayıp paylarını dağıtan kurulda Zaleena'nın yerini kurayla seçilecek bir kaptan alacaktı. Rıhtım kâtipleri oy kullanacak gemi paylarının listesini halka açacaktı.
+Üçü metni yeniden açtı. Zaleena'nın hazırladığı nöbet çizelgesi artık iki kaptanın onayı olmadan yürürlüğe girmeyecekti.
 
 "Kendi yolunu zorlaştırıyorsun," dedi Sorin.
 
 "Kolay kalırsa biri benim için hazırladığımı söyler. Haklı da olur."
 
-Gece yarısına doğru ertesi toplantının gündemi tamamlandı: kıyı savunması, yaralı payları, kayıp gemiler, tayfanın seferden çekilme hakkı ve liderlik usulü.
-
 Zaleena en alta tek kelime yazdı:
 
 *Oylama.*
 
-Kâğıdı duvara kendisi astı. Rüzgâr alt köşesini kaldırınca bir çivi daha çaktı. Bir sonraki yönetimin kim olacağı bilinmiyordu. Nasıl seçileceği artık bir kişinin kancasına bağlı değildi.
-
-✦
-
-Beklenti Yılı'nın ilk haftaları böyle kapandı.
-
-Togan, gördüğü ışığa koşmak yerine suyu iki güne böldü. Temujin, yenilgisini kendi birliğinin önünde bilgi diye savunmadı. Karia, boş tahtı ele geçirmek isteyenleri durdururken kendine ayrı kapı açmadı. Zaleena, aday olacağını söyledikten sonra kullanabileceği yetkileri daralttı.
-
-Dördünün önünde de bir eşik vardı. Hiçbiri geçildiğinde neye dönüşeceğini bilmiyordu. O gece alınan kararlar, kehanetten daha küçük görünüyordu: bir tarih, iki imza, kesilen bir pay, geri çevrilen iki gemi.
-
-Sabah olduğunda hepsi kayıtlarda duruyordu.
+Kâğıdı duvara kendisi astı. Rüzgâr alt köşesini kaldırınca bir çivi daha çaktı.

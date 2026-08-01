@@ -117,28 +117,16 @@ Temujin oku alıp çıktı. Kaya'nın sözü doğru olabilirdi. Kampı hemen kal
 
 ✦
 
-Gece Yeva yolunu kesti. Elinde çatlamış bir kürek kemiği vardı.
+Gece Yeva yolunu kesti. Elindeki çatlamış kürek kemiğinde üç çizgi aynı noktada birleşiyordu.
 
 "Bu kez ne gördün?" diye sordu Temujin.
 
-"Bir düğüm."
-
-"Kaya mı?"
-
-"Kaya iplerden biri." Yeva kemiğin ortasındaki çatlağı gösterdi. Üç ince çizgi aynı noktada birleşiyordu. "Biri obasına gidiyor. Biri sana. Üçüncüsü kuzeye uzanıyor."
-
-Temujin, Kaya'nın sorgu kayıtlarını düşündü. Aile sorularını cevapsız bırakmıştı. Yalnız bir kez süt kardeşlerinden söz edilirken yüzünü çevirmişti.
+"Kaya iplerden biri. Biri obasına gidiyor, biri sana. Üçüncüsü kuzeye uzanıyor."
 
 "Kuzeyde kim var?"
 
-"Kemik ad söylemez."
-
-"Sen tahmin et."
-
-Yeva başını salladı. "Sen tahmini bilgi gibi kullanırsın. Bu yüzden söylemeyeceğim."
+"Kemik ad söylemez. Sen de tahmini bilgi gibi kullanırsın."
 
 Sabah izci raporu geldi. Sungurlar sahte kampa yaklaşmamıştı. Kuzey sırtında iki kartal görülmüş, gece yarısından sonra ikisi de batıya dönmüştü. Yemin yerini ve nöbet boşluklarını yukarıdan görmüşlerdi.
 
-Temujin kampın kaldırılmasını emretti. Boş çuvalları yaktırmadı; geri saydırdı. Korgan'a gönderdiği raporda planın sonuç vermediğini ve Kaya'nın kartal ağının komutasız kalmadığını yazdı.
-
-İlk mesajında söylediği yarım gerçek şimdi kendi karşısına çıkmıştı. Beş askerin ölümü, yanlış varsayımının bedelini büyütüyordu. Temujin kartal tüylü oku haritanın yanına koydu. Bir sonraki hesabı kurmadan önce bu kez bilmediği şeyi satırın başına yazdı.
+Temujin kampın kaldırılmasını emretti. Boş çuvalları yaktırmadı; geri saydırdı. Korgan'a göndereceği raporun ilk satırına bilmediği şeyi yazdı: Kaya'nın kartal ağı komutansız değildi. Kartal tüylü oku kâğıdın üzerine koydu.

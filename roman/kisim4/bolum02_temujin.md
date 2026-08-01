@@ -17,7 +17,7 @@ Orkhon cevap vermedi.
 
 Temujin önündeki iki yamacı inceledi. Sungurların dumanı üç ayrı noktadan yükseliyordu. Savaşçıların ardında aileler, sürüler ve kışlık çadırlar vardı. Korgan haritada yalnız savaşçı taşlarını göstermişti.
 
-Temujin kendi haritasında hepsini göstermişti. Kışlağın yerini siyah taşla, su kuyularını mavi boncuklarla, yaralıların taşındığı mağarayı ters çevrilmiş bir aşık kemiğiyle işaretlemişti. Orkhon önceki gece gözcülerden topladığı sayıları küçük bir deri parçasına yazmıştı: en az yüz kırk savaşçı, seksen iki savaşamayacak yetişkin, altmıştan fazla çocuk. Sayılar kesin değildi. Yanlışlığın hangi yöne gittiği daha önemliydi.
+Temujin'in haritasında kışlak, kuyular ve yaralı mağarası da vardı. Gözcü sayıları kesin değildi; vadiyi yalnız savaşçılardan ibaret göstermeyecek kadar açıktı.
 
 “Merkez tepeyi alırsa bu kuyu kapanır,” dedi Orkhon.
 
@@ -41,7 +41,7 @@ Orkhon ona baktı. “Kaçmaları için mi?”
 
 “Fark ettiğinde yol kapanmış olur.”
 
-Temujin emri sözlü bırakmadı. Kuzey kolundaki dört onbaşını ayrı ayrı çağırdı. Açıklıktan yalnız silahsızların, yaralı taşıyanların ve on iki yaşından küçüklerin geçeceğini söyledi. Savaşçı kılığına girmiş biri görülürse önce durdurulacak, teslim olmazsa vurulacaktı. Bir kişinin ihlali bütün yolu kapatmaya gerekçe sayılmayacaktı.
+Temujin dört onbaşıya açıklıktan silahsızların, yaralı taşıyanların ve çocukların geçeceğini söyledi. Bir kişinin ihlali bütün yolu kapatmayacaktı.
 
 “Han sorarsa?” dedi genç onbaşılardan biri.
 
@@ -77,7 +77,9 @@ Sungurlardan biri yüzüne tükürdü. Temujin silmedi.
 
 Temujin yüzündeki tükürüğü koluyla sildi. “Savaşmak istiyorsanız bana başka sebep bulmayın diye.”
 
-Üç esirin adı, yarası ve bırakıldığı saat kayda geçirildi. Temujin deri parçasını birinin gömleğine bağlattı. Korgan onları yeniden ele geçirirse kaydın Temujin'in emri olduğunu gösterecekti. Aynı kayıt, serbest bırakılanların bir sonraki çatışmada silahla yakalanması hâlinde yalan söylemelerini de zorlaştıracaktı.
+Üç esir, bırakıldıkları saat ve Temujin'in mührü yazılı bir deriyle gönderildi.
+
+Kuzey yoluna döndüğünde genç onbaşılardan birinin açıklığı kapattığını gördü. Silahlı bir Sungur sivillerin arasından geçmeye çalışmış, onbaşı tek kişinin ihlalini bütün yola yaymıştı. Temujin onu görevden alıp yolu yeniden açtı. O yarım saatte iki aile vadiye geri dönmüştü; nereye vardıklarını bilmiyordu.
 
 Akşamüstü kuzey yolunda beyaz saçlı bir kadın belirdi. İki çocukla yaralı bir savaşçıyı sedye üzerinde taşıyordu. Yanındaki Azgutlar yaylarını kaldırdı.
 
@@ -99,13 +101,11 @@ Kadının adımı ilk kez aksadı. Sonra sedyeyi taşımaya devam etti.
 
 İki taraf da birkaç nefes boyunca o tahta ata baktı. Sonra Anya geri yürüdü, oyuncağı aldı ve tek kelime etmeden çocuğa yetişti.
 
-Temujin küçük sahnenin haber kadar hızlı yayılacağını biliyordu. İnsanlar büyük kararları hanların sözleriyle değil, kendi gözleriyle gördükleri tek bir hareketle hatırlardı.
-
 ---
 
 Gece iki taraf da mevzilerinde kaldı. Korgan'ın merkez kolu bir tepeyi almış fakat tutamamıştı. Batu'nun adamları güneyde ağır kayıp vermişti. Temujin'in kuzey yolu hâlâ görünüşte kapalıydı; karanlık basınca otuz iki sivil açıklıktan geçti.
 
-Korgan'dan gelen haberci, kuzey kolunun kayıp sayısını ve alınan esirleri sordu. Temujin yirmi üç yaralı, altı ölü yazdırdı. Esir hanesini boş bıraktırmadı; `üç alındı, üçü de şartlı bırakıldı` diye kaydettirdi.
+Korgan'ın habercisine kayıpları ve şartlı bırakılan üç esiri yazdırdı.
 
 Orkhon deriyi bağlarken, “Bunu görür,” dedi.
 
@@ -113,7 +113,7 @@ Orkhon deriyi bağlarken, “Bunu görür,” dedi.
 
 “Bu gece mi?”
 
-“Yarın vadinin kapısında başka bir yol önereceğim. Bugün ne yaptığımı saklarsam o yol merhamet gibi görünür. Açık yazarsam strateji olduğunu savunabilirim.”
+“Yarın başka bir yol önereceğim. Bugün yaptığımı saklarsam savunamam.”
 
 Temujin yine de Korgan'ın ikna olacağına inanmıyordu. Yapmak istediği şey yalnız zaferin yolunu değil, zaferden sonra hangi sözlerin tutulabileceğini de hazırlamaktı.
 
@@ -139,10 +139,8 @@ Temujin çadır bezinin ardından görünen Azgut ateşlerine baktı. “Sungurl
 
 Kaya uzun süre konuşmadı. Sonunda bağlarını gösterdi. “Önce bir Sungur'u serbest bırakarak başlayabilirsin.”
 
-Temujin dışarı çıktı. İtiraz haklıydı. Zamanlaması değildi.
+Temujin dışarı çıktı. İtiraz haklıydı. Yine de bağları çözmedi.
 
-Çadırın önünde durup iki nöbetçiyi değiştirdi. Kaya'nın bağlarının her iki saatte bir çözülüp yeniden takılmasını, bileklerine yağ sürülmesini emretti. Kaçmasını kolaylaştırmıyordu; esirliğin işkenceye dönüşmesini engelliyordu.
-
-Kendi çadırına döndüğünde haritadaki siyah taşı ilk kez eline aldı. Kışlağı gösteren taşı Korgan'ın görmeyeceği bir keseye koymak istedi. Sonra vazgeçti. Taş haritada kaldı.
+Kendi çadırında kışlağı gösteren siyah taşı eline aldı. Korgan'ın görmeyeceği bir keseye koymak istedi, sonra haritada bıraktı.
 
 Sabah verilecek kavga önce o taşın varlığını kabul ettirmekle başlayacaktı.

@@ -101,7 +101,7 @@ Faelan bu son bilgiyi kayda geçirdi. Karia, kâtibin aynı ifadeyi bir saray ya
 
 "Dosyanızı bugün yedi lordun önüne koymayacağım. Bu, serbest kaldığınız anlamına gelmiyor."
 
-Karia şartları sıraladı. Ticaret defterleri Faelan'ın adamlarına açılacak, kuzey depolarından iki imza olmadan sandık çıkmayacak ve Severin hanesinin silahlı arabaları liman kapısında tartılacaktı. Denetimde eksik tek yük bulunursa dosya aynı gün Konsey'e gidecekti. Kararın bir nüshası Kaelan'a, kapalı bir nüshası Kral'ın özel arşivine teslim edilecekti. Böylece Karia ölür veya görevden alınırsa suç onun sessizliğiyle birlikte kaybolmayacaktı.
+Karia, Severin'in ticaret defterlerini bağımsız denetime açtı. Kuzey depolarından yeni bir sandık çıkarsa dosya aynı gün Konsey'e gidecekti.
 
 Severin'in omuzları indi. "Teşekkür ederim."
 
@@ -137,6 +137,6 @@ Faelan konağın yokuşundan yetişti. Elindeki küçük defteri ceketine saklad
 
 Faelan, "Onu koruduğunuzu söyleyecekler," dedi.
 
-"Söylesinler. Dosyayı üç yere böldüm. Bir yıl sonra hâlâ aynı şeyi söylüyorlarsa ya ben hata yapmışımdır ya onlar okumamıştır."
+"Söylesinler."
 
-Tersaneden çekiç sesleri yükseliyordu. Severin'in silahları doğuya gitmiş, doğudan yeni bir yaratığın haberi gelmişti. Karia iki tehdidi de tek bir düşmanın adıyla kolaylaştırmadı. Birini kanıt zincirine, ötekini ikinci tanığa bağladı ve limana doğru yürüdü.
+Tersaneden çekiç sesleri yükseliyordu. Karia limana doğru yürüdü.

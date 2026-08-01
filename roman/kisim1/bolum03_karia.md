@@ -79,7 +79,7 @@ Faelan parmaklarıyla ıslak tırabzana bir çizgi çekti. “Son üç gündür 
 
 Vorlag ile Valerius birbirlerinden nefret ederdi. Aynı masaya oturuyorlarsa masanın üstünde ikisinden de çok korktukları biri vardı.
 
-Karia, unutulmuş vasiyet maddesini düşündü. Theodoric, kan bağı aramadan bir Gelgit Vârisi seçebilir; Konsey onaylarsa tacı ona bırakabilirdi. Maddeden haberdar olanlar azdı. Kimin seçilebileceğini tahmin edenler giderek çoğalıyordu.
+Theodoric’in eski vasiyet hükmü sarayda fısıltıyla anılır olmuştu. Kimin seçilebileceğini tahmin edenler giderek çoğalıyordu.
 
 “Beni tartıyorlar,” dedi.
 
@@ -115,7 +115,7 @@ Kâhya’nın yüzü soldu. “Konsey atamamı yaptı.”
 
 “Donanmanın ambarında Konsey kürek çekmiyor.”
 
-Karia ellerindeki kızıl tanecikleri bir beze sildi. Yüzde otuzluk açığın tamamı hırsızlık değildi; fakat tek bir eksik fıçı, rakamların hangi ellerden geçtiğini göstermeye yetmişti. Taht meselesi önüne geldiğinde de ülkeyi böyle görmek zorunda kalacaktı: mühürlerin söylediğiyle kapağın altında kalan arasındaki farktan.
+Karia ellerindeki kızıl tanecikleri bir beze sildi. Yüzde otuzluk açığın tamamı hırsızlık değildi; tek bir eksik fıçı, rakamların hangi ellerden geçtiğini göstermeye yetmişti.
 
 ✦
 

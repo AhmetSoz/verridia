@@ -105,7 +105,7 @@ Finn reçineli fırçayı kovaya bıraktı. "Ben hata yapmadım."
 
 "O zaman üçüncü tayfa dinlenir."
 
-Tekne suya indirildiğinde sancak tarafına çekti. Finn ağırlık dağılımını değiştirmek için baştaki metal levhayı söktürdü. İkinci denemede düz gitti, fakat sert dönüşte küreklerden biri bordaya sıkıştı. Zaleena tekneyi devriyeye yazmadı. Finn'e iki gün verdi.
+Tekne ilk denemede sancak tarafına çekti, ikincisinde sert dönüşte bir küreği sıkıştırdı. Zaleena onu devriyeye yazmadı. Finn'e iki gün verdi.
 
 "Roric sekiz gemi götürdü," dedi Finn. "Bir küçük teknenin eksikliği mi önemli?"
 
@@ -115,10 +115,6 @@ Sorin emir listesini aldı. “Beklemiyor muyduk?”
 
 “Roric’i bekliyoruz. Canavarları değil.”
 
-Akşam olmadan dış rıhtımda zift kazanları kuruldu. Roric’in sekiz yelkeni ufuktan silinmişti; geride bıraktığı boşluk ilk kez bir savunma düzenine dönüşüyordu.
+Akşam olmadan dış rıhtımda zift kazanları kuruldu. Roric’in sekiz yelkeni ufuktan silinmişti.
 
-Zaleena, yeni nöbet çizelgesinin altına iki ek madde yazdı. Gözcüler dönüş filosunu gördüğünde önce gemi sayısını değil, su alan ve geride kalan gemileri bildirecekti. Yaralı taşıyan her gemi pay sırasını beklemeden rıhtıma alınacaktı.
-
-Sonra ıslak başlıklı kadının itirazını Konsey gündemine ekledi: Sefer hedefi değişirse tayfanın çekilme hakkı.
-
-Bu madde Roric dönmeden oylanmayacaktı. Yine de yazılıydı. Limanda bir daha hiçbir kaptan, sessizlikle verilmiş bir emri yüzlerce kişinin rızası gibi gösteremeyecekti.
+Zaleena, ıslak başlıklı kadının itirazını Konsey gündemine ekledi: Sefer hedefi değişirse tayfanın çekilme hakkı. Madde Roric dönmeden oylanmayacaktı. Kancanın ucunda kadının başlığından kopmuş mavi bir yün lifi kalmıştı.

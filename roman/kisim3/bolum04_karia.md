@@ -73,6 +73,16 @@ Hallis, donanmanın Karia'ya kişisel sadakat taşıdığını söyledi. Bunun d
 
 Bu cevap Karia'nın en güçlü dayanağını kendi elinden alıyordu. Drennar önündeki kâğıda ilk kez not düştü.
 
+Maros mendilini bıraktı. "Bir filoyu yönettin. Kara hanelerinden kaçını yönettin?"
+
+"Hiçbirini."
+
+"O hâlde sarayı donanma gibi yönetmeyeceğini nereden bilelim?"
+
+Karia hemen cevap veremedi. "Bilemezsiniz. Ben de bilmiyorum. Her karşı çıkışı itaatsizlik sayarsam bu görevde başarısız olurum."
+
+Salondaki sessizlik bu kez onun lehine değildi. Karia doldurmaya çalışmadı.
+
 Vorlag parmağıyla masaya vurdu. "İyi bir amiral iyi bir hükümdar demek değildir."
 
 "Doğru," dedi Karia. "Bu yüzden bugün taç giymiyorum. Kralın ölümünden sonra doğacak boşluğu kapatmak üzere seçiliyorum."
@@ -91,11 +101,11 @@ Valerius, "Fatih'in soyunu yok sayıyorsunuz," dedi.
 
 Kralın sesi bu kez sertleşti. "Fatih'in vasiyetini senin istediğin biçimde okumadığım için soyunu yok saymıyorum. Sözünü bitirdin."
 
-Valerius Karia'ya döndü. "Tahta oturmadan seni durduracağım."
+Valerius Karia'ya döndü. "Tahta giden yol uzundur, Amiral. Bazıları sonuna varamaz."
 
-Karia cevap vermeden yazmana baktı. Adam cümleyi kaydediyordu.
+Karia yazmana baktı. Adamın kalemi kâğıdın üstünde bekliyordu.
 
-"Az önce yedi tanığın önünde beni tehdit ettin," dedi.
+"Bunu itirazınızın parçası olarak mı kaydedelim?" dedi.
 
 Valerius çevresine baktı. Kendi öfkesiyle kurduğu tuzağı geç fark etti.
 

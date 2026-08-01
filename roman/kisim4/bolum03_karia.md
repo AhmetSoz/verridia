@@ -5,11 +5,11 @@
 
 Karia amiral gemisinin başında duruyor, ağ teknelerinin birbirine olan mesafesini sayıyordu. Su önce çekilmişti. Fiyordun çıplak kalan taşlarında cılız kırmızı lifler parlıyordu. Toplayıcılar bunlara koşmak istedi; Karia ilk dalga gelmeden kimseyi aşağı indirmedi.
 
-Geçen hasatta ilk kabarmanın saatini yanlış hesaplayan iki köy, otuz yedi toplayıcısını kaybetmişti. Liman meydanındaki anı taşında adları duruyordu. Bu yıl tüccarlar kaybedilecek bir saatin fiyatını yüksek sesle söylüyor, ölülerin fiyatını hiç söylemiyordu.
+Geçen hasatta ilk kabarmayı yanlış hesaplayan iki köy otuz yedi toplayıcısını kaybetmişti. Bu yıl tüccarlar kaybedilecek bir saatin fiyatını söylüyor, ölülerin fiyatını söylemiyordu.
 
-Karia her ağ teknesine bir kum saati, iki kesme baltası ve yüzücü halatı koydurmuştu. Toplayıcılar üçerli gruplar hâlinde inecek, gruplardan biri dönmeden yenisi gönderilmeyecekti. Bir ambar görevlisi bunun verimi düşüreceğini söylediğinde Karia hesabı kendi önünde yaptırdı. Sonuç yüzde on iki daha az ilk gün ürünüydü.
+Toplayıcılar üçerli gruplar hâlinde inecek, biri dönmeden yenisi gönderilmeyecekti. Bir ambar görevlisi bunun ilk gün ürününü azaltacağını söyledi.
 
-“Kayda bunu da yazın,” dedi. “Yüzde on ikiyi ben kestim. Kimse tayfadan çıkarmasın.”
+“Kaybı benim emrime yazın. Tayfanın payından çıkarmayın.”
 
 “Üçüncü sıra fazla açıldı,” dedi.
 
@@ -21,7 +21,7 @@ Yanındaki subay işaret bayrağını kaldırdı. İki tekne birbirine yaklaşt�
 
 “İlk günün bolluğu ölçü değildir. Tartıya girenle kıyıda çürüyeni ayrı yazın.”
 
-Karia filodan ayrılmadan önce iki saatlik sayıma baktı. Gemilerin söylediği miktarla depoya ulaşan miktar arasında yüzde altı fark vardı. Daha ilk sabah hırsızlık başlamıştı.
+Karia filodan ayrılmadan önce sayıma baktı. Gemilerden çıkanla depoya ulaşan birbirini tutmuyordu.
 
 “Faelan'a ambar kapılarını denetletin,” dedi. “Hırsızı şimdi bulamazsak Zirve'de bir filo kaybederiz.”
 
@@ -87,7 +87,7 @@ Karia yüzüğü kapattı. “Siz varken oturmayacağım.”
 
 Karia yüzüğü parmağına takmadı. Kemerindeki küçük anahtar halkasına geçirdi. Theodoric bunu görünce itiraz etmedi. Bir yadigârı takmakla taşımak aynı şey değildi; Karia o gün taç görüntüsüne değil, ağırlığına ihtiyacı olduğunu düşündü.
 
-Hekim ilacı uzattığında Kral başını çevirdi. Karia bardağı aldı, suyla karıştırdı ve ne olduğunu sordu. Hekim üç bitkinin adını verdi; miktarlarını söyleyemedi. Karia yeni karışım hazırlanana kadar bardağı vermedi.
+Hekim ilacı uzattığında Kral başını çevirdi. Karia karışımın ne olduğunu sordu. Hekim kesin cevap veremeyince bardağı geri verdi.
 
 Theodoric güçlükle gülümsedi. “Daha ölmeden sarayı denetlemeye başladın.”
 
@@ -107,11 +107,7 @@ Koridorda Vorlag bekliyordu. Bakışı Karia'nın kapalı avucuna indi.
 
 Vorlag bastonunun ucunu taş zemine yerleştirdi. “Valerius aceleciydi. Sabırla çalışan insanlar kanıt bırakmaz.”
 
-Karia avucundaki yüzüğün kenarını hissetti. “Sabırlı insanların bir kusuru var, Lord Vorlag.”
-
-“Nedir?”
-
-“Beklerken karşılarındakinin de çalıştığını unuturlar.”
+Karia avucundaki yüzüğün kenarını hissetti. “Bunu göreceğiz.”
 
 Vorlag başını eğip yol verdi.
 
@@ -119,16 +115,12 @@ Yol vermesi yenildiği anlamına gelmiyordu. Karia iki adım geçince bastonun t
 
 Karia, Faelan'a kâtibi izletmek yerine o gün kullandığı bütün haber kapılarını kayda almasını emretti. Bir adamı tutuklamak izi keserdi. İzin nereye vardığını görmek daha değerliydi.
 
-Karia gün batmadan gemisine döndü. Depo farkının yarısı bulunmuştu: Maros hanesine ait iki mavna tartıya girmeden yük almıştı. İlk gün bitmeden mallara el koydurdu. Hasat, denizden çıkan yosun kadar insanların açgözlülüğünü de kıyıya vuruyordu.
-
-El konulan mavnalardaki tayfayı hapse atmadı. Altı işçi, kaptanın verdiği kapalı ambar emirlerini okuma bilmeden uygulamıştı. Karia onları ayrı ayrı dinletti; ifadeleri birbirini tutunca ücretlerini malların satışından öncelikli alacak yazdırdı. Kaptan ile Maros'un ambar kâtibi ise zincire vuruldu.
-
-Faelan akşam hesabını getirdi. Yüzde altılık fark yüzde ikiye düşmüştü. Kalan miktarın yarısı ıslak tartı ile kuru tartı arasındaki normal kayıptı. Geriye, izini bulamadıkları küçük ama düzenli bir açık kalıyordu.
+Karia gün batmadan gemisine döndü. Maros hanesine ait iki mavnanın tartıya girmeden yük aldığı bulunmuştu. Malları mühürletti; emri veren kaptan ile ambar kâtibini ayırdı, işçilerin ücretini güvenceye aldı. Hesabın küçük bir kısmı hâlâ açıktı.
 
 “İlk gün için iyi,” dedi Faelan.
 
 “İlk gün için tehlikeli.”
 
-Karia çizik yüzüğü anahtarları arasında çevirdi. Theodoric ona bir babanın hatasını vermişti. Vorlag sabrı, Maros açgözlülüğü, deniz ise süreyi kısaltıyordu. Karia ertesi gün için üç imzalı tartı emri hazırladı. Tek bir dürüst görevliye bağımlı düzen kurmayacaktı.
+Karia çizik yüzüğü anahtarları arasında çevirdi. Theodoric ona bir babanın hatasını vermişti. Vorlag sabrı, Maros açgözlülüğü, deniz ise süreyi kısaltıyordu.
 
 Gece gemiden ayrılırken toplayıcıların vardiyası değişti. İlk vardiyadan dönenler sayım kapısında adlarını tek tek söylüyordu. Karia liste bitene kadar kıyıda kaldı. Başlayan hasadın gerçek miktarı ambarlardaki yosun değil, geri dönen insanlardı.

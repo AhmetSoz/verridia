@@ -113,7 +113,7 @@ Lord Drennar, naiplik taslağındaki yetkileri okudu. Naip donanmayı hareket et
 
 Vorlag'ın yüzü değişmedi. "Alternatifiniz?"
 
-Karia kendi taslağını açtı. Mevcut emirler yürürlükte kalacak; acil değişiklikler üç ayrı görev alanının iki imzasını gerektirecekti. Donanma için Karia ile tersane başyargıcı, kara birlikleri için Drennar ile mevcut başkomutan, hazine için Calder ile kralın kâtibi sorumluydu. Hiçbiri yeni veraset kararı alamayacak, düzen Kral uyanınca veya ölümü resmen ilan edilince bitecekti.
+Karia kendi taslağını açtı. Mevcut emirler yürürlükte kalacak, acil değişiklikler iki sorumlunun imzasını gerektirecekti. Kral uyanıncaya ya da ölümü ilan edilinceye dek hiç kimse bu düzenle veraset kararı alamayacaktı.
 
 "Üç başlı bir yönetim," dedi Vorlag.
 
@@ -131,8 +131,8 @@ Oylama üçe üç kaldı. Kralın boş sandalyesi oy kullanmıyordu. Tüzüğe g
 
 Karia boş koltuğa baktı. "Bugün yapmamamız gereken şeyi yaptırmadık."
 
-Calder toplantıdan sonra hazine ödemelerini kendi isteğiyle iki imzaya bağladı. Drennar kara birliklerine mevcut emirleri yeniden yolladı. Bunlar Konsey kararı değildi; her görevlinin kendi alanında aldığı, geri çevrilebilir tedbirlerdi. Karia limana haber gönderip gemilerin yerinde kalmasını istedi.
+Toplantıdan sonra Calder hazine ödemelerine ikinci bir imza koydu, Drennar mevcut emirleri birliklere yeniden yolladı. Karia limana haber gönderip gemilerin yerinde kalmasını istedi.
 
 Kralın odasına döndüğünde Theodoric hâlâ uyuyordu. Başhekim nabzının düzensiz, fakat önceki geceden güçlü olduğunu söyledi.
 
-Karia nöbet defterini açtı. O gece kapıya yaklaşanları, getirilen belgeleri ve Konsey'deki oyları kendi eliyle yazdı. Eğer Kral uyanmazsa tarih bu saatleri bir geçiş başlangıcı sayacaktı. Uyanırsa da kimlerin ölümünü beklemeye hazırlandığını bilmesi gerekecekti.
+Karia nöbet defterine kapıya yaklaşanları, getirilen belgeleri ve Konsey'deki oyları yazdı. Valerius'un adında kalemin ucu kâğıda takıldı. İçeride Theodoric öksürünce mürekkep aynı yerde koyulaştı.

@@ -151,13 +151,11 @@ Finn kuşkuyla baktı.
 
 “İyi yüzerse gerçeğini yaparsın,” dedi Zaleena. “Ücretini ben öderim.”
 
-Finn modelin omurgasını iki parmağıyla tuttu. “Hafif kereste ister. Yamalı Liman’da kalanların çoğu çatlak. Sağlamını Delta’dan getirirsen onların ölçüsüne borçlanırsın.”
+Finn modelin omurgasını iki parmağıyla tuttu. “Hafif kereste ister. Buradakiler çatlak, Delta’dakiler borç yazar.”
 
 “Batı enkazlığında üç eski fiyort teknesi var.”
 
-“Tuz yemiş.”
-
-“Dış tahtaları. Omurga parçaları kuru.”
+“Omurgaları kuru.”
 
 Finn tek gözünü kıstı. “Onları sökmek altı adam ve iki hafta.”
 

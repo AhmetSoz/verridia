@@ -73,8 +73,6 @@ Kulübeler birbirinden uzakta kurulmuştu. Her kapının üstünde, ince iplere 
 
 Yüzlerinde ve boyunlarında koyu kızıl lekeler vardı. Bazılarında parmak uçlarına kadar iniyor, bazılarında bir gözün çevresini kaplıyordu.
 
-“Kızıl Humma’dan sağ kalanlar,” dedi Gareth. “Şehirlere alınmıyorlar. Lordların vergisine gelince yine Hegemonya’dan sayılıyorlar.”
-
 Bir kadın çocuğunu kapının arkasına çekti. Çocuk, Togan’ı değil Burkut’u görmek için annesinin eteğinden başını uzattı.
 
 Gareth köyün ortasındaki taş temelli kulübeye yöneldi. Kapı açılmadan önce üstündeki çıngıraklar titredi.

@@ -71,10 +71,6 @@ Temujin’in hesabı değişmedi. Yalnız bedelin yüzü belirginleşti.
 
 Toygun kürkünü omzuna aldı. Yan bölmeye bakmadan kapıya yürüdü. Temujin onun ardından çıktı; Sube’ye tek bir işaret verdi. İki Genç Kurt, Toygun’u kendi çadırının arkasına götürdü.
 
-Kılıç bir kez indi.
-
-Temujin iki ihtimali tarttı. Toygun’u bağlayıp Korgan’a götürürse boyun tamamı cezalandırılırdı. Onu bağışlarsa kendi sözünün ağırlığı kalmazdı. Üçüncü yol, elli üç çadırın tek bir ölümle borçlanmasıydı.
-
 “Korgan’ın haksız olduğunu biliyorum,” dedi. “Sakladığın tohum çocukların hakkıydı.”
 
 Toygun ilk kez doğrudan yüzüne baktı.
@@ -83,15 +79,15 @@ Toygun ilk kez doğrudan yüzüne baktı.
 
 “Gümüş değildi.”
 
-Temujin kılıcını çekti.
-
 Toygun’un yüzünde beliren umut, bıçak yere düşmeden kayboldu.
+
+Kılıç bir kez indi.
 
 ✦
 
 Güneş doğduğunda Karaçullar, obanın ortasında toplandı. Toygun’un bedeni kendi çadırının önüne yatırılmış, üstü bir keçeyle örtülmüştü. Üç nöbetçi bağlı ama sağdı. Saklanan tahıl çuvalları herkesin görebileceği biçimde dizilmişti; gümüş kesesi Temujin’in eyerindeydi.
 
-Temujin atının üzerinde kalabalığı inceledi. Toygun’un karısı keçenin başında diz çökmüş, iki çocuğunu yanına çekmişti. Kadın ağlamıyordu. Temujin o bakışı aklında tutmaya karar verdi. Bir boyun borcunu hesaplarken kimin nefretini kazandığını da bilmek gerekirdi.
+Temujin atının üzerinde kalabalığı inceledi. Toygun’un karısı keçenin başında diz çökmüş, iki çocuğunu yanına çekmişti. Kadın ağlamıyordu.
 
 Kadın, Temujin konuşmadan önce ayağa kalktı. “Tohumu bize bıraktığını söyleyeceksin.”
 
@@ -119,7 +115,7 @@ Kalabalığın içinde bir kıpırdanma oldu.
 
 “Korgan, bir adamın suçunu bütün boydan çıkarırdı. Ben çıkarmayacağım. Sizden bana değil, verdiğiniz söze bağlı kalmanızı istiyorum. Ben de verdiğim sözü tutacağım.”
 
-Kimse karşılık vermedi. Temujin bunu itaat saymadı. Şimdilik dinliyorlardı; ilk kazanım buydu.
+Kimse karşılık vermedi.
 
 Atını çevirdi. Genç Kurtlar obadan tek sıra hâlinde çıktı. Geldiklerinde elli kişiydiler, ayrılırken de elli kişiydiler. Arkalarında üç canlı nöbetçi, elli üç sağlam çadır ve bir ölü bıraktılar.
 
@@ -143,7 +139,7 @@ Orkhon sağlam gözüyle onu süzdü. “Toygun’un gümüşü?”
 
 Orkhon kısa bir soluk verdi. “Bir adamı öldürdün, bir boyu satın aldın, üstüne Korgan’ın teşekkürünü alacaksın.”
 
-“Satın almadım. Kökünü bağladım.” Temujin aşağıdaki obaya baktı. “Korgan direnci ezer. Ezdiği şeyin başka yerde yeniden büyüyeceğini düşünmez. Ben nereye kök salacağını seçiyorum.”
+“Satın almadım. Kökünü bağladım.”
 
 “Bir gün o kök seni de boğabilir.”
 
@@ -157,4 +153,4 @@ Temujin hayvanların kaçtığı yönü, ardından geride bıraktıkları boş a
 
 “Gözünü açık tut,” dedi Sube’ye.
 
-Sürünün peşinden gitmediler. Fakat Temujin, o günkü hesabın kenarına bir bilinmeyen daha ekledi.
+Sürünün peşinden gitmediler.

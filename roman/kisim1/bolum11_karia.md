@@ -61,7 +61,7 @@ Karia adını bilmediğini fark etti.
 
 “Valerius’un ne olduğunu kanıtlamak istedin,” dedi Kaelan. “Bunun bedelini Bren’in ödemesine izin verdin. Tahta oturursan aynı günahın daha büyüklerini işleyeceksin. Aradaki fark, bu kez adları öğrenmek zorunda olman.”
 
-“Yapamadım.” Yaşlı şövalye gözünü ateşten ayırmadı. “Öğretmenlerin en tehlikeli kibri, öğrencisinin kötü seçimini kendi sözüyle düzeltebileceğine inanmasıdır. Valerius artık beni dinlemiyor.”
+“Yapamadım.” Yaşlı şövalye gözünü ateşten ayırmadı. “Valerius artık beni dinlemiyor.”
 
 “Tahta o oturursa ne olur?”
 
@@ -123,18 +123,10 @@ Atlı, isimleri söylerken bakışını indirdi. Karia onun haberin tamamını v
 
 Karia’nın elindeki kâğıt hışırdadı. Severin yalnız silah taşımıyordu; yolu görenleri de susturuyordu.
 
-“Şifacı ve iki bağımsız kâtip gönderin. Adamın yazıp yazamadığını sınasınlar. Çizemiyorsa taşlarla, iplerle, ne bulurlarsa onunla anlatsın. İfadesini Severin askerleri görmeyecek.”
-
-“Üçü de ikinci emre kadar kaleden çıkmayacak. Tutuklu değiller; misafir sayılacaklar. Haber taşıyan kuş uçurulmayacak.”
+“Şifacı ve iki bağımsız kâtip gönderin. Yazamıyorsa taşla, iple anlatsın. İfadesini Severin askerleri görmeyecek.”
 
 Asker tereddüt etti. “Konsey’e bildirmeyecek miyiz?”
 
 Karia tomarı katladı. Severin’i hemen suçlarsa Konsey, hasat öncesinde ikiye bölünürdü. Beklerse Azgutlara kaç sandık daha gideceğini bilmiyordu.
 
 “Şimdi değil. Önce alıcının kim olduğunu öğreneceğim.”
-
-Evine döner dönmez raporu kendi eliyle kopyaladı. Asıl nüshayı kilitli sandığa koydu. Kopyanın üstüne yalnız dört kelime yazdı:
-
-*Alıcıyı bul. Kimseyi uyarma.*
-
-Kâğıdı Faelan’ın kullandığı siyah balmumuyla mühürledi.

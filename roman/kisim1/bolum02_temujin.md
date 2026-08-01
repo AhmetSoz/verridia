@@ -25,7 +25,7 @@ Orkhon yanında durdu, kollarını göğsünde kavuşturdu. “Böyle hesapları
 
 Temujin cevap vermedi. Yirmi dört yaşındaydı. Genç Kurt adını ilk işittiğinde gülmüş, sonra bu lakabın insanlar üzerindeki etkisini görmüştü. Şimdi onu ne över ne de reddederdi. İşe yarayan bir ad, iyi bilenmiş bir bıçaktan farklı değildi.
 
-Korgan’a meydan okuyup on binlerce askeri karşısına almak istemiyordu. Bunun için fazla sabırlıydı. Han öldüğünde obaların hangi ateşe yöneleceğini sormayacağı bir düzen kuracaktı. Cevap, ölümden önce verilmiş olacaktı.
+Korgan’a meydan okumayacaktı. Han öldüğünde obaların hangi ateşe yöneleceği çoktan belli olmalıydı.
 
 “Baban da susmadan önce böyle konuşurdu,” dedi Orkhon.
 
@@ -87,7 +87,7 @@ Orkhon bütün talimi sessizce izledi. “İnsanları kılıçlarına göre değ
 
 “Öğretmeyeceğim.”
 
-Temujin Batu’yu küçümsemiyordu. Bir baltayı kalkanıyla birlikte yarabilecek kadar güçlü bir adamı küçümsemek, hesabı yanlış sayıdan başlatmaktı. Fakat Batu her sorunun karşısına gücünü koyardı. Temujin’in beklediği gün geldiğinde o gücün kimi koruyacağına Batu’nun kendisi bile son ana kadar karar veremeyebilirdi.
+Temujin Batu’yu küçümsemiyordu. Bir baltayı kalkanıyla birlikte yarabilecek adamı hesaptan silmek, yanlış sayıyla başlamaktı.
 
 Orkhon yere tükürdü. “Korgan’ın tahtı sana küçük geliyor.”
 
@@ -129,7 +129,7 @@ Batu baltayı çekse üçünü de savurabilirdi. Çekmedi. Kalkanı yere bırakt
 
 Giderken Genç Kurtların yüzlerini tek tek süzdü. Temujin onun kaç kişiyi tanıdığını hesaplayamadı. Listesinde Batu’nun karşısına ilk kez kesin bir sayı yerine soru işareti koydu.
 
-Aşağıda talim sona ermişti. Kılıç seslerinin yerini kahkahalar aldı. Elli genç, ateşin çevresine otururken halka genişledi. Temujin boş kalan yerleri saydı. Bir gün orada beş yüz kişi olacaktı. Sonra beş bin. Bu düşünce, karnında uzun süredir taşıdığı açlığı yatıştırmadı; ona biçim verdi.
+Aşağıda kılıç seslerinin yerini kahkahalar aldı. Elli genç ateşin çevresine otururken Temujin boş kalan yerleri saydı.
 
 Orkhon elini Temujin’in omzuna koydu. Dokunuşta bir babanın tesellisi yoktu. Bir komutan, diğerine ağırlığını hatırlatıyordu.
 

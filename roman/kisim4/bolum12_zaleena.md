@@ -25,7 +25,7 @@ Roric eski kancasının olmadığı bileğine baktı. “Çünkü senin taç giy
 
 “O zaman yeniden seçilirsin ya da inersin.” Roric sağlam eliyle kapı pervazını kavradı. “Beni sakladığın her gün kararın biraz daha senin oluyor, limanın değil.”
 
-Zaleena buna verecek bir karşılık bulamadı. Kessel'e yirmi kaptanın tamamını çağırmasını, toplantı kaydının kapatılmamasını ve kıyıda isteyen herkes için bir dinleme alanı kurulmasını emretti.
+Zaleena buna karşılık bulamadı. Kessel'e yirmi kaptanı çağırmasını ve toplantıyı kıyıya açık tutmasını emretti.
 
 Roric'in hayatta olduğunu önce Konsey'e açıklayacaktı. Limanın geri kalanı birkaç dakika sonra öğrenecekti. Bu küçük fark bile bir ayrıcalıktı; başka türlü toplantıda bıçaklar çekilebilirdi.
 
@@ -49,7 +49,7 @@ Zaleena inkâr etmedi. “Onu korumak için. Limanı parçalanmaktan korumak iç
 
 Zaleena tarihi söyledi. Kessel kayıt defterinden doğruladı. Seçimden önceydi.
 
-Güvertede yeniden uğultu başladı. Zaleena sözü yumuşatmadı. Roric'in bilinci kapalı olduğu ilk günleri, saldırı korkusunu ve üç kişilik kapalı kurulun ifşayı Kızıl Hafta sonuna ertelemesini anlattı. Kurulun kararını kendi buyruğu gibi göstermedi; kendi ilk saklama kararını da kurulun arkasına gizlemedi.
+Güvertede uğultu başladı. Zaleena, Roric'in bilinci kapalı olduğu günleri ve kurulun ifşayı ertelemesini anlattı. İlk saklama kararını kurulun arkasına gizlemedi.
 
 “İlk gece ben karar verdim,” dedi. “Sonraki günlerde Kessel ve iki liman şifacısı tanık oldu.”
 
@@ -75,7 +75,7 @@ Mazeret eklemedi. Kadın susturulmadı.
 
 Roric boş koltuğa baktı. “Taht benim değil.” Kemerinden eski Enkaz Kralı mührünü çıkardı ve masaya bıraktı. “Seferi kaybettim. Adamlarımı dinlemedim. Bugün unvandan çekiliyorum.”
 
-Mührün masaya bırakılması yetmiyordu. Kessel, çekilmenin kalıcı olup olmadığını, Roric'in filo ve hazine üzerindeki bütün haklarından vazgeçip geçmediğini sordu. Roric her soruya ayrı cevap verdi. İki kâtip sözleri aynı anda yazdı; belgeler karşılaştırıldıktan sonra Roric sağlam eliyle ikisini de imzaladı.
+Kessel çekilmenin kalıcı olduğunu, filo ve hazine haklarını da kapsadığını tek tek doğrulattı. Roric belgeyi sağlam eliyle imzaladı.
 
 “Gemim?” diye sordu.
 
@@ -85,33 +85,19 @@ Mührün masaya bırakılması yetmiyordu. Kessel, çekilmenin kalıcı olup olm
 
 Draven kılıcını kınına soktu. “Bu, Zaleena'yı aklamaz.”
 
-“Aklamak istemiyorum,” dedi Zaleena. “Kararımı verdim. Şimdi siz karar verin.”
+“Aklamak istemiyorum,” dedi Zaleena. “Seçimi sakladığım bilgiyle kazandım.” Unvan mührünü masaya bıraktı. “Şimdi makamı bırakıyorum. Aday olmak isteyen yeniden çıksın.”
 
-Zaleena oylamadan önce koltuğunu boşalttı. Kessel'in önerisiyle toplantıyı en yaşlı tarafsız kaptan yönetti. Zaleena kendisi hakkında konuşulan bölümde oy kullanmadı. Kaptanlar önce saklama kararının liman güvenliği gerekçesiyle anlaşılır olup olmadığını tartıştı. Sonra anlaşılır olmasının doğru olduğu anlamına gelip gelmediğini.
-
-Üç kaptan, yeni seçim yapılmasını istedi. İkisi Zaleena'nın geçici olarak görevden alınmasını önerdi. Draven bunların hiçbirine katılmadı; önce Roric'in dönüşünün eski seçimi hukuken geçersiz kılıp kılmadığının belirlenmesini söyledi.
+Kessel'in önerisiyle toplantıyı en yaşlı tarafsız kaptan devraldı. Draven önce hukuki sorunun doğru sorulmasını istedi: Roric çekildiğine göre liman eski seçimi onaylamakla mı yetinecek, yoksa bilgiyi baştan bilen herkesle yeniden mi oy verecekti?
 
 “Onu sevmiyorum,” dedi. “Ama soruyu doğru sırayla soracağız.”
 
-Kessel oylamayı açtı. Soru, önceki seçimin Roric'in dönüşünden sonra geçerli sayılıp sayılmayacağıydı.
+Eski seçim geçersiz sayıldı. Adaylıklar yeniden açıldığında Draven ile Zaleena öne çıktı; başka kimse çıkmadı. Zaleena kendi lehine konuşmadı. Saklama kararının tarihini, nedenlerini ve kendisine sağladığı yararı bir kez daha söyledi.
 
-On beş kaptan geçerli dedi. Beşi karşı çıktı.
+Oylar açık verildi. Sonuç on üçe yediydi. Kessel yeni seçimi ilk sonucun altına, ayrı bir kayıt olarak yazdı.
 
-Ardından güven oylaması yapıldı. Sonuç on üçe yediydi. Zaleena koltuğunu korudu; önceki seçime göre desteği azalmıştı. Kessel iki sonucu da aynı sayfaya yazdı.
+Zaleena, kendisine karşı kalkan yedi eli tek tek gördü. Limanın onayını tek bir güne ait mülk sanmayacaktı.
 
-“Kazandın,” dedi Sorin alçak sesle.
-
-“Hayır. Yedi oy kaybettim.”
-
-“Yine de kaldın.”
-
-Zaleena, kendisine karşı kalkan yedi eli tek tek gördü. Bunlardan ikisi ilk seçimde onu desteklemişti. Limanın onayını tek bir güne ait bir mülk sanmayacaktı.
-
-Zaleena sonuç açıklanınca koltuğa yine oturmadı. “Bundan sonra bir kralın kaybolması seçim için yeterli olmayacak. Ölüm, çekilme ya da Konsey'in üçte iki oyuyla görevden alma gerekecek. Kuralı bugün yazacağız.”
-
-Kessel bir ek önerdi: hükümdarın hayatta olup olmadığı bilinmiyorsa otuz günlüğüne üç kişilik geçici kurul göreve gelecekti. Kurul para çekemeyecek, savaş ilan edemeyecek ve kalıcı makam dağıtamayacaktı. Otuz gün sonunda Konsey yeniden toplanacaktı.
-
-Draven süreyi on dört güne indirmek istedi. Uzak denizlerde kaybolan bir geminin haberinin iki haftada gelemeyeceğini Roric hatırlattı. Yirmi bir günde uzlaştılar.
+Zaleena sonuç açıklanınca koltuğa yine oturmadı. Bir kralın kaybolması artık seçim için yeterli olmayacaktı; ölüm, çekilme veya görevden alma gerekecekti. Akıbet bilinmiyorsa yetkisi sınırlı üç kişilik kurul yirmi bir gün görev yapacaktı.
 
 Zaleena kendi yaptığı şeyi yasaklayan kuralın altına ilk imzayı attı.
 
@@ -121,9 +107,7 @@ Draven başını yana eğdi. “Kendi yaptığın şeyi yasaklıyorsun.”
 
 ---
 
-Roric öğleden sonra halka çıktı. Liman onun dönüşüne Konsey kadar öfkeli tepki verdi. Roric, seferde verdiği kayıpları ve saklanmayı kendi ağzıyla anlattı.
-
-Konuşmayı yüksek bir kürsüden yapmadı. Kayıp listelerinin okunduğu kayıt masasının arkasında durdu. Her kayıp geminin adını söyledi; sayıyı bilmediği yerde kâğıda baktı. Bir kaptan ona çürük meyve attı. Meyve yanık yanağına çarpıp yere düştü. Roric konuşmayı kesmedi.
+Roric öğleden sonra halka çıktı. Kayıp listelerinin okunduğu masanın arkasında durup gemilerin adlarını söyledi. Bir kaptanın attığı çürük meyve yanık yanağına çarptı. Roric konuşmayı kesmedi.
 
 Zaleena saldıranı tutuklatmadı. İkinci bir taş atılırsa müdahale edilecekti. Öfkenin bir meyveyle kalması, limanın kendini tuttuğu anlamına geliyordu.
 
@@ -133,32 +117,14 @@ Kalabalıktan biri, “Ne işi?” diye bağırdı.
 
 Zaleena cevap verdi. “Hiçbiri. Önce Konsey görev tanımı yazacak.”
 
-Roric ona baktı; bunu daha önce konuşmamışlardı. Zaleena eski krala sırf adı yüzünden makam vermeyecekti. Ertesi hafta açık oturumda deniz savunma danışmanlığı değerlendirilecek, yetkisi ve süresi belirlenecekti.
+Roric ona baktı; bunu konuşmamışlardı. Zaleena eski krala sırf adı yüzünden makam vermeyecekti.
 
 Kalabalığın alkışı tek parça değildi. Bazıları sustu, bazıları küfretti. Çoğu dinledi. Zaleena bunu yeterli saydı. Gerçek kabul, tek bir konuşmayla gelmezdi.
 
 ---
 
-Akşam güvertede kâğıt, boya ve eski sancak parçaları açıldı. Her kaptandan Yamalı Liman için bir işaret getirmesi istendi.
-
-Kıyı işçileri ile balıkçılardan da tasarım alınacağını Zaleena ekledi. Bayrak yalnız kaptanların işareti olmayacaktı. Okuma bilmeyenler için çizim masaları kuruldu; çocuklara kömür ve bez parçaları dağıtıldı.
-
-İlk saatte kırık gemi, kanca ve dalga şekilleri çoğaldı. Kurtarılan yaşlı balıkçı, ortasında beş küçük nokta bulunan bir ağ çizdi. Zaleena bunun ne olduğunu sormadı. Beş noktanın kimi temsil ettiğini biliyordu.
-
 Finn'in iki çırağı masaya bir bayrak getirmedi. Ustalarının yarım kalan sığ su teknesinin küçük modelini bıraktılar. Dümenindeki çatlağı onarmamışlardı. Zaleena modeli tasarımların arasına koymadı; limanın ilk ortak kurtarma kaydının yanına kaldırttı. Finn bir simgeye dönüştürülmeden de hatırlanabilirdi.
 
-Sorin kırık bir gemi çizdi. Kessel, birbirine geçen iki kanca önerdi. Draven hiçbir şey getirmedi; Roric otuz yıldır kullandığı yıpranmış siyah bayrağı masaya bıraktı.
+Batık kalyonun güvertesinde boş bir direk yükseliyordu. Zaleena yeniden seçim kaydını, Roric'in çekilme belgesini ve Finn'in modelini onun altındaki masaya bıraktı. Direğe o gün bayrak çekilmedi.
 
-“Bunu kopyalamayacağız,” dedi Zaleena. “Ama atmayacağız da.”
-
-Roric'in siyah bayrağı açıldığında bezin alt köşesinde daha eski bir mavi dikiş göründü. Bayrak yıllar önce başka bir geminin sancağından kesilmişti. Yamalı Liman'ın eski simgesi bile başkasının enkazından yapılmıştı.
-
-Eski bayrağı yeni kayıt defterinin yanına serdi. İlk direk ertesi gün dikilecekti. Üzerine ne çekileceğine Konsey karar verecekti.
-
-Yamalı Liman ilk kez bir simge aramıyordu. Nasıl bir yer olacağına karar vermeye çalışıyordu.
-
-Zaleena seçim kayıtlarını, Roric'in çekilme belgesini ve yirmi bir günlük geçici kurul kuralını aynı sandığa koydu. Sandığın üç anahtarı olacaktı: biri Kessel'de, biri Draven'da, biri liman işçilerinin seçeceği bir kişide.
-
-Kendi anahtarı olmayacaktı.
-
-Gece direğin yanından ayrılırken bacakları yeniden titredi. Bu kez Sorin'in koluna tutundu. Kıyıda insanlar hâlâ bezlere şekil çiziyor, birbirlerinin işaretlerini değiştiriyordu. Bayrak ertesi gün hazır olmayacaktı. Zaleena ilk kez gecikmenin doğru bir karar olabileceğini düşündü.
+Gece direğin yanından ayrılırken bacakları yeniden titredi. Bu kez Sorin'in koluna tutundu. Bayrak ertesi gün hazır olmayacaktı. Zaleena ilk kez gecikmenin doğru bir karar olabileceğini düşündü.

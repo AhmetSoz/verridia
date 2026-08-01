@@ -9,9 +9,7 @@ Eski çapalar, yarılmış tekneler ve birbirine dolanmış insan kemikleri çam
 
 “Hayatta kalanlar ikinci gelgiti de görür.”
 
-Zaleena çekilen suyun sınırına beyaz kazıklar diktirmişti. Her kazıkta bir saat ve geri dönüş borusu yazılıydı. Yağmaya inenler adlarını, gidecekleri enkazı ve yanlarındaki halat sayısını kâtibe söyleyecekti. İsimsiz çıkanın payı olmayacaktı.
-
-Kaptanlardan ikisi bunu küçümseyince Zaleena kayıt masasını batık kalyonun güvertesinin tam ortasına kurdu. İlk adı kendisi yazdı. `Zaleena, Deniz Hayaleti, dış savunma.` Ardından Sorin ve Kessel geldi. Draven bir süre kalabalığın gerisinde kaldı; sonunda kömür kalemini alıp adını en sert harflerle kazıdı.
+Zaleena çekilen suyun sınırına dönüş saatleri yazılı beyaz kazıklar diktirmişti. Enkaza inen herkes adını ve gideceği yeri söyleyecekti. İlk adı kendisi yazdı; Sorin, Kessel ve sonunda Draven onu izledi.
 
 “Kralın kâtipliği,” dedi.
 
@@ -69,19 +67,7 @@ Vekil sonunda elini uzattı. “Yedi gün.”
 
 Zaleena elini sıktı. “Yedi gün.”
 
-Anlaşmayı iki kopya yazdırdı. Birini Neris, ötekini Zaleena imzaladı. Kessel tanık oldu; Draven ise çağrıldığı hâlde kalemi almadı.
-
-“Onların hesabına kefil olmam,” dedi.
-
-“Kefil değilsin. Benim ne verdiğime tanık oluyorsun.”
-
-Draven metni yeniden okudu. Delta teknelerinin aranacağını, yalnız sıra önceliği alacağını görünce adını koydu. “Yedi gün dolunca bu kâğıdı yakarım.”
-
-“Kopyası onlarda kalır.”
-
-“O zaman seni yedi gün sonra yeniden sıkıştırırlar.”
-
-“Bu yüzden bitiş saatini de yazdım.”
+Anlaşma üç şartla iki kopya yazıldı: Delta tekneleri aranacak, yalnız sıra önceliği alacak ve ayrıcalık yedinci günün belirlenen saatinde bitecekti. Neris ile Zaleena imzaladı; Kessel ve Draven tanık oldu.
 
 Zaleena, geçici gücün en büyük tehlikesini Roric'ten öğrenmişti. İnsanlar ne zaman sona ereceği yazılmayan ayrıcalığı çok çabuk hak sanıyordu.
 
@@ -119,7 +105,7 @@ Gemiler enkazı bırakıp limana döndü. Hiç tayfa kaybedilmedi. Emre karşı 
 
 Ezilen omuzlu tayfanın borcunu kaptanın payından ayırdı. Adam emre uymayan kaptanı seçmemişti; yalnız o gemide çalışıyordu. Liman şifacısı sakatlığın kalıcı olabileceğini söyleyince Zaleena yedi günlük ücretini ortak savunma kasasından ödedi.
 
-Üç kaptan karara birlikte itiraz etti. Zaleena onları tek tek dinledi. Biri gelgit işaretini duymadığını, ikisi servetin liman adına alınacağını sandığını söyledi. Gözcülerin üçü de kırmızı dönüş bayrağının açık olduğunu doğruladı.
+Üç kaptan, işareti görmediklerini veya serveti liman adına almak istediklerini söyledi. Gözcüler dönüş bayrağının açık olduğunu doğruladı.
 
 “Payınız kesildi,” dedi Zaleena. “Gemileriniz alınmadı. Yarın savunma sırasına gireceksiniz.”
 
@@ -145,11 +131,9 @@ Zaleena kaydı katladı. “İkinci zehri nedir?”
 
 “Uyarıları yalnız düşmanlarından duyduğunu sanmak.”
 
-Zaleena bunu cevapsız bıraktı. Güverteye çıktığında Delta'nın tatlı su fıçıları iskelelere dağıtılıyordu. Her fıçının yanına kimin teslim aldığı yazıldı. Yedi günlük anlaşmanın ilk bedeli hemen ödenmişti.
+Zaleena bunu cevapsız bıraktı. Güverteye çıktığında Delta'nın tatlı su fıçıları iskelelere dağıtılıyordu.
 
-Neris dağıtım bitmeden yeniden geldi. Delta ambarında kayıtlarda görünmeyen sekiz fıçı daha bulunduğunu söyledi. Fıçıların dördü içme suyuydu; hepsi savunmaya verilirse ambar çalışanları iki gün içinde susuz kalacaktı.
-
-Zaleena ilk dürtüsüyle sekizini de istemedi. İskelelerin sarnıç hesabını çıkarttı. Limanın doğu mahallesinden iki su arabası Delta ambarına ayrılırsa altı fıçı savunmaya alınabilirdi. Kalan ikisi işçilere bırakıldı.
+Neris dağıtım bitmeden, Delta ambarında sekiz fıçı daha bulunduğunu söyledi. Zaleena içme payını ambar işçilerine bıraktı; kalanını savunmaya aldı.
 
 “Anlaşmada bütün tatlı su yazıyor,” dedi Neris.
 
@@ -161,6 +145,4 @@ Zaleena ilk dürtüsüyle sekizini de istemedi. İskelelerin sarnıç hesabını
 
 Neris başını eğmeden ayrıldı. Zaleena, Delta'nın ilk sınavının yaratık bilgisinden çok kıtlıkta verdikleri kararlar olacağını anladı.
 
-Gece kayıt masasında iki liste vardı. Birinde çıkarılan yükler, ötekinde geri dönmeyenler yazıyordu. İkinci liste boştu. Zaleena boşluğu başarı saymadan önce bütün adları yüksek sesle okuttu. Her ada kalabalığın içinden bir cevap geldi.
-
-Son cevap Draven'ın tayfasından yükselince masayı kapattı. Enkaz Zamanı'nın ilk günü limana servet getirmemişti. Fakat kimseyi almamıştı. Yamalı Liman'da bunun da bir değeri olduğunu yazıya geçirmek gerekiyordu.
+Gece geri dönmeyenler listesi boş kaldı. Enkaz Zamanı limana servet getirmemişti; o gün kimseyi de almamıştı.

@@ -57,9 +57,9 @@ Karia av kafilesini köprüye getirmedi. Calder pelerini çıkardı, dört adam�
 
 Kaçan adamın bacağı tahtayla sabitlendi. İfadesi şifacı ağrısını azalttıktan sonra alındı. Karia yaralı olmasını konuşma baskısı için kullanmadı.
 
-En genç saldırgan ilk saatte konuştu. Emri Valerius'tan almamıştı. Parayı onun silahşoru vermişti. Buluşma yeri, saat ve işaret cümlesi kayda geçirildi. İkinci adam sustu. Üçüncüsü, işin yalnız korkuluk sökmek olduğunu ve Karia'nın öleceğini bilmediğini söyledi. Karia ona köprünün yüksekliğini, geçiş saatini ve çıkarılan çivileri gösterdi. Adam ifadesini değiştirmedi; niyetini yargıç değerlendirecekti.
+En genç saldırgan parayı Valerius'un silahşorundan aldığını söyledi; biri sustu, biri de işin yalnız korkuluk sökmek olduğunu ileri sürdü. İfadeler ayrı ayrı mühürlendi.
 
-Silahşor o gece alındı. Odasında Valerius'un el yazısına benzeyen bir ödeme listesi bulundu. İki saray kâtibi yazıları karşılaştırdı; ikisi de benzerlik buldu, kesin hüküm vermedi. Listede mühür yoktu. Ambar fişi, silahşorun aynı hafta haneden para çektiğini doğruluyordu.
+Silahşor o gece alındı. Odasında bulunan ödeme listesi tek başına kesin değildi; ambar fişiyle birlikte paranın haneden çıktığını gösteriyordu.
 
 Faelan dosyayı kapatıp Karia'ya uzattı. "Artık yeter."
 
@@ -127,7 +127,13 @@ Valerius mührü kırmadan yazıyı okudu. Yüzündeki öfke yerini hesaba bıra
 
 "Bu bağışlanma değil," dedi. "Sınırda adam tutacağım. Dönersen mahkeme seçeneğin kalmaz."
 
-Valerius kalemi aldı. İtirafın ve şartların altını imzaladı. Sonra silahşorunu sordu.
+Valerius kalemi almadı. "Mahkemeyi seçiyorum."
+
+Karia kâğıdı geri çekti. "O hâlde bu gece gözetimde kalacaksın. Sabah Konsey'e çıkarsın."
+
+Valerius götürülürken ilk kez arkasına baktı. Karia onun fikrini değiştirmeye çalışmadı.
+
+Valerius şafaktan bir saat önce yargıcı çağırttı. Sürgün emrini bu kez iki kez okudu, silahlı çevresinin listesini kendi eliyle yazdı ve itirafın altına imza attı. Sonra silahşorunu sordu.
 
 "Ben kabul ettim. Onu bırak."
 

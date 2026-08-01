@@ -67,43 +67,17 @@ Temujin önüne Yeva'nın verdiği oyma kemiği bıraktı. Üç çizgiyi parmağ
 
 Kaya sustu. Temujin boşluğu doldurmadı. İnsanlar sessizliği çoğu kez sorudan daha zor taşırdı. Dışarıda Fırtına tüneği gagalıyordu. Kaya'nın bakışı her üçüncü seste kapıya kaydı.
 
-"Togan," dedi sonunda. "Adı bu."
+"Togan," dedi sonunda. "Süt kardeşim. Bir yıl önce klanı bırakıp kuzeye gitti."
 
-Temujin tepki vermedi. "Sungur mu?"
+Temujin tepki vermedi. "Neden?"
 
-"Bir zamanlar. Klanı bir yıl önce terk etti. Ben onun süt ablasıyım."
+Kaya bileklerindeki bağları çekti. "Adını aldın. Geri kalanını alamayacaksın."
 
-"Neden kuzeyde?"
-
-Kaya'nın çenesi gerildi. "Ölen karısı Melira'yı geri getirebileceğine inanıyor. Işık Seddi'ne gidiyor."
-
-Temujin kemiğin üçüncü çizgisine baktı. Bir yaslı adam, tek başına kuzeye yürüyordu. Yeva'nın kemiği onu Kaya ve Genç Kurtlarla aynı düğüme bağlamıştı. Bunun bir bilgi değil, yorum olduğunu kendine hatırlattı.
-
-"Karısı nasıl öldü?"
-
-"Korgan'ın adamları köyü yaktığında."
-
-Temujin'in eli kemiğin üstünde durdu. "Ben orada mıydım?"
-
-"Değildin. Bu seni temize çıkarmaz, suçlu da yapmaz."
-
-"Onu durdurmayı denedin mi?"
-
-"Denemedim sanıyorsan beni tanımıyorsun." Kaya bileklerindeki bağları çekti. "Bazı insanları tutmak için ip yetmez."
-
-"Bunu bugün öğrendik."
-
-Kaya'nın ağzı istemeden kıpırdadı. Gülümseme sayılmazdı ama öfke de değildi.
-
-Temujin sorularına devam etti. Togan'ın kaç yaşında olduğunu, hangi silahı kullandığını ve Sed'de ne bulmayı umduğunu sordu. Kaya ilk ikisini cevaplamadı. Üçüncü için, "Bir kapı," dedi.
-
-"Açılırsa?"
-
-"Bunu o da bilmiyor."
+Temujin kemiğin üçüncü çizgisine baktı. Bir ad, bir yön ve Kaya'nın onu saklamak için yeniden kanatabileceği bilekleri vardı. Daha fazlasını sormadı.
 
 "Korgan bu adı öğrenirse ne yapar?"
 
-"Togan'ı bana karşı kullanır. Ya da beni ona karşı. Hangisi daha ucuzsa."
+"Beni ona karşı kullanır. Ya da onu bana karşı. Hangisi daha ucuzsa."
 
 Temujin kemiği geri aldı. "Korgan bu adı duymayacak."
 
@@ -111,7 +85,9 @@ Temujin kemiği geri aldı. "Korgan bu adı duymayacak."
 
 "Çünkü ne işe yaradığını bilmiyorum. Bilmediğim şeyi Han'a verip silaha çevirmeyeceğim."
 
-Kaya ona dikkatle baktı. "Beni konuşturdun diye kazandığını sanma."
+Kaya ona dikkatle baktı. "Bunu iyilik diye anlatma."
+
+"Anlatmayacağım."
 
 "Bugün kaçamadın. Benim için yeterli."
 

@@ -107,11 +107,7 @@ Draven sağ elini uzattı. "Savunma düzenini Konsey'e getir. Sekiz oyumu söz v
 
 Zaleena elini sıktı. Bu sadakat değildi. İlk sağlam tahtaydı; üzerine basılabilirdi.
 
-Öğleden sonra açık değerlendirme yapıldı. Finn teknesinin dümen kusurunu saklamadı. Kessel cephanelik duvarının daha önce denetlenmediğini kabul etti. Draven ilk geri çekilme emrini iki nefes geciktirdiğini söyledi. Zaleena baltayla hatta girmesinin komuta görüşünü kaybettirdiğini yazdırdı.
-
-Bir tayfa kraliçenin kendi hatasını niye kayda koyduğunu sordu.
-
-"Bir sonraki saldırıda aynı yerde durmayayım diye," dedi Zaleena.
+Öğleden sonraki değerlendirmede Finn dümen kusurunu, Kessel denetlenmeyen duvarı, Draven geciken emri söyledi. Zaleena da baltayla hatta girdiğinde limanın geri kalanını göremediğini ekledi.
 
 ✦
 

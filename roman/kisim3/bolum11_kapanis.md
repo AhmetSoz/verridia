@@ -75,7 +75,7 @@ Korgan'ın armağan ettiği siyah samur kürkü Temujin'in çadırına gün bat�
 
 Kürkün tokası altındı. İç astarında Korgan'ın siyah bizon işareti işlenmişti. Temujin onu giyerse zaferi Han'ın armağanıyla taşıyacaktı. Reddederse herkes Korgan'a meydan okuduğunu görecekti.
 
-Temujin kürkü Sube'nin omuzlarına bırakmadı; önce erzak çadırına götürdü. Değerini bilen üç tüccara ayrı ayrı fiyat sordurdu. En düşük değer bile Kartal-Yurdu'nda ölen on yedi adamın ailelerine iki aylık et sağlıyordu.
+Temujin üç tüccara ayrı ayrı fiyat sordurdu. En düşük değer bile Kartal-Yurdu'nda ölen on yedi adamın ailelerine iki aylık et sağlıyordu.
 
 "Satarsanız hakaret sayılır," dedi Orkhon.
 
@@ -83,9 +83,7 @@ Temujin kürkü Sube'nin omuzlarına bırakmadı; önce erzak çadırına götü
 
 "Hayır. Ama bu gece giyip yarın satabilirsin."
 
-Temujin bu yolu seçti. Kürkü törene kadar omzuna aldı; satış kararını da tören başlamadan Genç Kurt kayıt defterine yazdı. Sonradan zafer sarhoşluğuyla fikir değiştirdiği söylenemeyecekti.
-
-Masada Kartal-Yurdu'nda ölen on yedi kişinin adı duruyordu. Temujin her adın yanına hangi birlikten olduğunu, ailesinin nerede yaşadığını ve ilk erzak payını yazdırdı. Dördünün ailesi ordugâhtan uzaktaydı. Haberciler tören bitmeden yola çıkacaktı.
+Temujin bu yolu seçti. Kürkü törene kadar omzuna aldı; satış kararını tören başlamadan deftere yazdı. Masada Kartal-Yurdu'nda ölen on yedi kişinin adı duruyordu.
 
 Korgan'ın büyük ateşi çevresinde boy sancakları dikildi. Temujin çağrıldığında davullar üç kez vurdu. Han, geçidin alındığını ve Genç Kurt'un bozkıra hizmet ettiğini duyurdu. Börü'nün sağ bırakıldığını söylemedi.
 
@@ -141,7 +139,7 @@ Karia bu sorunun haklı olduğunu kabul etti. Gelgit Vârisi olmuştu; Kral yaş
 
 "Kararı ben önerdim. Yetki sizindi. İkisini de duyururuz."
 
-Fırınlara dağıtılacak miktar aynı gün yazıldı. Her çuval iki kâtibin önünde tartılacak, ücretsiz ekmek payı hane sayısına göre verilecekti. Karia kendi hanesinin mutfak hesabını da panoya ekletti.
+Fırınlara dağıtılacak miktar aynı gün yazıldı. Karia kendi hanesinin mutfak hesabını da ötekilerin yanına astırdı.
 
 Kuzey Feneri'nin nöbetini iki katına çıkardı. Liman zincirini bir kez kapatıp açtırdı; paslanan iki halka değiştirildi. Ardından kralın odasına çıkan merdivenin başında tek duran muhafızı görevden almadı, yanına ikinci kişiyi koydu. Valerius gitmişti; Vorlag hâlâ saraydaydı.
 
@@ -155,7 +153,7 @@ Karia iki haberi tek emirde birleştirmedi. Hekim Kral'a, fener subayı kıyı k
 
 Su, gece yarısından önce yüzlerce adım geri çekildi. Gemiler çamura oturdu. Kazıkların arasında Paslı Gelgit'e ait kırmızı lifler kaldı; bazıları su olmadan da kıpırdıyordu.
 
-Zaleena bütün kaptanlara kendi bölüklerini verdi. Draven dış iskeleleri, Kessel cephaneliği, Sorin haber teknelerini, Finn sığ su kurtarma kollarını yönetecekti. Emirler ilk kez sözle değil, yirmi nüsha hâlinde dağıtıldı. Her kaptan aldığı kopyaya saat ve işaret koydu.
+Zaleena kaptanlara bölüklerini verdi: Draven dış iskeleleri, Kessel cephaneliği, Sorin haber teknelerini, Finn sığ su kurtarma kollarını yönetecekti. Emirler yirmi nüsha hâlinde dağıtıldı.
 
 Konseyden iki kişi, deniz çekildiğine göre yaratıkların geri gelemeyeceğini söyledi. Zaleena önceki saldırıda su altında ilerlediklerini hatırlattı.
 
@@ -163,11 +161,11 @@ Konseyden iki kişi, deniz çekildiğine göre yaratıkların geri gelemeyeceği
 
 Bir yağmacı grubu geri çekilen suyun bıraktığı metal parçalarına koştu. Finn'in adamları onları halatla çevrili sınırda durdurdu. İlk kez bir Enkaz gecesinde kıyıya vuran mal sahipsiz sayılmadı; savunma alanı ilan edildi.
 
-Roric dip kamarasının kapısında oturuyordu. Üç kişilik kurul, sırrın açıklanmasını Kızıl Hafta sonuna kadar ertelemişti. Gerekçe sağlık ve liman güvenliğiydi; Zaleena'nın adaylığı artık sonuçlanmış olsa da kararın tartışmalı kısmı kapalı kayıtta duruyordu.
+Roric dip kamarasının kapısında oturuyordu. Üç kişilik kurul, sırrın açıklanmasını Kızıl Hafta sonuna kadar ertelemişti. Zaleena'nın ilk saklama kararı yine de kapalı kayıtta duruyordu.
 
 "Su bu kadar çekildiğinde geri dönüş sert olur," dedi Roric. "Gemileri tek halatta bırakma."
 
-Zaleena güvertedeki emre ikinci kıç halatı ekledi. Roric'in sözü, adı açıklanmadan teknik öneri diye geçmeyecekti. Kapalı kaynak koduyla kayda girdi; olay bittikten sonra kimden geldiği açılacaktı.
+Zaleena güvertedeki emre ikinci kıç halatı ekledi. Önerinin kaynağını kapalı kayda yazdı.
 
 "Delta mektubu?" diye sordu Sorin.
 

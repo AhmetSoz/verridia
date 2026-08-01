@@ -23,9 +23,9 @@ Yamalı Liman'ın dışındaki bir millik su, rüzgâra rağmen ayna gibi dümd�
 
 “Bütün tekneleri geri çağırın,” dedi. “Deniz-Titreten.”
 
-Üç ayrı dönüş işareti verildi: kırmızı bayrak, uzun çan ve kıyıdaki katran ocağından siyah duman. Balıkçı teknelerinden ikisi cevap verdi. En uzaktaki teknenin direğine bir bez çıktı; rengi seçilemiyordu.
+Bayrak, çan ve siyah dumanla dönüş işareti verildi. İki balıkçı teknesi cevap verdi; en uzaktaki durgun halkanın ortasında kalmıştı.
 
-Draven kuzey savunmasını kurarken liman ağzına içi taş dolu altı eski mavna çektirdi. Yaratık yaklaşırsa mavnalar batırılıp geçit daraltılacaktı. Kessel, açıkta kalanları çekmek için her gemiye iki ek halat dağıttı. İlk gün kurulan kayıt masası bu kez kimlerin dışarı çıktığını yazmaya başladı.
+Draven liman ağzına batırılmak üzere taş yüklü mavnalar çekti. Kessel kurtarma halatlarını dağıttı.
 
 Dışarıda üç balıkçı teknesi vardı. İkisi limana dönmeye başladı. En uzaktaki, durgun halkanın ortasında kalmıştı.
 
@@ -51,19 +51,17 @@ Mavi organ yeniden karardı. Zaleena ilk parlayışla sönüş arasındaki süre
 
 “Dalgalarına.”
 
-İkinci ışık birinciden sağa dönerek genişledi. Neris'in ekindeki işaret buydu. Zaleena saymayı bırakmadı: kırk dört nefes. Aralık kısalıyordu.
-
-“Her geçişte dört nefes kaybedebiliriz,” dedi Sorin.
+İkinci ışık birinciden sağa dönerek genişledi. Neris'in ekindeki işaret buydu. Aralık kısalıyordu.
 
 “En kötü hesabı kullanacağız. Otuz iki nefeste dışarı çıkmış olmalıyız.”
 
 Balıkçı teknesine gidiş ve dönüş normal kürekle kırk nefesti. Rüzgâr yalnız dışarıdan içeri doğru esiyordu; gidişte yardım edecek, dönüşte onları tutacaktı. Zaleena kıç yelkenlerini ters açıyla hazırlattı. Çıkışta rüzgârı almak için halkanın içinde gemiyi neredeyse yarım döndürmeleri gerekecekti.
 
-Deniz Hayaleti'ni hazırlattı. Güverteye yalnız on iki kişi aldı. Herkes belinden gemiye bağlandı. İki bordaya uzun kancalar, kıça bütün yelkenler hazırlandı.
+Deniz Hayaleti'ne on iki kişi aldı. Herkes belinden gemiye bağlandı; kancalar ve kıç yelkenleri hazırlandı.
 
 Dümeni Finn'e verdi. Yaşlı usta, önceki saldırıda kendi deneme teknesini iki kez sığ sudan çıkarmıştı; limanda kırık bir yekeyi ondan hızlı okuyacak kimse yoktu. Kıyıdaki kurtarma kollarını iki çırağına devretti. Zaleena, Finn'in adını görev çizelgesine kendi eliyle yazdı. Onu gemiye almak gerekliydi. Gerekli olması, tehlikeyi küçültmüyordu.
 
-Tayfadan üçü daha önce felç dalgasına maruz kalmıştı. Zaleena onları çıkardı; ikinci darbenin ne yapacağı bilinmiyordu. Yerlerine gönüllü çağırmadı. Kürek sırasından en hızlı altı kişiyi ve halat işinde en az hata yapan dört tayfayı kayıt üzerinden seçti.
+Felç dalgasına daha önce yakalananları çıkardı. Yerlerine kürek ve halatta en az hata yapanları seçti.
 
 “Gitmek istemeyen şimdi söylesin,” dedi.
 
@@ -135,7 +133,7 @@ Kalabalık alkışlamadı. İnsanlar, denizin bir hükümdarı bile ne hâle get
 
 Kurtarılan balıkçılardan yaşlı olanı, konuşur konuşmaz dışarıda bıraktıkları teknenin kime ait olduğunu sordu. Zaleena teknenin kaybedildiğini söyledi. Adam ağlamaya başladı. Beş canı kurtulmuştu; yine de ailesinin bütün geçimi denizde kalmıştı.
 
-Zaleena ona minnet beklemedi. Ortak savunma kasasından yeni tekne sözü de vermedi. Önce hasar kurulunun kaç teknenin kaybolduğunu ve elde ne kaldığını sayması gerekiyordu. Yalnız adamın adını, teknenin adını ve yanında çalışan dört kişinin payını kayda aldırdı.
+Zaleena minnet beklemedi, yerine hemen yeni tekne de vaat etmedi. Adamın ve kaybettiği teknenin adını yazdırdı.
 
 Gün batarken Sorin revirden döndü. Elinde Finn'in reçine kararmış keskisi vardı.
 

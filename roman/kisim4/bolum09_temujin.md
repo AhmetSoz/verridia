@@ -5,7 +5,7 @@ Altıncı günün şafağında vadinin arkasında üç küçük ateş yandı.
 
 Sube keçi yolunu geçmişti.
 
-Üç ateşten ortadaki kısa süre sonra söndü, ardından yeniden yakıldı. Bu, yolun tutulduğunu fakat birliğin tam olmadığını gösteren işaretti. Temujin dürbünü Orkhon'a verdi. Kırk altı kişi sayabildiler. Elli kişilik birlikten ikisi yolda kalmış, ikisi de yaralıları geri taşımak için geride durmuştu.
+Ortadaki ateş sönüp yeniden yandı. Yol tutulmuştu; birlik eksikti. Orkhon kırk altı kişi saydı.
 
 “Saldırı emri bekliyorlar,” dedi Orkhon.
 
@@ -26,6 +26,16 @@ Bileklerindeki yaralara Temujin'in şifacısı son kez yağ sürdü. Kaya teşek
 Kaya kılıcının eksik olduğunu gösterdi. “Seçeneklerin aynı ağırlıkta değil.”
 
 Temujin kendi kısa kılıcını çıkarıp Orkhon'a verdi. O da silahsız gidecekti. Kaya bunu yeterli saymadı; fakat bir daha itiraz etmedi.
+
+“Kılıcım kimde?” diye sordu.
+
+“Sungur esirleriyle vadiye gönderildi. Bir kadın sana getireceğini söyledi.”
+
+“Adı ne?”
+
+Temujin yüzlerce kişiyi ve şartı hesaplamış, kılıcı verdiği kadının adını sormamıştı. “Bilmiyorum.”
+
+“Antlaşmaya adlardan başla.”
 
 “Kaçabilirsin,” dedi Temujin. “Sube seni görür. Korgan da aileni alır.”
 
@@ -61,9 +71,9 @@ Anya'nın çenesi gerildi. “Sen de onun ordusundasın.”
 
 Temujin şartlarını yerdeki düz taşa yazılı deri hâlinde bıraktı. Börü almadı; Kaya okuyup yüksek sesle söyledi.
 
-Sungurlar silahlarını teslim etmeyecekti. Azgut topraklarına yapılan akınlar sona erecekti. İki klan, dış düşmana karşı ortak sancak altında savaşacaktı. Korgan ortak savaşta Baş Han sayılacak; Sungurlar kendi meclisini, toprağını ve komuta zincirini koruyacaktı. Bütün esirler iki tarafta da bırakılacak, son karar Akıntı'dan sonraki kurultayda onaylanacaktı.
+Sungurlar silahlarını, meclislerini ve topraklarını koruyacak; Azgut akınlarını durduracaktı. Dış savaşta Korgan Baş Han sayılacak, bütün esirler bırakılacak ve son karar kurultayda verilecekti.
 
-Kaya deriyi çevirdi. Arka yüzde, ilk metinde bulunmayan dört güvence daha vardı. Azgut savaşçıları üç gün içinde vadi dışına çekilecek, Sungur ambarlarına ve sürülerine el konulmayacaktı. Savaş suçlamaları klan adıyla değil, adı belirtilen kişiler üzerinden soruşturulacaktı. Anlaşmanın ihlali hâlinde Kaya ile Orkhon ortak tanık sayılacaktı.
+Kaya deriyi çevirdi. Azgut ordusu vadiden çekilecek, Sungur ambarlarına el konulmayacak ve suçlamalar klana değil adı belirtilen kişilere yöneltilecekti. Kaya ile Orkhon ihlallerin ortak tanığıydı.
 
 “Orkhon burada değil,” dedi Börü.
 
@@ -79,17 +89,13 @@ Anya bu cevabı kabul ettiğini söylemedi. Yalnız adı deri üzerine ekletti.
 
 “Hayır,” dedi Temujin. “Bitirebildiğimiz bir savaş.”
 
-“Ölenleri bitiremezsin.” Börü omzundaki sargıyı düzeltti. “Kartal-Yurdu'nda on yedi Azgut, on bir Sungur öldü. Burada daha fazlası. Bu deri onları barıştırmayacak.”
+“Ölenleri bitiremezsin.” Börü omzundaki sargıyı düzeltti. “Bu deri onları barıştırmayacak.”
 
 “Barıştırmak için yazılmadı. Yarın yeni adlar eklenmesin diye yazıldı.”
 
-Börü, Temujin'in sözünü tarttı. “Bizden aldığınız geçitler?”
+Börü, Temujin'in sözünü tarttı. “Aldığınız geçitler?”
 
-“Kurultaya kadar ortak nöbet. İki taraftan eşit sayı.”
-
-“Eşit sayı, senin ordun vadinin dışında kalırsa.”
-
-Temujin bu şartı deriye ekledi.
+“Kurultaya kadar eşit sayıda ortak nöbet. Ordu vadi dışında kalacak.”
 
 “Korgan bunu kabul etmez.”
 
@@ -129,19 +135,13 @@ Anya iki elin arasına kendi elini koydu. Antlaşma böyle mühürlendi.
 
 Sonra eller ayrıldı. Ne Azgutlar ne Sungurlar bağırdı. Börü gerideki savaşçılara yayları indirmelerini emretti. Temujin kendi hattına beyaz mızrağı üç kez kaldırdı. Orkhon koşarak geri döndü; Sube ise dağın arkasında kalıp geri çekilmeyi gözetti.
 
-İlk sınav antlaşmadan birkaç dakika sonra geldi. Bir Azgut akıncısı vadi girişindeki Sungur atlarından birini çözüp götürmeye çalıştı. Kaya onu gördü. Temujin adamı kendi birliğinin önünde attan indirdi, atı sahibine geri verdi ve akıncının yağma payını kesti.
-
-“Bunu her seferinde yapabilecek misin?” diye sordu Kaya.
-
-“Hayır. Bu yüzden tanık yazdık.”
-
 ---
 
 Haber ordugâha Temujin'den önce ulaştı. Savaşçılar, Korgan'ın bozkırı tek sancakta topladığını söylemeye başlamıştı.
 
 Zafer sözü doğru değildi, fakat onu düzeltmek o anda anlaşmayı tehlikeye atardı. Temujin davulları susturmadı. Bunun yerine haber okuyucularına aynı cümleyi verdirdi: `Sungur klanı kendi meclisi ve toprağıyla ortak savaşı kabul etti.` Korgan'ın adı söylendi; teslimiyet kelimesi kullanılmadı.
 
-Bazı birliklerde bu ayrım korunmadı. Temujin üç haberci gönderip yanlış ilanları düzelttirdi. İnsanların duyduğu ilk hikâyeyi bütünüyle geri alamazdı. En azından resmî kaydın yalan başlamasına izin vermeyecekti.
+Yanlış ilanları bütünüyle geri alamadı. Resmî kayda teslimiyet kelimesinin girmesine izin vermedi.
 
 Korgan çadırda yalnız Batu'yu tuttu. Temujin girdiğinde deri antlaşmayı masaya fırlattı.
 
@@ -159,7 +159,7 @@ Batu'nun sol elinde kışlağa gidecek birliğin listesi vardı. Sağ elinde ise
 
 “İlk ortak düşman geldiğinde kimin çağrısıyla toplanacaklarını da yazdılar.”
 
-Korgan antlaşmanın o satırını yeniden okudu. Baş Hanlık, Sungurların iç işlerine karışma yetkisi vermiyordu. Yine de dış savaş çağrısı onun mühründen çıkacaktı. İstediğinin tamamı değildi; bozkıra anlatabileceği bir başlangıçtı.
+Baş Hanlık iç işlerine karışma yetkisi vermiyordu; dış savaş çağrısı yine Korgan'ın mühründen çıkacaktı. İstediğinin tamamı değildi, bozkıra anlatabileceği bir başlangıçtı.
 
 Korgan ayağa kalktı. “Benim adımı sen dağıtamazsın.”
 
@@ -191,7 +191,7 @@ Korgan'ın çenesi kasıldı. “Öğleye kadar.”
 
 Temujin başını eğmedi. “Öğleye kadar.”
 
-Temujin arkasını dönmeden önce Korgan'ın yüzüne baktı. Zafer ikisinin arasında duruyordu. İkisi de onu kendi eseri sayıyordu.
+Zafer ikisinin arasında duruyordu. İkisi de onu kendi eseri sayıyordu.
 
 ---
 
@@ -203,19 +203,7 @@ Kaya, Sungur hattına dönerken Fırtına kolundaydı. Temujin'e atının üstü
 
 “Buna da sen karar veremezsin.”
 
-Orkhon, Temujin'in kılıcını geri getirdi. Kaya silahın konuşma boyunca Temujin'de olmadığını görmüştü. Kendi kılıcı da Sungur esirleriyle birlikte vadiye taşınıyordu.
-
-“Kılıcımı kimde bıraktın?” diye sordu Kaya.
-
-“Adını bilmediğim bir Sungur kadınında. Sana getireceğini söyledi.”
-
-“Adını sormadın mı?”
-
-Temujin bu küçük eksik yüzünden utandı. Yüzlerce insanın kaderini hesaplamış, eline kılıç verdiği kadının adını almamıştı.
-
-“Hayır.”
-
-Kaya, “Bir sonraki antlaşmaya adlardan başla,” dedi.
+Orkhon, Temujin'in kılıcını geri getirdi. Kaya silahın konuşma boyunca Temujin'de olmadığını görmüştü.
 
 Temujin ilk kez açıkça gülümsedi. “Togan döndüğünde ona ne anlatacaksın?”
 
@@ -223,6 +211,4 @@ Kaya'nın yüzü kapandı. “Önce neden gittiğini soracağım. Sonra senin ha
 
 Atını çevirdi. Temujin onu durdurmadı. Fırtına havalandığında, ordugâhta haftalardır bağlı tutulan gölge de onunla birlikte vadiye döndü.
 
-Akşam Azgutlar ile Sungurlar ölülerini ayrı tepelerde yaktı. Ortak davul çalınmadı. Temujin iki ateşin arasındaki taşlı yerde durup Sube'nin listesini açtı. Kırk altı adın yanına dönüş işareti koydu. Yolda kalan iki adam canlı bulunmuştu; birinin ayağı kırılmıştı. Geri taşımada kalan iki kişi de gece yarısından önce döndü.
-
-Ellinci işareti koyduktan sonra deriyi kapattı. Savaşın bittiğini düşünmedi. Yalnız ertesi gün o listeye yeni bir ad eklenmeyecekti.
+Akşam Azgutlar ile Sungurlar ölülerini ayrı tepelerde yaktı. Ortak davul çalınmadı. Sube'nin elli adamı da gece yarısından önce dönmüştü; birinin ayağı kırıktı. Temujin listeyi kapattı. Savaşın bittiğini düşünmedi. Yalnız ertesi gün ona yeni bir ad eklenmeyecekti.

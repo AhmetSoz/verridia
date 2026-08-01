@@ -63,8 +63,6 @@ Karia kâseyi yerine koydu. Teselli edecek bir cümle bulabilirdi. Kralın ihtiy
 
 Kelime, tuzlu odada söylenince daha da ağırlaştı.
 
-Kan bağı olmayan biri kral tarafından seçilebilir, Konsey’in onayıyla tahta çıkabilirdi. Yüzyıllardır kullanılmayan madde, hanedanın kendinden sonra da sürmesini isteyen bir fatihin bıraktığı son önlemdi.
-
 “Sen ne düşünüyorsun, Karia?”
 
 Bu bir görüş sorusu değildi. Theodoric, önündeki kadının tacı kabul edip etmeyeceğini anlamaya çalışıyordu.
@@ -101,7 +99,7 @@ Valerius’un çenesi gerildi. “Zaferin bir maliyeti vardır.”
 
 Vorlag’ın bakışları genç şövalyeye kaydı. Uyarı kadar memnuniyet de taşıyordu; Valerius’un tehdidi, onun söylemek istemediği şeyi açığa çıkarmıştı.
 
-Karia bir adım yaklaştı. “Bir soyun değeri kaç kişiyi aç bırakabildiğiyle ölçülüyorsa o hesabı öğrenmeyeceğim.”
+Karia bir adım yaklaştı. “O hesabı sizin defterinizden öğrenmeyeceğim.”
 
 Valerius elini kılıcının kabzasına koymadı. Koymayı düşündüğünü sağ omzundaki küçük yükseliş ele verdi.
 
@@ -109,11 +107,7 @@ Valerius elini kılıcının kabzasına koymadı. Koymayı düşündüğünü sa
 
 “Çağırın, görün.”
 
-Vorlag bastonunun ucunu taş zemine vurdu. “Hepimiz aynı gemideyiz. Güvertede kavga eden denizci suyun kime ait olduğunu geç öğrenir.”
-
-Karia’nın bakışı onun kambur omzunda kaldı. “Aynı gemide olmak, herkesin aynı limana gittiği anlamına gelmez.”
-
-Vorlag aralarına yarım adım girdi. “Genç şahinler yüksekten uçmak ister. Biz yaşlılara da dizginlemek düşer.”
+Vorlag bastonunun ucunu taş zemine vurdu. “Genç şahinler yüksekten uçmak ister. Biz yaşlılara da dizginlemek düşer.”
 
 Karia, Faelan’ın raporunu hatırladı. Vorlag, Valerius’u dizginlemiyordu. Genç adamın hangi yöne saldıracağını seçiyordu.
 
@@ -121,6 +115,4 @@ Karia, Faelan’ın raporunu hatırladı. Vorlag, Valerius’u dizginlemiyordu. 
 
 Yanlarından geçip yürüdü. Arkasında konuşma yeniden başladı; bu kez seslerini daha fazla kısmışlardı.
 
-Karia merdivenlere vardığında aşağı, limana inen yolu seçti. Sarayın içinde kalırsa duyduğu her sözün anlamını tartmaya devam edecekti. Güvertede onu ölçülebilir sorunlar bekliyordu: kaç varil, kaç gemi, kaç gün.
-
-Gelgit Vârisi kelimesi ise peşinden merdivenleri indi.
+Karia merdivenlere vardığında limana inen yolu seçti. Güvertede onu ölçülebilir sorunlar bekliyordu: kaç varil, kaç gemi, kaç gün.

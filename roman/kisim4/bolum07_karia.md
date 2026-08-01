@@ -91,9 +91,7 @@ Kaelan onu oturttu. “Ayakta.”
 
 Kayıp sayısı akşama doğru geldi: otuz bir ölü, iki gemi ağır hasarlı. Limana dolan cansız yosun aylarca işlenecek kadar çoktu. Halk rıhtımda Karia'nın adını bağırıyordu. Karia önce ölülerin listesini istedi.
 
-Listede Edran vardı. Dört kürekçi, iki topçu, bir ağ görevlisi ve kurtarma sırasında ezilen üç liman işçisi de vardı. Karia her adın karşısına ailesine ulaşacak payı yazdırdı. Geriye kimse bırakmayan iki kişinin payı, aynı vardiyadaki yaralıların bakımına ayrıldı.
-
-Hallis, cansız yosunun satış değerini hesaplayan bir kâtip gönderdi. Karia kâğıdın başlığına önce temizlik masrafı ile cenaze paylarının yazılmasını emretti. Servet kalan miktardı; kıyıya vuran her şey kazanç değildi.
+Listede Edran da vardı. Karia aile paylarının cenaze ve temizlik hesabından önce ayrılmasını emretti. Kıyıya vuran her şey kazanç değildi.
 
 Saray habercisi onu orada buldu.
 

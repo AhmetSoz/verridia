@@ -77,8 +77,6 @@ Avucunu duvardaki çatlak elin üstüne bastı. İşaret, parmaklarından daha b
 
 “Sizi bulacağım,” dedi.
 
-Bu kez sözünü Melira’ya değil, işareti bırakanlara vermişti.
-
 Duvarın dibindeki külden küçük bir kese doldurdu. Bir gün bu işareti inkâr eden olursa elinde yalnız anısı kalmasın istiyordu. Kesenin ağzını mavi bez parçasından kopardığı ince bir iple bağladı; beşiğin geri kalanına dokunmadı.
 
 Kasabadan çıkınca Kuzey Sefer Yolu’na döndü. Ayakkabılarındaki kül, ilk taş işareti geçene kadar peşinden geldi.

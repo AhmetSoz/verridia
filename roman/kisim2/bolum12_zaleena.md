@@ -51,11 +51,11 @@ Zaleena pirinç çanı aldı ve üç kez vurdu. Gürültü hemen kesilmedi. Kess
 
 "Liman lidersiz mi kalacak?"
 
-Zaleena önündeki kâğıdı açtı. Roric'in dönüşüne, ölümünün doğrulanmasına veya otuz günlük kayıp süresinin dolmasına kadar geçerli bir düzen hazırlamıştı. Kuzey ve güney savunması Kaptanlar Konseyi'nin günlük çizelgesiyle yürütülecek, hiçbir kaptan diğerinin gemisine silahla çıkamayacak, erzak ile şifahane payları üç kişilik açık sayımla dağıtılacaktı.
+Zaleena önündeki kâğıdı açtı. Roric'in dönüşüne, ölümünün doğrulanmasına veya otuz günlük kayıp süresinin dolmasına kadar savunma ile erzak Kaptanlar Konseyi'nin denetiminde kalacaktı.
 
 "Kim uygulayacak?" diye sordu bir kaptan.
 
-"Kuralı bozanın liman payını Konsey kesecek. Nöbetçiler herhangi bir kaptanın değil, çizelgenin emrini uygulayacak."
+"Kuralı bozanın liman payını Konsey kesecek."
 
 "Çizelge kılıç tutmaz."
 
@@ -71,19 +71,11 @@ Zaleena cevabı ilk kez herkesin önünde verdi. "Kaptanlar Konseyi toplanır. Y
 
 Bıçak çeken kaptan hâlâ ayaktaydı. "Oylamayı sen yönetirsen kendine taht hazırlarsın."
 
-"Geçici düzende Enkaz Tahtı'nın yetkileri kullanılmayacak. Ben de tek başıma gemi payı kesemeyeceğim. Üç kaptanın açık oyu gerekecek."
-
-"Hangi üç?"
-
-"Her olayda kurayla. Benim gemimle ilgiliyse ben oy vermeyeceğim."
-
-Bu madde Zaleena'nın elini de bağlıyordu. Tam bu yüzden odadaki kuşku bir ölçü azaldı.
+"Geçici düzende Enkaz Tahtı'nın yetkileri kullanılmayacak. Ben de tek başıma gemi payı kesemeyeceğim."
 
 Kessel elini kaldırdı. "Geçici düzen için oy veriyorum."
 
-Bir el daha kalktı. Sonra üç. Kaptanlardan biri, Roric'in gemisi dönene kadar oyunun koşullu olduğunu kayda geçirdi. Bir başkası otuz günlük sürenin kırk beş olmasını istedi. Tartışma yeniden açıldı; otuz günde kalması sekize karşı altı oyla kabul edildi.
-
-Ana metin oy birliğiyle geçmedi. Yeterli çoğunlukla geçti. Ret verenlerin adları da kabul verenlerle aynı büyüklükte yazıldı.
+Bir el daha kalktı. Sonra üç. Metin oy birliğiyle değil, yeterli çoğunlukla geçti. Ret verenlerin adları da ötekilerle aynı büyüklükte yazıldı.
 
 ✦
 

@@ -19,7 +19,7 @@ Ardından yorgun bir kahkaha geldi. “Kızıl Hafta’da lordlar yosun yer art�
 
 Öndeki muhafız arkasına bağırınca konuşma kesildi.
 
-Togan, arabaların üstündeki tahıla baktı. Kartal-Yurdu’nda da kıştan önce aynı sayım yapılırdı: kaç çuval, kaç çocuk, kaç gün. Taş evler, zırhlı askerler ve uzun kervanlar Hegemonya’yı daha güçlü gösteriyordu. Açlık hesabı burada da değişmiyordu.
+Togan, arabaların üstündeki tahıla baktı. Tekerler çamurda, boş dönen arabalarınkinden daha derin iz bırakıyordu.
 
 ✦
 
@@ -34,8 +34,6 @@ Meydanın öte yanında çocuklar tahta kılıçlarla oynuyordu. İkisi eski çu
 “Azgutlar geliyor!” diye bağırdı çocuklardan biri.
 
 Çuval pelerinli çocuklar yere düşürüldü. Ötekiler zafer çığlığı attı.
-
-Togan’ın aklına Kartal-Yurdu’ndaki oyunlar geldi. Orada da çocuklar tahta kılıçlarla Hegemonya askerlerini yener, yüzünü hiç görmedikleri krallara hakaret ederdi. Düşman, daha adı doğru söylenmeden öğreniliyordu.
 
 Kasabaya girmedi. Zırhındaki Sungur işaretini bir pelerinle örtebilirdi; Burkut’u saklayamazdı.
 
@@ -85,7 +83,7 @@ Kuzeye devam etti.
 
 Akşam, yolun uzağındaki sığ bir dere kenarında durdu. Ateş yakmadan kuru et yedi. Burkut payını aldıktan sonra alçak bir dala çıkıp tüylerini düzeltti.
 
-Bez torbadaki arpayı avucuna döktü. Burkut tanelere dokunmadı; elmalardan birini gagasıyla yokladı. Togan ikisini de dere suyunda temizleyip yarısını yedi. Kalanını sabah için sakladı. Çamur içindeki tahıl gözünün önünden gitmiyordu. Kartal-Yurdu'nda zorunlu payı alan kişi aynı kışı paylaşırdı. Buradaki karakol ise çuvalın hangi evden çıktığını gün batmadan unutuyordu.
+Bez torbadaki arpayı avucuna döktü. Burkut tanelere dokunmadı; elmalardan birini gagasıyla yokladı. Togan ikisini de dere suyunda temizleyip yarısını yedi. Kalanını sabah için sakladı. Çamur içindeki tahıl gözünün önünden gitmiyordu.
 
 Togan yarasının sargısını açtı. Kesik kapanıyordu ama uzun yürüyüşten sonra kenarları yeniden kızarmıştı. Seren’in merhemini sürüp bezi bağladı.
 
