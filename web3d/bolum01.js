@@ -120,21 +120,113 @@ function isimaHesapla(kaynaklar){
   isiDoku.needsUpdate = true;
 }
 // isimayi kenar()'dan gecmeyen sade malzemelere de ekler (arazi, cim, detay yamasi)
+// ═══ ZEMIN KATMAN GLSL'i ═══
+// Bes prosedurel katman (toprak/cakil/camur/ot/kum), YUKSEKLIK-TABANLI
+// karistirma ile. Duz mix bulanik gecis verir; yukseklik yaristirmasinda
+// cakil camurun ICINDEN cikar — gercek zemin boyle davranir.
+const ZEMIN_AG = { value: 0.86 };   // katman albedosu agirligi (A/B ve ayar icin)
+const ZEMIN_GLSL = `
+  uniform float zeminAg;
+  float _zh(vec2 p){ return fract(sin(dot(p, vec2(127.1,311.7)))*43758.5453); }
+  float _zn(vec2 p){ vec2 i=floor(p), f=fract(p); f=f*f*(3.0-2.0*f);
+    return mix(mix(_zh(i),_zh(i+vec2(1,0)),f.x), mix(_zh(i+vec2(0,1)),_zh(i+vec2(1,1)),f.x), f.y); }
+  float _zf(vec2 p, int o){ float s=0.0, a=0.5;
+    for(int i=0;i<4;i++){ if(i>=o) break; s+=a*_zn(p); p*=2.07; a*=0.5; } return s; }
+  // yukseklik-tabanli katman karistirma
+  void katKat(inout vec3 c, inout float h, vec3 c2, float h2){
+    float mx = max(h, h2) - 0.14;
+    float b1 = max(h - mx, 0.0), b2 = max(h2 - mx, 0.0);
+    c = (c*b1 + c2*b2) / max(b1+b2, 1e-5);
+    h = max(h, h2);
+  }
+`;
 function isimaSade(mat, guc = 1.0){
   const eskiOBC = mat.onBeforeCompile;
   mat.onBeforeCompile = s => {
     if (eskiOBC) eskiOBC(s);
     Object.assign(s.uniforms, ISI_U());
     s.uniforms.isiGuc = { value: guc };
-    s.vertexShader = 'varying vec3 vIP;\n' + s.vertexShader
+    s.uniforms.zeminAg = ZEMIN_AG;
+    s.vertexShader = 'varying vec3 vIP; varying vec3 vIN;\n' + s.vertexShader
       .replace('#include <begin_vertex>', `#include <begin_vertex>
-        vec4 _ip = vec4(transformed,1.0);
+        vec4 _ip = vec4(transformed,1.0); vec3 _in = objectNormal;
         #ifdef USE_INSTANCING
-          _ip = instanceMatrix * _ip;
+          _ip = instanceMatrix * _ip; _in = mat3(instanceMatrix) * _in;
         #endif
-        vIP = (modelMatrix * _ip).xyz;`);
+        vIP = (modelMatrix * _ip).xyz;
+        vIN = normalize(mat3(modelMatrix) * _in);`);
     s.uniforms.patikaSeg = PATIKA_U;
-    s.fragmentShader = 'varying vec3 vIP; uniform float isiGuc;\n' + ISI_GLSL + PATIKA_GLSL + s.fragmentShader
+    s.fragmentShader = 'varying vec3 vIP; varying vec3 vIN; uniform float isiGuc;\n'
+      + ISI_GLSL + PATIKA_GLSL + ZEMIN_GLSL + s.fragmentShader
+      // ── COK KATMANLI ALBEDO: roughnessFactor'den SONRA enjekte ediliyor
+      // (islaklik ondan okunuyor) ama lights_physical'dan ONCE, yani isik
+      // dogru albedo'ya tepki veriyor.
+      .replace('#include <metalnessmap_fragment>', `#include <metalnessmap_fragment>
+      vec3 zeminKabartma = vec3(0.0, 1.0, 0.0);
+      {
+        vec2 wp = vIP.xz;
+        float egim = 1.0 - clamp(vIN.y, 0.0, 1.0);       // 0 duz, 1 dik
+        float pt = patikaMiktarG(wp);
+        float n1 = _zf(wp*0.85, 3);                       // ~1.2 m taneleme
+        float n2 = _zf(wp*3.60, 2);                       // ~0.3 m ince
+        float n3 = _zf(wp*0.17, 3);                       // ~6 m yamalar
+        // MAKRO VARYASYON: doseme tekrari hissini olduren asil numara.
+        // 60 m ve 210 m olceginde cok dusuk frekansli iki gurultu.
+        float makro = _zf(wp*0.017, 2)*0.66 + _zn(wp*0.0048)*0.34;
+
+        vec3 cToprak = vec3(0.335,0.262,0.186) * (0.76 + 0.46*n1);
+        vec3 cCakil  = vec3(0.395,0.375,0.345) * (0.66 + 0.64*n2);
+        vec3 cCamur  = vec3(0.175,0.132,0.096) * (0.84 + 0.32*n1);
+        vec3 cOt     = vec3(0.395,0.345,0.180) * (0.70 + 0.54*n2);
+        vec3 cKum    = vec3(0.455,0.398,0.298) * (0.85 + 0.28*n2);
+
+        // hangi katman nerede 'ustte' cikar
+        float hCakil = n2*1.18 + egim*0.60 + n3*0.32 - 0.30;
+        float hCamur = pt*1.30 + (1.0-n3)*0.42 - egim*0.75 - 0.34;
+        float hOt    = (1.0-pt)*0.80 + n3*0.92 - egim*0.55 - 0.50;
+        float hKum   = makro*0.95 + n3*0.28 - 0.62;
+
+        vec3 zc = cToprak; float zh = 0.5;
+        katKat(zc, zh, cOt,    hOt);
+        katKat(zc, zh, cCakil, hCakil);
+        katKat(zc, zh, cKum,   hKum);
+        katKat(zc, zh, cCamur, hCamur);
+
+        zc *= 0.72 + 0.56*makro;                                   // makro parlaklik
+        zc *= mix(vec3(0.93,0.97,1.04), vec3(1.07,1.00,0.91),
+                  _zn(wp*0.0072));                                  // makro renk sapmasi
+        // ISLAKLIK ALBEDOYU DA ETKILESIN: islak toprak daha KOYU ve daha DOYGUN.
+        // Onceden islaklik sadece puruzu degistiriyordu.
+        float islak = clamp(1.0 - roughnessFactor*1.55, 0.0, 1.0);
+        zc = mix(zc, zc*zc*1.55, islak*0.72);
+
+        // vertex rengi buyuk olcek arazi tonunu tasiyor; onunla harmanla
+        diffuseColor.rgb = mix(diffuseColor.rgb, zc * (0.55 + 0.90*length(diffuseColor.rgb)), zeminAg);
+
+        // ── PROSEDUREL KABARTMA (doseme tekrari yok) ──
+        // Normal harita 3 m'lik karoyu 300 kez tekrarliyordu ve goz bunu aninda
+        // yakaliyordu. Ayni gurultu orneklerinden turev alarak kabartma uretiyoruz:
+        // tekrar yok, ustelik katmanla tutarli (cakil pürüzlu, camur duz).
+        {
+          float e = 0.09;
+          float k0 = _zf(wp*3.60, 2);
+          float kx = _zf((wp+vec2(e,0.0))*3.60, 2) - k0;
+          float kz = _zf((wp+vec2(0.0,e))*3.60, 2) - k0;
+          float o0 = _zf(wp*0.85, 3);
+          float ox = _zf((wp+vec2(e*4.0,0.0))*0.85, 3) - o0;
+          float oz = _zf((wp+vec2(0.0,e*4.0))*0.85, 3) - o0;
+          // cakil bolgesi pürüzlu, camur ve kum duz
+          float pur = clamp(0.35 + hCakil*0.85 - max(hCamur,hKum)*0.55, 0.10, 1.35);
+          vec3 kabN = normalize(vec3(-(kx*4.2 + ox*1.6)*pur, 1.0, -(kz*4.2 + oz*1.6)*pur));
+          zeminKabartma = kabN;
+        }
+      }`)
+      .replace('#include <normal_fragment_maps>', `#include <normal_fragment_maps>
+      // prosedurel kabartmayi yuzey normaline karistir (dunya→gorus uzayi)
+      {
+        vec3 kd = normalize((viewMatrix * vec4(zeminKabartma, 0.0)).xyz);
+        normal = normalize(mix(normal, normalize(normal + kd*0.85), 0.75));
+      }`)
       .replace('#include <dithering_fragment>', `#include <dithering_fragment>
         gl_FragColor.rgb += isimaOku(vIP) * isiGuc * 0.55;
         // ── ASINMIS PATIKA: cignenmis toprak koyulasir ve doygunlugunu kaybeder.
@@ -3347,7 +3439,7 @@ function tik(){
       if (ms > 26 && kalite > .55)      { kalite = Math.max(.55, kalite - .14); kaliteUygula(); }
       else if (ms < 13 && kalite < 1.0) { kalite = Math.min(1.0, kalite + .07); kaliteUygula(); }
     } }
-  if (!window.__dbg) window.__dbg = { THREE, scene, camera, renderer, togan, kaya, kukla, ao:aoPass, isi:ISI_PAY, patika:PATIKA_U, hacim:hacimPass, ssr:ssrPass, pus:pusKatlari, zerre:zerreler, dof:dofPass, huzme:huzmePass, grade:gradePass, composer,
+  if (!window.__dbg) window.__dbg = { THREE, scene, camera, renderer, togan, kaya, kukla, ao:aoPass, isi:ISI_PAY, zeminAg:ZEMIN_AG, patika:PATIKA_U, hacim:hacimPass, ssr:ssrPass, pus:pusKatlari, zerre:zerreler, dof:dofPass, huzme:huzmePass, grade:gradePass, composer,
     // yakın çekim: __dbg.bak(mesafe, yukseklik, aci) — sadece geliştirme/ekran görüntüsü için
     sahne(ad){ asama = ad; if (ad==='spar'||ad==='parry_sinavi') dovusHud.classList.add('acik'); },
     sinematikAtla(){ sinematik = 0; },
