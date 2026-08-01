@@ -49,7 +49,7 @@ const H = (x, z) => {
 
 // ═══════════ 2. RENDERER / SAHNE ═══════════
 const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('c'), antialias: true });
-renderer.setPixelRatio(Math.min(devicePixelRatio, 1.3));
+renderer.setPixelRatio(Math.min(devicePixelRatio, 1.75));
 renderer.setSize(innerWidth, innerHeight);
 // Tonlama artik BURADA degil, grade pasinda (post zincirinin sonunda) yapiliyor.
 // CustomToneMapping'i kimlik fonksiyonuna cevirip sadece pozlamayi uyguluyoruz;
@@ -61,7 +61,7 @@ THREE.ShaderChunk.tonemapping_pars_fragment =
 renderer.toneMapping = THREE.CustomToneMapping;
 renderer.toneMappingExposure = 1.05;
 renderer.info.autoReset = false;
-renderer.shadowMap.enabled = true; renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+renderer.shadowMap.enabled = true; renderer.shadowMap.type = THREE.PCFShadowMap;
 
 const scene = new THREE.Scene();
 scene.fog = new THREE.FogExp2(0x1c2130, 0.0052);   // ağır, yakın atmosfer
@@ -187,18 +187,25 @@ function isimaSade(mat, guc = 1.0){
         vec2 wp = vIP.xz;
         float egim = 1.0 - clamp(vIN.y, 0.0, 1.0);       // 0 duz, 1 dik
         float pt = patikaMiktarG(wp);
-        float n1 = _zf(wp*0.85, 3);                       // ~1.2 m taneleme
-        float n2 = _zf(wp*3.60, 2);                       // ~0.3 m ince
+        float n1 = _zf(wp*0.72, 3);                       // ~1.4 m taneleme
+        float n2 = _zf(wp*2.10, 2);                       // ~0.5 m ince
         float n3 = _zf(wp*0.17, 3);                       // ~6 m yamalar
+        // Uzakta bir pikselin kapladigi dunya alani buyudukce ince gurultuyu
+        // soldur. Aksi halde yururken cakil/ot pikselleri kare kare parliyordu.
+        float pikselAlan = max(length(dFdx(wp)),length(dFdy(wp)));
+        float inceAA = 1.0-smoothstep(0.07,0.34,pikselAlan);
+        n2 = mix(0.50,n2,inceAA);
         // MAKRO VARYASYON: doseme tekrari hissini olduren asil numara.
         // 60 m ve 210 m olceginde cok dusuk frekansli iki gurultu.
         float makro = _zf(wp*0.017, 2)*0.66 + _zn(wp*0.0048)*0.34;
 
-        vec3 cToprak = vec3(0.335,0.262,0.186) * (0.76 + 0.46*n1);
-        vec3 cCakil  = vec3(0.395,0.375,0.345) * (0.66 + 0.64*n2);
-        vec3 cCamur  = vec3(0.175,0.132,0.096) * (0.84 + 0.32*n1);
-        vec3 cOt     = vec3(0.395,0.345,0.180) * (0.70 + 0.54*n2);
-        vec3 cKum    = vec3(0.455,0.398,0.298) * (0.85 + 0.28*n2);
+        // Verridia yer paleti: sicak bozkir topragi, soguk cakil, koyu islak
+        // camur, kirik zeytin otu ve soluk okra. Hepsi kahverengi degil.
+        vec3 cToprak = vec3(0.355,0.245,0.145) * (0.78 + 0.42*n1);
+        vec3 cCakil  = vec3(0.345,0.365,0.380) * (0.72 + 0.48*n2);
+        vec3 cCamur  = vec3(0.145,0.092,0.060) * (0.88 + 0.25*n1);
+        vec3 cOt     = vec3(0.255,0.285,0.105) * (0.76 + 0.38*n2);
+        vec3 cKum    = vec3(0.470,0.345,0.205) * (0.88 + 0.24*n2);
 
         // hangi katman nerede 'ustte' cikar
         float hCakil = n2*1.18 + egim*0.60 + n3*0.32 - 0.30;
@@ -218,7 +225,7 @@ function isimaSade(mat, guc = 1.0){
         // ISLAKLIK ALBEDOYU DA ETKILESIN: islak toprak daha KOYU ve daha DOYGUN.
         // Onceden islaklik sadece puruzu degistiriyordu.
         float islak = clamp(1.0 - roughnessFactor*1.55, 0.0, 1.0);
-        zc = mix(zc, zc*zc*1.55, islak*0.72);
+        zc = mix(zc, zc*zc*1.55, islak*0.56);
 
         // ── TEMAS: nesne diplerinde zemin koyulasir ve cakillanir.
         // Keskin temas cizgisi 'ustune konmus' okutuyordu; gecis bunu bitiriyor.
@@ -228,7 +235,7 @@ function isimaSade(mat, guc = 1.0){
             zc = mix(zc, cCakil*0.85, dp*0.30*(0.35+0.65*n2));     // biriken cakil
           } }
         // vertex rengi buyuk olcek arazi tonunu tasiyor; onunla harmanla
-        diffuseColor.rgb = mix(diffuseColor.rgb, zc * (0.55 + 0.90*length(diffuseColor.rgb)), zeminAg);
+        diffuseColor.rgb = mix(diffuseColor.rgb, zc * (0.78 + 0.38*length(diffuseColor.rgb)), zeminAg);
 
         // ── PROSEDUREL KABARTMA (doseme tekrari yok) ──
         // Normal harita 3 m'lik karoyu 300 kez tekrarliyordu ve goz bunu aninda
@@ -236,15 +243,15 @@ function isimaSade(mat, guc = 1.0){
         // tekrar yok, ustelik katmanla tutarli (cakil pürüzlu, camur duz).
         {
           float e = 0.09;
-          float k0 = _zf(wp*3.60, 2);
-          float kx = _zf((wp+vec2(e,0.0))*3.60, 2) - k0;
-          float kz = _zf((wp+vec2(0.0,e))*3.60, 2) - k0;
+          float k0 = _zf(wp*2.10, 2);
+          float kx = _zf((wp+vec2(e,0.0))*2.10, 2) - k0;
+          float kz = _zf((wp+vec2(0.0,e))*2.10, 2) - k0;
           float o0 = _zf(wp*0.85, 3);
           float ox = _zf((wp+vec2(e*4.0,0.0))*0.85, 3) - o0;
           float oz = _zf((wp+vec2(0.0,e*4.0))*0.85, 3) - o0;
           // cakil bolgesi pürüzlu, camur ve kum duz
-          float pur = clamp(0.35 + hCakil*0.85 - max(hCamur,hKum)*0.55, 0.10, 1.35);
-          vec3 kabN = normalize(vec3(-(kx*4.2 + ox*1.6)*pur, 1.0, -(kz*4.2 + oz*1.6)*pur));
+          float pur = clamp(0.30 + hCakil*0.72 - max(hCamur,hKum)*0.50, 0.08, 1.05)*inceAA;
+          vec3 kabN = normalize(vec3(-(kx*2.7 + ox*1.25)*pur, 1.0, -(kz*2.7 + oz*1.25)*pur));
           zeminKabartma = kabN;
         }
       }`)
@@ -260,7 +267,7 @@ function isimaSade(mat, guc = 1.0){
         // Bir oba 'kullanilir'; bu olmadan yeni kurulmus dekor gibi okunuyor.
         { float pt = patikaMiktarG(vIP.xz);
           gl_FragColor.rgb = mix(gl_FragColor.rgb,
-                                 gl_FragColor.rgb*vec3(0.60,0.54,0.45), pt*0.78); }
+                                  gl_FragColor.rgb*vec3(0.72,0.65,0.54), pt*0.66); }
         // SSR MASKESI: purüz dusukse (su birikintisi) alfaya yaz.
         // Alfa kanali baska hicbir sey icin kullanilmiyor — bedava maske.
         gl_FragColor.a = clamp(1.0 - roughnessFactor*1.55, 0.0, 1.0);`);
@@ -385,6 +392,23 @@ const D_DERI = yuzeyDoku(160,(g,n)=>{
   for(let i=0;i<160;i++){ const x=Math.random()*n,y=Math.random()*n;
     _cizgi(g,x,y,x+(Math.random()-.5)*26,y+(Math.random()-.5)*26,'rgba(0,0,0,.30)',1); }
 },2.8,7);
+// taş — geniş gözenekler, kırık damarlar; deri gibi yuvarlak/parlak görünmez
+const D_TAS = yuzeyDoku(160,(g,n)=>{
+  g.fillStyle='#7d7d7d'; g.fillRect(0,0,n,n);
+  for(let i=0;i<360;i++){ const x=Math.random()*n,y=Math.random()*n,r=1+Math.random()*4.5;
+    g.fillStyle=Math.random()<.62?'rgba(25,25,25,.22)':'rgba(245,245,245,.12)';
+    g.beginPath(); g.arc(x,y,r,0,6.283); g.fill(); }
+  for(let i=0;i<70;i++){ const x=Math.random()*n,y=Math.random()*n;
+    _cizgi(g,x,y,x+(Math.random()-.5)*42,y+(Math.random()-.5)*18,'rgba(18,18,18,.25)',.8); }
+},1.8,3);
+// ahşap — uzun lif ve seyrek çatlak; yatay/dikey yüzlerde yön duygusu verir
+const D_AHSAP = yuzeyDoku(160,(g,n)=>{
+  g.fillStyle='#888'; g.fillRect(0,0,n,n);
+  for(let i=0;i<95;i++){ const y=Math.random()*n, sap=(Math.random()-.5)*5;
+    _cizgi(g,0,y,n,y+sap,Math.random()<.65?'rgba(25,25,25,.23)':'rgba(245,245,245,.13)',.7+Math.random()*1.2); }
+  for(let i=0;i<24;i++){ const x=Math.random()*n,y=Math.random()*n,r=2+Math.random()*5;
+    g.strokeStyle='rgba(25,25,25,.22)'; g.lineWidth=.8; g.beginPath(); g.ellipse(x,y,r*2,r,0,0,6.283); g.stroke(); }
+},1.7,2);
 // ten — ince gözenek
 const D_TEN = yuzeyDoku(128,(g,n)=>{
   g.fillStyle='#8c8c8c'; g.fillRect(0,0,n,n);
@@ -694,19 +718,19 @@ ayI.shadow.mapSize.set(2048, 2048);
 Object.assign(ayI.shadow.camera, { left:-34, right:34, top:34, bottom:-34, far:320 });
 ayI.shadow.bias = -0.00035; ayI.shadow.normalBias = 0.014; ayI.shadow.radius = 2.2;
 scene.add(ayI, ayI.target);
-const ortamI = new THREE.HemisphereLight(0x5d6880, 0x413828, 0.78); scene.add(ortamI);
+const ortamI = new THREE.HemisphereLight(0x5d6880, 0x413828, 1.02); scene.add(ortamI);
 // yüzü karanlıkta bırakmayan yumuşak dolgu (gölge yok, ucuz)
-const dolgu = new THREE.DirectionalLight(0x8e9ec6, 0.42); dolgu.position.set(80, 42, 110); scene.add(dolgu);
+const dolgu = new THREE.DirectionalLight(0x8e9ec6, 0.66); dolgu.position.set(80, 42, 110); scene.add(dolgu);
 // karakter anahtarı: kameranın omzundan gelen, sadece yakını aydınlatan sinematik ışık
-const karIsik = new THREE.PointLight(0xa8b4d6, 7.5, 9, 2.0); scene.add(karIsik);
+const karIsik = new THREE.PointLight(0xb3c1e2, 14.5, 11, 2.0); scene.add(karIsik);
 
 // ═══════════ 5. ARAZİ + ÇİM ═══════════
 let ISLAKLIK = null;   // su birikintisi purüz haritasi (arazi + detay yamasi paylasir)
 // arazi rengi — hem ana arazi hem yakin alan detay yamasi ayni formulu kullanir
 const _AR = new THREE.Color();
-const _acPatika = new THREE.Color(0x4a3b2b);
-const _ac1 = new THREE.Color(0x6b5c44), _ac2 = new THREE.Color(0x53483a),
-      _ac3 = new THREE.Color(0x3b3128), _ac4 = new THREE.Color(0x45423f);
+const _acPatika = new THREE.Color(0x51402b);
+const _ac1 = new THREE.Color(0x765d3c), _ac2 = new THREE.Color(0x514938),
+      _ac3 = new THREE.Color(0x352d25), _ac4 = new THREE.Color(0x4b5050);
 // ── ASINMIS PATIKALAR ──
 // Bir oba 'kullanilir'. Yurtlar arasindaki gecisler cignenir: toprak koyulasir,
 // sikisir, cim seyrelir. Bu olmadan oba 'yeni kurulmus dekor' gibi okunuyor.
@@ -762,7 +786,7 @@ function araziRenk(x, z, out){
   out.copy(_ac1).lerp(_ac2, clamp(ya*1.4-.2,0,1));
   out.lerp(_ac3, Math.max(clamp(eg*.16,0,.7), mrk*.88));
   if (eg > 5) out.lerp(_ac4, clamp((eg-5)*.12,0,.8));
-  out.multiplyScalar(.40 + .24*mi);
+  out.multiplyScalar(.70 + .25*mi);
   return out;   // patika artik shader'da (izgara cozunurlugu yetmiyordu)
 }
 {
@@ -775,7 +799,6 @@ function araziRenk(x, z, out){
   }
   g.setAttribute('color', new THREE.BufferAttribute(R,3)); g.computeVertexNormals();
   window.__araziG = g;
-  const zn = D_DERI.n.clone(); zn.repeat.set(300,300); zn.needsUpdate = true;
   // su birikintisi purüz haritasi: koyu bolgeler = islak = ayna gibi yansitir
   ISLAKLIK = (()=>{ const N=256, c=_tuval(N), x=c.getContext('2d');
     const im=x.createImageData(N,N);
@@ -788,8 +811,7 @@ function araziRenk(x, z, out){
     const tx=new THREE.CanvasTexture(c); tx.wrapS=tx.wrapT=THREE.RepeatWrapping;
     tx.repeat.set(30,30); return tx; })();
   const m = new THREE.Mesh(g, isimaSade(new THREE.MeshStandardMaterial({vertexColors:true, roughness:1.0,
-    normalMap:zn, normalScale:new THREE.Vector2(.55,.55), roughnessMap:ISLAKLIK, metalness:0,
-    envMapIntensity:1.35 }), 1.15));
+    roughnessMap:ISLAKLIK, metalness:0, envMapIntensity:1.05 }), 1.10));
   m.receiveShadow = true; scene.add(m);
 }
 const cimMat = new THREE.MeshStandardMaterial({ color:0xffffff, side:THREE.DoubleSide, roughness:1 });
@@ -797,8 +819,8 @@ cimMat.onBeforeCompile = s => { s.uniforms.t = {value:0}; cimMat.userData.s = s;
   s.vertexShader = 'uniform float t;\nvarying float vY;\n' + s.vertexShader
     .replace('#include <begin_vertex>', `#include <begin_vertex>
       vY=uv.y; float ph=float(gl_InstanceID)*0.61;
-      float w=sin(t*1.4+ph)*0.24+sin(t*2.9+ph*1.8)*0.09;
-      transformed.x+=w*pow(uv.y,1.7)*0.95; transformed.z+=w*0.42*pow(uv.y,1.7);`);
+      float w=sin(t*1.15+ph)*0.18+sin(t*2.35+ph*1.8)*0.055;
+      transformed.x+=w*pow(uv.y,1.7)*0.46; transformed.z+=w*0.20*pow(uv.y,1.7);`);
   s.fragmentShader = 'varying float vY;\n' + s.fragmentShader
     .replace('#include <color_fragment>', `#include <color_fragment>
       diffuseColor.rgb *= mix(0.30, 1.02, vY);`);
@@ -826,8 +848,8 @@ cimMat.onBeforeCompile = s => { s.uniforms.t = {value:0}; cimMat.userData.s = s;
     const s = (.7+Math.random()*.9)*mrk;
     M4.compose(V.set(x,H(x,z)-.05,z), Q, S.set(s*(.8+Math.random()*.5), s, s));
     cim.setMatrixAt(i, M4);
-    const t = .72+Math.random()*.5, ye = Math.random()<.25;
-    R[i*3]=(ye?.30:.44)*t; R[i*3+1]=(ye?.29:.38)*t; R[i*3+2]=(ye?.18:.22)*t;
+    const t = .76+Math.random()*.42, kuru = Math.random()<.28;
+    R[i*3]=(kuru?.39:.25)*t; R[i*3+1]=(kuru?.31:.31)*t; R[i*3+2]=(kuru?.13:.11)*t;
   }
   cim.instanceColor = new THREE.InstancedBufferAttribute(R,3); scene.add(cim);
 }
@@ -843,11 +865,9 @@ detayGeo.rotateX(-Math.PI/2);
   const c = new Float32Array(detayGeo.attributes.position.count*3).fill(.5);
   detayGeo.setAttribute('color', new THREE.BufferAttribute(c,3));
 }
-const detayZn = D_DERI.n.clone(); detayZn.repeat.set(56,56); detayZn.needsUpdate = true;
 const detayMesh = new THREE.Mesh(detayGeo, isimaSade(new THREE.MeshStandardMaterial({
   vertexColors:true, roughness:1.0, metalness:0,
-  normalMap:detayZn, normalScale:new THREE.Vector2(.85,.85),
-  roughnessMap:ISLAKLIK, envMapIntensity:1.35,
+  envMapIntensity:1.05,
   polygonOffset:true, polygonOffsetFactor:-3, polygonOffsetUnits:-3 }), 1.15));
 detayMesh.receiveShadow = true; scene.add(detayMesh);
 let detayCx = 1e9, detayCz = 1e9;
@@ -870,7 +890,9 @@ let detayCx = 1e9, detayCz = 1e9;
       kH.push(H(x,z)); araziRenk(x, z, _c); kR.push(_c.r, _c.g, _c.b);
     }
     _dParca = 0;                        // sonraki karelerde detayIsle() devam eder
-    detayMesh.position.set(cx, 0, cz);
+    // Görünen yamayı burada taşımıyoruz. Yeni geometri dört karede arkada
+    // hazırlanır; hazır olmadan taşınırsa eski yükseklikler yeni konumda
+    // görünür ve yürürken zemin sıçrar.
   }
   function detayIsle(){
     if (_dParca < 0) return;
@@ -902,6 +924,7 @@ let detayCx = 1e9, detayCz = 1e9;
       _dParca = -1;
       pa.needsUpdate = true; ca.needsUpdate = true;
       detayGeo.computeVertexNormals(); detayGeo.computeBoundingSphere();
+      detayMesh.position.set(_dCx, 0, _dCz);              // atomik yer değişimi
     }
   }
   window.__detayKur = detayKur; window.__detayIsle = detayIsle;
@@ -1669,6 +1692,13 @@ class Insan {
                      kilX:p.kilX, kilZ:p.kilZ, pelR:p.pelR };
       }
       if (E !== 'blok' && u >= 1) {
+        // 2π ile 0 görsel olarak aynıdır fakat sayısal poz karıştırıcı bunu
+        // bilmez. Takla sonunda 6.28'i yavaşça 0'a çekmek karakteri geriye
+        // doğru "açıyordu". Tam tur bittiği anda eşdeğer sıfıra sar.
+        if (E === 'takla') {
+          this.cur.egim=0; this.poz.egim=0; this.cur.egimY=0; this.poz.egimY=0;
+          this.egimG.rotation.x=0; this.egimG.position.y=0;
+        }
         this.eylem = (E === 'devril') ? 'devril_bekle' : null;
         if (E === 'devril') { this.eylem = 'devril_bekle'; this.eT = 0; }
       }
@@ -1818,7 +1848,8 @@ class Insan {
     }
 
     // ── BAŞ HEDEF KİLİDİ: rakip varsa göz teması kurar (gövde de hafif döner)
-    if (this.bakHedef && !this.olu && this.eylem !== 'devril' && this.eylem !== 'devril_bekle') {
+    if (this.bakHedef && !this.olu && this.eylem !== 'takla'
+        && this.eylem !== 'devril' && this.eylem !== 'devril_bekle') {
       this.kok.getWorldPosition(this._a);
       const dx = this.bakHedef.x - this._a.x, dz = this.bakHedef.z - this._a.z;
       let hy = Math.atan2(dx, dz) - this.kok.rotation.y - c.pelR - c.govY;
@@ -1913,8 +1944,9 @@ kaya.birlesikSayi = iskeletiBirlestir(kaya.kok);
 kaya.kok.position.set(-13, H(-13,-7), -7); kaya.kok.rotation.y = Math.PI*.8; scene.add(kaya.kok);
 
 // ═══════════ 8. ÇEVRE ═══════════
-const kecemat = () => kenar(new THREE.MeshStandardMaterial({color:0x7d7361, roughness:1, normalMap:D_KUMAS.n, normalScale:new THREE.Vector2(1.6,1.6)}), new THREE.Color(0x8fa0d8), .18);
-const ahsap = () => kenar(new THREE.MeshStandardMaterial({color:0x5a4227, roughness:.95}), new THREE.Color(0x7f8fc8), .22);
+const kecemat = () => kenar(new THREE.MeshStandardMaterial({color:0x887b64, roughness:1, normalMap:D_KUMAS.n, normalScale:new THREE.Vector2(1.25,1.25)}), new THREE.Color(0x8fa0d8), .18);
+const ahsap = () => kenar(new THREE.MeshStandardMaterial({color:0x654225, roughness:.92,
+  normalMap:D_AHSAP.n, normalScale:new THREE.Vector2(.72,.72)}), new THREE.Color(0x7f8fc8), .20);
 const bacalar = [];
 const yurtlar = [];   // patika ve ic isik icin
 function yurt(x,z,s=1){
@@ -1936,8 +1968,8 @@ function yurt(x,z,s=1){
   for(let i=0;i<5;i++){ const a=Math.random()*6.28, yy=.45+Math.random()*1.25;
     const w=.45+Math.random()*.55, hh=.35+Math.random()*.5;
     const ym=new THREE.Mesh(new THREE.PlaneGeometry(w,hh),
-      kenar(new THREE.MeshStandardMaterial({color:0x6a6152, roughness:1,
-        normalMap:D_KUMAS.n, normalScale:new THREE.Vector2(1.8,1.8), side:THREE.DoubleSide}),
+      kenar(new THREE.MeshStandardMaterial({color:0x6d5d49, roughness:1,
+        normalMap:D_KUMAS.n, normalScale:new THREE.Vector2(1.35,1.35), side:THREE.DoubleSide}),
         new THREE.Color(0x8fa0d8), .16));
     const rr=2.60+ (yy-1.0)*.08;
     ym.position.set(Math.cos(a)*rr, yy, Math.sin(a)*rr);
@@ -1972,7 +2004,8 @@ function yurt(x,z,s=1){
   }
   const cr=new THREE.Mesh(new THREE.BoxGeometry(1.12,1.55,.10), ahsap()); cr.position.set(0,.78,2.66); g.add(cr);
   const kn=new THREE.Mesh(new THREE.BoxGeometry(.92,1.34,.06),
-    kenar(new THREE.MeshStandardMaterial({color:0x2e2114,roughness:1}), new THREE.Color(0x6f7fb8), .18));
+    kenar(new THREE.MeshStandardMaterial({color:0x302116,roughness:1,normalMap:D_AHSAP.n,
+      normalScale:new THREE.Vector2(.55,.55)}), new THREE.Color(0x6f7fb8), .18));
   kn.position.set(0,.74,2.73); g.add(kn);
   // kapi kecesi: yandan toplanip baglanmis agir ortu
   { const kg=new THREE.PlaneGeometry(1.02,1.44,6,8), pa=kg.attributes.position;
@@ -1980,8 +2013,8 @@ function yurt(x,z,s=1){
       pa.setZ(i, Math.sin(px*7.5)*.045 + (py<0?.05:0));
       pa.setX(i, px*(1+(-py/1.44)*.10)); }
     kg.computeVertexNormals();
-    const km2=new THREE.Mesh(kg, kenar(new THREE.MeshStandardMaterial({color:0x5f5648,
-      roughness:1, normalMap:D_KUMAS.n, normalScale:new THREE.Vector2(2.0,2.0),
+    const km2=new THREE.Mesh(kg, kenar(new THREE.MeshStandardMaterial({color:0x65533f,
+      roughness:1, normalMap:D_KUMAS.n, normalScale:new THREE.Vector2(1.45,1.45),
       side:THREE.DoubleSide}), new THREE.Color(0x8fa0d8), .16));
     km2.position.set(.30,.80,2.80); km2.rotation.y=-.42; km2.castShadow=true; g.add(km2); }
   for(let i=0;i<10;i++){ const a=i/10*Math.PI*2;
@@ -2000,7 +2033,8 @@ function yurt(x,z,s=1){
 yurt(-22,15,1.15); yurt(-31,-8,.95); yurt(17,21,1.0); yurt(27,-3,.9); yurt(-7,27,1.05); yurt(9,-26,1.0);
 {
   const M4=new THREE.Matrix4(),Q=new THREE.Quaternion(),Sv=new THREE.Vector3(),V=new THREE.Vector3();
-  const kM=kenar(new THREE.MeshStandardMaterial({color:0x5c5a58,roughness:.98}),new THREE.Color(0x8b9adc),.30);
+  const kM=kenar(new THREE.MeshStandardMaterial({color:0x596064,roughness:.96,
+    normalMap:D_TAS.n,normalScale:new THREE.Vector2(.62,.62)}),new THREE.Color(0x8b9adc),.24);
   const ks=new THREE.InstancedMesh(new THREE.DodecahedronGeometry(1,0),kM,90);
   const kR=new Float32Array(270);
   for(let i=0;i<90;i++){ const r=13+Math.pow(Math.random(),.6)*150,a=Math.random()*6.28;
@@ -2279,7 +2313,7 @@ const ocak = { alevler: [], korlar: [], nokta: new THREE.Vector3(13,0,9) };
   // ── TASLAR (620) — zemine yarim gomulu, AO'nun tutunacagi ilk sey
   {
     const im = new THREE.InstancedMesh(new THREE.IcosahedronGeometry(1,0),
-      MAT(0x645f56,.96,.03,D_DERI,1.5), 620);
+      MAT(0x5c6263,.97,.01,D_TAS,.66), 620);
     for (let i=0;i<620;i++){
       const a=rnd()*6.283, r=2.5+Math.pow(rnd(),.5)*66;
       const x=Math.cos(a)*r, z=Math.sin(a)*r, s=.055+Math.pow(rnd(),2.5)*.46;
@@ -2305,10 +2339,10 @@ const ocak = { alevler: [], korlar: [], nokta: new THREE.Vector3(13,0,9) };
     im.castShadow = true; scene.add(im);
   }
 
-  const odunMat  = MAT(0x4a3722,.96,.03,D_DERI,1.3);
-  const cuvalMat = MAT(0x6b5f47,1,.02,D_KUMAS,2.2);
+  const odunMat  = MAT(0x654225,.94,.02,D_AHSAP,.72);
+  const cuvalMat = MAT(0x796847,1,.02,D_KUMAS,1.55);
   const demirMat = MAT(0x2f2c28,.62,.66,D_CELIK,.7,true);
-  const bezMat   = MAT(0x6d5a44,1,.02,D_KUMAS,2.2); bezMat.side = THREE.DoubleSide;
+  const bezMat   = MAT(0x76503b,1,.02,D_KUMAS,1.55); bezMat.side = THREE.DoubleSide;
 
   // ── ODUN YIGINLARI (11)
   for (let k=0;k<11;k++){
@@ -2358,7 +2392,7 @@ const ocak = { alevler: [], korlar: [], nokta: new THREE.Vector3(13,0,9) };
   // ── FICILAR (6)
   for(let k=0;k<6;k++){
     const yz=yerBul(9,34), g=new THREE.Group(); g.position.set(yz[0],H(yz[0],yz[1]),yz[1]);
-    const b=new THREE.Mesh(new THREE.CylinderGeometry(.29,.25,.70,14), MAT(0x4e3a24,.94,.04,D_DERI,1.3));
+    const b=new THREE.Mesh(new THREE.CylinderGeometry(.29,.25,.70,14), MAT(0x5e3d22,.94,.03,D_AHSAP,.72));
     b.position.y=.35; b.castShadow=b.receiveShadow=true; g.add(b);
     for(const yy of [.13,.57]){
       const h=new THREE.Mesh(new THREE.TorusGeometry(.293,.021,5,16), demirMat);
@@ -2755,6 +2789,10 @@ const pusKatlari = [];
 // EffectComposer tampon takasi yapsa bile derinlik hep ayni yerde olsun.
 const _pr = renderer.getPixelRatio();
 const anaRT = new THREE.WebGLRenderTarget(innerWidth*_pr, innerHeight*_pr, { type: THREE.HalfFloatType });
+// Kenarları sonradan bütün kareyi yumuşatarak değil, geometri çizilirken çöz.
+// Dört örnekli MSAA hareket hâlinde ayrıntıyı korur ve SMAA'nın son filtre
+// katmanının ürettiği hafif genel yumuşamayı ortadan kaldırır.
+anaRT.samples = Math.min(4, renderer.capabilities.maxSamples || 4);
 anaRT.depthTexture = new THREE.DepthTexture(innerWidth*_pr, innerHeight*_pr);
 anaRT.depthTexture.type = THREE.UnsignedIntType;
 const composer = new EffectComposer(renderer, anaRT);
@@ -2966,15 +3004,14 @@ ssrPass.material.depthWrite = false; ssrPass.material.depthTest = false;
 composer.addPass(ssrPass);
 
 // ═══ HAREKET BULANIKLIGI ═══
-// Akicilik algisinin en buyuk tek kaldiraci. Onceki karenin goruntu-projeksiyon
-// matrisi saklanir; her piksel icin dunya konumu geri kurulup ONCEKI karede
-// nerede oldugu bulunur. Aradaki ekran-uzayi fark hiz vektorudur.
+// Önceki karenin görüntü-projeksiyon matrisiyle ekran-uzayı hızını bulur.
+// Etki bilinçli olarak hafiftir; akıcılık uğruna sahne ayrıntısını ezmemeli.
 const hbPass = new ShaderPass({
   uniforms: {
     tDiffuse:{value:null}, tDepth:{value:anaRT.depthTexture},
     projTers:{value:new THREE.Matrix4()}, kamMat:{value:new THREE.Matrix4()},
     oncekiVP:{value:new THREE.Matrix4()},
-    guc:{value:0.62}, enFazla:{value:0.055}
+    guc:{value:0.18}, enFazla:{value:0.018}
   },
   vertexShader:`varying vec2 vUv; void main(){vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
   fragmentShader:`
@@ -3011,7 +3048,7 @@ composer.addPass(hbPass);
 const dofPass = new ShaderPass({
   uniforms:{ tDiffuse:{value:null}, tDepth:{value:anaRT.depthTexture},
              projTers:{value:new THREE.Matrix4()}, coz:{value:new THREE.Vector2(1,1)},
-             odak:{value:8}, menzil:{value:34}, enBulanik:{value:4}, onGuc:{value:.35} },
+             odak:{value:8}, menzil:{value:52}, enBulanik:{value:2}, onGuc:{value:.16} },
   vertexShader:`varying vec2 vUv; void main(){vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
   fragmentShader:`
     uniform sampler2D tDiffuse, tDepth; uniform mat4 projTers; uniform vec2 coz;
@@ -3077,17 +3114,22 @@ const huzmePass = new ShaderPass({
 huzmePass.enabled = false;
 
 const gradePass = new ShaderPass({
-  uniforms:{ tDiffuse:{value:null}, vig:{value:1}, doy:{value:.72}, t:{value:0}, ka:{value:.0021}, poz:{value:1.42} },
+  uniforms:{ tDiffuse:{value:null}, vig:{value:1}, doy:{value:.74}, t:{value:0},
+             coz:{value:new THREE.Vector2(1,1)}, keskin:{value:.16}, poz:{value:1.50} },
   vertexShader:`varying vec2 vUv; void main(){vUv=uv; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
-  fragmentShader:`uniform sampler2D tDiffuse; uniform float vig, doy, t, ka, poz; varying vec2 vUv;
+  fragmentShader:`uniform sampler2D tDiffuse; uniform float vig, doy, t, keskin, poz;
+    uniform vec2 coz; varying vec2 vUv;
     void main(){ vec2 p=(vUv-.5)*vec2(1.10,1.);
-      // KROMATİK SAPMA: kenara gittikçe artan lens ayrışması (R/B farklı UV'den okunur)
-      float kk = dot(p,p) * ka;
-      vec2 yonR = p * kk, yonB = p * kk * 1.6;
-      vec4 c; c.r = texture2D(tDiffuse, vUv - yonR).r;
-      c.g = texture2D(tDiffuse, vUv).g;
-      c.b = texture2D(tDiffuse, vUv + yonB).b;
-      c.a = 1.0;
+      // NETLİK: kromatik sapma ve üst üste blur yerine kontrollü unsharp mask.
+      // Merkez örneği dört doğrudan komşusundan ayırır; geometri kenarları
+      // belirginleşir ama piksel gürültüsü/halelenme üretmeyecek kadar hafiftir.
+      vec2 px = 1.0/max(coz,vec2(1.0));
+      vec3 merkez = texture2D(tDiffuse,vUv).rgb;
+      vec3 cevre = (texture2D(tDiffuse,vUv+vec2(px.x,0.)).rgb
+                  + texture2D(tDiffuse,vUv-vec2(px.x,0.)).rgb
+                  + texture2D(tDiffuse,vUv+vec2(0.,px.y)).rgb
+                  + texture2D(tDiffuse,vUv-vec2(0.,px.y)).rgb)*.25;
+      vec4 c=vec4(max(merkez+(merkez-cevre)*keskin,0.0),1.0);
       // ── LINEAR UZAYDA RENKLENDIRME (tonlamadan ONCE) ──
       c.rgb = max(c.rgb, 0.0) * poz;
       float l = dot(c.rgb, vec3(.299,.587,.114));
@@ -3101,15 +3143,23 @@ const gradePass = new ShaderPass({
       // Parlak bolgelerin dogal sekilde beyaza doymasina izin verilir.
       { vec3 x = c.rgb * 0.62;
         c.rgb = clamp((x*(2.51*x+0.03)) / (x*(2.43*x+0.59)+0.14), 0.0, 1.0); }
-      // ── GORUNTU UZAYI: ACES'in yumusak toe'su siyahlari kaldiriyor, geri bastir
-      c.rgb = pow(c.rgb, vec3(1.28));
-      c.rgb *= mix(1., smoothstep(1.22,.36,length(p)), vig);                     // vinyet
-      float grain = fract(sin(dot(vUv*vec2(1.0,1.0)+t, vec2(12.9898,78.233)))*43758.5453);
-      c.rgb += (grain-0.5)*0.016;
+      // Gece karanlik kalir; ancak orta tonlar ezilmez. Onceki 1.28 gama,
+      // karakter ile zemini ayni siyaha gomuyordu.
+      c.rgb = pow(c.rgb, vec3(1.17));
+      float karanlik = 1.0-smoothstep(0.025,0.30,dot(c.rgb,vec3(.299,.587,.114)));
+      c.rgb += vec3(.005,.007,.012)*karanlik;
+      // Ters kenarlı smoothstep GLSL'de tanımsızdı; açık bir tersleme kullan.
+      c.rgb *= mix(1., 1.0-smoothstep(.36,1.22,length(p)), vig);                 // vinyet
+      // Hareketli film tanesi yürüyüşte ince ayrıntıyı kaynıyormuş gibi
+      // gösteriyordu. Çok hafif, sabit bir doku aynı atmosferi korur.
+      float grain = fract(sin(dot(vUv, vec2(12.9898,78.233)))*43758.5453);
+      c.rgb += (grain-0.5)*0.0008;
       gl_FragColor=c; }`
 });
 composer.addPass(gradePass);
-composer.addPass(new SMAAPass());   // tirtikli kenarlar 'amatör WebGL' diye bagiriyordu
+const smaaPass = new SMAAPass();
+smaaPass.enabled = false;            // anaRT üzerindeki 4x MSAA daha keskin sonuç verir
+composer.addPass(smaaPass);
 
 // ═══════════ 11. GİRDİ ═══════════
 const tus = {}; let blokBasili = false;
@@ -3157,15 +3207,28 @@ const dEl=document.getElementById('diyalog'), dAd=document.getElementById('dad')
       dMt=document.getElementById('dmetin'), ipEl=document.getElementById('ipucu'),
       gorevEl=document.getElementById('gorev');
 let diyalogAcik=false, dS=[], dI=0, dY=0, dT='', dBitti=null;
+// Anlatı satırları isteğe bağlı bir üçüncü alan taşıyabilir: { kadraj:'...' }.
+// Böylece metin yalnızca HUD'da okunmaz; kamera da o cümlenin görsel yükünü taşır.
+let anlatiKadraj=null, anlatiKadrajAn=0;
+function anlatiKadrajAyarla(ad){
+  anlatiKadraj = ad || null;
+  anlatiKadrajAn = saat;
+  if (ad) sinematik = 0;   // açılış süzülüşünden yönetilen kadraja tek kez devret
+}
 function konus(satirlar, bitti){ dS=satirlar; dI=-1; dBitti=bitti||null;
-  diyalogAcik=true; dEl.classList.add('acik'); diyalogIlerle(); }
+  diyalogAcik=true; dEl.classList.add('acik');
+  if (kilitBilgi) kilitBilgi.style.opacity=0;
+  diyalogIlerle(); }
 function diyalogIlerle(){
   if (dY < dT.length) { dY = dT.length; dMt.textContent = dT; return; }
   dI++;
   if (dI >= dS.length) { diyalogAcik=false; dEl.classList.remove('acik');
+    anlatiKadrajAyarla(null);
+    if (kilitBilgi) kilitBilgi.style.opacity=kilitli()?0:1;
     const f=dBitti; dBitti=null; if(f) f(); return; }
   dAd.textContent = dS[dI][0]; dAd.style.display = dS[dI][0] ? '' : 'none';
   dT = dS[dI][1]; dY = 0; dMt.textContent = '';
+  anlatiKadrajAyarla(dS[dI][2] && dS[dI][2].kadraj);
 }
 function gorev(m){ gorevEl.textContent = m; }
 
@@ -3377,17 +3440,21 @@ function etkilesim(){
 let saat=0, sonZ=performance.now(), hedefYaw=Math.PI;
 let kalite = 1.0;
 function kaliteUygula(){
-  renderer.setPixelRatio(Math.min(devicePixelRatio, .62 + kalite*.68));
+  // Görüntü netliği performans kademesiyle düşürülmez. Zayıf cihazlarda pahalı
+  // efektler kapanır; ana görüntü düşük çözünürlüğe indirilmez.
+  renderer.setPixelRatio(Math.min(devicePixelRatio, 1.75));
   renderer.setSize(innerWidth, innerHeight);
   composer.setSize(innerWidth, innerHeight);
   // Kademeler maliyet sirasina gore: SSR (20 adim) > hacim (14x6) > AO (9x5) > DOF
-  hbPass.enabled    = kalite > .56;                        // hareket bulanikligi
-  ssrPass.enabled   = kalite > .74;
+  hbPass.enabled    = false;                               // netlik: hareket bulanıklığı kapalı
+  // Islak zemindeki ekran-uzayi yansima yururken tarama/parlama uretiyordu.
+  // Kararli ortam yansimasi kalir; SSR daha sonra zamansal cozumle geri donecek.
+  ssrPass.enabled   = false;
   ssrPass.uniforms.menzil.value = kalite > .88 ? 26 : 16;   // menzil kisalinca adim da kisalir
   hacimPass.enabled = kalite > .46;                        // en son duser: sahneyi bu tasiyor
   hacimPass.uniforms.adimSay.value = kalite > .86 ? 14 : (kalite > .68 ? 10 : (kalite > .54 ? 7 : 5));
   aoPass.enabled  = kalite > .64;
-  dofPass.enabled = kalite > .58;
+  dofPass.enabled = false;                                 // netlik: alan derinliği kapalı
   ayI.shadow.mapSize.setScalar(kalite > .78 ? 2048 : 1024);
   if (ayI.shadow.map) { ayI.shadow.map.dispose(); ayI.shadow.map = null; }
 }
@@ -3411,8 +3478,8 @@ function zamanGuncelle(dt, P){
   // ORTAM: safakta gokyuzu genel aydinlatmayi devralir
   ortamI.color.copy(_ortG0).lerp(_ortG1, z);
   ortamI.groundColor.copy(_ortY0).lerp(_ortY1, z);
-  ortamI.intensity = lerp(0.78, 2.35, z);
-  scene.environmentIntensity = lerp(0.62, 1.15, z);
+  ortamI.intensity = lerp(1.02, 2.35, z);
+  scene.environmentIntensity = lerp(0.72, 1.15, z);
   // HACIMSEL SIS: soguk mavi → altin
   hacimPass.uniforms.gokRenk.value.copy(_sisG).lerp(_sisS, z);       // adim-basina sacilma
   hacimPass.uniforms.gokYog.value = lerp(0.10, 0.16, z);
@@ -3426,10 +3493,34 @@ const V3 = new THREE.Vector3(), V4 = new THREE.Vector3(), V5 = new THREE.Vector3
 // ── kamera durumu: yayli kol, gecikmeli bakis, FOV, darbe yumrugu
 const kamHed = new THREE.Vector3(), kamIst = new THREE.Vector3(), kamBak = new THREE.Vector3();
 const kamIleri = new THREE.Vector3(), kamYum = new THREE.Vector3(), kamYumV = new THREE.Vector3();
+const anlatiYon = new THREE.Vector3(), anlatiYan = new THREE.Vector3(), anlatiOrta = new THREE.Vector3();
 let fovTekme = 0;
 const _vpSimdi = new THREE.Matrix4(), _vpOnceki = new THREE.Matrix4();
 // ── ivmeli hareket: 0'dan tam hiza tek karede sicramak "oyuncak" hissi veriyordu
 const hedefHizV = new THREE.Vector3(), anlikHizV = new THREE.Vector3();
+// Açılış kadrajları nesnelere bağlıdır; karakter yer değiştirirse kamera da aynı
+// dramatik ilişkiyi korur. Sabit dünya koordinatları bu yüzden kullanılmıyor.
+function anlatiKadrajHesapla(ad, poz, bak){
+  const P=togan.kok.position, K=kukla.position;
+  anlatiYon.set(K.x-P.x,0,K.z-P.z);
+  if (anlatiYon.lengthSq()<.01) anlatiYon.set(Math.sin(togan.kok.rotation.y),0,Math.cos(togan.kok.rotation.y));
+  else anlatiYon.normalize();
+  anlatiYan.set(anlatiYon.z,0,-anlatiYon.x);
+  anlatiOrta.set((P.x+K.x)*.5, P.y+.72, (P.z+K.z)*.5);
+
+  if (ad==='acilis_genis') {
+    poz.copy(anlatiOrta).addScaledVector(anlatiYon,-10.5).addScaledVector(anlatiYan,8.2);
+    poz.y=P.y+7.2; bak.copy(anlatiOrta).lerp(P,.34); bak.y=P.y+1.05; return 41;
+  }
+  if (ad==='talim_izi') {
+    poz.copy(anlatiOrta).addScaledVector(anlatiYon,-4.5).addScaledVector(anlatiYan,5.1);
+    poz.y=P.y+3.0; bak.copy(anlatiOrta).addScaledVector(anlatiYon,.65); bak.y=P.y+.88; return 43;
+  }
+  // Togan'ın önünden, kuklanın bulunduğu hattan bakış. Yüz, kılıç ve kukla
+  // aynı eksende kalır; cümle bir altyazı değil karakter anı gibi okunur.
+  poz.copy(P).addScaledVector(anlatiYon,2.85).addScaledVector(anlatiYan,1.05);
+  poz.y=P.y+1.78; bak.set(P.x,P.y+1.28,P.z); return 35;
+}
 function tik(){
   const simdi=performance.now();
   let dt = Math.min(.05,(simdi-sonZ)/1000); sonZ=simdi;
@@ -3457,7 +3548,9 @@ function tik(){
   kupSayac -= dt;
   if (kupSayac <= 0) { kupSayac = 1.2;
     cevreYenile(togan.kok.position.x, togan.kok.position.y + 2.2, togan.kok.position.z); }
-  { const nx = Math.round(togan.kok.position.x/DET_KILIT)*DET_KILIT;
+  // Takla yarım saniyede birkaç 2 m hücre geçebilir. 28 m'lik mevcut yama
+  // rahatça yeter; yuvarlanma bitene kadar yeni zemin takası yapma.
+  if (togan.eylem!=='takla') { const nx = Math.round(togan.kok.position.x/DET_KILIT)*DET_KILIT;
     const nz = Math.round(togan.kok.position.z/DET_KILIT)*DET_KILIT;
     if (nx !== detayCx || nz !== detayCz) { detayCx=nx; detayCz=nz; window.__detayKur(nx,nz); }
     window.__detayIsle(); }
@@ -3556,7 +3649,7 @@ function tik(){
   }
 
   // ── Kaya
-  kayaYZ(dt);
+  if (kayaYurusu) kayaYurusuGuncelle(dt); else kayaYZ(dt);
   const kDarbe = kaya.guncelle(saat, dt, kaya._hiz||0, kaya._blok === true);
   if (kDarbe) {
     const s = darbeUygula(kaya, togan, asama==='parry_sinavi'?10:14, kDarbe);
@@ -3689,7 +3782,19 @@ function tik(){
   ipEl.style.opacity = konusabilir ? 1 : 0;
 
   // ── kamera
-  if (sinematik > 0) {
+  if (diyalogAcik && anlatiKadraj) {
+    // Yönetilen anlatı kamerası: kesme yerine kontrollü bir ray hareketi.
+    // İlk anda daha çevik, yerini bulduktan sonra ağırlaşır.
+    const kadrajFov = anlatiKadrajHesapla(anlatiKadraj, kamIst, kamHed);
+    const yas = saat-anlatiKadrajAn;
+    const kp = 1-Math.exp(-dt/(yas<.28?.18:.42));
+    const kb = 1-Math.exp(-dt/(yas<.28?.15:.30));
+    camera.position.lerp(kamIst,kp); kamBak.lerp(kamHed,kb);
+    camera.lookAt(kamBak);
+    camera.fov += (kadrajFov-camera.fov)*(1-Math.exp(-dt/.32));
+    camera.updateProjectionMatrix();
+  }
+  else if (sinematik > 0) {
     // acilis: obanin uzerinden karakterin omzuna suzulen kamera
     sinematik -= dt;
     const u2 = clamp(1 - sinematik/4.2, 0, 1);
@@ -3703,7 +3808,7 @@ function tik(){
   else if (window.__dbg && window.__dbg.don) { /* gelistirme: kamera dondurulmus */ } else {
     const hy = 1.58 + (togan.eylem==='devril_bekle' ? -.95 : 0);
     // ileriye bakis: bakis noktasi hiz yonune kayar → gidilen yer gorunur
-    kamIleri.lerp(V4.set(anlikHizV.x*.19, 0, anlikHizV.z*.19), 1-Math.exp(-dt/.30));
+    kamIleri.lerp(V4.set(anlikHizV.x*.10, 0, anlikHizV.z*.10), 1-Math.exp(-dt/.18));
     kamHed.set(P.x+kamIleri.x, P.y+hy, P.z+kamIleri.z);
     // 3/4 modda aci ve mesafe SABIT: her kare ayni sekilde kompoze olur.
     // Ucuncu sahiste oyuncunun nereye bakti§i belirliyordu; hicbir kare
@@ -3724,21 +3829,26 @@ function tik(){
     // mod degisiminde ISINLA: yayla 15 m yol almak hem yavas hem cirkin
     if (kamAtla) { camera.position.copy(kamIst); kamBak.copy(kamHed); kamAtla = false; }
     else camera.position.lerp(kamIst, 1-Math.exp(-dt/.13));       // yayli kol
-    kamBak.lerp(kamHed, 1-Math.exp(-dt/.22));                     // gecikmeli bakis
+    // Konum ve bakış aynı tepki süresini kullanır. Farklı gecikmeler yürürken
+    // kamerayı hedefin çevresinde istemeden döndürüp tüm kareyi yüzdürüyordu.
+    kamBak.lerp(kamHed, 1-Math.exp(-dt/.13));
     // darbe yumrugu
     kamYum.addScaledVector(kamYumV, dt); kamYumV.multiplyScalar(Math.exp(-dt*13));
     kamYum.multiplyScalar(Math.exp(-dt*8.5)); camera.position.add(kamYum);
-    // el kamerasi + sarsinti
+    // Oynanış kamerası yürürken sabittir. Darbe sarsıntısı yalnızca gerçekten
+    // darbe alındığında devreye girer; sürekli "el kamerası" netliği bozmaz.
     sarsinti *= Math.pow(.0008, dt);
-    const el = .009 + Math.min(hiz,6)*.0024;
-    camera.position.x += Math.sin(saat*1.7)*el + (Math.random()-.5)*sarsinti;
-    camera.position.y += Math.sin(saat*2.3+1.1)*el*.8 + (Math.random()-.5)*sarsinti;
-    camera.position.z += Math.sin(saat*1.3+2.2)*el + (Math.random()-.5)*sarsinti;
+    const sx=(Math.sin(saat*37.1)+Math.sin(saat*61.7+1.4)*.42)*sarsinti*.18;
+    const sy=(Math.sin(saat*43.7+.8)+Math.sin(saat*73.3)*.34)*sarsinti*.12;
+    const sz=(Math.sin(saat*31.9+2.2)+Math.sin(saat*57.1+.4)*.38)*sarsinti*.18;
+    camera.position.x += sx;
+    camera.position.y += sy;
+    camera.position.z += sz;
     const zAlt = H(camera.position.x, camera.position.z) + 1.05;
     if (camera.position.y < zAlt) camera.position.y = zAlt;
     camera.lookAt(kamBak);
-    // FOV: kosuda genisler, agir yuklenmede sikisir, vurusta tekmelenir
-    let fh = (cy ? CEYREK.fov : 52) + Math.min(hiz,6)*(cy ? .35 : .95) + fovTekme;
+    // Yürüyüş sırasında sürekli lens soluması yok; yalnızca darbeler FOV'u iter.
+    let fh = (cy ? CEYREK.fov : 52) + fovTekme;
     if (togan.eylem === 'agir' && togan.eT < .40) fh -= 3.4;
     camera.fov += (fh - camera.fov) * (1-Math.exp(-dt/.13));
     camera.updateProjectionMatrix();
@@ -3798,6 +3908,10 @@ function tik(){
   // ── hareket bulanikligi: bu karenin VP'sini sakla, onceki kareyi kullan
   {
     const u = hbPass.uniforms;
+    // Yönetilen kamera geçişleri zaten yumuşak. Onlara blur eklemek bütün kareyi
+    // eritiyordu; oynanışta da yalnızca koşu/darbede çok hafif kullan.
+    const hbHedef = (diyalogAcik && anlatiKadraj) ? 0 : (hiz>2.8 ? .20 : .10);
+    u.guc.value = lerp(u.guc.value,hbHedef,1-Math.exp(-dt/.08));
     u.projTers.value.copy(camera.projectionMatrixInverse);
     u.kamMat.value.copy(camera.matrixWorld);
     _vpSimdi.multiplyMatrices(camera.projectionMatrix, camera.matrixWorldInverse);
@@ -3807,8 +3921,10 @@ function tik(){
   dofPass.uniforms.projTers.value.copy(camera.projectionMatrixInverse);
   { const pr2 = renderer.getPixelRatio();
     dofPass.uniforms.coz.value.set(innerWidth*pr2, innerHeight*pr2);
-    aoPass.uniforms.coz.value.set(innerWidth*pr2, innerHeight*pr2); }
-  dofPass.uniforms.enBulanik.value = Math.max(2.0, innerHeight*_pr*0.0052);
+    aoPass.uniforms.coz.value.set(innerWidth*pr2, innerHeight*pr2);
+    gradePass.uniforms.coz.value.set(innerWidth*pr2, innerHeight*pr2); }
+  // Alan derinliği yalnızca uzak plan ayrımı verir; genel netliği götürmez.
+  dofPass.uniforms.enBulanik.value = Math.max(1.0, innerHeight*renderer.getPixelRatio()*0.0022);
   { const odakHedef = (window.__dbg && window.__dbg.don)
       ? camera.position.distanceTo(togan.kok.position)
       : camera.position.distanceTo(kamBak.lengthSq() ? kamBak : togan.kok.position);
@@ -3843,7 +3959,7 @@ function tik(){
       window.__msKare = +((now-window.__fpsT)/window.__kare).toFixed(1);
       if (window.__fpsEl) window.__fpsEl.textContent =
         window.__fps + ' FPS  ·  ' + window.__msKare + ' ms  ·  ' +
-        renderer.info.render.calls + ' cizim  ·  k' + kalite.toFixed(2);
+        renderer.info.render.calls + ' cizim  ·  k' + kalite.toFixed(2) + '  ·  NET5';
       window.__fpsT = now; window.__kare = 0;
       // ── uyarlanabilir kalite: zayif makinede takilmasin, guclu makinede kismasin
       const ms = window.__msKare;
@@ -3876,6 +3992,24 @@ function kayaGel(){
   kayaYurusu = { x:hx, z:hz };
 }
 let kayaYurusu = null;
+let kayaYuruHiz = 0;
+function kayaYurusuGuncelle(dt){
+  if (!kayaYurusu) return;
+  if (kaya.mesgul()) { kayaYuruHiz *= Math.exp(-dt*9); kaya._hiz=kayaYuruHiz; return; }
+  const dx=kayaYurusu.x-kaya.kok.position.x, dz=kayaYurusu.z-kaya.kok.position.z;
+  const d=Math.hypot(dx,dz);
+  if (d<.12) { kayaYurusu=null; kayaYuruHiz=0; kaya._hiz=0; return; }
+  const hedefHiz=2.7*clamp((d-.08)/1.25,.16,1);
+  const tau=hedefHiz>kayaYuruHiz ? .20 : .13;
+  kayaYuruHiz=lerp(kayaYuruHiz,hedefHiz,1-Math.exp(-dt/tau));
+  const adim=Math.min(d,kayaYuruHiz*dt), ux=dx/d, uz=dz/d;
+  kaya.kok.position.x+=ux*adim; kaya.kok.position.z+=uz*adim;
+  kaya.kok.position.y=H(kaya.kok.position.x,kaya.kok.position.z);
+  const hedef=Math.atan2(dx,dz); let fark=hedef-kaya.kok.rotation.y;
+  while(fark>Math.PI) fark-=Math.PI*2; while(fark<-Math.PI) fark+=Math.PI*2;
+  kaya.kok.rotation.y+=fark*(1-Math.exp(-dt/.11));
+  kaya._hiz=kayaYuruHiz;
+}
 function devrilmeSahnesi(){
   asamaAyarla('devrilme');
   HUD.kutu.classList.remove('acik'); gorev('');
@@ -3910,25 +4044,11 @@ function parrySinaviBitti(){
   ], () => gorev('Kartal-Yurdu\'nda dolaş — ana ateş sağda'));
 }
 
-// Kaya yürüyüşü (sahne olayı)
-(function kayaYurut(){
-  setInterval(() => {
-    if (!kayaYurusu || kaya.mesgul()) return;
-    const dx = kayaYurusu.x - kaya.kok.position.x, dz = kayaYurusu.z - kaya.kok.position.z;
-    const d = Math.hypot(dx,dz);
-    if (d < .5) { kayaYurusu = null; kaya._hiz = 0; return; }
-    kaya._hiz = 2.7;
-    kaya.kok.position.x += dx/d*2.7/60; kaya.kok.position.z += dz/d*2.7/60;
-    kaya.kok.position.y = H(kaya.kok.position.x, kaya.kok.position.z);
-    kaya.kok.rotation.y = Math.atan2(dx,dz);
-  }, 1000/60);
-})();
-
 tik();
 setTimeout(() => konus([
-  ['','BİRİNCİ KİTAP · BÖLÜM 1 — Sessiz Talim ve Kül Rengi Anılar'],
-  ['','Talim alanının toprağı, aylardır aynı yerde dönüp duran ayaklarının altında sertleşmişti.'],
-  ['Togan','Kaçıncı darbe olduğunu bilmiyorum. Şafak hâlâ ne kadar uzak?'],
+  ['','BİRİNCİ KİTAP · BÖLÜM 1 — Sessiz Talim ve Kül Rengi Anılar',{kadraj:'acilis_genis'}],
+  ['','Talim alanının toprağı, aylardır aynı yerde dönüp duran ayaklarının altında sertleşmişti.',{kadraj:'talim_izi'}],
+  ['Togan','Kaçıncı darbe olduğunu bilmiyorum. Şafak hâlâ ne kadar uzak?',{kadraj:'togan_yakin'}],
 ], () => gorev('Kuklaya git ve üç kez vur — Sol tık')), 700);
 
 addEventListener('resize', () => {

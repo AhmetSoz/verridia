@@ -16,8 +16,11 @@
   #bas .eb{font-size:9px;letter-spacing:.3em;color:var(--altin);opacity:.85}
   #bas .ad{font-family:var(--disp);font-size:21px;letter-spacing:.14em;margin:4px 0 2px}
   #bas .yer{font-size:9.5px;letter-spacing:.12em;color:var(--duman)}
-  #kontrol{top:16px;right:18px;font-size:9.5px;letter-spacing:.11em;color:var(--duman);line-height:1.9;text-align:right}
+  #kontrol{top:16px;right:18px;font-size:9.5px;letter-spacing:.11em;color:var(--duman);line-height:1.9;text-align:right;
+            transition:opacity .45s ease,transform .45s ease,padding .45s ease;transform-origin:top right}
   #kontrol b{color:var(--parsomen);font-weight:600}
+  #kontrol.sade{font-size:0;line-height:1;opacity:.62;padding:8px 11px;transform:translateY(-2px)}
+  #kontrol.sade::after{content:"F1 · KONTROLLER";font-size:8px;letter-spacing:.22em;color:var(--duman)}
 
   /* dövüş barları */
   #dovusHud{position:absolute;left:50%;top:16px;transform:translateX(-50%);width:min(520px,80vw);
@@ -76,7 +79,7 @@
     <b>Savuşturunca hemen vur</b> → karşı vuruş<br>
     <b>Shift</b> takla (yön tuşuyla) · <b>E</b> konuş<br>
     <b>Fare</b> kamera · <b>Tekerlek</b> yakınlaş · <b>Esc</b> imleç<br>
-    <b>F3</b> sayaç · <b>F5</b> kamera açısı (omuz / eğimli 3/4)
+    <b>F1</b> kontroller · <b>F3</b> sayaç · <b>F5</b> kamera açısı (omuz / eğimli 3/4)
   </div>
   <div id="dovusHud">
     <div class="barSet">
@@ -108,7 +111,12 @@
 <script type="module" src="./bolum01.js"></script>
 <script>
   window.__fpsEl = document.getElementById('fps');
-  addEventListener('keydown', function(e){ if(e.key==='F3'||e.key==='f3') __fpsEl.style.display = __fpsEl.style.display==='none' ? 'block' : 'none'; });
+  var kontrolEl=document.getElementById('kontrol');
+  setTimeout(function(){kontrolEl.classList.add('sade');},7000);
+  addEventListener('keydown', function(e){
+    if(e.key==='F1'||e.key==='f1'){e.preventDefault();kontrolEl.classList.toggle('sade');}
+    if(e.key==='F3'||e.key==='f3') __fpsEl.style.display = __fpsEl.style.display==='none' ? 'block' : 'none';
+  });
   (function(){ var p=document.getElementById('perde');
     var i=setInterval(function(){ if(window.__hazir){clearInterval(i); p.classList.add('git');} },120);
     setTimeout(function(){p.classList.add('git');},9000); })();
