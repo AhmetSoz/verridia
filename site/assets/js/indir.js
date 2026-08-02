@@ -13,7 +13,8 @@
   if (!aktifVeri() || !kok || !modal) return;
 
   var DIJITAL_PDF = {
-    "0": "assets/pdf/verridia-birinci-kitap-kizil-hafta-dijital-v1.pdf"
+    tr: { "0": "assets/pdf/verridia-birinci-kitap-kizil-hafta-dijital-v1.pdf" },
+    en: { "0": "assets/pdf/verridia-book-one-crimson-week-digital-v1.pdf" }
   };
 
   var POV_SINIF = { "TOGAN": "pov-togan", "TEMUJİN": "pov-temujin", "KARIA": "pov-karia", "ZALEENA": "pov-zaleena" };
@@ -103,13 +104,14 @@
   }
 
   function dijitalIndir(secim) {
-    if (dil !== "tr") return false;
-    var adres = DIJITAL_PDF[secim];
+    var adres = DIJITAL_PDF[dil] && DIJITAL_PDF[dil][secim];
     if (!adres) return false;
 
     var baglanti = document.createElement("a");
     baglanti.href = adres;
-    baglanti.download = "Verridia - Birinci Kitap - Kizil Hafta - Dijital Edisyon.pdf";
+    baglanti.download = dil === "en"
+      ? "Verridia - Book One - Crimson Week - Digital Edition.pdf"
+      : "Verridia - Birinci Kitap - Kizil Hafta - Dijital Edisyon.pdf";
     document.body.appendChild(baglanti);
     baglanti.click();
     baglanti.remove();

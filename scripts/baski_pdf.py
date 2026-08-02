@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import html
+import json
 import re
 from pathlib import Path
 
@@ -71,6 +72,25 @@ BOOKS = {
         "subtitle": "Tam Seçim",
         "header": "KİTAP III · TAM SEÇİM",
     },
+    "1-en": {
+        "manifest": ROOT / "roman_en" / "book1" / "BOOK1_PRINT_MANIFEST.json",
+        "compiled_source": ROOT / "tmp" / "pdfs" / "VERRIDIA_BOOK_ONE_PRINT.md",
+        "output": OUTPUT_DIR / "VERRIDIA_BOOK_ONE_CRIMSON_WEEK_A5.pdf",
+        "digital_output": OUTPUT_DIR / "VERRIDIA_BOOK_ONE_CRIMSON_WEEK_DIGITAL_EDITION.pdf",
+        "cover": ROOT / "site" / "assets" / "img" / "kartal-yurdu.jpg",
+        "accent": "#d4a24e",
+        "cover_anchor": 0.30,
+        "number": "BOOK ONE",
+        "subtitle": "Crimson Week",
+        "header": "BOOK ONE · CRIMSON WEEK",
+        "tagline": "A WORLD LOCKED AGAINST ITSELF",
+        "edition_label": "DIGITAL EDITION · 2026",
+        "toc_title": "Contents",
+        "map_title": "Verridia",
+        "map_note": "Four paths, one sky. A world sealed by light in the north, beneath the shadow of an approaching cycle.",
+        "subject": "English-language novel · Digital edition",
+        "language": "en",
+    },
 }
 
 
@@ -98,6 +118,55 @@ def inline_markup(text: str) -> str:
 
 def plain_heading(text: str) -> str:
     return re.sub(r"[*_`]", "", text).strip()
+
+
+def compile_english_source(book: dict) -> Path:
+    """Build the 15-section print sequence from the 53 canonical English chapters."""
+    manifest = json.loads(Path(book["manifest"]).read_text(encoding="utf-8"))
+    source_root = ROOT / "roman_en" / "book1"
+    seen: set[str] = set()
+    lines = ["# VERRIDIA — BOOK ONE: CRIMSON WEEK", ""]
+    section_number = 0
+
+    for part in manifest["parts"]:
+        directory = source_root / part["directory"]
+        files = sorted(
+            directory.glob("chapter*.md"),
+            key=lambda item: int(re.match(r"chapter(\d+)", item.name, re.I).group(1)),
+        )
+        by_number = {
+            int(re.match(r"chapter(\d+)", item.name, re.I).group(1)): item
+            for item in files
+        }
+        lines.extend([f"# {part['id']}. Part — {part['title']}", ""])
+        for section in part["sections"]:
+            section_number += 1
+            lines.extend([f"## Section {section_number} — {section['title']}", ""])
+            for number in range(section["start"], section["end"] + 1):
+                source = by_number.get(number)
+                if source is None:
+                    raise ValueError(f"Missing English chapter: {part['directory']} / {number}")
+                relative = source.relative_to(source_root).as_posix()
+                if relative in seen:
+                    raise ValueError(f"English chapter appears more than once: {relative}")
+                seen.add(relative)
+                chapter_lines = source.read_text(encoding="utf-8").strip().splitlines()
+                title_index = next((i for i, line in enumerate(chapter_lines) if line.startswith("# ")), None)
+                if title_index is None:
+                    raise ValueError(f"English chapter has no title: {relative}")
+                chapter_lines[title_index] = "### " + chapter_lines[title_index][2:].strip()
+                lines.extend(chapter_lines)
+                lines.append("")
+
+    if len(seen) != manifest["expectedChapterCount"]:
+        raise ValueError(f"English print manifest covers {len(seen)} chapters, expected {manifest['expectedChapterCount']}")
+    if section_number != manifest["expectedSectionCount"]:
+        raise ValueError(f"English print manifest defines {section_number} sections, expected {manifest['expectedSectionCount']}")
+
+    output = Path(book["compiled_source"])
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
+    return output
 
 
 def build_styles(digital: bool = False):
@@ -343,7 +412,7 @@ def prepared_cover_image(path: Path, width: float, height: float, anchor: float 
 def draw_digital_cover(canvas, doc):
     width, height = A5
     canvas.saveState()
-    canvas.setTitle(f"Verridia - {doc.book['number']}: {doc.book['subtitle']} - Dijital Edisyon")
+    canvas.setTitle(f"Verridia - {doc.book['number']}: {doc.book['subtitle']} - {doc.book.get('edition_label', 'DİJİTAL EDİSYON · 2026').split(' · ')[0]}")
     canvas.setAuthor("Verridia")
     canvas.setFillColor(colors.HexColor("#0a0d13"))
     canvas.rect(0, 0, width, height, stroke=0, fill=1)
@@ -359,7 +428,7 @@ def draw_digital_cover(canvas, doc):
 
     canvas.setFillColor(colors.HexColor("#e8c987"))
     canvas.setFont("Georgia", 7.2)
-    canvas.drawCentredString(width / 2, height - 22 * mm, "KENDİ KENDİNE KİLİTLENMİŞ BİR DÜNYA")
+    canvas.drawCentredString(width / 2, height - 22 * mm, doc.book.get("tagline", "KENDİ KENDİNE KİLİTLENMİŞ BİR DÜNYA"))
     canvas.setFont("Georgia-Bold", 28)
     canvas.drawCentredString(width / 2, height - 54 * mm, "VERRIDIA")
     canvas.setStrokeColor(accent)
@@ -374,7 +443,7 @@ def draw_digital_cover(canvas, doc):
     canvas.drawCentredString(width / 2, 49 * mm, doc.book["subtitle"])
     canvas.setFillColor(accent)
     canvas.setFont("Georgia", 7.2)
-    canvas.drawCentredString(width / 2, 20 * mm, "DİJİTAL EDİSYON · 2026")
+    canvas.drawCentredString(width / 2, 20 * mm, doc.book.get("edition_label", "DİJİTAL EDİSYON · 2026"))
     canvas.restoreState()
 
 
@@ -466,11 +535,11 @@ def parse_source(source: Path, styles, digital: bool = False) -> list:
         line = raw.strip()
         if not line:
             continue
-        if line.startswith(">") and "otomatik üretilmiştir" in line:
+        if line.startswith(">") and ("otomatik üretilmiştir" in line or "automatically generated" in line.lower()):
             continue
         if line.startswith("# VERRIDIA"):
             continue
-        if re.match(r"^# \d+\. Kısım", line):
+        if re.match(r"^# \d+\. (?:Kısım|Part)\b", line):
             if digital:
                 story.append(NextPageTemplate("part"))
                 story.append(PageBreak())
@@ -483,7 +552,7 @@ def parse_source(source: Path, styles, digital: bool = False) -> list:
             story.append(Paragraph("* * *", styles["part_rule"]))
             first_body = True
             continue
-        if line.startswith("## Fasıl "):
+        if re.match(r"^## (?:Fasıl|Section) ", line):
             if seen_fasil or seen_part:
                 story.append(PageBreak())
             seen_fasil = True
@@ -491,12 +560,12 @@ def parse_source(source: Path, styles, digital: bool = False) -> list:
             story.append(tagged_paragraph(title, styles["fasil"], 1, title))
             first_body = True
             continue
-        if line.startswith("### Bölüm "):
+        if re.match(r"^### (?:Bölüm|Chapter) ", line):
             title = line[4:].strip()
             story.append(Paragraph(inline_markup(title), styles["chapter"]))
             first_body = True
             continue
-        if line == "**Tuzlu Tahtın Son Sahibi**":
+        if line in {"**Tuzlu Tahtın Son Sahibi**", "**The Last Keeper of the Salt Throne**"}:
             story.append(PageBreak())
             story.append(Paragraph(inline_markup(line), styles["chapter"]))
             first_body = True
@@ -523,6 +592,7 @@ def build_book(book: dict, edition: str = "print") -> dict:
     register_fonts()
     digital = edition == "digital"
     styles = build_styles(digital=digital)
+    source = compile_english_source(book) if book.get("manifest") else book["source"]
     output_path = book["digital_output"] if digital else book["output"]
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -537,7 +607,7 @@ def build_book(book: dict, edition: str = "print") -> dict:
         bottomMargin=17 * mm,
         title=f"Verridia - {book['number']}: {book['subtitle']}{' - Dijital Edisyon' if digital else ''}",
         author="Verridia",
-        subject="Türkçe ana metin - Dijital edisyon" if digital else "Türkçe ana metin - A5 okuma baskısı",
+        subject=book.get("subject", "Türkçe ana metin - Dijital edisyon" if digital else "Türkçe ana metin - A5 okuma baskısı"),
     )
     frame = Frame(
         doc.leftMargin,
@@ -562,12 +632,12 @@ def build_book(book: dict, edition: str = "print") -> dict:
         map_image.hAlign = "CENTER"
         story = [
             PageBreak(),
-            Paragraph("İçindekiler", styles["toc_title"]),
+            Paragraph(book.get("toc_title", "İçindekiler"), styles["toc_title"]),
             make_toc(styles, digital=True),
             PageBreak(),
-            Paragraph("Verridia", styles["map_title"]),
+            Paragraph(book.get("map_title", "Verridia"), styles["map_title"]),
             map_image,
-            Paragraph("Dört yol, tek gökyüzü. Kuzeyi ışıkla mühürlü bir dünya ve yaklaşan döngünün gölgesi.", styles["map_note"]),
+            Paragraph(book.get("map_note", "Dört yol, tek gökyüzü. Kuzeyi ışıkla mühürlü bir dünya ve yaklaşan döngünün gölgesi."), styles["map_note"]),
         ]
     else:
         doc.addPageTemplates([PageTemplate(id="content", frames=[frame], onPage=draw_page)])
@@ -582,7 +652,7 @@ def build_book(book: dict, edition: str = "print") -> dict:
             make_toc(styles),
             PageBreak(),
         ]
-    story.extend(parse_source(book["source"], styles, digital=digital))
+    story.extend(parse_source(source, styles, digital=digital))
     doc.multiBuild(story)
 
     reader = PdfReader(str(output_path))
@@ -599,10 +669,10 @@ def build_book(book: dict, edition: str = "print") -> dict:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--book", choices=["1", "2", "3", "all"], default="all")
+    parser.add_argument("--book", choices=["1", "2", "3", "1-en", "all"], default="all")
     parser.add_argument("--edition", choices=["print", "digital"], default="print")
     args = parser.parse_args()
-    keys = BOOKS.keys() if args.book == "all" else [args.book]
+    keys = ["1", "2", "3"] if args.book == "all" else [args.book]
     for key in keys:
         result = build_book(dict(BOOKS[key]), edition=args.edition)
         print(

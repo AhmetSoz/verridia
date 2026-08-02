@@ -1,0 +1,51 @@
+{
+  "book": "1-en",
+  "title": "Crimson Week",
+  "expectedChapterCount": 53,
+  "expectedSectionCount": 15,
+  "parts": [
+    {
+      "id": 1,
+      "title": "The Oath of Ash and Blood",
+      "directory": "part1",
+      "sections": [
+        { "title": "Ash on Four Horizons", "start": 1, "end": 4 },
+        { "title": "Whispers and Thrones", "start": 5, "end": 8 },
+        { "title": "Brand, Bone, Shield", "start": 9, "end": 11 },
+        { "title": "Four Thresholds", "start": 12, "end": 14 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Fall of Wings",
+      "directory": "part2",
+      "sections": [
+        { "title": "Fallen Wings", "start": 1, "end": 4 },
+        { "title": "The Broken Wind", "start": 5, "end": 8 },
+        { "title": "Captives and the Empty Throne", "start": 9, "end": 12 },
+        { "title": "Threshold of the Dead Lands", "start": 13, "end": 15 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Army of Shadows",
+      "directory": "part3",
+      "sections": [
+        { "title": "Wreckage and Seven Lords", "start": 1, "end": 4 },
+        { "title": "The Gate's Shadow", "start": 5, "end": 8 },
+        { "title": "Threshold of Crimson Week", "start": 9, "end": 11 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Crimson Week",
+      "directory": "part4",
+      "sections": [
+        { "title": "First Tide", "start": 1, "end": 4 },
+        { "title": "The Broken World", "start": 5, "end": 8 },
+        { "title": "The Valley's End", "start": 9, "end": 11 },
+        { "title": "Four Records", "start": 12, "end": 13 }
+      ]
+    }
+  ]
+}
