@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>VERRIDIA — Kitap</title>
+  <title>VERRIDIA — Book / Kitap</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/kitap.css">
-  <link rel="stylesheet" href="assets/css/yazdir.css">
+  <link rel="stylesheet" href="assets/css/kitap.css?v=2">
+  <link rel="stylesheet" href="assets/css/yazdir.css?v=1">
 </head>
 <body>
 
@@ -18,11 +18,15 @@
     <a class="geri" href="index.html">← VERRIDIA</a>
     <div class="konum" id="bar-konum"></div>
     <div class="araclar">
-      <button id="btn-kenar" title="İçindekiler">☰</button>
-      <button id="btn-kucult" title="Yazıyı küçült">A−</button>
-      <button id="btn-buyut" title="Yazıyı büyüt">A+</button>
-      <button id="btn-tema" title="Tema değiştir">☀</button>
-      <button id="btn-pdf" title="PDF indir">⤓</button>
+      <div class="dil-secici" role="group" aria-label="Language / Dil">
+        <button type="button" data-dil-sec="tr" aria-pressed="true">TR</button>
+        <button type="button" data-dil-sec="en" aria-pressed="false">EN</button>
+      </div>
+      <button id="btn-kenar" title="İçindekiler" data-title-tr="İçindekiler" data-title-en="Contents">☰</button>
+      <button id="btn-kucult" title="Yazıyı küçült" data-title-tr="Yazıyı küçült" data-title-en="Decrease text size">A−</button>
+      <button id="btn-buyut" title="Yazıyı büyüt" data-title-tr="Yazıyı büyüt" data-title-en="Increase text size">A+</button>
+      <button id="btn-tema" title="Tema değiştir" data-title-tr="Tema değiştir" data-title-en="Change theme">☀</button>
+      <button id="btn-pdf" title="PDF indir" data-title-tr="PDF indir" data-title-en="Download PDF">⤓</button>
     </div>
   </header>
 
@@ -44,11 +48,11 @@
 
         <nav class="gezinme">
           <button id="btn-onceki">
-            <span class="yon">← Önceki</span>
+            <span class="yon" data-tr="← Önceki" data-en="← Previous">← Önceki</span>
             <span class="hedef"></span>
           </button>
           <button id="btn-sonraki">
-            <span class="yon">Sonraki →</span>
+            <span class="yon" data-tr="Sonraki →" data-en="Next →">Sonraki →</span>
             <span class="hedef"></span>
           </button>
         </nav>
@@ -59,26 +63,29 @@
   <!-- PDF: seçim penceresi + gizli yazdırma kapsayıcısı -->
   <div class="pdf-modal" id="pdf-modal" hidden>
     <div class="pdf-modal-ic">
-      <button class="pdf-kapat" id="pdf-kapat" title="Kapat">✕</button>
-      <h2>Kitabı PDF indir</h2>
-      <p class="pdf-not"><b>Birinci Kitap</b>, profesyonel mizanpajlı dijital edisyon olarak doğrudan iner.<br>
+      <button class="pdf-kapat" id="pdf-kapat" title="Kapat" data-title-tr="Kapat" data-title-en="Close">✕</button>
+      <h2 data-tr="Kitabı PDF indir" data-en="Download the book as PDF">Kitabı PDF indir</h2>
+      <p class="pdf-not" id="pdf-not-tr"><b>Birinci Kitap</b>, profesyonel mizanpajlı dijital edisyon olarak doğrudan iner.<br>
       Diğer seçenekler şimdilik tarayıcının PDF kaydetme penceresini açar.</p>
+      <p class="pdf-not" id="pdf-not-en" hidden>The English edition opens the browser's print dialog so you can save the book as a PDF.</p>
       <div class="pdf-secenekler">
         <button class="dijital-hazir" data-kitap="0">
-          <span>Birinci Kitap</span>
-          <small>Dijital edisyon · doğrudan indir</small>
+          <span data-tr="Birinci Kitap" data-en="Book One — Crimson Week">Birinci Kitap</span>
+          <small data-tr="Dijital edisyon · doğrudan indir" data-en="English edition · save as PDF">Dijital edisyon · doğrudan indir</small>
         </button>
-        <button data-kitap="1">İkinci Kitap</button>
-        <button data-kitap="2">Üçüncü Kitap</button>
-        <button class="hepsi" data-kitap="all">Üçü Birden (Tüm Üçleme)</button>
+        <button class="yalnizca-tr" data-kitap="1">İkinci Kitap</button>
+        <button class="yalnizca-tr" data-kitap="2">Üçüncü Kitap</button>
+        <button class="hepsi yalnizca-tr" data-kitap="all">Üçü Birden (Tüm Üçleme)</button>
       </div>
     </div>
   </div>
-  <div class="pdf-hazir" id="pdf-hazir">Hazırlanıyor…</div>
+  <div class="pdf-hazir" id="pdf-hazir" data-tr="Hazırlanıyor…" data-en="Preparing…">Hazırlanıyor…</div>
   <div id="pdf-root"></div>
 
-  <script src="assets/js/kitap-data.js"></script>
-  <script src="assets/js/okuyucu.js"></script>
-  <script src="assets/js/indir.js"></script>
+  <script src="assets/js/dil.js?v=1"></script>
+  <script src="assets/js/kitap-data.js?v=2"></script>
+  <script src="assets/js/kitap-data-en.js?v=1"></script>
+  <script src="assets/js/okuyucu.js?v=2"></script>
+  <script src="assets/js/indir.js?v=2"></script>
 </body>
 </html>

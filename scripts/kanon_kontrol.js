@@ -106,8 +106,8 @@ for (const [metin, ifade, ad] of zorunluIfadeler) {
   if (!metin.includes(ifade)) hatalar.push(`${ad} eksik: "${ifade}"`);
 }
 
-const sayacBolum = siteIndex.match(/data-hedef="(\d+)"[^>]*>0<\/div><div class="ad">Bölüm/);
-const sayacKelime = siteIndex.match(/data-hedef="(\d+)" data-ek=" bin"[^>]*>0<\/div><div class="ad">Kelime/);
+const sayacBolum = siteIndex.match(/data-hedef="(\d+)"[^>]*>0<\/div><div class="ad"[^>]*data-tr="Bölüm"/);
+const sayacKelime = siteIndex.match(/data-hedef="(\d+)"[^>]*data-ek=" bin"[^>]*>0<\/div><div class="ad"[^>]*data-tr="Kelime"/);
 const yuvarlakBin = Math.round(toplamKelime / 1000);
 if (!sayacBolum || Number(sayacBolum[1]) !== toplamBolum) {
   hatalar.push(`Site bölüm sayacı romanla eşleşmiyor; beklenen ${toplamBolum}`);

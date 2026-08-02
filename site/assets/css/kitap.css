@@ -52,13 +52,29 @@ a { color: var(--r-altin); text-decoration: none; }
   flex: 1; text-align: center; font-size: .78rem; letter-spacing: .12em;
   color: var(--r-soluk); overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
-.okuyucu-bar .araclar { display: flex; gap: .4rem; }
+.okuyucu-bar .araclar { display: flex; align-items: center; gap: .4rem; }
 .okuyucu-bar button {
   background: none; border: 1px solid var(--r-cizgi); color: var(--r-metin);
   width: 34px; height: 34px; border-radius: 3px; cursor: pointer;
   font-size: .9rem; transition: all .25s; display: flex; align-items: center; justify-content: center;
 }
 .okuyucu-bar button:hover { border-color: var(--r-altin); color: var(--r-altin-parlak); }
+.dil-secici {
+  display: inline-flex; align-items: center; height: 34px; padding: 2px;
+  border: 1px solid var(--r-cizgi); border-radius: 3px;
+  background: color-mix(in srgb, var(--r-panel) 78%, transparent);
+}
+.okuyucu-bar .dil-secici button {
+  width: 30px; height: 28px; border: 0; color: var(--r-soluk);
+  font-size: .62rem; font-weight: 600; letter-spacing: .08em;
+}
+.okuyucu-bar .dil-secici button.aktif {
+  color: var(--r-bg); background: var(--r-altin-parlak);
+  box-shadow: 0 2px 9px rgba(0,0,0,.25);
+}
+html[lang="en"] .yalnizca-tr,
+html[lang="en"] #pdf-not-tr { display: none !important; }
+html[lang="en"] #pdf-not-en { display: block !important; }
 
 /* --------- Yerleşim --------- */
 .duzen { display: flex; min-height: 100vh; padding-top: 52px; }
@@ -187,4 +203,15 @@ a { color: var(--r-altin); text-decoration: none; }
   #kenar.kapali { transform: translateX(-100%); }
   #kenar.acik-mobil { transform: translateX(0); }
   #icerik { margin-left: 0 !important; }
+}
+
+@media (max-width: 620px) {
+  .okuyucu-bar { gap: .45rem; padding-inline: .55rem; }
+  .okuyucu-bar .geri { font-size: 0; }
+  .okuyucu-bar .geri::after { content: "← V"; font-size: .72rem; letter-spacing: .12em; }
+  .okuyucu-bar .konum { display: none; }
+  .okuyucu-bar .araclar { margin-left: auto; gap: .25rem; }
+  .okuyucu-bar button { width: 31px; height: 31px; }
+  .dil-secici { height: 31px; }
+  .okuyucu-bar .dil-secici button { width: 28px; height: 25px; }
 }

@@ -8,6 +8,7 @@
   var ORAN = 1536 / 1024;
   var Z_MAX = dokunmatik ? 2.25 : 2.7;
   var ILERI_AZAMI = dokunmatik ? .1 : .115;
+  var dil = window.VerridiaDil ? window.VerridiaDil.get() : "tr";
 
   function secici(q, kok) { return (kok || document).querySelector(q); }
   function hepsi(q, kok) { return Array.prototype.slice.call((kok || document).querySelectorAll(q)); }
@@ -18,6 +19,8 @@
     return t * t * (3 - 2 * t);
   }
   function iki(n) { return String(n).padStart(2, "0"); }
+  function metin(tr, en) { return dil === "en" ? en : tr; }
+  function mekanMetni(m, alan) { return dil === "en" && m.en && m.en[alan] ? m.en[alan] : m[alan]; }
 
   var govde = document.body;
   var perde = secici("#perde");
@@ -322,89 +325,97 @@
       murekkep: { w: 9.2, h: 8.2 },
       konum: "Batı Kıyısı", muhur: "✦", renk: "#8f6d36",
       kisa: "Hegemonya'nın taş başkenti — fiyortların üzerinde soğuk ihtişam.",
-      metin: "Aethelian Hegemonyası'nın başkenti. Batı kıyısının fiyortları üzerinde taş, tören ve soğuk ihtişam. Sarayın koridorlarında unvanlar fısıltıyla el değiştirir; Kraliçe Karia, kanla korunan bu tahtı liyakatle yeniden kurmaya yemin etti. Kuzey Sefer Yolu buradan başlar — Işık Seddi'ne otuz beş günlük yol."
+      metin: "Aethelian Hegemonyası'nın başkenti. Batı kıyısının fiyortları üzerinde taş, tören ve soğuk ihtişam. Sarayın koridorlarında unvanlar fısıltıyla el değiştirir; Kraliçe Karia, kanla korunan bu tahtı liyakatle yeniden kurmaya yemin etti. Kuzey Sefer Yolu buradan başlar — Işık Seddi'ne otuz beş günlük yol.",
+      en: { ad: "Metheris", halk: "The Hegemony", konum: "Western Coast", kisa: "The Hegemony's stone capital—cold splendor above the fjords.", metin: "Capital of the Aethelian Hegemony: stone, ceremony, and cold splendor above the western fjords. Titles change hands in whispers through the palace corridors, while Queen Karia has sworn to rebuild a throne long guarded by blood through merit. The Northern Campaign Road begins here—a thirty-five-day journey to the Wall of Light." }
     },
     {
       id: "derin-yuva", ad: "Derin-Yuva", halk: "Granitler", x: 39.7, y: 66.5,
       murekkep: { w: 8.4, h: 4.8 },
       konum: "Ak-Siper Dağları", muhur: "▲", renk: "#6f716b",
       kisa: "Granit Klanları'nın dağın kalbine oyduğu başkent.",
-      metin: "Ak-Siper Dağları'nın içine, kaya damarlarını izleyerek oyulmuş taş koridorlar şehri. Geceleri vadilerde Dağ'ın Nefesi uğuldar. Granitler, Valerius Geçidi'nin anahtarını ellerinde tutar — kıtanın iki yarısı ancak onların izniyle birbirine bağlanır."
+      metin: "Ak-Siper Dağları'nın içine, kaya damarlarını izleyerek oyulmuş taş koridorlar şehri. Geceleri vadilerde Dağ'ın Nefesi uğuldar. Granitler, Valerius Geçidi'nin anahtarını ellerinde tutar — kıtanın iki yarısı ancak onların izniyle birbirine bağlanır.",
+      en: { ad: "Deep Nest", halk: "The Granites", konum: "White Rampart Mountains", kisa: "The Granite Clans' capital, carved into the heart of the mountain.", metin: "A city of stone corridors carved through the White Rampart Mountains along the veins of the rock. At night, the Mountain's Breath moans through the valleys. The Granites hold the key to Valerius Pass; only with their leave can the continent's two halves meet." }
     },
     {
       id: "kartal-yurdu", ad: "Kartal-Yurdu", halk: "Sungurlar", x: 46.2, y: 57,
       murekkep: { w: 9.2, h: 7.2 },
       konum: "Batı Bozkırı", muhur: "◆", renk: "#81552c",
       kisa: "Sungurların dağ kışlağı — kartalların ve eski yeminlerin yurdu.",
-      metin: "Sungur klanının yurdu: kartal tüneklerinin, Rüzgâr-Dinleyenler'in ve kadim yeminlerin toprağı. Togan bu avlularda kılıç salladı, Burkut'u burada eğitti — ve buradan ayrılırken arkasında hem bir mezar hem bir sır bıraktı."
+      metin: "Sungur klanının yurdu: kartal tüneklerinin, Rüzgâr-Dinleyenler'in ve kadim yeminlerin toprağı. Togan bu avlularda kılıç salladı, Burkut'u burada eğitti — ve buradan ayrılırken arkasında hem bir mezar hem bir sır bıraktı.",
+      en: { ad: "Eaglehold", halk: "The Sungurs", konum: "Western Steppe", kisa: "The Sungurs' mountain winterhold—home of eagles and ancient oaths.", metin: "Home of the Sungur clan: a land of eagle perches, Windlisteners, and ancient oaths. Togan trained with the sword in these yards and raised Burkut here. When he left, he abandoned both a grave and a secret behind him." }
     },
     {
       id: "yildiz-orsu", ad: "Yıldız-Örsü", halk: "Temürçiler", x: 51.1, y: 49.5,
       murekkep: { w: 9.4, h: 7.8 },
       konum: "Merkez Krateri", muhur: "✶", renk: "#9a5129",
       kisa: "Gökten düşen yıldızın krateri; Temürçi ustalarının ocağı.",
-      metin: "Fersahlarca genişlikte dairesel bir krater — gökten düşen yıldızın açtığı yara. Merkezinde Büyük Örs durur: Temürçi ustaları yıldız-demirini burada döver. Tek girişini Örs Muhafızları tutar; kıvılcımlar, söylenceye göre, hiç sönmemiştir."
+      metin: "Fersahlarca genişlikte dairesel bir krater — gökten düşen yıldızın açtığı yara. Merkezinde Büyük Örs durur: Temürçi ustaları yıldız-demirini burada döver. Tek girişini Örs Muhafızları tutar; kıvılcımlar, söylenceye göre, hiç sönmemiştir.",
+      en: { ad: "Star Anvil", halk: "The Temürchi", konum: "Central Crater", kisa: "The crater of a fallen star and the forge of the Temürchi masters.", metin: "A circular crater leagues across—the wound left by a star that fell from the sky. The Great Anvil stands at its center, where Temürchi masters forge star-iron. Anvil Guards hold its only entrance, and legend says its sparks have never gone dark." }
     },
     {
       id: "eski-kent", ad: "Eski-Kent", halk: "Mirasçılar", x: 65.1, y: 36,
       murekkep: { w: 9.8, h: 8.2 },
       konum: "Kuzeydoğu", muhur: "⌘", renk: "#5e6865",
       kisa: "Eskiler'in yıkıntıları üzerine kurulu Mirasçı başkenti.",
-      metin: "Eskiler'in yıkık şehrinin üzerine taş taş kurulmuş Mirasçı başkenti. Kalbinde, yosun katkılı reçineyle mühürlenmiş Büyük Kütüphane — dünyanın hafızası. Kapıları gün batımında kendiliğinden kapanır; bazı raflar hâlâ kimsenin okuyamadığı dillerde fısıldar."
+      metin: "Eskiler'in yıkık şehrinin üzerine taş taş kurulmuş Mirasçı başkenti. Kalbinde, yosun katkılı reçineyle mühürlenmiş Büyük Kütüphane — dünyanın hafızası. Kapıları gün batımında kendiliğinden kapanır; bazı raflar hâlâ kimsenin okuyamadığı dillerde fısıldar.",
+      en: { ad: "Old City", halk: "The Inheritors", konum: "Northeast", kisa: "The Inheritor capital, raised upon the ruins of the Ancients.", metin: "The Inheritor capital, rebuilt stone by stone atop the ruined city of the Ancients. At its heart stands the Great Library, the world's memory, sealed with resin strengthened by kelp. Its doors close by themselves at sunset, and some shelves still whisper in languages no one can read." }
     },
     {
       id: "buyuk-ordugah", ad: "Büyük Ordugâh", halk: "Azgutlar", x: 68.7, y: 53.5,
       murekkep: { w: 11.8, h: 8.4 },
       konum: "Solgun Bozkırlar", muhur: "┼", renk: "#7b4b2c",
       kisa: "Azgut ordularının kalbi — bozkırın en büyük çadır-şehri.",
-      metin: "Bozkırın en büyük çadır-şehri: on binlerce otağ, tuğlar ve at kokusu. Han otağının önünde ordular yemin eder. Temujin'in adı bu topraklarda önce sürgünle, sonra zaferle anıldı — Dört Bayrak İttifakı'nın doğu direği burada durur."
+      metin: "Bozkırın en büyük çadır-şehri: on binlerce otağ, tuğlar ve at kokusu. Han otağının önünde ordular yemin eder. Temujin'in adı bu topraklarda önce sürgünle, sonra zaferle anıldı — Dört Bayrak İttifakı'nın doğu direği burada durur.",
+      en: { ad: "The Great Camp", halk: "The Azguts", konum: "The Pale Steppes", kisa: "Heart of the Azgut armies—the greatest tent-city of the steppe.", metin: "The steppe's greatest tent-city: tens of thousands of pavilions, standards, and the smell of horses. Armies swear their oaths before the Khan's tent. Temujin's name was first spoken here with exile, then with victory; the eastern pillar of the Four Banner Alliance stands on this ground." }
     },
     {
       id: "sazlik-taht", ad: "Sazlık Taht", halk: "Delta", x: 84.2, y: 80.6,
       murekkep: { w: 10.6, h: 6.2 },
       konum: "Rivan Deltası", muhur: "≈", renk: "#4f6b58",
       kisa: "Delta'nın yaşayan ağaç-sarayı — fısıltının başkenti.",
-      metin: "Rivan Deltası'nın kalbinde, yaşayan ağaçlardan örülmüş saray. Savlak su yolları arasında beyler fısıltıyla iş görür; hiçbir söz karşılıksız, hiçbir iyilik hesapsız değildir. Her fısıltının ucu eninde sonunda Fısıltı Ustası Malakor'a çıkar."
+      metin: "Rivan Deltası'nın kalbinde, yaşayan ağaçlardan örülmüş saray. Savlak su yolları arasında beyler fısıltıyla iş görür; hiçbir söz karşılıksız, hiçbir iyilik hesapsız değildir. Her fısıltının ucu eninde sonunda Fısıltı Ustası Malakor'a çıkar.",
+      en: { ad: "The Reed Throne", halk: "The Delta", konum: "Rivan Delta", kisa: "The Delta's living tree-palace—the capital of whispers.", metin: "A palace woven from living trees in the heart of the Rivan Delta. Lords conduct their business in whispers among the sluiceways; no word is free, and no favor escapes its price. Every whisper eventually leads to Malakor, Master of Whispers." }
     },
     {
       id: "yamali-liman", ad: "Yamalı Liman", halk: "Korsanlar", x: 87.8, y: 63.7,
       murekkep: { w: 13.4, h: 11.2 },
       konum: "Yetim Kıyıları", muhur: "⚓", renk: "#3e6370",
       kisa: "Korsan başkenti — yüz enkazdan yamanmış şehir.",
-      metin: "Yetim Kıyıları'nın başkenti: yüz batık gemiden yamanmış iskeleler, direkler ve çatılar. Enkaz Kraliçesi Zaleena burada hüküm sürer — Kaptanlar Konseyi'nin sesi, otuz yıllık bir bayrak hayalinin sahibi. Şimdi denizin dibinde sabırla atan yeşil bir ışığın bekçisi."
+      metin: "Yetim Kıyıları'nın başkenti: yüz batık gemiden yamanmış iskeleler, direkler ve çatılar. Enkaz Kraliçesi Zaleena burada hüküm sürer — Kaptanlar Konseyi'nin sesi, otuz yıllık bir bayrak hayalinin sahibi. Şimdi denizin dibinde sabırla atan yeşil bir ışığın bekçisi.",
+      en: { ad: "Patchwork Harbor", halk: "The Pirates", konum: "Orphan Shores", kisa: "The pirate capital—a city patched together from a hundred wrecks.", metin: "Capital of the Orphan Shores: piers, masts, and roofs patched together from a hundred sunken ships. Zaleena rules here as Wreck Queen, voice of the Captains' Council and keeper of a thirty-year dream of one flag. Now she also guards a green light beating patiently beneath the sea." }
     }
   ];
 
   function levhayiVarsayilanaDondur() {
     secimLevhasi.classList.remove("bolge-hazir");
     secimLevhasi.style.removeProperty("--levha-vurgu");
-    levhaSira.textContent = "08 BÖLGE";
-    levhaHalk.textContent = "VERRIDIA ATLASI";
-    levhaAd.textContent = "Bir bölge seç";
+    levhaSira.textContent = metin("08 BÖLGE", "08 REGIONS");
+    levhaHalk.textContent = metin("VERRIDIA ATLASI", "VERRIDIA ATLAS");
+    levhaAd.textContent = metin("Bir bölge seç", "Choose a region");
     levhaMuhur.textContent = "◇";
-    levhaKonum.textContent = "KUZEY MÜHÜRLÜ";
+    levhaKonum.textContent = metin("KUZEY MÜHÜRLÜ", "NORTH SEALED");
     levhaMetin.textContent = dokunmatik
-      ? "Gitmek istediğin bölgeye dokun; ardından yukarı kaydır. Aşağı kaydırdığında aynı yoldan haritaya dönersin."
-      : "İmleci gitmek istediğin bölgeye yaklaştır. Tekerleği ileri ittiğinde harita seni bulutların arasından o toprağa götürecek.";
-    levhaEylem.textContent = dokunmatik ? "Bölgeye dokun · yukarı kaydır" : "İmleci yaklaştır · tekerleği ileri it";
+      ? metin("Gitmek istediğin bölgeye dokun; ardından yukarı kaydır. Aşağı kaydırdığında aynı yoldan haritaya dönersin.", "Tap the region you want to visit, then swipe up. Swipe down to return to the map along the same path.")
+      : metin("İmleci gitmek istediğin bölgeye yaklaştır. Tekerleği ileri ittiğinde harita seni bulutların arasından o toprağa götürecek.", "Move the pointer near the region you want to visit. Push the wheel forward and the map will carry you through the clouds to that land.");
+    levhaEylem.textContent = dokunmatik ? metin("Bölgeye dokun · yukarı kaydır", "Tap a region · swipe up") : metin("İmleci yaklaştır · tekerleği ileri it", "Move closer · push the wheel forward");
   }
 
   function levhayiDoldur(m, sira, gecici) {
     secimLevhasi.classList.add("bolge-hazir");
     secimLevhasi.style.setProperty("--levha-vurgu", m.renk);
-    levhaSira.textContent = "BÖLGE " + iki(sira);
-    levhaHalk.textContent = m.halk;
-    levhaAd.textContent = m.ad;
+    levhaSira.textContent = metin("BÖLGE ", "REGION ") + iki(sira);
+    levhaHalk.textContent = mekanMetni(m, "halk");
+    levhaAd.textContent = mekanMetni(m, "ad");
     levhaMuhur.textContent = m.muhur;
-    levhaKonum.textContent = m.konum.toLocaleUpperCase("tr-TR");
+    levhaKonum.textContent = mekanMetni(m, "konum").toLocaleUpperCase(dil === "en" ? "en-US" : "tr-TR");
     levhaMetin.textContent = gecici
-      ? m.kisa
-      : m.kisa + (dokunmatik
-        ? " Yukarı kaydırdıkça yol ilerler; aşağı kaydırdığında haritaya dönersin."
-        : " Tekerleği ileri ittikçe yol ilerler; geri çektiğinde haritaya dönersin.");
+      ? mekanMetni(m, "kisa")
+      : mekanMetni(m, "kisa") + (dokunmatik
+        ? metin(" Yukarı kaydırdıkça yol ilerler; aşağı kaydırdığında haritaya dönersin.", " Swipe up to advance; swipe down to return to the map.")
+        : metin(" Tekerleği ileri ittikçe yol ilerler; geri çektiğinde haritaya dönersin.", " Push the wheel forward to advance; pull it back to return to the map."));
     levhaEylem.textContent = gecici
-      ? (dokunmatik ? "Dokun · yukarı kaydır" : "Tekerleği ileri it · yola çık")
-      : (dokunmatik ? "Yukarı kaydır · aşağı dön" : "İleri it · geri çek");
+      ? (dokunmatik ? metin("Dokun · yukarı kaydır", "Tap · swipe up") : metin("Tekerleği ileri it · yola çık", "Push forward · begin the journey"))
+      : (dokunmatik ? metin("Yukarı kaydır · aşağı dön", "Swipe up · swipe down to return") : metin("İleri it · geri çek", "Push forward · pull back"));
   }
 
   function enYakinHedef(x, y, sinirsiz) {
@@ -433,11 +444,11 @@
     if (!kayit) {
       window.clearTimeout(onYuklemeZamani);
       levhayiVarsayilanaDondur();
-      haritaDurum.textContent = dokunmatik ? "Bölgeye dokun · Yukarı kaydır" : "İmleci yaklaştır · Tekerleği ileri it";
+      haritaDurum.textContent = dokunmatik ? metin("Bölgeye dokun · Yukarı kaydır", "Tap a region · Swipe up") : metin("İmleci yaklaştır · Tekerleği ileri it", "Move closer · Push the wheel forward");
       return;
     }
     levhayiDoldur(kayit.m, kayit.sira, true);
-    haritaDurum.textContent = kayit.m.ad + (dokunmatik ? " · Yukarı kaydır" : " · İleri iterek yaklaş");
+    haritaDurum.textContent = mekanMetni(kayit.m, "ad") + (dokunmatik ? metin(" · Yukarı kaydır", " · Swipe up") : metin(" · İleri iterek yaklaş", " · Push forward to approach"));
     medyayiOnYukle(kayit.m);
   }
 
@@ -450,12 +461,12 @@
     pin.style.top = m.y + "%";
     pin.style.width = m.murekkep.w + "%";
     pin.style.height = m.murekkep.h + "%";
-    pin.setAttribute("aria-label", m.ad + " bölgesini seç");
+    pin.setAttribute("aria-label", metin(m.ad + " bölgesini seç", "Select the " + mekanMetni(m, "ad") + " region"));
     pin.setAttribute("aria-pressed", "false");
     pin.dataset.mekan = m.id;
     pin._kayit = { m: m, sira: index + 1, pin: pin };
     etiket.className = "pin-numara";
-    etiket.textContent = iki(index + 1) + " · " + m.ad;
+    etiket.textContent = iki(index + 1) + " · " + mekanMetni(m, "ad");
     pin.appendChild(etiket);
 
     pin.addEventListener("mouseenter", function () {
@@ -592,10 +603,10 @@
 
     var yuzde = Math.round(p * 100);
     ilerlemeSayi.textContent = iki(yuzde);
-    if (p < .2) ilerlemeAdim.textContent = "YAKLAŞMA";
-    else if (p < .68) ilerlemeAdim.textContent = "BULUT GEÇİDİ";
-    else if (p < .9) ilerlemeAdim.textContent = "İNİŞ";
-    else ilerlemeAdim.textContent = "VARIŞ";
+    if (p < .2) ilerlemeAdim.textContent = metin("YAKLAŞMA", "APPROACH");
+    else if (p < .68) ilerlemeAdim.textContent = metin("BULUT GEÇİDİ", "CLOUD PASSAGE");
+    else if (p < .9) ilerlemeAdim.textContent = metin("İNİŞ", "DESCENT");
+    else ilerlemeAdim.textContent = metin("VARIŞ", "ARRIVAL");
 
     if (DURUM.yolaCikti && DURUM.hedefIlerleme <= .001 && p <= .003) {
       DURUM.donusIstendi = false;
@@ -642,14 +653,14 @@
 
   function metinleriDoldur(m, sira) {
     levhayiDoldur(m, sira, false);
-    bolgeBaslikSira.textContent = "BÖLGE " + iki(sira);
-    bolgeBaslikHalk.textContent = m.halk;
-    bolgeBaslikAd.textContent = m.ad;
-    bolgeBaslikKisa.textContent = m.kisa;
-    detaySira.textContent = "BÖLGE " + iki(sira);
-    detayHalk.textContent = m.halk;
-    detayAd.textContent = m.ad;
-    detayMetin.textContent = m.metin;
+    bolgeBaslikSira.textContent = metin("BÖLGE ", "REGION ") + iki(sira);
+    bolgeBaslikHalk.textContent = mekanMetni(m, "halk");
+    bolgeBaslikAd.textContent = mekanMetni(m, "ad");
+    bolgeBaslikKisa.textContent = mekanMetni(m, "kisa");
+    detaySira.textContent = metin("BÖLGE ", "REGION ") + iki(sira);
+    detayHalk.textContent = mekanMetni(m, "halk");
+    detayAd.textContent = mekanMetni(m, "ad");
+    detayMetin.textContent = mekanMetni(m, "metin");
   }
 
   var onYuklemeZamani = 0;
@@ -671,9 +682,9 @@
     DURUM.hedefZaman = 0;
     DURUM.oynatmaBekliyor = false;
     poster.src = "assets/img/" + m.id + ".jpg";
-    poster.alt = m.ad + " bölgesinin görünümü";
+    poster.alt = metin(m.ad + " bölgesinin görünümü", "View of the " + mekanMetni(m, "ad") + " region");
     detayGorsel.src = "assets/img/" + m.id + ".jpg";
-    detayGorsel.alt = m.ad + " bölgesi";
+    detayGorsel.alt = metin(m.ad + " bölgesi", mekanMetni(m, "ad") + " region");
     if (azaltHareket) return;
     if (DURUM.medyaId !== m.id) {
       DURUM.videoHazir = false;
@@ -734,7 +745,7 @@
     medyayiHazirla(m);
     haritayiOrtala(false);
     secimiKaldir.hidden = false;
-    haritaDurum.textContent = dokunmatik ? "Yukarı kaydırarak yaklaş · Aşağı kaydırarak dön" : "İleri iterek yaklaş · Geri çekerek dön";
+    haritaDurum.textContent = dokunmatik ? metin("Yukarı kaydırarak yaklaş · Aşağı kaydırarak dön", "Swipe up to approach · Swipe down to return") : metin("İleri iterek yaklaş · Geri çekerek dön", "Push forward to approach · Pull back to return");
     govde.classList.add("yolculuk-secili", "yolculuk-aktif");
     detayBolumu.setAttribute("aria-hidden", "false");
     sabitSahne.scrollTop = 0;
@@ -776,7 +787,7 @@
     document.documentElement.style.setProperty("--ilerleme", "0");
     levhayiVarsayilanaDondur();
     secimiKaldir.hidden = true;
-    haritaDurum.textContent = dokunmatik ? "Bölgeye dokun · Yukarı kaydır" : "İmleci yaklaştır · Tekerleği ileri it";
+    haritaDurum.textContent = dokunmatik ? metin("Bölgeye dokun · Yukarı kaydır", "Tap a region · Swipe up") : metin("İmleci yaklaştır · Tekerleği ileri it", "Move closer · Push the wheel forward");
     haritayiOrtala(false);
     try { history.replaceState(null, "", location.pathname + location.search); } catch (hata) { /* sessiz */ }
     if (DURUM.sonPin && !otomatikti) {
@@ -867,18 +878,45 @@
 
   function sayacCalistir(el) {
     var son = parseFloat(el.dataset.hedef);
-    var ek = el.dataset.ek || "";
+    var ek = dil === "en" ? (el.dataset.ekEn || el.dataset.ek || "") : (el.dataset.ek || "");
     var sure = azaltHareket ? 1 : 1400;
     var baslangic = null;
     function adim(t) {
       if (!baslangic) baslangic = t;
       var oran = Math.min((t - baslangic) / sure, 1);
       var kolay = 1 - Math.pow(1 - oran, 3);
-      el.textContent = Math.round(son * kolay).toLocaleString("tr-TR") + ek;
+      el.textContent = Math.round(son * kolay).toLocaleString(dil === "en" ? "en-US" : "tr-TR") + ek;
       if (oran < 1) window.requestAnimationFrame(adim);
     }
     window.requestAnimationFrame(adim);
   }
+
+  window.addEventListener("verridia:dil", function (e) {
+    dil = e.detail && e.detail.dil === "en" ? "en" : "tr";
+    pinler.forEach(function (pin) {
+      var kayit = pin._kayit;
+      pin.setAttribute("aria-label", metin(kayit.m.ad + " bölgesini seç", "Select the " + mekanMetni(kayit.m, "ad") + " region"));
+      var etiket = secici(".pin-numara", pin);
+      if (etiket) etiket.textContent = iki(kayit.sira) + " · " + mekanMetni(kayit.m, "ad");
+    });
+    if (DURUM.etkin) {
+      var etkinSira = MEKANLAR.indexOf(DURUM.etkin) + 1;
+      metinleriDoldur(DURUM.etkin, etkinSira);
+      haritaDurum.textContent = dokunmatik ? metin("Yukarı kaydırarak yaklaş · Aşağı kaydırarak dön", "Swipe up to approach · Swipe down to return") : metin("İleri iterek yaklaş · Geri çekerek dön", "Push forward to approach · Pull back to return");
+    } else if (DURUM.onizleme) {
+      levhayiDoldur(DURUM.onizleme.m, DURUM.onizleme.sira, true);
+      haritaDurum.textContent = mekanMetni(DURUM.onizleme.m, "ad") + (dokunmatik ? metin(" · Yukarı kaydır", " · Swipe up") : metin(" · İleri iterek yaklaş", " · Push forward to approach"));
+    } else {
+      levhayiVarsayilanaDondur();
+      haritaDurum.textContent = dokunmatik ? metin("Bölgeye dokun · Yukarı kaydır", "Tap a region · Swipe up") : metin("İmleci yaklaştır · Tekerleği ileri it", "Move closer · Push the wheel forward");
+    }
+    if (sayacCalisti) {
+      hepsi("#panel-dunya .deger[data-hedef]").forEach(function (el) {
+        var ek = dil === "en" ? (el.dataset.ekEn || el.dataset.ek || "") : (el.dataset.ek || "");
+        el.textContent = Number(el.dataset.hedef).toLocaleString(dil === "en" ? "en-US" : "tr-TR") + ek;
+      });
+    }
+  });
 
   document.addEventListener("keydown", function (e) {
     if (e.key === "Tab" && govde.classList.contains("panel-acik")) {

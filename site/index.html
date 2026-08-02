@@ -9,10 +9,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/stil.css?v=12">
+  <link rel="stylesheet" href="assets/css/stil.css?v=13">
 </head>
-<body class="kesif-modu">
-  <a class="atla-baglanti" href="#site-nav">Haritayı atla</a>
+<body class="kesif-modu" data-title-tr="VERRIDIA — Kendi Kendine Kilitlenmiş Dünya" data-title-en="VERRIDIA — A World Locked Against Itself">
+  <a class="atla-baglanti" href="#site-nav" data-tr="Haritayı atla" data-en="Skip the map">Haritayı atla</a>
 
   <div id="perde" aria-hidden="true">
     <div class="perde-kod">ATLAS / 01</div>
@@ -29,16 +29,20 @@
       <span>VERRIDIA</span>
     </a>
     <div class="ustbar-konum" aria-hidden="true">
-      <span>ETKİLEŞİMLİ ATLAS</span>
+      <span data-tr="ETKİLEŞİMLİ ATLAS" data-en="INTERACTIVE ATLAS">ETKİLEŞİMLİ ATLAS</span>
       <i></i>
-      <span>KUZEY MÜHÜRLÜ</span>
+      <span data-tr="KUZEY MÜHÜRLÜ" data-en="NORTH SEALED">KUZEY MÜHÜRLÜ</span>
     </div>
     <nav aria-label="Ana menü">
-      <button class="sekme" type="button" data-panel="dunya" aria-controls="panel-dunya" aria-expanded="false">Dünya</button>
-      <button class="sekme" type="button" data-panel="dortyol" aria-controls="panel-dortyol" aria-expanded="false">Dört Yol</button>
+      <button class="sekme" type="button" data-panel="dunya" aria-controls="panel-dunya" aria-expanded="false" data-tr="Dünya" data-en="World">Dünya</button>
+      <button class="sekme" type="button" data-panel="dortyol" aria-controls="panel-dortyol" aria-expanded="false" data-tr="Dört Yol" data-en="Four Paths">Dört Yol</button>
+      <div class="dil-secici" role="group" aria-label="Language / Dil">
+        <button type="button" data-dil-sec="tr" aria-pressed="true">TR</button>
+        <button type="button" data-dil-sec="en" aria-pressed="false">EN</button>
+      </div>
       <a class="sekme masaustu-baglanti" href="kitap.html#indir">PDF</a>
-      <a class="oku-btn oyna-btn" href="/oyna.html">Oyna <span aria-hidden="true">⚔</span></a>
-      <a class="oku-btn" href="kitap.html">Kitabı Oku <span aria-hidden="true">↗</span></a>
+      <a class="oku-btn oyna-btn" href="/oyna.html"><span data-tr="Oyna" data-en="Play">Oyna</span> <span aria-hidden="true">⚔</span></a>
+      <a class="oku-btn" href="kitap.html"><span data-tr="Kitabı Oku" data-en="Read the Book">Kitabı Oku</span> <span aria-hidden="true">↗</span></a>
     </nav>
   </header>
 
@@ -55,7 +59,7 @@
         <video id="gecis-video" muted playsinline preload="metadata" aria-hidden="true"></video>
         <img id="bolge-poster" class="bolge-poster" alt="" aria-hidden="true">
         <div class="video-yukleniyor" id="video-yukleniyor" aria-live="polite">
-          <span></span><em>Yol hazırlanıyor</em>
+          <span></span><em data-tr="Yol hazırlanıyor" data-en="Preparing the passage">Yol hazırlanıyor</em>
         </div>
 
         <div class="sinema-vinyet" aria-hidden="true"></div>
@@ -65,9 +69,9 @@
         <div class="bulut-giris bulut-iki" aria-hidden="true"></div>
 
         <div class="baslik-ortu" id="baslik-ortu" aria-hidden="true">
-          <div class="baslik-kod">DÖRT YOL · TEK GÖKYÜZÜ</div>
+          <div class="baslik-kod" data-tr="DÖRT YOL · TEK GÖKYÜZÜ" data-en="FOUR PATHS · ONE SKY">DÖRT YOL · TEK GÖKYÜZÜ</div>
           <h1 id="baslik-h1">VERRIDIA</h1>
-          <p>Kendi kendine kilitlenmiş bir dünya.</p>
+          <p data-tr="Kendi kendine kilitlenmiş bir dünya." data-en="A world locked against itself.">Kendi kendine kilitlenmiş bir dünya.</p>
           <div class="baslik-cizgi"></div>
         </div>
 
@@ -80,13 +84,13 @@
           <h2 id="levha-ad">Bir bölge seç</h2>
           <p id="levha-metin">İmleci gitmek istediğin bölgeye yaklaştır. Tekerleği ileri ittiğinde harita seni bulutların arasından o toprağa götürecek.</p>
           <div class="levha-kayit">
-            <span>Kayıt yeri</span>
+            <span data-tr="Kayıt yeri" data-en="Record location">Kayıt yeri</span>
             <strong id="levha-konum">KUZEY MÜHÜRLÜ</strong>
           </div>
           <div class="levha-akis" aria-live="polite">
             <i aria-hidden="true">↓</i>
             <span id="levha-eylem">İmleci yaklaştır · tekerleği ileri it</span>
-            <button id="secimi-kaldir" class="secimi-kaldir" type="button" hidden>Seçimi kaldır</button>
+            <button id="secimi-kaldir" class="secimi-kaldir" type="button" hidden data-tr="Seçimi kaldır" data-en="Clear selection">Seçimi kaldır</button>
           </div>
         </aside>
 
@@ -114,7 +118,7 @@
           <p id="bolge-baslik-kisa"></p>
         </article>
 
-        <button class="gecisi-atla" id="gecisi-atla" type="button">Geçişi atla <span aria-hidden="true">↓</span></button>
+        <button class="gecisi-atla" id="gecisi-atla" type="button"><span data-tr="Geçişi atla" data-en="Skip passage">Geçişi atla</span> <span aria-hidden="true">↓</span></button>
       </div>
     </section>
 
@@ -122,63 +126,63 @@
       <img id="detay-gorsel" alt="">
       <div class="detay-vinyet" aria-hidden="true"></div>
       <div class="detay-icerik">
-        <div class="detay-kod"><span id="detay-sira">BÖLGE 01</span><i></i><span>VERRIDIA ARŞİVİ</span></div>
+        <div class="detay-kod"><span id="detay-sira">BÖLGE 01</span><i></i><span data-tr="VERRIDIA ARŞİVİ" data-en="VERRIDIA ARCHIVE">VERRIDIA ARŞİVİ</span></div>
         <div class="detay-halk" id="detay-halk"></div>
         <h2 id="detay-ad"></h2>
         <p id="detay-metin"></p>
         <div class="detay-eylem">
-          <a href="kitap.html">Hikâyeye gir <span aria-hidden="true">↗</span></a>
-          <button id="haritaya-don" type="button">Haritaya geri dön <span aria-hidden="true">↑</span></button>
+          <a href="kitap.html"><span data-tr="Hikâyeye gir" data-en="Enter the story">Hikâyeye gir</span> <span aria-hidden="true">↗</span></a>
+          <button id="haritaya-don" type="button"><span data-tr="Haritaya geri dön" data-en="Return to the map">Haritaya geri dön</span> <span aria-hidden="true">↑</span></button>
         </div>
       </div>
       <div class="detay-alt" aria-hidden="true">
         <span>KUZEY / IŞIK SEDDİ</span>
-        <span>DÖRT YOL · TEK GÖKYÜZÜ</span>
+        <span data-tr="DÖRT YOL · TEK GÖKYÜZÜ" data-en="FOUR PATHS · ONE SKY">DÖRT YOL · TEK GÖKYÜZÜ</span>
       </div>
     </section>
   </main>
 
   <aside class="panel" id="panel-dunya" role="dialog" aria-modal="true" aria-labelledby="panel-dunya-baslik" aria-hidden="true">
-    <button class="panel-kapat" type="button" aria-label="Dünya panelini kapat">Kapat <span>✕</span></button>
-    <div class="panel-kod">ARŞİV / DÜNYA</div>
-    <div class="etiket">Külliyat</div>
-    <h2 id="panel-dunya-baslik">Bir kıta, bir mühür ve yaklaşan bir döngü.</h2>
-    <p class="aciklama">
+    <button class="panel-kapat" type="button" aria-label="Dünya panelini kapat"><span data-tr="Kapat" data-en="Close">Kapat</span> <span>✕</span></button>
+    <div class="panel-kod" data-tr="ARŞİV / DÜNYA" data-en="ARCHIVE / WORLD">ARŞİV / DÜNYA</div>
+    <div class="etiket" data-tr="Külliyat" data-en="The Chronicle">Külliyat</div>
+    <h2 id="panel-dunya-baslik" data-tr="Bir kıta, bir mühür ve yaklaşan bir döngü." data-en="One continent, one seal, and an approaching cycle.">Bir kıta, bir mühür ve yaklaşan bir döngü.</h2>
+    <p class="aciklama" data-tr="Verridia'nın kuzeyi, yerden göğe yükselen altınımsı bir ışık perdesiyle — Işık Seddi'yle — kapalıdır. Batıda Hegemonya'nın taş sarayları, kıtanın kalbinde bozkırın atlı klanları, güneydoğuda Delta'nın fısıltıyla yönetilen su yolları, doğuda korsanların yamalı limanları... Ve hepsinin üzerinde, yirmi sekiz yılda bir dönen Kızıl Akıntı'nın gölgesi." data-en="Verridia's north is sealed by a golden curtain of light rising from earth to sky—the Wall of Light. The Hegemony's stone palaces stand in the west, mounted steppe clans at the continent's heart, the Delta's whispered waterways in the southeast, and the pirates' patchwork harbor in the east. Above them all hangs the shadow of the Crimson Current, returning every twenty-eight years.">
       Verridia'nın kuzeyi, yerden göğe yükselen altınımsı bir ışık perdesiyle — Işık Seddi'yle — kapalıdır.
       Batıda Hegemonya'nın taş sarayları, kıtanın kalbinde bozkırın atlı klanları, güneydoğuda Delta'nın
       fısıltıyla yönetilen su yolları, doğuda korsanların yamalı limanları... Ve hepsinin üzerinde,
       yirmi sekiz yılda bir dönen Kızıl Akıntı'nın gölgesi.
     </p>
     <div class="sayilar">
-      <div class="sayi"><div class="deger" data-hedef="400">0</div><div class="ad">Fersah Genişlik</div></div>
-      <div class="sayi"><div class="deger" data-hedef="28">0</div><div class="ad">Yıllık Döngü</div></div>
-      <div class="sayi"><div class="deger" data-hedef="358">0</div><div class="ad">Bölüm</div></div>
-      <div class="sayi"><div class="deger" data-hedef="174" data-ek=" bin">0</div><div class="ad">Kelime</div></div>
+      <div class="sayi"><div class="deger" data-hedef="400">0</div><div class="ad" data-tr="Fersah Genişlik" data-en="Leagues Wide">Fersah Genişlik</div></div>
+      <div class="sayi"><div class="deger" data-hedef="28">0</div><div class="ad" data-tr="Yıllık Döngü" data-en="Year Cycle">Yıllık Döngü</div></div>
+      <div class="sayi"><div class="deger" data-hedef="358">0</div><div class="ad" data-tr="Bölüm" data-en="Chapters">Bölüm</div></div>
+      <div class="sayi"><div class="deger" data-hedef="174" data-ek=" bin" data-ek-en="K">0</div><div class="ad" data-tr="Kelime" data-en="Words">Kelime</div></div>
     </div>
   </aside>
 
   <aside class="panel" id="panel-dortyol" role="dialog" aria-modal="true" aria-labelledby="panel-dortyol-baslik" aria-hidden="true">
-    <button class="panel-kapat" type="button" aria-label="Dört Yol panelini kapat">Kapat <span>✕</span></button>
-    <div class="panel-kod">ARŞİV / DÖRT YOL</div>
-    <div class="etiket">Dört hayat, tek gökyüzü</div>
-    <h2 id="panel-dortyol-baslik">Dünyanın dört ayrı ucundan yükselen dört ses.</h2>
-    <p class="aciklama">Roman, dört ayrı gözden anlatılır — dört ayrı toprağın ve kaderin dönüşümlü sesiyle.</p>
+    <button class="panel-kapat" type="button" aria-label="Dört Yol panelini kapat"><span data-tr="Kapat" data-en="Close">Kapat</span> <span>✕</span></button>
+    <div class="panel-kod" data-tr="ARŞİV / DÖRT YOL" data-en="ARCHIVE / FOUR PATHS">ARŞİV / DÖRT YOL</div>
+    <div class="etiket" data-tr="Dört hayat, tek gökyüzü" data-en="Four lives, one sky">Dört hayat, tek gökyüzü</div>
+    <h2 id="panel-dortyol-baslik" data-tr="Dünyanın dört ayrı ucundan yükselen dört ses." data-en="Four voices rising from the far ends of the world.">Dünyanın dört ayrı ucundan yükselen dört ses.</h2>
+    <p class="aciklama" data-tr="Roman, dört ayrı gözden anlatılır — dört ayrı toprağın ve kaderin dönüşümlü sesiyle." data-en="The novel unfolds through four viewpoints—the alternating voices of four lands and four destinies.">Roman, dört ayrı gözden anlatılır — dört ayrı toprağın ve kaderin dönüşümlü sesiyle.</p>
     <div class="karakter-listesi">
       <article class="karakter" style="--renk: var(--togan)">
-        <div class="muhur">۞</div><div><h3>Togan</h3><div class="unvan">Nöbetçi · Saf Olmayan Kan</div></div>
-        <p>Kartal-Yurdu'nda büyüyen, damarlarında dünyanın en tehlikeli sırrını taşıyan genç adam.</p>
+        <div class="muhur">۞</div><div><h3>Togan</h3><div class="unvan" data-tr="Nöbetçi · Saf Olmayan Kan" data-en="Sentinel · Impure Blood">Nöbetçi · Saf Olmayan Kan</div></div>
+        <p data-tr="Kartal-Yurdu'nda büyüyen, damarlarında dünyanın en tehlikeli sırrını taşıyan genç adam." data-en="A young man raised in Eaglehold, carrying the world's most dangerous secret in his blood.">Kartal-Yurdu'nda büyüyen, damarlarında dünyanın en tehlikeli sırrını taşıyan genç adam.</p>
       </article>
       <article class="karakter" style="--renk: var(--temujin)">
-        <div class="muhur">⚔</div><div><h3>Temujin</h3><div class="unvan">Genç Kurtlar'ın Kurucusu</div></div>
-        <p>Sürgünden ittifak mimarlığına uzanan, soğuk hesabın ve sabrın adamı.</p>
+        <div class="muhur">⚔</div><div><h3>Temujin</h3><div class="unvan" data-tr="Genç Kurtlar'ın Kurucusu" data-en="Founder of the Young Wolves">Genç Kurtlar'ın Kurucusu</div></div>
+        <p data-tr="Sürgünden ittifak mimarlığına uzanan, soğuk hesabın ve sabrın adamı." data-en="A man of cold calculation and patience, rising from exile to become an architect of alliances.">Sürgünden ittifak mimarlığına uzanan, soğuk hesabın ve sabrın adamı.</p>
       </article>
       <article class="karakter" style="--renk: var(--karia)">
-        <div class="muhur">♛</div><div><h3>Karia</h3><div class="unvan">Hegemonya Kraliçesi</div></div>
-        <p>Kanla korunmuş bir tahtı liyakatle yeniden kurmaya çalışan kraliçe.</p>
+        <div class="muhur">♛</div><div><h3>Karia</h3><div class="unvan" data-tr="Hegemonya Kraliçesi" data-en="Queen of the Hegemony">Hegemonya Kraliçesi</div></div>
+        <p data-tr="Kanla korunmuş bir tahtı liyakatle yeniden kurmaya çalışan kraliçe." data-en="A queen determined to rebuild through merit a throne long guarded by blood.">Kanla korunmuş bir tahtı liyakatle yeniden kurmaya çalışan kraliçe.</p>
       </article>
       <article class="karakter" style="--renk: var(--zaleena)">
-        <div class="muhur">⚓</div><div><h3>Zaleena</h3><div class="unvan">Enkaz Kraliçesi</div></div>
-        <p>Yüz enkazdan yamanmış bir şehrin sessiz ve sabırlı hükümdarı.</p>
+        <div class="muhur">⚓</div><div><h3>Zaleena</h3><div class="unvan" data-tr="Enkaz Kraliçesi" data-en="Wreck Queen">Enkaz Kraliçesi</div></div>
+        <p data-tr="Yüz enkazdan yamanmış bir şehrin sessiz ve sabırlı hükümdarı." data-en="The quiet, patient ruler of a city patched together from a hundred wrecks.">Yüz enkazdan yamanmış bir şehrin sessiz ve sabırlı hükümdarı.</p>
       </article>
     </div>
   </aside>
@@ -187,6 +191,7 @@
   <noscript>Bu atlası kullanmak için JavaScript'i etkinleştir. Kitabı doğrudan <a href="kitap.html">buradan okuyabilirsin.</a></noscript>
 
   <script src="assets/vendor/gsap.min.js"></script>
-  <script src="assets/js/ana.js?v=14"></script>
+  <script src="assets/js/dil.js?v=1"></script>
+  <script src="assets/js/ana.js?v=15"></script>
 </body>
 </html>

@@ -2,11 +2,15 @@
    (tarayıcının "PDF olarak kaydet" motoruyla; iç bağlantılar PDF'te çalışır) */
 (function () {
   "use strict";
-  var VERI = window.VERRIDIA_KITAP;
+  var dil = window.VerridiaDil ? window.VerridiaDil.get() : "tr";
+  function aktifVeri() {
+    return window.VERRIDIA_AKTIF_KITAP || (dil === "en" ? window.VERRIDIA_KITAP_EN : (window.VERRIDIA_KITAP_TR || window.VERRIDIA_KITAP));
+  }
+  function metin(tr, en) { return dil === "en" ? en : tr; }
   var kok = document.getElementById("pdf-root");
   var modal = document.getElementById("pdf-modal");
   var hazir = document.getElementById("pdf-hazir");
-  if (!VERI || !kok || !modal) return;
+  if (!aktifVeri() || !kok || !modal) return;
 
   var DIJITAL_PDF = {
     "0": "assets/pdf/verridia-birinci-kitap-kizil-hafta-dijital-v1.pdf"
@@ -24,10 +28,10 @@
   /* Soldaki menünün karşılığı: tıklanabilir içindekiler */
   function icindekilerHtml(kitap, bi) {
     var h = '<section class="pdf-icindekiler">' +
-            '<div class="pdf-ic-baslik">İÇİNDEKİLER</div>' +
+            '<div class="pdf-ic-baslik">' + metin('İÇİNDEKİLER', 'CONTENTS') + '</div>' +
             '<div class="pdf-ic-sus">✦ ✦ ✦</div>';
     kitap.kisimlar.forEach(function (kisim, ki) {
-      h += '<div class="pdf-ic-kisim"><span class="no">' + (ki + 1) + '. KISIM</span> ' + kisim.ad + '</div><ul>';
+      h += '<div class="pdf-ic-kisim"><span class="no">' + (ki + 1) + '. ' + metin('KISIM', 'PART') + '</span> ' + kisim.ad + '</div><ul>';
       kisim.bolumler.forEach(function (b) {
         h += '<li><a href="#' + bid(bi, ki, b.no) + '"><span class="b-no">' + b.no + ".</span> " + b.ad + "</a></li>";
       });
@@ -45,11 +49,11 @@
     h += icindekilerHtml(kitap, bi);
     kitap.kisimlar.forEach(function (kisim, ki) {
       h += '<section class="pdf-kisim-bolucu">' +
-           '<div class="pdf-kisim-no">' + (ki + 1) + ". Kısım</div>" +
+           '<div class="pdf-kisim-no">' + (ki + 1) + ". " + metin('Kısım', 'Part') + "</div>" +
            '<div class="pdf-kisim-ad">' + kisim.ad + "</div></section>";
       kisim.bolumler.forEach(function (b) {
         h += '<article class="pdf-bolum" id="' + bid(bi, ki, b.no) + '">' +
-             '<div class="pdf-bolum-no">Bölüm ' + b.no + "</div>" +
+             '<div class="pdf-bolum-no">' + metin('Bölüm ', 'Chapter ') + b.no + "</div>" +
              '<h2 class="pdf-bolum-ad">' + b.ad + "</h2>" +
              povChip(b.pov) +
              '<div class="pdf-govde">' + b.html + "</div></article>";
@@ -59,6 +63,8 @@
   }
 
   function yazdir(secim) {
+    var VERI = aktifVeri();
+    if (!VERI) return;
     if (hazir) hazir.classList.add("acik");
     kapat();
 
@@ -67,9 +73,9 @@
       if (secim === "all") {
         html = '<div class="pdf-kapak pdf-seri-kapak"><div class="pdf-seri">VERRIDIA</div>' +
                '<div class="pdf-kitap-ad">VERRIDIA</div>' +
-               '<div class="pdf-alt">Üçleme — Bütün Kitaplar</div></div>';
+               '<div class="pdf-alt">' + metin('Üçleme — Bütün Kitaplar', 'The Complete Trilogy') + '</div></div>';
         VERI.kitaplar.forEach(function (k, bi) { html += kitapHtml(k, bi); });
-        baslik = "Verridia — Üçleme";
+        baslik = metin("Verridia — Üçleme", "Verridia — The Complete Trilogy");
       } else {
         var bi = +secim;
         html = kitapHtml(VERI.kitaplar[bi], bi);
@@ -97,6 +103,7 @@
   }
 
   function dijitalIndir(secim) {
+    if (dil !== "tr") return false;
     var adres = DIJITAL_PDF[secim];
     if (!adres) return false;
 
@@ -123,6 +130,11 @@
     b.addEventListener("click", function () {
       if (!dijitalIndir(b.dataset.kitap)) yazdir(b.dataset.kitap);
     });
+  });
+
+  window.addEventListener("verridia:dil", function (e) {
+    dil = e.detail && e.detail.dil === "en" ? "en" : "tr";
+    kapat();
   });
 
   if (location.hash === "#indir") setTimeout(ac, 400);

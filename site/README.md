@@ -18,6 +18,8 @@
   kısa saha notu değişir; harita işareti yalnız o anda belirginleşir. Dünya ve Dört Yol, deri sırtlı fiziksel
   arşiv dosyaları gibi açılır. Mobilde okunabilir alanı korumak için harita tam ekran kalır.
 - **kitap.html** — kitap okuyucu: 3 kitap / 17 kısım / 358 bölüm.
+  - Üst bardaki TR / EN seçiciyle Türkçe külliyat ile tamamlanmış İngilizce Birinci Kitap arasında anında geçiş
+  - Dil tercihi ve her dilde kalınan bölüm ayrı ayrı otomatik hatırlanır
   - Sol ağaç menü (kitap → kısım → bölüm), ☰ ile açılıp kapanır
   - A− / A+ yazı boyutu, ☀/☾ gece–sepya tema
   - ← → klavye ile bölüm geçişi, üstte okuma ilerleme çubuğu
@@ -31,7 +33,8 @@ Romana yeni bölüm yazıldığında siteye yansıtmak için proje kökünde şu
 node site/build_kitap.js
 ```
 
-Bu komut `roman/` klasörünü tarayıp `site/assets/js/kitap-data.js` dosyasını yeniden üretir.
+Bu komut Türkçe `roman/` ve İngilizce `roman_en/book1/` klasörlerini tarayıp
+`site/assets/js/kitap-data.js` ile `site/assets/js/kitap-data-en.js` dosyalarını yeniden üretir.
 Yeni bir Kısım klasörü açılırsa `site/build_kitap.js` içindeki `YAPI` listesine eklenmeli.
 
 ## Dosya düzeni
@@ -44,8 +47,10 @@ site/
     css/stil.css        ← ana sayfa stili
     css/kitap.css       ← okuyucu stili
     js/ana.js           ← atlas kamerası, bölge seçimi, scroll-video ve yan paneller
+    js/dil.js           ← ortak TR / EN tercihi ve arayüz çevirileri
     js/okuyucu.js       ← okuyucu mantığı
     js/kitap-data.js    ← OTOMATİK ÜRETİLİR — elle düzenleme
+    js/kitap-data-en.js ← İngilizce Birinci Kitap — OTOMATİK ÜRETİLİR
     img/                ← harita + mekân görselleri + masa-verridia-v1.webp savaş masası
     video/              ← mekân geçiş videoları (mp4 — GIF'e çevrilmedi, gerek yok)
 ```
