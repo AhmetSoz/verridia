@@ -1,9 +1,18 @@
 # tek dosya paketleyici: bolum01.js + bolum01.html -> oyna-bolum1.html (+ site/oyna.html)
 import io, re, os, shutil, subprocess, sys
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
-subprocess.run(["npx","esbuild","bolum01.js","--bundle","--format=iife","--minify",
-                "--outfile=b1bundle.js"], check=True, shell=(os.name=="nt"))
-b = io.open("b1bundle.js", encoding="utf-8").read().replace("</script", "<\/script")
+calisma = os.path.dirname(os.path.abspath(__file__))
+# esbuild'in Windows baslaticisi Unicode calisma yolunu kimi sistemlerde yanlis
+# kodluyor (Masaustu -> Masaustu mojibake). 8.3 yol ayni klasore kayipsiz ulasir.
+if os.name == "nt":
+    import ctypes
+    buf = ctypes.create_unicode_buffer(32768)
+    if ctypes.windll.kernel32.GetShortPathNameW(calisma, buf, len(buf)):
+        calisma = buf.value
+os.chdir(calisma)
+npx = shutil.which("npx.cmd" if os.name == "nt" else "npx") or "npx"
+subprocess.run([npx,"esbuild","./bolum01.js","--bundle","--format=iife","--minify",
+                "--outfile=b1bundle.js"], check=True)
+b = io.open("b1bundle.js", encoding="utf-8").read().replace("</script", r"<\/script")
 h = io.open("bolum01.html", encoding="utf-8").read()
 h = re.sub(r'<script type="importmap">.*?</script>', '', h, flags=re.S)
 h = h.replace('<script type="module" src="./bolum01.js"></script>', '<script>\n'+b+'\n</script>')
